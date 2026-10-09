@@ -19,6 +19,7 @@ import concurrent.futures as cf
 import csv
 import datetime as dt
 import gzip
+import http.client
 import json
 import pathlib
 import re
@@ -109,8 +110,8 @@ def get(url, accept, lingua="por", tentativas=5):
                 if e.code in (429, 503):
                     with _bloqueio:
                         _pausa_global["ate"] = max(_pausa_global["ate"], time.monotonic() + 30 * (n + 1))
-            except (urllib.error.URLError, TimeoutError, ConnectionError, OSError):
-                pass
+            except (urllib.error.URLError, TimeoutError, ConnectionError, OSError, http.client.HTTPException):
+                pass  # inclui IncompleteRead em documentos muito grandes: tenta outra vez
             time.sleep(2 ** (n + 1))
         else:
             return 0, "", b""
@@ -120,7 +121,8 @@ def get(url, accept, lingua="por", tentativas=5):
 def conteudo(celex, lingua="por"):
     """(texto, formato) do acto na língua pedida: XHTML, HTML ou, em último caso, PDF -> texto."""
     url = CELLAR + urllib.parse.quote(celex, safe="")
-    for aceitar, fmt in (("application/xhtml+xml", "html"), ("text/html", "html"), ("application/pdf", "pdf")):
+    for aceitar, fmt in (("application/xhtml+xml", "html"), ("text/html", "html"), ("application/pdf", "pdf"),
+                         ("application/msword", "doc")):
         estado, ctype, corpo = get(url, aceitar, lingua)
         if estado == 300:
             partes = []
@@ -130,12 +132,13 @@ def conteudo(celex, lingua="por"):
                     partes.append(c2)
             if not partes:
                 continue
-            if fmt == "pdf":
-                return "\n\n".join(pdf_texto(p) for p in partes), "pdf"
+            if fmt in ("pdf", "doc"):
+                conv = pdf_texto if fmt == "pdf" else doc_texto
+                return "\n\n".join(conv(p) for p in partes), fmt
             return sem_imagens("\n".join(p.decode("utf-8", "replace") for p in partes)), fmt
         if estado == 200 and corpo:
-            if fmt == "pdf":
-                return pdf_texto(corpo), "pdf"
+            if fmt in ("pdf", "doc"):
+                return (pdf_texto if fmt == "pdf" else doc_texto)(corpo), fmt
             return sem_imagens(corpo.decode("utf-8", "replace")), fmt
     return None, None
 
@@ -147,6 +150,19 @@ def sem_imagens(html):
     """Retira imagens embutidas em base64 (os regulamentos UNECE chegam a 27 MB só disso);
     o Markdown mostra-as como [imagem]."""
     return RE_IMAGEM_EMBUTIDA.sub("data:removida", html)
+
+
+def doc_texto(dados):
+    """Word (.doc) -> texto, com o LibreOffice sem interface (um perfil por fio de execução)."""
+    with tempfile.TemporaryDirectory() as d:
+        f = pathlib.Path(d) / "a.doc"
+        f.write_bytes(dados)
+        perfil = pathlib.Path(tempfile.gettempdir()) / f"lo-perfil-{threading.get_ident()}"
+        subprocess.run(["soffice", "--headless", f"-env:UserInstallation=file://{perfil}",
+                        "--convert-to", "txt:Text (encoded):UTF8", "--outdir", d, str(f)],
+                       capture_output=True, timeout=300)
+        txt = pathlib.Path(d) / "a.txt"
+        return txt.read_text(encoding="utf-8", errors="replace").lstrip("\ufeff") if txt.exists() else ""
 
 
 def pdf_texto(dados):
@@ -299,7 +315,40 @@ def cmd_descarregar(fios=8, so=None, limite=None):
 # Conversão
 # ---------------------------------------------------------------------------
 
+LIMIAR_LEVE = 30_000_000   # caracteres de HTML a partir dos quais não se constrói a árvore
+LIMITE_FICHEIRO = 45_000_000  # bytes; o GitHub recusa ficheiros acima de 100 MB
+
+
+def _leve(html):
+    """Conversão simplificada para documentos enormes (tabelas de centenas de MB): retira as
+    marcas com expressões regulares em vez de construir a árvore HTML, que não cabe em memória."""
+    import html as html_lib
+    t = re.sub(r"(?is)<(script|style|head)\b.*?</\1>", "", html)
+    t = re.sub(r"(?i)<br\s*/?>", "\n", t)
+    t = re.sub(r"(?i)</(p|div|h[1-6]|li|tr|table|caption)>", "\n", t)
+    t = re.sub(r"(?i)</t[dh]>", " | ", t)
+    t = re.sub(r"<[^>]+>", "", t)
+    t = html_lib.unescape(t)
+    out = []
+    for linha in t.split("\n"):
+        linha = re.sub(r"[ \t\xa0]+", " ", linha).strip(" |")
+        if not linha:
+            continue
+        if re.match(r"^Artigo \d+\.?\s*[ºo°]?(-[A-Z])?$", linha):
+            out.append("### " + eurlex._normalizar_artigo(linha))
+        elif re.match(r"^(ANEXO|CAPÍTULO|TÍTULO|PARTE|SECÇÃO)\b", linha) and len(linha) < 80:
+            out.append("## " + linha)
+        else:
+            out.append(linha)
+    return "\n\n".join(out)
+
+
 def _corpo(texto, formato):
+    if formato == "doc":
+        pars = [re.sub(r"[ \t\xa0]+", " ", l).strip() for l in texto.splitlines()]
+        return {"alteracoes": [], "preambulo": "", "dispositivo": "\n\n".join(p for p in pars if p)}
+    if formato != "pdf" and len(texto) > LIMIAR_LEVE:
+        return {"alteracoes": [], "preambulo": "", "dispositivo": _leve(texto), "leve": True}
     if formato == "pdf":
         t = re.sub(r"[ \t]+\n", "\n", texto)
         return {"alteracoes": [], "preambulo": "", "dispositivo": "```text\n" + t.strip() + "\n```"}
@@ -325,13 +374,14 @@ def converter_um(a, rel_corpus, so_novos=False):
         reg = json.load(fh)
     destino.parent.mkdir(parents=True, exist_ok=True)
     if "texto" not in reg:
-        estado = "sem texto no Cellar (PT, EN, FR, DE)"
+        estado = "sem texto no Cellar (PT, EN, FR, DE; HTML, PDF, Word)"
         corpo_md = ""
         partes = {"alteracoes": [], "preambulo": ""}
     else:
         partes = _corpo(reg["texto"], reg.get("formato"))
         corpo_md = partes["dispositivo"].strip()
-        estado = ("consolidado" if reg.get("versao") else "original (JO)") + (" — PDF" if reg.get("formato") == "pdf" else "")
+        estado = ("consolidado" if reg.get("versao") else "original (JO)") + \
+            {"pdf": " — PDF", "doc": " — Word"}.get(reg.get("formato"), "")
         if reg.get("lingua"):
             estado += f" — em {reg['lingua']}"
     fm = {
@@ -367,6 +417,8 @@ def converter_um(a, rel_corpus, so_novos=False):
     if reg.get("lingua"):
         nome = {"eng": "inglês", "fra": "francês", "deu": "alemão"}[reg["lingua"]]
         ls += [f"**Língua:** o Cellar não tem este acto em português; o texto abaixo está em **{nome}**.", ""]
+    if reg.get("formato") == "doc":
+        ls += ["**Formato:** o Cellar só tem este texto em ficheiro Word; foi extraído automaticamente.", ""]
     if reg.get("formato") == "pdf":
         ls += ["**Formato:** o Cellar só tem este texto em PDF; foi extraído automaticamente e pode ter "
                "quebras de linha e tabelas desalinhadas.", ""]
@@ -382,23 +434,64 @@ def converter_um(a, rel_corpus, so_novos=False):
     if corpo_md:
         ls += ["## Texto", "", corpo_md]
     elif "texto" not in reg:
-        ls += ["O Cellar não tem texto deste acto em português, inglês, francês ou alemão (nem HTML nem "
-               "PDF). Nos artigos isolados dos Tratados, o texto está na versão consolidada do Tratado "
+        ls += ["O Cellar não tem texto deste acto em português, inglês, francês ou alemão (nem HTML, nem "
+               "PDF, nem Word). Nos artigos isolados dos Tratados, o texto está na versão consolidada do Tratado "
                "respectivo. Ver o EUR-Lex.", ""]
-    destino.write_text(eurlex._frontmatter(fm) + "\n".join(ls).rstrip() + "\n", encoding="utf-8")
+    if partes.get("leve"):
+        ls.insert(2, "**Conversão simplificada:** documento muito grande (tabelas extensas); o texto foi "
+                     "extraído sem a estrutura de listas e tabelas. As células de tabela vêm separadas por `|`.\n")
+    escrever_em_partes(destino, eurlex._frontmatter(fm) + "\n".join(ls).rstrip() + "\n")
     fut = destino.with_name(f"{nome_ficheiro(a['celex'])}.futuro.md")
     if reg.get("futuro_texto"):
         pf = _corpo(reg["futuro_texto"], reg.get("futuro_formato"))
         fmf = {"celex": a["celex"], "versao_consolidada": reg["futuro_versao"], "aplicavel_desde": reg["futuro_data"],
                "nota": "Versão consolidada já publicada que só se aplica a partir da data indicada.",
                "url_eurlex": eurlex.url_eurlex(reg["futuro_versao"]), "obtido_em": reg.get("obtido_em")}
-        fut.write_text(eurlex._frontmatter(fmf) + f"# {a.get('titulo') or a['celex']} — versão aplicável a partir de "
-                       f"{reg['futuro_data']}\n\n## Texto\n\n" + pf["dispositivo"].strip() + "\n", encoding="utf-8")
+        escrever_em_partes(fut, eurlex._frontmatter(fmf) + f"# {a.get('titulo') or a['celex']} — versão aplicável "
+                           f"a partir de {reg['futuro_data']}\n\n## Texto\n\n" + pf["dispositivo"].strip() + "\n")
     elif fut.exists():
         fut.unlink()
     return {"celex": a["celex"], "ficheiro": str(destino.relative_to(RAIZ)), "estado": a["estado"], "texto": estado,
             "versao": reg.get("versao_data") or "", "futuro": reg.get("futuro_data") or "",
             "kb": destino.stat().st_size // 1024}
+
+
+def escrever_em_partes(destino, texto):
+    """Escreve o ficheiro; acima de LIMITE_FICHEIRO divide-o em <nome>.parte-N.md (pelas linhas)."""
+    for antigo in destino.parent.glob(destino.name[:-3] + ".parte-*.md"):
+        antigo.unlink()
+    dados = texto.encode("utf-8")
+    if len(dados) <= LIMITE_FICHEIRO:
+        destino.write_bytes(dados)
+        return
+    partes, atual, tam = [], [], 0
+    for linha in texto.splitlines(keepends=True):
+        n = len(linha.encode("utf-8"))
+        if tam + n > LIMITE_FICHEIRO - 2000 and atual:
+            partes.append("".join(atual))
+            atual, tam = [], 0
+        atual.append(linha)
+        tam += n
+    partes.append("".join(atual))
+    base = destino.name[:-3]
+    nomes = [destino.name] + [f"{base}.parte-{i}.md" for i in range(2, len(partes) + 1)]
+    aviso = (f"\n\n> Este acto é demasiado grande para um só ficheiro: está dividido em {len(partes)} partes "
+             f"({', '.join(nomes)}).\n")
+    destino.write_text(partes[0] + aviso, encoding="utf-8")
+    for i, parte in enumerate(partes[1:], 2):
+        (destino.parent / f"{base}.parte-{i}.md").write_text(
+            f"<!-- {base} — parte {i} de {len(partes)} -->\n\n" + parte, encoding="utf-8")
+
+
+def _tamanho_cache(celex):
+    """Tamanho descomprimido do registo em cache (lido do fim do ficheiro gzip)."""
+    import struct
+    c = _cache(celex)
+    if not c.exists():
+        return 0
+    with open(c, "rb") as fh:
+        fh.seek(-4, 2)
+        return struct.unpack("<I", fh.read(4))[0]
 
 
 def mapa_corpus():
@@ -417,11 +510,17 @@ def cmd_converter(fios=4, so=None, so_novos=False):
     corpus = mapa_corpus()
     alvo = [a for a in actos.values() if not so or a["celex"] in so]
     linhas = []
-    with cf.ProcessPoolExecutor(max_workers=fios) as ex:
-        for r in ex.map(converter_um, alvo, [corpus.get(a["celex"]) for a in alvo], [so_novos] * len(alvo),
-                        chunksize=50):
+    gigantes = [a for a in alvo if _tamanho_cache(a["celex"]) > LIMIAR_LEVE]
+    normais = [a for a in alvo if a not in gigantes] if gigantes else alvo
+    with cf.ProcessPoolExecutor(max_workers=fios, max_tasks_per_child=200) as ex:
+        for r in ex.map(converter_um, normais, [corpus.get(a["celex"]) for a in normais],
+                        [so_novos] * len(normais), chunksize=20):
             if r:
                 linhas.append(r)
+    for a in gigantes:  # um de cada vez, no processo principal, para não esgotar a memória
+        r = converter_um(a, corpus.get(a["celex"]), so_novos)
+        if r:
+            linhas.append(r)
     # Índice: substitui as linhas convertidas agora e mantém as restantes.
     antigas = {}
     if INDICE.exists() and so:
@@ -447,7 +546,7 @@ def remover_obsoletos():
     validos = {nome_ficheiro(c) for c in actos}
     removidos = []
     for f in SAIDA.glob("*/*/*.md"):
-        base = f.name[:-3].removesuffix(".futuro")
+        base = re.sub(r"\.parte-\d+$", "", f.name[:-3]).removesuffix(".futuro")
         if base not in validos:
             removidos.append(str(f.relative_to(RAIZ)))
             f.unlink()
