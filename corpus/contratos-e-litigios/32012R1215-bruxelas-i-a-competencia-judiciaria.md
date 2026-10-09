@@ -1,0 +1,1079 @@
+---
+celex: 32012R1215
+nome_curto: Bruxelas I-A (competência judiciária)
+tipo: Regulamento
+titulo: Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial (reformulação)
+data_documento: '2012-12-12'
+em_vigor: true
+entrada_em_vigor:
+- '2013-01-09'
+- '2014-01-10'
+- '2015-01-10'
+texto: consolidado
+versao_consolidada: 02012R1215-20150226
+versao_aplicavel_desde: '2015-02-26'
+eli: http://data.europa.eu/eli/reg/2012/1215/oj
+repertorio:
+- 19.20 Cooperação judiciária em matéria civil
+url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012R1215
+url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02012R1215-20150226
+lingua: pt
+fonte: cellar:application/xhtml+xml
+obtido_em: '2026-10-09'
+---
+
+# Regulamento 32012R1215 — Bruxelas I-A (competência judiciária)
+
+**Título oficial:** Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial (reformulação)
+
+**Texto:** versão consolidada aplicável desde 2015-02-26 (02012R1215-20150226).
+
+> Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
+
+**Considerandos (preâmbulo):** ficheiro `32012R1215-bruxelas-i-a-competencia-judiciaria.considerandos.md`.
+
+**Contexto** (sínteses oficiais, transposição em Portugal, jurisprudência do TJUE): ficheiro `32012R1215-bruxelas-i-a-competencia-judiciaria.contexto.md`.
+
+**EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012R1215
+
+## Alterações incorporadas nesta versão
+
+No texto, ▼M1/►M1 marcam disposições alteradas pelo acto M1 (e assim por diante), ▼C1 marca rectificações, ▼A1 actos de adesão e ▼B o texto de base.
+
+- ►M1 REGULAMENTO (UE) N.º 542/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014 — L 163 — 1 — 29.5.2014 (CELEX 32014R0542)
+- ►M2 REGULAMENTO DELEGADO (UE) 2015/281 DA COMISSÃO de 26 de novembro de 2014 — L 54 — 1 — 25.2.2015 (CELEX 32015R0281)
+- ►C1 Rectificação, JO L 038, 11.2.2020, p. 39 (1215/2012) (CELEX 32012R1215R(07))
+
+## Texto
+
+▼B
+
+REGULAMENTO (UE) N.º 1215/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 12 de dezembro de 2012
+
+relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial
+
+(reformulação)
+
+## CAPÍTULO I — ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+
+### Artigo 1.º
+
+1. O presente regulamento aplica-se em matéria civil e comercial, independentemente da natureza da jurisdição. Não abrange, nomeadamente, as matérias fiscais, aduaneiras ou administrativas, nem a responsabilidade do Estado por atos ou omissões no exercício da autoridade do Estado («acta jure imperii»).
+
+2. O presente regulamento não se aplica:
+
+- a) Ao estado e à capacidade jurídica das pessoas singulares ou aos regimes de bens do casamento ou de relações que, de acordo com a lei que lhes é aplicável, produzem efeitos comparáveis ao casamento;
+
+- b) Às falências, concordatas e processos análogos;
+
+- c) À segurança social;
+
+- d) À arbitragem;
+
+- e) Às obrigações de alimentos decorrentes de uma relação familiar, parentesco, casamento ou afinidade;
+
+- f) Aos testamentos e sucessões, incluindo as obrigações de alimentos resultantes do óbito.
+
+### Artigo 2.º
+
+Para efeitos do presente regulamento entende-se por:
+
+- a) «Decisão», qualquer decisão proferida por um tribunal de um Estado-Membro, independentemente da designação que lhe for dada, tal como acórdão, sentença, despacho judicial ou mandado de execução, bem como as decisões de fixação do montante das custas do processo pela secretaria do tribunal.
+
+  Para efeitos do capítulo III, o termo «decisão» abrange as medidas provisórias, incluindo as medidas cautelares, decididas por um tribunal que, por força do presente regulamento, é competente para conhecer do mérito da causa. Não abrange as medidas provisórias, incluindo as medidas cautelares, impostas por esse tribunal sem que o requerido seja notificado para comparecer a menos que a decisão que contém a medida seja notificada ao requerido antes da execução;
+
+- b) «Transação judicial», uma transação aprovada por um tribunal de um Estado-Membro ou celebrada perante o tribunal de um Estado-Membro no decurso do processo;
+
+- c) «Instrumento autêntico», um documento exarado ou registado como instrumento autêntico no Estado-Membro de origem e cuja autenticidade:
+
+  - i) se relacione com a assinatura e o conteúdo do instrumento, e
+
+  - ii) tenha sido confirmada por uma autoridade pública ou outra autoridade habilitada para esse efeito;
+
+- d) «Estado-Membro de origem», o Estado-Membro em que, consoante o caso, a decisão tenha sido proferida, a transação judicial aprovada ou celebrada ou o instrumento autêntico formalmente exarado ou registado;
+
+- e) «Estado-Membro requerido», o Estado-Membro em que é invocado o reconhecimento da decisão ou em que é requerida a execução da decisão, da transação judicial ou do instrumento autêntico;
+
+- f) «Tribunal de origem», o tribunal que tiver proferido a decisão cujo reconhecimento é invocado ou, se for o caso, cuja execução é requerida.
+
+### Artigo 3.º
+
+Para efeitos do presente regulamento, «tribunal» compreende as seguintes autoridades na medida em que tenham competência em matérias abrangidas pelo presente regulamento:
+
+- a) Na Hungria, em processos sumários de «injunção de pagamento» (fizetési meghagyásos eljárás), o notário (közjegyző);
+
+- b) Na Suécia, em processos sumários de «injunção de pagamento» (betalningsföreläggande) e «pedidos de assistência» (handräckning), a Autoridade de Execução (Kronofogdemyndigheten).
+
+## CAPÍTULO II — COMPETÊNCIA
+
+## SECÇÃO 1 — Disposições gerais
+
+### Artigo 4.º
+
+1. Sem prejuízo do disposto no presente regulamento, as pessoas domiciliadas num Estado-Membro devem ser demandadas, independentemente da sua nacionalidade, nos tribunais desse Estado-Membro.
+
+2. As pessoas que não possuam a nacionalidade do Estado-Membro em que estão domiciliadas ficam sujeitas, nesse Estado-Membro, às regras de competência aplicáveis aos nacionais.
+
+### Artigo 5.º
+
+1. As pessoas domiciliadas num Estado-Membro só podem ser demandadas nos tribunais de outro Estado-Membro nos termos das regras enunciadas nas secções 2 a 7 do presente capítulo.
+
+2. Em especial, as regras de competência nacionais notificadas pelos Estados-Membros à Comissão nos termos do artigo 76.º, n.º 1, alínea a), não se aplicam às pessoas a que se refere o n.º 1.
+
+### Artigo 6.º
+
+1. Se o requerido não tiver domicílio num Estado-Membro, a competência dos tribunais de cada Estado-Membro é, sem prejuízo do artigo 18.º, n.º 1, do artigo 21.º, n.º 2, e dos artigos 24.º e 25.º, regida pela lei desse Estado-Membro.
+
+2. Qualquer pessoa com domicílio num Estado-Membro pode, independentemente da sua nacionalidade, invocar contra um requerido que não tenha domicílio nesse Estado-Membro as regras de competência que nele estejam em vigor, nomeadamente as notificadas pelos Estados-Membros à Comissão nos termos do artigo 76.º, n.º 1, alínea a), do mesmo modo que os nacionais desse Estado-Membro.
+
+## SECÇÃO 2 — Competências especiais
+
+### Artigo 7.º
+
+As pessoas domiciliadas num Estado-Membro podem ser demandadas noutro Estado-Membro:
+
+- 1)
+
+  - a) Em matéria contratual, perante o tribunal do lugar onde foi ou deva ser cumprida a obrigação em questão;
+
+  - b) Para efeitos da presente disposição e salvo convenção em contrário, o lugar de cumprimento da obrigação em questão será:
+
+    - — no caso da venda de bens, o lugar num Estado-Membro onde, nos termos do contrato, os bens foram ou devam ser entregues,
+
+    - — no caso da prestação de serviços, o lugar num Estado-Membro onde, nos termos do contrato, os serviços foram ou devam ser prestados;
+
+  - c) Se não se aplicar a alínea b), será aplicável a alínea a);
+
+- 2) Em matéria extracontratual, perante o tribunal do lugar onde ocorreu ou poderá ocorrer o facto danoso;
+
+- 3) Se se tratar de ação de indemnização ou de ação de restituição fundadas em infração penal, perante o tribunal em que foi intentada a ação pública, na medida em que, de acordo com a sua lei, esse tribunal possa conhecer da ação cível;
+
+- 4) Se se tratar de ação cível, fundada no direito de propriedade, destinada à recuperação de um objeto cultural na aceção do artigo 1.º, n.º 1, da Diretiva 93/7/CEE, intentada pela pessoa que reclama o direito de recuperar um tal objeto, no tribunal do lugar em que esteja situado o objeto no momento em que o tribunal for demandado;
+
+- 5) Se se tratar de um litígio relativo à exploração de uma sucursal, de uma agência ou de qualquer outro estabelecimento, perante o tribunal do lugar em que tal sucursal, agência ou estabelecimento se encontram;
+
+- 6) Se se tratar de um litígio contra um fundador, trustee ou beneficiário de um trust constituído, quer nos termos da lei, quer por escrito ou por acordo verbal confirmado por escrito, nos tribunais do Estado-Membro onde o trust tem o seu domicílio;
+
+- 7) Se se tratar de um litígio relativo a reclamação sobre remuneração devida por assistência ou salvamento de que tenha beneficiado uma carga ou um frete, perante o tribunal em cuja jurisdição essa carga ou frete:
+
+  - a) Tenha sido arrestado para garantir esse pagamento; ou
+
+  - b) Poderia ter sido arrestado, para esse efeito, se não tivesse sido prestada caução ou outra garantia,
+
+  desde que a presente disposição só se aplique caso se alegue que o requerido tem direito sobre a carga ou frete ou que tinha tal direito no momento daquela assistência ou salvamento.
+
+### Artigo 8.º
+
+Uma pessoa com domicílio no território de um Estado-Membro pode também ser demandada:
+
+- 1) Se houver vários requeridos, perante o tribunal do domicílio de qualquer um deles, desde que os pedidos estejam ligados entre si por um nexo tão estreito que haja interesse em que sejam instruídos e julgados simultaneamente para evitar decisões que poderiam ser inconciliáveis se as causas fossem julgadas separadamente;
+
+- 2) Se se tratar de chamamento de um garante à ação ou de qualquer incidente de intervenção de terceiros, no tribunal onde foi intentada a ação principal, salvo se esta tiver sido proposta apenas com o intuito de subtrair o terceiro à jurisdição do tribunal que seria competente nesse caso;
+
+- 3) Se se tratar de um pedido reconvencional que derive do contrato ou do facto em que se fundamenta a ação principal, no tribunal onde esta última estiver pendente;
+
+- 4) Em matéria contratual, se a ação puder ser apensada a uma ação em matéria de direitos reais sobre imóveis dirigida contra o mesmo requerido, no tribunal do Estado-Membro em cujo território está situado o imóvel.
+
+### Artigo 9.º
+
+Se, por força do presente regulamento, um tribunal de um Estado-Membro for competente para conhecer das ações relativas a responsabilidade decorrente da utilização ou da exploração de um navio, esse tribunal, ou qualquer outro que, segundo a lei interna do mesmo Estado-Membro, se lhe substitua, será também competente para conhecer dos pedidos relativos à limitação daquela responsabilidade.
+
+## SECÇÃO 3 — Competência em matéria de seguros
+
+### Artigo 10.º
+
+Em matéria de seguros, a competência é determinada pela presente secção, sem prejuízo do disposto no artigo 6.º e no artigo 7.º, ponto 5.
+
+### Artigo 11.º
+
+1. O segurador domiciliado no território de um Estado-Membro pode ser demandado:
+
+- a) Nos tribunais do Estado-Membro em que tiver domicílio;
+
+- b) Noutro Estado-Membro, em caso de ações intentadas pelo tomador de seguro, o segurado ou um beneficiário, no tribunal do lugar em que o requerente tiver o seu domicílio; ou
+
+- c) Tratando-se de um cossegurador, no tribunal de um Estado-Membro onde tiver sido intentada ação contra o segurador principal.
+
+2. O segurador que, não tendo domicílio num Estado-Membro, possua sucursal, agência ou qualquer outro estabelecimento num Estado-Membro será considerado, quanto aos litígios relativos à exploração de tal sucursal, agência ou estabelecimento, como tendo domicílio nesse Estado-Membro.
+
+### Artigo 12.º
+
+O segurador pode também ser demandado no tribunal do lugar onde o facto danoso ocorreu quando se trate de um seguro de responsabilidade civil ou de um seguro que tenha por objeto bens imóveis. Aplica-se a mesma regra caso se trate de um seguro que incida simultaneamente sobre bens móveis e imóveis cobertos pela mesma apólice e atingidos pelo mesmo sinistro.
+
+### Artigo 13.º
+
+1. Em matéria de seguros de responsabilidade civil, o segurador pode também ser chamado à ação no processo intentado pelo lesado contra o segurado, desde que a lei desse tribunal o permita.
+
+2. O disposto nos artigos 10.º, 11.º e 12.º aplica-se no caso de ação intentada pelo lesado diretamente contra o segurador, desde que tal ação direta seja possível.
+
+3. Se o direito aplicável a essa ação direta previr o incidente do chamamento do tomador do seguro ou do segurado, o mesmo tribunal será igualmente competente quanto a eles.
+
+### Artigo 14.º
+
+1. Sem prejuízo do disposto no artigo 13.º, n.º 3, o segurador só pode intentar uma ação nos tribunais do Estado-Membro em que estiver domiciliado o requerido, quer este seja tomador do seguro, segurado ou beneficiário.
+
+2. O disposto na presente secção não prejudica o direito de formular um pedido reconvencional no tribunal em que, nos termos da presente secção, tiver sido intentada a ação principal.
+
+### Artigo 15.º
+
+As partes só podem derrogar ao disposto na presente secção por acordos que:
+
+- 1) Sejam posteriores ao surgimento do litígio;
+
+- 2) Permitam ao tomador do seguro, ao segurado ou ao beneficiário recorrer a tribunais que não sejam os indicados na presente secção;
+
+- 3) Sejam celebrados entre um tomador do seguro e um segurador, ambos com domicílio ou residência habitual num mesmo Estado-Membro no momento da celebração do contrato, e tenham por efeito atribuir competência aos tribunais desse Estado-Membro, mesmo que o facto danoso ocorra no estrangeiro, salvo se a lei desse Estado-Membro não permitir tais acordos; ou
+
+- 4) Sejam celebrados por um tomador do seguro que não tenha domicílio num Estado-Membro, salvo se se tratar de um seguro obrigatório ou relativo a imóvel sito num Estado-Membro; ou
+
+- 5) Digam respeito a um contrato de seguro que cubra um ou mais dos riscos enumerados no artigo 16.º.
+
+### Artigo 16.º
+
+Os riscos a que se refere o artigo 15.º, ponto 5, são os seguintes:
+
+- 1) Qualquer dano:
+
+  - a) Em navios de mar, em instalações ao largo da costa ou no alto mar ou em aeronaves, causado por eventos relacionados com a sua utilização para fins comerciais;
+
+  - b) Em mercadorias que não sejam bagagens dos passageiros, durante um transporte total ou parcialmente realizado por aqueles navios ou aeronaves.
+
+- 2) Qualquer responsabilidade, com exceção da relativa aos danos corporais dos passageiros ou à perda ou aos danos nas suas bagagens:
+
+  - a) Resultante da utilização ou da exploração dos navios, instalações ou aeronaves a que se refere o ponto 1, alínea a), desde que, no que respeita a estas últimas, a lei do Estado-Membro de matrícula da aeronave não proíba as cláusulas atributivas de jurisdição no seguro de tais riscos;
+
+  - b) Pela perda ou pelos danos causados em mercadorias durante um transporte nos termos do ponto 1, alínea b).
+
+- 3) Qualquer perda pecuniária relacionada com a utilização ou a exploração dos navios, instalações ou aeronaves a que se refere o ponto 1, alínea a), nomeadamente a perda do frete ou do benefício do afretamento.
+
+- 4) Qualquer risco ou interesse relacionado com um dos indicados nos pontos 1 a 3.
+
+- 5) Não obstante o disposto nos pontos 1 a 4, todos os «grandes riscos» definidos na Diretiva 2009/138/CE do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, relativa ao acesso à atividade de seguros e resseguros e ao seu exercício (Solvência II) ([^1]).
+
+## SECÇÃO 4 — Competência em matéria de contratos de consumo
+
+### Artigo 17.º
+
+1. Em matéria de contrato celebrado por uma pessoa, o consumidor, para finalidade que possa ser considerada estranha à sua atividade comercial ou profissional, a competência é determinada pela presente secção, sem prejuízo do disposto no artigo 6.º e no artigo 7.º, ponto 5, se se tratar de:
+
+- a) Contrato de compra e venda, a prestações, de bens móveis corpóreos;
+
+- b) Contrato de empréstimo reembolsável em prestações, ou outra forma de crédito concedido para financiamento da venda de tais bens; ou
+
+- c) Em todos os outros casos, contrato celebrado com uma pessoa com atividade comercial ou profissional no Estado-Membro do domicílio do consumidor ou que dirija essa atividade, por quaisquer meios, a esse Estado-Membro ou a vários Estados incluindo esse Estado-Membro, desde que o contrato seja abrangido por essa atividade.
+
+2. Caso o consumidor celebre um contrato com uma contraparte que, não tendo domicílio no território de um Estado-Membro, possua uma sucursal, agência ou outro estabelecimento num Estado-Membro, essa contraparte é considerada, quanto aos litígios relativos à exploração de tal sucursal, agência ou estabelecimento, como tendo domicílio no território desse Estado-Membro.
+
+3. A presente secção não se aplica ao contrato de transporte, com exceção dos contratos de fornecimento de uma combinação de viagem e alojamento por um preço global.
+
+### Artigo 18.º
+
+1. O consumidor pode intentar uma ação contra a outra parte no contrato, quer nos tribunais do Estado-Membro onde estiver domiciliada essa parte, quer no tribunal do lugar onde o consumidor tiver domicílio, independentemente do domicílio da outra parte.
+
+2. A outra parte no contrato só pode intentar uma ação contra o consumidor nos tribunais do Estado-Membro em cujo território estiver domiciliado o consumidor.
+
+3. O presente artigo não prejudica o direito de formular um pedido reconvencional no tribunal em que, nos termos da presente secção, tiver sido intentada a ação principal.
+
+### Artigo 19.º
+
+As partes só podem derrogar ao disposto na presente secção por acordos que:
+
+- 1. Sejam posteriores ao surgimento do litígio;
+
+- 2. Permitam ao consumidor recorrer a tribunais que não sejam os indicados na presente secção; ou
+
+- 3. Sejam celebrados entre o consumidor e o seu cocontratante, ambos com domicílio ou residência habitual, no momento da celebração do contrato, num mesmo Estado-Membro, e atribuam competência aos tribunais desse Estado-Membro, salvo se a lei desse Estado-Membro não permitir tais acordos.
+
+## SECÇÃO 5 — Competência em matéria de contratos individuais de trabalho
+
+### Artigo 20.º
+
+1. Em matéria de contrato individual de trabalho, a competência é determinada pela presente secção, sem prejuízo do disposto no artigo 6.º, no artigo 7.º, ponto 5, e, no caso de ação intentada contra a entidade patronal, no artigo 8.º, ponto 1.
+
+2. Se um trabalhador celebrar um contrato individual de trabalho com uma entidade patronal que não tenha domicílio num Estado-Membro mas tenha uma filial, agência ou outro estabelecimento num Estado-Membro, considera-se, quanto aos litígios resultantes do funcionamento dessa filial, agência ou estabelecimento, que a entidade patronal tem o seu domicílio nesse Estado-Membro.
+
+### Artigo 21.º
+
+1. Uma entidade patronal domiciliada num Estado-Membro pode ser demandada:
+
+- a) Nos tribunais do Estado-Membro em que tiver domicílio; ou
+
+- b) Noutro Estado-Membro:
+
+  - i) no tribunal do lugar onde ou a partir do qual o trabalhador efetua habitualmente o seu trabalho, ou no tribunal do lugar onde efetuou mais recentemente o seu trabalho, ou
+
+  - ii) se o trabalhador não efetua ou não efetuava habitualmente o seu trabalho num único país, no tribunal do lugar onde se situa ou se situava o estabelecimento que contratou o trabalhador.
+
+2. Uma entidade patronal não domiciliada num Estado-Membro pode ser demandada nos tribunais de um Estado-Membro nos termos do n.º 1, alínea b).
+
+### Artigo 22.º
+
+1. A entidade patronal só pode intentar uma ação nos tribunais do Estado-Membro em que o trabalhador tiver domicílio.
+
+2. O disposto na presente secção não prejudica o direito de formular um pedido reconvencional no tribunal em que, nos termos da presente secção, tiver sido intentada a ação principal.
+
+### Artigo 23.º
+
+As partes só podem derrogar ao disposto na presente secção por acordos que:
+
+- 1) Sejam posteriores ao surgimento do litígio; ou
+
+- 2) Permitam ao trabalhador recorrer a tribunais que não sejam os indicados na presente secção.
+
+## SECÇÃO 6 — Competências exclusivas
+
+### Artigo 24.º
+
+Têm competência exclusiva os seguintes tribunais de um Estado-Membro, independentemente do domicílio das partes:
+
+- 1) Em matéria de direitos reais sobre imóveis e de arrendamento de imóveis, os tribunais do Estado-Membro onde se situa o imóvel.
+
+  Todavia, em matéria de contratos de arrendamento de imóveis celebrados para uso pessoal temporário por um período máximo de seis meses consecutivos, são igualmente competentes os tribunais do Estado-Membro onde o requerido tiver domicílio, desde que o arrendatário seja uma pessoa singular e o proprietário e o arrendatário tenham domicílio no mesmo Estado-Membro.
+
+- 2) Em matéria de validade da constituição, de nulidade ou de dissolução de sociedades ou de outras pessoas coletivas ou associações de pessoas singulares ou coletivas, ou de validade das decisões dos seus órgãos, os tribunais do Estado-Membro em que a sociedade, pessoa coletiva ou associação tiverem a sua sede. Para determinar essa sede, o tribunal aplica as suas regras de direito internacional privado.
+
+- 3) Em matéria de validade de inscrições em registos públicos, os tribunais do Estado-Membro em que esses registos sejam conservados.
+
+- 4) Em matéria de registo ou validade de patentes, marcas, desenhos e modelos e outros direitos análogos sujeitos a depósito ou a registo, independentemente de a questão ser suscitada por via de ação ou por via de exceção, os tribunais do Estado-Membro onde o depósito ou o registo tiver sido requerido, efetuado ou considerado efetuado nos termos de um instrumento da União ou de uma convenção internacional.
+
+  Sem prejuízo da competência do Instituto Europeu de Patentes ao abrigo da Convenção relativa à Emissão de Patentes Europeias, assinada em Munique em 5 de outubro de 1973, os tribunais de cada Estado-Membro são os únicos competentes em matéria de registo ou de validade das patentes europeias emitidas para esse Estado-Membro.
+
+- 5) Em matéria de execução de decisões, os tribunais do Estado-Membro do lugar da execução.
+
+## SECÇÃO 7 — Extensão de competência
+
+### Artigo 25.º
+
+1. Se as partes, independentemente do seu domicílio, tiverem convencionado que um tribunal ou os tribunais de um Estado-Membro têm competência para decidir quaisquer litígios que tenham surgido ou que possam surgir de uma determinada relação jurídica, esse tribunal ou esses tribunais terão competência, a menos que o pacto seja, nos termos da lei desse Estado-Membro, substantivamente nulo. Essa competência é exclusiva, salvo acordo das partes em contrário. O pacto atributivo de jurisdição deve ser celebrado:
+
+- a) Por escrito ou verbalmente com confirmação escrita;
+
+- b) De acordo com os usos que as partes tenham estabelecido entre si; ou
+
+- c) No comércio internacional, de acordo com os usos que as partes conheçam ou devam conhecer e que, em tal comércio, sejam amplamente conhecidos e regularmente observados pelas partes em contratos do mesmo tipo, no ramo comercial concreto em questão.
+
+2. Qualquer comunicação por via eletrónica que permita um registo duradouro do pacto equivale à «forma escrita».
+
+3. O tribunal ou os tribunais de um Estado-Membro a que o ato constitutivo de um trust atribuir competência têm competência exclusiva para conhecer da ação contra um fundador, um trustee ou um beneficiário do trust, se se tratar de relações entre essas pessoas ou dos seus direitos ou obrigações no âmbito do trust.
+
+4. Os pactos atributivos de jurisdição bem como as estipulações similares de atos constitutivos de trusts não produzem efeitos se forem contrários ao disposto nos artigos 15.º, 19.º ou 23.º, ou se os tribunais cuja competência pretendam afastar tiverem competência exclusiva por força do artigo 24.º.
+
+5. Os pactos atributivos de jurisdição que façam parte de um contrato são tratados como acordo independente dos outros termos do contrato.
+
+A validade dos pactos atributivos de jurisdição não pode ser contestada apenas com o fundamento de que o contrato não é válido.
+
+### Artigo 26.º
+
+1. Para além dos casos em que a competência resulte de outras disposições do presente regulamento, é competente o tribunal de um Estado-Membro no qual o requerido compareça. Esta regra não é aplicável se a comparência tiver como único objetivo arguir a incompetência ou se existir outro tribunal com competência exclusiva por força do artigo 24.º.
+
+2. Nas matérias abrangidas pelas secções 3, 4 e 5, caso o requerido seja o tomador do seguro, o segurado, o beneficiário do contrato de seguro, o lesado, um consumidor ou um trabalhador, o tribunal, antes de se declarar competente ao abrigo do n.º 1, deve assegurar que o requerido seja informado do seu direito de contestar a competência do tribunal e das consequências de comparecer ou não em juízo.
+
+## SECÇÃO 8 — Verificação da competência e da admissibilidade
+
+### Artigo 27.º
+
+O tribunal de um Estado-Membro no qual seja instaurada, a título principal, uma ação relativamente à qual tenha competência exclusiva o tribunal de outro Estado-Membro por força do artigo 24.º, deve declarar-se oficiosamente incompetente
+
+### Artigo 28.º
+
+1. Caso o requerido domiciliado num Estado-Membro seja demandado no tribunal de outro Estado-Membro e não compareça em juízo, o juiz deve declarar-se oficiosamente incompetente, salvo se a sua competência resultar do disposto no presente regulamento.
+
+2. O tribunal suspende a instância enquanto não se verificar que foi dada ao requerido a oportunidade de receber o documento que iniciou a instância, ou documento equivalente, em tempo útil para providenciar pela sua defesa, ou enquanto não se verificar que foram efetuadas todas as diligências necessárias para o efeito.
+
+3. É aplicável o artigo 19.º do Regulamento (CE) n.º 1393/2007 do Parlamento Europeu e do Conselho, de 13 de novembro de 2007, relativo à citação e à notificação dos atos judiciais e extrajudiciais em matérias civil e comercial nos Estados-Membros (citação e notificação de atos) ([^2]), em vez do n.º 2 do presente artigo, se o documento que iniciou a instância, ou documento equivalente, tiver sido transmitido por um Estado-Membro a outro por força daquele regulamento.
+
+4. Caso não seja aplicável o Regulamento (CE) n.º 1393/2007, aplica-se o artigo 15.º da Convenção da Haia, de 15 de novembro de 1965, relativa à citação e à notificação no estrangeiro dos atos judiciais e extrajudiciais em matérias civil e comercial, se o documento que iniciou a instância, ou documento equivalente, tiver sido transmitido ao estrangeiro por força daquela convenção.
+
+## SECÇÃO 9 — Litispendência e conexão
+
+### Artigo 29.º
+
+1. Sem prejuízo do disposto no artigo 31.º, n.º 2, quando ações com a mesma causa de pedir e entre as mesmas partes forem submetidas à apreciação de tribunais de diferentes Estados-Membros, qualquer tribunal que não seja o tribunal demandado em primeiro lugar deve suspender oficiosamente a instância até que seja estabelecida a competência do tribunal demandado em primeiro lugar.
+
+2. Nos casos referidos no n.º 1, a pedido de um tribunal a que ação tenha sido submetida, qualquer outro tribunal demandado deve informar o primeiro tribunal, sem demora, da data em que ação lhe foi submetida nos termos do artigo 32.º.
+
+3. Caso seja estabelecida a competência do tribunal demandado em primeiro lugar, o segundo tribunal deve declarar-se incompetente em favor daquele tribunal.
+
+### Artigo 30.º
+
+1. Se estiverem pendentes ações conexas em tribunais de diferentes Estados-Membros, todos eles podem suspender a instância, com exceção do tribunal demandado em primeiro lugar.
+
+2. Se a ação intentada no tribunal demandado em primeiro lugar estiver pendente em primeira instância, qualquer outro tribunal pode igualmente declarar-se incompetente, a pedido de uma das partes, se o tribunal demandado em primeiro lugar for competente para as ações em questão e a sua lei permitir a respetiva apensação.
+
+3. Para efeitos do presente artigo, consideram-se conexas as ações ligadas entre si por um nexo tão estreito que haja interesse em que sejam instruídas e julgadas em conjunto para evitar decisões eventualmente inconciliáveis se as causas fossem julgadas separadamente.
+
+### Artigo 31.º
+
+1. Se as ações forem da competência exclusiva de vários tribunais, todos eles devem declarar-se incompetentes em favor do tribunal demandado em primeiro lugar.
+
+2. Sem prejuízo do artigo 26.º, se for demandado um tribunal de um Estado-Membro ao qual é atribuída competência exclusiva por um pacto referido no artigo 25.º, os tribunais dos outros Estados-Membros devem suspender a instância até ao momento em que o tribunal demandado com base nesse pacto declare que não é competente for força do mesmo.
+
+3. Se o tribunal designado no pacto se atribuir competência por força desse pacto, os tribunais dos outros Estados-Membros devem declarar-se incompetentes a favor desse tribunal.
+
+4. Os n.ºs 2 e 3 não se aplicam às matérias regidas pelas secções 3, 4 e 5 caso o requerente seja o tomador do seguro, o segurado, um beneficiário do contrato de seguro, o lesado, um consumidor ou um trabalhador e o pacto não seja válido nos termos de disposição constante daquelas secções.
+
+### Artigo 32.º
+
+1. Para efeitos da presente secção, considera-se que a ação foi submetida à apreciação do tribunal:
+
+- a) No momento em que for apresentado ao tribunal o documento que dá início à instância, ou documento equivalente, desde que o requerente tenha tomado posteriormente as medidas que lhe incumbem para que o requerido seja citado; ou
+
+- b) Se o documento tiver de ser notificado antes de ser apresentado a tribunal, no momento em que for recebido pela autoridade responsável pela notificação, desde que o requerente tenha tomado posteriormente as medidas que lhe incumbem para que o documento seja junto ao processo.
+
+A autoridade responsável pela notificação prevista na alínea b) é a primeira autoridade a receber o documento a notificar.
+
+2. Os tribunais ou as autoridades responsáveis pela notificação prevista no n.º 1 registam, respetivamente, a data de apresentação do documento que dá início à instância ou documento equivalente ou a data da receção dos documentos a notificar.
+
+### Artigo 33.º
+
+1. Se a competência se basear nos artigos 4.º, 7.º, 8.º ou 9.º e estiver pendente uma ação num tribunal de um país terceiro no momento em que é demandado o tribunal de um Estado-Membro numa ação com a mesma causa de pedir e entre as mesmas partes que a ação no tribunal do país terceiro, o tribunal do Estado-Membro pode suspender a instância se:
+
+- a) For previsível que o tribunal do país terceiro profira uma decisão passível de ser reconhecida e, consoante os casos, executada no Estado-Membro em causa; e
+
+- b) O tribunal do Estado-Membro estiver convencido de que a suspensão da instância é necessária para a correta administração da justiça.
+
+2. O tribunal do Estado-Membro pode dar continuação ao processo a qualquer momento se:
+
+- a) A instância no tribunal do país terceiro tiver sido suspensa ou encerrada;
+
+- b) O tribunal do Estado-Membro considerar improvável que a ação no tribunal do país terceiro se conclua num prazo razoável; ou
+
+- c) For necessário dar continuação ao processo para garantir a correta administração da justiça.
+
+3. O tribunal do Estado-Membro encerra a instância se a ação no tribunal do país terceiro tiver sido concluída e resultar numa decisão passível de reconhecimento e, se for caso disso, de execução nesse Estado-Membro.
+
+4. O tribunal do Estado-Membro aplica o presente artigo a pedido de qualquer das partes ou, caso a lei nacional o permita, oficiosamente.
+
+### Artigo 34.º
+
+1. Se a competência se basear nos artigos 4.º, 7.º, 8.º ou 9.º e estiver pendente uma ação no tribunal de um país terceiro no momento em que é demandado o tribunal de um Estado-Membro numa ação conexa com a ação intentada no tribunal do país terceiro, o tribunal do Estado Membro pode suspender a instância se:
+
+- a) Houver interesse em que as ações conexas sejam instruídas e julgadas em conjunto para evitar decisões que poderiam ser inconciliáveis se as causas fossem julgadas separadamente;
+
+- b) For previsível que o tribunal do país terceiro tome uma decisão passível de reconhecimento e, se for caso disso, de execução nesse Estado Membro; e
+
+- c) O tribunal do Estado-Membro estiver convencido de que a suspensão da instância é necessária para uma correta administração da justiça.
+
+2. O tribunal do Estado-Membro pode dar continuação ao processo a qualquer momento se:
+
+- a) Considerar que deixou de haver risco de decisões inconciliáveis;
+
+- b) A instância no tribunal do país terceiro tiver sido suspensa ou encerrada;
+
+- c) Considerar improvável que a ação intentada no tribunal do país terceiro se conclua num prazo razoável; ou
+
+- d) For necessário dar continuação ao processo para garantir a correta administração da justiça.
+
+3. O tribunal do Estado-Membro pode encerrar a instância se a ação intentada no tribunal do país terceiro tiver sido concluída e resultar numa decisão passível de reconhecimento e, se for caso disso, de execução nesse Estado-Membro.
+
+4. O tribunal do Estado-Membro aplica o presente artigo a pedido de qualquer das partes ou, caso a lei nacional o permita, oficiosamente.
+
+## SECÇÃO 10 — Medidas provisórias e cautelares
+
+### Artigo 35.º
+
+As medidas provisórias, incluindo as medidas cautelares, previstas na lei de um Estado-Membro podem ser requeridas às autoridades judiciais desse Estado-Membro, mesmo que os tribunais de outro Estado-Membro sejam competentes para conhecer do mérito da causa.
+
+## CAPÍTULO III — RECONHECIMENTO E EXECUÇÃO
+
+## SECÇÃO 1 — Reconhecimento
+
+### Artigo 36.º
+
+1. As decisões proferidas num Estado-Membro são reconhecidas nos outros Estados-Membros sem quaisquer formalidades.
+
+2. Quaisquer partes interessadas podem, nos termos da Subsecção 2 da Secção 3, requerer uma decisão que declare não haver motivos para recusar o reconhecimento, nos termos do artigo 45.º.
+
+3. Se o resultado de uma ação intentada no tribunal de um Estado-Membro depender da decisão de um incidente de recusa de reconhecimento, será o mesmo tribunal competente para conhecer do incidente.
+
+### Artigo 37.º
+
+1. As partes que pretendam invocar num Estado-Membro uma decisão proferida noutro Estado-Membro devem apresentar:
+
+- a) Uma cópia da decisão que satisfaça as condições necessárias para atestar a sua autenticidade; e
+
+- b) Uma certidão emitida nos termos do artigo 53.º.
+
+2. O tribunal ou autoridade perante a qual seja invocada uma decisão proferida noutro Estado-Membro pode, se necessário, requerer que a parte que a invoca lhe forneça, nos termos do artigo 57.º, uma tradução ou transliteração do conteúdo da certidão referida no n.º 1, alínea b). Se o tribunal ou autoridade em causa não puder dar seguimento ao processo sem que a própria decisão seja traduzida, poderá exigir da parte essa tradução, em vez da tradução do conteúdo da certidão.
+
+### Artigo 38.º
+
+O tribunal ou autoridade perante a qual seja invocada uma decisão proferida noutro Estado-Membro pode suspender total ou parcialmente a instância se:
+
+- a) A decisão for impugnada no Estado-Membro de origem; ou
+
+- b) For apresentado um pedido de decisão que determine não haver fundamentos para recusar o reconhecimento nos termos do artigo 45.º, ou de decisão que determine a recusa do reconhecimento com base num desses fundamentos.
+
+## SECÇÃO 2 — Execução
+
+### Artigo 39.º
+
+Uma decisão proferida num Estado-Membro que aí tenha força executória pode ser executada noutro Estado-Membro sem que seja necessária qualquer declaração de executoriedade.
+
+### Artigo 40.º
+
+As decisões executórias implicam, de pleno direito, o poder de tomar quaisquer medidas cautelares que existam nos termos da lei do Estado-Membro requerido.
+
+### Artigo 41.º
+
+1. Sem prejuízo do disposto na presente secção, o processo de execução de decisões proferidas noutro Estado-Membro rege-se pela lei do Estado-Membro requerido. Uma decisão proferida num Estado-Membro que seja executória no Estado-Membro requerido deve nele ser executada em condições iguais às de uma decisão proferida nesse Estado-Membro.
+
+2. Não obstante o disposto no n.º 1, os fundamentos de recusa ou suspensão da execução previstos na lei do Estado-Membro requerido são aplicáveis desde que não sejam incompatíveis com os fundamentos referidos no artigo 45.º.
+
+3. A parte que requer a execução de uma decisão proferida noutro Estado-Membro não é obrigada a ter um endereço postal no Estado-Membro requerido. Essa parte também não é obrigada a ter um representante autorizado no Estado-Membro requerido, salvo se a existência de um tal representante for obrigatória independentemente da nacionalidade ou do domicílio das partes.
+
+### Artigo 42.º
+
+1. Para efeitos da execução num Estado-Membro de uma decisão proferida noutro Estado-Membro, o requerente deve facultar às autoridades de execução competentes:
+
+- a) Uma cópia da decisão que satisfaça as condições necessárias para atestar a sua autenticidade; e
+
+- b) Uma certidão emitida nos termos do artigo 53.º que comprove que a decisão é executória e inclua um extrato da decisão, bem como, se for caso disso, informações relevantes sobre os custos processuais reembolsáveis e o cálculo dos juros.
+
+2. Para efeitos da execução num Estado-Membro de uma decisão proferida noutro Estado-Membro que decrete medidas provisórias, incluindo medidas cautelares, o requerente deve facultar às autoridades de execução competentes:
+
+- a) Uma cópia da decisão que satisfaça as condições necessárias para atestar a sua autenticidade;
+
+- b) Uma certidão emitida nos termos do artigo 53.º que contenha uma descrição da medida e ateste que:
+
+  - i) o tribunal é competente para conhecer do mérito da causa,
+
+  - ii) a decisão é executória no Estado-Membro de origem; e
+
+- c) Se a medida tiver sido decretada sem que o requerido tenha sido notificado para comparecer, o comprovativo da notificação da decisão.
+
+3. A autoridade de execução competente pode, se necessário, exigir que o requerente apresente, nos termos do artigo 57.º, uma tradução ou transliteração do conteúdo da certidão.
+
+4. A autoridade de execução competente só pode exigir ao requerente uma tradução da própria decisão se sem ela não puder dar seguimento ao processo.
+
+### Artigo 43.º
+
+1. Se for requerida a execução de uma decisão proferida noutro Estado-Membro, a certidão emitida nos termos do artigo 53.º é notificada à pessoa contra a qual a execução é requerida antes da primeira medida de execução. A certidão deve ser acompanhada da decisão se esta ainda não tiver sido notificada a essa pessoa.
+
+2. Se a pessoa contra a qual é requerida a execução tiver domicílio num Estado-Membro que não seja o Estado-Membro de origem, pode requerer a tradução da decisão, a fim de contestar a execução, se esta não estiver escrita ou acompanhada de uma tradução numa das seguintes línguas:
+
+- a) Uma língua que a pessoa contra a qual é requerida a execução entenda; ou
+
+- b) A língua oficial do Estado-Membro em que essa pessoa está domiciliada ou, caso existam várias línguas oficiais nesse Estado-Membro, a língua oficial ou as línguas oficiais do lugar onde a pessoa tem domicílio.
+
+Se a tradução da decisão for requerida nos termos do primeiro parágrafo, não poderão ser tomadas medidas de execução que não sejam medidas cautelares enquanto essa tradução não tiver sido facultada à pessoa contra a qual é requerida a execução.
+
+O presente número não se aplica caso a decisão já tenha sido notificada à pessoa contra a qual é requerida a execução numa das línguas a que se refere o primeiro parágrafo ou acompanhada de uma tradução para uma dessas línguas.
+
+3. O presente artigo não se aplica à execução de medidas cautelares no âmbito de uma decisão ou quando a pessoa que requer a execução requer igualmente medidas cautelares ao abrigo do artigo 40.º.
+
+### Artigo 44.º
+
+1. Caso seja apresentado um pedido de recusa da execução de uma decisão nos termos da Subsecção 2 da Secção 3, o tribunal do Estado-Membro requerido pode, a pedido da pessoa contra a qual é requerida a execução:
+
+- a) Limitar o processo de execução a medidas cautelares;
+
+- b) Subordinar a execução à constituição de uma garantia que determinará; ou
+
+- c) Suspender total ou parcialmente o processo de execução.
+
+2. A pedido da pessoa contra a qual é requerida a execução, a autoridade competente do Estado-Membro requerido suspende o processo de execução se a executoriedade da decisão for suspensa no Estado-Membro de origem.
+
+## SECÇÃO 3 — Recusa de reconhecimento e execução
+
+## Subsecção 1 — Recusa de reconhecimento
+
+### Artigo 45.º
+
+1. A pedido de qualquer interessado, o reconhecimento de uma decisão é recusado se:
+
+- a) Esse reconhecimento for manifestamente contrário à ordem pública do Estado-Membro requerido;
+
+- b) Caso a decisão tenha sido proferida à revelia, o documento que iniciou a instância – ou documento equivalente – não tiver sido citado ou notificado ao requerido revele, em tempo útil e de modo a permitir-lhe deduzir a sua defesa, a menos que o requerido não tenha interposto recurso contra a decisão tendo embora a possibilidade de o fazer;
+
+- c) A decisão for inconciliável com uma decisão proferida no Estado-Membro requerido entre as mesmas partes;
+
+- d) A decisão for inconciliável com uma decisão anteriormente proferida noutro Estado-Membro ou num Estado terceiro entre as mesmas partes, em ação com a mesma causa de pedir, desde que a decisão proferida anteriormente reúna as condições necessárias para ser reconhecida no Estado-Membro requerido;
+
+- e) A decisão desrespeitar:
+
+  - i) o disposto no Capítulo II, Secções 3, 4 ou 5, caso o requerido seja o tomador do seguro, o segurado, um beneficiário do contrato de seguro, o lesado, um consumidor ou um trabalhador, ou
+
+  - ii) o disposto no Capítulo II, Secção 6.
+
+2. Na sua apreciação dos critérios de competência referidos no n.º 1, alínea e), o tribunal a quem foi apresentado o pedido fica vinculado à matéria de facto em que o tribunal de origem fundamentou a sua competência.
+
+3. Sem prejuízo do disposto no n.º 1, alínea e), não pode proceder-se à revisão da competência do tribunal de origem. O critério da ordem pública referido no n.º 1, alínea a), não pode ser aplicado às regras de competência.
+
+4. O pedido de recusa de reconhecimento deve ser apresentado nos termos da Subsecção 2, e, se for caso disso, da Secção 4.
+
+## Subsecção 2 — Recusa de execução
+
+### Artigo 46.º
+
+A pedido da pessoa contra a qual é requerida a execução, a execução de uma decisão é recusada por qualquer dos fundamentos referidos no artigo 45.º.
+
+### Artigo 47.º
+
+1. O pedido de recusa de execução deve ser apresentado ao tribunal do Estado-Membro que por este tenha sido comunicado à Comissão, nos termos do artigo 75.º, alínea a), como sendo o tribunal em que o pedido deve ser apresentado.
+
+2. Na medida em que não seja abrangido pelo presente regulamento, o processo de recusa de execução é regido pela lei do Estado-Membro requerido.
+
+3. O requerente deve apresentar ao tribunal uma cópia da decisão e, se necessário, uma tradução ou transliteração da mesma.
+
+O tribunal pode dispensar a apresentação dos documentos referidos no primeiro parágrafo se já os tiver na sua posse ou se considerar que não é razoável exigir que o requerente os apresente. Neste último caso, o tribunal pode exigir que a outra parte apresente os referidos documentos.
+
+4. A parte que requer a recusa de execução de uma decisão proferida noutro Estado-Membro não é obrigada a ter um endereço postal no Estado-Membro requerido. Essa parte também não é obrigada a ter um representante autorizado no Estado-Membro requerido, salvo se tal representante for obrigatório independentemente da nacionalidade ou do domicílio das partes.
+
+### Artigo 48.º
+
+O tribunal decide sem demora do pedido de recusa de execução.
+
+### Artigo 49.º
+
+1. Qualquer das partes pode interpor recurso da decisão sobre o pedido de recusa de execução.
+
+2. O recurso deve ser interposto no tribunal do Estado-Membro que por este tenha sido comunicado à Comissão, nos termos do artigo 75.º, alínea b), como sendo o tribunal no qual o recurso deve ser interposto.
+
+### Artigo 50.º
+
+A decisão proferida no recurso só pode ser contestada por novo recurso se o tribunal para o qual deva ser interposto o recurso subsequente tiver sido comunicado à Comissão pelo Estado-Membro em causa nos termos do artigo 75.º, alínea c).
+
+### Artigo 51.º
+
+1. O tribunal a que é apresentado um pedido de recusa de execução ou que conhece de um recurso interposto nos termos dos artigos 49.º ou 50.º pode suspender a instância, se tiver sido interposto recurso ordinário contra a decisão no Estado-Membro de origem ou se o prazo para o interpor não tiver expirado. Neste último caso, o tribunal pode fixar um prazo para a interposição do recurso.
+
+2. Caso a decisão tenha sido proferida na Irlanda, em Chipre ou no Reino Unido, qualquer tipo de recurso existente no Estado-Membro de origem será tratado como recurso ordinário para efeitos do n.º 1.
+
+## SECÇÃO 4 — Disposições comuns
+
+### Artigo 52.º
+
+As decisões proferidas num Estado-Membro não podem em caso algum ser revistas quanto ao mérito da causa no Estado-Membro requerido.
+
+### Artigo 53.º
+
+A pedido de qualquer interessado, o tribunal de origem emite uma certidão utilizando o formulário que se reproduz no Anexo I.
+
+### Artigo 54.º
+
+1. Se a decisão contiver uma medida ou injunção que não seja conhecida na lei do Estado-Membro requerido, essa medida ou injunção deve ser adaptada, na medida do possível, a uma medida ou injunção conhecida na lei desse Estado-Membro que tenha efeitos equivalentes e vise objetivos e interesses semelhantes.
+
+Tal adaptação não pode ter efeitos que vão além dos previstos na lei do Estado-Membro de origem.
+
+2. Qualquer das partes pode contestar em tribunal a adaptação da medida ou injunção.
+
+3. Se necessário, pode exigir-se que a parte que invoca a decisão ou requer a respetiva execução forneça uma tradução ou transliteração da decisão.
+
+### Artigo 55.º
+
+Uma decisão proferida num Estado-Membro que condene em sanção pecuniária compulsória só é executória no Estado-Membro requerido se o montante do pagamento tiver sido definitivamente fixado pelo tribunal de origem.
+
+### Artigo 56.º
+
+Não pode ser exigida qualquer caução ou depósito, seja qual for a sua designação, à parte que num Estado-Membro requeira a execução de uma decisão proferida noutro Estado-Membro com fundamento na sua qualidade de estrangeiro ou na falta de domicílio ou de residência no Estado-Membro requerido.
+
+### Artigo 57.º
+
+1. Se for exigida uma tradução ou transliteração nos termos do presente regulamento, essa tradução ou transliteração deve ser feita na língua oficial do Estado-Membro em questão ou, se este tiver várias línguas oficiais, na língua oficial ou numa das línguas oficiais dos processos judiciais do lugar em que se invoca uma decisão proferida noutro Estado-Membro ou se apresenta um requerimento nos termos da lei desse Estado-Membro.
+
+2. Para efeitos dos formulários referidos nos artigos 53.º e 60.º, as traduções ou transliterações podem também ser feitas em qualquer outra das línguas oficiais das instituições da União que o Estado-Membro em causa tenha declarado poder aceitar.
+
+3. As traduções feitas por força do presente regulamento devem ser feitas por pessoas qualificadas para traduzir num dos Estados-Membros.
+
+## CAPÍTULO IV — INSTRUMENTOS AUTÊNTICOS E TRANSAÇÕES JUDICIAIS
+
+▼C1
+
+### Artigo 58.º
+
+1. Os instrumentos autênticos que sejam executórios no Estado-Membro de origem são executórios nos outros Estados-Membros sem que seja necessária qualquer declaração de executoriedade. A execução de um instrumento autêntico só pode ser recusada se for manifestamente contrária à ordem pública do Estado-Membro requerido.
+
+▼B
+
+Aplicam-se aos instrumentos autênticos, consoante os casos, a Secção 2, a Subsecção 2 da Secção 3 ou a Secção 4 do Capítulo III.
+
+2. O instrumento autêntico apresentado deve satisfazer as condições necessárias para comprovar a sua autenticidade no Estado-Membro de origem.
+
+### Artigo 59.º
+
+As transações judiciais que tenham força executiva no Estado-Membro de origem devem ser executadas nos outros Estados-Membros nas mesmas condições que os instrumentos autênticos.
+
+### Artigo 60.º
+
+A pedido de qualquer interessado, o tribunal ou a autoridade competente do Estado-Membro de origem emite a certidão cujo formulário consta do Anexo II, que deverá incluir um resumo da obrigação executória consignada no instrumento autêntico ou do acordo entre as partes consignado na transação judicial.
+
+## CAPÍTULO V — DISPOSIÇÕES GERAIS
+
+### Artigo 61.º
+
+Não é exigida legalização ou outras formalidades análogas para os documentos emitidos nos Estados-Membros no contexto do presente regulamento.
+
+### Artigo 62.º
+
+1. Para determinar se uma parte tem domicílio no Estado-Membro a cujos tribunais é submetida a questão, o juiz aplica a sua lei interna.
+
+2. Caso a parte não tenha domicílio no Estado-Membro a cujos tribunais foi submetida a questão, o juiz, para determinar se a parte tem domicílio noutro Estado-Membro, aplica a lei desse Estado-Membro.
+
+### Artigo 63.º
+
+1. Para efeitos do presente regulamento, uma sociedade ou outra pessoa coletiva ou associação de pessoas singulares ou coletivas tem domicílio no lugar em que tiver:
+
+- a) A sua sede social;
+
+- b) A sua administração central; ou
+
+- c) O seu estabelecimento principal.
+
+2. No que respeita à Irlanda, a Chipre e ao Reino Unido, «sede social» significa registered office ou, se este não existir, place of incorporation (lugar de constituição) ou, se este não existir, o lugar sob cuja lei ocorreu a formation (formação).
+
+3. Para determinar se um trust tem domicílio no Estado-Membro a cujos tribunais tenha sido submetida a questão, o juiz aplica as normas do seu direito internacional privado.
+
+### Artigo 64.º
+
+Sem prejuízo de disposições nacionais mais favoráveis, as pessoas domiciliadas num Estado-Membro e contra quem decorre processo por infração involuntária nos tribunais com competência penal de outro Estado-Membro de que não sejam nacionais podem entregar a sua defesa a pessoas para tanto habilitadas, mesmo que não compareçam pessoalmente. Todavia, o tribunal a que foi submetida a questão pode ordenar a comparência pessoal; se tal não ocorrer, a decisão proferida na ação cível sem que a pessoa em causa tenha tido a possibilidade de assegurar a sua defesa pode não ser reconhecida nem executada nos outros Estados-Membros.
+
+### Artigo 65.º
+
+1. A competência a que se referem o artigo 8.º, ponto 2, e o artigo 13.º em ações com chamamento de um garante à ação ou em qualquer incidente de intervenção de terceiros só pode ser invocada nos Estados-Membros constantes da lista estabelecida pela Comissão nos termos do artigo 76.º, n.º 1, alínea b), e n.º 2, nas condições previstas na lei nacional. As pessoas domiciliadas noutro Estado-Membro podem ser chamadas à ação perante os tribunais desses Estados-Membros, nos termos das regras de intervenção de terceiros indicadas nessa lista.
+
+2. As decisões proferidas nos Estados-Membros por força do artigo 8.º, ponto 2, e do artigo 13.º são reconhecidas e executadas nos termos do capítulo III em qualquer outro Estado-Membro. Quaisquer efeitos que as decisões proferidas nos Estados-Membros constantes da lista referida no n.º 1 possam produzir, nos termos da lei desses Estados-Membros, em relação a terceiros por força do n.º 1 são reconhecidos em todos os Estados-Membros.
+
+3. Os Estados-Membros constantes da lista referida no n.º 1 prestam, no âmbito da Rede Judiciária Europeia em matéria civil e comercial criada pela Decisão 2001/470/CE do Conselho ([^3]) («Rede Judiciária Europeia»), informações sobre a forma de determinar, nos termos da respetiva lei nacional, os efeitos das decisões referidas no segundo período do n.º 2.
+
+## CAPÍTULO VI — DISPOSIÇÕES TRANSITÓRIAS
+
+### Artigo 66.º
+
+1. O presente regulamento aplica-se apenas às ações judiciais intentadas, aos instrumentos autênticos formalmente redigidos ou registados e às transações judiciais aprovadas ou celebradas em 10 de janeiro de 2015 ou em data posterior.
+
+2. Não obstante o artigo 80.º, o Regulamento (CE) n.º 44/2001 continua a aplicar-se às decisões proferidas em ações judiciais intentadas, aos instrumentos autênticos formalmente redigidos ou registados e às transações judiciais aprovadas ou celebradas antes de 10 de janeiro de 2015 e abrangidas pelo âmbito de aplicação daquele regulamento.
+
+## CAPÍTULO VII — RELAÇÃO COM OUTROS INSTRUMENTOS
+
+### Artigo 67.º
+
+O presente regulamento não prejudica a aplicação das disposições que, em matérias específicas, regulam a competência judiciária, o reconhecimento e a execução de decisões, contidas nos atos da União ou nas leis nacionais harmonizadas nos termos desses atos.
+
+### Artigo 68.º
+
+1. O presente regulamento substitui, entre os Estados-Membros, a Convenção de Bruxelas de 1968, exceto no que se refere aos territórios dos Estados-Membros que são abrangidos pelo âmbito de aplicação territorial daquela Convenção e que estão excluídos do âmbito de aplicação do presente regulamento por força do artigo 355.º do TFUE.
+
+2. Na medida em que o presente regulamento substitui entre os Estados-Membros as disposições da Convenção de Bruxelas de 1968, as remissões feitas para esta convenção entendem-se como remissões para o presente regulamento.
+
+### Artigo 69.º
+
+Sem prejuízo do disposto nos artigos 70.º e 71.º, o presente regulamento substitui, entre os Estados-Membros, as convenções que abrangem as mesmas matérias a que o presente regulamento se aplica. São substituídas, em especial, as convenções constantes da lista estabelecida pela Comissão nos termos do artigo 76.º, n.º 1, alínea c), e n.º 2.
+
+### Artigo 70.º
+
+1. As convenções referidas no artigo 69.º continuam a produzir efeitos quanto às matérias a que o presente regulamento não se aplica.
+
+2. Essas convenções continuam a produzir efeitos relativamente às decisões proferidas, aos instrumentos autênticos formalmente redigidos ou registados e às transações judiciais aprovadas ou celebradas antes da data de entrada em vigor do Regulamento (CE) n.º 44/2001.
+
+### Artigo 71.º
+
+1. O presente regulamento não prejudica as convenções em que os Estados-Membros são partes e que, em matérias especiais, regulem a competência judiciária, o reconhecimento ou a execução de decisões.
+
+2. Para assegurar a sua interpretação uniforme, o n.º 1 deve ser aplicado do seguinte modo:
+
+- a) O presente regulamento não impede que um tribunal de um Estado-Membro que seja parte numa convenção relativa a uma matéria especial se declare competente, nos termos de tal convenção, mesmo que o requerido tenha domicílio no território de um Estado-Membro que não seja parte nessa convenção. Em qualquer caso, o tribunal chamado a pronunciar-se deve aplicar o artigo 28.º do presente regulamento;
+
+- b) As decisões proferidas num Estado-Membro por um tribunal cuja competência se funde numa convenção relativa a uma matéria especial são reconhecidas e executadas nos outros Estados-Membros nos termos do presente regulamento.
+
+Se uma convenção relativa a uma matéria especial, de que sejam partes o Estado-Membro de origem e o Estado-Membro requerido, estabelecer as condições para o reconhecimento e execução de decisões, tais condições devem ser respeitadas. Em qualquer caso, pode aplicar-se o disposto no presente regulamento sobre reconhecimento e execução de decisões.
+
+▼M1
+
+### Artigo 71.º-A
+
+1. Para efeitos do presente regulamento, um tribunal comum a vários Estados-Membros, conforme especificado no n.º 2, («tribunal comum») é considerado um tribunal de um Estado-Membro quando, nos termos do seu ato constitutivo, esse tribunal comum exerce a sua competência em matérias abrangidas pelo âmbito do presente regulamento.
+
+2. Para efeitos do presente regulamento, cada um dos seguintes tribunais é um tribunal comum:
+
+- a) O Tribunal Unificado de Patentes, estabelecido pelo Acordo relativo ao Tribunal Unificado de Patentes assinado em 19 de fevereiro de 2013 (a seguir designado «Acordo relativo ao TUP»); e
+
+- b) O Tribunal de Justiça do Benelux, estabelecido pelo Tratado relativo à instituição e ao estatuto do Tribunal de Justiça do Benelux, de 31 de março de 1965 («Tratado do Tribunal de Justiça do Benelux»).
+
+### Artigo 71.º-B
+
+A competência judiciária dos tribunais comuns é determinada da seguinte forma:
+
+- 1) Um tribunal comum é competente quando, nos termos do presente regulamento, os tribunais de um Estado-Membro que seja parte no ato que estabelece o tribunal comum sejam competentes nas matérias reguladas por esse ato;
+
+- 2) Nos casos em que o requerido não tenha domicílio num Estado-Membro e o presente regulamento não tenha de outra forma atribuído competência a seu respeito, o Capítulo II aplica-se, sempre que adequado, independentemente do domicílio do requerido.
+
+  Podem ser pedidas a um tribunal comum medidas provisórias, incluindo medidas de proteção, mesmo que os tribunais de um Estado terceiro tenham competência relativamente ao fundo da questão;
+
+- 3) Nos casos em que um tribunal comum tenha competência relativamente a um requerido nos termos do ponto 2 num litígio relativo à violação de uma patente europeia que dê origem a danos no interior da União, esse tribunal pode igualmente exercer a competência relativamente a danos verificados fora da União resultantes de uma violação desse tipo.
+
+  Essa competência judiciária só pode ser estabelecida nos casos em que os bens pertencentes ao requerido estejam localizados em qualquer Estado-Membro que seja parte no ato que estabelece o tribunal comum e em que o litígio tenha uma conexão suficiente com qualquer desses Estados-Membros.
+
+### Artigo 71.º-C
+
+1. Os artigos 29.º a 32.º aplicam-se quando forem intentados processos num tribunal comum e num tribunal de um Estado-Membro que não seja parte no ato que estabelece o tribunal comum.
+
+2. Os artigos 29.º a 32.º aplicam-se quando, durante o período transitório referido no artigo 83.º do Acordo relativo ao TUP, os processos são intentados no Tribunal Unificado de Patentes e num tribunal de um Estado-Membro que seja parte no Acordo relativo ao TUP.
+
+### Artigo 71.º-D
+
+O presente regulamento aplica-se ao reconhecimento e execução de:
+
+- a) Decisões proferidas por um tribunal comum que devam ser reconhecidas e executadas num Estado-Membro que não seja parte no ato que estabelece o tribunal comum; e
+
+- b) Decisões proferidas pelos tribunais de um Estado-Membro que não seja parte no ato que estabelece o tribunal comum e que necessitam de ser reconhecidas e executadas num Estado-Membro que seja parte nesse ato.
+
+Contudo, sempre que for solicitado o reconhecimento ou a execução de uma decisão proferida por um tribunal comum num Estado-Membro que seja parte no ato que estabelece o tribunal comum, aplicam-se as regras do referido ato relativas ao reconhecimento e execução, em vez das regras do presente regulamento.
+
+▼B
+
+### Artigo 72.º
+
+O presente regulamento não prejudica os acordos por meio dos quais os Estados-Membros se comprometeram, antes da entrada em vigor do Regulamento (CE) n.º 44/2001, nos termos do artigo 59.º da Convenção de Bruxelas de 1968, a não reconhecer decisões proferidas, nomeadamente noutro Estado contratante da referida convenção, contra requeridos com domicílio ou residência habitual num Estado terceiro se, nos casos previstos no artigo 4.º da referida convenção, a decisão só possa fundar-se numa competência referida no artigo 3.º, segundo parágrafo, da mesma convenção.
+
+### Artigo 73.º
+
+1. O presente regulamento não prejudica a aplicação da Convenção de Lugano de 2007.
+
+2. O presente regulamento não prejudica a aplicação da Convenção de Nova Iorque de 1958.
+
+3. O presente regulamento não prejudica a aplicação das convenções e acordos bilaterais entre países terceiros e Estados-Membros celebrados antes da data de entrada em vigor do Regulamento (CE) n.º 44/2001 que dizem respeito a matérias regidas pelo presente regulamento.
+
+## CAPÍTULO VIII — DISPOSIÇÕES FINAIS
+
+### Artigo 74.º
+
+Os Estados-Membros fornecem, no âmbito da Rede Judiciária Europeia, para efeitos da sua divulgação ao público, uma descrição dos processos e normas de execução nacionais, incluindo as autoridades competentes para a execução, e informações sobre eventuais restrições neste domínio, em especial normas de proteção dos devedores e prazos de limitação ou prescrição.
+
+Os Estados-Membros devem manter estas informações permanentemente atualizadas.
+
+### Artigo 75.º
+
+Até 10 de janeiro de 2014, os Estados-Membros comunicam à Comissão:
+
+- a) Os tribunais aos quais deve ser submetido o pedido de recusa de execução, nos termos do artigo 47.º, n.º 1;
+
+- b) Os tribunais nos quais deve ser interposto recurso da decisão sobre o pedido de recusa de execução, nos termos do artigo 49.º, n.º 2;
+
+- c) Os tribunais nos quais devem ser interpostos quaisquer recursos subsequentes, nos termos do artigo 50.º;
+
+- d) As línguas aceites para a tradução dos formulários, nos termos do artigo 57.º, n.º 2.
+
+A Comissão divulga estas informações ao público através de todos os meios adequados, sobretudo através da Rede Judiciária Europeia.
+
+### Artigo 76.º
+
+1. Os Estados-Membros notificam à Comissão:
+
+- a) As regras de competência referidas no artigo 5.º, n.º 2, e no artigo 6.º, n.º 2;
+
+- b) As regras sobre intervenção de terceiros referidas no artigo 65.º; e
+
+- c) As convenções referidas no artigo 69.º.
+
+2. Com base nas informações notificadas pelos Estados-Membros a que se refere o n.º 1, a Comissão estabelece as respetivas listas.
+
+3. Os Estados-Membros notificam à Comissão qualquer alteração dessas listas que venha a ser requerida. A Comissão altera as listas em conformidade.
+
+4. A Comissão publica as listas e as eventuais alterações posteriores às mesmas no Jornal Oficial da União Europeia.
+
+5. A Comissão divulga ao público todas as informações notificadas por força dos n.ºs 1 e 3 através de todos os meios adequados, em especial através da Rede Judiciária Europeia.
+
+### Artigo 77.º
+
+A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 78.º, no que diz respeito às alterações aos anexos I e II.
+
+### Artigo 78.º
+
+1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar atos delegados referido no artigo 77.º é conferido à Comissão por prazo indeterminado a partir de 9 de janeiro de 2013.
+
+3. A delegação de poderes referida no artigo 77.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no Jornal Oficial da União Europeia ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+5. Os atos delegados adotados nos termos do artigo 77.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+### Artigo 79.º
+
+Até 11 de janeiro de 2022, a Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório sobre a aplicação do presente regulamento. Esse relatório deve incluir uma avaliação da eventual necessidade de um novo alargamento das regras sobre competência judiciária a requeridos que não estejam domiciliados num Estado-Membro, tendo em conta o funcionamento do presente regulamento e a possível evolução da situação a nível internacional. O relatório deve ser acompanhado, se for caso disso, de uma proposta de alteração do presente regulamento.
+
+### Artigo 80.º
+
+O presente regulamento revoga o Regulamento (CE) n.º 44/2001. As referências ao regulamento revogado devem entender-se como sendo feitas para o presente regulamento, e devem ser lidas de acordo com o quadro de correspondência constante do Anexo III.
+
+### Artigo 81.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+Aplica-se a partir de 10 de janeiro de 2015, com exceção dos artigos 75.º e 76.º, que se aplicam a partir de 10 de janeiro de 2014.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável nos Estados-Membros nos termos dos Tratados.
+
+▼M2
+
+## ANEXO I
+
+[imagem: image]
+
+[imagem: image]
+
+[imagem: image]
+
+[imagem: image]
+
+## ANEXO II
+
+[imagem: image]
+
+[imagem: image]
+
+[imagem: image]
+
+▼B
+
+## ANEXO III
+
+**QUADRO DE CORRESPONDÊNCIAS**
+
+| Regulamento (CE) n.º 44/2001 | Presente Regulamento |
+|---|---|
+| Artigo 1.º, n.º 1 | Artigo 1.º, n.º 1 |
+| Artigo 1.º, n.º 2, proémio | Artigo 1.º, n.º 2, proémio |
+| Artigo 1.º, n.º 2, alínea a) | Artigo 1.º, n.º 2, alíneas a) e f) |
+| Artigo 1.º, n.º 2, alíneas b) a d) | Artigo 1.º, n.º 2, alíneas b) a d) |
+| — | Artigo 1.º, n.º 2, alínea e) |
+| Artigo 1.º, n.º 3 | — |
+| — | Artigo 2.º |
+| Artigo 2.º | Artigo 4.º |
+| Artigo 3.º | Artigo 5.º |
+| Artigo 4.º | Artigo 6.º |
+|  |  |
+| Artigo 5.º, proémio | Artigo 7.º, proémio |
+| Artigo 5.º, ponto 1 | Artigo 7.º, ponto 1 |
+| Artigo 5.º, ponto 2 | — |
+| Artigo 5.º, pontos 3 e 4 | Artigo 7.º, pontos 2 e 3 |
+| — | Artigo 7, ponto 4 |
+| Artigo 5.º, pontos 5 a 7 | Artigo 7.º, pontos 5 a 7 |
+| Artigo 6.º | Artigo 8.º |
+| Artigo 7.º | Artigo 9.º |
+| Artigo 8.º | Artigo 10.º |
+| Artigo 9.º | Artigo 11.º |
+| Artigo 10.º | Artigo 12.º |
+| Artigo 11.º | Artigo 13.º |
+| Artigo 12.º | Artigo 14.º |
+| Artigo 13.º | Artigo 15.º |
+| Artigo 14.º | Artigo 16.º |
+| Artigo 15.º | Artigo 17.º |
+| Artigo 16.º | Artigo 18.º |
+| Artigo 17.º | Artigo 19.º |
+| Artigo 18.º | Artigo 20.º |
+| Artigo 19.º, pontos 1 e 2 | Artigo 21.º, n.º 1 |
+| — | Artigo 21.º, n.º 2 |
+| Artigo 20.º | Artigo 22.º |
+| Artigo 21.º | Artigo 23.º |
+| Artigo 22.º | Artigo 24.º |
+| Artigo 23.º, n.ºs 1 e 2 | Artigo 25.º, n.ºs 1 e 2 |
+| Artigo 23.º, n.º 3 | — |
+| Artigo 23.º, n.ºs 4 e 5 | Artigo 25.º, n.ºs 3 e 4 |
+| — | Artigo 25.º, n.º 5 |
+| Artigo 24.º | Artigo 26.º, n.º 1 |
+| — | Artigo 26.º, n.º 2 |
+| Artigo 25.º | Artigo 27.º |
+| Artigo 26.º | Artigo 28.º |
+| Artigo 27.º, n.º 1 | Artigo 29.º, n.º 1 |
+| — | Artigo 29.º, n.º 2 |
+| Artigo 27.º, n.º 2 | Artigo 29.º, n.º 3 |
+| Artigo 28.º | Artigo 30.º |
+| Artigo 29.º | Artigo 31.º, n.º 1 |
+| — | Artigo 31.º, n.º 2 |
+| — | Artigo 31.º, n.º 3 |
+| — | Artigo 31.º, n.º 4 |
+| Artigo 30.º | Artigo 32.º, n.º 1, alíneas a) e b) |
+| — | Artigo 32.º, n.º 1, segundo parágrafo |
+| — | Artigo 32.º, n.º 2 |
+| — | Artigo 33.º |
+| — | Artigo 34.º |
+| Artigo 31.º | Artigo 35.º |
+| Artigo 32.º | Artigo 2.º, alínea a) |
+| Artigo 33.º | Artigo 36.º |
+| — | Artigo 37.º |
+| — | Artigo 39.º |
+| — | Artigo 40.º |
+| — | Artigo 41.º |
+| — | Artigo 42.º |
+| — | Artigo 43.º |
+| — | Artigo 44.º |
+| Artigo 34.º | Artigo 45.º, n.º 1, alíneas a) a d) |
+| Artigo 35.º, n.º 1 | Artigo 45.º, n.º 1, alínea e) |
+| Artigo 35.º, n.º 2 | Artigo 45.º, n.º 2 |
+| Artigo 35.º, n.º 3 | Artigo 45.º, n.º 3 |
+| — | Artigo 45.º, n.º 4 |
+| Artigo 36.º | Artigo 52.º |
+| Artigo 37.º, n.º 1 | Artigo 38.º, alínea a) |
+| Artigo 38.º | — |
+| Artigo 39.º | — |
+| Artigo 40.º | — |
+| Artigo 41.º | — |
+| Artigo 42.º | — |
+| Artigo 43.º | — |
+| Artigo 44.º | — |
+| Artigo 45.º | — |
+| Artigo 46.º | — |
+| Artigo 47.º | — |
+| Artigo 48.º | — |
+| — | Artigo 46.º |
+| — | Artigo 47.º |
+| — | Artigo 48.º |
+| — | Artigo 49.º |
+| — | Artigo 50.º |
+| — | Artigo 51.º |
+| — | Artigo 54.º |
+| Artigo 49.º | Artigo 55.º |
+| Artigo 50.º | — |
+| Artigo 51.º | Artigo 56.º |
+| Artigo 52.º | — |
+| Artigo 53.º | — |
+| Artigo 54.º | Artigo 53.º |
+| Artigo 55.º, n.º 1 | — |
+| Artigo 55.º, n.º 2 | Artigo 37.º, n.º 2, artigo 47.º, n.º 3, e artigo 57.º |
+| Artigo 56.º | Artigo 61.º |
+| Artigo 57.º, n.º 1 | Artigo 58.º, n.º 1 |
+| Artigo 57.º, n.º 2 | — |
+| Artigo 57.º, n.º 3 | Artigo 58.º, n.º 2 |
+| Artigo 57.º, n.º 4 | Artigo 60.º |
+| Artigo 58.º | Artigos 59.º e 60.º |
+| Artigo 59.º | Artigo 62.º |
+| Artigo 60.º | Artigo 63.º |
+| Artigo 61.º | Artigo 64.º |
+| Artigo 62.º | Artigo 3.º |
+| Artigo 63.º | — |
+| Artigo 64.º | — |
+| Artigo 65.º | Artigo 65.º, n.ºs 1 e 2 |
+| — | Artigo 65.º, n.º 3 |
+| Artigo 66.º | Artigo 66.º |
+| Artigo 67.º | Artigo 67.º |
+| Artigo 68.º | Artigo 68.º |
+| Artigo 69.º | Artigo 69.º |
+| Artigo 70.º | Artigo 70.º |
+| Artigo 71.º | Artigo 71.º |
+| Artigo 72.º | Artigo 72.º |
+| — | Artigo 73.º |
+| Artigo 73.º | Artigo 79.º |
+| Artigo 74.º, n.º 1 | Artigo 75.º, primeiro parágrafo, alíneas a), b) e c), e artigo 76.º, n.º 1, alínea a) |
+| Artigo 74.º, n.º 2 | Artigo 77.º |
+| — | Artigo 78.º |
+| — | Artigo 80.º |
+| Artigo 75.º | — |
+| Artigo 76.º | Artigo 81.º |
+| Anexo I | Artigo 76.º, n.º 1, alínea a) |
+| Anexo II | Artigo 75.º, alínea a) |
+| Anexo III | Artigo 75.º, alínea b) |
+| Anexo IV | Artigo 75.º, alínea c) |
+| Anexo V | Anexos I e II |
+| Anexo VI | Anexo II |
+| — | Anexo III |
+
+[^1]: JO L 335 de 17.12.2009, p. 1.
+
+[^2]: JO L 324 de 10.12.2007, p. 79.
+
+[^3]: JO L 174 de 27.6.2001, p. 25.

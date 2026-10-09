@@ -1,0 +1,463 @@
+---
+celex: 32019L0771
+nome_curto: Venda de bens (garantias)
+tipo: Diretiva
+titulo: Diretiva (UE) 2019/771 do Parlamento Europeu e do Conselho, de 20 de maio de 2019, relativa a certos aspetos dos contratos de compra e venda de bens que altera o Regulamento (UE) 2017/2394 e a Diretiva 2009/22/CE e que revoga a Diretiva 1999/44/CE (Texto relevante para efeitos do EEE.)
+data_documento: '2019-05-20'
+em_vigor: true
+entrada_em_vigor:
+- '2019-06-11'
+- '2022-01-01'
+texto: consolidado
+versao_consolidada: 02019L0771-20260731
+versao_aplicavel_desde: '2026-07-31'
+eli: http://data.europa.eu/eli/dir/2019/771/oj
+repertorio:
+- 06.20.30 Atividades comerciais
+- '13.30 Mercado interno: aproximação das legislações'
+- 15.20.10 Questões gerais
+url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32019L0771
+url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02019L0771-20260731
+lingua: pt
+fonte: cellar:application/xhtml+xml
+obtido_em: '2026-10-09'
+---
+
+# Diretiva 32019L0771 — Venda de bens (garantias)
+
+**Título oficial:** Diretiva (UE) 2019/771 do Parlamento Europeu e do Conselho, de 20 de maio de 2019, relativa a certos aspetos dos contratos de compra e venda de bens que altera o Regulamento (UE) 2017/2394 e a Diretiva 2009/22/CE e que revoga a Diretiva 1999/44/CE (Texto relevante para efeitos do EEE.)
+
+**Texto:** versão consolidada aplicável desde 2026-07-31 (02019L0771-20260731).
+
+> Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
+
+**Considerandos (preâmbulo):** ficheiro `32019L0771-venda-de-bens-garantias.considerandos.md`.
+
+**Contexto** (sínteses oficiais, transposição em Portugal, jurisprudência do TJUE): ficheiro `32019L0771-venda-de-bens-garantias.contexto.md`.
+
+**EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32019L0771
+
+## Alterações incorporadas nesta versão
+
+No texto, ▼M1/►M1 marcam disposições alteradas pelo acto M1 (e assim por diante), ▼C1 marca rectificações, ▼A1 actos de adesão e ▼B o texto de base.
+
+- ►M1 DIRETIVA (UE) 2024/1799 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024 — L 1799 — 1 — 10.7.2024 (CELEX 32024L1799)
+- ►C1 Rectificação, JO L 305, 26.11.2019, p. 65 (2019/771) (CELEX 32019L0771R(01))
+
+## Texto
+
+▼B
+
+### Artigo 1.º — Objeto e objetivo
+
+A presente diretiva tem por objetivo contribuir para o bom funcionamento do mercado interno, garantindo simultaneamente um nível elevado de proteção dos consumidores, estabelecendo regras comuns quanto a certos requisitos relativos aos contratos de compra e venda celebrados entre o vendedor e o consumidor, em especial regras quanto à conformidade dos bens com o contrato, aos meios de ressarcimento em caso de falta de conformidade, às modalidades para o exercício desses meios e às garantias comerciais.
+
+### Artigo 2.º — Definições
+
+Para efeitos da presente diretiva, entende-se por:
+
+- 1) «Contrato de compra e venda»: um contrato ao abrigo do qual o vendedor transfere ou se compromete a transferir a propriedade dos bens e o consumidor paga ou se compromete a pagar o respetivo preço;
+
+- 2) «Consumidor»: uma pessoa singular que, no que respeita aos contratos abrangidos pela presente diretiva, atue com fins que não se incluam no âmbito da sua atividade comercial, industrial, artesanal ou profissional;
+
+- 3) «Vendedor»: uma pessoa singular ou coletiva, pública ou privada, que atue, inclusivamente através de qualquer outra pessoa em seu nome ou por sua conta para fins relacionados com a sua atividade comercial, industrial, artesanal ou profissional, no que respeita aos contratos abrangidos pela presente diretiva;
+
+- 4) «Produtor»: o fabricante de bens, o importador de bens na União ou qualquer outra pessoa que se apresente como produtor, através da indicação nos bens do seu nome, marca ou outro sinal distintivo;
+
+- 5) «Bens»:
+
+  - a) qualquer bem móvel tangível; a água, o gás e a eletricidade são considerados bens na aceção da presente diretiva quando colocados em venda num volume limitado ou em quantidade determinada,
+
+  - b) qualquer bem móvel tangível que incorpore ou esteja interligado com um conteúdo ou serviço digital, ou que com este esteja interligado, de tal modo que a falta desse conteúdo ou serviço digital impeça os bens de desempenharem as suas funções («bens com elementos digitais»);
+
+- 6) «Conteúdo digital»: dados produzidos e fornecidos em formato digital;
+
+- 7) «Serviço digital»:
+
+  - a) um serviço que permite ao consumidor criar, tratar, armazenar ou aceder a dados em formato digital, ou
+
+  - b) um serviço que permite a partilha ou qualquer outra interação com os dados em formato digital carregados ou criados pelo consumidor ou por outros utilizadores desse serviço;
+
+- 8) «Compatibilidade»: a capacidade de os bens funcionarem com hardware ou software com que os bens do mesmo tipo são normalmente usados, sem necessidade de converter os bens, o hardware ou o software;
+
+- 9) «Funcionalidade»: a capacidade de os bens desempenharem as suas funções tendo em conta a sua finalidade;
+
+- 10) «Interoperabilidade»: a capacidade de os bens funcionarem com hardware ou software diferentes dos normalmente usados com bens do mesmo tipo;
+
+- 11) «Suporte duradouro»: qualquer instrumento que possibilite ao consumidor ou ao vendedor armazenar informações que lhes sejam pessoalmente dirigidas, de uma forma que, no futuro, lhes permita aceder às mesmas durante um período adaptado aos fins a que as informações se destinam e que possibilite a reprodução inalterada das informações armazenadas;
+
+- 12) «Garantia comercial»: um compromisso assumido pelo vendedor ou pelo produtor («garante») perante o consumidor, para além das obrigações legais do vendedor relativas à garantia de conformidade, de reembolsar o preço pago, substituir, reparar ou ocupar-se de qualquer modo de um bem, no caso de este não ser conforme com as especificações ou qualquer outro elemento não relacionado com a conformidade estabelecidos na declaração de garantia ou na respetiva publicidade divulgada na celebração do contrato ou antes desta;
+
+- 13) «Durabilidade»: a capacidade de os bens manterem as suas funções e desempenho previstos através da utilização normal;
+
+- 14) «A título gratuito»: livre dos custos necessários incorridos para repor os bens em conformidade, nomeadamente o custo de porte postal, transporte, mão-de-obra ou materiais;
+
+- 15) «Hasta pública»: método de venda em que os bens ou serviços são oferecidos pelo vendedor aos consumidores, que comparecem ou podem comparecer pessoalmente no local, através de um procedimento de licitação transparente dirigido por um leiloeiro, e em que o adjudicatário é obrigado a adquirir os bens ou serviços.
+
+### Artigo 3.º — Âmbito de aplicação
+
+1. A presente diretiva é aplicável aos contratos de compra e venda entre um consumidor e um vendedor.
+
+2. Os contratos celebrados entre um consumidor e um vendedor para o fornecimento de mercadorias a fabricar ou a produzir devem ser igualmente considerados contratos de compra e venda para efeitos da presente diretiva.
+
+3. A presente diretiva não é aplicável aos contratos para o fornecimento de conteúdo ou serviços digitais. No entanto, é aplicável a conteúdos ou serviços digitais que estejam incorporados em bens, ou com eles estejam interligados com esses bens, na aceção do artigo 2.º, ponto 5), alínea b), e sejam fornecidos com os bens nos termos de um contrato de compra e venda, independentemente de os conteúdos ou serviços digitais serem fornecidos pelo vendedor ou por um terceiro. Em caso de dúvida sobre se o fornecimento de conteúdos ou serviços digitais incorporados ou interligados fazem parte do contrato de compra e venda, presume-se que os conteúdos ou serviços digitais estão abrangidos pelo contrato de compra e venda.
+
+4. A presente diretiva não é aplicável:
+
+- a) A qualquer suporte material que sirva exclusivamente de portador de conteúdos digitais; ou
+
+- b) A bens vendidos por via de penhora, ou qualquer outra forma de execução judicial.
+
+5. Os Estados-Membros podem excluir do âmbito de aplicação da presente diretiva os contratos de compra e venda de:
+
+- a) Bens em segunda mão vendidos em hasta pública; e
+
+- b) Animais vivos.
+
+No que respeita ao caso referido na alínea a), deve ser facultada aos consumidores informação clara e exaustiva quanto à não aplicação dos direitos decorrentes da presente diretiva.
+
+6. A presente diretiva não afeta a faculdade de os Estados-Membros regularem os aspetos gerais do direito nacional dos contratos, como as regras relativas à formação, à validade, à nulidade ou aos efeitos dos contratos, incluindo as consequências da rescisão de um contrato, na medida em que estes não sejam regulados pela presente diretiva, nem o direito a indemnização.
+
+7. A presente diretiva não afeta a faculdade de os Estados-Membros permitirem que os consumidores escolham um meio de ressarcimento específico caso a falta de conformidade dos bens se manifeste dentro de um prazo curto após a entrega, que não deve exceder 30 dias. A presente diretiva também não afeta regras nacionais que não sejam específicas dos contratos celebrados por consumidores que prevejam meios de ressarcimento específicos para certos tipos de defeitos que não eram evidentes no momento da celebração do contrato de compra e venda.
+
+### Artigo 4.º — Nível de harmonização
+
+Os Estados-Membros não podem manter ou introduzir no seu direito nacional disposições divergentes das previstas na presente diretiva, nomeadamente disposições mais ou menos estritas, que tenham por objetivo garantir um nível diferente de proteção dos consumidores, salvo disposição em contrário na presente diretiva.
+
+### Artigo 5.º — Conformidade dos bens
+
+O vendedor deve entregar ao consumidor bens que cumpram, consoante o caso, os requisitos dos artigos 6.º, 7.º e 8.º, sem prejuízo do artigo 9.º.
+
+### Artigo 6.º — Requisitos subjetivos de conformidade
+
+A fim de se encontrarem em conformidade com o contrato de compra e venda, os bens devem, em especial e sendo caso disso:
+
+- a) Corresponder à descrição, ao tipo, à quantidade e à qualidade e ter a funcionalidade, a compatibilidade, a interoperabilidade e as demais características, tal como exigidas pelo contrato de compra e venda;
+
+- b) Ser adequados a qualquer finalidade específica para a qual o consumidor os destine e que tenha sido comunicada ao vendedor o mais tardar no momento da celebração do contrato e relativamente à qual o operador tenha manifestado concordância;
+
+- c) Ser entregues juntamente com todos os acessórios e instruções, inclusivamente de instalação, tal como estipulado no contrato de compra e venda; e
+
+- d) Ser fornecidos com todas as atualizações, tal como estipulado no contrato de compra e venda.
+
+### Artigo 7.º — Requisitos objetivos de conformidade
+
+1. Além de cumprirem todos os requisitos objetivos de conformidade, os bens devem:
+
+- a) Ser adequados às utilizações a que os bens do mesmo tipo normalmente se destinam, tendo em conta, sendo caso disso, o direito da União e os direitos nacionais aplicável, as normas técnicas, ou, na falta de tais normas técnicas, os códigos de conduta específicos do setor que forem aplicáveis;
+
+- b) Se aplicável, possuir a qualidade e corresponder à descrição de uma amostra ou modelo que o vendedor tenha disponibilizado ao consumidor antes da celebração do contrato;
+
+- c) Sendo caso disso, ser entregues juntamente com os acessórios, incluindo a embalagem, instruções de instalação ou outras instruções que o consumidor possa razoavelmente esperar receber; e
+
+▼M1
+
+- d) Corresponder à quantidade e possuir as qualidades e outras características, inclusive no que respeita à durabilidade, reparabilidade, funcionalidade, compatibilidade e segurança, que são habituais nos bens do mesmo tipo e que o consumidor possa razoavelmente esperar, dada a natureza dos bens e tendo em conta qualquer declaração pública feita pelo vendedor ou em nome deste ou por outras pessoas em fases anteriores da cadeia de transações, incluindo o produtor, particularmente através de publicidade ou de rotulagem.
+
+▼B
+
+2. O vendedor não fica vinculado pelas declarações públicas a que se refere o n.º 1, alínea d), se demonstrar que:
+
+- a) Não tinha, nem podia razoavelmente ter, conhecimento da declaração pública em causa;
+
+- b) No momento da celebração do contrato, a declaração pública em causa tinha sido corrigida de forma igual ou comparável à forma por que tinha sido feita; ou
+
+- c) A decisão de comprar os bens não poderia ter sido influenciada pela declaração pública.
+
+3. No caso dos bens com elementos digitais, o vendedor deve assegurar que o consumidor seja informado sobre as atualizações e que estas lhe sejam fornecidas, incluindo atualizações de segurança, que sejam necessárias para colocar tais bens em conformidade, durante o período:
+
+- a) Em que o consumidor pode razoavelmente esperar, dado o tipo e finalidade dos bens e dos elementos digitais, e tendo em consideração as circunstâncias e natureza do contrato, caso o contrato de compra e venda estipule um único fornecimento do conteúdo ou serviço digital; ou
+
+- b) Indicado no artigo 10.º, n.º 2 ou n.º 5, consoante aplicável, sempre que o contrato de compra e venda estipule o fornecimento contínuo do conteúdo ou serviço digital durante um determinado período.
+
+4. Se o consumidor não proceder à instalação, num prazo razoável, das atualizações fornecidas nos termos do n.º 3, o vendedor não é responsável por qualquer falta de conformidade resultante unicamente da falta de atualização em causa, desde que:
+
+- a) O vendedor tenha informado o consumidor sobre a disponibilidade da atualização e as consequências da sua não instalação; e
+
+- b) A não instalação ou a instalação incorreta da atualização pelo consumidor não se tenha ficado a dever a deficiências nas instruções de instalação fornecidas ao consumidor.
+
+5. Não se verifica falta de conformidade na aceção do n.º 1 ou do n.º 3 se, no momento da celebração do contrato, o consumidor tiver sido especificamente informado de que uma caraterística particular dos bens se desviava dos requisitos objetivos de conformidade estabelecidos no n.º 1 ou no n.º 3 e o consumidor tiver expressa e separadamente aceitado esse desvio aquando da celebração do contrato de compra e venda.
+
+### Artigo 8.º — Instalação incorreta dos bens
+
+Qualquer falta de conformidade resultante da instalação incorreta dos bens é considerada uma falta de conformidade desses bens se:
+
+- a) A instalação fizer parte do contrato de compra e venda e tiver sido realizada pelo vendedor ou sob a sua responsabilidade; ou
+
+- b) A instalação, destinada a ser realizada pelo consumidor, tiver sido realizada por este e a instalação incorreta se ficar a dever a deficiências nas instruções de instalação fornecidas pelo vendedor ou, no caso de bens com elementos digitais, pelo vendedor ou pelo fornecedor do conteúdo ou serviço digital.
+
+### Artigo 9.º — Direitos ou pretensões de terceiros
+
+Se uma restrição resultante de uma violação de quaisquer direitos de terceiros, em especial direitos de propriedade intelectual, impedir ou limitar a utilização dos bens, nos termos dos artigos 6.º e 7.º, os Estados-Membros asseguram que o consumidor tem direito aos meios de ressarcimento por falta de conformidade previstos no artigo 13.º, a menos que o direito nacional determine a nulidade ou a rescisão do contrato de compra e venda nesses casos.
+
+### Artigo 10.º — Responsabilidade do vendedor
+
+1. O vendedor é responsável perante o consumidor por qualquer falta de conformidade que exista no momento em que os bens foram entregues e se manifeste num prazo de dois anos a contar desse momento. Sem prejuízo do artigo 7.º, n.º 3, o presente número é igualmente aplicável aos bens com elementos digitais.
+
+2. No caso de bens com elementos digitais, caso o contrato estipule o fornecimento contínuo do conteúdo ou serviço digital durante um determinado período, o vendedor é também responsável por qualquer falta de conformidade do conteúdo ou serviço digital que ocorra ou se manifeste no prazo de dois anos a contar da data em que os bens com elementos digitais foram entregues. Caso o contrato estipule o fornecimento contínuo durante um período superior a dois anos, o vendedor é responsável por qualquer falta de conformidade dos conteúdos ou serviços digitais que ocorra ou se manifeste no período durante o qual os conteúdos ou serviços digitais devam ser fornecidos nos termos do contrato de compra e venda.
+
+▼M1
+
+2-A.
+
+Se, nos termos do artigo 13.º, n.º 2, a reparação for efetuada como meio de ressarcimento para repor os bens em conformidade, o período de responsabilidade é prorrogado uma vez por doze meses.
+
+▼M1
+
+3. Os Estados-Membros podem manter ou introduzir prazos mais longos do que os referidos nos n.ºs 1, 2 e 2-A.
+
+▼B
+
+4. Se, ao abrigo do direito nacional, os meios de ressarcimento previstos no artigo 13.º estiverem igualmente sujeitos a um prazo de prescrição, os Estados-Membros asseguram que esse prazo de prescrição permite ao consumidor exercer os meios de ressarcimento previstos no artigo 13.º por qualquer falta de conformidade pela qual o vendedor seja responsável nos termos dos n.ºs 1 e 2 do presente artigo, e que se manifeste no prazo indicado nesses números.
+
+5. Não obstante os n.ºs 1 e 2 do presente artigo, os Estados-Membros podem manter ou introduzir um prazo de prescrição apenas para os meios de ressarcimento previstos no artigo 13.º. Os Estados-Membros asseguram que esse prazo de prescrição permite ao consumidor exercer os meios de ressarcimento previstos no artigo 13.º por qualquer falta de conformidade pela qual o vendedor seja responsável nos termos dos n.ºs 1 e 2 do presente artigo e que se manifeste no prazo indicado nesses números.
+
+▼M1
+
+5-A
+
+. Os Estados-Membros que, nos termos do n.º 3 ou do n.º 5, não fixem prazos fixos para a responsabilidade do vendedor ou apenas fixem um prazo de prescrição para os meios de ressarcimento, podem derrogar o n.º 2-A, desde que assegurem que a responsabilidade do vendedor ou o prazo de prescrição para os meios de ressarcimento em caso de reparação seja pelo menos equivalente a três anos.
+
+▼B
+
+6. Os Estados-Membros podem determinar que, no caso de bens em segunda mão, o vendedor e o consumidor possam estabelecer cláusulas contratuais ou acordos com um período de responsabilidade ou um prazo de prescrição mais curtos do que os referidos nos n.ºs 1, 2 e 5, desde que não sejam inferiores a um ano.
+
+### Artigo 11.º — Ónus da prova
+
+1. Qualquer falta de conformidade que se manifeste no prazo de um ano a contar da data em que os bens foram entregues é considerada existente à data em que os bens foram entregues, a menos que se comprove o contrário ou que tal presunção seja incompatível com a natureza dos bens ou com a natureza da falta de conformidade. O presente número aplica-se igualmente aos bens com elementos digitais.
+
+2. Em vez do prazo de um ano fixado no n.º 1, os Estados-Membros podem manter ou introduzir um prazo de dois anos a contar da data em que os bens foram entregues.
+
+3. No caso de bens com elementos digitais em que o contrato de compra e venda estipule o fornecimento contínuo de conteúdos ou serviços digitais durante um determinado período, o ónus da prova relativo à determinação da conformidade do conteúdo ou serviço digital durante o período referido no artigo 10.º, n.º 2, incumbe ao vendedor relativamente a qualquer falta de conformidade que se manifeste no prazo referido nesse artigo.
+
+### Artigo 12.º — Obrigação de notificação
+
+Os Estados-Membros podem manter ou introduzir disposições que estabeleçam que, para usufruir dos seus direitos, o consumidor tem de informar o vendedor de uma falta de conformidade no prazo de, pelo menos, dois meses a contar da data em que o consumidor a tiver detetado.
+
+### Artigo 13.º — Meios de ressarcimento em caso de falta de conformidade
+
+1. Em caso de uma falta de conformidade, o consumidor tem direito a que os bens sejam repostos em conformidade, a beneficiar de uma redução proporcional do preço ou à rescisão do contrato, nas condições estabelecidas no presente artigo.
+
+2. Para obter a reposição dos bens em conformidade, o consumidor pode escolher entre a sua reparação e a sua substituição, a menos que o meio de ressarcimento escolhido seja impossível, ou, em comparação com outro meio de ressarcimento, imponha ao vendedor custos que sejam desproporcionados, tendo em conta todas as circunstâncias, incluindo:
+
+- a) O valor que os bens teriam se não se verificasse a falta de conformidade;
+
+- b) A importância da falta de conformidade; e
+
+- c) A possibilidade de recorrer ao meio de ressarcimento alternativo sem inconvenientes significativos para o consumidor.
+
+▼M1
+
+2-A.
+
+Antes de oferecer o meio de ressarcimento para repor os bens em conformidade, o vendedor informa o consumidor do direito deste último de escolher entre a reparação e a substituição, bem como da eventual prorrogação do período de responsabilidade, prevista no artigo 10.º, n.º 2-A.
+
+▼C1
+
+3. O vendedor pode recusar repor a conformidade dos bens se a reparação e a substituição forem impossíveis ou impuserem custos ao vendedor que sejam desproporcionados, tendo em conta todas as circunstâncias, incluindo as que são mencionadas no n.º 2, alíneas a) e b).
+
+▼B
+
+4. O consumidor tem direito a uma redução proporcional do preço, nos termos do artigo 15.º, ou à rescisão do contrato, nos termos do artigo 16.º, em qualquer dos seguintes casos:
+
+- a) O vendedor não efetuou a reparação ou a substituição ou, quando aplicável, não efetuou a reparação ou a substituição nos termos do artigo 14.º, n.ºs 2 e 3, ou o vendedor recusou repor a conformidade dos bens nos termos do n.º 3 do presente artigo;
+
+- b) Verifica-se uma falta de conformidade apesar da tentativa do vendedor de repor os bens em conformidade;
+
+- c) A falta de conformidade é de natureza tão grave que justifica a imediata redução do preço ou a rescisão do contrato de compra e venda; ou
+
+▼C1
+
+- d) O vendedor declarou ou é evidente das circunstâncias que não irá repor os bens em conformidade num prazo razoável ou sem inconvenientes significativos para o consumidor.
+
+▼B
+
+5. O consumidor não tem direito a rescindir o contrato se a falta de conformidade for menor. O ónus da prova de que a falta de conformidade é menor recai sobre o vendedor.
+
+6. O consumidor tem o direito de recusar o pagamento de qualquer parte remanescente do preço ou de parte do preço até que o vendedor tenha cumprido as obrigações que lhe incumbem por força da presente diretiva. Os Estados-Membros podem determinar as condições e modalidades em que o consumidor pode exercer o direito de recusar o pagamento.
+
+7. Os Estados-Membros podem regular a questão de saber se e em que medida o facto de o consumidor contribuir para a falta de conformidade afeta o seu direito a meios de ressarcimento.
+
+### Artigo 14.º — Reparação ou substituição dos bens
+
+▼M1
+
+1. A reparação ou a substituição devem ser efetuadas:
+
+- a) A título gratuito;
+
+- b) Num prazo razoável a contar do momento em que o vendedor tenha sido informado pelo consumidor da falta de conformidade;
+
+- c) Sem inconveniente importante para o consumidor, tendo em conta a natureza dos bens e a finalidade a que o consumidor os destina.
+
+Durante a reparação, em função das especificidades da categoria de bens em causa, em especial da necessidade de o consumidor dispor permanentemente desses bens, o vendedor pode emprestar ao consumidor, a título gratuito, um bem de substituição, incluindo um bem recondicionado.
+
+O vendedor pode fornecer, a pedido expresso do consumidor, um bem recondicionado para cumprir a sua obrigação de substituir o bem.
+
+▼B
+
+2. Sempre que a falta de conformidade deva ser sanada através da reparação ou substituição dos bens, o consumidor deve disponibilizar os bens ao vendedor. O vendedor deve receber os bens substituídos a expensas suas.
+
+3. Sempre que uma reparação exija a retirada de bens que tinham sido instalados de uma forma compatível com a sua natureza e finalidade antes de a falta de conformidade se ter manifestado, ou sempre que esses bens sejam substituídos, a obrigação de reparar ou substituir os bens deve incluir a retirada dos bens não conformes e a instalação de bens de substituição ou bens reparados, ou a assunção dos custos da mesma.
+
+4. O consumidor não é obrigado a pagar pela utilização normal dos bens substituídos durante o período anterior à sua substituição.
+
+### Artigo 15.º — Redução do preço
+
+A redução do preço deve ser proporcional à diminuição do valor dos bens que foram recebidos pelo consumidor, em comparação com o valor que os bens teriam se estivessem em conformidade.
+
+### Artigo 16.º — Rescisão do contrato de compra e venda
+
+1. O consumidor exerce o direito de rescindir o contrato de compra e venda mediante declaração ao vendedor que comunica a decisão de pôr termo ao contrato de compra e venda.
+
+2. Sempre que a falta de conformidade diga respeito a apenas uma parte dos bens entregues no âmbito do contrato de compra e venda e não exista fundamento para a rescisão do contrato de compra e venda nos termos do artigo 9.º, o consumidor pode rescindir o contrato de compra e venda apenas em relação a esses bens e em relação a quaisquer outros bens que o consumidor adquiriu juntamente com os bens não conformes se não se puder razoavelmente esperar do consumidor que aceite ficar apenas com os bens conformes.
+
+3. Sempre que o consumidor rescindir o contrato no seu conjunto ou, nos termos do n.º 2, em relação a alguns dos bens entregues no âmbito do contrato de compra e venda:
+
+- a) O consumidor deve devolver os bens ao vendedor, a expensas deste; e
+
+- b) O vendedor deve reembolsar o consumidor do preço pago pelos bens após a receção dos bens ou da prova do envio dos bens apresentada pelo consumidor.
+
+Para efeitos do presente número, os Estados-Membros podem determinar as modalidades de devolução e reembolso.
+
+### Artigo 17.º — Garantias comerciais
+
+1. Qualquer garantia comercial deve ser vinculativa para o garante nos termos das condições previstas na declaração de garantia comercial e publicidade conexa, disponibilizadas aquando ou antes da celebração do contrato. Nas condições previstas no presente artigo e sem prejuízo de quaisquer outras disposições aplicáveis do direito da União ou do direito nacional, caso um produtor dê ao consumidor uma garantia comercial de durabilidade para determinados bens durante um determinado período tempo, o produtor é diretamente responsável perante o consumidor, durante todo o período da garantia comercial de durabilidade pela reparação ou substituição dos bens nos termos do artigo 14.º. O produtor pode oferecer ao consumidor condições mais favoráveis na declaração de garantia comercial de durabilidade.
+
+Se as condições previstas na declaração de garantia comercial forem menos vantajosas para o consumidor do que as previstas na publicidade conexa, a garantia comercial deve ser vinculativa nas condições previstas na publicidade relativa à garantia comercial, a menos que, antes da celebração do contrato, a publicidade conexa tenha sido corrigida de uma forma idêntica ou comparável àquela em que foi feita.
+
+2. A declaração de garantia comercial deve ser prestada ao consumidor num suporte duradouro, o mais tardar no momento da entrega dos bens. A declaração de garantia comercial deve ser expressa numa linguagem clara e inteligível. Deve incluir o seguinte:
+
+- a) Uma declaração clara de que o consumidor tem direito legal a meios de ressarcimento por parte do vendedor a título gratuito em caso de falta de conformidade dos bens e que esses meios de ressarcimento não são afetados pela garantia comercial;
+
+- b) O nome e o endereço do garante;
+
+- c) O procedimento a seguir pelo consumidor para obter a execução da garantia comercial;
+
+- d) A designação dos bens aos quais a garantia comercial se aplica; e
+
+- e) Os termos da garantia comercial.
+
+3. A não conformidade com o n.º 2 não prejudica a natureza vinculativa da garantia comercial para o garante.
+
+4. Os Estados-Membros podem estabelecer regras sobre outros aspetos relativos às garantias comerciais que não sejam regidos pelo presente artigo, incluindo regras sobre a língua ou as línguas em que a declaração de garantia comercial deve ser disponibilizada ao consumidor.
+
+### Artigo 18.º — Direito de regresso
+
+Caso o vendedor seja responsável perante o consumidor por uma falta de conformidade resultante de um ato ou omissão, nomeadamente a não disponibilização de atualizações de bens com elementos digitais nos termos do artigo 7.º, n.º 3, de uma pessoa em estádios anteriores da cadeia contratual, o vendedor deve beneficiar do direito a agir contra a pessoa ou pessoas responsáveis na cadeia contratual. A pessoa responsável contra a qual o fornecedor pode exercer o direito de regresso, bem como as ações pertinentes e as condições de exercício, são determinadas pelo direito nacional.
+
+### Artigo 19.º — Aplicação
+
+1. Os Estados-Membros asseguram a existência de meios adequados e eficazes para garantir o cumprimento do disposto na presente diretiva.
+
+2. Os meios referidos no n.º 1 incluem disposições que, nos termos do direito nacional, permitem a um ou mais dos organismos a seguir indicados, tal como determinados por esse direito, solicitar que os tribunais ou as entidades administrativas competentes se pronunciem para garantir a aplicação das disposições nacionais de transposição da presente diretiva:
+
+- a) Entidades públicas ou seus representantes;
+
+- b) Organizações de consumidores com um interesse legítimo na defesa dos consumidores;
+
+- c) Organizações profissionais com um interesse legítimo em agir.
+
+### Artigo 20.º — Informação do consumidor
+
+Os Estados-Membros tomam medidas adequadas para assegurar que a informação sobre os direitos dos consumidores ao abrigo da presente diretiva e sobre os meios para a aplicação desses direitos esteja à disposição dos consumidores.
+
+### Artigo 21.º — Caráter imperativo
+
+1. Salvo disposição em contrário na presente diretiva, qualquer acordo contratual que, em detrimento do consumidor, exclua a aplicação das disposições nacionais que transpõem a presente diretiva, constitua uma derrogação dessas disposições ou altere os efeitos destas antes de o vendedor ser alertado sobre a falta de conformidade dos bens pelo consumidor, não é vinculativo para o consumidor.
+
+2. A presente diretiva não impede o vendedor de propor ao consumidor disposições contratuais que vão além da proteção nela prevista.
+
+### Artigo 22.º — Alteração do Regulamento (UE) 2017/2394 e da Diretiva 2009/22/CE
+
+1. No anexo do Regulamento (UE) 2017/2394, o ponto 3 passa a ter a seguinte redação:
+
+- «3. Diretiva (UE) 2019/771 do Parlamento Europeu e do Conselho, de 20 de maio de 2019, relativa a certos aspetos que dizem respeito a contratos de compra e venda de bens, que altera o Regulamento (UE) 2017/2394 e a Diretiva 2009/22/CE e que revoga a Diretiva 1999/44/CE (JO L 136 de 22.5.2019, p. 28).»;
+
+2. No anexo I da Diretiva 2009/22/CE, o ponto 7 passa a ter a seguinte redação:
+
+- «7. Diretiva (UE) 2019/771 do Parlamento Europeu e do Conselho, de 20 de maio de 2019, relativa a certos aspetos que dizem respeito a contratos de compra e venda de bens, que altera o Regulamento (UE) 2017/2394 e a Diretiva 2009/22/CE e que revoga a Diretiva 1999/44/CE (JO L 136 de 22.5.2019, p. 28).».
+
+### Artigo 23.º — Revogação da Diretiva 1999/44/CE
+
+A Diretiva 1999/44/CE é revogada com efeitos a partir de 1 de janeiro de 2022.
+
+As remissões para a diretiva revogada entendem-se feitas para a presente diretiva e são lidas de acordo com a tabela de correspondência constante do anexo.
+
+### Artigo 24.º — Transposição
+
+1. Até 1 de julho de 2021, os Estados-Membros adotam e publicam as disposições necessárias para dar cumprimento à presente diretiva. Do facto informam imediatamente a Comissão.
+
+Os Estados-Membros aplicam essas disposições a partir de 1 de janeiro de 2022.
+
+As disposições adotadas pelos Estados-Membros fazem referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como é feita a referência.
+
+Os Estados-Membros comunicam à Comissão o texto das disposições de direito interno que adotarem no domínio regulado pela presente diretiva.
+
+2. As disposições da presente diretiva não se aplicam aos contratos celebrados antes de 1 de janeiro de 2022.
+
+### Artigo 25.º — Reexame
+
+Até 12 de junho de 2024, a Comissão procede ao reexame da aplicação da presente diretiva, designadamente das disposições relativas aos meios de ressarcimento e ao ónus da prova – também no que diz respeito aos bens em segunda mão e aos bens vendidos em hasta pública – e à garantia comercial de durabilidade dada pelo produtor, e apresenta um relatório ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu. O relatório avalia, em especial, se a aplicação da presente diretiva e da Diretiva (UE) 2019/770 assegura um regime uniforme e coerente para o bom funcionamento do mercado interno no que diz respeito ao fornecimento de conteúdos digitais, serviços digitais e bens com elementos digitais, em consonância com os princípios que regem as políticas da União. O relatório deve ser acompanhado, se for caso disso, de propostas legislativas.
+
+### Artigo 26.º — Entrada em vigor
+
+A presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+No entanto, o artigo 22.º é aplicável a partir de 1 de janeiro de 2022.
+
+### Artigo 27.º — Destinatários
+
+Os destinatários da presente decisão são os Estados–Membros.
+
+## ANEXO — TABELA DE CORRESPONDÊNCIA
+
+| Diretiva 199/44/CE | Presente regulamento |
+|---|---|
+| Artigo 1.º, n.º 1 | Artigo 1.º |
+| Artigo 1.º, n.º 2, alínea a) | Artigo 2.º, ponto 2 |
+| Artigo 1.º, n.º 2, alínea b), primeiro travessão | Artigo 3.º, n.º 4, alínea b) |
+| Artigo 1.º, n.º 2, alínea b), segundo e terceiro travessões | Artigo 2.º, ponto 5, alínea a) |
+| Artigo 1.º, n.º 2, alínea c) | Artigo 2.º, ponto 3 |
+| Artigo 1.º, n.º 2, alínea d) | Artigo 2.º, ponto 4 |
+| Artigo 1.º, n.º 2, alínea e) | Artigo 2.º, ponto 12 |
+| Artigo 1.º, n.º 3 | Artigo 2.º, ponto 15 e artigo 3.º, n.º 5, alínea a) |
+| Artigo 1.º, n.º 4 | Artigo 3.º, n.º 2 |
+| Artigo 2.º, n.º 1 | Artigo 5.º |
+| Artigo 2.º, n.º 2, alínea a) | Artigo 6.º, alínea a) e artigo 7.º, n.º 1, alínea b) |
+| Artigo 2.º, n.º 2, alínea b) | Artigo 6.º, alínea b) |
+| Artigo 2.º, n.º 2, alínea c) | Artigo 7.º, n.º 1, alínea a) |
+| Artigo 2.º, n.º 2, alínea d) | Artigo 7.º, n.º 1, alínea d) |
+| Artigo 2.º, n.º 3 | Artigo 7.º, n.º 5 |
+| Artigo 2.º, n.º 4 | Artigo 7.º, n.º 2 |
+| Artigo 2.º, n.º 5 | Artigo 8.º |
+| Artigo 3.º, n.º 1 | Artigo 10.º, n.º 1 |
+| Artigo 3.º, n.º 2 | Artigo 13.º, n.º 1 |
+| Artigo 3.º, n.º 3, primeiro parágrafo | Artigo 13.º, n.º 2 e artigo 14.º, n.º 1, alínea a) |
+| Artigo 3.º, n.º 3, segundo parágrafo | Artigo 13.º, n.º 2 |
+| Artigo 3.º, n.º 3, terceiro parágrafo | Artigo 14.º, n.º 1, alíneas b) e c) |
+| Artigo 3.º, n.º 4 | Artigo 2.º, n.º 14 |
+| Artigo 3.º, n.º 5 | Artigo 13.º, n.º 4 |
+| Artigo 3.º, n.º 6 | Artigo 13.º, n.º 5 |
+| Artigo 4.º | Artigo 18.º |
+| Artigo 5.º, n.º 1 | Artigo 10.º, n.ºs 1, 2, 3, 4 e 5 |
+| Artigo 5.º, n.º 2 | Artigo 12.º |
+| Artigo 5.º, n.º 3 | Artigo 11.º |
+| Artigo 6.º, n.º 1 | Artigo 17.º, n.º 1 |
+| Artigo 6.º, n.º 2 | Artigo 17.º, n.º 2 |
+| Artigo 6.º, n.º 3 | Artigo 17.º, n.º 2 |
+| Artigo 6.º, n.º 4 | Artigo 17.º, n.º 4 |
+| Artigo 6.º, n.º 5 | Artigo 17.º, n.º 3 |
+| Artigo 7.º, n.º 1, primeiro parágrafo | Artigo 21.º, n.º 1 |
+| Artigo 7.º, n.º 1, segundo parágrafo | Artigo 10.º, n.º 6 |
+| Artigo 7.º, n.º 2 | — |
+| Artigos 8.º, n.º 1 | Artigo 3.º, n.ºs 6 e 7 |
+| Artigos 8.º, n.º 2 | Artigo 4.º |
+| Artigo 9.º | Artigos 19.º e 20.º |
+| Artigo 10.º | Artigo 22.º |
+| Artigo 11.º, n.º 1, primeiro parágrafo | Artigo 24.º, n.º 1, primeiro parágrafo |
+| Artigo 11.º, n.º 1, segundo parágrafo | Artigo 24.º, n.º 1, terceiro parágrafo |
+| Artigo 11.º, n.º 2 | Artigo 24.º, n.º 1, quarto parágrafo |
+| Artigo 12.º | Artigo 25.º |
+| Artigo 13.º | Artigo 26.º |
+| Artigo 14.º | Artigo 27.º |

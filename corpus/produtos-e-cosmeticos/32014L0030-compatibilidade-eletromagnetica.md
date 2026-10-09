@@ -1,0 +1,934 @@
+---
+celex: 32014L0030
+nome_curto: Compatibilidade eletromagnética
+tipo: Diretiva
+titulo: Diretiva 2014/30/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à compatibilidade eletromagnética (reformulação) Texto relevante para efeitos do EEE
+data_documento: '2014-02-26'
+em_vigor: true
+entrada_em_vigor:
+- '2014-04-18'
+- '2016-04-20'
+texto: consolidado
+versao_consolidada: 02014L0030-20260530
+versao_aplicavel_desde: '2026-05-30'
+eli: http://data.europa.eu/eli/dir/2014/30/oj
+repertorio:
+- 13.30.13 Material elétrico
+url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014L0030
+url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02014L0030-20260530
+lingua: pt
+fonte: cellar:application/xhtml+xml
+obtido_em: '2026-10-09'
+---
+
+# Diretiva 32014L0030 — Compatibilidade eletromagnética
+
+**Título oficial:** Diretiva 2014/30/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à compatibilidade eletromagnética (reformulação) Texto relevante para efeitos do EEE
+
+**Texto:** versão consolidada aplicável desde 2026-05-30 (02014L0030-20260530).
+
+> Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
+
+**Considerandos (preâmbulo):** ficheiro `32014L0030-compatibilidade-eletromagnetica.considerandos.md`.
+
+**Contexto** (sínteses oficiais, transposição em Portugal, jurisprudência do TJUE): ficheiro `32014L0030-compatibilidade-eletromagnetica.contexto.md`.
+
+**EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014L0030
+
+## Alterações incorporadas nesta versão
+
+No texto, ▼M1/►M1 marcam disposições alteradas pelo acto M1 (e assim por diante), ▼C1 marca rectificações, ▼A1 actos de adesão e ▼B o texto de base.
+
+- ►M1 REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018 — L 212 — 1 — 22.8.2018 (CELEX 32018R1139)
+- ►M2 DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024 — L 2749 — 1 — 8.11.2024 (CELEX 32024L2749)
+
+## Texto
+
+▼B
+
+## CAPÍTULO 1 — DISPOSIÇÕES GERAIS
+
+### Artigo 1.º — Objeto
+
+A presente diretiva regulamenta a compatibilidade eletromagnética dos equipamentos e tem como objetivo assegurar o funcionamento do mercado interno, exigindo que os equipamentos cumpram um nível adequado de compatibilidade eletromagnética.
+
+### Artigo 2.º — Âmbito de aplicação
+
+1. A presente diretiva é aplicável ao equipamento definido no artigo 3.º
+
+2. A presente diretiva não se aplica a:
+
+- a) Equipamentos abrangidos pela Diretiva 1999/5/CE;
+
+▼M1
+
+- b) Equipamento aeronáutico a seguir indicado quando esse equipamento se encontre abrangido pelo âmbito de aplicação do Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho ([^1]) e se destine exclusivamente a uma utilização aeronáutica:
+
+  - i) aeronaves que não sejam aeronaves não tripuladas, bem como motores, hélices, peças e equipamento não instalado associado;
+
+  - ii) aeronaves não tripuladas, bem como motores, hélices, peças e equipamento não instalado associado cujos projetos tenham sido certificados nos termos do artigo 56.º, n.º 1 do referido regulamento e se destinem a operar apenas em frequências atribuídas de acordo com o Regulamento das Radiocomunicações da União Internacional das Telecomunicações para uso aeronáutico protegido;
+
+▼B
+
+- c) Equipamentos de rádio utilizados por radioamadores, na aceção que lhe é dada pelos regulamentos de rádio adotados no âmbito da Constituição da União Internacional das Telecomunicações e da Convenção da União Internacional das Telecomunicações ([^2]), exceto se estiverem disponíveis no mercado;
+
+- d) Equipamentos cujas características físicas tenham uma natureza intrínseca tal que:
+
+  - i) sejam incapazes de gerar ou contribuir para emissões eletromagnéticas que excedam o nível que permite aos equipamentos de rádio e de telecomunicações, bem como a outros equipamentos, funcionar da forma prevista, e
+
+  - ii) funcionem sem degradação inaceitável na presença de perturbações eletromagnéticas normalmente resultantes da sua utilização prevista;
+
+- e) Conjuntos de avaliação fabricados por medida, destinados a profissionais, para uso exclusivo em instalações de investigação e desenvolvimento.
+
+Para efeitos do primeiro parágrafo, alínea c), os conjuntos de componentes a montar por radioamadores, e os equipamentos disponíveis no mercado e por eles alterados para utilização própria, não são considerados equipamentos disponíveis no mercado.
+
+3. Caso, relativamente a um equipamento referido no n.º 1, os requisitos essenciais previstos no anexo I sejam total ou parcialmente definidos mais especificamente por outra legislação da União, a presente diretiva não é aplicável, ou deixa de o ser, a esse equipamento no que se refere a esses requisitos, a partir da data de execução da legislação da União em causa.
+
+4. A presente diretiva não prejudica a aplicação da legislação da União nem da legislação nacional que regulamenta a segurança do equipamento.
+
+### Artigo 3.º — Definições
+
+1. Para efeitos da presente diretiva, entende-se por:
+
+- 1) «Equipamento», um aparelho ou uma instalação fixa;
+
+- 2) «Aparelho», um dispositivo acabado, ou uma combinação de dispositivos acabados, disponível no mercado como uma única unidade funcional, destinado ao utilizador final e suscetível de gerar perturbações eletromagnéticas, ou cujo desempenho possa ser afetado por tais perturbações;
+
+- 3) «Instalação fixa», uma combinação específica de diversos tipos de aparelhos e, em certos casos, de outros dispositivos, montados, instalados e destinados a ser permanentemente utilizados numa localização predefinida;
+
+- 4) «Compatibilidade eletromagnética», a capacidade do equipamento para funcionar satisfatoriamente no seu ambiente eletromagnético sem introduzir perturbações eletromagnéticas intoleráveis noutro equipamento presente nesse ambiente;
+
+- 5) «Perturbação eletromagnética», um fenómeno eletromagnético suscetível de degradar o desempenho do equipamento; uma perturbação eletromagnética pode ser um ruído eletromagnético, um sinal indesejável ou uma alteração no próprio meio de propagação;
+
+- 6) «Imunidade», a capacidade do equipamento para funcionar de acordo com o previsto, sem sofrer degradações na presença de perturbações eletromagnéticas;
+
+- 7) «Razões de segurança», as razões de salvaguarda da vida humana ou dos bens;
+
+- 8) «Ambiente eletromagnético», todos os fenómenos eletromagnéticos observáveis num dado lugar;
+
+- 9) «Disponibilização no mercado», a oferta de aparelhos para distribuição, consumo ou utilização no mercado da União no âmbito de uma atividade comercial, a título oneroso ou gratuito;
+
+- 10) «Colocação no mercado», a primeira disponibilização de um aparelho no mercado da União;
+
+- 11) «Fabricante», uma pessoa singular ou coletiva que fabrica ou manda conceber ou fabricar aparelhos e que os comercializa com o seu nome ou a sua marca comercial;
+
+- 12) «Mandatário», uma pessoa singular ou coletiva estabelecida na União, mandatada por escrito pelo fabricante para praticar determinados atos em seu nome;
+
+- 13) «Importador», uma pessoa singular ou coletiva estabelecida na União que coloca aparelhos provenientes de países terceiros no mercado da União;
+
+- 14) «Distribuidor», uma pessoa singular ou coletiva que faz parte da cadeia de distribuição, com exceção do fabricante ou do importador, e que disponibiliza aparelhos no mercado;
+
+- 15) «Operadores económicos», o fabricante, o mandatário, o importador e o distribuidor;
+
+- 16) «Especificação técnica», um documento que define os requisitos técnicos que o equipamento deve cumprir;
+
+- 17) «Norma harmonizada», uma norma harmonizada na aceção do artigo 2.º, ponto 1, alínea c), do Regulamento (UE) n.º 1025/2012;
+
+- 18) «Acreditação», acreditação na aceção do artigo 2.º, ponto 10, do Regulamento (CE) n.º 765/2008;
+
+- 19) «Organismo nacional de acreditação», um organismo nacional de acreditação na aceção do artigo 2.º, ponto 11, do Regulamento (CE) n.º 765/2008;
+
+- 20) «Avaliação da conformidade», o processo de verificação através do qual se demonstra se estão cumpridos os requisitos essenciais previstos na presente diretiva relativos a um aparelho;
+
+- 21) «Organismo de avaliação da conformidade», um organismo que efetua atividades de avaliação da conformidade, nomeadamente calibração, ensaio, certificação e inspeção;
+
+- 22) «Recolha», uma medida destinada a obter o retorno de um aparelho já disponibilizado ao utilizador final;
+
+- 23) «Retirada», uma medida destinada a impedir a disponibilização no mercado de um aparelho presente na cadeia de distribuição;
+
+- 24) «Legislação de harmonização da União», legislação da União destinada a harmonizar as condições de comercialização dos produtos;
+
+- 25) «Marcação CE», a marcação através da qual o fabricante indica que um aparelho cumpre os requisitos aplicáveis estabelecidos na legislação de harmonização da União que prevê a sua aposição;
+
+▼M2
+
+- 26) «Bens relevantes em situação de crise», bens relevantes em situação de crise na aceção do artigo 3.º, ponto 6, do Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho ([^3]);
+
+- 27) «Modo de emergência do mercado interno», modo de emergência do mercado interno na aceção do artigo 3.º, ponto 3, do Regulamento (UE) 2024/2747.
+
+▼B
+
+2. Para efeitos da presente diretiva, são considerados aparelhos:
+
+- 1) Os «componentes» ou «subconjuntos» destinados a ser incorporados num aparelho pelo utilizador final, suscetíveis de gerar perturbações eletromagnéticas ou cujo desempenho pode ser afetado por tais perturbações;
+
+- 2) As «instalações móveis», definidas como uma combinação de aparelhos e, se for o caso, outros dispositivos destinados a ser movidos e utilizados numa série de locais.
+
+### Artigo 4.º — Disponibilização no mercado e/ou entrada em serviço
+
+Os Estados-Membros devem tomar todas as medidas adequadas para assegurar que o equipamento só seja disponibilizado no mercado e/ou posto em serviço se cumprir o disposto na presente diretiva, sendo devidamente instalado, mantido e utilizado para os fins a que se destina.
+
+### Artigo 5.º — Livre circulação do equipamento
+
+1. Os Estados-Membros não podem impedir, por razões de compatibilidade eletromagnética, a disponibilização no mercado e/ou a entrada em serviço, no seu território, de equipamento conforme com a presente diretiva.
+
+2. Os requisitos da presente diretiva não podem impedir a aplicação, por qualquer Estado-Membro, das seguintes medidas especiais referentes à entrada em serviço ou à utilização de equipamento:
+
+- a) Medidas para superar um problema de compatibilidade eletromagnética existente ou previsto num local específico;
+
+- b) Medidas tomadas por questões de segurança para proteger redes públicas de telecomunicações ou estações de receção ou transmissão quando utilizadas por razões de segurança em situações espetrais bem definidas.
+
+Sem prejuízo da Diretiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas ([^4]), os Estados-Membros devem notificar a Comissão e os demais Estados-Membros dessas medidas especiais.
+
+As medidas especiais que tenham sido aceites devem ser publicadas pela Comissão no Jornal Oficial da União Europeia.
+
+3. Os Estados-Membros não podem levantar objeções à exibição e/ou demonstração, em feiras comerciais, exposições ou eventos similares, de equipamentos não conformes com a presente diretiva, desde que um sinal visível indique claramente que esses equipamentos não podem ser disponibilizados no mercado e/ou postos em serviço enquanto não tiverem sido postos em conformidade com a presente diretiva. As demonstrações só podem realizar-se se tiverem sido tomadas as medidas adequadas para evitar perturbações eletromagnéticas.
+
+### Artigo 6.º — Requisitos essenciais
+
+Os equipamentos devem cumprir os requisitos essenciais estabelecidos no anexo I.
+
+## CAPÍTULO 2 — DEVERES DOS OPERADORES ECONÓMICOS
+
+### Artigo 7.º — Obrigações dos fabricantes
+
+1. Quando colocam os seus aparelhos no mercado, os fabricantes devem assegurar que esses aparelhos foram concebidos e fabricados em conformidade com os requisitos essenciais estabelecidos no anexo I.
+
+2. Os fabricantes devem reunir a documentação técnica referida no anexo II ou no anexo III e efetuar ou mandar efetuar o procedimento de avaliação da conformidade referido no artigo 14.º.
+
+Caso a conformidade de um aparelho com os requisitos aplicáveis tenha sido demonstrada através desse procedimento, os fabricantes devem elaborar uma declaração UE de conformidade e apor a marcação CE.
+
+3. Os fabricantes devem conservar a documentação técnica e a declaração UE de conformidade durante 10 anos a contar da data de colocação do aparelho no mercado.
+
+4. Os fabricantes devem assegurar a existência de procedimentos para manter a conformidade da produção em série com a presente diretiva. As alterações efetuadas no projeto ou nas características dos aparelhos e as alterações das normas harmonizadas ou das outras especificações técnicas que constituíram a referência para a comprovação da conformidade dos aparelhos devem ser devidamente tidas em conta.
+
+5. Os fabricantes devem assegurar que nos aparelhos que colocaram no mercado figure o tipo, o número do lote ou da série, ou quaisquer outros elementos que permitam a respetiva identificação, ou, se as dimensões ou a natureza dos aparelhos não o permitirem, que as informações exigidas constem da embalagem ou de um documento que acompanhe o aparelho.
+
+6. Os fabricantes devem indicar o seu nome, o nome comercial registado ou a marca registada e o endereço postal de contacto no aparelho, ou, se tal não for possível, na embalagem ou num documento que o acompanhe. O endereço deve indicar um único ponto de contacto do fabricante. Os dados de contacto devem ser facultados numa língua facilmente compreensível pelos utilizadores finais e pelas autoridades de fiscalização do mercado.
+
+7. Os fabricantes devem assegurar que o aparelho seja acompanhado de instruções e das informações referidas no artigo 18.º numa língua facilmente compreensível pelos consumidores e por outros utilizadores finais, de acordo com o que o Estado-Membro em causa determinar. Essas instruções e informações, bem como a rotulagem, devem ser claras, compreensíveis e inteligíveis.
+
+8. Os fabricantes que considerem ou tenham motivos para crer que um aparelho que colocaram no mercado não é conforme com a presente diretiva devem tomar imediatamente as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o aparelho apresentar um risco, os fabricantes devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o aparelho no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.
+
+9. Mediante pedido fundamentado da autoridade nacional competente, os fabricantes devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico, numa língua facilmente compreensível por essa autoridade, a fim de demonstrar a conformidade do aparelho com a presente diretiva. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de aparelhos que tenham colocado no mercado.
+
+### Artigo 8.º — Mandatários
+
+1. Os fabricantes podem designar por escrito um mandatário.
+
+Os deveres previstos no artigo 7.º, n.º 1, e o dever de elaborar a documentação técnica a que se refere o artigo 7.º, n.º 2, não fazem parte do mandato.
+
+2. O mandatário deve praticar os atos definidos no mandato conferido pelo fabricante. O mandato deve permitir ao mandatário, no mínimo:
+
+- a) Manter à disposição das autoridades nacionais de fiscalização do mercado a declaração UE de conformidade e a documentação técnica pelo prazo de 10 anos a contar da data de colocação do aparelho no mercado;
+
+- b) Mediante pedido fundamentado da autoridade nacional competente, facultar-lhe toda a informação e a documentação necessárias para demonstrar a conformidade do aparelho;
+
+- c) Cooperar com a autoridade nacional competente, a pedido desta, no que se refere a qualquer ação para eliminar os riscos decorrentes de aparelhos abrangidos pelo seu mandato.
+
+### Artigo 9.º — Deveres dos importadores
+
+1. Os importadores só podem colocar no mercado aparelhos conformes.
+
+2. Antes de colocarem um aparelho no mercado, os importadores devem assegurar que o fabricante aplicou o procedimento de avaliação da conformidade adequado referido no artigo 14.º. Devem assegurar que o fabricante elaborou a documentação técnica, que o aparelho ostenta a marcação CE e vem acompanhado dos documentos necessários, e que o fabricante respeitou os requisitos previstos no artigo 7.º, n.ºs 5 e 6.
+
+Caso o importador considere ou tenha motivos para crer que um aparelho não é conforme com os requisitos essenciais previstos no anexo I, não deve colocar o aparelho no mercado até que este seja posto em conformidade. Além disso, caso o aparelho apresente um risco, o importador deve informar desse facto o fabricante e as autoridades de fiscalização do mercado.
+
+3. Os importadores devem indicar o seu nome, o nome comercial registado ou a marca registada e o endereço postal de contacto no aparelho, ou, se tal não for possível, na embalagem ou num documento que o acompanhe. Os dados de contacto devem ser facultados numa língua facilmente compreensível pelos utilizadores finais e pelas autoridades de fiscalização do mercado.
+
+4. Os importadores devem assegurar que o aparelho seja acompanhado de instruções e das informações referidas no artigo 18.º numa língua facilmente compreensível pelos consumidores e por outros utilizadores finais, de acordo com o que o Estado-Membro em causa determinar.
+
+5. Os importadores devem assegurar que, enquanto um aparelho estiver sob a sua responsabilidade, as suas condições de armazenamento ou de transporte não prejudiquem a sua conformidade com os requisitos essenciais previstos no anexo I.
+
+6. Os importadores que considerem ou tenham motivos para crer que um aparelho que colocaram no mercado não é conforme com a presente diretiva, devem tomar imediatamente as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, conforme adequado. Além disso, se o aparelho apresentar um risco, os importadores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o aparelho no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.
+
+7. Durante 10 anos a contar da data de colocação de um aparelho no mercado, os importadores devem manter um exemplar da declaração UE de conformidade à disposição das autoridades de fiscalização do mercado e assegurar que a documentação técnica lhes possa ser facultada, a pedido.
+
+8. Mediante pedido fundamentado da autoridade nacional competente, os importadores devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico, numa língua facilmente compreensível por essa autoridade, a fim de demonstrar a conformidade do aparelho. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de aparelhos que tenham colocado no mercado.
+
+### Artigo 10.º — Deveres dos distribuidores
+
+1. Ao disponibilizarem um aparelho no mercado, os distribuidores devem agir com a devida diligência em relação aos requisitos da presente diretiva.
+
+2. Antes de disponibilizarem um aparelho no mercado, os distribuidores devem verificar se o mesmo ostenta a marcação CE, se vem acompanhado dos documentos exigidos e das instruções e informações referidas no artigo 18.º, numa língua facilmente compreensível pelos consumidores e por outros utilizadores finais no Estado-Membro em que o aparelho é disponibilizado no mercado, e se o fabricante e o importador respeitaram os requisitos previstos, respetivamente, no artigo 7.º, n.ºs 5 e 6, e no artigo 9.º, n.º 3.
+
+Caso o distribuidor considere ou tenha motivos para crer que um aparelho não é conforme com os requisitos essenciais previstos no anexo I, não deve disponibilizar o aparelho no mercado até que este seja posto em conformidade. Além disso, caso o aparelho apresente um risco, o distribuidor deve informar desse facto o fabricante ou o importador e as autoridades de fiscalização do mercado.
+
+3. Os distribuidores devem assegurar que, enquanto um aparelho estiver sob a sua responsabilidade, as suas condições de armazenamento ou de transporte não prejudiquem a sua conformidade com os requisitos essenciais previstos no anexo I.
+
+4. Os distribuidores que considerem ou tenham motivos para crer que um aparelho que disponibilizaram no mercado não é conforme com a presente diretiva devem tomar as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o aparelho apresentar um risco, os distribuidores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o aparelho no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.
+
+5. Mediante pedido fundamentado da autoridade nacional competente, os distribuidores devem facultar toda a informação e documentação necessárias, em papel ou em suporte eletrónico, a fim de demonstrar a conformidade de um aparelho. Os distribuidores devem cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de aparelhos que tenham disponibilizado no mercado.
+
+### Artigo 11.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores
+
+Os importadores ou os distribuidores são considerados fabricantes para efeitos da presente diretiva, ficando sujeitos aos mesmos deveres que estes nos termos do artigo 7.º, sempre que coloquem no mercado aparelhos em seu nome ou ao abrigo de uma marca sua, ou alterem aparelhos já colocados no mercado de tal modo que a conformidade com a presente diretiva possa ser afetada.
+
+### Artigo 12.º — Identificação dos operadores económicos
+
+A pedido das autoridades de fiscalização do mercado, os operadores económicos devem identificar:
+
+- a) O operador económico que lhes forneceu um aparelho;
+
+- b) O operador económico ao qual forneceram um aparelho.
+
+Os operadores económicos devem estar em condições de apresentar as informações referidas no primeiro parágrafo pelo prazo de 10 anos após lhes ter sido fornecido o aparelho, e de 10 anos após terem fornecido o aparelho.
+
+## CAPÍTULO 3 — CONFORMIDADE DO EQUIPAMENTO
+
+### Artigo 13.º — Presunção da conformidade do equipamento
+
+Presume-se que o equipamento conforme com as normas harmonizadas ou partes destas, cujas referências tenham sido publicadas no Jornal Oficial da União Europeia, é conforme com os requisitos essenciais previstos no anexo I, abrangidos pelas referidas normas ou por partes destas.
+
+### Artigo 14.º — Procedimentos de avaliação da conformidade dos aparelhos
+
+A conformidade dos aparelhos com os requisitos essenciais previstos no anexo I deve ser demonstrada por um dos seguintes procedimentos de avaliação da conformidade:
+
+- a) Controlo interno da produção previsto no anexo II;
+
+- b) Exame UE de tipo seguido de conformidade com o tipo baseada no controlo interno da produção constante do anexo III.
+
+O fabricante pode optar por limitar a aplicação do procedimento referido no primeiro parágrafo, alínea b), a alguns aspetos dos requisitos essenciais, desde que o procedimento referido no primeiro parágrafo, alínea a), seja aplicado aos outros aspetos dos requisitos essenciais.
+
+### Artigo 15.º — Declaração UE de conformidade
+
+1. A declaração UE de conformidade deve indicar que foi demonstrado o cumprimento dos requisitos essenciais especificados no anexo I.
+
+2. A declaração UE de conformidade deve respeitar o modelo que consta do anexo IV, conter os elementos especificados nos módulos aplicáveis que constam dos anexos II e III e ser permanentemente atualizada. A referida declaração deve ser traduzida para a língua ou línguas exigidas pelo Estado-Membro no qual o aparelho é colocado ou disponibilizado no mercado.
+
+3. Caso um aparelho esteja sujeito a mais do que um ato da União que exija uma declaração UE de conformidade, deve ser elaborada uma única declaração UE de conformidade referente a todos esses atos da União. Essa declaração deve conter a identificação dos atos da União em causa, incluindo as respetivas referências de publicação.
+
+4. Ao elaborar a declaração UE de conformidade, o fabricante assume a responsabilidade pela conformidade do aparelho com os requisitos previstos na presente diretiva.
+
+### Artigo 16.º — Princípios gerais da marcação CE
+
+A marcação CE está sujeita aos princípios gerais previstos no artigo 30.º do Regulamento (CE) n.º 765/2008.
+
+### Artigo 17.º — Regras e condições para a aposição da marcação CE
+
+1. A marcação CE deve ser aposta nos aparelhos ou na respetiva placa de identificação de modo visível, legível e indelével. Caso isso não seja possível ou não possa ser garantido devido à natureza do aparelho, a marcação CE deve ser aposta na embalagem e nos documentos que o acompanham.
+
+2. A marcação CE deve ser aposta antes de o aparelho ser colocado no mercado.
+
+3. Os Estados-Membros devem basear-se nos mecanismos existentes para assegurar a correta aplicação do regime de marcação CE e devem tomar as medidas adequadas em caso de utilização indevida dessa marcação.
+
+### Artigo 18.º — Informações sobre a utilização dos aparelhos
+
+1. Os aparelhos devem ser acompanhados de informações sobre as precauções específicas a tomar aquando da sua montagem, instalação, manutenção ou utilização, a fim de garantir que, no momento da entrada em serviço, os aparelhos cumpram os requisitos essenciais referidos no anexo I, ponto 1.
+
+2. Os aparelhos em relação aos quais o cumprimento dos requisitos essenciais referidos no anexo I, ponto 1, não esteja assegurado em áreas residenciais devem ser acompanhados de uma indicação clara dessa restrição de utilização, inclusivamente, e sempre que adequado, na embalagem.
+
+3. As informações necessárias para permitir a utilização dos aparelhos para os fins a que se destinam devem ser incluídas nas instruções que os acompanham.
+
+### Artigo 19.º — Instalações fixas
+
+1. Os aparelhos que tenham sido disponibilizados no mercado e que possam ser incorporados em instalações fixas estão sujeitos a todas as disposições pertinentes relativas a aparelhos constantes da presente diretiva.
+
+Todavia, os requisitos dos artigos 6.º a 12.º e dos artigos 14.º a 18.º não são obrigatórios para os aparelhos destinados a incorporação numa instalação fixa específica e que não sejam disponibilizados no mercado sob outra forma.
+
+Nesses casos, a documentação que acompanha o aparelho deve identificar a instalação fixa e as suas características de compatibilidade eletromagnética, e indicar as precauções a tomar para a incorporação do aparelho nessa instalação, de maneira a não comprometer a conformidade da instalação especificada. A documentação deve também incluir as informações referidas no artigo 7.º, n.ºs 5 e 6, e no artigo 9.º, n.º 3.
+
+As boas práticas de engenharia a que se refere o anexo I, ponto 2, devem estar documentadas e a pessoa ou pessoas responsáveis devem manter a referida documentação à disposição das autoridades nacionais pertinentes, para efeitos de inspeção, enquanto a instalação fixa estiver em funcionamento.
+
+2. Caso existam indícios de não conformidade da instalação fixa, em especial se existirem queixas sobre perturbações geradas pela instalação, as autoridades competentes do Estado-Membro em causa podem solicitar provas da conformidade da instalação fixa e, se tal for necessário, proceder a uma avaliação.
+
+Caso a não conformidade esteja demonstrada, as autoridades competentes podem impor medidas apropriadas para pôr a instalação em conformidade com os requisitos essenciais constantes do anexo I.
+
+3. Os Estados-Membros devem adotar as disposições necessárias para identificar a pessoa ou as pessoas responsáveis pela demonstração da conformidade de uma instalação fixa com os requisitos essenciais relevantes.
+
+## CAPÍTULO 4 — NOTIFICAÇÃO DOS ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE
+
+### Artigo 20.º — Notificação
+
+Os Estados-Membros devem notificar a Comissão e os outros Estados-Membros dos organismos autorizados a executar atividades de avaliação da conformidade para terceiros ao abrigo da presente diretiva.
+
+### Artigo 21.º — Autoridades notificadoras
+
+1. Os Estados-Membros devem designar uma autoridade notificadora responsável pelo estabelecimento e aplicação dos procedimentos necessários para a avaliação e notificação dos organismos de avaliação da conformidade e para o controlo dos organismos notificados, designadamente a observância do artigo 26.º.
+
+2. Os Estados-Membros podem decidir que a avaliação e o controlo referidos no n.º 1 sejam efetuados por um organismo de acreditação nacional, na aceção e nos termos do Regulamento (CE) n.º 765/2008.
+
+3. Sempre que a autoridade notificadora delegar ou, a outro título, atribuir as tarefas de avaliação, notificação ou controlo referidas no n.º 1 a um organismo que não seja público, este organismo deve ser uma pessoa coletiva e cumprir, com as devidas adaptações, os requisitos previstos no artigo 22.º. Além disso, este organismo deve dotar-se de capacidade para garantir a cobertura da responsabilidade civil decorrente das atividades que exerce.
+
+4. A autoridade notificadora deve assumir a plena responsabilidade pelas tarefas executadas pelo organismo a que se refere o n.º 3.
+
+### Artigo 22.º — Requisitos aplicáveis às autoridades notificadoras
+
+1. As autoridades notificadoras devem ser constituídas de modo a evitar conflitos de interesses com os organismos de avaliação da conformidade.
+
+2. As autoridades notificadoras devem estar organizadas e funcionar de modo a garantir a objetividade e a imparcialidade das suas atividades.
+
+3. As autoridades notificadoras devem estar organizadas de modo a que as decisões relativas à notificação do organismo de avaliação da conformidade sejam tomadas por pessoas competentes diferentes das que realizaram a avaliação.
+
+4. As autoridades notificadoras não devem propor nem exercer atividades realizadas pelos organismos de avaliação da conformidade, nem serviços de consultoria com caráter comercial ou concorrencial.
+
+5. As autoridades notificadoras devem garantir a confidencialidade das informações obtidas.
+
+6. As autoridades notificadoras devem dispor de pessoal competente em número suficiente para o correto exercício das suas funções.
+
+### Artigo 23.º — Dever de informação das autoridades notificadoras
+
+Os Estados-Membros devem informar a Comissão dos seus procedimentos de avaliação e notificação dos organismos de avaliação da conformidade e de controlo dos organismos notificados, e de quaisquer alterações nessa matéria.
+
+A Comissão deve disponibilizar essas informações ao público.
+
+### Artigo 24.º — Requisitos aplicáveis aos organismos notificados
+
+1. Para efeitos de notificação, os organismos de avaliação da conformidade devem cumprir os requisitos previstos nos n.ºs 2 a 11.
+
+2. Os organismos de avaliação da conformidade devem ser criados nos termos do direito nacional de um Estado-Membro e devem ser dotados de personalidade jurídica.
+
+3. Os organismos de avaliação da conformidade devem ser organismos terceiros independentes da organização ou do aparelho que avaliam.
+
+Pode considerar-se que preenche esses requisitos qualquer organismo que pertença a uma organização empresarial ou a uma associação profissional representativa de empresas envolvidas em atividades de projeto, fabrico, fornecimento, montagem, utilização ou manutenção dos aparelhos que avalia, desde que prove a sua independência e a inexistência de conflitos de interesses.
+
+4. Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem ser o projetista, o fabricante, o fornecedor, o instalador, o comprador, o proprietário, o utilizador ou o responsável pela manutenção dos aparelhos a avaliar, nem o mandatário de qualquer dessas pessoas. Esta exigência não impede a utilização de aparelhos avaliados necessários para as atividades do organismo de avaliação da conformidade, nem a utilização desses aparelhos para fins pessoais.
+
+Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem intervir diretamente no projeto, no fabrico ou na construção, na comercialização, na instalação, na utilização ou na manutenção dos aparelhos em questão, nem ser mandatários das pessoas envolvidas nessas atividades. Os organismos de avaliação da conformidade, os seus quadros superiores e o pessoal encarregado de executar as tarefas de avaliação da conformidade não podem exercer atividades suscetíveis de entrar em conflito com a independência da sua apreciação ou com a sua integridade no desempenho das atividades de avaliação da conformidade para as quais são notificados. Esta disposição aplica-se, nomeadamente, aos serviços de consultoria.
+
+Os organismos de avaliação da conformidade devem certificar-se de que as atividades das suas filiais ou dos seus subcontratados não afetam a confidencialidade, objetividade e imparcialidade das suas atividades de avaliação da conformidade.
+
+5. Os organismos de avaliação da conformidade e o seu pessoal devem executar as suas atividades de avaliação da conformidade com a maior integridade profissional e a maior competência técnica, e não podem estar sujeitos a pressões ou incentivos, nomeadamente de ordem financeira, suscetíveis de influenciar a sua apreciação ou os resultados das suas atividades de avaliação da conformidade, em especial por pessoas ou grupos de pessoas interessados nos resultados dessas atividades.
+
+6. Os organismos de avaliação da conformidade devem ter capacidade para executar todas as tarefas de avaliação da conformidade que lhes são atribuídas nos termos do anexo III, relativamente às quais tenham sido notificados, quer as referidas tarefas sejam executadas por si próprios, quer em seu nome e sob a sua responsabilidade.
+
+Para cada procedimento de avaliação da conformidade e para cada tipo ou categoria de aparelhos para os quais tenham sido notificados, os organismos de avaliação da conformidade devem dispor sempre de:
+
+- a) Pessoal com conhecimentos técnicos e experiência suficiente e adequada para desempenhar as tarefas de avaliação da conformidade;
+
+- b) Descrições dos procedimentos de avaliação da conformidade que assegurem a transparência e a capacidade de reprodução destes procedimentos. Devem dispor de uma política e de procedimentos apropriados para distinguir as funções que executam na qualidade de organismos notificados de outras atividades;
+
+- c) Procedimentos que permitam o exercício das suas atividades atendendo à dimensão, ao setor e à estrutura das empresas, ao grau de complexidade da tecnologia do aparelho em questão e à natureza do processo de produção em massa ou em série.
+
+Os organismos de avaliação da conformidade devem dispor dos meios necessários para a boa execução das tarefas técnicas e administrativas relacionadas com as atividades de avaliação da conformidade e devem ter acesso a todos os equipamentos e instalações necessários.
+
+7. O pessoal encarregado de executar as tarefas de avaliação da conformidade deve possuir:
+
+- a) Uma sólida formação técnica e profissional, que abranja todas as atividades de avaliação da conformidade para as quais os organismos de avaliação da conformidade tenham sido notificados;
+
+- b) Um conhecimento satisfatório dos requisitos das avaliações que efetuam e a devida autoridade para as efetuar;
+
+- c) Um conhecimento e uma compreensão adequados dos requisitos essenciais constantes do anexo I, das normas harmonizadas aplicáveis e das disposições aplicáveis da legislação de harmonização da União e da legislação nacional;
+
+- d) A aptidão necessária para redigir os certificados, registos e relatórios comprovativos de que as avaliações foram efetuadas.
+
+8. A imparcialidade dos organismos de avaliação da conformidade, dos seus quadros superiores e do pessoal encarregado de executar as tarefas de avaliação da conformidade deve ser assegurada.
+
+A remuneração dos seus quadros superiores e do seu pessoal encarregado de executar as tarefas de avaliação da conformidade não deve depender do número de avaliações realizadas nem do seu resultado.
+
+9. Os organismos de avaliação da conformidade devem fazer um seguro de responsabilidade civil, a não ser que essa responsabilidade seja coberta pelo Estado com base no direito nacional, ou que o próprio Estado-Membro seja diretamente responsável pelas avaliações da conformidade.
+
+10. O pessoal dos organismos de avaliação da conformidade está sujeito ao sigilo profissional no que se refere a todas as informações que obtiver no exercício das suas funções ao abrigo do anexo III ou de qualquer disposição de direito nacional que lhe dê aplicação, exceto em relação às autoridades competentes do Estado-Membro em que exerce as suas atividades. Os direitos de propriedade devem ser protegidos.
+
+11. Os organismos de avaliação da conformidade devem participar nas atividades de normalização relevantes e nas atividades do grupo de coordenação dos organismos notificados criado ao abrigo da legislação de harmonização da União aplicável, ou assegurar que o seu pessoal encarregado de executar as tarefas de avaliação da conformidade seja informado dessas atividades, e devem aplicar como orientações gerais as decisões e os documentos administrativos decorrentes dos trabalhos desse grupo.
+
+### Artigo 25.º — Presunção da conformidade dos organismos notificados
+
+Presume-se que os organismos de avaliação da conformidade que provem a sua conformidade com os critérios estabelecidos nas normas harmonizadas aplicáveis ou em partes destas, cuja referência tenha sido publicada no Jornal Oficial da União Europeia, cumprem os requisitos previstos no artigo 24.º, na medida em que aquelas normas harmonizadas contemplem estes requisitos.
+
+### Artigo 26.º — Filiais e subcontratados dos organismos notificados
+
+1. Caso um organismo notificado subcontrate tarefas específicas relacionadas com a avaliação da conformidade ou recorra a uma filial, deve certificar-se de que o subcontratado ou a filial cumprem os requisitos previstos no artigo 24.º e informar a autoridade notificadora desse facto.
+
+2. O organismo notificado assume plena responsabilidade pelas tarefas executadas por subcontratados ou filiais, independentemente do local em que estes se encontrem estabelecidos.
+
+3. As atividades só podem ser executadas por um subcontratado ou por uma filial com o acordo do cliente.
+
+4. Os organismos notificados devem manter à disposição da autoridade notificadora os documentos relevantes no que diz respeito à avaliação das qualificações do subcontratado ou da filial, e do trabalho efetuado por estes ao abrigo do anexo III.
+
+### Artigo 27.º — Pedido de notificação
+
+1. Os organismos de avaliação da conformidade devem apresentar um pedido de notificação à autoridade notificadora do Estado-Membro onde se encontram estabelecidos.
+
+2. O pedido de notificação deve ser acompanhado de uma descrição das atividades de avaliação da conformidade, do módulo ou módulos de avaliação da conformidade e do aparelho em relação ao qual os organismos se consideram competentes, bem como de um certificado de acreditação, se existir, emitido por um organismo nacional de acreditação, que ateste que os organismos de avaliação da conformidade cumprem os requisitos estabelecidos no artigo 24.º.
+
+3. Caso os organismos de avaliação da conformidade não possam apresentar o certificado de acreditação, devem fornecer à autoridade notificadora todas as provas documentais necessárias para a verificação, reconhecimento e controlo periódico da sua conformidade com os requisitos previstos no artigo 24.º
+
+### Artigo 28.º — Procedimento de notificação
+
+1. As autoridades notificadoras só podem notificar os organismos de avaliação da conformidade que cumpram os requisitos previstos no artigo 24.º.
+
+2. As autoridades notificadoras notificam a Comissão e os outros Estados-Membros através do instrumento de notificação eletrónica criado e gerido pela Comissão.
+
+3. A notificação deve incluir dados pormenorizados das atividades de avaliação da conformidade, do módulo ou módulos de avaliação da conformidade e do aparelho em causa, bem como a certificação de competência relevante.
+
+4. Caso a notificação não se baseie no certificado de acreditação referido no artigo 27.º, n.º 2, a autoridade notificadora deve fornecer à Comissão e aos outros Estados-Membros provas documentais que atestem a competência técnica do organismo de avaliação da conformidade e as disposições introduzidas para assegurar que o organismo seja auditado periodicamente e continue a cumprir os requisitos previstos no artigo 24.º.
+
+5. O organismo em causa só pode efetuar as atividades de um organismo notificado se nem a Comissão nem os Estados-Membros tiverem levantado objeções nas duas semanas seguintes à notificação, sempre que seja utilizado um certificado de acreditação, ou nos dois meses seguintes à notificação, se a acreditação não for utilizada.
+
+Apenas esse organismo pode ser considerado um organismo notificado para efeitos da presente diretiva.
+
+6. As autoridades notificadoras notificam a Comissão e aos outros Estados-Membros de quaisquer alterações relevantes subsequentemente introduzidas na notificação.
+
+### Artigo 29.º — Números de identificação e listas dos organismos notificados
+
+1. A Comissão deve atribuir um número de identificação a cada organismo notificado.
+
+A Comissão deve atribuir um número único, mesmo que o organismo esteja notificado ao abrigo de vários atos da União.
+
+2. A Comissão disponibiliza publicamente a lista dos organismos notificados ao abrigo da presente diretiva, incluindo os números de identificação que lhes foram atribuídos e as atividades para as quais tiverem sido notificados.
+
+A Comissão deve assegurar a atualização da lista.
+
+### Artigo 30.º — Alteração da notificação
+
+1. Caso a autoridade notificadora verifique ou seja informada de que um organismo notificado deixou de cumprir os requisitos previstos no artigo 24.º, ou de que não cumpre os seus deveres, deve restringir, suspender ou retirar a notificação, consoante o caso, em função da gravidade do incumprimento em causa, e informar imediatamente desse facto a Comissão e os restantes Estados-Membros.
+
+2. Em caso de restrição, suspensão ou retirada de uma notificação, ou caso o organismo notificado tenha cessado a sua atividade, o Estado-Membro notificador deve tomar as medidas necessárias para que os processos desse organismo sejam tratados por outro organismo notificado ou mantidos à disposição das autoridades notificadoras e das autoridades de fiscalização do mercado competentes, a pedido destas.
+
+### Artigo 31.º — Contestação da competência técnica dos organismos notificados
+
+1. A Comissão deve investigar todos os casos em relação aos quais tenha dúvidas ou lhe tenham sido comunicadas dúvidas quanto à competência técnica de um organismo notificado, ou quanto ao cumprimento continuado por um organismo notificado dos requisitos exigidos e das responsabilidades que lhe foram cometidas.
+
+2. O Estado-Membro notificador deve fornecer à Comissão, a pedido, todas as informações relacionadas com o fundamento da notificação ou com a manutenção da competência técnica do organismo notificado em causa.
+
+3. A Comissão deve assegurar que todas as informações sensíveis obtidas no decurso das suas investigações sejam tratadas de forma confidencial.
+
+4. Caso a Comissão verifique que um organismo notificado não cumpre ou deixou de cumprir os requisitos para a sua notificação, adota um ato de execução solicitando ao Estado-Membro que tome as medidas corretivas necessárias, incluindo, se necessário, a retirada da notificação.
+
+O referido ato de execução é adotado pelo procedimento consultivo a que se refere o artigo 41.º, n.º 2.
+
+### Artigo 32.º — Deveres funcionais dos organismos notificados
+
+1. Os organismos notificados devem efetuar as avaliações da conformidade segundo os procedimentos de avaliação da conformidade previstos no anexo III.
+
+2. As avaliações da conformidade devem ser efetuadas de modo proporcionado, evitando encargos desnecessários para os operadores económicos.
+
+Os organismos de avaliação da conformidade devem exercer as suas atividades tendo devidamente em conta a dimensão das empresas, o setor em que exercem as suas atividades, a sua estrutura, o grau de complexidade da tecnologia dos aparelhos e a natureza, em massa ou em série, do processo de produção.
+
+Ao fazê-lo, os referidos organismos devem, contudo, respeitar o grau de rigor e o nível de proteção exigidos para que o aparelho cumpra o disposto na presente diretiva.
+
+3. Caso um organismo notificado verifique que os requisitos essenciais previstos no anexo I, nas correspondentes normas harmonizadas ou noutras especificações técnicas não foram respeitados por um fabricante, deve exigir que esse fabricante tome as medidas corretivas adequadas, e não emite o certificado.
+
+4. Caso, durante uma avaliação da conformidade efetuada na sequência da emissão de um certificado, o organismo notificado verifique que o aparelho deixou de estar conforme, deve exigir que o fabricante tome as medidas corretivas adequadas e, se necessário, suspende ou retira o certificado.
+
+5. Caso não sejam tomadas medidas corretivas, ou caso essas medidas não tenham o efeito desejado, o organismo notificado restringe, suspende ou retira o certificado, consoante o caso.
+
+### Artigo 33.º — Procedimento de recurso das decisões do organismo notificado
+
+Os Estados-Membros asseguram a existência de procedimentos de recurso das decisões dos organismos notificados.
+
+### Artigo 34.º — Obrigação de informação dos organismos notificados
+
+1. Os organismos notificados devem comunicar à autoridade notificadora as seguintes informações:
+
+- a) As recusas, restrições, suspensões ou retiradas de certificados;
+
+- b) As circunstâncias que afetem o âmbito ou as condições de notificação;
+
+- c) Os pedidos de informação sobre as atividades de avaliação da conformidade efetuadas que tenham recebido das autoridades de fiscalização do mercado;
+
+- d) A pedido, as atividades de avaliação da conformidade que efetuaram no âmbito da respetiva notificação e todas as outras atividades efetuadas, nomeadamente atividades transfronteiriças e de subcontratação.
+
+2. Os organismos notificados devem disponibilizar aos outros organismos notificados ao abrigo da presente diretiva que efetuem atividades de avaliação da conformidade semelhantes, que abranjam os mesmos aparelhos, informações relevantes sobre questões relativas aos resultados negativos da avaliação da conformidade e, a pedido, aos resultados positivos.
+
+### Artigo 35.º — Troca de experiências
+
+A Comissão deve organizar a troca de experiências entre as autoridades nacionais dos Estados-Membros responsáveis pela política de notificação.
+
+### Artigo 36.º — Coordenação dos organismos notificados
+
+A Comissão deve assegurar a realização e o bom funcionamento de atividades de coordenação e cooperação entre os organismos notificados ao abrigo da presente diretiva, no âmbito de um grupo setorial de organismos notificados.
+
+Os Estados-Membros devem assegurar que os organismos por si notificados participem, diretamente ou através de representantes designados, nos trabalhos desse grupo.
+
+## CAPÍTULO 5 — FISCALIZAÇÃO DO MERCADO DA UNIÃO, CONTROLO DOS APARELHOS QUE ENTRAM NO MERCADO DA UNIÃO E PROCEDIMENTOS DE SALVAGUARDA DA UNIÃO
+
+### Artigo 37.º — Fiscalização do mercado da União e controlo dos produtos que entram no mercado da União
+
+O artigo 15.º, n.º 3, e os artigos 16.º a 29.º do Regulamento (CE) n.º 765/2008 aplicam-se aos aparelhos.
+
+### Artigo 38.º — Procedimento aplicável aos aparelhos que apresentam riscos a nível nacional
+
+1. Caso as autoridades de fiscalização do mercado de um Estado-Membro tenham motivos suficientes para crer que um aparelho apresenta riscos para os aspetos relativos à proteção do interesse público abrangidos pela presente diretiva, devem efetuar uma avaliação do aparelho em causa que abranja todos os requisitos pertinentes previstos na presente diretiva. Os operadores económicos envolvidos devem cooperar, na medida do necessário, com as autoridades de fiscalização do mercado para esse efeito.
+
+Caso, durante a avaliação referida no primeiro parágrafo, as autoridades de fiscalização do mercado verifiquem que o aparelho não cumpre os requisitos da presente diretiva, devem exigir imediatamente que o operador económico em causa tome todas as medidas corretivas adequadas para o pôr em conformidade com esses requisitos, para o retirar do mercado ou para o recolher num prazo razoável por si fixado, proporcionado em relação à natureza dos riscos.
+
+As autoridades de fiscalização do mercado devem informar desse facto o organismo notificado em causa.
+
+O artigo 21.º do Regulamento (CE) n.º 765/2008 aplica-se às medidas referidas no segundo parágrafo do presente número.
+
+2. Caso as autoridades de fiscalização do mercado considerem que a não conformidade não se limita ao território nacional, devem comunicar à Comissão e aos outros Estados-Membros os resultados da avaliação e as medidas que exigiram que o operador económico tomasse.
+
+3. O operador económico deve assegurar a aplicação de todas as medidas corretivas adequadas relativamente aos aparelhos em causa por si disponibilizados no mercado da União.
+
+4. Caso o operador económico em causa não tome as medidas corretivas adequadas no prazo referido no n.º 1, segundo parágrafo, as autoridades de fiscalização do mercado devem tomar todas as medidas provisórias adequadas para proibir ou restringir a disponibilização do aparelho nos seus mercados nacionais, para o retirar do mercado ou para o recolher.
+
+As autoridades de fiscalização do mercado devem informar imediatamente a Comissão e os demais Estados-Membros das medidas tomadas.
+
+5. As informações referidas no n.º 4, segundo parágrafo, devem conter todos os pormenores disponíveis, nomeadamente os dados necessários para identificar o aparelho não conforme, a sua origem, a natureza da alegada não conformidade e do risco conexo, a natureza e a duração das medidas nacionais tomadas e os argumentos expostos pelo operador económico em causa. As autoridades de fiscalização do mercado devem indicar, nomeadamente, se a não conformidade se deve a uma das seguintes razões:
+
+- a) Não conformidade do aparelho com os requisitos ligados aos aspetos relativos à proteção do interesse público previstos na presente diretiva; ou
+
+- b) Deficiências das normas harmonizadas referidas no artigo 13.º que conferem a presunção de conformidade.
+
+6. Os Estados-Membros, com exceção do Estado-Membro que desencadeou o procedimento ao abrigo do presente artigo, devem informar imediatamente a Comissão e os outros Estados-Membros das medidas adotadas, dos dados complementares de que disponham relativamente à não conformidade do aparelho em causa e, em caso de desacordo com a medida nacional tomada, das suas objeções.
+
+7. Se, no prazo de três meses a contar da receção das informações referidas no n.º 4, segundo parágrafo, nem os Estados-Membros nem a Comissão tiverem levantado objeções a uma medida provisória tomada por um Estado-Membro, considera-se que essa medida é justificada.
+
+8. Os Estados-Membros devem assegurar a aplicação imediata de medidas restritivas adequadas, como a retirada do mercado, em relação ao aparelho em causa.
+
+### Artigo 39.º — Procedimento de salvaguarda da União
+
+1. Caso, no termo do procedimento previsto no artigo 38.º, n.ºs 3 e 4, sejam levantadas objeções a uma medida tomada por um Estado-Membro, ou caso a Comissão considere que essa medida é contrária à legislação da União, a Comissão deve iniciar imediatamente consultas com os Estados-Membros e com os operadores económicos em causa e avaliar a medida nacional. Com base nos resultados dessa avaliação, a Comissão adota um ato de execução que determina se a medida nacional se justifica ou não.
+
+A Comissão dirige a sua decisão aos Estados-Membros e comunica-a imediatamente aos mesmos e aos operadores económicos em causa.
+
+2. Se a medida nacional for considerada justificada, os Estados-Membros tomam as medidas necessárias para assegurar que o aparelho não conforme seja retirado dos seus mercados e informam desse facto a Comissão. Se a medida nacional for considerada injustificada, o Estado-Membro em causa deve revogá-la.
+
+3. Se a medida nacional for considerada justificada e a não conformidade do aparelho for atribuída a deficiências das normas harmonizadas referidas no artigo 38.º, n.º 5, alínea b), da presente diretiva, a Comissão aplica o procedimento previsto no artigo 11.º do Regulamento (UE) n.º 1025/2012.
+
+### Artigo 40.º — Não conformidade formal
+
+1. Sem prejuízo do disposto no artigo 38.º, caso um Estado-Membro constate um dos factos a seguir enunciados, deve exigir que o operador económico em causa ponha termo à não conformidade verificada:
+
+- a) A marcação CE foi aposta em violação do artigo 30.º do Regulamento (CE) n.º 765/2008 ou do artigo 17.º da presente diretiva;
+
+- b) A marcação CE não foi aposta;
+
+- c) A declaração UE de conformidade não foi elaborada;
+
+- d) A declaração UE de conformidade não foi corretamente elaborada;
+
+- e) A documentação técnica não está disponível ou não está completa;
+
+- f) As informações referidas no artigo 7.º, n.º 6, ou no artigo 9.º, n.º 3, estão ausentes ou são falsas ou incompletas;
+
+- g) Não foram respeitados outros requisitos administrativos previstos no artigo 7.º ou no artigo 9.º.
+
+2. Caso a não conformidade referida no n.º 1 persista, o Estado-Membro em causa deve tomar as medidas adequadas para restringir ou proibir a disponibilização no mercado do aparelho ou para garantir que o mesmo seja recolhido ou retirado do mercado.
+
+▼M2
+
+## CAPÍTULO 5-A — PROCEDIMENTOS DE EMERGÊNCIA
+
+### Artigo 40.º-A
+
+Aplicação de procedimentos de emergência
+
+1. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 40.º-B e 40.º-C da presente diretiva são aplicáveis apenas se a Comissão tiver adotado um ato de execução nos termos do artigo 28.º do Regulamento (UE) 2024/2747 relativamente aos aparelhos abrangidos pela presente diretiva.
+
+2. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 40.º-B e 40.º-C da presente diretiva são aplicáveis apenas a aparelhos que tenham sido designados como bens relevantes em situação de crise nos termos do artigo 18.º, n.º 4, do Regulamento (UE) 2024/2747.
+
+3. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 40.º-B e 40.º-C da presente diretiva são aplicáveis apenas durante o modo de emergência do mercado interno que tenha sido ativado em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747.
+
+4. A Comissão pode adotar atos de execução relativos às medidas corretivas ou restritivas a tomar, aos procedimentos a seguir e aos requisitos específicos de rotulagem e rastreabilidade relativamente a aparelhos colocados no mercado em conformidade com o artigo 40.º-B. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 41.º, n.º 2-A.
+
+### Artigo 40.º-B
+
+Presunção de conformidade baseada em normas e especificações comuns
+
+1. Nos casos em que os aparelhos tenham sido designados como bens relevantes em situação de crise, a Comissão fica habilitada a adotar atos de execução que elenquem normas adequadas ou estabeleçam especificações comuns para esses aparelhos, a fim de abranger os requisitos essenciais estabelecidos no anexo I da presente diretiva nos seguintes casos:
+
+- a) Sempre que não tenha sido publicada no Jornal Oficial da União Europeia uma referência a normas harmonizadas que abranjam os requisitos essenciais estabelecidos no anexo I da presente diretiva, em conformidade com o Regulamento (UE) n.º 1025/2012, e não esteja prevista a publicação de tal referência dentro de um prazo razoável; ou
+
+- b) Sempre que as perturbações graves no funcionamento do mercado interno, que conduziram à ativação do modo de emergência do mercado interno em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747, restrinjam significativamente as possibilidades de os fabricantes fazerem uso das normas harmonizadas que abrangem os requisitos essenciais estabelecidos no anexo I da presente diretiva e cujas referências já foram publicadas no Jornal Oficial da União Europeia em conformidade com o Regulamento (UE) n.º 1025/2012.
+
+2. Os atos de execução a que se refere o n.º 1 estabelecem a solução técnica alternativa mais adequada para conferir a presunção de conformidade nos termos do n.º 5. Para o efeito, as referências das normas europeias ou as referências das normas nacionais ou internacionais aplicáveis pertinentes podem ser publicadas nesses atos de execução ou, caso não exista uma norma europeia nem nacional ou internacional aplicável pertinente, podem ser estabelecidas especificações comuns por esses atos de execução.
+
+3. Os atos de execução a que se refere o n.º 1 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 41.º, n.º 2-A, e são aplicáveis até ao último dia do período durante o qual o modo de emergência do mercado interno estiver ativo, salvo se os referidos atos de execução forem alterados ou revogados em conformidade com o n.º 7 do presente artigo.
+
+4. Antes de elaborar o projeto de ato de execução a que se refere o n.º 1 do presente artigo, a Comissão informa o comité a que se refere o artigo 22.º do Regulamento (UE) n.º 1025/2012 de que considera terem sido preenchidas as condições previstas no n.º 1 do presente artigo. Ao elaborar esse projeto de ato de execução, a Comissão tem em conta as opiniões dos organismos pertinentes ou dos grupos de peritos criados ao abrigo da presente diretiva e consulta devidamente todas as partes interessadas pertinentes.
+
+5. Sem prejuízo do disposto no artigo 13.º, presume-se que os aparelhos que estejam em conformidade com as normas ou especificações comuns a que se refere o n.º 1 do presente artigo, ou partes destas, estão conformes com os requisitos essenciais estabelecidos no anexo I que são abrangidos por essas normas e especificações comuns ou por partes destas. A partir do dia seguinte à caducidade ou desativação do modo de emergência do mercado interno, os fabricantes deixam de poder basear-se na presunção de conformidade conferida pelas normas ou especificações comuns referidas nos atos de execução a que se refere o n.º 1 do presente artigo.
+
+6. Em derrogação do disposto no artigo 40.º-A, n.º 3, a menos que exista razão suficiente para crer que os aparelhos abrangidos pelas normas ou especificações comuns a que se refere o n.º 1 do presente artigo representam um risco para a saúde ou a segurança das pessoas, os aparelhos que estejam em conformidade com essas normas ou especificações comuns e que foram colocados no mercado são considerados conformes com os requisitos essenciais estabelecidos no anexo I após a caducidade ou revogação de um ato de execução adotado nos termos do n.º 3 do presente artigo e após a caducidade ou desativação do modo de emergência do mercado interno.
+
+7. Quando um Estado-Membro considere que uma norma ou especificação comum a que se refere o n.º 1 não satisfaz plenamente os requisitos essenciais definidos no anexo I, informa a Comissão desse facto, apresentando uma explicação detalhada. A Comissão avalia essa explicação detalhada e pode, se for caso disso, alterar ou revogar o ato de execução que elenca a norma ou especificação comum em causa.
+
+### Artigo 40.º-C
+
+Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades
+
+1. Os Estados-Membros dão prioridade a atividades de fiscalização do mercado relativas a aparelhos elencados no ato de execução a que se refere o artigo 40.º-A, n.º 1, da presente diretiva. A Comissão facilita a coordenação destes esforços de atribuição de prioridade através da Rede da União para a Conformidade dos Produtos, criada ao abrigo do artigo 29.º do Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho ([^5]).
+
+2. As autoridades de fiscalização do mercado dos Estados-Membros asseguram que são envidados os melhores esforços para prestar assistência a outras autoridades de fiscalização do mercado durante o modo de emergência do mercado interno, nomeadamente através da mobilização e do envio de equipas de peritos para reforçar temporariamente o pessoal das autoridades de fiscalização do mercado que solicitam assistência ou prestando apoio logístico como o reforço da capacidade de ensaio de aparelhos elencados no ato de execução a que se refere o artigo 40.º-A, n.º 1.
+
+▼B
+
+## CAPÍTULO 6 — COMITÉ, DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+### Artigo 41.º — Procedimento de comité
+
+1. A Comissão é assistida pelo Comité da Compatibilidade Eletromagnética. Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.
+
+2. Caso se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.
+
+▼M2
+
+2-A.
+
+Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.
+
+▼B
+
+3. O comité é consultado pela Comissão sobre todas as questões para as quais a consulta de peritos setoriais é obrigatória por força do Regulamento (UE) n.º 1025/2012 ou de outra legislação da União.
+
+Além disso, o comité pode examinar qualquer outra questão relativa à aplicação da presente diretiva suscitada pelo seu presidente ou por representantes dos Estados-Membros nos termos do seu regulamento interno.
+
+### Artigo 42.º — Sanções
+
+Os Estados-Membros devem estabelecer regras sobre as sanções aplicáveis às infrações dos operadores económicos ao disposto no direito nacional aprovado em execução da presente diretiva e tomar as medidas necessárias para assegurar a sua execução. Essas regras podem incluir sanções penais para infrações graves.
+
+Essas sanções devem ser efetivas, proporcionadas e dissuasivas.
+
+### Artigo 43.º — Disposições transitórias
+
+Os Estados-Membros não podem impedir a disponibilização no mercado e/ou a colocação em serviço de equipamentos abrangidos pela Diretiva 2004/108/CE que estejam em conformidade com essa diretiva e que tenham sido colocados no mercado antes de 20 de abril de 2016.
+
+### Artigo 44.º — Transposição
+
+1. Os Estados-Membros adotam e publicam até 19 de abril de 2016 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao artigo 2.º, n.º 2, ao artigo 3.º, n.º 1, pontos 9 a 25, ao artigo 4.º, ao artigo 5.º, n.º 1, aos artigos 7.º a 12.º, aos artigos 15.º, 16.º e 17.º, ao artigo 19.º, n.º 1, primeiro parágrafo, aos artigos 20.º a 43.º e aos anexos II, III e IV. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições.
+
+Os Estados-Membros devem aplicar essas disposições a partir de 20 de abril de 2016.
+
+Quando os Estados-Membros adotarem essas disposições, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. Essas disposições incluem igualmente uma menção de que as referências feitas nas disposições legislativas, regulamentares e administrativas em vigor à diretiva revogada pela presente diretiva se consideram como sendo feitas à presente diretiva. As modalidades dessa referência e desta menção são estabelecidas pelos Estados-Membros.
+
+2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional que tiverem aprovado nas matérias reguladas pela presente diretiva.
+
+### Artigo 45.º — Revogação
+
+A Diretiva 2004/108/CE é revogada com efeitos a partir de 20 de abril de 2016, sem prejuízo das obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e às datas de aplicação da diretiva, previstos no anexo V.
+
+As referências à diretiva revogada devem entender-se como sendo feitas à presente diretiva e devem ser lidas de acordo com a tabela de correspondência constante do anexo VI.
+
+### Artigo 46.º — Entrada em vigor e aplicação
+
+A presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+Os artigos 1.º e 2.º, o artigo 3.º, n.º 1, pontos 1 a 8, e n.º 2, o artigo 5.º, n.ºs 2 e 3, os artigos 6.º e 13.º, o artigo 19.º, n.º 3, e o anexo I são aplicáveis a partir de 20 de abril de 2016.
+
+### Artigo 47.º — Destinatários
+
+Os destinatários da presente diretiva são os Estados-Membros.
+
+## ANEXO I
+
+#### REQUISITOS ESSENCIAIS
+
+##### 1. Requisitos gerais
+
+Os equipamentos devem ser concebidos e fabricados tendo em conta a evolução técnica mais recente e de forma a assegurar que:
+
+- a) As perturbações eletromagnéticas geradas não excedam o nível acima do qual os equipamentos de rádio e de telecomunicações ou outros não possam funcionar da forma prevista;
+
+- b) Tenham o nível de imunidade às perturbações eletromagnéticas que é de esperar na sua utilização prevista e que lhes permita funcionar sem uma degradação inaceitável nessa utilização.
+
+##### 2. Requisitos específicos para instalações fixas
+
+Instalação e utilização prevista de componentes:
+
+As instalações fixas devem ser instaladas segundo as boas práticas de engenharia e no respeito da informação sobre a utilização prevista dos seus componentes, de modo a preencher os requisitos essenciais referidos no ponto 1.
+
+## ANEXO II
+
+#### MÓDULO A: CONTROLO INTERNO DA PRODUÇÃO
+
+- 1. O controlo interno da produção é o procedimento de avaliação da conformidade através do qual o fabricante cumpre os deveres definidos nos pontos 2, 3, 4 e 5 do presente anexo e garante e declara, sob a sua exclusiva responsabilidade, que os aparelhos em causa cumprem os requisitos da presente diretiva que lhes são aplicáveis.
+
+- 2. Avaliação da compatibilidade eletromagnética
+
+  O fabricante efetua uma avaliação da compatibilidade eletromagnética dos aparelhos, com base nos fenómenos relevantes, a fim de cumprir os requisitos essenciais referidos no anexo I, ponto 1.
+
+  A avaliação da compatibilidade eletromagnética deve tomar em consideração todas as condições normais de funcionamento previstas. Nos casos em que o aparelho possa ter várias configurações, a avaliação da compatibilidade eletromagnética deve confirmar que o mesmo satisfaz os requisitos essenciais estabelecidos no anexo I, ponto 1, em todas as configurações possíveis identificadas pelo fabricante como sendo representativas da sua utilização prevista.
+
+- 3. Documentação técnica
+
+  O fabricante deve estabelecer a documentação técnica. Essa documentação deve permitir a avaliação da conformidade do aparelho com os requisitos aplicáveis e incluir uma análise e uma avaliação adequadas do(s) risco(s).
+
+  A documentação técnica deve especificar os requisitos aplicáveis e abranger, se tal for relevante para a avaliação, o projeto, o fabrico e o funcionamento do aparelho. A documentação técnica deve conter, se for esse o caso, pelo menos os seguintes elementos:
+
+  - a) Uma descrição geral do aparelho;
+
+  - b) Os desenhos de projeto e de fabrico e esquemas de componentes, subconjuntos, circuitos, etc.;
+
+  - c) As descrições e explicações necessárias para a compreensão dos referidos desenhos e esquemas e do funcionamento do aparelho;
+
+  - d) Uma lista das normas harmonizadas, aplicadas total ou parcialmente, cujas referências foram publicadas no Jornal Oficial da União Europeia e, nos casos em que essas normas harmonizadas não tenham sido aplicadas, descrições das soluções adotadas para cumprir os requisitos essenciais da presente diretiva, incluindo uma lista de outras especificações técnicas pertinentes aplicadas. No caso de terem sido parcialmente aplicadas normas harmonizadas, a documentação técnica deve especificar as partes que foram aplicadas;
+
+  - e) Os resultados dos cálculos de projeto, dos exames efetuados, etc.;
+
+  - f) Os relatórios dos ensaios.
+
+- 4. Fabrico
+
+  O fabricante deve tomar todas as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade dos aparelhos fabricados com a documentação técnica mencionada no ponto 3 do presente anexo e com os requisitos essenciais constantes do anexo I, ponto 1.
+
+- 5. Marcação CE e declaração UE de conformidade
+
+  5.1. O fabricante deve apor a marcação CE a todos os aparelhos que estejam em conformidade com os requisitos aplicáveis da presente diretiva.
+
+  5.2. O fabricante deve elaborar uma declaração UE de conformidade escrita para cada modelo de aparelhos e mantê-la, com a documentação técnica, à disposição das autoridades nacionais, por um período de 10 anos a contar da data de colocação no mercado do aparelho. A declaração UE de conformidade deve especificar o aparelho para o qual foi estabelecida.
+
+  Deve ser fornecida às autoridades competentes, a pedido destas, uma cópia da declaração UE de conformidade.
+
+- 6. Mandatário
+
+  Os deveres do fabricante, enunciados no ponto 5, podem ser cumpridos, em seu nome e sob a sua responsabilidade, pelo seu mandatário, desde que se encontrem especificados no mandato.
+
+## ANEXO III
+
+#### PARTE A
+
+##### Módulo B: exame UE de tipo
+
+1. O exame UE de tipo é a parte do procedimento de avaliação da conformidade mediante a qual um organismo notificado examina o projeto técnico de um aparelho e verifica e declara que o mesmo cumpre os requisitos essenciais estabelecidos no anexo I, ponto 1.
+
+2. O exame UE de tipo consiste na avaliação da adequação do projeto técnico do aparelho, mediante análise da documentação técnica referida no ponto 3, sem exame de um exemplar (tipo de projeto). Pode restringir-se a alguns aspetos dos requisitos essenciais, a especificar pelo fabricante ou pelo seu mandatário.
+
+3. O fabricante deve apresentar um requerimento de exame UE de tipo a um único organismo notificado da sua escolha.
+
+O pedido deve especificar os aspetos dos requisitos essenciais em que o exame deve incidir, e deve incluir:
+
+- a) O nome e o endereço do fabricante e, se apresentado pelo mandatário, igualmente o nome e o endereço deste último;
+
+- b) Uma declaração escrita que ateste que nenhum pedido idêntico foi apresentado a outro organismo notificado;
+
+- c) A documentação técnica. Essa documentação técnica deve permitir a avaliação da conformidade do aparelho com os requisitos aplicáveis da presente diretiva, e incluir uma análise e uma avaliação adequadas dos riscos. A documentação técnica deve especificar os requisitos aplicáveis e abranger, se tal for relevante para a avaliação, o projeto, o fabrico e o funcionamento do aparelho. A documentação técnica deve conter, se for esse o caso, pelo menos os seguintes elementos:
+
+  - i) uma descrição geral do aparelho,
+
+  - ii) os desenhos de projeto e de fabrico, e esquemas dos componentes, dos subconjuntos, dos circuitos, etc.,
+
+  - iii) as descrições e explicações necessárias para a compreensão dos referidos desenhos e esquemas e do funcionamento do aparelho,
+
+  - iv) uma lista das normas harmonizadas, aplicadas total ou parcialmente, cujas referências foram publicadas no Jornal Oficial da União Europeia, e, nos casos em que essas normas harmonizadas não tenham sido aplicadas, descrições das soluções adotadas para cumprir os requisitos essenciais da presente diretiva, incluindo uma lista de outras especificações técnicas pertinentes aplicadas. No caso de terem sido parcialmente aplicadas normas harmonizadas, a documentação técnica deve especificar as partes que foram aplicadas,
+
+  - v) os resultados dos cálculos de projeto, dos exames efetuados, etc.,
+
+  - vi) os relatórios dos ensaios.
+
+4. O organismo notificado deve analisar a documentação técnica que permite avaliar a adequação do projeto técnico do aparelho em relação aos aspetos dos requisitos essenciais nos quais o exame deve incidir.
+
+5. O organismo notificado deve elaborar um relatório de avaliação que indique as atividades desenvolvidas de acordo com o ponto 4 e os respetivos resultados. Sem prejuízo dos seus deveres para com as autoridades notificadoras, o organismo notificado apenas divulga, na totalidade ou em parte, o conteúdo desse relatório com o acordo do fabricante.
+
+6. Quando o tipo satisfizer os requisitos da presente diretiva aplicáveis ao aparelho em causa, o organismo notificado deve entregar ao fabricante um certificado de exame UE de tipo. Esse certificado deve conter o nome e o endereço do fabricante, as conclusões do controlo, os aspetos dos requisitos essenciais abrangidos pelo exame, as condições, se as houver, da sua validade e os dados necessários à identificação do tipo aprovado. O certificado de exame UE de tipo pode ser acompanhado de um ou mais anexos.
+
+O certificado de exame UE de tipo e os seus anexos devem conter todas as informações necessárias para permitir a avaliação da conformidade dos aparelhos fabricados com o tipo examinado e para permitir o controlo em serviço.
+
+Nos casos em que o tipo não cumpra os requisitos aplicáveis da presente diretiva, o organismo notificado deve recusar emitir um certificado de exame UE de tipo e deve informar o requerente desse facto, fundamentando especificadamente as razões da sua recusa.
+
+7. O organismo notificado deve manter-se a par das alterações no estado da técnica geralmente reconhecido que indiquem que o tipo aprovado pode ter deixado de cumprir os requisitos aplicáveis da presente diretiva, e determinar se tais alterações requerem exames complementares. Em caso afirmativo, o organismo notificado deve informar o fabricante desse facto.
+
+O fabricante deve manter informado o organismo notificado que conserva em seu poder a documentação técnica relativa ao certificado de exame UE de tipo de quaisquer alterações introduzidas no tipo aprovado, quando estas alterações possam afetar a conformidade do aparelho com os requisitos essenciais da presente diretiva ou as condições de validade desse certificado. Tais modificações exigem uma aprovação complementar sob a forma de aditamento ao certificado de exame UE de tipo original.
+
+8. Cada organismo notificado deve informar a sua autoridade notificadora relativamente aos certificados de exame UE de tipo e/ou aos aditamentos aos mesmos que tenha emitido ou retirado, e deve enviar, periodicamente ou a pedido, à autoridade notificadora a lista desses certificados e/ou de aditamentos aos mesmos que tenha recusado, suspendido ou submetido a outras restrições.
+
+Cada organismo notificado deve informar os outros organismos notificados dos certificados de exame UE de tipo e/ou de quaisquer aditamentos aos mesmos que tenha recusado, retirado, suspendido ou submetido a quaisquer outras restrições e, a pedido, dos certificados que tenha emitido e/ou dos aditamentos que tenha introduzido nos mesmos.
+
+A Comissão, os Estados-Membros e os outros organismos notificados podem, a pedido, obter cópia dos certificados de exame UE de tipo e/ou dos aditamentos aos mesmos. A pedido, a Comissão e os Estados-Membros podem obter cópia da documentação técnica e dos resultados dos exames efetuados pelo organismo notificado. O organismo notificado deve conservar uma cópia do certificado de exame UE de tipo e dos respetivos anexos e aditamentos, assim como do processo técnico, incluindo a documentação apresentada pelo fabricante, até ao termo de validade desse certificado.
+
+9. O fabricante deve manter à disposição das autoridades nacionais cópia do certificado de exame UE de tipo e dos respetivos anexos e aditamentos, assim como da documentação técnica, pelo prazo de 10 anos a contar da data de colocação do aparelho no mercado.
+
+10. O mandatário do fabricante pode apresentar o pedido referido no ponto 3 e cumprir todos os deveres previstos nos pontos 7 e 9, desde que se encontrem especificados no mandato.
+
+#### PARTE B
+
+##### Módulo C: conformidade com o tipo baseada no controlo interno da produção
+
+- 1. A conformidade com o tipo baseada no controlo interno da produção é a parte do procedimento de avaliação da conformidade mediante a qual o fabricante cumpre os deveres estabelecidos nos pontos 2 e 3 e garante e declara que os aparelhos em causa estão em conformidade com o tipo descrito no certificado de exame UE de tipo e satisfazem os requisitos da presente diretiva que lhes são aplicáveis.
+
+- 2. Fabrico
+
+  O fabricante deve tomar todas as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade dos aparelhos fabricados com o tipo aprovado descrito no certificado de exame UE de tipo e com os requisitos da presente diretiva que lhe são aplicáveis.
+
+- 3. Marcação CE e declaração UE de conformidade
+
+  3.1. O fabricante deve apor a marcação CE a cada aparelho que esteja em conformidade com o tipo descrito no certificado de exame UE de tipo e que cumpra os requisitos aplicáveis previstos na presente diretiva.
+
+  3.2. O fabricante deve elaborar uma declaração UE de conformidade escrita para cada modelo de aparelhos e mantê-la à disposição das autoridades nacionais, por um período de 10 anos a contar da data de colocação no mercado do aparelho. A declaração UE de conformidade deve especificar o modelo de aparelho para o qual foi estabelecida.
+
+  Deve ser fornecida às autoridades competentes, a pedido destas, uma cópia da declaração UE de conformidade.
+
+- 4. Mandatário
+
+  Os deveres do fabricante, enunciados no ponto 3, podem ser cumpridos, em seu nome e sob a sua responsabilidade, pelo seu mandatário, desde que se encontrem especificados no mandato.
+
+## ANEXO IV
+
+#### Declaração UE de conformidade (N.º XXXX) ([^6])
+
+1. Modelo do aparelho/produto (número do produto, do tipo, do lote ou de série):
+
+2. Nome e endereço do fabricante ou do respetivo mandatário:
+
+3. A presente declaração de conformidade é emitida sob a exclusiva responsabilidade do fabricante.
+
+4. Objeto da declaração (identificação do aparelho que permita rastreá-lo; se for necessário para a identificação do aparelho, pode incluir uma imagem a cores suficientemente clara):
+
+5. O objeto da declaração acima descrito está em conformidade com a legislação de harmonização da União aplicável:
+
+6. Referências às normas harmonizadas aplicáveis utilizadas, incluindo a data da norma, ou às outras especificações técnicas, incluindo a data da especificação, em relação às quais é declarada a conformidade:
+
+7. Se for esse o caso, o organismo notificado: … (nome, número) efetuou … (descrição da intervenção) e emitiu o certificado:
+
+8. Informações complementares:
+
+Assinado por e em nome de:
+
+(local e data de emissão):
+
+(nome, cargo) (assinatura):
+
+## ANEXO V
+
+**Prazo de transposição para o direito nacional e data de aplicação**
+
+**(a que se refere o artigo 45.º)**
+
+| Diretiva | Prazo de transposição | Data de aplicação |
+|---|---|---|
+| 2004/108/CE | 20 de janeiro de 2007 | 20 de julho de 2007 |
+
+## ANEXO VI
+
+**Tabela de correspondência**
+
+| Diretiva 2004/108/CE | Presente diretiva |
+|---|---|
+| Artigo 1.º, n.º 1 | Artigo 1.º e artigo 2.º, n.º 1 |
+| Artigo 1.º, n.º 2 | Artigo 2.º, n.º 2, alíneas a) a c) |
+| Artigo 1.º, n.º 3 | Artigo 2.º, n.º 2, alínea d) |
+| Artigo 1.º, n.º 4 | Artigo 2.º, n.º 3 |
+| Artigo 1.º, n.º 5 | Artigo 2.º, n.º 4 |
+| Artigo 2.º, n.º 1, alínea a) | Artigo 3.º, n.º 1, ponto 1 |
+| Artigo 2.º, n.º 1, alínea b) | Artigo 3.º, n.º 1, ponto 2 |
+| Artigo 2.º, n.º 1, alínea c) | Artigo 3.º, n.º 1, ponto 3 |
+| Artigo 2.º, n.º 1, alínea d) | Artigo 3.º, n.º 1, ponto 4 |
+| Artigo 2.º, n.º 1, alínea e) | Artigo 3.º, n.º 1, ponto 5 |
+| Artigo 2.º, n.º 1, alínea f) | Artigo 3.º, n.º 1, ponto 6 |
+| Artigo 2.º, n.º 1, alínea g) | Artigo 3.º, n.º 1, ponto 7 |
+| Artigo 2.º, n.º 1, alínea h) | Artigo 3.º, n.º 1, ponto 8 |
+| Artigo 2.º, n.º 2 | Artigo 3.º, n.º 2 |
+| Artigo 3.º | Artigo 4.º |
+| Artigo 4.º | Artigo 5.º |
+| Artigo 5.º | Artigo 6.º |
+| Artigo 6.º | Artigo 13.º |
+| Artigo 7.º | Artigo 14.º |
+| Artigo 8.º | Artigos 16.º e 17.º |
+| Artigo 9.º, n.º 1 | Artigo 7.º, n.º 5 |
+| Artigo 9.º, n.º 2 | Artigo 7.º, n.º 6 |
+| Artigo 9.º, n.º 3 | Artigo 18.º, n.º 1 |
+| Artigo 9.º, n.º 4 | Artigo 18.º, n.º 2 |
+| Artigo 9.º, n.º 5 | Artigo 18.º, n.º 3 |
+| Artigos 10.º e 11.º | Artigos 37.º, 38.º e 39.º |
+| Artigo 12.º | Capítulo 4 |
+| Artigo 13.º | Artigo 19.º |
+| Artigo 14.º | Artigo 45.º |
+| Artigo 15.º | Artigo 43.º |
+| Artigo 16.º | Artigo 44.º |
+| Artigo 17.º | Artigo 46.º |
+| Artigo 18.º | Artigo 47.º |
+| Anexo I | Anexo I |
+| Anexo II e Anexo IV, ponto 1 | Anexo II |
+| Anexo III | Anexo III |
+| Anexo IV, ponto 2 | Anexo IV |
+| Anexo V | Artigos 16.º e 17.º |
+| Anexo VI | Artigo 24.º |
+| Anexo VII | Anexo VI |
+
+## DECLARAÇÃO DO PARLAMENTO EUROPEU
+
+O Parlamento Europeu considera que unicamente nos casos em que atos de execução nos termos do Regulamento (UE) n.º 182/2011 sejam debatidos em reuniões de comissões, podem estas ser consideradas comités de comitologia na aceção do anexo I do Acordo-quadro sobre as relações entre o Parlamento Europeu e a Comissão Europeia. Por conseguinte, as reuniões das comissões inserem-se no âmbito de aplicação do ponto 15 do Acordo-quadro quando e na medida em que sejam debatidas outras questões.
+
+[^1]: Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho, de 4 de julho de 2018, relativo a regras comuns no domínio da aviação civil, que cria a Agência da União Europeia para a Segurança da Aviação, altera os Regulamentos (CE) n.º 2111/2005, (CE) n.º 1008/2008, (UE) n.º 996/2010, (UE) n.º 376/2014 e Diretivas 2014/30/UE, e 2014/53/UE do Parlamento Europeu e do Conselho, e que revoga os Regulamentos (CE) n.º 552/2004 e (CE) n.º 216/2008 do Parlamento Europeu e do Conselho e o Regulamento do Conselho (CEE) n.º 3922/91 (JO L 212 de 22.8.2018, p. 1).
+
+[^2]: Constituição e Convenção da União Internacional das Telecomunicações, adotada pela Conferência Plenipotenciária Adicional (Genebra, 1992), com a redação que lhe foi dada pela Conferência Plenipotenciária (Quioto, 1994).
+
+[^3]: Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho, de 9 de outubro de 2024, que estabelece um regime relativo a emergências no mercado interno e à resiliência do mercado interno e que altera o Regulamento (CE) n.º 2679/98 do Conselho (Regulamento relativo a Emergências e à Resiliência do Mercado Interno) (JO L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).
+
+[^4]: JO L 204 de 21.7.1998, p. 37.
+
+[^5]: Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à fiscalização do mercado e à conformidade dos produtos e que altera a Diretiva 2004/42/CE e os Regulamentos (CE) n.º 765/2008 e (UE) n.º 305/2011 (JO L 169 de 25.6.2019, p. 1).
+
+[^6]: É facultativo para o fabricante atribuir um número à declaração de conformidade.

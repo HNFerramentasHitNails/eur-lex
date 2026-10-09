@@ -1,0 +1,13 @@
+---
+celex: 32008R1272
+parte: contexto
+obtido_em: '2026-10-09'
+---
+
+# Regulamento 32008R1272 — CLP (classificação e rotulagem de químicos) — contexto
+
+Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o EUR-Lex associa a este acto; podem estar incompletas ou atrasadas.
+
+## Sínteses oficiais (linguagem simples)
+
+- Classificação, embalagem e rotulagem de substâncias químicas e misturas — [`_sinteses/ev0013.md`](../_sinteses/ev0013.md)

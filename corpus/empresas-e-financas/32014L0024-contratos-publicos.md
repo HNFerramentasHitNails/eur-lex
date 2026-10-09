@@ -1,0 +1,7631 @@
+---
+celex: 32014L0024
+nome_curto: Contratos públicos
+tipo: Diretiva
+titulo: Diretiva 2014/24/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa aos contratos públicos e que revoga a Diretiva 2004/18/CE Texto relevante para efeitos do EEE
+data_documento: '2014-02-26'
+em_vigor: true
+entrada_em_vigor:
+- '2014-04-17'
+texto: consolidado
+versao_consolidada: 02014L0024-20260101
+versao_aplicavel_desde: '2026-01-01'
+eli: http://data.europa.eu/eli/dir/2014/24/oj
+repertorio:
+- 06.30 Contratos públicos
+url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014L0024
+url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02014L0024-20260101
+lingua: pt
+fonte: cellar:application/xhtml+xml
+obtido_em: '2026-10-09'
+---
+
+# Diretiva 32014L0024 — Contratos públicos
+
+**Título oficial:** Diretiva 2014/24/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa aos contratos públicos e que revoga a Diretiva 2004/18/CE Texto relevante para efeitos do EEE
+
+**Texto:** versão consolidada aplicável desde 2026-01-01 (02014L0024-20260101).
+
+> Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
+
+**Considerandos (preâmbulo):** ficheiro `32014L0024-contratos-publicos.considerandos.md`.
+
+**Contexto** (sínteses oficiais, transposição em Portugal, jurisprudência do TJUE): ficheiro `32014L0024-contratos-publicos.contexto.md`.
+
+**EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014L0024
+
+## Alterações incorporadas nesta versão
+
+No texto, ▼M1/►M1 marcam disposições alteradas pelo acto M1 (e assim por diante), ▼C1 marca rectificações, ▼A1 actos de adesão e ▼B o texto de base.
+
+- ►M6 REGULAMENTO DELEGADO (UE) 2025/2152 DA COMISSÃO de 22 de outubro de 2025 — L 2152 — 1 — 23.10.2025 (CELEX 32025R2152)
+- ►C1 Rectificação, JO L 90063, 3.11.2023, p. 1 (Diretiva 2014/24/UE) (CELEX 32014L0024R(17))
+
+## Texto
+
+▼B
+
+| TÍTULO I: | ÂMBITO DE APLICAÇÃO, DEFINIÇÕES E PRINCÍPIOS GERAIS |
+|---|---|
+| CAPÍTULO I: | Âmbito de aplicação e definições |
+| SECÇÃO 1: | OBJETO E DEFINIÇÕES |
+| Artigo 1.º: | Objeto e âmbito de aplicação |
+| Artigo 2.º: | Definições |
+| Artigo 3.º: | Procedimento de adjudicação misto |
+| SECÇÃO 2: | LIMIARES |
+| Artigo 4.º: | Montantes limiares |
+| Artigo 5.º: | Métodos de cálculo do valor estimado do contrato |
+| Artigo 6.º: | Revisão dos limiares e da lista de autoridades governamentais centrais |
+| SECÇÃO 3: | EXCLUSÕES |
+| Artigo 7.º: | Contratos nos setores da água, da energia, dos transportes e dos serviços postais |
+| Artigo 8.º: | Exclusões específicas no domínio das comunicações eletrónicas |
+| Artigo 9.º: | Contratos públicos adjudicados e concursos para trabalhos de conceção organizados ao abrigo de regras internacionais |
+| Artigo 10.º: | Exclusões específicas para os contratos de serviços |
+| Artigo 11.º: | Contratos de serviços adjudicados com base num direito exclusivo |
+| Artigo 12.º: | Contratos públicos entre entidades no setor público |
+| SECÇÃO 4: | SITUAÇÕES ESPECÍFICAS |
+| Subsecção 1: | Contratos subsidiados e serviços de investigação e desenvolvimento |
+| Artigo 13.º: | Contratos subsidiados pelas autoridades adjudicantes |
+| Artigo 14.º: | Serviços de investigação e desenvolvimento |
+| Subsecção 2: | Procedimentos de contratação que envolvem aspetos de defesa ou de segurança |
+| Artigo 15.º: | Defesa e segurança |
+| Artigo 16.º: | Procedimentos de contratação mistos que envolvem aspetos de defesa ou de segurança |
+| Artigo 17.º: | Contratos públicos e concursos de conceção que envolvem aspetos de defesa ou de segurança e cuja adjudicação ou organização se reja por regras internacionais |
+| CAPÍTULO II: | Regras gerais |
+| Artigo 18.º: | Princípios da contratação |
+| Artigo 19.º: | Operadores económicos |
+| Artigo 20.º: | Contratos reservados |
+| Artigo 21.º: | Confidencialidade |
+| Artigo 22.º: | Regras aplicáveis à comunicação |
+| Artigo 23.º: | Nomenclaturas |
+| Artigo 24.º: | Conflitos de interesses |
+| TÍTULO II: | REGRAS APLICÁVEIS AOS CONTRATOS PÚBLICOS |
+| CAPÍTULO I: | Procedimentos |
+| Artigo 25.º: | Condições relativas ao GPA e a outros acordos internacionais |
+| Artigo 26.º: | Escolha dos procedimentos |
+| Artigo 27.º: | Concurso aberto |
+| Artigo 28.º: | Concurso limitado |
+| Artigo 29.º: | Procedimento concorrencial com negociação |
+| Artigo 30.º: | Diálogo concorrencial |
+| Artigo 31.º: | Parcerias para a inovação |
+| Artigo 32.º: | Utilização do procedimento por negociação sem publicação prévia de anúncio de concurso |
+| CAPÍTULO II: | Técnicas e instrumentos para a contratação pública eletrónica e agregada |
+| Artigo 33.º: | Acordos-quadro |
+| Artigo 34.º: | Sistemas de aquisição dinâmicos |
+| Artigo 35.º: | Leilões eletrónicos |
+| Artigo 36.º: | Catálogos eletrónicos |
+| Artigo 37.º: | Atividades de compras centralizadas e centrais de compras |
+| Artigo 38.º: | Iniciativas conjuntas de aquisição ocasionais |
+| Artigo 39.º: | Contratos que envolvem autoridades adjudicantes de vários Estados-Membros |
+| CAPÍTULO III: | Condução do procedimento |
+| SECÇÃO 1: | PREPARAÇÃO |
+| Artigo 40.º: | Consulta preliminar ao mercado |
+| Artigo 41.º: | Participação prévia de candidatos ou proponentes |
+| Artigo 42.º: | Especificações técnicas |
+| Artigo 43.º: | Rótulos |
+| Artigo 44.º: | Relatórios de ensaio, certificação e outros meios de prova |
+| Artigo 45.º: | Variantes |
+| Artigo 46.º: | Divisão dos contratos em lotes |
+| Artigo 47.º: | Fixação de prazos |
+| SECÇÃO 2: | PUBLICAÇÃO E TRANSPARÊNCIA |
+| Artigo 48.º: | Anúncios de pré-informação |
+| Artigo 49.º: | Anúncios de concurso |
+| Artigo 50.º: | Anúncios de adjudicação de contratos |
+| Artigo 51.º: | Redação e modalidades de publicação dos anúncios |
+| Artigo 52.º: | Publicação a nível nacional |
+| Artigo 53.º: | Disponibilidade eletrónica dos documentos do concurso |
+| Artigo 54.º: | Convites aos candidatos |
+| Artigo 55.º: | Informação dos candidatos e dos proponentes |
+| SECÇÃO 3: | SELEÇÃO DOS PARTICIPANTES E ADJUDICAÇÃO DOS CONTRATOS |
+| Artigo 56.º: | Princípios gerais |
+| Subsecção 1: | Critérios de seleção qualitativa |
+| Artigo 57.º: | Motivos de exclusão |
+| Artigo 58.º: | Critérios de seleção |
+| Artigo 59.º: | Documento Europeu Único de Contratação Pública |
+| Artigo 60.º: | Meios de prova |
+| Artigo 61.º: | Bases de dados de certificados (e-Certis) |
+| Artigo 62.º: | Normas de garantia de qualidade e normas de gestão ambiental |
+| Artigo 63.º: | Recurso às capacidades de outras entidades |
+| Artigo 64.º: | Listas oficiais de operadores económicos aprovados e certificação por organismos de direito público ou privado |
+| Subsecção 2: | Redução do número de candidatos, propostas e soluções |
+| Artigo 65.º: | Redução do número de candidatos qualificados que são convidados a participar |
+| Artigo 66.º: | Redução do número de propostas e soluções |
+| Subsecção 3: | Adjudicação do contrato |
+| Artigo 67.º: | Critérios de adjudicação |
+| Artigo 68.º: | Cálculo dos custos do ciclo de vida |
+| Artigo 69.º: | Propostas anormalmente baixas |
+| CAPÍTULO IV: | Execução dos contratos |
+| Artigo 70.º: | Condições de execução dos contratos |
+| Artigo 71.º: | Subcontratação |
+| Artigo 72.º: | Modificação de contratos durante o seu período de vigência |
+| Artigo 73.º: | Rescisão de contratos |
+| TÍTULO III: | REGIMES ESPECIAIS DE CONTRATAÇÃO PÚBLICA |
+| CAPÍTULO I: | Serviços sociais e outros serviços específicos |
+| Artigo 74.º: | Adjudicação de contratos para serviços sociais e outros serviços específicos |
+| Artigo 75.º: | Publicação dos anúncios |
+| Artigo 76.º: | Princípios de adjudicação dos contratos |
+| Artigo 77.º: | Contratos reservados para determinados serviços |
+| Capítulo II: | Regras aplicáveis aos concursos para trabalhos de conceção |
+| Artigo 78.º: | Âmbito de aplicação |
+| Artigo 79.º: | Anúncios |
+| Artigo 80.º: | Regras relativas à organização dos concursos para trabalhos de conceção e à seleção dos participantes |
+| Artigo 81.º: | Composição do júri |
+| Artigo 82.º: | Decisões do júri |
+| TÍTULO IV: | GOVERNAÇÃO |
+| Artigo 83.º: | Aplicação |
+| Artigo 84.º: | Relatórios individuais sobre procedimentos de adjudicação de contratos |
+| Artigo 85.º: | Relatórios e informações estatísticas nacionais |
+| Artigo 86.º: | Cooperação administrativa |
+| TÍTULO V: | PODERES DELEGADOS, COMPETÊNCIAS DE EXECUÇÃO E DISPOSIÇÕES FINAIS |
+| Artigo 87.º: | Exercício da delegação de poderes |
+| Artigo 88.º: | Procedimento de urgência |
+| Artigo 89.º: | Procedimento de comité |
+| Artigo 90.º: | Transposição e disposições transitórias |
+| Artigo 91.º: | Revogações |
+| Artigo 92.º: | Revisão |
+| Artigo 93.º: | Entrada em vigor |
+| Artigo 94.º: | Destinatários |
+| ANEXOS |  |
+| ANEXO I: | AUTORIDADES DO GOVERNO CENTRAIS |
+| ANEXO II: | LISTA DAS ATIVIDADES REFERIDAS NO ARTIGO 2.o, N.º 1, PONTO 6, ALÍNEA a) |
+| ANEXO III: | LISTA DOS PRODUTOS REFERIDOS NO ARTIGO 4.o, ALÍNEA b), RELATIVAMENTE AOS CONTRATOS CELEBRADOS POR AUTORIDADES ADJUDICANTES NO DOMÍNIO DA DEFESA |
+| ANEXO IV: | EXIGÊNCIAS RELATIVAS AOS INSTRUMENTOS E AOS DISPOSITIVOS DE RECEÇÃO ELETRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, ASSIM COMO DE PLANOS E PROJETOS NOS CONCURSOS DE CONCEÇÃO |
+| ANEXO V: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS |
+| Parte A: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS RELATIVOS À PUBLICAÇÃO DE UM ANÚNCIO DE PRÉ-INFORMAÇÃO SOBRE O PERFIL DE ADQUIRENTE |
+| Parte B: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE PRÉ-INFORMAÇÃO (conforme referido no artigo 48.o) |
+| Parte C: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE CONCURSO (conforme referido no artigo 49.o) |
+| Parte D: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE ADJUDICAÇÃO DE CONTRATOS (conforme referido no artigo 50.o) |
+| Parte E: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE CONCURSOS DE CONCEÇÃO (conforme referido no artigo 79.o, n.º 1) |
+| Parte F: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS SOBRE OS RESULTADOS DE UM CONCURSO (conforme referido no artigo 79.o, n.º 2) |
+| Parte G: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE ALTERAÇÃO DE UM CONTRATO DURANTE O SEU PERÍODO DE VIGÊNCIA (conforme referido no artigo 72.o, n.º 1) |
+| Parte H: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE CONCURSO RELATIVOS A CONTRATOS DE SERVIÇOS SOCIAIS E OUTROS SERVIÇOS ESPECÍFICOS (conforme referido no artigo 75.o, n.º 1) |
+| Parte I: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE PRÉ-INFORMAÇÃO RELATIVOS A SERVIÇOS SOCIAIS E OUTROS SERVIÇOS ESPECÍFICOS (conforme referido no artigo 75.o, n.º 1) |
+| Parte J: | INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS DE ADJUDICAÇÃO RELATIVOS A CONTRATOS DE SERVIÇOS SOCIAIS E OUTROS SERVIÇOS ESPECÍFICOS (conforme referido no artigo 75.o, n.º 2) |
+| ANEXO VI: | INFORMAÇÕES QUE DEVEM CONSTAR DOS DOCUMENTOS RELATIVOS AOS LEILÕES ELETRÓNICOS (artigo 35.o, n.º 4) |
+| ANEXO VII: | DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS |
+| ANEXO VIII: | CARACTERÍSTICAS RELATIVAS À PUBLICAÇÃO |
+| ANEXO IX: | CONTEÚDO DOS CONVITES À APRESENTAÇÃO DE PROPOSTAS, À PARTICIPAÇÃO NO DIÁLOGO OU À CONFIRMAÇÃO DE INTERESSE NOS TERMOS DO ARTIGO 54.o |
+| ANEXO X: | LISTA DAS CONVENÇÕES INTERNACIONAIS NOS DOMÍNIOS SOCIAL E AMBIENTAL REFERIDAS NO ARTIGO 18.o, N.º 2 |
+| ANEXO XI: | REGISTOS |
+| ANEXO XII: | MEIOS DE PROVA DOS CRITÉRIOS DE SELEÇÃO |
+| ANEXO XIII: | LISTA DOS ATOS NORMATIVOS DA UNIÃO REFERIDA NO ARTIGO 68.o, N.º 3 |
+| ANEXO XIV: | SERVIÇOS A QUE SE REFERE O ARTIGO 74.o |
+| ANEXO XV: | TABELA DE CORRESPONDÊNCIA |
+
+## TÍTULO I — ÂMBITO DE APLICAÇÃO, DEFINIÇÕES E PRINCÍPIOS GERAIS
+
+## CAPÍTULO I — Âmbito de aplicação e definições
+
+## Secção 1 — Objeto e definições
+
+### Artigo 1.º — Objeto e âmbito de aplicação
+
+1. A presente diretiva estabelece as regras aplicáveis aos procedimentos de contratação adotados por autoridades adjudicantes relativamente a contratos públicos e a concursos de conceção cujo valor estimado não seja inferior aos limiares definidos no artigo 4.o.
+
+2. Na aceção da presente diretiva, entende-se por «contratação pública» a aquisição, mediante contrato público, de obras, fornecimentos ou serviços por uma ou mais autoridades adjudicantes a operadores económicos selecionados pelas mesmas, independentemente de as obras, os fornecimentos ou os serviços se destinarem ou não a uma finalidade de interesse público.
+
+3. A aplicação da presente diretiva está sujeita ao disposto no artigo 346.o do TFUE.
+
+4. A presente diretiva não afeta a liberdade de os Estados-Membros definirem, em conformidade com o direito da União, o que entendem por serviços de interesse económico geral, o modo como esses serviços devem ser organizados e financiados, em conformidade com as regras em matéria de auxílios estatais, e as obrigações específicas a que devem estar sujeitos. A presente diretiva também não afeta a faculdade de as autoridades públicas decidirem se, como e em que medida desejam elas próprias desempenhar funções públicas, nos termos do artigo 14.o do TFUE e do Protocolo n.º 26.
+
+5. A presente diretiva não afeta o modo como os Estados-Membros organizam os seus sistemas de segurança social.
+
+6. Os acordos, decisões ou outros instrumentos jurídicos que organizem a transferência de poderes e responsabilidades pela execução de missões públicas entre autoridades adjudicantes ou agrupamentos de autoridades adjudicantes, e que não prevejam uma remuneração pela execução dos contratos, são considerados uma questão de organização interna dos Estado-Membro em causa e, como tal, não são de forma alguma afetados pela presente diretiva.
+
+### Artigo 2.º — Definições
+
+1. Para efeitos da presente diretiva, entende-se por:
+
+- 1) «Autoridades adjudicantes», as autoridades estatais, regionais ou locais, organismos de direito público e associações formadas por uma ou mais dessas autoridades ou organismos de direito público;
+
+- 2) «Autoridades governamentais centrais», as autoridades adjudicantes enunciadas no Anexo I e, na medida em que sejam efetuadas modificações ou emendas a nível nacional, as entidades que lhes sucedam;
+
+- 3) «Autoridades governamentais subcentrais», as autoridades adjudicantes que não sejam autoridades governamentais centrais;
+
+- 4) «Organismos de direito público», os organismos que apresentem todas as seguintes características:
+
+  - a) Foram criados para o fim específico de satisfazer necessidades de interesse geral, sem caráter industrial ou comercial;
+
+  - b) Têm personalidade jurídica; e
+
+  - c) São maioritariamente financiados pelo Estado, por autoridades regionais ou locais ou por outros organismos de direito público, ou a sua gestão está sujeita a controlo por parte dessas autoridades ou desses organismos, ou mais de metade dos membros nos seus órgãos de administração, direção ou fiscalização são designados pelo Estado, pelas autoridades regionais ou locais ou por outros organismos de direito público;
+
+- 5) «Contratos públicos», contratos a título oneroso, celebrados por escrito entre um ou mais operadores económicos e uma ou mais autoridades adjudicantes, que tenham por objeto a execução de obras, o fornecimento de produtos ou a prestação de serviços;
+
+- 6) «Contratos de empreitada de obras públicas», contratos públicos que tenham por objeto:
+
+  - a) A execução ou a conceção e execução conjuntas de obras relacionadas com uma das atividades na aceção do Anexo II;
+
+  - b) A execução ou a conceção e execução conjuntas de uma obra;
+
+  - c) A realização, por qualquer meio, de uma obra que satisfaça as necessidades especificadas pela autoridade adjudicante que exerce uma influência decisiva sobre o tipo ou a conceção da obra;
+
+- 7) «Obra», o resultado de um conjunto de trabalhos de construção ou de engenharia civil destinados a desempenhar, por si só, uma função económica ou técnica;
+
+- 8) «Contratos públicos de fornecimento», contratos públicos que tenham por objeto a compra, a locação financeira, a locação ou a locação-venda, com ou sem opção de compra, de produtos. Um contrato público de fornecimento pode incluir, a título acessório, operações de montagem e instalação;
+
+- 9) «Contratos públicos de serviços», contratos públicos que tenham por objeto a prestação de serviços distintos daqueles a que se refere o ponto 6;
+
+- 10) «Operador económico», qualquer pessoa singular ou coletiva, entidade pública ou agrupamento de tais pessoas e/ou entidades, incluindo agrupamentos temporários de empresas, que realize empreitadas e/ou obras, forneça produtos ou preste serviços no mercado;
+
+- 11) «Proponente», um operador económico que tenha apresentado uma proposta;
+
+- 12) «Candidato», um operador económico que tenha solicitado um convite ou tenha sido convidado a participar num concurso limitado, num procedimento concorrencial com negociação ou num procedimento por negociação por publicação prévia de anúncio, num diálogo concorrencial ou numa parceria para a inovação;
+
+- 13) «Documentos do concurso», todos os documentos produzidos ou referidos pela autoridade adjudicante para descrever ou determinar elementos do concurso ou do procedimento, incluindo o anúncio de concurso, o anúncio de pré-informação, quando utilizado como meio de abertura de concurso, as especificações técnicas, a memória descritiva, as condições contratuais propostas, os formulários para a apresentação de documentos pelos candidatos e proponentes, as informações sobre as obrigações geralmente aplicáveis e eventuais documentos complementares;
+
+- 14) «Atividades de aquisição centralizadas», atividades realizadas a título permanente de uma das seguintes formas:
+
+  - a) Aquisição de fornecimentos e/ou serviços destinados a autoridades adjudicantes;
+
+  - b) Adjudicação de contratos públicos ou celebração de acordos-quadro de obras, fornecimentos ou serviços destinados a autoridades adjudicantes;
+
+- 15) «Atividades de aquisição auxiliares», atividades que consistam na prestação de apoio às atividades de aquisição, nomeadamente de uma das seguintes formas:
+
+  - a) Infraestruturas técnicas que permitam às autoridades adjudicantes adjudicar contratos públicos ou celebrar acordos-quadro para obras, fornecimentos ou serviços;
+
+  - b) Aconselhamento sobre a realização ou conceção de procedimentos de contratação pública;
+
+  - c) Preparação e gestão de procedimentos de contratação em nome e por conta da autoridade adjudicante em causa;
+
+- 16) «Central de compras», uma autoridade adjudicante que realize atividades de aquisição centralizadas e, eventualmente, atividades de aquisição auxiliares;
+
+- 17) «Prestador de serviços no domínio da contratação pública», um organismo público ou privado que realize atividades de aquisição auxiliares no mercado;
+
+- 18) «Escrito» ou «por escrito», qualquer expressão constituída por palavras ou algarismos que possa ser lida, reproduzida e posteriormente comunicada, incluindo informações transmitidas e armazenadas por meios eletrónicos;
+
+- 19) «Meios eletrónicos», meios que utilizem equipamento eletrónico para o tratamento (incluindo a compressão digital) e armazenamento de dados transmitidos, transportados e recebidos através de redes, rádio, meios óticos ou outros meios eletromagnéticos;
+
+- 20) «Ciclo de vida», todas as etapas consecutivas e/ou interligadas, incluindo a investigação e desenvolvimento a efetuar, a produção, comercialização e respetivas condições, transporte, utilização e manutenção, ao longo da existência de um produto, de uma obra ou da prestação de um serviço, desde a aquisição das matérias-primas ou da geração de recursos até à eliminação, neutralização e fim do serviço ou utilização;
+
+- 21) «Concursos de conceção», procedimentos que permitem à autoridade adjudicante adquirir, principalmente nos domínios do ordenamento do território, do planeamento urbano, da arquitetura e engenharia civil ou do tratamento de dados, um plano ou um projeto selecionado por um júri de concurso, com ou sem atribuição de prémios;
+
+- 22) «Inovação», a implementação de um produto, serviço ou processo novo ou significativamente melhorado, incluindo mas não limitado aos processos de produção ou construção, um novo método de comercialização, ou um novo método organizacional nas práticas empresariais, na organização do local de trabalho ou nas relações externas, nomeadamente com o objetivo de ajudar a resolver os desafios societais ou de apoiar a Estratégia Europa 2020 para um crescimento inteligente, sustentável e inclusivo;
+
+- 23) «Rótulo», qualquer documento, certificado ou atestado que confirme que as obras, produtos, serviços, processos ou procedimentos em causa preenchem determinados requisitos;
+
+- 24) «Requisitos de rotulagem», os requisitos que devem ser preenchidos pelas obras, produtos, serviços, processos ou procedimentos em causa, a fim de obter o rótulo em questão.
+
+2. Para efeitos do presente artigo, «autoridades regionais» incluem autoridades enumeradas de modo não exaustivo nos níveis NUTS 1 e 2, conforme referido no Regulamento (CE) n.º 1059/2003 do Parlamento Europeu e do Conselho ([^1]), ao passo que as «autoridades locais» incluem todas as autoridades das unidades administrativas abrangidas pelo nível NUTS 3 e das unidades administrativas mais pequenas, nos termos do Regulamento (CE) n.º 1059/2003.
+
+### Artigo 3.º — Procedimento de contratação misto
+
+1. O n.o 2 aplica-se aos contratos mistos que tenham por objeto os diversos tipos de aquisições abrangidos pela presente diretiva.
+
+Os n.os 3 a 5 aplicam-se aos contratos mistos que tenham por objeto as aquisições abrangidas pela presente diretiva e as aquisições abrangidas por outros regimes legais.
+
+2. Os contratos que tenham como objeto dois ou mais tipos de aquisições (obras, serviços ou fornecimentos) são adjudicados em conformidade com as disposições aplicáveis ao tipo de aquisição que caracteriza o objeto principal do contrato em causa.
+
+No caso de contratos mistos relativos em parte a serviços na aceção do Título III, Capítulo I, e em parte a outros serviços, ou no caso de contratos mistos relativos em parte a serviços e em parte a fornecimentos, o objeto principal é determinado em função do valor estimado mais elevado dos respetivos serviços ou fornecimentos.
+
+3. Caso as várias partes de um dado contrato sejam objetivamente separáveis, aplica-se o n.o 4; caso as várias partes de um dado contrato sejam objetivamente inseparáveis, aplica-se o n.o 6.
+
+Caso uma parte de um dado contrato seja abrangida pelo artigo 346.o do TFUE ou pela Diretiva 2009/81/CE, aplica-se o artigo 16.o da presente diretiva.
+
+4. No caso de contratos que tenham como objeto aquisições das quais umas sejam abrangidas pela presente diretiva e outras não, as autoridades adjudicantes podem optar por adjudicar contratos distintos para as partes distintas, ou por adjudicar um contrato único. Se as autoridades adjudicantes optarem por adjudicar contratos distintos para as partes distintas, a decisão quanto ao regime jurídico a aplicar a cada um dos contratos distintos será tomada com base nas características da parte separada em causa.
+
+Se as autoridades adjudicantes optarem por adjudicar um contrato único, a presente diretiva, salvo disposição em contrário do artigo 16.o, é aplicável ao contrato misto daí decorrente, independentemente do valor das partes que de outra forma teriam ficado sujeitas a um regime jurídico diferente, e independentemente do regime jurídico a que de outra forma essas partes teriam ficado sujeitas.
+
+Assim, no caso de contratos mistos que contenham elementos de contratos públicos de fornecimentos, obras e serviços e de concessões, o contrato misto é adjudicado em conformidade com a presente diretiva, na condição de o valor estimado da parte do contrato que constitui um contrato abrangido pela presente diretiva, calculada em conformidade com o disposto no artigo 5.o, ser igual ou superior ao limiar pertinente estabelecido no artigo 4.o.
+
+5. No caso de contratos que tenham como objeto aquisições abrangidas pela presente diretiva e aquisições com vista ao exercício de uma atividade abrangida pelo disposto na Diretiva 2014/25/UE, as regras aplicáveis são determinadas, não obstante o disposto no n.o 4 do presente artigo, nos termos dos artigos 5.o e 6.o da Diretiva 2014/25/UE.
+
+6. Quando não for possível identificar separadamente as diferentes partes de um dado contrato de forma objetiva, o regime jurídico aplicável é determinado com base no objeto principal do contrato em causa.
+
+## Secção 2 — Limiares
+
+### Artigo 4.º — Montantes limiares
+
+A presente diretiva aplica-se aos contratos cujo valor estimado, sem imposto sobre o valor acrescentado (IVA), seja igual ou superior aos seguintes limiares:
+
+- a) ►M6 5 404 000 EUR ◄ para os contratos de empreitada de obras públicas;
+
+- b) ►M6 140 000 EUR ◄ para os contratos públicos de fornecimento e de serviços adjudicados por autoridades governamentais centrais e concursos para trabalhos de conceção organizados por essas autoridades; quando os contratos públicos de fornecimento forem adjudicados por autoridades adjudicantes que operem no domínio da defesa, este limiar só se aplica aos contratos relativos a produtos mencionados no Anexo III;
+
+- c) ►M6 216 000 EUR ◄ para os contratos públicos de fornecimento e de serviços adjudicados por autoridades adjudicantes subcentrais e concursos para trabalhos de conceção organizados por essas autoridades; quando os contratos públicos de fornecimento forem adjudicados por autoridades adjudicantes que operem no domínio da defesa, esse limiar só se aplica aos contratos relativos a produtos mencionados no Anexo III;
+
+- d) 750 000 EUR para os contratos públicos de serviços relativos a serviços sociais e outros serviços específicos enumerados no Anexo XIV.
+
+### Artigo 5.º — Métodos de cálculo do valor estimado do contrato
+
+1. O cálculo do valor estimado de um contrato baseia-se no montante total a pagar, sem IVA, estimado pela autoridade adjudicante, incluindo qualquer tipo de opção e eventuais renovações do contrato, indicados expressamente nos documentos do concurso.
+
+Caso a autoridade adjudicante preveja prémios ou pagamentos a candidatos ou proponentes, deve tomá-los em consideração ao calcular o valor estimado do contrato.
+
+2. Caso a autoridade adjudicante seja constituída por unidades operacionais distintas, é tido em conta o valor total estimado para todas as unidades operacionais.
+
+Não obstante o disposto no n.o 1, primeiro parágrafo, caso uma unidade operacional distinta seja independentemente responsável pelos seus contratos ou determinadas categorias dos mesmos, podem ser estimados valores a nível da cada unidade em questão.
+
+3. O método de cálculo do valor estimado de um contrato não pode ser escolhido com o intuito de o excluir do âmbito de aplicação da presente diretiva. Um contrato não pode ser subdividido se daí resultar a sua exclusão do âmbito de aplicação da presente diretiva, a menos que tal se justifique por razões objetivas.
+
+4. Aquele valor estimado é válido no momento do envio do convite à apresentação de propostas ou, nos casos em que não seja previsto um anúncio de concurso, na data em que a autoridade adjudicante inicia o procedimento de contratação, por exemplo, se for caso disso, entrando em contacto com os operadores económicos no contexto da aquisição.
+
+5. Nos acordos-quadro e nos sistemas de aquisição dinâmicos, o valor a tomar em consideração é o valor máximo estimado, sem IVA, de todos os contratos previstos durante toda a vigência do acordo-quadro ou do sistema de aquisição dinâmico.
+
+6. No caso das parcerias para a inovação, o valor a tomar em consideração é o valor máximo estimado, sem IVA, das atividades de investigação e desenvolvimento a terem lugar em todas as etapas da parceria prevista, bem como dos fornecimentos, dos serviços ou das obras a serem desenvolvidos e adquiridos no final da parceria prevista.
+
+7. Para os contratos de empreitada de obras públicas, o cálculo do valor estimado deve ter em conta o custo da obra e o valor total estimado dos fornecimentos e serviços que são postos à disposição do empreiteiro pelas autoridades adjudicantes, desde que sejam necessários à execução da obra.
+
+8. Sempre que uma obra prevista ou uma prestação de serviços prevista possa ocasionar a adjudicação de contratos por lotes separados, deve ser tido em conta o valor total estimado da totalidade desses lotes.
+
+Sempre que o valor acumulado dos lotes seja igual ou superior ao limiar estabelecido no artigo 4.o, a presente diretiva aplica-se à adjudicação de cada lote.
+
+9. Sempre que uma proposta para a aquisição de fornecimentos análogos possa ocasionar a adjudicação de contratos por lotes separados, o valor total estimado da totalidade desses lotes deve ser tido em conta para efeitos de aplicação do artigo 4.o, alíneas b) e c).
+
+Sempre que o valor acumulado dos lotes seja igual ou superior ao limiar estabelecido no artigo 4.o, a presente diretiva aplica-se à adjudicação de cada lote.
+
+10. Não obstante o disposto nos n.os 8 e 9, as autoridades adjudicantes podem adjudicar contratos para lotes individuais sem aplicar os procedimentos previstos na presente diretiva, desde que o valor estimado, sem IVA, do lote em causa seja inferior a 80 000 EUR no caso dos produtos ou fornecimentos ou a 1 000 000 EUR no caso das empreitadas de obras. Contudo, o valor total dos lotes adjudicados sem a aplicação da presente diretiva não pode exceder 20 % do valor total de todos os lotes em que a obra prevista ou a aquisição de fornecimentos análogos prevista ou a prestação de serviços prevista tenham sido divididas.
+
+11. No caso de contratos públicos de fornecimento ou de serviços que tenham caráter regular ou se destinem a ser renovados durante um determinado período, o valor estimado do contrato deve ser calculado com base:
+
+- a) No valor total real dos sucessivos contratos do mesmo tipo adjudicados durante os 12 meses anteriores ou durante o exercício anterior, corrigido, quando possível, para atender às alterações de quantidade ou de valor suscetíveis de ocorrer durante os 12 meses seguintes à adjudicação do contrato inicial;
+
+- b) Ou no valor total estimado dos sucessivos contratos adjudicados durante os 12 meses seguintes à primeira entrega ou durante o exercício, caso este tenha duração superior a 12 meses.
+
+12. No tocante aos contratos públicos de fornecimento que tenham por objeto a locação financeira, a locação ou a locação-venda de produtos, o valor a tomar como base para o cálculo do valor estimado do contrato é o seguinte:
+
+- a) Nos contratos públicos de duração determinada, caso esta seja igual ou inferior a 12 meses, o valor total estimado para o período de vigência do contrato ou, caso a vigência do contrato seja superior a 12 meses, o valor total incluindo o valor residual estimado;
+
+- b) Nos contratos públicos com duração indeterminada ou na impossibilidade de determinar a sua duração, o valor mensal multiplicado por 48.
+
+13. No tocante aos contratos públicos de serviços, a base para o cálculo do valor estimado do contrato é:
+
+- a) Serviços de seguros: o prémio a pagar e outras formas de remuneração;
+
+- b) Serviços bancários e outros serviços financeiros: os honorários, as comissões a pagar, os juros e outras formas de remuneração;
+
+- c) Contratos relativos a trabalhos de conceção: os honorários, as comissões a pagar e outras formas de remuneração;
+
+14. No tocante aos contratos públicos de serviços em que não é indicado o preço total, a base para o cálculo do valor estimado do contrato é:
+
+- a) Nos contratos de duração determinada, caso esta seja igual ou inferior a 48 meses: o valor total estimado para todo o período de vigência;
+
+- b) Nos contratos de duração indeterminada ou superior a 48 meses: o valor mensal multiplicado por 48.
+
+### Artigo 6.º — Revisão dos limiares e da lista de autoridades governamentais centrais
+
+1. De dois em dois anos, a contar de 30 de junho de 2013, a Comissão verifica se os limiares estabelecidos no artigo 4.o, alíneas a), b) e c), correspondem aos limiares estabelecidos no Acordo sobre Contratos Públicos da Organização Mundial do Comércio (a seguir designado «GPA») e, quando necessário, procede à respetiva revisão nos termos do presente artigo.
+
+Em conformidade com o método de cálculo estabelecido no Acordo, a Comissão calcula o valor desses limiares com base no valor médio diário do euro em termos de direitos de saque especiais, durante um período de 24 meses que termina em 31 de agosto anterior à revisão que produzirá efeitos a partir de 1 de janeiro. Se necessário, o valor dos limiares assim revisto será arredondado por defeito para o milhar de euros mais próximo, a fim de assegurar o respeito dos limiares em vigor previstos pelo GPA, expressos em direitos de saque especiais.
+
+2. Aquando da revisão prevista no n.o 1 do presente artigo, a Comissão revê igualmente:
+
+- a) O limiar previsto no artigo 13.o, primeiro parágrafo, alínea a), alinhando-o pelo limiar revisto aplicável aos contratos de empreitada de obras públicas;
+
+- b) O limiar previsto no artigo 13.o, primeiro parágrafo, alínea b), alinhando-o pelo limiar revisto aplicável aos contratos de empreitada de obras públicas adjudicados por autoridades subcentrais.
+
+3. De dois em dois anos, a partir de 1 de janeiro de 2014, a Comissão determina o contravalor, nas moedas nacionais dos Estados-Membros cuja moeda não seja o euro dos limiares referidos no artigo 4.o, alíneas a), b) e c), revistos nos termos do n.o 1 do presente artigo.
+
+Ao mesmo tempo, a Comissão determina o contravalor, nas moedas nacionais dos Estados-Membros cuja moeda não seja o euro do limiar referido no artigo 4.o, alínea d).
+
+Em conformidade com o método de cálculo estabelecido no GPA, a determinação desse contravalor deve basear-se no valor médio diário dessas moedas correspondente ao limiar aplicável, expresso em euros, durante o período de 24 meses que termina em 31 de agosto anterior à revisão que produzirá efeitos em 1 de janeiro.
+
+4. A Comissão publica no Jornal Oficial da União Europeia, no início do mês de novembro posterior à revisão, os limiares revistos mencionados no n.o 1, o seu contravalor nas moedas nacionais referidas no n.o 3, primeiro parágrafo, e o valor determinado em conformidade com o n.o 3, segundo parágrafo.
+
+5. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 87.o no que diz respeito à adaptação da metodologia estabelecida no n.o 1, segundo parágrafo do presente artigo a quaisquer alterações na metodologia prevista no GPA para a revisão dos limiares referidos no artigo 4.o, alíneas a), b) e c), e para a determinação dos limiares nas moedas nacionais dos Estados-Membros cuja moeda não seja o euro conforme referido no n.o 3 do presente artigo.
+
+A Comissão fica habilitada a adotar atos delegados nos termos do artigo 87.o no que respeita à revisão dos limiares referidos no artigo 4.o, alíneas a), b) e c), de acordo com o n.o 1 do presente artigo e a rever os limiares referidos no artigo 13.o, primeiro parágrafo, alíneas a) e b), de acordo com o n.o 2 do presente artigo.
+
+6. Caso seja necessário rever os limiares referidos no artigo 4.o, alíneas a), b) e c), bem como os limiares referidos no artigo 13.o, primeiro parágrafo, alíneas a) e b), e haja condicionalismos de prazos que impeçam a aplicação do procedimento estabelecido no artigo 87.o e imperativos de urgência que assim o exijam, aplica-se aos atos delegados adotados nos termos do n.o 5, segundo parágrafo, do presente artigo o procedimento previsto no artigo 88.o.
+
+7. A Comissão fica habilitada a adotar atos delegados, em conformidade com o artigo 87.o, a fim de alterar o Anexo I de modo a atualizar a lista de autoridades adjudicantes, no seguimento das notificações dos Estados-Membros, quando tais alterações se revelarem necessárias para a correta identificação das autoridades adjudicantes.
+
+## Secção 3 — Exclusões
+
+### Artigo 7.º — Contratos públicos adjudicados nos setores da água, da energia, dos transportes e dos serviços postais
+
+A presente diretiva não se aplica aos contratos públicos e aos concursos de conceção que, nos termos da Diretiva 2014/25/UE, são adjudicados ou organizados por autoridades adjudicantes que exerçam uma ou mais das atividades indicadas nos artigos 8.o a 14.o da referida diretiva e que sejam adjudicados para o exercício dessas atividades, nem aos contratos públicos excluídos do âmbito de aplicação da referida diretiva por força dos seus artigos 18.o, 23.o e 34.o, nem, quando adjudicados por uma autoridade adjudicante que preste serviços postais na aceção do artigo 13.o, n.o 2, alínea b), da referida diretiva, aos contratos adjudicados para o exercício das seguintes atividades:
+
+- a) Os serviços de valor acrescentado associados à via eletrónica e inteiramente efetuados por essa via (incluindo a transmissão protegida de documentos codificados por via eletrónica, os serviços de gestão de endereços e o envio de correio eletrónico registado);
+
+- b) Os serviços financeiros abrangidos pelo códigos de Vocabulário Comum para os Contratos Públicos (CPV), com os 66100000-1 a 66720000-3 e pelos artigo 21.o, alínea d), da Diretiva 2014/25/UE, incluindo, nomeadamente, as ordens de pagamento postal e as ordens de transferência postal;
+
+- c) Os serviços de filatelia; ou
+
+- d) Os serviços logísticos (serviços que combinem a entrega física e/ou o armazenamento com outras funções não postais).
+
+### Artigo 8.º — Exclusões específicas no domínio das comunicações eletrónicas
+
+A presente diretiva não se aplica aos contratos públicos e aos concursos de conceção cujo objetivo principal seja permitir às autoridades adjudicantes a disponibilização ou exploração de redes públicas de comunicações ou a prestação ao público de um ou mais serviços de comunicações eletrónicas.
+
+Para efeitos do presente artigo, aplicam-se as definições de «rede pública de comunicações» e de «serviços de comunicações eletrónicas» previstas na Diretiva 2002/21/CE do Parlamento Europeu e do Conselho ([^2]).
+
+### Artigo 9.º — Contratos públicos adjudicados e concursos para trabalhos de conceção organizados ao abrigo de regras internacionais
+
+1. A presente diretiva não se aplica a contratos públicos e a concursos de conceção que a autoridade adjudicante seja obrigada a adjudicar ou organizar nos termos de procedimentos diferentes dos previstos na presente diretiva, estabelecidos por:
+
+- a) Um instrumento legal que crie obrigações de direito internacional, tais como um acordo internacional em conformidade com os Tratados entre um Estado-Membro e um ou mais países terceiros ou respetivas subdivisões, respeitantes a obras, fornecimentos ou serviços destinados à realização ou exploração conjunta de um projeto pelos seus signatários;
+
+- b) Uma organização internacional.
+
+Os Estados-Membros comunicam todos os instrumentos legais referidos na alínea a) do primeiro parágrafo do presente número à Comissão, a qual pode consultar o Comité Consultivo dos Contratos Públicos referido no artigo 89.o.
+
+2. A presente diretiva não é aplicável aos contratos públicos e aos concursos de conceção que as autoridades adjudicantes organizam em conformidade com as regras aplicáveis aos contratos públicos fornecidas por uma organização internacional ou instituição financeira internacional, quando os contratos e os concursos de conceção em causa são financiados na íntegra por essa organização ou instituição; no caso de contratos públicos e concursos de conceção cofinanciados maioritariamente por uma organização internacional ou por uma instituição financeira internacional, as partes acordam nos procedimentos de contratação aplicáveis.
+
+3. O artigo 17.o aplica-se aos contratos e concursos de conceção que envolvam aspetos de defesa ou segurança cuja adjudicação ou organização se reja por regras internacionais. Os n.os 1 e 2 do presente artigo não se aplicam a esses contratos e aos concursos de conceção.
+
+### Artigo 10.º — Exclusões específicas para os contratos de serviços
+
+A presente diretiva não se aplica aos contratos públicos de serviços destinados:
+
+- a) À aquisição ou locação, quaisquer que sejam as respetivas modalidades financeiras, de terrenos, edifícios existentes ou outros bens imóveis, ou relacionados com direitos sobre esses bens;
+
+- b) À aquisição, desenvolvimento, produção ou coprodução de materiais de programas destinados a serviços de comunicação social audiovisuais ou radiofónicos, adjudicados por prestadores de serviços de comunicação social audiovisuais ou radiofónicos, ou aos contratos de tempo de antena ou de fornecimento de programas adjudicados a prestadores de serviços de comunicação social audiovisuais ou radiofónicos. Para efeitos da presente alínea, aplicam-se as definições de «serviços de comunicação social audiovisuais» e de «prestadores de serviços de comunicação social» previstas no artigo 1.o, n.o 1, respetivamente, alíneas a) e d), da Diretiva 2010/13/UE do Parlamento Europeu e do Conselho ([^3]). Aplica-se a definição de «programa» prevista no artigo 1.o, n.o 1, alínea b), dessa diretiva, que inclui também os programas de rádio e os respetivos conteúdos. Além disso, para efeitos da presente alínea, «conteúdos dos programas» e «programas» têm o mesmo significado;
+
+- c) Aos serviços de arbitragem e de conciliação;
+
+- d) A qualquer dos seguintes serviços jurídicos:
+
+  - i) representação de um cliente por um advogado, na aceção do artigo 1.o da Diretiva 77/249/CEE do Conselho ([^4]):
+
+    - — numa arbitragem ou conciliação realizada num Estado-Membro ou num país terceiro ou perante uma instância internacional de arbitragem ou conciliação, ou
+
+    - — em processos judiciais perante os tribunais ou autoridades públicas de um Estado-Membro ou de um país terceiro ou perante tribunais ou instituições internacionais,
+
+  - ii) aconselhamento jurídico prestado em preparação de qualquer dos processos referidos na subalínea i) da presente alínea, ou quando haja indícios concretos e uma grande probabilidade de a questão à qual o aconselhamento diz respeito se tornar o objeto desses processos, desde que o aconselhamento seja prestado por um advogado, na aceção do artigo 1.o da Diretiva 77/249/CEE,
+
+  - iii) serviços de certificação e autenticação de documentos que devam ser prestados por notários,
+
+  - iv) serviços jurídicos prestados por administradores ou tutores nomeados, ou outros serviços jurídicos prestados por prestadores designados por um tribunal no Estado-Membro em causa ou designados por lei para desempenhar determinadas funções sob supervisão daqueles tribunais,
+
+  - v) outros serviços jurídicos que no Estado-Membro em causa estejam ligados, ainda que a título ocasional, ao exercício da autoridade pública;
+
+- e) Aos serviços financeiros ligados à emissão, compra, venda e transferência de valores mobiliários ou outros instrumentos financeiros, na aceção da Diretiva 2004/39/CE do Parlamento Europeu e do Conselho ([^5]), bem como aos serviços prestados por bancos centrais e às operações realizadas com o Fundo Europeu de Estabilidade Financeira e com o Mecanismo Europeu de Estabilidade;
+
+- f) A empréstimos, relacionados ou não com a emissão, compra, venda e transferência de valores mobiliários ou outros instrumentos financeiros;
+
+- g) Aos contratos de trabalho;
+
+- h) Aos serviços de defesa civil, proteção civil e prevenção de riscos que sejam prestados por organizações ou associações sem fins lucrativos e que sejam abrangidos pelos seguintes códigos CPV: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8; 98113100-9; 85143000-3 exceto serviços de ambulância de transporte de doentes;
+
+- i) Aos serviços públicos de transporte de passageiros por caminho-de-ferro ou metropolitano;
+
+- j) Aos serviços relacionados com campanhas políticas, abrangidos pelos códigos CPV 79341400-0, 92111230-3 e 92111240-6, quando adjudicados por um partido político no contexto de uma campanha eleitoral.
+
+### Artigo 11.º — Contratos de serviços adjudicados com base num direito exclusivo
+
+A presente diretiva não é aplicável aos contratos públicos de serviços adjudicados por uma autoridade adjudicante a outra autoridade adjudicante ou a uma associação de autoridades adjudicantes com base num direito exclusivo de que estas beneficiem em virtude de disposições legislativas, regulamentares ou administrativas publicadas, desde que essas disposições sejam compatíveis com o TFUE.
+
+### Artigo 12.º — Contratos públicos entre entidades no setor público
+
+1. Um contrato público adjudicado por uma autoridade adjudicante a outra pessoa coletiva de direito privado ou público fica excluído do âmbito da presente diretiva quando estiverem preenchidas todas as seguintes condições:
+
+- a) A autoridade adjudicante exerce sobre a pessoa coletiva em causa um controlo análogo ao que exerce sobre os seus próprios serviços;
+
+- b) Mais de 80 % das atividades da pessoa coletiva controlada são realizadas no desempenho de funções que lhe foram confiadas pela autoridade adjudicante que a controla ou por outras pessoas coletivas controladas pela referida autoridade adjudicante; e
+
+- c) Não há participação direta de capital privado na pessoa coletiva controlada, com exceção das formas de participação de capital privado sem poderes de controlo e sem bloqueio exigidas pelas disposições legislativas nacionais, em conformidade com os Tratados, e que não exercem influência decisiva na pessoa coletiva controlada.
+
+Considera-se que uma autoridade adjudicante exerce sobre uma pessoa coletiva um controlo análogo ao que exerce sobre os seus próprios serviços, na aceção da alínea a) do primeiro parágrafo, quando exerce uma influência decisiva sobre os objetivos estratégicos e as decisões relevantes da pessoa coletiva controlada. Esse controlo pode ser igualmente exercido por outra pessoa coletiva, que, por sua vez, é controlada da mesma forma pela autoridade adjudicante.
+
+2. O n.º 1 aplica-se igualmente quando uma pessoa coletiva controlada que é uma autoridade adjudicante adjudica um contrato à autoridade adjudicante que a controla, ou a outra pessoa coletiva controlada pela mesma autoridade adjudicante, desde que não haja participação direta de capital privado na pessoa coletiva à qual o contrato público é adjudicado, com exceção das formas de participação de capital privado sem poderes de controlo e sem bloqueio exigidas pelas disposições legislativas nacionais em conformidade com os Tratados, e que não exercem influência decisiva na pessoa coletiva controlada.
+
+3. Uma autoridade adjudicante que não exerce controlo sobre uma pessoa coletiva de direito público ou privado na aceção do n.o 1 pode, no entanto, adjudicar um contrato público sem aplicar a presente diretiva a essa pessoa coletiva quando estiverem preenchidas todas as seguintes condições:
+
+- a) A autoridade adjudicante, conjuntamente com outras autoridades adjudicantes, exerce sobre a pessoa coletiva em causa um controlo análogo ao que exerce sobre os seus próprios serviços;
+
+- b) Mais de 80 % das atividades da pessoa coletiva em causa são realizadas no desempenho de funções que lhe foram confiadas pelas autoridades adjudicantes que a controlam ou por outras pessoas coletivas controladas pelas mesmas autoridades adjudicantes;
+
+- c) Não há participação direta de capital privado na pessoa coletiva controlada, com exceção das formas de participação de capital privado sem poderes de controlo e sem bloqueio exigidas pelas disposições legislativas nacionais, em conformidade com os Tratados, e que não exercem influência decisiva na pessoa coletiva controlada.
+
+Para efeitos da alínea a) do primeiro parágrafo, considera-se que as autoridades adjudicantes exercem conjuntamente um controlo sobre uma pessoa coletiva quando estiverem preenchidas todas as seguintes condições:
+
+- i) os órgãos de decisão da pessoa coletiva controlada são compostos por representantes de todas as autoridades adjudicantes participantes. Várias ou todas as autoridades adjudicantes participantes podem fazer-se representar por representantes individuais,
+
+- ii) essas autoridades adjudicantes podem exercer conjuntamente uma influência decisiva sobre os objetivos estratégicos e as decisões relevantes da pessoa coletiva controlada,
+
+- iii) a pessoa coletiva controlada não persegue quaisquer interesses contrários aos interesses das autoridades adjudicantes que a controlam.
+
+4. Um contrato celebrado exclusivamente entre duas ou mais autoridades adjudicantes não releva do âmbito de aplicação da presente diretiva quando estiverem preenchidas todas as seguintes condições:
+
+- a) O contrato estabelece ou executa uma cooperação entre as autoridades adjudicantes participantes, a fim de assegurar que os serviços públicos que lhes cabe executar sejam prestados com o propósito de alcançar os objetivos que têm em comum;
+
+- b) A execução da referida cooperação é unicamente regida por considerações de interesse público; e
+
+- c) As autoridades adjudicantes participantes exercem no mercado livre menos de 20 % das atividades abrangidas pela cooperação.
+
+5. Para determinar a percentagem de atividades referida no n.o 1, primeiro parágrafo, alínea b), no n.º 3, primeiro parágrafo, alínea b), e no n.o 4, alínea c), deve ser tido em conta o volume médio total de negócios, ou uma medida alternativa adequada, baseada na atividade, por exemplo os custos suportados pela pessoa coletiva em causa ou pela autoridade contratante no que diz respeito a serviços, fornecimentos e obras, nos três anos anteriores à adjudicação do contrato.
+
+Se, devido à data de criação ou de início de atividade da pessoa coletiva em causa ou a autoridade contratante devido à reorganização das suas atividades, o volume de negócios, ou a medida alternativa adequada baseada na atividade, não estiverem disponíveis para os três anos anteriores ou já não forem relevantes, basta mostrar que a medição da atividade é credível, nomeadamente através de projeções de atividades.
+
+## Secção 4 — Situações específicas
+
+## Subsecção 1 — Contratos subsidiados e serviços de investigação e desenvolvimento
+
+### Artigo 13.º — Contratos subsidiados pelas autoridades adjudicantes
+
+A presente diretiva aplica-se à adjudicação dos seguintes contratos:
+
+- a) Contratos de empreitada de obras subsidiados diretamente em mais de 50 % pelas autoridades adjudicantes e cujo valor estimado, sem IVA, seja igual ou superior a ►M6 5 404 000 EUR ◄ , caso envolvam uma das seguintes atividades:
+
+  - i) atividades de engenharia civil enumeradas no Anexo II,
+
+  - ii) obras de construção de hospitais, instalações desportivas, recreativas e de ocupação dos tempos livres, estabelecimentos escolares e universitários e edifícios para uso administrativo;
+
+- b) Contratos de serviços subsidiados diretamente em mais de 50 % pelas autoridades adjudicantes e cujo valor estimado, sem IVA, seja igual ou superior a ►M6 216 000 EUR ◄ , quando estejam associados a um contrato de empreitada de obras na aceção da alínea a).
+
+As autoridades adjudicantes que concedem os subsídios referidos nas alíneas a) e b) do primeiro parágrafo asseguram o cumprimento da presente diretiva quando não forem elas próprias a adjudicar os contratos subsidiados ou quando adjudicarem esses contratos em nome e por conta de outras entidades.
+
+### Artigo 14.º — Serviços de investigação e desenvolvimento
+
+A presente diretiva aplica-se a apenas aos contratos públicos de serviços de investigação e desenvolvimento com os códigos CPV 73000000-2 a 73120000-9, 73300000-5, 73420000-2 e 73430000-5, desde que estejam preenchidas as seguintes condições:
+
+- a) Os resultados destinam-se exclusivamente à autoridade adjudicante, para utilização no exercício da sua própria atividade;
+
+- b) O serviço prestado é totalmente remunerado pela autoridade adjudicante.
+
+## Subsecção 2 — Procedimentos de contratação que envolvem aspetos de defesa ou de segurança
+
+### Artigo 15.º — Defesa e segurança
+
+1. A presente diretiva aplica-se à adjudicação de contratos públicos e de concursos de conceção organizados nos domínios da defesa e da segurança, com exceção dos seguintes contratos:
+
+- a) Contratos abrangidos pela Diretiva 2009/81/CE;
+
+- b) Contratos não abrangidos pela Diretiva 2009/81/CE por força dos seus artigos 8.o, 12.o e 13.o.
+
+2. A presente diretiva não se aplica a contratos públicos e a concursos de conceção que não sejam excluídos nos termos do n.o 1, na medida em que a proteção dos interesses essenciais de segurança de um Estado-Membro não possa ser garantida por medidas menos invasivas, por exemplo mediante a imposição de requisitos destinados a proteger a natureza confidencial das informações que as autoridades adjudicantes disponibilizam num procedimento de adjudicação nos termos da presente diretiva.
+
+Além disso, e em conformidade com o artigo 346.o, n.o 1, alínea a), do TFUE, a presente diretiva não se aplica a contratos públicos e a concursos de conceção que não sejam excluídos nos termos do n.o 1 do presente artigo, na medida em que a aplicação da presente diretiva obrigue um Estado-Membro a fornecer informação cuja divulgação considere contrária aos interesses essenciais da sua própria segurança.
+
+3. Caso a adjudicação e a execução do contrato público ou de concurso de conceção sejam declaradas secretas ou tenham de ser acompanhadas por medidas especiais de segurança, em conformidade com as disposições legislativas, regulamentares ou administrativas em vigor num Estado-Membro, a presente diretiva não se aplica desde que o Estado-Membro tenha determinado que os interesses essenciais em causa não podem ser garantidos por medidas menos invasivas, por exemplo tal como as referidas no n.o 2, primeiro parágrafo.
+
+### Artigo 16.º — Procedimentos de contratação mistos que envolvem aspetos de defesa ou de segurança
+
+1. O presente artigo aplica-se aos contratos mistos que tenham por objeto procedimentos de contratação abrangidos pela presente diretiva, bem como procedimentos de contratação abrangidos pelo artigo 346.o do TFUE ou pela Diretiva 2009/81/CE.
+
+2. Caso seja possível identificar separadamente as diferentes partes de um contrato público de forma objetiva, as autoridades adjudicantes podem optar por adjudicar contratos distintos para as partes distintas, ou por adjudicar um contrato único.
+
+Se as autoridades adjudicantes optarem por adjudicar contratos distintos para as partes distintas, a decisão quanto ao regime jurídico a aplicar a cada um dos contratos distintos será tomada com base nas características da parte separada em causa.
+
+Se as autoridades adjudicantes optarem por adjudicar um contrato único, aplicam-se os seguintes critérios para determinar o regime jurídico aplicável:
+
+- a) Caso parte de um contrato seja abrangida pelo artigo 346.o do TFUE, o contrato pode ser adjudicado sem aplicação da presente diretiva, desde que a adjudicação de um contrato único se justifique por razões objetivas;
+
+- b) Caso parte de um contrato seja abrangida pela Diretiva 2009/81/CE, o contrato pode ser adjudicado nos termos dessa diretiva, desde que a adjudicação de um contrato único se justifique por razões objetivas. A presente alínea não prejudica os limiares e exclusões previstos naquela diretiva.
+
+Todavia, a decisão de adjudicação de um contrato único não pode ser tomada no intuito de excluir contratos da aplicação das disposições da presente diretiva ou da Diretiva 2009/81/CE.
+
+3. O n.o 2, terceiro parágrafo, alínea a), é aplicável aos contratos mistos a que tanto a alínea a), como a alínea b), desse parágrafo se poderiam aplicar.
+
+4. Caso não seja possível identificar separadamente as diferentes partes de um dado contrato de forma objetiva, o contrato pode ser adjudicado sem aplicação da presente diretiva caso inclua elementos aos quais se aplica o artigo 346.o do TFUE; caso contrário, pode ser adjudicado nos termos da Diretiva 2009/81/CE.
+
+### Artigo 17.º — Contratos públicos e concursos de conceção que envolvem aspetos de defesa ou de segurança e cuja adjudicação ou organização se reja por regras internacionais
+
+1. A presente diretiva não se aplica a contratos públicos e a concursos de conceção que envolvam aspetos de defesa e segurança e que a autoridade adjudicante seja obrigada a adjudicar ou organizar nos termos de procedimentos diferentes dos previstos na presente diretiva, estabelecidos por:
+
+- a) Um acordo ou convénio internacional em conformidade com os Tratados entre um Estado-Membro e um ou mais países terceiros ou respetivas subdivisões, respeitantes a obras, fornecimentos ou serviços destinados à realização ou exploração conjunta de um projeto pelos seus signatários;
+
+- b) Um acordo ou convénio internacional relativo ao estacionamento de tropas e que envolva empresas de um Estado-Membro ou de um país terceiro;
+
+- c) Uma organização internacional.
+
+Todos os acordos ou convénios referidos na alínea a) do primeiro parágrafo do presente número são comunicados à Comissão, que pode consultar o Comité Consultivo dos Contratos Públicos referido no artigo 89.o.
+
+2. A presente diretiva não é aplicável aos contratos públicos e aos concursos de conceção que envolvam aspetos de defesa ou de segurança e que as autoridades adjudicantes adjudicam em conformidade com as regras aplicáveis aos contratos públicos fornecidas por uma organização internacional ou instituição financeira internacional, quando os contratos e os concursos de conceção em causa são financiados na íntegra por essa organização ou instituição; no caso de contratos públicos e concursos de conceção cofinanciados maioritariamente por uma organização internacional ou por uma instituição financeira internacional, as partes acordam nos procedimentos de contratação aplicáveis.
+
+## CAPÍTULO II — Regras gerais
+
+### Artigo 18.º — Princípios da contratação
+
+1. As autoridades adjudicantes tratam os operadores económicos de acordo com os princípios da igualdade de tratamento e da não-discriminação e atuam de forma transparente e proporcionada.
+
+Os concursos não podem ser organizados no intuito de não serem abrangidos pelo âmbito de aplicação da presente diretiva ou de reduzir artificialmente a concorrência. Considera-se que a concorrência foi artificialmente reduzida caso o concurso tenha sido organizado no intuito de favorecer ou desfavorecer indevidamente determinados operadores económicos.
+
+2. Os Estados-Membros tomam as medidas necessárias para assegurar que, ao executarem os contratos públicos, os operadores económicos respeitem as obrigações aplicáveis em matéria ambiental, social e laboral estabelecidas pelo direito da União, por legislação nacional, por convenções coletivas ou pelas disposições de direito internacional em matéria ambiental, social e laboral constantes do Anexo X.
+
+### Artigo 19.º — Operadores económicos
+
+1. Os operadores económicos que estejam habilitados a prestar o serviço em questão por força da legislação do Estado-Membro em que se encontram estabelecidos não podem ser excluídos pelo simples facto de, ao abrigo da legislação do Estado-Membro em que o contrato é adjudicado, deverem ser uma pessoa singular ou uma pessoa coletiva.
+
+Contudo, no caso dos contratos públicos de serviços e dos contratos de empreitada de obras públicas, bem como dos contratos públicos de fornecimento que abranjam também serviços ou operações de montagem e instalação, pode ser exigido às pessoas coletivas que indiquem, nas respetivas propostas ou pedidos de participação, os nomes e as habilitações profissionais relevantes do pessoal que ficará encarregado da execução do contrato em questão.
+
+2. Os agrupamentos de operadores económicos, incluindo agrupamentos temporários, podem participar nos procedimentos de contratação, não podendo as autoridades adjudicantes exigir-lhes que tenham uma determinada forma jurídica para apresentarem uma proposta ou um pedido de participação.
+
+Se necessário, as autoridades adjudicantes podem especificar nos documentos do procedimento de contratação os requisitos a que os agrupamentos de operadores económicos devem satisfazer em termos de capacidade económica e financeira ou de capacidade técnica e profissional a que se refere o artigo 58.o, desde que tal se justifique por razões objetivas e proporcionadas. Os Estados-Membros podem estabelecer termos normalizados a fim de indicar como os agrupamentos de operadores económicos podem satisfazer esses requisitos.
+
+As condições de execução de um contrato por esses agrupamentos de operadores económicos que sejam diferentes das impostas aos participantes individuais devem ser igualmente justificadas por razões objetivas e proporcionadas.
+
+3. Não obstante o n.o 2, as autoridades adjudicantes, podem exigir aos agrupamentos de operadores económicos que assumam determinada forma jurídica depois de lhes ter sido adjudicado o contrato, na medida em que tal alteração seja necessária para a boa execução do mesmo.
+
+### Artigo 20.º — Contratos reservados
+
+1. Os Estados-Membros podem reservar o direito a participar em procedimentos de contratação pública a entidades e a operadores económicos cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas, ou reservar a execução desses contratos para o âmbito de programas de emprego protegido, desde que pelo menos 30 % dos empregados dessas entidades, operadores económicos e programas sejam trabalhadores com deficiência ou desfavorecidos.
+
+2. O convite à apresentação de propostas deve fazer referência ao presente artigo.
+
+### Artigo 21.º — Confidencialidade
+
+1. Salvo disposto em contrário na presente diretiva ou na legislação nacional a que a autoridade adjudicante está sujeita, em especial a legislação relativa ao acesso à informação, e sem prejuízo das obrigações relativas à publicidade de contratos adjudicados e à informação aos candidatos e aos proponentes previstas nos artigos 50.o e 55.o da presente diretiva, a autoridade adjudicante não pode divulgar as informações que lhe tenham sido comunicadas a título confidencial pelos operadores económicos, incluindo, nomeadamente, os segredos técnicos ou comerciais e os aspetos confidenciais das propostas.
+
+2. As autoridades adjudicantes podem impor aos operadores económicos requisitos destinados a proteger as informações de natureza confidencial por elas disponibilizadas ao longo do procedimento de contratação.
+
+### Artigo 22.º — Regras aplicáveis à comunicação
+
+1. Os Estados-Membros devem assegurar que todas as comunicações e intercâmbios de informações ao abrigo da presente diretiva, designadamente a apresentação por via eletrónica, sejam efetuados através de meios de comunicação eletrónicos, em conformidade com os requisitos do presente artigo. Os instrumentos e dispositivos a utilizar para a comunicação por via eletrónica, bem como as suas especificações técnicas, não podem ser discriminatórios, devem estar geralmente disponíveis e ser compatíveis com os produtos de uso corrente no domínio das tecnologias da informação e da comunicação, não podendo limitar o acesso dos operadores económicos ao procedimento de contratação.
+
+Não obstante o disposto no primeiro parágrafo, as autoridades adjudicantes não são obrigadas a exigir meios eletrónicos de comunicação no processo de apresentação, nas seguintes situações:
+
+- a) Devido à natureza especializada do concurso, a utilização de meios de comunicação eletrónicos exige instrumentos, dispositivos ou formatos de ficheiros específicos que não estão geralmente disponíveis ou não são suportados pelas aplicações de uso corrente;
+
+- b) As aplicações que suportam formatos de ficheiro adequados para a descrição das propostas utilizam formatos de ficheiro que não são suportados por qualquer outra aplicação de código aberto ou geralmente disponível, ou estão sujeitas a um regime de licenciamento de propriedade e não podem ser disponibilizadas para descarregamento ou utilização à distância pela autoridade adjudicante;
+
+- c) A utilização de meios de comunicação eletrónica exigiria equipamento de escritório especializado de que, geralmente, as autoridades adjudicantes não dispõem;
+
+- d) Os documentos do concurso exigem a apresentação de modelos físicos ou de maquetes que não podem ser transmitidos por via eletrónica.
+
+No que diz respeito às comunicações que não são efetuadas por meios de comunicação eletrónicos nos termos do segundo parágrafo, a comunicação deve ser feita por correio ou por qualquer outro meio apropriado ou por uma combinação de correio, ou de qualquer outro meio apropriado, e de meios eletrónicos.
+
+Não obstante o disposto no primeiro parágrafo, as autoridades adjudicantes não são obrigadas a exigir o uso de meios de comunicação eletrónicos no processo de apresentação, na medida em que a utilização de meios de comunicação não eletrónicos seja necessária, quer devido a uma violação da segurança desses meios de comunicação eletrónicos, quer para fins de proteção da natureza particularmente sensível de informações que exijam um nível de proteção tão elevado que não possa ser devidamente assegurado pela utilização dos instrumentos e dispositivos eletrónicos de que os operadores económicos geralmente dispõem ou que lhes podem ser disponibilizados por meios alternativos de acesso na aceção do n.o 5.
+
+Cabe às autoridades adjudicantes que exijam, em conformidade com o segundo parágrafo do presente artigo, o uso de meios de comunicação não eletrónicos no processo de apresentação, indicar no relatório individual referido no artigo 84.o as razões de tal exigência. Se for caso disso, as autoridades adjudicantes indicam no relatório individual as razões pelas quais a utilização de meios de comunicação não eletrónicos foi considerada necessária em aplicação do disposto no quarto parágrafo do presente artigo.
+
+2. Não obstante o disposto no n.o 1, a comunicação oral pode ser utilizada para comunicações que não sejam elementos essenciais de um procedimento de contratação, desde que o conteúdo da comunicação oral possa ser suficientemente documentado. Para esse efeito, os elementos essenciais de um procedimento de contratação incluem documentos do concurso, pedidos de participação, confirmações de interesse e propostas. Em especial, as comunicações orais com os proponentes que possam ter um impacto substancial no conteúdo e na avaliação das propostas devem ser documentadas de forma suficiente e por meios adequados, como registos áudio ou escritos ou resumos dos principais elementos da comunicação.
+
+3. Em todas as comunicações, intercâmbios e armazenamento de informações, as autoridades adjudicantes devem garantir que sejam preservadas a idoneidade dos dados e a confidencialidade das propostas e dos pedidos de participação. As autoridades adjudicantes só tomam conhecimento do conteúdo das propostas e dos pedidos de participação depois de expirado o prazo previsto para a sua apresentação.
+
+4. No que respeita aos contratos de empreitada de obras públicas e aos concursos de conceção, os Estados-Membros podem exigir a utilização de instrumentos eletrónicos específicos, tais como instrumentos de modelização eletrónica de dados de construção ou similares. Nesses casos, as autoridades adjudicantes devem oferecer meios alternativos de acesso, conforme previsto no n.o 5, enquanto esses instrumentos não estiverem geralmente disponíveis na aceção do n.o 1, primeiro parágrafo, segundo período.
+
+5. As autoridades adjudicantes podem, sempre que necessário, exigir a utilização de instrumentos e dispositivos que não estão geralmente disponíveis, desde que ofereçam meios alternativos de acesso.
+
+Considera-se que as autoridades adjudicantes oferecem meios alternativos de acesso adequados, em qualquer das seguintes situações, se:
+
+- a) Oferecerem acesso livre, direto e completo, por via eletrónica e a título gratuito, a estes instrumentos e dispositivos a partir da data de publicação do anúncio, em conformidade com o Anexo VIII, ou a partir da data de envio do convite à confirmação de interesse; o texto do anúncio ou do convite à confirmação de interesse deve indicar o endereço Internet em que estes instrumentos e dispositivos estão disponíveis;
+
+- b) Assegurarem que os proponentes que não têm acesso aos instrumentos e dispositivos em causa ou que não podem obtê-los dentro dos prazos estabelecidos (desde que a falta de acesso não possa ser imputada ao proponente) possam aceder ao procedimento de contratação através da utilização de chaves eletrónicas (tokens) provisórias disponibilizadas gratuitamente em linha; ou
+
+- c) Mantiverem um canal alternativo para a apresentação eletrónica das propostas.
+
+6. Para além dos requisitos estabelecidos no Anexo IV, os instrumentos e dispositivos de transmissão e receção eletrónica de propostas e de receção eletrónica de pedidos de participação devem cumprir as seguintes regras:
+
+- a) São colocadas à disposição dos interessados informações sobre as especificações necessárias à apresentação eletrónica das propostas e pedidos de participação, incluindo a cifragem e a validação cronológica;
+
+- b) Os Estados-Membros, ou as autoridades adjudicantes atuando no âmbito de um quadro geral estabelecido pelo Estado-Membro em causa, especificam o nível de segurança exigido para os meios eletrónicos de comunicação nas várias fases do procedimento de contratação em causa; esse nível de segurança deve ser proporcional aos riscos inerentes;
+
+- c) Se concluírem que o nível de risco, avaliado em conformidade com a alínea b), exige assinaturas eletrónicas avançadas, conforme definidas na Diretiva 1999/93/CE do Parlamento Europeu e do Conselho ([^6]), os Estados-Membros, ou as autoridades adjudicantes atuando no âmbito de um quadro geral estabelecido pelo Estado-Membro em causa, aceitam assinaturas eletrónicas avançadas baseadas num certificado qualificado, tendo em conta se esses certificados são fornecidos por prestadores de serviços de certificação que constam da lista aprovada nos termos da Decisão 2009/767/CE da Comissão ([^7]), criadas com ou sem recurso a um dispositivo seguro de criação de assinaturas, sob reserva das seguintes condições:
+
+  - i) as autoridades adjudicantes devem estabelecer o formato de assinatura avançada exigido com base nos formatos estabelecidos na Decisão 2011/130/UE da Comissão ([^8]) e tomar as medidas necessárias para poder tratar tecnicamente estes formatos; caso seja utilizado um formato de assinatura eletrónica diferente, a assinatura eletrónica ou o suporte do documento eletrónico devem conter informações sobre as possibilidades de validação existentes, cuja responsabilidade cabe ao Estado-Membro. As possibilidades de validação devem permitir à autoridade adjudicante validar em linha, a título gratuito e de uma forma compreensível para falantes não nativos, a assinatura eletrónica recebida como assinatura eletrónica avançada baseada num certificado qualificado.
+
+    Os Estados-Membros notificam as informações sobre o prestador de serviços de validação à Comissão, que disponibiliza ao público, via Internet, as informações recebidas dos Estados-Membros,
+
+  - ii) se uma proposta for assinada com recurso a um certificado qualificado incluído na lista aprovada, as autoridades adjudicantes não podem aplicar requisitos adicionais que possam dificultar a utilização dessas assinaturas pelos proponentes.
+
+No que respeita aos documentos utilizados no contexto de um procedimento de contratação que sejam assinados por uma autoridade competente de um Estado-Membro ou por outra entidade emissora, a autoridade ou entidade emissora competente pode estabelecer o formato de assinatura avançada exigido de acordo com os requisitos enunciados no artigo 1.o, n.o 2, da Decisão 2011/130/UE. Estas devem adotar as medidas necessárias para poder tratar tecnicamente estes formatos, mediante inclusão no documento em causa das informações requeridas para efeitos do tratamento da assinatura. Os referidos documentos devem conter, na assinatura eletrónica ou no suporte do documento eletrónico, informações sobre as possibilidades de validação existentes que permitem validar a assinatura eletrónica recebida eletronicamente, a título gratuito e de uma forma compreensível para falantes não nativos.
+
+7. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 87.o, no que respeita à alteração das modalidades e características técnicas estabelecidas no Anexo IV a fim de ter em conta a evolução técnica.
+
+A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 87.o, a fim de alterar a lista estabelecida no n.o 1, segundo parágrafo, alíneas a) a d), do presente artigo caso a evolução tecnológica torne inadequadas as exceções permanentes à utilização de meios de comunicação eletrónicos ou, excecionalmente, caso seja necessário prever novas exclusões devido à evolução tecnológica.
+
+Para assegurar a interoperabilidade dos formatos técnicos, bem como das normas de tratamento e transmissão das mensagens, em especial num contexto transfronteiras, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 87.o, no que respeita a tornar obrigatória a utilização dessas normas técnicas específicas, em especial no que diz respeito à apresentação das propostas por via eletrónica, aos catálogos eletrónicos e aos meios de autenticação eletrónicos, apenas quando as normas técnicas tiverem sido exaustivamente testadas e a sua utilidade tiver sido comprovada na prática. Antes de recorrer a qualquer norma técnica obrigatória, a Comissão deve também analisar cuidadosamente os possíveis custos inerentes, em especial em termos de adaptação às soluções de contratação pública eletrónica existentes, incluindo infraestruturas, processos ou software.
+
+### Artigo 23.º — Nomenclaturas
+
+1. Quaisquer referências a nomenclaturas no contexto da contratação pública são feitas utilizando o Vocabulário Comum para os Contratos Públicos (CPV) adotado pelo Regulamento (CE) n.º 2195/2002.
+
+2. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 87.o, no que respeita à adaptação dos códigos CPV a que se refere a presente diretiva, sempre que as alterações da nomenclatura CPV devam ser refletidas na presente diretiva e não impliquem alteração do seu âmbito de aplicação.
+
+### Artigo 24.º — Conflitos de interesses
+
+Os Estados-Membros asseguram que as autoridades adjudicantes tomem as medidas adequadas para impedir, identificar e resolver eficazmente conflitos de interesses que surjam na condução dos procedimentos de contratação, de modo a evitar qualquer distorção da concorrência e garantir a igualdade de tratamento de todos os operadores económicos.
+
+O conceito de conflito de interesses engloba, no mínimo, qualquer situação em que os membros do pessoal da autoridade adjudicante ou de um prestador de serviços que age em nome da autoridade adjudicante, que participem na condução do procedimento de contratação ou que possam influenciar os resultados do mesmo, têm direta ou indiretamente um interesse financeiro, económico ou outro interesse pessoal suscetível de comprometer a sua imparcialidade e independência no contexto do procedimento de adjudicação.
+
+## TÍTULO II — REGRAS APLICÁVEIS AOS CONTRATOS PÚBLICOS
+
+## CAPÍTULO I — Procedimentos
+
+### Artigo 25.º — Condições relativas ao GPA e a outros acordos internacionais
+
+Nos domínios abrangidos pelos Anexos 1, 2, 4 e 5, pelas Notas Gerais do Apêndice I da União Europeia ao GPA e pelos outros acordos internacionais a que a União se encontra vinculada, as autoridades adjudicantes concedem às obras, fornecimentos, serviços e operadores económicos dos signatários desses acordos um tratamento não menos favorável do que o tratamento concedido às obras, fornecimentos, serviços e operadores económicos da União.
+
+### Artigo 26.º — Escolha dos procedimentos
+
+1. Na adjudicação dos seus contratos públicos, as autoridades adjudicantes aplicam os procedimentos nacionais adaptados em conformidade com a presente diretiva, desde que, sem prejuízo do disposto no artigo 32.o, tenha sido publicado um anúncio de concurso nos termos da mesma.
+
+2. Os Estados-Membros devem assegurar que as autoridades adjudicantes possam aplicar procedimentos de concurso aberto ou limitado, de acordo com o disposto na presente diretiva.
+
+3. Os Estados-Membros devem prever que as autoridades adjudicantes possam aplicar a figura das parcerias para a inovação de acordo com o disposto na presente diretiva.
+
+4. Os Estados-Membros devem prever a possibilidade de as autoridades adjudicantes utilizarem um procedimento concorrencial com negociação ou um diálogo concorrencial nas seguintes situações:
+
+- a) No que diz respeito às obras, fornecimentos ou serviços que preencham um ou mais dos seguintes critérios:
+
+  - i) as necessidades da autoridade adjudicante não podem ser satisfeitas sem a adaptação de soluções facilmente disponíveis,
+
+  - ii) os produtos ou serviços incluem a conceção ou soluções inovadoras,
+
+  - iii) o contrato não pode ser adjudicado sem negociações prévias devido a circunstâncias específicas relacionadas com a natureza, a complexidade ou a montagem jurídica e financeira ou devido aos riscos a elas associadas,
+
+  - iv) as especificações técnicas não podem ser definidas com precisão suficiente pela autoridade adjudicante por referência a uma norma, homologação técnica europeia, especificações técnicas comuns ou referência técnica, na aceção dos pontos 2 a 5 do Anexo VII;
+
+- b) No que diz respeito às obras, fornecimentos ou serviços, se, em resposta a um concurso aberto ou limitado, só tiverem sido apresentadas propostas irregulares ou inaceitáveis. Nestas situações, as autoridades adjudicantes não são obrigadas a publicar um anúncio de concurso se incluírem no procedimento todos os proponentes, e exclusivamente os proponentes, que satisfaçam os critérios referidos nos artigos 57.o a 64.o e que, no concurso aberto ou limitado anterior, tenham apresentado propostas que correspondam aos requisitos formais do procedimento de contratação.
+
+  Nomeadamente, as propostas que não se encontrem em conformidade com o disposto na documentação relativa aos concursos, cuja receção ocorra demasiado tarde, que revelem indícios de conluio ou corrupção, ou cuja qualidade seja considerada pela autoridade adjudicante anormalmente baixa, devem ser consideradas irregulares. Em especial, devem ser consideradas inaceitáveis as propostas apresentadas por proponentes que não possuam as qualificações exigidas e as propostas cujo preço exceda o orçamento da autoridade adjudicante, tal como determinado e documentado antes do lançamento do concurso.
+
+5. O convite à apresentação de propostas é feito através de um anúncio de concurso nos termos do artigo 49.o.
+
+Se o contrato for adjudicado mediante concurso limitado ou procedimento concorrencial com negociação, os Estados-Membros podem, não obstante o disposto no primeiro parágrafo, prever que as autoridades adjudicantes subcentrais, ou categorias específicas das mesmas, possam lançar o concurso através de um anúncio de pré-informação em conformidade com o artigo 48.o, n.o 2.
+
+Quando o concurso é lançado mediante um anúncio de pré-informação nos termos do artigo 48.o, n.o 2, os operadores económicos que tenham manifestado o seu interesse na sequência da publicação do anúncio de pré-informação devem ser subsequentemente convidados a confirmar esse interesse por escrito através de um «convite à confirmação de interesse» nos termos do artigo 54.o.
+
+6. Nos casos e circunstâncias específicos expressamente previstos no artigo 32.o, os Estados-Membros podem determinar que as autoridades adjudicantes possam recorrer a um procedimento por negociação sem publicação prévia de convite à apresentação de propostas. Os Estados-Membros só podem permitir a aplicação desse procedimento em casos diferentes dos referidos no artigo 32.o.
+
+### Artigo 27.º — Concurso aberto
+
+1. Nos concursos abertos, qualquer operador económico interessado pode apresentar uma proposta em resposta a um convite à apresentação de propostas.
+
+O prazo mínimo de receção das propostas é de 35 dias a contar da data de envio do anúncio de concurso.
+
+A proposta deve ser acompanhada das informações solicitadas para efeitos de seleção qualitativa pela autoridade adjudicante.
+
+2. Se as autoridades adjudicantes tiverem publicado um anúncio de pré-informação que não tenha sido utilizado como meio de abertura de concurso, o prazo mínimo para a receção das propostas, conforme estabelecido no segundo parágrafo do n.o 1 do presente artigo, pode ser reduzido para 15 dias, desde que estejam preenchidas todas as seguintes condições:
+
+- a) O anúncio de pré-informação incluiu todas as informações exigidas para o anúncio de concurso nos termos do Anexo V, parte B, secção I, na medida em que essas informações tenham estado disponíveis à data de publicação do anúncio de pré-informação;
+
+- b) O anúncio de pré-informação foi enviado para publicação entre um mínimo de 35 dias e um máximo de 12 meses antes da data de envio do anúncio de concurso.
+
+3. Nos casos em que uma situação de urgência devidamente fundamentada pelas autoridades adjudicantes inviabilize o cumprimento dos prazos fixados no segundo parágrafo do n.o 1, essas autoridades podem fixar um prazo que não será inferior a 15 dias a contar da data de envio do anúncio de concurso.
+
+4. As autoridades adjudicantes podem reduzir em cinco dias os prazos de receção de propostas estabelecidos no segundo parágrafo do n.o 1 do presente artigo, nos casos em que aceitem que as propostas possam ser apresentadas por meios eletrónicos em conformidade com o artigo 22.o, n.o 1, primeiro parágrafo, e n.os 5 e 6.
+
+### Artigo 28.º — Concurso limitado
+
+1. Nos concursos limitados, qualquer operador económico pode apresentar um pedido de participação em resposta a um anúncio de concurso do qual consta a informação prevista no Anexo V, partes B ou C, conforme o caso, apresentando as informações para efeitos de seleção qualitativa solicitadas pela autoridade adjudicante.
+
+O prazo mínimo de receção dos pedidos de participação é de 30 dias a contar da data de envio do anúncio de concurso ou, caso seja utilizado um anúncio de pré-informação como meio de abertura de concurso, a contar da data de envio do convite à confirmação de interesse.
+
+2. Só podem apresentar propostas os operadores económicos convidados pela autoridade adjudicante após a sua avaliação das informações prestadas. As autoridades adjudicantes podem limitar o número de candidatos convidados a participar no procedimento nos termos do artigo 65.o.
+
+O prazo mínimo de receção das propostas é de 30 dias a contar da data de envio do convite à apresentação de propostas.
+
+3. Se as autoridades adjudicantes tiverem publicado um anúncio de pré-informação que não tenha sido utilizado como meio de abertura de concurso, o prazo mínimo para a receção das propostas, conforme estabelecido no segundo parágrafo do n.o 2 do presente artigo, pode ser reduzido para 10 dias, desde que estejam preenchidas todas as seguintes condições:
+
+- a) O anúncio de pré-informação incluiu todas as informações exigidas nos termos do Anexo V, parte B, secção I, na medida em que essas informações tenham estado disponíveis à data de publicação do anúncio de pré-informação;
+
+- b) O anúncio de pré-informação foi enviado para publicação entre um mínimo de 35 dias e um máximo de 12 meses antes da data de envio do anúncio de concurso.
+
+4. Os Estados-Membros podem prever que todas ou categorias específicas de autoridades adjudicantes subcentrais possam fixar o prazo de receção das propostas de comum acordo com os candidatos selecionados, desde que todos os candidatos selecionados disponham de um prazo idêntico para preparar e apresentar as suas propostas. Na falta de acordo sobre o prazo de receção das propostas, o prazo é de 10 dias, no mínimo, a contar da data em que foi enviado o convite à apresentação de propostas.
+
+5. O prazo de receção das propostas estabelecido no n.o 2 pode ser reduzido em 5 dias nos casos em que a autoridade adjudicante aceite que as propostas possam ser apresentadas por meios eletrónicos em conformidade com o artigo 22.o, n.ºs 1, 5 e 6.
+
+6. Nos casos em que uma situação de urgência, devidamente fundamentada pelas autoridades adjudicantes, inviabilize o cumprimento dos prazos fixados no presente artigo, essas autoridades podem fixar:
+
+- a) Um prazo de receção dos pedidos de participação não inferior a 15 dias a contar da data de envio do anúncio de concurso;
+
+- b) Um prazo de receção das propostas não inferior a 10 dias a contar da data de envio do convite à apresentação de propostas.
+
+### Artigo 29.º — Procedimento concorrencial com negociação
+
+1. Nos procedimentos concorrenciais com negociação, qualquer operador económico pode apresentar um pedido de participação em resposta a um anúncio de concurso que contenha as informações previstas no Anexo V, partes B e C, apresentando as informações para efeitos de seleção qualitativa que são solicitadas pela autoridade adjudicante.
+
+Nos documentos do concurso, as autoridades adjudicantes identificam o objeto do concurso, descrevendo as suas necessidades e as características exigidas para os fornecimentos, obras ou serviços a adquirir, e especificam os critérios de adjudicação do contrato. Indicam igualmente os elementos da descrição que definem os requisitos mínimos que todos os proponentes devem preencher.
+
+As informações fornecidas devem ser suficientemente precisas de modo a permitir aos operadores económicos identificar a natureza e o âmbito do concurso e decidir se pretendem solicitar a participação no procedimento.
+
+O prazo mínimo de receção dos pedidos de participação é de 30 dias a contar da data de envio do anúncio de concurso ou, caso seja utilizado um anúncio de pré-informação como meio de abertura de concurso, a contar da data de envio do convite à confirmação de interesse. O prazo mínimo de receção das propostas iniciais é de 30 dias a contar da data de envio do convite. É aplicável o disposto no artigo 28.o, n.os 3 a 6.
+
+2. Só os operadores económicos convidados pela autoridade adjudicante após a sua avaliação das informações prestadas podem apresentar uma primeira proposta, que servirá de base às negociações subsequentes. As autoridades adjudicantes podem limitar o número de candidatos convidados a participar no procedimento nos termos do artigo 65.o.
+
+3. Salvo disposição em contrário do n.o 4, as autoridades adjudicantes devem negociar com os proponentes a primeira proposta e todas as propostas subsequentes que tenham apresentado, com exceção das propostas finais, na aceção do n.o 7, para melhorar o respetivo conteúdo.
+
+Os requisitos mínimos e os critérios de adjudicação não podem ser objeto de negociação.
+
+4. As autoridades adjudicantes podem adjudicar contratos sem negociação, com base nas propostas iniciais apresentadas, se tiverem indicado, no anúncio de concurso ou no convite à confirmação de interesse, que se reservam essa possibilidade.
+
+5. Durante a negociação, as autoridades adjudicantes garantem a igualdade de tratamento de todos os proponentes. Para tal, não facultam de forma discriminatória informações que possam conferir vantagens a um proponente relativamente a outros. Informam por escrito todos os proponentes cujas propostas não tenham sido eliminadas nos termos do n.o 6 sobre quaisquer alterações às especificações técnicas ou a outros documentos do concurso que não aquelas que definem os requisitos mínimos. Após estas alterações, as autoridades adjudicantes dão aos proponentes um prazo suficiente para que possam, se for caso disso, alterar e voltar a apresentar as suas propostas em conformidade com essas alterações.
+
+Em conformidade com o artigo 21.o, as autoridades adjudicantes não podem revelar aos outros participantes as informações confidenciais comunicadas por um candidato ou proponente que participe nas negociações sem o consentimento deste último. Esse consentimento não pode ser dado em termos gerais, mas sim referir-se especificamente à projetada comunicação de informações específicas.
+
+6. O procedimento concorrencial com negociação pode desenrolar-se em fases sucessivas, de modo a reduzir o número de propostas a negociar aplicando os critérios de adjudicação especificados no anúncio de concurso, no convite à confirmação de interesse ou noutro documento do concurso. A autoridade adjudicante deve indicar, no anúncio de concurso, no convite à confirmação de interesse ou noutro documento do concurso, se irá utilizar essa opção.
+
+7. Quando a autoridade adjudicante pretender concluir as negociações, informa desse facto os proponentes restantes e define um prazo comum para a apresentação de qualquer nova proposta ou proposta revista. A autoridade adjudicante verifica se as propostas finais cumprem os requisitos mínimos e estão em conformidade com o artigo 56.o, n.o 1, avalia as propostas finais com base nos critérios de adjudicação e adjudica o contrato em conformidade com os artigos 66.o a 69.o.
+
+### Artigo 30.º — Diálogo concorrencial
+
+1. Nos diálogos concorrenciais, qualquer operador económico pode apresentar um pedido de participação em resposta a um anúncio de concurso, apresentando as informações para efeitos de seleção qualitativa solicitadas pela autoridade adjudicante.
+
+O prazo mínimo de receção dos pedidos de participação é de 30 dias a contar da data de envio do anúncio de concurso.
+
+Só podem participar no diálogo os operadores económicos convidados pela autoridade adjudicante após a avaliação das informações prestadas. As autoridades adjudicantes podem limitar o número de candidatos convidados a participar no procedimento nos termos do artigo 65.o. Os contratos são adjudicados exclusivamente com base no critério da proposta economicamente mais vantajosa tendo em conta a melhor relação qualidade/preço nos termos do artigo 67.o, n.o 2.
+
+2. As autoridades adjudicantes dão a conhecer as suas necessidades e os seus requisitos no anúncio de concurso, definindo-os no próprio anúncio e/ou na memória descritiva. Simultaneamente, e na mesma documentação, indicam e definem os critérios de adjudicação escolhidos e estabelecem um calendário indicativo.
+
+3. As autoridades adjudicantes iniciam, com os participantes selecionados nos termos das disposições pertinentes dos artigos 56.o a 66.o, um diálogo que terá por objetivo identificar e definir os meios que melhor possam satisfazer as suas necessidades. Nesse contexto, podem debater com os participantes selecionados todos os aspetos do concurso.
+
+Durante o diálogo, as autoridades adjudicantes garantem a igualdade de tratamento de todos os participantes. Para tal, não facultam de forma discriminatória informações que possam conferir vantagens a determinados participantes relativamente aos outros.
+
+Em conformidade com o artigo 21.o, as autoridades adjudicantes não podem revelar aos outros participantes as soluções propostas nem outras informações confidenciais comunicadas por um candidato ou proponente que participe no diálogo sem o consentimento deste último. Esse consentimento não pode ser dado em termos gerais, mas sim referir-se especificamente à projetada comunicação de informações específicas.
+
+4. Os diálogos concorrenciais podem desenrolar-se em fases sucessivas, de modo a reduzir o número de soluções a debater durante a fase de diálogo, aplicando os critérios de adjudicação definidos no anúncio de concurso ou na memória descritiva. A autoridade adjudicante deve indicar, no anúncio de concurso ou na memória descritiva, se irá utilizar esta opção.
+
+5. A autoridade adjudicante prossegue o diálogo até estar em condições de identificar a solução ou soluções suscetíveis de satisfazer as suas necessidades.
+
+6. Depois de declararem encerrado o diálogo e de informarem do facto os participantes apurados, as autoridades adjudicantes solicitam a cada um deles que apresente as suas propostas finais com base na solução ou soluções apresentadas e especificadas durante o diálogo. Essas propostas devem incluir todos os elementos exigidos e necessários à execução do projeto.
+
+A pedido das autoridades adjudicantes, essas propostas podem ser clarificadas, precisadas e otimizadas. Todavia, estas especificações, clarificações, ajustamentos ou informações complementares não podem alterar elementos fundamentais da proposta ou do concurso público, incluindo as necessidades e os requisitos estabelecidos no anúncio de concurso ou na memória descritiva, quando as variações relativamente a estes aspetos, necessidades e requisitos sejam suscetíveis de distorcer a concorrência ou de ter um efeito discriminatório.
+
+7. As autoridades adjudicantes avaliam as propostas recebidas com base nos critérios de adjudicação indicados no anúncio do concurso ou na memória descritiva.
+
+A pedido da autoridade adjudicante, podem ser conduzidas negociações com o proponente identificado como tendo apresentado a proposta com a melhor relação qualidade/preço nos termos do artigo 67.o, para confirmar os compromissos financeiros ou outros termos nela constantes, finalizando os termos do contrato, desde que tal não resulte numa alteração material de aspetos essenciais da proposta ou do contrato público, incluindo as necessidades e requisitos definidos no anúncio de concurso ou na memória descritiva, e não sejam suscetíveis de distorcer a concorrência ou dar azo a discriminações.
+
+8. As autoridades adjudicantes podem prever prémios ou pagamentos aos participantes no diálogo.
+
+### Artigo 31.º — Parcerias para a inovação
+
+1. Nas parcerias para a inovação, qualquer operador económico pode apresentar um pedido de participação em resposta a um anúncio de concurso, apresentando as informações para efeitos de seleção qualitativa solicitadas pela autoridade adjudicante.
+
+Nos documentos do concurso, a autoridade adjudicante indica a necessidade de produtos, serviços ou obras inovadores que não possam ser obtidos mediante a aquisição de produtos, serviços ou obras já disponíveis no mercado. Indica igualmente os elementos desta descrição que definem os requisitos mínimos que todos os proponentes devem preencher. As informações fornecidas devem ser suficientemente precisas de modo a permitir aos operadores económicos identificar a natureza e o âmbito da solução necessária e decidir se pretendem solicitar a participação no procedimento.
+
+A autoridade adjudicante pode decidir estabelecer a parceria para a inovação com um só parceiro ou com vários parceiros que efetuem atividades de investigação e desenvolvimento distintas.
+
+O prazo mínimo de receção dos pedidos de participação é de 30 dias a contar da data de envio do anúncio de concurso. Só podem participar no concurso os operadores económicos convidados pela autoridade adjudicante após a avaliação das informações prestadas. As autoridades adjudicantes podem limitar o número de candidatos convidados a participar no procedimento nos termos do artigo 65.o. Os contratos são adjudicados exclusivamente com base no critério da proposta com melhor relação qualidade/preço em conformidade com o artigo 67.o.
+
+2. A parceria para a inovação deve visar o desenvolvimento de produtos, serviços ou obras inovadores e a posterior aquisição dos fornecimentos, serviços ou obras daí resultantes, desde que estes correspondam aos níveis de desempenho e custos máximos previamente acordados entre as autoridades adjudicantes e os participantes.
+
+A parceria para a inovação deve ser estruturada em fases sucessivas de acordo com a sequência de etapas do processo de investigação e inovação, que pode incluir o fabrico de produtos, a prestação dos serviços ou a conclusão das obras. A parceria para a inovação deve fixar as metas intermédias que devem ser alcançadas pelos parceiros e prever o pagamento da remuneração em frações adequadas.
+
+Em função desses objetivos, a autoridade adjudicante pode, no final de cada fase, decidir pôr termo à parceria ou, no caso de uma parceria para a inovação com vários parceiros, reduzir o número de parceiros pondo termo a contratos individuais, desde que nos documentos do concurso tenha indicado essas possibilidades e as condições para a sua utilização.
+
+3. Salvo disposição em contrário do presente artigo, as autoridades adjudicantes devem negociar com os proponentes a primeira proposta e todas as propostas subsequentes que tenham apresentado, com exceção da proposta final, para melhorar o respetivo conteúdo.
+
+Os requisitos mínimos e os critérios de adjudicação não podem ser objeto de negociação.
+
+4. Durante a negociação, as autoridades adjudicantes garantem a igualdade de tratamento de todos os proponentes. Para tal, não facultam de forma discriminatória informações que possam conferir vantagens a um proponente relativamente a outros. Informam por escrito todos os proponentes cujas propostas não tenham sido eliminadas nos termos do n.o 5 sobre quaisquer alterações às especificações técnicas ou a outros documentos do concurso que não aquelas que definem os requisitos mínimos. Após estas alterações, as autoridades adjudicantes dão aos proponentes um prazo suficiente para que possam, se for caso disso, alterar e voltar a apresentar as suas propostas em conformidade com essas alterações.
+
+Em conformidade com o artigo 21.o, as autoridades adjudicantes não podem revelar aos outros participantes as informações confidenciais comunicadas por um candidato ou proponente que participe nas negociações sem o consentimento deste último. Esse consentimento não pode ser dado em termos gerais, mas sim referir-se especificamente à projetada comunicação de informações específicas.
+
+5. As negociações no decurso dos procedimentos de parcerias para a inovação podem desenrolar-se em fases sucessivas, de modo a reduzir o número de propostas a negociar aplicando os critérios de adjudicação especificados no anúncio de concurso, no convite à confirmação de interesse ou na documentação relativa ao concurso. A autoridade adjudicante deve indicar claramente no anúncio de concurso, no convite à confirmação de interesse ou na documentação relativa ao concurso se irá utilizar esta opção.
+
+6. Na seleção dos candidatos, as autoridades adjudicantes aplicam em especial os critérios relativos às capacidades dos candidatos no domínio da investigação e desenvolvimento, bem como no desenvolvimento e implementação de soluções inovadoras.
+
+Só os operadores económicos convidados pela autoridade adjudicante após a avaliação das informações solicitadas podem apresentar projetos de investigação e inovação destinados a satisfazer as necessidades identificadas por essa autoridade e que não possam ser satisfeitas pelas soluções existentes.
+
+A autoridade adjudicante deve definir, nos documentos do concurso, as disposições aplicáveis aos direitos de propriedade intelectual. No caso das parcerias para a inovação com vários parceiros, a autoridade adjudicante não pode, em conformidade com o artigo 21.o, revelar aos outros parceiros soluções propostas ou outras informações confidenciais comunicadas por um parceiro no âmbito da parceria sem o consentimento deste último. Esse consentimento não pode ser dado em termos gerais, mas sim referir-se especificamente à projetada comunicação de informações específicas.
+
+7. A autoridade adjudicante deve assegurar que a estrutura da parceria e, em especial, a duração e o valor das diferentes fases reflitam o grau de inovação da solução proposta e a sequência das atividades de investigação e inovação necessárias para o desenvolvimento de uma solução inovadora que ainda não se encontre disponível no mercado. O valor estimado dos fornecimentos, serviços ou obras não pode ser desproporcionado em relação ao investimento exigido para o respetivo desenvolvimento.
+
+### Artigo 32.º — Utilização do procedimento por negociação sem publicação prévia de anúncio de concurso
+
+1. Nos casos e circunstâncias específicos previstos nos n.os 2 a 5, os Estados-Membros podem determinar que as autoridades adjudicantes possam recorrer a um procedimento por negociação sem publicação prévia de anúncio de concurso.
+
+2. O procedimento por negociação sem publicação prévia de anúncio de concurso pode ser utilizado para contratos de empreitada de obras públicas, contratos públicos de fornecimento e contratos públicos de serviços, em qualquer dos seguintes casos:
+
+- a) Quando não forem apresentadas propostas, nem propostas adequadas, nem pedidos, ou pedidos adequados de participação em resposta a um concurso aberto ou limitado, desde que as condições iniciais do contrato não sejam substancialmente alteradas e que, a pedido da Comissão, lhe seja transmitido um relatório.
+
+  Uma proposta deve ser considerada inadequada quando for irrelevante para o contrato, não permitindo manifestamente satisfazer, sem alterações substanciais, as necessidades e requisitos da autoridade adjudicante conforme especificados nos documentos do concurso. Um pedido de participação deve ser considerado inadequado caso o operador económico em causa deva ser ou possa vir a ser excluído, nos termos do artigo 57.o, ou não preencha os critérios de seleção estabelecidos pela autoridade adjudicante nos termos do artigo 58.o;
+
+- b) Quando as obras, os produtos ou os serviços só puderem ser fornecidos por um determinado operador económico, por uma das seguintes razões:
+
+  - i) o objetivo do concurso é a criação ou a aquisição de uma obra de arte ou de um espetáculo artístico únicos,
+
+  - ii) não existe concorrência por razões técnicas,
+
+  - iii) é necessário proteger direitos exclusivos, incluindo os direitos de propriedade intelectual;
+
+  As exceções previstas nas subalíneas ii) e iii) só se aplicam quando não exista alternativa ou substituto razoável e quando a inexistência de concorrência não resulte de uma restrição artificial dos parâmetros do concurso;
+
+- c) Na medida do estritamente necessário, quando, por motivo de urgência extrema resultante de acontecimentos imprevisíveis para as autoridades adjudicantes, não possam ser cumpridos os prazos exigidos pelos concursos públicos e pelos concursos limitados ou pelos procedimentos de concurso com negociação. As circunstâncias invocadas para justificar a urgência imperiosa não podem, em caso algum, ser imputáveis às autoridades adjudicantes.
+
+3. O procedimento por negociação sem publicação prévia de anúncio de concurso pode ser utilizado para contratos públicos de fornecimento:
+
+- a) Quando os produtos em causa forem fabricados apenas para fins de investigação, experimentação, estudo ou desenvolvimento, excluindo-se do âmbito da presente alínea a produção em quantidade, destinada a garantir a viabilidade comercial do produto ou a amortizar os custos de investigação e desenvolvimento;
+
+- b) Quando se trate de entregas complementares efetuadas pelo fornecedor inicial e destinadas, quer à substituição parcial de fornecimentos ou instalações, quer à ampliação de fornecimentos ou instalações existentes, nos casos em que a mudança de fornecedor obrigaria a autoridade adjudicante a adquirir fornecimentos com características técnicas diferentes, originando incompatibilidades ou dificuldades técnicas desproporcionadas de utilização e manutenção; a duração desses contratos e dos contratos adicionais não pode, em regra, ultrapassar três anos;
+
+- c) Quando se trate de fornecimentos cotados e adquiridos num mercado de matérias-primas;
+
+- d) Quando se trate da aquisição de fornecimentos ou serviços em condições especialmente vantajosas, seja a fornecedores que cessem definitivamente a sua atividade comercial, seja a liquidatários num procedimento de falência ou no âmbito de um acordo com credores ou procedimento da mesma natureza previsto nas legislações ou regulamentações nacionais.
+
+4. O procedimento por negociação sem publicação prévia de anúncio de concurso pode ser utilizado para contratos públicos de serviços quando o contrato em causa venha na sequência de um concurso de conceção organizado em conformidade com a presente diretiva e deva ser adjudicado, de acordo com as regras previstas no concurso de conceção, ao vencedor ou aos vencedores desse concurso.
+
+5. O procedimento por negociação sem publicação prévia de anúncio de concurso pode ser utilizado para obras ou serviços novos que consistam na repetição de obras ou serviços similares confiados ao operador económico a que as mesmas autoridades adjudicantes tenham adjudicado um contrato anterior, desde que essas obras ou serviços estejam em conformidade com um projeto de base que tenha sido objeto de um contrato inicial adjudicado em conformidade com um dos procedimentos previstos no artigo 26.o, n.o 1. O projeto de base deve indicar a amplitude das possíveis obras ou serviços complementares e as condições em que serão adjudicados.
+
+A possibilidade de recurso a este procedimento deve ser indicada aquando da abertura do concurso para o primeiro projeto, devendo o custo total estimado das obras ou dos serviços subsequentes ser tomado em consideração pelas autoridades adjudicantes para efeitos de aplicação do artigo 4.o.
+
+O recurso a este procedimento só é possível no triénio subsequente à celebração do contrato inicial.
+
+## CAPÍTULO II — Técnicas e instrumentos para a contratação pública eletrónica e agregada
+
+### Artigo 33.º — Acordos-quadro
+
+1. As autoridades adjudicantes podem celebrar acordos-quadro, desde que apliquem os procedimentos previstos na presente diretiva.
+
+Um acordo-quadro é um acordo entre uma ou mais autoridades adjudicantes e um ou mais operadores económicos que tem por objeto fixar os termos dos contratos a celebrar durante um determinado período, nomeadamente em matéria de preços e, se necessário, das quantidades previstas.
+
+O período de vigência de um acordo-quadro não pode exceder quatro anos, salvo em casos excecionais devidamente justificados, nomeadamente pelo objeto do acordo-quadro.
+
+2. Os contratos baseados num acordo-quadro são adjudicados de acordo com os procedimentos previstos no presente número, bem como nos n.os 3 e 4.
+
+Esses procedimentos só são aplicáveis entre, por um lado, as autoridades adjudicantes claramente identificadas para o efeito no convite à apresentação de propostas ou no convite à confirmação de interesse e, por outro, os operadores económicos que sejam partes no acordo-quadro, nos termos nele previstos.
+
+Os contratos baseados num acordo-quadro não podem em caso algum introduzir modificações substanciais nas condições estabelecidas no acordo-quadro, designadamente no caso a que se refere o n.o 3.
+
+3. Quando um acordo-quadro é celebrado com um único operador económico, os contratos baseados nesse acordo-quadro devem ser adjudicados nos limites das condições nele estabelecidas.
+
+Para a adjudicação desses contratos, as autoridades adjudicantes podem consultar por escrito o operador económico que é parte no acordo-quadro, pedindo-lhe que complete, na medida do necessário, a sua proposta.
+
+4. Quando um acordo-quadro é celebrado com mais do que um operador económico, deve ser executado de uma das duas seguintes formas:
+
+- a) Nos termos e condições estipulados no acordo-quadro, sem reabertura do concurso, quando o acordo-quadro estipular todos os termos do fornecimento das obras, serviços e produtos em causa e as condições objetivas para determinar qual dos operadores económicos parte no acordo-quadro será responsável pelo respetivo fornecimento, que devem constar da documentação relativa ao concurso; estas condições devem constar dos documentos do concurso para o acordo-quadro;
+
+- b) Se o acordo-quadro estabelece todas as condições que regem a execução das obras, a prestação de serviços e o fornecimento dos produtos em causa, em parte sem reabertura de concurso em conformidade com a alínea a) e em parte com reabertura do concurso entre os operadores económicos que são partes no acordo-quadro em conformidade com a alínea c), quando esta possibilidade tenha sido prevista pelas autoridades adjudicantes nos documentos do concurso para o acordo-quadro. A decisão de adquirir ou não adquirir determinadas obras, fornecimentos ou serviços, na sequência de uma reabertura de concurso ou diretamente nas condições estabelecidas no acordo-quadro, deve ser tomada em conformidade com critérios objetivos que serão determinados nos documentos do concurso para o acordo-quadro. Estes documentos devem igualmente especificar as condições que poderão ser sujeitas a reabertura de concurso.
+
+  As possibilidades previstas no primeiro parágrafo da presente alínea aplicam-se também a qualquer lote de um acordo-quadro para o qual tenham sido estabelecidas todas as condições que regem a execução das obras, a prestação de serviços e o fornecimento dos produtos em causa, independentemente de terem ou não sido estabelecidas para os restantes lotes todas as condições que regem a execução das obras, a prestação de serviços e o fornecimento dos produtos em causa;
+
+- c) Quando não estiverem estipuladas no acordo-quadro todas as condições de execução das obras, prestação dos serviços e fornecimento dos produtos em causa, através da reabertura do concurso entre os operadores económicos partes no acordo-quadro.
+
+5. Os concursos referidos no n.o 4, alíneas b) e c), são baseados nas mesmas condições aplicadas à adjudicação do acordo-quadro, se necessário especificadas em maior pormenor, bem como, se for caso disso, noutras condições referidas nos documentos do concurso para o acordo-quadro, de acordo com o seguinte procedimento:
+
+- a) Para cada contrato a adjudicar, as autoridades adjudicantes consultam por escrito os operadores económicos com capacidade para executar o contrato;
+
+- b) As autoridades adjudicantes fixam um prazo suficiente para a apresentação das propostas relativas a cada contrato específico, tendo em conta elementos como a complexidade do objeto do contrato e o tempo necessário para o envio das propostas;
+
+- c) As propostas são apresentadas por escrito e só são abertas após o termo do prazo de resposta fixado;
+
+- d) As autoridades adjudicantes atribuem cada contrato ao proponente que tiver apresentado a melhor proposta com base nos critérios de adjudicação previstos nos documentos do concurso para o acordo-quadro.
+
+### Artigo 34.º — Sistemas de aquisição dinâmicos
+
+1. Para a compra de bens ou serviços de uso corrente geralmente disponíveis no mercado e cujas características satisfaçam as exigências das autoridades adjudicantes, estas podem utilizar um sistema de aquisição dinâmico. O sistema de aquisição dinâmico deve funcionar como um processo inteiramente eletrónico e estar aberto, durante o período de vigência do sistema de aquisição, a qualquer operador económico que satisfaça os critérios de seleção. Pode ser dividido em categorias de produtos, obras ou serviços objetivamente definidas com base em características do concurso a lançar na categoria em causa. Essas características podem incluir uma referência à dimensão máxima autorizada dos contratos específicos a adjudicar ou a uma área geográfica específica na qual os contratos específicos a adjudicar serão executados.
+
+2. Para proceder a uma aquisição no âmbito de um sistema de aquisição dinâmico, as autoridades adjudicantes devem seguir as regras do concurso limitado. Todos os candidatos que satisfaçam os critérios de seleção são admitidos no sistema, sem que o número de candidatos a admitir possa ser limitado em conformidade com o artigo 65.o. Se tiverem dividido o sistema em categorias de produtos, obras ou serviços em conformidade com o n.o 1 do presente artigo, as autoridades adjudicantes devem especificar os critérios de seleção aplicáveis a cada categoria.
+
+Não obstante o disposto no artigo 28.o, são aplicáveis os seguintes prazos:
+
+- a) O prazo mínimo de receção dos pedidos de participação é de 30 dias a contar da data de envio do anúncio de concurso ou, caso seja utilizado um anúncio de pré-informação como meio de abertura de concurso, a contar da data de envio do convite à confirmação de interesse. Não são aplicáveis mais nenhuns prazos de receção dos pedidos de participação a partir do momento em que tenha sido enviado o convite à apresentação de propostas para o primeiro concurso específico ao abrigo do sistema de aquisição dinâmico;
+
+- b) O prazo mínimo de receção das propostas é de pelo menos 10 dias a contar da data de envio do convite à apresentação de propostas. Quando adequado, é aplicável o artigo 28.o, n.o 4. Não é aplicável o artigo 28.o, n.os 3 e 5.
+
+3. Todas as comunicações no contexto de um sistema de aquisição dinâmico são feitas exclusivamente por via eletrónica, em conformidade com o artigo 22.o, n.os 1, 3, 5 e 6.
+
+4. Para efeitos de adjudicação de contratos no âmbito de um sistema de aquisição dinâmico, as autoridades adjudicantes:
+
+- a) Publicam um convite à apresentação de propostas, especificando que envolve um sistema de aquisição dinâmico;
+
+- b) Especificam nos documentos do concurso, no mínimo, a natureza e a quantidade estimada das aquisições previstas, bem como todas as informações necessárias sobre o sistema de aquisição dinâmico, incluindo o funcionamento deste sistema, o equipamento eletrónico utilizado e as modalidades e especificações técnicas de conexão;
+
+- c) Indicam qualquer divisão em categorias de produtos, obras ou serviços e as características que as definem;
+
+- d) Oferecem acesso livre, direto e completo, enquanto o sistema estiver em vigor, aos documentos do concurso, em conformidade com o artigo 53.o.
+
+5. As autoridades adjudicantes devem conceder aos operadores económicos, ao longo de todo o período de vigência do sistema de aquisição dinâmico, a possibilidade de requererem a participação no sistema nas condições previstas no n.o 2. As autoridades adjudicantes concluem a avaliação desses pedidos de participação, de acordo com os critérios de seleção, no prazo de 10 dias úteis a contar da data de receção. Esse prazo pode ser prorrogado até 15 dias úteis em casos individuais, quando justificado, em especial devido à necessidade de examinar a documentação complementar ou de verificar de outro modo se estão preenchidos os critérios de seleção.
+
+Não obstante o disposto no primeiro parágrafo, enquanto não tiver sido enviado o convite à apresentação de propostas para o primeiro concurso específico ao abrigo do sistema de aquisição dinâmico, as autoridades adjudicantes podem prorrogar o prazo de avaliação desde que não seja emitido nenhum convite à apresentação de propostas durante o prazo de avaliação prorrogado. Nos documentos do concurso, as autoridades adjudicantes devem indicar a duração do prazo prorrogado que tencionam aplicar.
+
+As autoridades adjudicantes informam o operador económico em causa, o mais rapidamente possível, se foi ou não admitido ao sistema de aquisição dinâmico.
+
+6. As autoridades adjudicantes convidam todos os participantes admitidos a apresentar uma proposta para cada concurso específico no âmbito do sistema de aquisição dinâmico, em conformidade com o artigo 54.o. Se o sistema de aquisição dinâmico tiver sido dividido em categorias de obras, produtos ou serviços, as autoridades adjudicantes convidam todos os participantes admitidos na categoria correspondente ao concurso específico em causa a apresentar uma proposta.
+
+As autoridades adjudicantes adjudicam o contrato ao proponente que tiver apresentado a melhor proposta com base nos critérios de adjudicação previstos no anúncio de concurso relativo ao sistema de aquisição dinâmico ou, caso tenha sido utilizado um anúncio de pré-informação como meio de abertura de concurso, no convite à confirmação de interesse. Tais critérios podem, se for caso disso, ser pormenorizados no convite à apresentação de propostas.
+
+7. As autoridades adjudicantes podem, a qualquer momento durante o período de vigência do sistema de aquisição dinâmico, exigir aos participantes admitidos que apresentem uma declaração sob compromisso de honra nova e atualizada, em conformidade com o artigo 59.o, n.o 1, no prazo de cinco dias úteis a contar da data em que o pedido é transmitido.
+
+O artigo 59.o, n.os 4 a 6, é aplicável durante todo o período de vigência do sistema de aquisição dinâmico.
+
+8. As autoridades adjudicantes devem indicar o período de vigência do sistema de aquisição dinâmico no anúncio de concurso. Devem notificar a Comissão de qualquer alteração durante o período de vigência do sistema, utilizando os seguintes formulários-tipo:
+
+- a) Se o período de vigência for alterado sem que o sistema seja encerrado, o formulário utilizado inicialmente para o anúncio de concurso relativo ao sistema de aquisição dinâmico;
+
+- b) Se o sistema for encerrado, um anúncio de adjudicação de contrato, conforme referido no artigo 50.o.
+
+9. Nem antes nem durante o período de vigência do sistema de aquisição dinâmico podem ser cobradas despesas aos operadores económicos interessados, ou partes, no sistema de aquisição dinâmico.
+
+### Artigo 35.º — Leilões eletrónicos
+
+1. As autoridades adjudicantes podem utilizar leilões eletrónicos com novos preços, mais baixos, e/ou novos valores relativamente a determinados elementos das propostas.
+
+Para o efeito, as autoridades adjudicantes organizam o leilão eletrónico como um procedimento eletrónico repetitivo, desencadeado após uma primeira avaliação completa das propostas, que lhes permita classificar as mesmas com base em métodos automáticos de avaliação.
+
+Certos contratos públicos de serviços e certos contratos de empreitada de obras públicas relativos a realizações intelectuais, tais como a conceção de uma obra, que não podem ser classificados com recurso a métodos de avaliação automática, não podem ser objeto de leilões eletrónicos.
+
+2. Nos concursos abertos e nos concursos limitados e nos procedimentos concorrenciais com negociação, as autoridades adjudicantes podem decidir que a adjudicação de um contrato público seja precedida de um leilão eletrónico quando os conteúdos dos documentos do concurso, em especial as especificações técnicas, puderem ser estabelecidos com precisão.
+
+Nas mesmas condições, pode ser utilizado um leilão eletrónico aquando da reabertura de um concurso junto das partes num acordo-quadro, nos termos do artigo 33.o, n.o 4, alíneas b) ou c), e da abertura a concurso de contratos a adjudicar no âmbito do sistema de aquisição dinâmico referido no artigo 34.o.
+
+3. O leilão eletrónico é baseado num dos seguintes elementos das propostas:
+
+- a) Unicamente nos preços, quando o contrato for adjudicado de acordo com o critério do preço mais baixo;
+
+- b) Nos preços e/ou nos novos valores dos elementos das propostas indicados nos documentos do concurso, quando o contrato for adjudicado com base na melhor relação qualidade/preço ou à proposta com o custo mais baixo recorrendo a uma abordagem de custo-eficácia.
+
+4. As autoridades adjudicantes que decidam recorrer a um leilão eletrónico mencionam esse facto no anúncio de concurso ou no convite à confirmação de interesse. Os documentos do concurso devem incluir pelo menos os elementos indicados no Anexo VI.
+
+5. Antes de procederem ao leilão eletrónico, as autoridades adjudicantes efetuam uma primeira avaliação completa das propostas em conformidade com o critério ou critérios de adjudicação e com a respetiva ponderação.
+
+A proposta é considerada admissível quando tiver sido apresentada por um proponente que não tenha sido excluído nos termos do artigo 57.o e que satisfaça os critérios de seleção, e cuja proposta esteja em conformidade com as especificações técnicas e não seja irregular, inaceitável ou inadequada.
+
+Nomeadamente, as propostas que não se encontrem em conformidade com o disposto na documentação relativa aos concursos, cuja receção ocorra demasiado tarde, que revelem indícios de conluio ou corrupção, ou cuja qualidade seja considerada pela autoridade adjudicante anormalmente baixa, devem ser consideradas irregulares. Em especial, devem ser consideradas inaceitáveis as propostas apresentadas por proponentes que não possuam as qualificações exigidas e as propostas cujo preço exceda o orçamento da autoridade adjudicante, tal como determinado e documentado antes do lançamento do concurso.
+
+Uma proposta deve ser considerada inadequada quando for irrelevante para o contrato, não permitindo manifestamente satisfazer, sem alterações substanciais, as necessidades e requisitos da autoridade adjudicante conforme especificados nos documentos do concurso. Um pedido de participação deve ser considerado inadequado caso o operador económico em causa deva ser ou possa vir a ser excluído, nos termos do artigo 57.o, ou não preencha os critérios de seleção estabelecidos pela autoridade adjudicante nos termos do artigo 58.o.
+
+Todos os proponentes que tenham apresentado propostas admissíveis são convidados simultaneamente, por via eletrónica, a participar no leilão eletrónico, usando as ligações disponíveis a partir da data e hora especificadas e em conformidade com as instruções constantes do convite. O leilão eletrónico pode processar-se em várias fases sucessivas. Não pode ser dado início ao leilão eletrónico antes de decorridos dois dias úteis após a data de envio dos convites.
+
+6. O convite deve ser acompanhado do resultado da avaliação completa da proposta do proponente em questão, efetuada em conformidade com a ponderação prevista no artigo 67.o, n.o 5, primeiro parágrafo.
+
+O convite refere igualmente a fórmula matemática que será usada aquando do leilão eletrónico para determinar as reclassificações automáticas em função dos novos preços e/ou dos novos valores apresentados. Essa fórmula deve integrar a ponderação de todos os critérios definidos para determinar a proposta economicamente mais vantajosa, tal como indicada no anúncio utilizado como meio de abertura de concurso ou noutros documentos do concurso, exceto se a proposta economicamente mais vantajosa for identificada apenas com base no preço. Para o efeito, as eventuais margens de flutuação devem ser previamente expressas por um valor determinado.
+
+Caso sejam autorizadas variantes, deve ser fornecida uma fórmula separada para cada variante.
+
+7. Durante cada fase do leilão eletrónico, as autoridades adjudicantes comunicam instantaneamente a todos os proponentes pelo menos as informações suficientes para que possam ter conhecimento da sua classificação em qualquer momento, e podem ainda, quando tal tiver sido previamente indicado, comunicar outras informações relativas a outros preços ou valores licitados, bem como anunciar o número de participantes nessa fase do leilão. No entanto, não podem em circunstância alguma divulgar a identidade dos proponentes durante as diferentes fases do leilão eletrónico.
+
+8. As autoridades adjudicantes encerram o leilão eletrónico de uma ou mais das seguintes formas:
+
+- a) Na data e hora previamente indicadas;
+
+- b) Quando deixarem de receber novos preços ou novos valores que correspondam aos requisitos relativos às diferenças mínimas, desde que tenham especificado previamente o prazo que irão observar entre a receção da última licitação e o encerramento do leilão eletrónico; ou
+
+- c) Quando tiver sido atingido o número de fases de leilão previamente definido.
+
+Sempre que as autoridades adjudicantes tencionem encerrar um leilão eletrónico da forma indicada na alínea c) do primeiro parágrafo, eventualmente em combinação com as modalidades previstas na alínea b), o convite à participação no leilão deve indicar o calendário para cada fase.
+
+9. Uma vez encerrado o leilão eletrónico, as autoridades adjudicantes adjudicam o contrato nos termos do artigo 67.o em função dos respetivos resultados.
+
+### Artigo 36.º — Catálogos eletrónicos
+
+1. Quando é exigida a utilização de meios eletrónicos de comunicação, as autoridades adjudicantes podem exigir que as propostas sejam apresentadas sob a forma de um catálogo eletrónico ou incluam um catálogo eletrónico.
+
+Os Estados-Membros podem estipular a obrigatoriedade da utilização de catálogos eletrónicos em relação a determinados tipos de contratos públicos.
+
+As propostas apresentadas sob a forma de catálogo eletrónico podem ser acompanhadas de outros documentos que completem a proposta.
+
+2. Os catálogos eletrónicos são criados pelos candidatos ou proponentes com vista a participarem num determinado procedimento de contratação em conformidade com as especificações técnicas e com o formato estabelecido pela autoridade adjudicante.
+
+Além disso, os catálogos eletrónicos devem cumprir os requisitos relativos aos instrumentos de comunicação eletrónica, bem como outros requisitos adicionais definidos pela autoridade adjudicante em conformidade com o artigo 22.o.
+
+3. Quando for aceite ou exigida a apresentação de propostas sob a forma de catálogos eletrónicos, as autoridades adjudicantes:
+
+- a) Mencionam este facto no anúncio de concurso ou no convite à confirmação de interesse, quando um anúncio de pré-informação for utilizado como meio de abertura de concurso;
+
+- b) Apresentam nos documentos do concurso todas as informações necessárias, nos termos do artigo 22.o, n.o 6, quanto ao formato e equipamento eletrónico utilizado e quanto às modalidades e especificações técnicas de ligação para o catálogo.
+
+4. Quando tiver sido celebrado um acordo-quadro com mais de um operador económico na sequência da apresentação de propostas sob a forma de catálogos eletrónicos, as autoridades adjudicantes podem estipular que a reabertura de concurso para contratos específicos seja efetuada com base em catálogos atualizados. Nesse caso, as autoridades adjudicantes utilizam um dos seguintes métodos:
+
+- a) Convidam os proponentes a apresentar novamente os seus catálogos eletrónicos, adaptados aos requisitos do contrato em causa;
+
+- b) Notificam os proponentes de que pretendem recolher dos catálogos eletrónicos já apresentados as informações necessárias para constituir propostas adaptadas aos requisitos do contrato em causa, desde que a utilização desse método se encontre mencionada nos documentos do concurso respeitantes ao acordo-quadro.
+
+5. Quando as autoridades adjudicantes reabrem o concurso para contratos específicos nos termos do n.o 4, alínea b), notificam os proponentes da data e da hora a que pretendem recolher as informações necessárias para constituir propostas adaptadas aos requisitos do contrato específico em questão e dão aos proponentes a opção de recusarem essa recolha de informação.
+
+As autoridades adjudicantes estabelecem um prazo adequado entre a notificação e a recolha efetiva de informação.
+
+Antes da adjudicação do contrato, as autoridades adjudicantes apresentam as informações recolhidas ao proponente em questão, a fim de lhe darem a oportunidade de contestar ou confirmar que a proposta assim constituída não contém erros materiais.
+
+6. As autoridades adjudicantes podem adjudicar contratos com base num sistema de aquisição dinâmico, exigindo que as propostas para determinado concurso sejam apresentadas sob a forma de catálogo eletrónico.
+
+As autoridades adjudicantes podem igualmente adjudicar contratos com base num sistema de aquisição dinâmico em conformidade com o n.o 4, alínea b), e o n.o 5, desde que o pedido de participação no sistema de aquisição dinâmico seja acompanhado de um catálogo eletrónico em conformidade com as especificações técnicas e com o formato estabelecido pela autoridade adjudicante. Esse catálogo é posteriormente completado pelos candidatos, quando forem informados da intenção da autoridade adjudicante de constituir propostas através do procedimento referido no n.o 4, alínea b).
+
+### Artigo 37.º — Atividades de compras centralizadas e centrais de compras
+
+1. Os Estados-Membros podem prever a possibilidade de as autoridades adjudicantes adquirirem fornecimentos e/ou serviços de uma central de compras que oferece a atividade de compras centralizadas referida no artigo 2.o, n.o 1, ponto 14, alínea a).
+
+Os Estados-Membros podem igualmente prever a possibilidade de as autoridades adjudicantes adquirirem obras, fornecimentos e serviços, utilizando contratos adjudicados por uma central de compras, recorrendo a sistemas de aquisição dinâmicos operados por uma central de compras ou, na medida estabelecida no artigo 33.o, n.o 2, segundo parágrafo, utilizando um acordo-quadro celebrado por uma central de compras que ofereça a atividade de compra centralizada referida no artigo 2.o, n.o 1, ponto 14, alínea b). Quando um sistema de aquisição dinâmico operado por uma central de compras possa ser utilizado por outras autoridades adjudicantes, este facto deve ser mencionado no anúncio de concurso para a criação desse sistema de aquisição dinâmico.
+
+Em relação aos ao primeiro e segundo parágrafos, os Estados-Membros podem prever que determinados contratos públicos sejam adjudicados com recurso a centrais de compras ou a uma ou várias centrais de compras específicas.
+
+2. A autoridade adjudicante cumpre as obrigações que lhe incumbem por força da presente diretiva ao adquirir fornecimentos ou serviços de uma central de compras que ofereça a atividade de compras centralizadas referida no artigo 2.o, n.o 1, ponto 14, alínea a).
+
+Além disso, a autoridade adjudicante cumpre igualmente as obrigações que lhe incumbem por força da presente diretiva ao adquirir obras, fornecimentos ou serviços, utilizando contratos adjudicados pela central de compras, recorrendo a sistemas de aquisição dinâmicos operados pela central de compras ou, na medida estabelecida no artigo 33.o, n.o 2, segundo parágrafo, utilizando um acordo-quadro celebrado pela central de compras que oferece a atividade de compra referida no artigo 2.o, n.o 1, ponto 14, alínea b).
+
+Todavia, a autoridade adjudicante em causa é responsável pelo cumprimento das obrigações previstas na presente diretiva em relação às partes sob a sua responsabilidade, nomeadamente:
+
+- a) Adjudicar um contrato ao abrigo de um sistema de aquisição dinâmico operado por uma central de compras;
+
+- b) Proceder à abertura de um novo concurso no âmbito de um acordo-quadro celebrado por uma central de compras;
+
+- c) Nos termos do artigo 33.o, n.o 4, alíneas a) ou b), determinar quais os operadores económicos partes no acordo-quadro que devem executar determinada tarefa no âmbito de um acordo-quadro celebrado por uma central de compras.
+
+3. Todos os procedimentos de contratação realizados por uma central de compras devem ser executados através de meios eletrónicos de comunicação, em conformidade com os requisitos previstos no artigo 22.o.
+
+4. As autoridades adjudicantes podem adjudicar um contrato público de serviços para a prestação de atividades de compras centralizadas a uma central de compras, sem aplicar os procedimentos previstos na presente diretiva.
+
+Esses contratos públicos de serviços podem também incluir a prestação de atividades de aquisição auxiliares.
+
+### Artigo 38.º — Iniciativas conjuntas de aquisição ocasionais
+
+1. Duas ou mais autoridades adjudicantes podem acordar em executar conjuntamente determinadas aquisições.
+
+2. Quando um procedimento de contratação é efetuado na totalidade conjuntamente em nome e por conta de todas as autoridades adjudicantes em causa, estas ficam solidariamente responsáveis pelo cumprimento das obrigações que lhes incumbem por força da presente diretiva. Tal aplica-se também nos casos em que uma autoridade adjudicante gere o procedimento, agindo em seu próprio nome e em nome das outras autoridades adjudicantes em causa.
+
+Quando um procedimento de contratação não é efetuado na totalidade conjuntamente em nome e por conta das autoridades adjudicantes em causa, estas ficam solidariamente responsáveis apenas pelas partes efetuadas em conjunto. Cada autoridade adjudicante é integralmente responsável pelo cumprimento das obrigações que lhe incumbem por força da presente diretiva no que respeita às partes que efetua em seu nome e por sua conta.
+
+### Artigo 39.º — Contratos que envolvem autoridades adjudicantes de vários Estados-Membros
+
+1. Sem prejuízo do artigo 12.o, as autoridades adjudicantes de vários Estados-Membros podem adjudicar conjuntamente os seus contratos públicos utilizando um dos meios previstos no presente artigo.
+
+As autoridades adjudicantes não podem recorrer aos meios previstos no presente artigo com o objetivo de evitar a aplicação das disposições de direito público obrigatórias em conformidade com o direito da União às quais estejam sujeitas no respetivo Estado-Membro.
+
+2. Os Estados-Membros não podem proibir as suas autoridades adjudicantes de recorrer a atividades de compras centralizadas oferecidas por centrais de compras situadas noutro Estado-Membro.
+
+No que diz respeito às atividades de compras centralizadas oferecidas por uma central de compras situada num Estado-Membro que não o da autoridade adjudicante, os Estados-Membros podem, no entanto, optar por especificar que as respetivas autoridades adjudicantes só podem recorrer às atividades de compras centralizadas definidas no artigo 2.o, n.o 1, ponto 14, alíneas a) ou b).
+
+3. A prestação das atividades de compras centralizadas por uma central de compras situada noutro Estado-Membro, deve cumprir as disposições nacionais do Estado-Membro onde a central de compras está situada.
+
+As disposições nacionais do Estado-Membro onde a central de compras está situada aplicam-se igualmente:
+
+- a) À adjudicação de um contrato ao abrigo de um sistema de aquisição dinâmico;
+
+- b) Ao processo de abertura de um novo concurso no âmbito de um acordo-quadro;
+
+- c) À determinação, em conformidade com o artigo 33.o, n.o 4, alíneas a) ou b), dos operadores económicos partes no acordo-quadro que devem executar determinada tarefa.
+
+4. Várias autoridades adjudicantes de Estados-Membros diferentes podem juntar-se para adjudicar um contrato público, celebrar um acordo-quadro ou gerir um sistema de aquisição dinâmico. Podem igualmente, na medida estabelecida no artigo 33.o, n.o 2, segundo parágrafo, adjudicar contratos baseados no acordo-quadro ou no sistema de aquisição dinâmico. A menos que os elementos necessários estejam regulamentados por um acordo internacional celebrado entre os Estados-Membros em causa, as autoridades adjudicantes participantes celebram um acordo que determina:
+
+- a) As responsabilidades das partes e as disposições nacionais aplicáveis;
+
+- b) A organização interna do procedimento de contratação, nomeadamente a sua gestão, a distribuição das obras, fornecimentos ou serviços a adjudicar e a celebração dos contratos.
+
+A autoridade adjudicante participante cumpre as obrigações que lhe incumbem por força da presente diretiva ao adquirir obras, fornecimentos ou serviços junto de uma autoridade adjudicante responsável pelo procedimento de contratação. Ao determinarem as responsabilidades e a lei nacional aplicável em conformidade com a alínea a), as autoridades adjudicantes participantes podem optar por atribuir responsabilidades a uma ou mais das autoridades adjudicantes participantes e determinar as disposições nacionais aplicáveis do respetivo Estado-Membro. A atribuição de responsabilidades e o direito nacional aplicável daí resultante devem ser mencionados nos documentos do concurso para contratos públicos adjudicados conjuntamente.
+
+5. Quando várias autoridades adjudicantes de Estados-Membros diferentes tiverem criado uma entidade comum, nomeadamente agrupamentos europeus de cooperação territorial ao abrigo do Regulamento (CE) n.º 1082/2006 do Parlamento Europeu e do Conselho ([^9]) ou outras entidades instituídas ao abrigo do direito da União, as autoridades adjudicantes participantes devem definir, através de uma decisão do órgão competente da entidade jurídica conjunta, qual a regulamentação nacional em matéria de contratos públicos que será aplicável, de um dos seguintes Estados-Membros:
+
+- a) Disposições nacionais do Estado-Membro onde a entidade jurídica conjunta tem a sua sede social;
+
+- b) Disposições nacionais do Estado-Membro onde a entidade jurídica conjunta desenvolve as suas atividades.
+
+O acordo a que se refere o primeiro parágrafo pode ser válido por um período indeterminado, quando estabelecido no ato constitutivo da entidade comum, ou pode estar limitado a um período específico, a determinados tipos de contratos ou à adjudicação de um ou mais contratos específicos.
+
+## CAPÍTULO III — Condução do procedimento
+
+## Secção 1 — Preparação
+
+### Artigo 40.º — Consulta preliminar ao mercado
+
+Antes da abertura de um procedimento de contratação, as autoridades adjudicantes podem realizar consultas ao mercado, a fim de preparar esse procedimento e de informar os operadores económicos dos seus planos de contratação e respetivos requisitos.
+
+Para este efeito, as autoridades adjudicantes podem, por exemplo, solicitar ou aceitar pareceres de peritos ou autoridades independentes ou de participantes no mercado que possam ser utilizados no planeamento e na condução do procedimento de contratação, na condição de que esses pareceres não tenham por efeito distorcer a concorrência nem resultem em qualquer violação dos princípios da não discriminação e da transparência.
+
+### Artigo 41.º — Participação prévia de candidatos ou proponentes
+
+Quando um candidato ou proponente, ou uma empresa associada a um candidato ou proponente, tiver apresentado um parecer à autoridade adjudicante, quer no contexto do artigo 40.o, quer não, ou tiver participado de qualquer outra forma na preparação do procedimento de contratação, a autoridade adjudicante toma as medidas adequadas para evitar qualquer distorção da concorrência em virtude dessa participação do candidato ou proponente.
+
+Entre essas medidas inclui-se a comunicação aos restantes candidatos e proponentes das informações pertinentes trocadas no âmbito ou em resultado da participação do candidato ou proponente na preparação do procedimento de contratação, assim como a fixação de prazos adequados para a receção de propostas. O candidato ou proponente em causa só deve ser excluído do procedimento se não existirem outras formas de garantir o cumprimento do dever de observância do princípio da igualdade de tratamento.
+
+Antes de qualquer exclusão por esses motivos, é dada aos candidatos ou proponentes a oportunidade de demonstrarem que a sua participação na preparação do procedimento de contratação não é suscetível de distorcer a concorrência. As medidas tomadas são documentadas no relatório exigido nos termos no artigo 84.o.
+
+### Artigo 42.º — Especificações técnicas
+
+1. As especificações técnicas definidas no Anexo VII, ponto 1, devem constar dos documentos do concurso. As especificações técnicas definem as características exigidas para as obras, serviços ou fornecimentos.
+
+Essas características podem também incluir uma referência ao processo ou método específico de produção ou execução das obras, fornecimentos ou serviços solicitados ou a um processo específico para outra fase do seu ciclo de vida, mesmo que tais fatores não façam parte da sua substância material, desde que estejam ligados ao objeto do contrato e sejam proporcionais ao seu valor e aos seus objetivos.
+
+Além disso, as especificações técnicas podem especificar se é exigida a transmissão de direitos de propriedade intelectual.
+
+Em relação a todos os contratos cujo objeto se destine a ser utilizado por pessoas singulares, quer seja o público em geral quer o pessoal da autoridade adjudicante, as especificações técnicas devem, salvo em casos devidamente justificados, ser elaboradas de modo a ter em conta os critérios de acessibilidade para as pessoas com deficiência ou de conceção para todos os utilizadores.
+
+Sempre que existam requisitos de acessibilidade obrigatórias adotadas por ato jurídico da União, as especificações técnicas devem ser definidas por referência a essas normas, no que respeita aos critérios de acessibilidade para as pessoas com deficiência ou de conceção para todos os utilizadores.
+
+2. As especificações técnicas devem permitir a igualdade de acesso dos operadores económicos ao procedimento de contratação e não podem criar obstáculos injustificados à abertura dos contratos públicos à concorrência.
+
+3. Sem prejuízo das regras técnicas nacionais vinculativas, na medida em que sejam compatíveis com o direito da União, as especificações técnicas devem ser formuladas segundo uma das seguintes modalidades:
+
+- a) Em termos de desempenho ou de requisitos funcionais, que poderão incluir características ambientais, desde que os parâmetros sejam suficientemente precisos para permitir que os proponentes determinem o objeto do contrato e que as autoridades adjudicantes procedam à respetiva adjudicação;
+
+- b) Por referência a especificações técnicas definidas e, por ordem de preferência, a normas nacionais que transponham normas europeias, a homologações técnicas europeias, a especificações técnicas comuns, a normas internacionais, a outros sistemas técnicos de referência estabelecidos pelos organismos europeus de normalização ou — quando estes não existam — a normas nacionais, a homologações técnicas nacionais ou a especificações técnicas nacionais em matéria de conceção, cálculo e execução das obras e de utilização dos fornecimentos; cada referência deve ser acompanhada da menção «ou equivalente»;
+
+- c) Em termos do desempenho ou dos requisitos funcionais a que se refere a alínea a), com referência às especificações técnicas a que se refere a alínea b) como meio de presunção de conformidade com esse desempenho ou com esses requisitos funcionais;
+
+- d) Por referência às especificações técnicas a que se refere a alínea b), para determinadas características, e por referência ao desempenho ou aos requisitos funcionais a que se refere a alínea a), para outras.
+
+4. A menos que o objeto do contrato o justifique, as especificações técnicas não podem fazer referência a determinado fabrico ou proveniência, a um procedimento específico que caracterize os produtos ou serviços prestados por determinado operador económico, ou a marcas comerciais, patentes, tipos, origens ou modos de produção determinados que tenham por efeito favorecer ou eliminar determinadas empresas ou produtos. Tal referência será autorizada, a título excecional, no caso de não ser possível uma descrição suficientemente precisa e inteligível do objeto do contrato nos termos do n.o 3. Essa referência deve ser acompanhada da menção «ou equivalente».
+
+5. Sempre que as autoridades adjudicantes recorrerem à possibilidade de remeter para as especificações técnicas a que se refere o n.o 3, alínea b), não podem excluir uma proposta com o fundamento de que as obras, fornecimentos ou serviços dela constantes não estão em conformidade com as suas especificações técnicas de referência, se o proponente demonstrar na sua proposta por qualquer meio adequado, nomeadamente os meios de prova referidos no artigo 44.o, que as soluções propostas satisfazem de modo equivalente os requisitos definidos nas especificações técnicas.
+
+6. Sempre que as autoridades adjudicantes recorrerem à possibilidade, prevista no n.o 3, alínea a), de formular especificações técnicas em termos de exigências de desempenho ou de requisitos funcionais, não podem excluir uma proposta de obras, fornecimentos ou serviços que esteja em conformidade com uma norma nacional que transponha uma norma europeia, uma homologação técnica europeia, uma especificação técnica comum, uma norma internacional ou um sistema técnico de referência estabelecido por um organismo de normalização europeu, quando essas especificações corresponderem aos critérios de desempenho ou cumprirem os requisitos funcionais impostos.
+
+O proponente pode demonstrar na sua proposta, por qualquer meio adequado, incluindo os meios referidos no artigo 44.o, que a obra, fornecimento ou serviço em conformidade com a norma em questão corresponde ao desempenho exigido ou cumpre os requisitos funcionais da autoridade adjudicante.
+
+### Artigo 43.º — Rótulos
+
+1. Sempre que pretendam adquirir obras, fornecimentos ou serviços com características específicas do ponto de vista ambiental, social ou outro, as autoridades adjudicantes podem, nas especificações técnicas, nos critérios de adjudicação ou nas condições de execução dos contratos, exigir um rótulo específico para atestar que as obras, fornecimentos ou serviços correspondem às características exigidas, desde que estejam preenchidas todas as seguintes condições:
+
+- a) Os requisitos de rotulagem dizem exclusivamente respeito a critérios associados ao objeto do contrato e que são apropriados para definir as características das obras, fornecimentos ou serviços a que se refere o contrato;
+
+- b) Os requisitos de rotulagem baseiam-se em critérios objetivamente verificáveis e não discriminatórios;
+
+- c) Os rótulos são criados através de um procedimento aberto e transparente em que podem participar todas as partes interessadas, nomeadamente organismos governamentais, consumidores, parceiros sociais, fabricantes, distribuidores e organizações não governamentais;
+
+- d) Os rótulos estão acessíveis a todas as partes interessadas;
+
+- e) Os requisitos de rotulagem são definidos por um terceiro sobre o qual o operador económico que solicita o rótulo não possa exercer uma influência decisiva.
+
+Caso as autoridades adjudicantes não exijam que as obras, fornecimentos ou serviços obedeçam a todos os requisitos de rotulagem, devem indicar quais os requisitos de rotulagem a cumprir.
+
+As autoridades adjudicantes que exijam um determinado rótulo devem aceitar todos os rótulos que confirmem que as obras, fornecimentos ou serviços obedecem a requisitos de rotulagem equivalentes.
+
+Caso se possa comprovar que um operador económico não tem possibilidade de obter, dentro do prazo estabelecido, o rótulo específico indicado pela autoridade adjudicante ou um rótulo equivalente por razões que lhe não sejam imputáveis, a autoridade adjudicante deve aceitar outros meios de prova adequados, como um ficheiro técnico do fabricante, desde que o operador económico em causa prove que as obras, fornecimentos ou serviços a serem por ele prestados cumprem os requisitos do rótulo específico ou os requisitos específicos indicados pela autoridade adjudicante.
+
+2. Quando um rótulo cumprir as condições previstas no n.o 1, alíneas b), c), d) e e), mas incluir também requisitos que não estejam ligados ao objeto do contrato, as autoridades adjudicantes não podem exigir o rótulo propriamente dito mas sim definir a especificação técnica por referência às especificações pormenorizadas do rótulo em questão ou, se necessário, às partes do mesmo que estejam ligadas ao objeto do contrato e que sejam adequadas para definir as características desse objeto.
+
+### Artigo 44.º — Relatórios de ensaio, certificação e outros meios de prova
+
+1. As autoridades adjudicantes podem exigir aos operadores económicos a apresentação de um relatório de ensaio de um organismo de avaliação da conformidade ou um certificado emitido por tal organismo como meio de prova da conformidade com os requisitos ou critérios estabelecidos nas especificações técnicas, com os critérios de adjudicação ou com as condições de execução dos contratos.
+
+Quando as autoridades adjudicantes exigirem a apresentação de certificados emitidos por um organismo de avaliação da conformidade específico, devem também aceitar os certificados de outros organismos de avaliação da conformidade equivalentes.
+
+Para efeitos do presente número, entende-se por «organismo de avaliação da conformidade» um organismo que exerça atividades de avaliação da conformidade, nomeadamente a calibração, ensaio, certificação e inspeção, acreditado em conformidade com o Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho ([^10]).
+
+2. As autoridades adjudicantes devem aceitar outros meios de prova adequados além dos enunciados no n.o 1, como a documentação técnica do fabricante, caso o operador económico em causa não tenha acesso aos certificados ou aos relatórios de ensaio referidos no n.o 1, nem qualquer possibilidade de os obter dentro dos prazos estabelecidos, desde que a falta de acesso não seja imputável ao próprio operador económico e desde que este prove que as obras, fornecimentos ou serviços por ele prestados cumprem os requisitos ou critérios indicados nas especificações técnicas, nos critérios de adjudicação ou nas condições de execução dos contratos.
+
+3. Quando solicitados a fazê-lo, os Estados-Membros colocam à disposição dos outros Estados-Membros quaisquer informações relacionadas com as provas e documentos apresentados em conformidade com o artigo 42.o, n.o 6, com o artigo 43.o e com os n.os 1 e 2 do presente artigo. As autoridades competentes do Estado-Membro de estabelecimento do operador económico comunicam essas informações nos termos do artigo 86.o.
+
+### Artigo 45.º — Variantes
+
+1. As autoridades adjudicantes podem autorizar ou exigir aos proponentes a apresentação de variantes, devendo precisar no anúncio de concurso ou, caso seja utilizado um anúncio de pré-informação como meio de abertura de concurso, no convite à confirmação de interesse, se as variantes são ou não autorizadas. As variantes não são autorizadas na falta de tal indicação, e devem estar relacionadas com o objeto do contrato.
+
+2. As autoridades adjudicantes que autorizem ou exijam variantes indicam nos documentos do concurso os requisitos mínimos que essas variantes devem respeitar, bem como quaisquer requisitos específicos para a sua apresentação, nomeadamente se só podem ser apresentadas variantes caso tenha sido também apresentada uma proposta que não seja uma variante. Devem, além disso, garantir que os critérios de adjudicação selecionados possam ser aplicados às variantes que respeitem os requisitos mínimos, bem como às propostas conformes que não sejam variantes.
+
+3. As autoridades adjudicantes só tomam em consideração as variantes que satisfaçam os requisitos mínimos por si exigidos.
+
+Nos procedimentos de adjudicação de contratos públicos de fornecimentos ou de serviços, as autoridades adjudicantes que tenham autorizado ou exigido variantes não podem excluir uma variante pelo simples facto de esta poder conduzir, caso seja escolhida, a um contrato de serviços em vez de um contrato público de fornecimento, ou a um contrato de fornecimento em vez de um contrato público de serviços.
+
+### Artigo 46.º — Divisão dos contratos em lotes
+
+1. As autoridades adjudicantes podem decidir adjudicar um contrato sob a forma de lotes separados e podem determinar a dimensão e o objeto desses lotes.
+
+Com exceção dos contratos cuja divisão seja obrigatória por força do n.o 4 do presente artigo, as autoridades adjudicantes indicam as principais razões para a sua decisão de não subdividir o contrato em lotes; tal deve constar dos documentos do concurso ou do relatório individual a que se refere o artigo 84.o.
+
+2. As autoridades adjudicantes indicam, no anúncio de concurso ou no convite à confirmação de interesse, se podem ser apresentadas propostas para um lote, para vários lotes ou para todos eles.
+
+Mesmo que possam ser apresentadas propostas para vários lotes ou para todos os lotes, as autoridades adjudicantes podem limitar o número de lotes que podem ser adjudicados a um proponente, desde que o número máximo de lotes por proponente esteja indicado no anúncio de concurso ou no convite à confirmação de interesse. As autoridades adjudicantes devem indicar nos documentos do concurso as regras ou os critérios objetivos e não discriminatórios que tencionam aplicar para determinar a adjudicação dos lotes, nos casos em que a aplicação dos critérios de adjudicação resulte na adjudicação a um proponente de um número de lotes superior ao número máximo fixado.
+
+3. Os Estados-Membros podem prever que, se puder ser adjudicado mais do que um lote ao mesmo proponente, as autoridades adjudicantes possam adjudicar contratos que combinem vários lotes ou a totalidade dos lotes se, no anúncio de concurso ou no convite à confirmação de interesse, tiverem especificado que se reservam a possibilidade de o fazer e indicado a forma como os lotes ou grupos de lotes podem ser combinados.
+
+4. Os Estados-Membros podem aplicar o n.o 1, segundo parágrafo, tornando obrigatória a adjudicação de contratos sob a forma de lotes separados, em condições a especificar em conformidade com o respetivo direito nacional e tendo em conta o direito da União. Nessas circunstâncias, aplicam-se igualmente o n.o 2, primeiro parágrafo, bem como, se for caso disso, o n.o 3.
+
+### Artigo 47.º — Fixação de prazos
+
+1. Ao fixarem os prazos de receção das propostas e dos pedidos de participação, as autoridades adjudicantes devem ter em conta a complexidade do contrato e o tempo necessário à elaboração das propostas, sem prejuízo dos prazos mínimos fixados nos artigos 27.o a 31.o.
+
+2. Quando as propostas só puderem ser apresentadas após visita às instalações ou consulta no local dos documentos complementares aos documentos do concurso, os prazos de receção das propostas, que devem ser mais longos do que os prazos mínimos fixados nos artigos 27.o a 31.o, devem ser fixados de modo a que todos os operadores económicos interessados possam tomar conhecimento de todas as informações necessárias para a elaboração das propostas.
+
+3. As autoridades adjudicantes devem prorrogar os prazos de receção das propostas por forma a que todos os operadores económicos interessados possam tomar conhecimento de todas as informações necessárias para a elaboração das propostas, nos seguintes casos:
+
+- a) Se, por qualquer motivo, quaisquer informações adicionais, embora solicitadas pelo operador económico em tempo útil, não tiverem sido fornecidas pelo menos seis dias antes da data-limite fixada para a receção das propostas. Em caso de procedimento acelerado, conforme referido no artigo 27.o, n.o 3, e no artigo 28.o, n.o 6, esse prazo é de quatro dias;
+
+- b) Se os documentos do concurso sofrerem modificações significativas.
+
+O prazo de prorrogação deve ser proporcional à importância da informação ou alteração.
+
+Caso as informações adicionais não tenham sido solicitadas em tempo útil ou caso a sua importância seja insignificante para a preparação de propostas pertinentes, as autoridades adjudicantes podem não prorrogar os prazos.
+
+## Secção 2 — Publicação e transparência
+
+### Artigo 48.º — Anúncios de pré-informação
+
+1. As autoridades adjudicantes podem dar a conhecer os seus concursos programados através da publicação de um anúncio de pré-informação. Estes anúncios incluirão as menções previstas na secção I do Anexo V, parte B. São publicados pelo Serviço de Publicações da União Europeia ou pelas autoridades adjudicantes no seu perfil de adquirente em conformidade com o Anexo VIII, ponto 2, alínea b). No caso de publicação de um anúncio de pré-informação, as autoridades adjudicantes enviam ao Serviço das Publicações da União Europeia um anúncio que refira a publicação daquele anúncio de pré-informação no seu perfil de adquirente em conformidade com o Anexo VIII. Esses anúncios devem conter as informações indicadas no Anexo V, parte A.
+
+2. Nos concursos limitados e nos procedimentos concorrenciais com negociação, as autoridades adjudicantes subcentrais podem, utilizar um anúncio de pré-informação como anúncio de concurso nos termos do artigo 26.o, n.o 5, desde que o anúncio preencha todas as seguintes condições:
+
+- a) Referir especificamente os fornecimentos, obras ou serviços que serão objeto do contrato a adjudicar;
+
+- b) Mencionar que o contrato será adjudicado mediante concurso limitado ou procedimento concorrencial com negociação, sem publicação posterior de um convite à apresentação de propostas, e convidar os operadores económicos a manifestarem o seu interesse;
+
+- c) Conter, além das menções previstas na secção I do Anexo V, parte B, as informações previstas na secção II desse Anexo;
+
+- d) Ter sido enviado para publicação entre 35 dias e doze meses antes da data de envio do convite a que se refere o artigo 54.o, n.o 1.
+
+Estes anúncios não são publicados num perfil de adquirente. Todavia, a publicação suplementar a nível nacional nos termos do artigo 52.o, se for caso disso, pode ser efetuada num perfil de adquirente.
+
+O período abrangido pelo anúncio de pré-informação não pode ser superior a doze meses a contar da data em que o anúncio é transmitido para publicação. Todavia, no caso dos contratos públicos de serviços sociais e outros serviços específicos, o anúncio de pré-informação a que se refere o artigo 75.o, n.o 1, alínea b), pode abranger um período superior a 12 meses.
+
+### Artigo 49.º — Anúncios de concurso
+
+Os anúncios de concurso devem ser utilizados como meio de abertura de concurso para todos os procedimentos, sem prejuízo do artigo 26.º, n.º 5, segundo parágrafo, e do artigo 32.º. Os anúncios de concurso incluem as menções previstas no Anexo V, parte C, e são publicados em conformidade com o artigo 51.º.
+
+### Artigo 50.º — Anúncios de adjudicação de contratos
+
+1. Num prazo máximo de 30 dias após a celebração de um contrato ou acordo-quadro na sequência da decisão de adjudicação ou de celebração do contrato, as autoridades adjudicantes enviam um anúncio de adjudicação do contrato com os resultados do concurso.
+
+Estes anúncios incluem as menções previstas no Anexo V, parte D, e são publicados nos termos do artigo 51.o.
+
+2. Caso a abertura do concurso em questão tenha sido efetuada sob a forma de anúncio de pré-informação e a autoridade adjudicante tenha decidido não adjudicar mais contratos durante o período abrangido por esse anúncio de pré-informação, o anúncio de adjudicação do contrato deve conter uma indicação específica nesse sentido.
+
+No caso dos acordos-quadro celebrados nos termos do artigo 33.o, as autoridades adjudicantes não são obrigadas a enviar um anúncio dos resultados do concurso em relação a cada contrato baseado num acordo desse tipo. Os Estados-Membros podem prever que as autoridades adjudicantes agrupem por trimestre os anúncios relativos aos resultados do concurso para contratos baseados no acordo-quadro. Nesse caso, as autoridades adjudicantes enviam os anúncios agrupados no prazo de 30 dias após o fim de cada trimestre.
+
+3. As autoridades adjudicantes enviam um anúncio de adjudicação do contrato no prazo de 30 dias a contar de cada adjudicação baseada num sistema de aquisição dinâmico. Podem, contudo, agrupar esses anúncios por trimestre. Nesse caso, enviam os anúncios agrupados o mais tardar 30 dias após o fim de cada trimestre.
+
+4. Certas informações relativas à adjudicação de um contrato ou à celebração de um acordo-quadro podem não ser publicadas caso a sua divulgação possa obstar à aplicação da lei, ser contrária ao interesse público, lesar os legítimos interesses comerciais de certos operadores económicos, públicos ou privados, ou prejudicar a concorrência leal entre eles.
+
+### Artigo 51.º — Redação e modalidades de publicação dos anúncios
+
+1. Os anúncios referidos nos artigos 48.o, 49.o e 50.o incluem as informações indicadas no Anexo V de acordo com o formato dos formulários-tipo, incluindo os formulários-tipo para retificações.
+
+A Comissão estabelece os formulários-tipo por meio de atos de execução. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 89.o, n.o 2.
+
+2. Os anúncios referidos nos artigos 48.o, 49.o e 50.o são elaborados, enviados por via eletrónica ao Serviço das Publicações da União Europeia e publicados em conformidade com o Anexo VIII. Os anúncios são publicados o mais tardar cinco dias após o seu envio. As despesas de publicação dos anúncios pelo Serviço de Publicações da União Europeia são suportadas pela União.
+
+3. Os anúncios referidos nos artigos 48.o, 49.o e 50.o são publicados na íntegra na língua ou línguas das instituições da União escolhidas pela autoridade adjudicante. Apenas faz fé o texto original nessa língua ou línguas. É publicado nas outras línguas das instituições da União um resumo dos elementos relevantes de cada anúncio.
+
+4. O Serviço das Publicações da União Europeia deve assegurar que o texto integral e o resumo dos anúncios de pré-informação referidos no artigo 48.o, n.o 2, e dos anúncios de concurso para a criação de um sistema de aquisição dinâmico referidos no artigo 34.o, n.o 4, alínea a), continuem a ser publicados:
+
+- a) No caso dos avisos de pré-informação, durante 12 meses ou até à receção de um aviso de adjudicação do contrato, como previsto no artigo 50.o, com a indicação de que não serão adjudicados mais contratos durante o período de 12 meses abrangido pelo anúncio de concurso. Todavia, no caso dos contratos públicos para serviços sociais e outros serviços específicos, o anúncio de pré-informação a que se refere o artigo 75.o, n.o 1, alínea b), continua a ser publicado até ao fim do prazo de validade inicialmente indicado ou até à receção de um anúncio de adjudicação de contrato, como previsto no artigo 50.o, indicando que mais nenhum contrato será adjudicado durante o período abrangido pelo anúncio de concurso;
+
+- b) No caso dos anúncios de concurso para a criação um sistema de aquisição dinâmico, durante o período de vigência do sistema de aquisição dinâmico.
+
+5. As autoridades adjudicantes devem estar em condições de provar a data de envio dos anúncios.
+
+O Serviço de Publicações da União Europeia confirma à autoridade adjudicante a receção do anúncio e a publicação das informações apresentadas, indicando a data dessa publicação. A referida confirmação constitui prova de que a publicação foi efetuada.
+
+6. As autoridades adjudicantes podem publicar anúncios que digam respeito a contratos públicos que não estejam sujeitos à exigência de publicação prevista na presente diretiva, devendo esses anúncios ser transmitidos ao Serviço das Publicações da União Europeia por via eletrónica segundo o formato e as modalidades de transmissão indicados no Anexo VIII.
+
+### Artigo 52.º — Publicação a nível nacional
+
+1. Os anúncios referidos nos artigos 48.o, 49.o e 50.o e a informação neles contida não são publicados a nível nacional antes da sua publicação nos termos do artigo 51.o. No entanto, a publicação pode, em qualquer caso, ter lugar a nível nacional caso as autoridades adjudicantes não tenham sido notificadas da publicação no prazo de 48 horas após a confirmação da receção do anúncio nos termos do artigo 51.o.
+
+2. Os anúncios publicados a nível nacional não podem incluir outras informações para além das contidas nos anúncios enviados ao Serviço de Publicações da União Europeia ou publicados num perfil de adquirente, e devem indicar a data do envio do anúncio para o Serviço de Publicações da União Europeia ou da sua publicação no perfil de adquirente.
+
+3. Os anúncios de pré-informação não podem ser publicados num perfil de adquirente antes do envio ao Serviço das Publicações da União Europeia do anúncio da sua publicação sob essa forma. Devem mencionar a data desse envio.
+
+### Artigo 53.º — Disponibilidade eletrónica dos documentos do concurso
+
+1. As autoridades adjudicantes oferecem, por via eletrónica, acesso livre, direto e completo aos documentos do concurso, a título gratuito, a partir da data de publicação do anúncio, em conformidade com o artigo 51.o, ou da data de envio do convite à confirmação de interesse. O aviso ou o convite à confirmação de interesse indicam o endereço na Internet em que os documentos de concurso se encontram disponíveis.
+
+Quando não pode ser oferecido o acesso livre, direto e completo, por via eletrónica e a título gratuito, a determinados documentos do concurso, por um dos motivos referidos no artigo 22.o, n.o 1, segundo parágrafo, as autoridades adjudicantes podem indicar no anúncio ou no convite à confirmação de interesse que os documentos em causa serão transmitidos por outros meios que não a via eletrónica em conformidade com o disposto no n.o 2 do presente artigo. Neste caso, o prazo para a apresentação de propostas é prorrogado por cinco dias, exceto nos casos de urgência devidamente fundamentada a que se referem o artigo 27.o, n.o 3, o artigo 28.o, n.o 6, e o artigo 29.o, n.o 1, quarto parágrafo.
+
+Quando não pode ser oferecido o acesso livre, direto e completo, por via eletrónica e a título gratuito, a certos documentos do concurso porque as autoridades adjudicantes tencionam aplicar o artigo 21.o, n.o 2, da presente diretiva, devem essas autoridades indicar no anúncio ou no convite à confirmação de interesse as medidas destinadas a proteger a natureza confidencial das informações que exigem e a forma como pode ser obtido o acesso aos documentos em causa. Neste caso, o prazo para a apresentação de propostas é prorrogado por cinco dias, exceto nos casos de urgência devidamente fundamentada a que se referem o artigo 27.o, n.o 3, o artigo 28.o, n.o 6, e o artigo 29.o, n.o 1, quarto parágrafo.
+
+2. As autoridades adjudicantes comunicam a todos os concorrentes que participam no procedimento informações adicionais sobre os cadernos de encargos e sobre os documentos complementares no prazo máximo de seis dias antes da data-limite fixada para a receção das propostas, desde que tais informações tenham sido solicitadas em tempo útil. Em caso de procedimento acelerado, conforme referido no artigo 27.o, n.o 3, e no artigo 28.o, n.o 6, esse prazo é de quatro dias.
+
+### Artigo 54.º — Convites aos candidatos
+
+1. Nos concursos limitados, nos procedimentos de diálogo concorrencial, nas parcerias para a inovação e nos procedimentos concorrenciais com negociação, as autoridades adjudicantes convidam simultaneamente e por escrito os candidatos selecionados a apresentar propostas ou, no caso do diálogo concorrencial, a participar no diálogo.
+
+Caso tenha sido utilizado um anúncio de pré-informação como anúncio de concurso nos termos do artigo 48.o, n.o 2, as autoridades adjudicantes convidam simultaneamente e por escrito os operadores económicos que manifestaram interesse a confirmarem que mantêm esse interesse.
+
+2. Os convites a que se refere o n.o 1 do presente artigo devem incluir uma referência ao endereço eletrónico onde os documentos do concurso se encontram diretamente disponíveis por via eletrónica. Os convites devem ser acompanhados dos documentos do concurso, sempre que esses documentos não tenham sido objeto de acesso livre, completo e direto, a título gratuito, pelas razões indicadas no artigo 53.o, n.o 1, segundo ou terceiro parágrafos, e não tenham sido já disponibilizados de outra forma. Além disso, os convites a que se refere o n.o 1 do presente artigo devem incluir as informações previstas no Anexo IX.
+
+### Artigo 55.º — Informação dos candidatos e dos proponentes
+
+1. As autoridades adjudicantes informam no mais breve prazo todos os candidatos e proponentes das decisões tomadas relativamente à celebração de um acordo-quadro, à adjudicação de um contrato ou à admissão num sistema de aquisição dinâmico, incluindo os motivos de qualquer eventual decisão no sentido de não celebrar um acordo-quadro ou de não adjudicar um contrato para o qual tenha sido aberto concurso, de recomeçar o procedimento ou de não implementar um sistema de aquisição dinâmico.
+
+2. A pedido do candidato ou do proponente, as autoridades adjudicantes comunicam, logo que possível e, em todo o caso, no prazo de 15 dias a contar da data de receção de um pedido por escrito:
+
+- a) Aos candidatos excluídos, os motivos da exclusão do seu pedido de participação;
+
+- b) Aos proponentes excluídos, os motivos da exclusão da sua proposta, incluindo, nos casos referidos no artigo 42.o, n.os 5 e 6, os motivos da sua decisão de não reconhecer a equivalência ou da sua decisão no sentido de que a obra, o fornecimento ou o serviço não cumprem os requisitos de desempenho ou os requisitos funcionais;
+
+- c) Aos proponentes que tiverem apresentado uma proposta admissível, as características e vantagens relativas da proposta selecionada, bem como o nome do adjudicatário ou das partes no acordo-quadro;
+
+- d) Aos proponentes que tiverem apresentado uma proposta admissível, informação sobre a condução e a evolução das negociações e do diálogo com os proponentes.
+
+3. As autoridades adjudicantes podem decidir não comunicar certas informações referidas nos n.os 1 e 2 relativas à adjudicação dos contratos, à celebração de acordos-quadro ou à admissão num sistema de aquisição dinâmico, quando a sua divulgação possa obstar à aplicação da lei, ser contrária ao interesse público, lesar os legítimos interesses comerciais de certos operadores económicos, públicos ou privados, ou prejudicar a concorrência leal entre eles.
+
+## Secção 3 — Seleção dos participantes e adjudicação dos contratos
+
+### Artigo 56.º — Princípios gerais
+
+1. Os contratos são adjudicados com base nos critérios estabelecidos em conformidade com os artigos 67.o a 69.o, desde que a autoridade adjudicante tenha verificado, em conformidade com os artigos 59.o a 61.o, que estão preenchidas todas as seguintes condições:
+
+- a) A proposta cumpre os requisitos, condições e critérios estabelecidos no anúncio de concurso ou no convite à confirmação de interesse, assim como nos documentos do concurso, tendo em conta, se for caso disso, o artigo 45.o;
+
+- b) A proposta foi apresentada por um proponente que não se encontra excluído em conformidade com o artigo 57.o e que cumpre os critérios de seleção estabelecidos pela autoridade adjudicante nos termos do artigo 58.o e, se for o caso, as regras e os critérios não discriminatórios a que se refere o artigo 65.o.
+
+As autoridades adjudicantes podem decidir não adjudicar um contrato ao proponente que apresente a proposta economicamente mais vantajosa, se tiverem determinado que a proposta não cumpre as obrigações aplicáveis a que se refere o artigo 18.o, n.o 2.
+
+2. No caso dos concursos abertos, as autoridades adjudicantes podem decidir analisar as propostas antes de verificarem a ausência de motivos de exclusão e o cumprimento dos critérios de seleção, em conformidade com os artigos 57.o a 64.o. Sempre que recorrerem a essa possibilidade, as autoridades adjudicantes devem assegurar que a verificação dos motivos de exclusão e dos critérios de seleção seja feita de forma imparcial e transparente, de modo a que nenhum contrato seja adjudicado a um proponente que deveria ter sido excluído ao abrigo do artigo 57.o ou que não satisfaça os critérios de seleção estabelecidos pela autoridade adjudicante.
+
+Os Estados-Membros podem excluir a utilização do procedimento a que se refere o primeiro parágrafo ou limitá-la a certos tipos de contratos ou a circunstâncias específicas.
+
+3. Quando a informação ou documentação a apresentar pelos operadores económicos for ou parecer incompleta ou incorreta, ou quando faltarem documentos específicos, as autoridades adjudicantes podem, salvo disposição em contrário da legislação nacional que der execução à presente diretiva, solicitar aos operadores económicos em causa que apresentem, acrescentem, clarifiquem ou completem a informação ou documentação pertinentes num prazo adequado, desde que tal seja solicitado no respeito integral dos princípios da igualdade de tratamento e da transparência.
+
+4. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 87.o, no que diz respeito à alteração da lista constante do Anexo X, sempre que necessário, para aditar novos acordos internacionais que tenham sido ratificados por todos os Estados-Membros, ou sempre que os acordos internacionais em vigor deixem de ser ratificados por todos os Estados-Membros ou sejam alterados de outra forma, por exemplo no que respeita ao âmbito de aplicação, conteúdo ou denominação.
+
+## Subsecção 1 — Critérios de seleção qualitativa
+
+### Artigo 57.º — Motivos de exclusão
+
+1. As autoridades adjudicantes devem excluir um operador económico da participação num procedimento de contratação se tiverem determinado, mediante verificação em conformidade com os artigos 59.o, 60.o e 61.o, ou se de qualquer outro modo tiverem conhecimento de que esse operador económico foi condenado por decisão final transitada em julgado com fundamento num dos seguintes motivos:
+
+- a) Participação numa organização criminosa, tal como definida no artigo 2.o da Decisão-Quadro 2008/841/JAI do Conselho ([^11]);
+
+- b) Corrupção, tal como definida no artigo 3.o da Convenção relativa à luta contra a corrupção em que estejam implicados funcionários da União Europeia ou dos Estados-Membros da União Europeia ([^12]) e no artigo 2.o, n.o 1, da Decisão-Quadro 2003/568/JAI do Conselho ([^13]), ou ainda na aceção da legislação nacional da autoridade adjudicante ou do operador económico;
+
+- c) Fraude, na aceção do artigo 1.o da Convenção relativa à Proteção dos Interesses Financeiros das Comunidades Europeias ([^14]);
+
+- d) Infrações terroristas ou infrações relacionadas com atividades terroristas, tal como definidas, respetivamente, no artigo 1.o e no artigo 3.o da Decisão-Quadro 2002/475/JAI do Conselho ([^15]), ou ainda instigação, cumplicidade ou tentativa de infração nos termos do artigo 4.o da referida decisão-quadro;
+
+- e) Branqueamento de capitais ou financiamento do terrorismo, tal como definidos no artigo 1.o da Diretiva 2005/60/CE do Parlamento e do Conselho ([^16]);
+
+- f) Trabalho infantil e outras formas de tráfico de seres humanos, tal como definidos no artigo 2.o da Diretiva 2011/36/UE do Parlamento Europeu e do Conselho ([^17]).
+
+A obrigação de excluir um operador económico aplica-se também caso a pessoa condenada por decisão final transitada em julgado seja membro dos órgãos administrativos, de direção ou de supervisão desse operador económico ou tenha poderes de representação, decisão ou controlo nesses órgãos.
+
+2. Um operador económico fica excluído da participação num procedimento de contratação se a autoridade adjudicante tiver conhecimento de que não cumpriu as suas obrigações em matéria de pagamento de impostos ou contribuições para a segurança social e se tal tiver sido determinado por decisão judicial ou administrativa transitada em julgado e com efeito vinculativo de acordo com as disposições legais do país onde se encontra estabelecido ou do Estado-Membro da autoridade adjudicante.
+
+Além disso, as autoridades adjudicantes podem excluir ou podem ser solicitadas pelos Estados-Membros a excluir da participação num procedimento de contratação um operador económico quando a autoridade adjudicante possa demonstrar, por qualquer meio adequado, que o operador económico não cumpriu as suas obrigações relativas ao pagamento de impostos ou de contribuições para a segurança social.
+
+O presente número deixa de ser aplicável quando o operador económico tiver cumprido as suas obrigações pagando ou celebrando um acordo vinculativo com vista a pagar os impostos ou contribuições para a segurança social em atraso, incluindo, se for caso disso, os eventuais juros acrescidos ou multas.
+
+3. Os Estados-Membros podem prever uma derrogação à exclusão obrigatória prevista nos n.os 1 e 2, a título excecional, por razões imperiosas de interesse público, como a saúde pública ou a proteção do ambiente.
+
+Os Estados-Membros podem igualmente prever uma derrogação à exclusão obrigatória prevista no n.o 2, caso a exclusão se afigure manifestamente desproporcionada, nomeadamente: quando se trata apenas de pequenos montantes de impostos ou contribuições para a segurança social que não foram pagos; ou quando o operador económico foi informado do montante exato da sua dívida (por incumprimento das suas obrigações de pagamento de impostos ou de contribuições para a segurança social) num momento em que não podia tomar as medidas previstas no n.o 2, terceiro parágrafo, antes de expirado o prazo de apresentação do pedido de participação ou, nos concursos públicos, o prazo de apresentação da proposta.
+
+4. As autoridades adjudicantes podem excluir ou podem ser solicitadas pelos Estados-Membros a excluir um operador económico da participação num procedimento de contratação, numa das seguintes situações:
+
+- a) Se a autoridade adjudicante puder demonstrar, por qualquer meio adequado, o incumprimento das obrigações aplicáveis a que se refere o artigo 18.o, n.o 2;
+
+- b) Se o operador económico tiver sido declarado em estado de insolvência ou em processo de insolvência, se os seus bens estiverem sob administração judicial ou por um liquidatário, se tiver celebrado um acordo com os credores, se as suas atividades estiverem suspensas ou se encontrarem em qualquer situação análoga resultante de um processo da mesma natureza nos termos da legislação e regulamentação nacionais;
+
+- c) Se a autoridade adjudicante puder demonstrar, por qualquer meio adequado, que o operador económico cometeu qualquer falta profissional grave que põe em causa a sua idoneidade;
+
+- d) Se a autoridade adjudicante tiver indícios suficientemente plausíveis para concluir que o operador económico celebrou acordos com outros operadores económicos com o objetivo de distorcer a concorrência;
+
+- e) Se houver um conflito de interesses, na aceção do artigo 24.o, que não possa ser eficazmente corrigido por outras medidas, menos invasivas;
+
+- f) Se houver uma distorção da concorrência decorrente da participação dos operadores económicos na preparação do procedimento de contratação, a que se refere o artigo 41.o, que não possa ser corrigida por outras medidas, menos invasivas;
+
+- g) Se o operador económico tiver acusado deficiências significativas ou persistentes na execução de um requisito essencial no âmbito de um contrato público anterior, um anterior contrato com uma autoridade adjudicante ou um anterior contrato de concessão, tendo tal facto conduzido à rescisão antecipada desse anterior contrato, à condenação por danos ou a outras sanções comparáveis;
+
+- h) Se o operador económico tiver sido considerado responsável por declarações falsas ao prestar as informações requeridas para a verificação da ausência de motivos de exclusão ou o cumprimento dos critérios de seleção, tiver retido essas informações ou não puder apresentar os documentos comprovativos exigidos nos termos do artigo 59.o; ou
+
+- i) Se o operador económico tiver diligenciado no sentido de influenciar indevidamente o processo de tomada de decisão da autoridade adjudicante, de obter informações confidenciais suscetíveis de lhe conferir vantagens indevidas no concurso, ou tiver prestado, com negligência, informações erróneas suscetíveis de influenciar materialmente as decisões relativas à exclusão, seleção ou adjudicação.
+
+Não obstante a alínea b) do primeiro parágrafo, os Estados-Membros podem exigir ou prever a possibilidade de a autoridade adjudicante não excluir um operador económico que esteja numa das situações referidas nessa alínea, caso a autoridade adjudicante tenha determinado que o operador económico em causa será capaz de executar o contrato, tendo em conta as regras e medidas nacionais aplicáveis à continuação da atividade em situações a que se refere a alínea b).
+
+5. As autoridades adjudicantes devem, a qualquer momento do procedimento, excluir um operador económico quando se verificar que o operador económico em causa, tendo em conta atos cometidos ou omitidos antes ou durante o procedimento, se encontra numa das situações referidas nos n.os 1 e 2.
+
+A qualquer momento do procedimento, as autoridades adjudicantes podem excluir, ou ser solicitadas pelos Estados-Membros a excluir, um operador económico quando se verificar que o operador económico em causa, tendo em conta atos cometidos ou omitidos antes ou durante o procedimento, se encontra numa das situações referidas no n.o 4.
+
+6. Qualquer operador económico que se encontre numa das situações referidas nos n.os 1 e 4 pode fornecer provas de que as medidas por si tomadas são suficientes para demonstrar a sua fiabilidade não obstante a existência de uma importante causa de exclusão. Se essas provas forem consideradas suficientes, o operador económico em causa não é excluído do procedimento de contratação.
+
+Para o efeito, o operador económico deve provar que ressarciu ou que tomou medidas para ressarcir eventuais danos causados pela infração penal ou pela falta grave, esclareceu integralmente os factos e as circunstâncias através de uma colaboração ativa com as autoridades responsáveis pelo inquérito e tomou as medidas concretas técnicas, organizativas e de pessoal adequadas para evitar outras infrações penais ou faltas graves.
+
+As medidas tomadas pelos operadores económicos são avaliadas tendo em conta a gravidade e as circunstâncias específicas da infração penal ou falta cometida. Caso as medidas sejam consideradas insuficientes, o operador económico recebe uma exposição dos motivos dessa decisão.
+
+Um operador económico que tenha sido excluído, por decisão transitada em julgado, de participar em procedimentos de contratação pública ou concessão não pode recorrer à possibilidade prevista no presente número durante o período de exclusão resultante dessa decisão nos Estados-Membros onde esta produz efeitos.
+
+7. Os Estados-Membros devem especificar as condições de aplicação do presente artigo por meio de disposições legislativas, regulamentares ou administrativas e tendo em conta o direito da União. Devem, em particular, determinar o período máximo de exclusão no caso de o operador económico não ter tomado medidas, como as especificadas no n.o 6, para demonstrar a sua fiabilidade. Se o período de exclusão não tiver sido fixado por decisão transitada em julgado, esse prazo não pode ser superior a cinco anos a contar da data da condenação por decisão transitada em julgado nos casos referidos no n.o 1 e três anos a contar da data do facto pertinente nos casos referidos no n.o 4.
+
+### Artigo 58.º — Critérios de seleção
+
+1. Os critérios de seleção podem estar relacionados com:
+
+- a) A habilitação para o exercício da atividade profissional;
+
+- b) A capacidade económica e financeira;
+
+- c) A capacidade técnica e profissional.
+
+As autoridades adjudicantes só podem impor aos operadores económicos os critérios referidos nos n.os 2, 3 e 4 a título de condições de participação. As autoridades adjudicantes limitam as condições às que são adequadas para assegurar que um candidato ou proponente disponha da capacidade legal e financeira e das habilitações técnicas e profissionais necessárias para cumprir o contrato a adjudicar. Todos os requisitos devem estar ligados e ser proporcionais ao objeto do contrato.
+
+2. No que se refere à habilitação para o exercício da atividade profissional, as autoridades adjudicantes podem exigir que os operadores económicos estejam inscritos num dos registos profissionais ou comerciais no seu Estado-Membro de estabelecimento, tal como descrito no Anexo XI, ou cumpram qualquer outro requisito estabelecido nesse anexo.
+
+Nos concursos de aquisição de serviços, se os operadores económicos tiverem de possuir uma autorização especial ou de ser membros de uma determinada organização para poderem executar o serviço em causa no seu país de origem, a autoridade adjudicante pode exigir-lhes prova da posse dessa autorização ou da sua qualidade de membros da referida organização.
+
+3. No que se refere à capacidade económica e financeira, as autoridades adjudicantes podem impor requisitos destinados a assegurar que os operadores económicos disponham da capacidade económica e financeira necessária para executar o contrato. Para esse efeito, as autoridades adjudicantes podem exigir, nomeadamente, que os operadores económicos tenham um determinado volume de negócios anual mínimo, designadamente no domínio abrangido pelo contrato. Além disso, as autoridades adjudicantes podem exigir que os operadores económicos forneçam informações sobre as suas contas anuais apresentando, por exemplo, o rácio entre ativos e passivos. Podem também exigir um nível adequado de seguro contra riscos profissionais.
+
+O volume de negócios anual mínimo que é exigido aos operadores económicos não pode exceder o dobro do valor estimado do contrato, salvo em casos devidamente justificados como os que se prendem com os riscos especiais associados à natureza das obras, serviços ou fornecimentos. A autoridade adjudicante indica as principais razões de tal exigência nos documentos do concurso ou no relatório individual referido no artigo 84.o.
+
+Por exemplo, o rácio entre ativos e passivos pode ser tido em consideração quando a autoridade adjudicante especifica os métodos e critérios para tal consideração nos documentos do concurso. Tais métodos e critérios devem ser transparentes, objetivos e não discriminatórios.
+
+Caso um contrato seja dividido em lotes, o presente artigo é aplicável em relação a cada lote. No entanto, a autoridade adjudicante pode estipular o volume de negócios anual mínimo exigido aos operadores económicos por referência a grupos de lotes, caso sejam adjudicados a um mesmo adjudicatário vários lotes para execução simultânea.
+
+Em caso de adjudicação de contratos com base num acordo-quadro na sequência da abertura de novo concurso, o requisito relativo ao volume de negócios anual máximo a que se refere o segundo parágrafo do presente número é calculado com base na dimensão máxima prevista dos contratos específicos que serão executados em simultâneo ou, caso essa informação não seja conhecida, com base no valor estimado do acordo-quadro. No caso dos sistemas de aquisição dinâmicos, o requisito do volume de negócios anual máximo referido no segundo parágrafo é calculado com base na dimensão máxima prevista dos contratos específicos a adjudicar no âmbito desse sistema.
+
+4. No que respeita à capacidade técnica e profissional, as autoridades adjudicantes podem impor requisitos de molde a assegurar que os operadores económicos disponham dos recursos humanos e técnicos e da experiência necessários para assegurar um nível de qualidade adequado na execução do contrato.
+
+As autoridades adjudicantes podem exigir, em especial, que os operadores económicos tenham um nível suficiente de experiência, comprovado por referências adequadas de contratos executados no passado. As autoridades adjudicantes podem partir do princípio de que um operador económico não possui as capacidades profissionais exigidas caso tenha concluído que o operador económico em questão se encontra numa situação de conflito de interesses suscetível de afetar negativamente a execução do contrato.
+
+Nos concursos para a aquisição de fornecimentos que impliquem operações de montagem ou instalação, a prestação de serviços ou a execução de obras, a capacidade profissional do operador económico para prestar o serviço ou executar a instalação ou a obra em causa pode ser apreciada em função das suas capacidades, eficiência, experiência e fiabilidade.
+
+5. As autoridades adjudicantes indicam no anúncio de concurso ou no convite à confirmação de interesse as condições de participação exigidas, que poderão ser expressas como níveis mínimos de capacidade, juntamente com os meios de prova adequados.
+
+### Artigo 59.º — Documento Europeu Único de Contratação Pública
+
+1. No momento da apresentação dos pedidos de participação ou das propostas, as autoridades adjudicantes devem aceitar o Documento Europeu Único de Contratação Pública (DEUCP), constituído por uma declaração sob compromisso de honra atualizada, como elemento de prova preliminar, em substituição dos certificados emitidos por autoridades públicas ou por terceiros, confirmando que o operador económico em causa satisfaz qualquer uma das seguintes condições:
+
+- a) Não se encontra numa das situações referidas no artigo 57.o, que determinam a exclusão obrigatória ou facultativa dos operadores económicos;
+
+- b) Cumpre os critérios de seleção relevantes que foram estabelecidos nos termos do artigo 58.o;
+
+- c) Se for o caso, cumpre as regras e critérios objetivos estabelecidos nos termos do artigo 65.o.
+
+Caso o operador económico recorra às capacidades de outras entidades em conformidade com o artigo 63.o, o DEUCP deve igualmente incluir as informações mencionadas no primeiro parágrafo do presente número no que respeita àquelas entidades.
+
+O DEUCP consiste numa declaração formal do operador económico segundo a qual o motivo de exclusão relevante não se aplica e/ou o critério de seleção relevante se encontra preenchido, e fornece as informações pertinentes exigidas pela autoridade adjudicante. O DEUCP identifica ainda a autoridade pública ou o terceiro responsável pela emissão dos documentos comprovativos e inclui uma declaração formal segundo a qual o operador económico poderá, mediante pedido e sem demora, apresentar esses documentos comprovativos.
+
+Caso a autoridade adjudicante possa obter os documentos comprovativos diretamente numa base de dados, nos termos do n.o 5, o DEUCP deve igualmente incluir as informações necessárias para o efeito, tais como o endereço Internet da base de dados, os dados de identificação e, se for caso disso, a necessária declaração de consentimento.
+
+Os operadores económicos podem reutilizar o DEUCP que já tenha sido utilizado num procedimento de contratação anterior, desde que confirmem que as informações nele contidas se mantêm corretas.
+
+2. O DEUCP é elaborado com base num formulário-tipo, a ser estabelecido pela Comissão por meio de atos de execução. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 89.o, n.o 3.
+
+O DEUCP deve ser fornecido exclusivamente em formato eletrónico.
+
+3. Não obstante o disposto no artigo 92.o, a Comissão deve analisar a aplicação prática do DEUCP, tendo em conta o desenvolvimento técnico das bases de dados dos Estados-Membros, e apresentar um relatório nessa matéria ao Parlamento Europeu e ao Conselho até 18 de abril de 2017.
+
+Se necessário, a Comissão deve apresentar propostas de soluções que otimizem o acesso transfronteiras a essa base de dados e a utilização de certificados e atestados no mercado interno.
+
+4. A autoridade adjudicante pode solicitar aos proponentes e candidatos a apresentação da totalidade ou de parte dos documentos comprovativos, a qualquer momento do procedimento, se entender que tal é necessário para assegurar a correta tramitação do procedimento.
+
+Antes da adjudicação do contrato, a autoridade adjudicante deve, exceto no que respeita aos contratos baseados em acordos-quadro, quando esses contratos sejam celebrados nos termos do artigo 33.o, n.o 3, ou n.o 4, alínea a), exigir que o proponente ao qual decidiu adjudicar o contrato apresente os documentos comprovativos atualizados em conformidade com o artigo 60.o e, se for caso disso, com o artigo 62.o. A autoridade adjudicante pode convidar os operadores económicos a complementar ou a explicitar os certificados recebidos em conformidade com os artigos 60.o e 62.o.
+
+5. Não obstante o disposto no n.o 4, os operadores económicos não são obrigados a apresentar documentos comprovativos ou outras provas documentais se, e na medida em que, a autoridade adjudicante tiver a possibilidade de obter diretamente os certificados ou as informações pertinentes numa base de dados nacional de acesso gratuito de qualquer Estado-Membro tais como um registo dos contratos públicos nacionais, um ficheiro virtual da empresa, um sistema de armazenamento eletrónico de documentos ou um sistema de pré-qualificação.
+
+Não obstante o disposto no n.o 4, não pode ser exigido aos operadores económicos que apresentem documentos comprovativos caso a autoridade adjudicante que adjudicou o contrato ou celebrou o acordo-quadro tenha já na sua posse esses documentos.
+
+Para efeitos do disposto no primeiro parágrafo, os Estados-Membros devem assegurar que as bases de dados que contenham informações pertinentes sobre os operadores económicos e que possam ser consultadas pelas suas autoridades adjudicantes também possam ser consultadas, nas mesmas condições, pelas autoridades adjudicantes dos outros Estados-Membros.
+
+6. Os Estados-Membros devem disponibilizar e manter atualizada no e-Certis uma lista exaustiva das bases de dados com informações relevantes sobre os operadores económicos que possam ser consultadas pelas autoridades adjudicantes dos outros Estados-Membros. Quando solicitados a fazê-lo, os Estados-Membros colocam à disposição dos outros Estados-Membros as informações relacionadas com as bases de dados referidas no presente artigo.
+
+### Artigo 60.º — Meios de prova
+
+1. As autoridades adjudicantes podem exigir os certificados, declarações e outros meios de prova referidos nos n.os 2, 3 e 4 do presente artigo e no Anexo XII como prova de ausência de motivos de exclusão nos termos do artigo 57.o, e prova de cumprimento dos critérios de seleção em conformidade com o artigo 58.o.
+
+As autoridades adjudicantes não podem exigir meios de prova que não os referidos no presente artigo e no artigo 62.o. No que respeita ao artigo 63.o, os operadores económicos podem recorrer a qualquer meio adequado para comprovar perante a autoridade adjudicante que têm ao seu dispor os recursos necessários.
+
+2. As autoridades adjudicantes aceitam, como prova bastante de que o operador económico não se encontra abrangido por nenhum dos casos referidos no artigo 57.o:
+
+- a) Relativamente aos casos previstos no n.o 1 daquele artigo, a apresentação de um certificado do registo relevante, nomeadamente do registo criminal ou, na sua ausência, de documento equivalente emitido pela autoridade judicial ou administrativa competente do Estado-Membro ou do país de origem no qual o operador económico tem a sua sede social, do qual resulte que aqueles requisitos se encontram preenchidos;
+
+- b) Relativamente aos casos previstos no n.o 2 e no n.o 4, alínea b), daquele artigo, um certificado emitido pela autoridade competente do Estado-Membro ou do país em causa.
+
+Se o Estado-Membro ou o país em causa não emitir os documentos ou certificados ou se estes não se referirem a todos os casos mencionados no artigo 57.o, n.os 1 e 2 e n.o 4, alínea b), podem os mesmos ser substituídos por uma declaração sob compromisso de honra ou, nos Estados-Membros ou países onde não exista tal tipo de declaração, por declaração solene feita pelo interessado perante a autoridade judicial ou administrativa competente, um notário ou um organismo profissional qualificado do Estado-Membro ou do seu país de origem ou do Estado-Membro ou país no qual o operador económico tem a sua sede.
+
+Um Estado-Membro deve, se for caso disso, fazer uma declaração oficial segundo a qual os documentos ou certificados referidos no presente número não são emitidos ou não abrangem todos os casos previstos no artigo 57.o, n.os 1 e 2 e n.o 4, alínea b). Estas declarações oficiais devem ser disponibilizadas através do repositório em linha de certificados (e-Certis) referido no artigo 61.o.
+
+3. A prova da capacidade económica e financeira do operador económico pode ser feita, regra geral, por uma ou mais das referências enunciadas no Anexo XII, parte I.
+
+Se, por motivo fundamentado, o operador económico não puder apresentar as referências pedidas pela autoridade adjudicante, poderá provar a sua capacidade económica e financeira por qualquer outro documento que a autoridade adjudicante considere adequado.
+
+4. A capacidade técnica dos operadores económicos pode ser comprovada por um ou mais dos meios enunciados no Anexo XII, parte II, de acordo com a natureza, a quantidade ou a importância e a finalidade das obras, fornecimentos ou serviços.
+
+5. Mediante pedido, os Estados-Membros disponibilizam aos outros Estados-Membros toda a informação relativa aos motivos de exclusão enumerados no artigo 57.o, à habilitação para o exercício da atividade profissional e às capacidades financeiras e técnicas dos proponentes a que se refere o artigo 58.o, bem como todas as informações relativas aos meios de prova a que se refere o presente artigo.
+
+### Artigo 61.º — Base de dados de certificados (e-Certis)
+
+1. Com vista a facilitar a apresentação de propostas transfronteiras, os Estados-Membros asseguram a atualização permanente da informação relativa a certificados e a outros documentos comprovativos que tenham sido introduzidos no e-Certis criado pela Comissão.
+
+2. As autoridades adjudicantes devem recorrer ao e-Certis e solicitar primeiramente os tipos de certificados ou provas documentais abrangidos por este sistema.
+
+3. A Comissão disponibiliza no e-Certis todas as versões linguísticas do DEUCP.
+
+### Artigo 62.º — Normas de garantia de qualidade e normas de gestão ambiental
+
+1. Caso exijam a apresentação de certificados emitidos por organismos independentes que atestem que o operador económico satisfaz determinadas normas de garantia de qualidade, nomeadamente de acessibilidade para pessoas com deficiência, as autoridades adjudicantes devem remeter para sistemas de garantia de qualidade baseados em séries de normas europeias pertinentes e certificados por organismos acreditados. As autoridades adjudicantes devem reconhecer os certificados equivalentes de organismos estabelecidos noutros Estados-Membros. Devem igualmente aceitar outras provas de medidas de garantia da qualidade equivalentes caso o operador económico em causa não tenha qualquer possibilidade de obter esses certificados dentro dos prazos estabelecidos por razões que não lhe são imputáveis, desde que o operador económico prove que as medidas de garantia de qualidade propostas obedecem às normas de garantia de qualidade exigidas.
+
+2. Caso as autoridades adjudicantes exijam a apresentação de certificados emitidos por organismos independentes que atestem que o operador económico respeita determinados sistemas ou normas de gestão ambiental, devem reportar-se ao sistema de ecogestão e auditoria da União (EMAS), a outros sistemas de gestão ambiental reconhecidos em conformidade com o artigo 45.o do Regulamento (CE) n.º 1221/2009 ou a outras normas de gestão ambiental baseadas em normas europeias ou internacionais pertinentes de organismos acreditados. As autoridades adjudicantes devem reconhecer os certificados equivalentes de organismos estabelecidos noutros Estados-Membros.
+
+Se o operador económico não tiver comprovadamente acesso aos referidos certificados nem possibilidade de os obter dentro dos prazos estabelecidos, por razões que não lhe sejam imputáveis, a autoridade adjudicante deve aceitar outros meios de prova de medidas de gestão ambiental, desde que o operador económico prove que essas medidas são equivalentes às exigidas no âmbito do sistema de gestão ambiental aplicável ou que são normalizadas.
+
+3. Quando solicitados a fazê-lo, os Estados-Membros colocam à disposição dos outros Estados-Membros, em conformidade com o artigo 86.o, as informações relacionadas com os documentos comprovativos do respeito das normas de qualidade e ambientais referidas nos n.os 1 e 2.
+
+### Artigo 63.º — Recurso às capacidades de outras entidades
+
+1. No que respeita aos critérios relativos à situação económica e financeira referidos no artigo 58.o, n.o 3, e aos critérios relativos à capacidade técnica e profissional referidos no artigo 58.o, n.o 4, um operador económico pode, se necessário e para um contrato determinado, recorrer às capacidades de outras entidades, independentemente da natureza jurídica do vínculo que tenha com elas. Porém, no que respeita aos critérios relativos às habilitações literárias e qualificações profissionais referidos no Anexo XII, Parte II, alínea f), ou à experiência profissional relevante, os operadores económicos só podem recorrer às capacidades de outras entidades quando estas últimas assegurem a execução da empreitada de obras ou o fornecimento dos serviços para os quais são exigidas essas capacidades. Quando pretenda recorrer às capacidades de outras entidades, o operador económico deve provar à autoridade adjudicante que irá dispor dos recursos necessários, por exemplo através da apresentação de uma declaração de compromisso dessas entidades para o efeito.
+
+A autoridade adjudicante deve, em conformidade com os artigos 59.o, 60 e 61.o, verificar se as entidades a que o operador económico pretende recorrer cumprem os critérios de seleção relevantes e se existem motivos de exclusão nos termos do artigo 57.o. A autoridade adjudicante deve exigir que o operador económico substitua uma entidade que não cumpra um critério de seleção relevante ou em relação à qual existam motivos de exclusão obrigatórios. A autoridade adjudicante pode exigir ou o Estado-Membro pode determinar que esta exija que o operador económico substitua uma entidade em relação à qual existam motivos de exclusão não obrigatórios.
+
+Quando um operador económico recorre às capacidades de outras entidades no que respeita aos critérios relativos à situação económica e financeira, a autoridade adjudicante pode exigir que o operador económico e essas entidades sejam solidariamente responsáveis pela execução do contrato.
+
+Nas mesmas condições, um agrupamento de operadores económicos, tal como referido no artigo 19.o, n.o 2, pode recorrer às capacidades dos participantes no agrupamento ou de outras entidades.
+
+2. No caso dos contratos de empreitada de obras, dos contratos de serviços ou de operações de montagem ou instalação no quadro de um contrato de fornecimento, as autoridades adjudicantes possam exigir que determinadas tarefas críticas sejam executadas pelo próprio proponente ou, se a proposta for apresentada por um agrupamento de operadores económicos na aceção do artigo 19.o, n.o 2, por um participante no agrupamento.
+
+### Artigo 64.º — Listas oficiais de operadores económicos aprovados e certificação por organismos de direito público ou privado
+
+1. Os Estados-Membros podem instituir ou manter listas oficiais de empreiteiros, fornecedores ou prestadores de serviços aprovados ou prever uma certificação por organismos de certificação públicos ou privados que cumpram as normas de certificação europeia na aceção do Anexo VII.
+
+Os Estados-Membros comunicam à Comissão e aos restantes Estados-Membros o endereço do organismo de certificação ou do organismo responsável pelas listas oficiais, para o qual devem ser enviados os pedidos.
+
+2. Os Estados-Membros devem adaptar as condições de inscrição nas listas oficiais referidas no n.o 1, assim como as condições para a emissão de certificados pelos organismos de certificação, às disposições da presente subsecção.
+
+Os Estados-Membros devem igualmente adaptar essas condições ao artigo 63.o para os pedidos de inscrição apresentados por operadores económicos integrados num agrupamento e que façam valer meios postos à sua disposição pelas outras empresas do agrupamento. Nestes casos, tais operadores devem provar à autoridade que estabelece a lista oficial que irão dispor desses meios durante todo o período de validade do certificado que atesta a sua inscrição na lista oficial e que essas empresas continuarão a preencher, durante o mesmo período, os requisitos qualitativos de seleção previstos na lista oficial ou certificado que os operadores utilizaram para a respetiva inscrição.
+
+3. Os operadores económicos inscritos nas listas oficiais ou que disponham de um certificado podem apresentar à autoridade adjudicante, para cada contrato, um certificado de inscrição passado pela autoridade competente ou o certificado emitido pelo organismo competente de certificação.
+
+Estes certificados devem indicar as referências que permitiram a inscrição dos operadores económicos na lista oficial ou a obtenção da certificação, assim como a classificação que lhes é atribuída nessa lista.
+
+4. A inscrição em listas oficiais comprovada pelas entidades competentes ou um certificado emitido por um organismo de certificação constituem uma presunção de aptidão relativamente aos requisitos de seleção qualitativos previstos na lista ou certificado.
+
+5. As informações que possam ser obtidas a partir da inscrição na lista oficial ou da certificação não podem ser contestadas sem justificação. No que diz respeito ao pagamento das contribuições para a segurança social e ao pagamento de impostos, pode ser exigido um certificado suplementar a qualquer operador económico inscrito para cada contrato a adjudicar.
+
+As autoridades adjudicantes de outros Estados-Membros só podem aplicar o n.o 3 e o primeiro parágrafo do presente número em benefício dos operadores económicos estabelecidos no Estado-Membro que elaborou a lista oficial.
+
+6. Os requisitos qualitativos de seleção previstos na lista oficial ou certificado devem respeitar o artigo 60.o e, se for o caso, o artigo 62.o. Para a inscrição de operadores económicos de outros Estados Membros numa lista oficial ou para a sua certificação, não pode ser exigida nenhuma prova ou declaração para além das exigidas aos operadores económicos nacionais.
+
+Os operadores económicos podem solicitar a qualquer momento a sua inscrição numa lista oficial ou a emissão de um certificado. Devem ser informados, num prazo razoavelmente curto, da decisão da autoridade que elabora a lista oficial ou do organismo de certificação competente.
+
+7. Essa inscrição ou certificação não pode ser imposta aos operadores económicos dos outros Estados-Membros com vista à sua participação num concurso público. As autoridades adjudicantes devem reconhecer os certificados equivalentes de organismos estabelecidos noutros Estados-Membros. Devem igualmente aceitar outros meios de prova equivalentes.
+
+8. Quando solicitados a fazê-lo, os Estados-Membros colocam à disposição dos outros Estados-Membros as informações relacionadas com os documentos comprovativos de que os operadores económicos respeitam os requisitos exigidos para a inscrição na lista oficial de operadores económicos aprovados ou de que os operadores económicos de outros Estados-Membros dispõem de certificação equivalente.
+
+## Subsecção 2 — Redução do número de candidatos, propostas e soluções
+
+### Artigo 65.º — Redução do número de candidatos qualificados que são convidados a participar
+
+1. Nos concursos limitados, nos procedimentos de concurso com negociação, no diálogo concorrencial e nas parcerias para a inovação, as autoridades adjudicantes podem restringir o número de candidatos que satisfazem os critérios de seleção que irão convidar a concorrer ou a iniciar um diálogo, desde que exista um número mínimo, em conformidade com o disposto no n.o 2, de candidatos qualificados.
+
+2. As autoridades adjudicantes indicam no anúncio de concurso ou no convite à confirmação de interesse as regras e critérios objetivos e não discriminatórios que pretendem aplicar, assim como o número mínimo e, eventualmente, o número máximo de candidatos que preveem convidar.
+
+Nos concursos limitados, o número mínimo de candidatos não pode ser inferior a cinco. Nos procedimentos concorrenciais com negociação, no procedimento de diálogo concorrencial e nas parcerias para a inovação, o número mínimo de candidatos não pode ser inferior a três. Em qualquer caso, o número de candidatos convidados deve ser suficiente para garantir uma concorrência real.
+
+As autoridades adjudicantes convidam um número de candidatos pelo menos igual ao número mínimo. No entanto, se o número de candidatos que satisfazem os critérios de seleção e os níveis mínimos de capacidade referidos no artigo 58.o, n.o 5, for inferior ao número mínimo, a autoridade adjudicante pode prosseguir o procedimento convidando os candidatos com as capacidades exigidas. No âmbito do mesmo procedimento, a autoridade adjudicante não pode incluir operadores económicos que não se tenham candidatado, nem candidatos que não possuam as capacidades exigidas.
+
+### Artigo 66.º — Redução do número de propostas e soluções
+
+Quando as autoridades adjudicantes recorrerem à faculdade de reduzir o número de propostas a negociar, conforme previsto no artigo 29.o, n.o 6, ou de reduzir as soluções a debater, conforme previsto no artigo 30.o, n.o 4, procedem a essa redução aplicando os critérios de adjudicação indicados nos documentos do concurso. O número a que se chegar na fase final deve permitir assegurar uma concorrência real, desde que o número proponentes, de soluções ou de candidatos qualificados seja suficiente.
+
+## Subsecção 3 — Adjudicação do contrato
+
+### Artigo 67.º — Critérios de adjudicação
+
+1. Sem prejuízo das disposições legislativas, regulamentares ou administrativas nacionais relativas ao preço de certos fornecimentos ou à remuneração de determinados serviços, as autoridades adjudicantes devem adjudicar os contratos públicos com base no critério da proposta economicamente mais vantajosa.
+
+2. A proposta economicamente mais vantajosa do ponto de vista da autoridade adjudicante deve ser identificada com base no preço ou custo, utilizando uma abordagem de custo-eficácia, como os custos do ciclo de vida em conformidade com o artigo 68.o, e pode incluir a melhor relação qualidade/preço, que deve ser avaliada com base em critérios que incluam aspetos qualitativos, ambientais e/ou sociais ligados ao objeto do contrato público em causa. Estes critérios podem compreender, por exemplo:
+
+- a) Qualidade, designadamente valor técnico, características estéticas e funcionais, acessibilidade, conceção para todos os utilizadores, características sociais, ambientais e inovadoras, negociação e respetivas condições;
+
+- b) Organização, qualificações e experiência do pessoal encarregado da execução do contrato em questão, caso a qualidade do pessoal empregue tenha um impacto significativo no nível de execução do contrato; ou
+
+- c) Serviço e assistência técnica pós-venda, condições de entrega, tais como a data de entrega, processo de entrega e prazo de entrega ou de execução.
+
+O fator custo pode igualmente assumir a forma de um preço ou custo fixo com base no qual os operadores económicos concorrem exclusivamente em termos de critérios de qualidade.
+
+Os Estados-Membros podem prever que as autoridades adjudicantes não possam utilizar o preço ou o custo como único critério de adjudicação, ou podem restringir essa utilização exclusiva a determinadas categorias de autoridades adjudicantes ou a determinados tipos de contratos.
+
+3. Os critérios de adjudicação devem ser considerados em função do objeto do contrato público quando estiverem relacionados com as obras, produtos ou serviços a fornecer ao abrigo desse contrato, sob qualquer aspeto e em qualquer fase do seu ciclo de vida, incluindo fatores envolvidos:
+
+- a) No processo específico de produção, fornecimento ou negociação das obras, produtos ou serviços; ou
+
+- b) Num processo específico em relação a outra fase do seu ciclo de vida,
+
+mesmo que estes fatores não façam parte da sua substância material.
+
+4. Os critérios de adjudicação não podem ter por efeito conferir à autoridade adjudicante uma liberdade de escolha ilimitada. Devem assegurar a possibilidade de concorrência efetiva e ser acompanhados de especificações que permitam verificar efetivamente a informação fornecida pelos proponentes, a fim de avaliar até que ponto estes cumprem os critérios de adjudicação. Em caso de dúvida, as autoridades adjudicantes verificam de facto a exatidão das informações e provas fornecidas pelos proponentes.
+
+5. A autoridade adjudicante especifica nos documentos do concurso a ponderação relativa que atribui a cada um dos critérios escolhidos para determinar a proposta economicamente mais vantajosa, exceto se esta for identificada apenas com base no preço.
+
+Essas ponderações podem ser expressas na forma de um intervalo, com uma variação máxima adequada.
+
+Sempre que a ponderação não seja possível por razões objetivas, a autoridade adjudicante indica os critérios por ordem decrescente de importância.
+
+### Artigo 68.º — Cálculo dos custos do ciclo de vida
+
+1. O cálculo dos custos do ciclo de vida abrange partes ou a totalidade dos custos relevantes a seguir indicados ao longo do ciclo de vida de um produto, serviço ou obra:
+
+- a) Custos suportados pela autoridade adjudicante ou outros utilizadores, nomeadamente:
+
+  - i) custos relacionados com a aquisição,
+
+  - ii) custos de utilização, tais como consumo de energia e de outros recursos,
+
+  - iii) custos de manutenção,
+
+  - iv) custos de fim de vida, tais como custos de recolha e reciclagem.
+
+- b) Custos imputados a externalidades ambientais ligadas ao produto, serviço ou obra durante o seu ciclo de vida, desde que seja possível determinar e confirmar o seu valor monetário; estes custos podem incluir o custo das emissões de gases com efeito de estufa e de outras emissões poluentes, assim como outros custos de atenuação das alterações climáticas.
+
+2. Caso as autoridades adjudicantes avaliem os custos com base numa abordagem assente no cálculo dos custos do ciclo de vida, devem incluir nos documentos do concurso os dados que os proponentes devem apresentar e a metodologia que a autoridade adjudicante utilizará para determinar os custos do ciclo de vida com base nesses dados.
+
+A metodologia utilizada para avaliar os custos imputados a externalidades ambientais deve obedecer a todas as seguintes condições:
+
+- a) Baseia-se em critérios objetivamente verificáveis e não discriminatórios. Designadamente, se não tiver sido estabelecida com vista a uma aplicação repetida ou continuada, não pode favorecer ou desfavorecer indevidamente determinados operadores económicos;
+
+- b) Está acessível a todas as partes interessadas;
+
+- c) Os dados necessários podem ser fornecidos, mediante esforço razoável, por operadores económicos normalmente diligentes, incluindo operadores económicos de países terceiros que sejam partes no GPA ou noutros acordos internacionais que vinculam a União.
+
+3. Caso um ato jurídico da União obrigue à utilização de uma metodologia comum para o cálculo dos custos do ciclo de vida, essa metodologia comum deve ser aplicada para avaliar os custos do ciclo de vida.
+
+Consta do Anexo XIII uma lista desses atos jurídicos e, sempre que necessário, dos atos delegados complementares. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 87.o, no que diz respeito a atualizar essa lista quando tal seja necessário em virtude da adoção de nova legislação que torne obrigatória uma metodologia comum ou em virtude da revogação ou alteração da legislação em vigor.
+
+### Artigo 69.º — Propostas anormalmente baixas
+
+1. As autoridades adjudicantes exigem que os operadores económicos expliquem os preços ou custos indicados na proposta, sempre que estes se revelem anormalmente baixos para as obras, fornecimentos ou serviços a prestar.
+
+2. As explicações mencionadas no n.o 1 referem-se, designadamente:
+
+- a) Aos dados económicos do processo de fabrico, dos serviços prestados ou do método de construção;
+
+- b) Às soluções técnicas escolhidas ou a quaisquer condições excecionalmente favoráveis de que o proponente disponha para o fornecimento dos produtos ou para a prestação dos serviços ou para a execução das obras;
+
+- c) À originalidade das obras, fornecimentos ou serviços propostos pelo proponente;
+
+- d) Ao cumprimento das obrigações a que se refere o artigo 18.o, n.o 2;
+
+- e) Ao cumprimento das obrigações a que se refere o artigo 71.o;
+
+- f) À possibilidade de obtenção de um auxílio estatal pelo proponente.
+
+3. A autoridade adjudicante avalia as informações prestadas consultando o proponente. Só pode excluir a proposta no caso de os meios de prova fornecidos não permitirem explicar satisfatoriamente os baixos preços ou custos propostos, tendo em conta os elementos a que se refere o n.o 2.
+
+As autoridades adjudicantes excluem a proposta caso determinem que esta é anormalmente baixa por não cumprir as obrigações aplicáveis a que se refere o artigo 18.o, n.o 2.
+
+4. Caso a autoridade adjudicante verifique que uma proposta é anormalmente baixa por o proponente ter obtido um auxílio estatal, a proposta só pode ser excluída unicamente com esse fundamento se, uma vez consultado, o proponente não puder provar, num prazo suficiente fixado pela autoridade adjudicante, que o auxílio em questão foi compatível com o mercado interno na aceção do artigo 107.o do TFUE. Se a autoridade adjudicante excluir uma proposta nestas circunstâncias, deve informar do facto a Comissão.
+
+5. Quando solicitados a fazê-lo, os Estados-Membros colocam à disposição dos outros Estados-Membros, pela via da cooperação administrativa, todas as informações ao seu dispor, tais como leis, regulamentações, convenções coletivas de aplicação geral ou normas técnicas nacionais, relacionadas com as provas e os documentos apresentados relativamente aos elementos enunciados no n.o 2.
+
+## CAPÍTULO IV — Execução dos contratos
+
+### Artigo 70.º — Condições de execução dos contratos
+
+As autoridades adjudicantes podem fixar condições especiais de execução de um contrato desde que as mesmas estejam relacionadas com o objeto do contrato, na aceção do artigo 67.o, n.o 3, e sejam indicadas no anúncio de concurso ou nos documentos do concurso. Essas condições podem incluir considerações de natureza económica, em matéria de inovação, de natureza ambiental, de ordem social ou de emprego.
+
+### Artigo 71.º — Subcontratação
+
+1. A observância pelos subcontratantes das obrigações a que se refere o artigo 18.o, n.o 2, é assegurada pela adoção de medidas adequadas por parte das autoridades nacionais competentes, no âmbito das respetivas responsabilidades e competências.
+
+2. Nos documentos do concurso, a autoridade adjudicante pode solicitar ou ser obrigada por um Estado-Membro a solicitar ao proponente que indique, na sua proposta, a parte do contrato que tenciona subcontratar a terceiros, bem como os subcontratantes propostos.
+
+3. Os Estados-Membros podem estipular que, a pedido do subcontratante e caso a natureza do contrato o permita, a autoridade adjudicante transfira os pagamentos devidos diretamente para o subcontratante pelos serviços, fornecimentos ou obras prestados ao operador económico a quem o contrato público foi adjudicado (o adjudicatário principal). Essas medidas podem incluir mecanismos adequados que permitam que o contratante principal se oponha a pagamentos indevidos. As disposições relativas a esse modo de pagamento devem constar da documentação relativa ao concurso.
+
+4. Os n.os 1 a 3 são aplicáveis sem prejuízo da responsabilidade do contratante principal.
+
+5. No caso dos contratos de empreitada de obras e em relação a serviços a serem prestados nas instalações sob a supervisão direta da autoridade adjudicante, após a adjudicação do contrato e o mais tardar aquando do início da execução do contrato, a autoridade adjudicante deve exigir ao contratante principal que lhe indique o nome, as coordenadas e os representantes legais dos seus subcontratantes que participam nas obras ou serviços em causa, na medida em que disso haja conhecimento nesse momento. A autoridade adjudicante deve exigir ao contratante principal que no decurso do contrato lhe comunique todas as alterações a essas informações, bem como as necessárias informações a respeito de novos subcontratantes que posteriormente associe às obras ou serviços em causa.
+
+Não obstante o primeiro parágrafo, os Estados-Membros podem impor a obrigação de facultar as informações necessárias diretamente ao adjudicatário principal.
+
+Sempre que necessário para efeitos da alínea b) do n.o 6, do presente artigo, as informações requeridas são acompanhadas das declarações sob compromisso de honra dos subcontratantes, conforme previsto no artigo 59.o. As medidas de execução a adotar em conformidade com o n.o 8 do presente artigo podem prever que os subcontratantes apresentados após a adjudicação do contrato devem fornecer os certificados e outros documentos comprovativos em vez da declaração sob compromisso de honra.
+
+O primeiro parágrafo não se aplica aos fornecedores.
+
+As autoridades adjudicantes podem alargar ou podem ser solicitadas por um Estado-Membro a alargar as obrigações previstas no primeiro parágrafo, por exemplo:
+
+- a) Aos contratos de fornecimentos, aos contratos de prestação de serviços diferentes dos prestados nas instalações sob a supervisão direta da autoridade adjudicante ou aos fornecedores envolvidos em contratos de empreitada de obras ou em contratos de prestação serviços;
+
+- b) Aos subcontratantes dos subcontratantes do contratante principal ou a uma parte mais baixa da cadeia de subcontratação.
+
+6. A fim de evitar o incumprimento das obrigações a que se refere o artigo 18.o, n.o 2, podem ser tomadas medidas adequadas, tais como:
+
+- a) Caso a legislação nacional de um Estado-Membro preveja um mecanismo de responsabilidade solidária entre os subcontratantes e o adjudicatário principal, o Estado-Membro em causa deve assegurar que as regras relevantes sejam aplicadas em conformidade com as condições estabelecidas no artigo 18.o, n.o 2;
+
+- b) As autoridades adjudicantes, de acordo com os artigos 59.o, 60.o e 61.o, podem verificar ou podem ser solicitadas pelos Estados-Membros a verificar se existem motivos para a exclusão dos subcontratantes por força do disposto no artigo 57.o. Nesses casos, a autoridade adjudicante deve exigir que o operador económico substitua um subcontratante em relação ao qual a verificação tenha revelado a existência de motivos obrigatórios de exclusão. A autoridade adjudicante pode exigir ou ser solicitada por um Estado-Membro a exigir que o operador económico substitua um subcontratante em relação ao qual a verificação tenha revelado a existência de motivos não obrigatórios de exclusão.
+
+7. Os Estados-Membros podem estabelecer regras de responsabilidade mais rigorosas na legislação nacional ou podem ir mais longe na legislação nacional no tocante aos pagamentos diretos aos subcontratantes, por exemplo prevendo os pagamentos diretos aos subcontratantes sem que estes tenham de o solicitar.
+
+8. Os Estados-Membros que optem por prever medidas em conformidade com os n.os 3, 4, 5 ou 6 devem especificar as condições de execução dessas medidas, mediante disposições legislativas, regulamentares ou administrativas, e tendo em conta o direito da União. Ao fazê-lo, os Estados-Membros podem limitar a sua aplicação, por exemplo em relação a determinados tipos de contratos, determinadas categorias de autoridades adjudicantes ou operadores económicos ou determinados montantes.
+
+### Artigo 72.º — Modificação de contratos durante o seu período de vigência
+
+1. Os contratos e os acordos-quadro podem ser modificados sem novo procedimento de contratação, nos termos da presente diretiva, em qualquer dos seguintes casos:
+
+- a) Se as modificações, independentemente do seu valor monetário, estiverem previstas nos documentos iniciais do concurso em cláusulas de revisão (podendo incluir cláusulas de revisão dos preços) ou opção claras, precisas e inequívocas. Essas cláusulas devem indicar o âmbito e a natureza das eventuais modificações ou opções, bem como as condições em que podem ser aplicadas. Não podem prever modificações ou opções que alterem a natureza global do contrato ou do acordo-quadro;
+
+- b) Se houver necessidade de obras, serviços ou fornecimentos complementares por parte do contratante original que não tenham sido incluídos no contrato inicial, caso a mudança de contratante
+
+  - i) não possa ser efetuada por razões económicas ou técnicas, como requisitos de permutabilidade ou interoperabilidade com equipamento, serviços ou instalações existentes, adquiridos ao abrigo do contrato inicial, e
+
+  - ii) seja altamente inconveniente ou provoque uma duplicação substancial dos custos para a autoridade adjudicante.
+
+  Todavia, o aumento de preço não pode exceder 50 % do valor do contrato original. Em caso de várias modificações sucessivas, esse limite aplica-se ao valor de cada modificação. Tais modificações sucessivas não podem ter por objetivo a não aplicação das disposições da presente diretiva;
+
+- c) Se se verificarem todas as seguintes condições:
+
+  - i) a necessidade de modificação decorre de circunstâncias que uma autoridade adjudicante diligente não possa prever,
+
+  - ii) a modificação não altera a natureza global do contrato,
+
+  - iii) o aumento de preço não ultrapassa 50 % do valor do contrato ou acordo-quadro original. Em caso de várias modificações sucessivas, esse limite aplica-se ao valor de cada modificação. Tais modificações sucessivas não podem ter por objetivo a não aplicação das disposições da presente diretiva;
+
+- d) Se o adjudicatário ao qual a autoridade adjudicante atribuiu inicialmente o contrato for substituído por um novo adjudicatário, por um dos seguintes motivos:
+
+  - i) uma cláusula de revisão ou opção inequívoca, em conformidade com a alínea a),
+
+  - ii) transmissão universal ou parcial da posição do contratante inicial, na sequência de operações de reestruturação, incluindo OPA, fusão e aquisição, ou de uma insolvência, para outro operador económico que satisfaça os critérios em matéria de seleção qualitativa inicialmente estabelecidos, desde que daí não advenham outras modificações substanciais ao contrato e que a operação não se destine a contornar a aplicação da presente diretiva, ou
+
+  - iii) assunção pela própria autoridade adjudicante das obrigações do contratante principal para com os seus subcontratantes, se tal possibilidade estiver prevista na legislação nacional em conformidade com o artigo 71.o;
+
+- e) Se as modificações, independentemente do seu valor, não forem substanciais na aceção do n.o 4.
+
+Depois de modificarem um contrato nos casos previstos nas alíneas b) e c) do presente número, as autoridades adjudicantes publicam um anúncio da modificação ou modificações no Jornal Oficial da União Europeia. Os anúncios incluem as menções previstas no Anexo V, parte G, e são publicados em conformidade com o artigo 51.o.
+
+2. Além disso, e sem que seja necessário verificar se se encontram preenchidas as condições previstas no n.o 4, alíneas a) a d), os contratos podem igualmente ser modificados sem necessidade de novo procedimento de contratação, nos termos da presente diretiva, caso o valor da modificação seja inferior a ambos os seguintes valores:
+
+- i) os limiares estabelecidos no artigo 4.o, e
+
+- ii) 10 % do valor do contrato inicial, no caso dos contratos de serviços e fornecimentos, e 15 % do valor do contrato inicial, no caso dos contratos de empreitada de obras.
+
+Contudo, a modificação não pode alterar a natureza global do contrato ou do acordo-quadro. Em caso de várias modificações sucessivas, esse valor é avaliado com base no valor líquido acumulado das modificações sucessivas.
+
+3. Para efeitos do cálculo do preço mencionado no n.o 2 e no n.o 1, alíneas b) e c), o preço atualizado é o valor de referência sempre que o contrato contenha uma cláusula de indexação.
+
+4. A modificação de um contrato ou de um acordo-quadro durante o seu período de vigência é considerada substancial, na aceção do n.o 1, alínea e), quando tornar o contrato ou o acordo-quadro materialmente diferente do contrato ou acordo-quadro celebrado inicialmente. Em qualquer caso, sem prejuízo dos n.os 1 e 2, uma modificação é considerada substancial se se verificar uma ou mais das seguintes condições:
+
+- a) A modificação introduz condições que, se fizessem parte do procedimento de contratação inicial, teriam permitido a admissão de outros candidatos ou a aceitação de outra proposta, ou teriam atraído mais participações no concurso;
+
+- b) A modificação altera o equilíbrio económico do contrato ou do acordo-quadro a favor do adjudicatário de uma forma que não estava prevista no contrato ou acordo-quadro inicial;
+
+- c) A modificação alarga consideravelmente o âmbito do contrato ou do acordo-quadro;
+
+- d) O adjudicatário ao qual a autoridade adjudicante atribuiu inicialmente o contrato é substituído por um novo adjudicatário, em casos não previstos no n.o 1, alínea d).
+
+5. As modificações das disposições de um contrato público ou de um acordo-quadro durante a sua vigência que sejam diferentes das modificações previstas nos n.os 1 e 2 obrigam a novo procedimento de contratação nos termos da presente diretiva.
+
+### Artigo 73.º — Rescisão de contratos
+
+Os Estados-Membros asseguram que as autoridades adjudicantes tenham a possibilidade de rescindir um contrato público durante a sua vigência, pelo menos nas circunstâncias a seguir enumeradas e nas condições determinadas pelas normas de direito nacional aplicáveis, caso:
+
+- a) O contrato tenha sido objeto de uma modificação substancial que exigiria um novo concurso nos termos do artigo 72.o;
+
+- b) O adjudicatário, à data da adjudicação do contrato, se encontre numa das situações referidas no artigo 57.o, n.o 1, pelo que deveria ter sido excluído do concurso;
+
+- c) O contrato não poderia ter sido adjudicado ao adjudicatário em virtude de uma infração grave das obrigações que lhe incumbem por força dos Tratados e da presente diretiva, tendo sido a infração constatada pelo Tribunal de Justiça da União Europeia num procedimento conduzido em conformidade com o artigo 258.o do TFUE.
+
+## TÍTULO III — REGIMES ESPECIAIS DE CONTRATAÇÃO PÚBLICA
+
+## CAPÍTULO I — Serviços sociais e outros serviços específicos
+
+### Artigo 74.º — Adjudicação de contratos para serviços sociais e outros serviços específicos
+
+Os contratos públicos para serviços sociais e outros serviços específicos enumerados no Anexo XIV são adjudicados em conformidade com o presente capítulo quando o valor dos contratos for igual ou superior ao limiar indicado no artigo 4.o, alínea d).
+
+### Artigo 75.º — Publicação dos anúncios
+
+1. As autoridades adjudicantes que pretendam celebrar um contrato público para os serviços referidos no artigo 74.o dão a conhecer a sua intenção por um dos seguintes meios:
+
+- a) Através de um anúncio de concurso do qual constam as informações referidas no Anexo V, parte H, em conformidade com os formulários normalizados a que se refere o artigo 51.o; ou
+
+- b) Através de um anúncio de pré-informação que é publicado de modo contínuo e do qual constam as informações referidas no Anexo V, parte I. O anúncio de pré-informação menciona especificamente os tipos de serviços que serão objeto dos contratos a adjudicar. Indica que os contratos serão adjudicados sem nova publicação e convida os operadores económicos interessados a manifestar-se por escrito.
+
+No entanto, o primeiro parágrafo não se aplica nos casos em que teria sido possível utilizar, em conformidade com o artigo 32.o, um procedimento por negociação sem publicação prévia de anúncio de concurso para a adjudicação de um contrato público de serviços.
+
+2. As autoridades adjudicantes que tenham adjudicado um contrato público para os serviços referidos no artigo 74.o dão a conhecer os resultados do concurso por meio de um anúncio de adjudicação de contrato do qual constam as informações referidas no Anexo V, parte J, em conformidade com os formulários-tipo a que se refere o artigo 51.o. Podem, contudo, agrupar esses anúncios por trimestre. Nesse caso, enviam os anúncios agrupados o mais tardar 30 dias após o fim de cada trimestre.
+
+3. A Comissão estabelece os formulários referidos nos n.os 1 e 2 do presente artigo por meio de atos de execução. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 89.o, n.o 2.
+
+4. Os anúncios referidos no presente artigo são publicados em conformidade com o artigo 51.o.
+
+### Artigo 76.º — Princípios de adjudicação dos contratos
+
+1. Os Estados-Membros devem instituir regras nacionais para a adjudicação dos contratos abrangidos pelo presente capítulo, a fim de assegurar que as autoridades adjudicantes respeitem os princípios da transparência e da igualdade de tratamento dos operadores económicos. Os Estados-Membros são livres de fixar as normas processuais aplicáveis, desde que essas regras permitam às autoridades adjudicantes atender às especificidades dos serviços em questão.
+
+2. Os Estados-Membros devem assegurar que as autoridades adjudicantes possam ter em conta a necessidade de garantir uma elevada qualidade, continuidade, acessibilidade, inclusive em termos de custos, disponibilidade e exaustividade dos serviços, as necessidades específicas das diferentes categorias de utilizadores, incluindo os grupos desfavorecidos e vulneráveis, o envolvimento e a capacitação dos utilizadores e a inovação. Os Estados-Membros podem também estabelecer que a escolha do prestador de serviços seja feita com base no critério da proposta que apresente a melhor relação qualidade/preço mas tendo igualmente em conta os critérios de qualidade e sustentabilidade para os serviços sociais.
+
+### Artigo 77.º — Contratos reservados para determinados serviços
+
+1. Os Estados-Membros podem prever que as autoridades adjudicantes possam reservar o direito de as organizações participarem em procedimentos de adjudicação de contratos públicos exclusivamente aos serviços de saúde, serviços sociais e serviços culturais referidos no artigo 74.o, abrangidos pelos códigos CPV 75121000-0, 75122000-7, 75123000-4, 79622000-0, 79624000-4, 79625000-1, 80110000-8, 80300000-7, 80420000-4, 80430000-7, 80511000-9, 80520000-5, 80590000-6, 85000000-9 a 85323000-9, 92500000-6, 92600000-7, 98133000-4, 98133110-8.
+
+2. As organizações a que se refere o n.o 1 devem preencher todas as seguintes condições:
+
+- a) Têm por objetivo a prossecução de uma missão de serviço público ligada à prestação dos serviços a que se refere o n.o 1;
+
+- b) Os lucros são reinvestidos com vista à consecução do objetivo da organização. Caso os lucros sejam distribuídos ou redistribuídos, tal deve basear-se em considerações de natureza participativa;
+
+- c) As estruturas de gestão ou propriedade da organização que executa o contrato baseiam-se na participação dos trabalhadores no capital social ou em princípios participativos, ou requerem o envolvimento ativo dos trabalhadores, utilizadores ou partes interessadas;
+
+- d) A autoridade adjudicante em causa não adjudicou à organização nenhum contrato para os serviços em causa, nos termos do presente artigo, durante os últimos três anos.
+
+3. O período de vigência do contrato não pode ser superior a três anos.
+
+4. O convite à apresentação de propostas deve fazer referência ao presente artigo.
+
+5. Não obstante o disposto no artigo 92.o, a Comissão deve avaliar os efeitos do presente artigo e apresentar um relatório nessa matéria ao Parlamento Europeu e ao Conselho até 18 de abril de 2019.
+
+## CAPÍTULO II — Regras aplicáveis aos concursos de conceção
+
+### Artigo 78.º — Âmbito de aplicação
+
+O presente capítulo aplica-se:
+
+- a) Aos concursos de conceção organizados no âmbito de um procedimento de adjudicação de um contrato público de serviços;
+
+- b) Aos concursos de conceção com prémios ou pagamentos aos participantes.
+
+Nos casos referidos na alínea a) do primeiro parágrafo do presente artigo, o limiar referido no artigo 4.o é calculado com base no valor estimado, sem IVA, do contrato público de serviços, incluindo os eventuais prémios de participação ou pagamentos aos participantes.
+
+Nos casos referidos na alínea b) do primeiro parágrafo do presente artigo, o limiar refere-se ao montante total dos prémios e pagamentos, incluindo o valor estimado, sem IVA, de um contrato público de serviços que possa vir a ser adjudicado posteriormente nos termos do artigo 32.o, n.o 4, se a autoridade adjudicante tiver anunciado a sua intenção de adjudicar esse contrato no anúncio de concurso.
+
+### Artigo 79.º — Anúncios
+
+1. As autoridades adjudicantes que pretendam organizar um concurso de conceção dão a conhecer a sua intenção através de um anúncio de concurso.
+
+Caso as autoridades adjudicantes pretendam adjudicar um contrato de serviços subsequente nos termos do artigo 32.o, n.o 4, esse facto deve ser indicado no anúncio de concurso.
+
+2. As autoridades adjudicantes que tenham organizado um concurso de conceção enviam um anúncio com os resultados do mesmo, em conformidade com o artigo 51.o, e devem poder provar a data desse envio.
+
+Essas informações podem não ser publicadas nos casos em que a divulgação de informações sobre os resultados do concurso possa obstar à aplicação da lei, ser contrária ao interesse público, lesar os legítimos interesses comerciais de uma determinada empresa, pública ou privada, ou prejudicar a concorrência leal entre prestadores de serviços.
+
+3. Os anúncios referidos nos n.os 1 e 2 do presente artigo são publicados de acordo com o artigo 51.o, n.os 2 a 6, e o artigo 52.o. Devem incluir as informações previstas no Anexo V, respetivamente, nas partes E e F, de acordo com o formato dos formulários-tipo.
+
+A Comissão estabelece os formulários-tipo por meio de atos de execução. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 89.o, n.o 2.
+
+### Artigo 80.º — Regras relativas à organização dos concursos de conceção e à seleção dos participantes
+
+1. Na organização dos concursos de conceção, as autoridades adjudicantes aplicam procedimentos adaptados às disposições do Título I e do presente capítulo.
+
+2. O acesso à participação nos concursos não pode ser restringido:
+
+- a) Ao território ou a parte do território de um Estado-Membro;
+
+- b) Com a justificação de que, nos termos da legislação do Estado-Membro onde o concurso é organizado, os participantes têm obrigatoriamente de ser pessoas singulares ou pessoas coletivas.
+
+3. Sempre que os concursos de conceção sejam restringidos a um número limitado de participantes, as autoridades adjudicantes definem critérios de seleção claros e não discriminatórios. Em qualquer caso, o número de candidatos convidados a participar deve ser suficiente para garantir uma concorrência real.
+
+### Artigo 81.º — Composição do júri
+
+O júri é composto exclusivamente por pessoas singulares independentes dos participantes no concurso. Sempre que seja exigida uma qualificação profissional específica aos participantes no concurso, pelo menos um terço dos membros do júri deve possuir essa qualificação ou uma qualificação equivalente.
+
+### Artigo 82.º — Decisões do júri
+
+1. O júri é independente no que se refere às suas decisões e pareceres.
+
+2. O júri deve analisar os planos e projetos apresentados pelos candidatos anonimamente e apenas com base nos critérios referidos no anúncio de concurso.
+
+3. O júri deve apresentar uma lista dos projetos ordenados por ordem de mérito, juntamente com as suas observações e quaisquer pontos que necessitem esclarecimento, num relatório assinado pelos membros que o compõem.
+
+4. O anonimato é respeitado até que o júri tenha emitido o seu parecer ou decisão.
+
+5. Se necessário, os candidatos podem ser convidados a responder a perguntas que o júri tenha registado em ata no intuito de esclarecer qualquer aspeto dos projetos.
+
+6. O diálogo entre os membros do júri e os candidatos deve ser integralmente registado em ata.
+
+## TÍTULO IV — GOVERNAÇÃO
+
+### Artigo 83.º — Aplicação
+
+1. A fim de garantir de facto uma execução eficaz e correta, os Estados-Membros devem certificar-se de que pelo menos as tarefas enumeradas no presente artigo são realizadas por uma ou mais autoridades, organismos ou estruturas. Os Estados-Membros devem indicar à Comissão todas as autoridades, organismos ou estruturas competentes para essas tarefas.
+
+2. Os Estados-Membros asseguram o acompanhamento da aplicação das regras de contratação pública.
+
+Quando as autoridades ou estruturas de acompanhamento identificarem, por sua própria iniciativa ou em virtude de informações recebidas, violações específicas ou problemas sistémicos, devem dispor de poderes para assinalar esses problemas às autoridades de auditoria, aos tribunais ou outras autoridades ou estruturas nacionais competentes, como o Provedor de Justiça, os parlamentos nacionais ou as respetivas comissões parlamentares.
+
+3. Os resultados das atividades de acompanhamento nos termos do n.o 2 devem ser postos à disposição do público através de canais de informação adequados. Esses resultados são igualmente colocados à disposição da Comissão. Os mesmos resultados podem, por exemplo, ser integrados nos relatórios de acompanhamento a que se refere o segundo parágrafo do presente número.
+
+Até 18 de abril de 2017 e em seguida de três em três anos, os Estados-Membros transmitem à Comissão um relatório de acompanhamento que abranja, se for caso disso, informações sobre as fontes mais frequentes de aplicação incorreta ou de insegurança jurídica, incluindo eventuais problemas estruturais ou recorrentes na aplicação das regras, sobre o nível de participação das PME nos contratos públicos e a prevenção, deteção e adequada notificação dos casos de fraude, corrupção, conflitos de interesses e outras irregularidades graves no domínio da contratação pública.
+
+A Comissão pode, a intervalos não superiores a três anos, solicitar aos Estados-Membros que prestem informações sobre a aplicação prática das políticas estratégicas nacionais de contratação pública.
+
+Para efeitos do disposto no presente número e no n.o 4 do presente artigo, as PME são entendidas na aceção da Recomendação 2003/361/CE da Comissão ([^18]).
+
+Com base nas informações recebidas nos termos do presente número, a Comissão publica periodicamente um relatório sobre a execução e as melhores práticas das políticas nacionais em matéria de contratação pública no mercado interno.
+
+4. Os Estados-Membros devem assegurar:
+
+- a) O acesso gratuito a informações e orientações sobre a interpretação e aplicação do direito de adjudicação de contratos públicos da União, com vista a auxiliar as autoridades adjudicantes e os operadores económicos, em particular as PME, na aplicação correta das regras de adjudicação de contratos públicos da União; e
+
+- b) A disponibilização de apoio às autoridades adjudicantes no que respeita à planificação e execução dos procedimentos de adjudicação de contratos.
+
+5. Sem prejuízo dos procedimentos gerais e dos métodos de trabalho estabelecidos pela Comissão para as suas comunicações e os seus contactos com os Estados-Membros, estes designam um ponto de referência para a cooperação com a Comissão no que diz respeito à aplicação da legislação relativa à contratação pública.
+
+6. As autoridades adjudicantes conservam, pelo menos durante o prazo de vigência do contrato, cópias de todos os contratos celebrados com um valor igual ou superior a:
+
+- a) 1 000 000 EUR para os contratos públicos de fornecimentos ou de serviços;
+
+- b) 10 000 000 EUR para os contratos públicos de empreitada de obras.
+
+As autoridades adjudicantes devem assegurar o acesso a estes contratos; todavia, o acesso a documentos ou elementos de informação específicos pode ser recusado na medida e nas condições previstas nas regras nacionais ou da União aplicáveis em matéria de acesso a documentos e proteção de dados.
+
+### Artigo 84.º — Relatórios individuais sobre procedimentos de adjudicação de contratos
+
+1. Em relação a cada contrato ou acordo-quadro abrangido pela presente diretiva, e sempre que estabeleçam um sistema de aquisição dinâmico, as autoridades adjudicantes elaboram um relatório por escrito que inclua, pelo menos:
+
+- a) O nome e o endereço da autoridade adjudicante, o objeto e o valor do contrato, do acordo-quadro ou do sistema de aquisição dinâmico;
+
+- b) Se for caso disso, os resultados da seleção qualitativa e/ou redução de números nos termos dos artigos 65.o e 66.o, nomeadamente:
+
+  - i) os nomes dos candidatos ou proponentes selecionados e a justificação dessa seleção,
+
+  - ii) os nomes dos candidatos ou proponentes excluídos e os motivos dessa exclusão;
+
+- c) Os motivos de exclusão das propostas consideradas anormalmente baixas;
+
+- d) O nome do adjudicatário e a justificação da escolha da sua proposta, bem como, quando for conhecida, a parte do contrato ou do acordo-quadro que o adjudicatário tenciona subcontratar a terceiros; na medida em que disso haja conhecimento nesse momento, os nomes dos eventuais subcontratantes do adjudicatário principal;
+
+- e) Nos procedimentos concorrenciais com negociação e nos diálogos concorrenciais, as circunstâncias definidas no artigo 26.o que justificam o recurso a esses procedimentos;
+
+- f) No caso de um procedimento por negociação sem publicação prévia, as circunstâncias, referidas no artigo 32.o, que justificam o recurso a esse procedimento;
+
+- g) Se aplicável, as razões pelas quais a autoridade adjudicante decidiu não celebrar o contrato ou o acordo-quadro ou não criar o sistema de aquisição dinâmico;
+
+- h) Se aplicável, as razões pelas quais foram utilizados para a apresentação de propostas outros meios de comunicação que não os eletrónicos;
+
+- i) Se aplicável, os conflitos de interesses detetados e as medidas tomadas subsequentemente.
+
+Tal relatório não é exigido no que respeita aos contratos baseados em acordos-quadro, se estes últimos tiverem sido celebrados em conformidade com o artigo 33.o, n.o 3, ou n.o 4, alínea a).
+
+Na medida em que o anúncio de adjudicação do contrato, elaborado nos termos do artigo 50.o ou do artigo 75.o, n.o 2, contenha as informações exigidas no presente número, as autoridades adjudicantes podem remeter para esse anúncio.
+
+2. As autoridades adjudicantes devem documentar o desenrolar de todos os procedimentos de contratação pública, quer sejam ou não conduzidos por via eletrónica. Para o efeito, devem assegurar a conservação de documentação suficiente para justificar as decisões tomadas em todas as fases do procedimento de contratação, como a documentação das comunicações com os operadores económicos e das deliberações internas, a preparação dos documentos do concurso, o diálogo ou negociação, se for caso disso, a seleção e a adjudicação do contrato. A documentação deve ser conservada pelo menos durante um período de três anos a contar da data de adjudicação do contrato.
+
+3. O relatório ou os seus principais elementos são comunicados à Comissão ou às autoridades, organismos ou estruturas competentes a que se refere o artigo 83.o, se estes o solicitarem.
+
+### Artigo 85.º — Relatórios e informações estatísticas nacionais
+
+1. A Comissão analisa a qualidade e exaustividade dos dados que podem ser extraídos dos anúncios a que se referem os artigos 48.o, 49.o, 50.o, 75.o e 79.o e que são publicados em conformidade com o Anexo VIII.
+
+Quando a qualidade e a exaustividade dos dados referidos no primeiro parágrafo do presente número não sejam conformes com as obrigações estipuladas no artigo 48.o, n.o 1, no artigo 49.o, no artigo 50.o, n.o 1, no artigo 75.o, n.o 2, e no artigo 79, n.o 3, a Comissão solicita ao Estado-Membro em causa informações complementares. O Estado-Membro em causa deve fornecer dentro de um prazo razoável as informações estatísticas em falta solicitadas pela Comissão.
+
+2. Até 18 de abril de 2017, e em seguida de três em três anos, os Estados-Membros enviam à Comissão um relatório estatístico relativo aos contratos públicos que teriam sido abrangidos pela presente diretiva se o seu valor tivesse sido superior ao limiar pertinente previsto no artigo 4.o, indicando uma estimativa do valor total acumulado desses contratos durante o período em causa. Essa estimativa pode nomeadamente basear-se nos dados disponíveis em cumprimento dos requisitos nacionais de publicação ou em estimativas baseadas em amostras.
+
+Esse relatório pode ser integrado no relatório a que se refere o artigo 83.o, n.o 3.
+
+3. Os Estados-Membros disponibilizam à Comissão informações sobre a respetiva organização institucional relacionada com a aplicação, acompanhamento e execução da presente diretiva, bem como sobre as iniciativas nacionais adotadas para orientar ou apoiar a aplicação das regras da União em matéria de contratos públicos ou para dar resposta aos desafios encontrados na aplicação dessas regras.
+
+As referidas informações podem ser integradas no relatório a que se refere o artigo 83.o, n.o 3.
+
+### Artigo 86.º — Cooperação administrativa
+
+1. Os Estados-Membros devem prestar-se assistência mútua e tomar medidas para cooperarem eficazmente, a fim de assegurar o intercâmbio de informações sobre as questões referidas nos artigos 42.o, 43.o, 44.o, 57.o, 59.o, 60.o, 62.o, 64.o e 69.o. Devem igualmente assegurar a confidencialidade das informações trocadas entre si.
+
+2. As autoridades competentes de todos os Estados-Membros envolvidos trocam informações em conformidade com as regras em matéria de proteção dos dados pessoais consagrada nas Diretivas 95/46/CE ([^19]) e 2002/58/CE ([^20]) do Parlamento Europeu e do Conselho.
+
+3. A fim de testar a conveniência de utilizar o Sistema de Informação do Mercado Interno (IMI) criado pelo Regulamento (UE) n.o 1024/2012, para efeitos do intercâmbio de informações ao abrigo da presente diretiva, deve ser lançado um projeto-piloto até 18 de abril de 2015.
+
+## TÍTULO V — PODERES DELEGADOS, COMPETÊNCIAS DE EXECUÇÃO E DISPOSIÇÕES FINAIS
+
+### Artigo 87.º — Exercício da delegação de poderes
+
+1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar atos delegados referido nos artigos 6.o, 22.o, 23.o, 56.o e 68.o é conferido à Comissão por prazo indeterminado, a partir de 17 de abril de 2014.
+
+3. A delegação de poderes referida nos artigos 6.o, 22.o, 23.o, 56.o e 68.o pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no Jornal Oficial da União Europeia ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+5. Os atos delegados adotados nos termos dos artigos 6.o, 22.o, 23.o, 56.o e 68.o só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+### Artigo 88.º — Procedimento de urgência
+
+1. Os atos delegados adotados por força do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção ao abrigo do n.o 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.
+
+2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 87.o, n.o 5. Nesse caso, a Comissão revoga sem demora o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções.
+
+### Artigo 89.º — Procedimento de comité
+
+1. A Comissão é assistida pelo Comité Consultivo dos Contratos Públicos criado pela Decisão 71/306/CEE do Conselho ([^21]). Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.o 182/2011.
+
+2. Caso se faça referência ao presente número, aplica-se o artigo 4.o do Regulamento (UE) n.o 182/2011.
+
+3. Caso se faça referência ao presente número, aplica-se o artigo 5.o do Regulamento (UE) n.o 182/2011.
+
+### Artigo 90.º — Transposição e disposições transitórias
+
+1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 18 de abril de 2016. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.
+
+2. Não obstante o disposto no n.o 1 do presente artigo, os Estados-Membros podem adiar a aplicação do artigo 22.o, n.o 1, até 18 de outubro de 2018, exceto quando a utilização de meios eletrónicos seja obrigatória nos termos dos artigos 34.o, 35.o e 36.o, do artigo 37.o, n.o 3, do artigo 51.o, n.o 2, ou do artigo 53.o.
+
+Não obstante o disposto no n.o 1 do presente artigo, os Estados-Membros podem adiar a aplicação do artigo 22.o, n.o 1, relativamente às centrais de compras até 18 de abril de 2017.
+
+Se os Estados-Membros optarem por adiar a aplicação do artigo 22.o, n.o 1, devem estabelecer que as autoridades adjudicantes possam escolher, para todas as comunicações e trocas de informação, de entre os seguintes canais de comunicação:
+
+- a) Meios eletrónicos, em conformidade com o artigo 22.o;
+
+- b) Correio ou por qualquer outro meio apropriado;
+
+- c) Telecópia;
+
+- d) Uma combinação destes meios.
+
+3. Não obstante o disposto no n.o 1 do presente artigo, os Estados-Membros podem adiar a aplicação do artigo 59.o, n.o 2, segundo parágrafo, até 18 de abril de 2018.
+
+4. Não obstante o disposto no n.o 1 do presente artigo, os Estados-Membros podem adiar a aplicação do artigo 59.o, n.o 5, segundo parágrafo, até 18 de outubro de 2018.
+
+5. Não obstante o disposto no n.o 1 do presente artigo, os Estados-Membros podem adiar a aplicação do artigo 61.o, n.o 2, até 18 de outubro de 2018.
+
+6. Quando os Estados-Membros adotarem as disposições referidas nos n.os 1 a 5, estas devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência são estabelecidas pelos Estados-Membros.
+
+7. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva.
+
+### Artigo 91.º — Revogações
+
+A Diretiva 2004/18/CE é revogada com efeitos a partir de 18 de abril de 2016.
+
+As referências à diretiva revogada devem entender-se como referências à presente diretiva e devem ser lidas de acordo com a tabela de correspondência constante do Anexo XV.
+
+### Artigo 92.º — Revisão
+
+A Comissão analisa os efeitos económicos no mercado interno, em particular em termos de fatores como a adjudicação transfronteiras de contratos e os custos das transações, que resultam da aplicação dos limiares definidos no artigo 4.o e apresenta um relatório sobre essa análise ao Parlamento Europeu e ao Conselho, até 18 de abril de 2019.
+
+Se tal for possível e adequado, a Comissão devem ponderar a eventualidade de sugerir um aumento dos montantes dos limiares aplicáveis ao abrigo do GPA durante a próxima ronda de negociações. Em caso de alteração dos montantes dos limiares aplicáveis ao abrigo do GPA, a Comissão apresenta, caso pertinente, na sequência do referido relatório, uma proposta legislativa de alteração dos limiares previstos na presente diretiva.
+
+### Artigo 93.º — Entrada em vigor
+
+A presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+### Artigo 94.º — Destinatários
+
+Os Estados-Membros são os destinatários da presente diretiva.
+
+## ANEXO I
+
+#### AUTORIDADES DO GOVERNO CENTRAL
+
+##### BÉLGICA
+
+| 1. Services publics fédéraux (Ministérios): | 1. Federale Overheidsdiensten (Ministérios): |
+|---|---|
+| SPF Chancellerie du Premier Ministre; | FOD Kanselarij van de Eerste Minister; |
+| SPF Personnel et Organisation; | FOD Kanselarij Personeel en Organisatie; |
+| SPF Budget et Contrôle de la Gestion; | FOD Budget en Beheerscontrole; |
+| SPF Technologie de l’Information et de la Communication (Fedict); | FOD Informatie– en Communicatietechnologie (Fedict); |
+| SPF Affaires étrangères, Commerce extérieur et Coopération au Développement; | FOD Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking; |
+| SPF Intérieur; | FOD Binnenlandse Zaken; |
+| SPF Finances; | FOD Financiën; |
+| SPF Mobilité et Transports; | FOD Mobiliteit en Vervoer; |
+| SPF Emploi, Travail et Concertation sociale; | FOD Werkgelegenheid, Arbeid en sociaal overleg |
+| SPF Sécurité Sociale et Institutions publiques de Sécurité Sociale; | FOD Sociale Zekerheid en Openbare Instellingen van sociale Zekerheid |
+| SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement; | FOD Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu; |
+| SPF Justice; | FOD Justitie; |
+| SPF Economie, PME, Classes moyennes et Energie; | FOD Economie, KMO, Middenstand en Energie; |
+| Ministère de la Défense; | Ministerie van Landsverdediging; |
+| Service public de programmation Intégration sociale, Lutte contre la pauvreté et Economie sociale; | Programmatorische Overheidsdienst Maatschappelijke Integratie, Armoedsbestrijding en sociale Economie; |
+| Service public fédéral de Programmation Développement durable; | Programmatorische federale Overheidsdienst Duurzame Ontwikkeling; |
+| Service public fédéral de Programmation Politique scientifique; | Programmatorische federale Overheidsdienst Wetenschapsbeleid; |
+| 2. Régie des Bâtiments; | 2. Regie der Gebouwen; |
+| Office national de Sécurité sociale; | Rijksdienst voor sociale Zekerheid; |
+| Institut national d’Assurance sociales pour travailleurs indépendants | Rijksinstituut voor de sociale Verzekeringen der Zelfstandigen; |
+| Institut national d’Assurance Maladie-Invalidité; | Rijksinstituut voor Ziekte– en Invaliditeitsverzekering; |
+| Office national des Pensions; | Rijksdienst voor Pensioenen; |
+| Caisse auxiliaire d’Assurance Maladie-Invalidité; | Hulpkas voor Ziekte-en Invaliditeitsverzekering; |
+| Fond des Maladies professionnelles; | Fonds voor Beroepsziekten; |
+| Office national de l’Emploi; | Rijksdienst voor Arbeidsvoorziening |
+
+##### BULGÁRIA
+
+Администрация на Народното събрание
+
+Aдминистрация на Президента
+
+Администрация на Министерския съвет
+
+Конституционен съд
+
+Българска народна банка
+
+Министерство на външните работи
+
+Министерство на вътрешните работи
+
+Министерство на държавната администрация и административната реформа
+
+Министерство на извънредните ситуации
+
+Министерство на земеделието и храните
+
+Министерство на здравеопазването
+
+Министерство на икономиката и енергетиката
+
+Министерство на културата
+
+Министерство на образованието и науката
+
+Министерство на околната среда и водите
+
+Министерство на отбраната
+
+Министерство на правосъдието
+
+Министерство на регионалното развитие и благоустройството
+
+Министерство на транспорта
+
+Министерство на труда и социалната политика
+
+Министерство на финансите
+
+Organismos públicos, comissões do Estado, agências executivas e outras autoridades públicas estabelecidas por lei ou por diploma do Conselho de Ministros que desempenhem uma função ligada ao exercício do poder executivo:
+
+Агенция за ядрено регулиране
+
+Висшата атестационна комисия
+
+Държавна комисия за енергийно и водно регулиране
+
+Държавна комисия по сигурността на информацията
+
+Комисия за защита на конкуренцията
+
+Комисия за защита на личните данни
+
+Комисия за защита от дискриминация
+
+Комисия за регулиране на съобщенията
+
+Комисия за финансов надзор
+
+Патентно ведомство на Република България
+
+Сметна палата на Република България
+
+Агенция за приватизация
+
+Агенция за следприватизационен контрол
+
+Български институт по метрология
+
+Държавна агенция «Архиви»
+
+Държавна агенция «Държавен резерв и военновременни запаси»
+
+Държавна агенция «Национална сигурност»
+
+Държавна агенция за бежанците
+
+Държавна агенция за българите в чужбина
+
+Държавна агенция за закрила на детето
+
+Държавна агенция за информационни технологии и съобщения
+
+Държавна агенция за метрологичен и технически надзор
+
+Държавна агенция за младежта и спорта
+
+Държавна агенция по горите
+
+Държавна агенция по туризма
+
+Държавна комисия по стоковите борси и тържища
+
+Институт по публична администрация и европейска интеграция
+
+Национален статистически институт
+
+Национална агенция за оценяване и акредитация
+
+Националната агенция за професионално образование и обучение
+
+Национална комисия за борба с трафика на хора
+
+Агенция «Митници»
+
+Агенция за държавна и финансова инспекция
+
+Агенция за държавни вземания
+
+Агенция за социално подпомагане
+
+Агенция за хората с увреждания
+
+Агенция по вписванията
+
+Агенция по геодезия, картография и кадастър
+
+Агенция по енергийна ефективност
+
+Агенция по заетостта
+
+Агенция по обществени поръчки
+
+Българска агенция за инвестиции
+
+Главна дирекция «Гражданска въздухоплавателна администрация»
+
+Дирекция «Материално-техническо осигуряване и социално обслужване» на Министерство на вътрешните работи
+
+Дирекция «Оперативно издирване» на Министерство на вътрешните работи
+
+Дирекция «Финансово-ресурсно осигуряване» на Министерство на вътрешните работи
+
+Дирекция за национален строителен контрол
+
+Държавна комисия по хазарта
+
+Изпълнителна агенция «Автомобилна администрация»
+
+Изпълнителна агенция «Борба с градушките»
+
+Изпълнителна агенция «Българска служба за акредитация»
+
+Изпълнителна агенция «Военни клубове и информация»
+
+Изпълнителна агенция «Главна инспекция по труда»
+
+Изпълнителна агенция «Държавна собственост на Министерството на отбраната»
+
+Изпълнителна агенция «Железопътна администрация»
+
+Изпълнителна агенция «Изпитвания и контролни измервания на въоръжение, техника и имущества»
+
+Изпълнителна агенция «Морска администрация»
+
+Изпълнителна агенция «Национален филмов център»
+
+Изпълнителна агенция «Пристанищна администрация»
+
+Изпълнителна агенция «Проучване и поддържане на река Дунав»
+
+Изпълнителна агенция «Социални дейности на Министерството на отбраната»
+
+Изпълнителна агенция за икономически анализи и прогнози
+
+Изпълнителна агенция за насърчаване на малките и средни предприятия
+
+Изпълнителна агенция по лекарствата
+
+Изпълнителна агенция по лозата и виното
+
+Изпълнителна агенция по околна среда
+
+Изпълнителна агенция по почвените ресурси
+
+Изпълнителна агенция по рибарство и аквакултури
+
+Изпълнителна агенция по селекция и репродукция в животновъдството
+
+Изпълнителна агенция по сортоизпитване, апробация и семеконтрол
+
+Изпълнителна агенция по трансплантация
+
+Изпълнителна агенция по хидромелиорации
+
+Комисията за защита на потребителите
+
+Контролно-техническата инспекция
+
+Национален център за информация и документация
+
+Национален център по радиобиология и радиационна защита
+
+Национална агенция за приходите
+
+Национална ветеринарномедицинска служба
+
+Национална служба «Полиция»
+
+Национална служба «Пожарна безопасност и защита на населението»
+
+Национална служба за растителна защита
+
+Национална служба за съвети в земеделието
+
+Национална служба по зърното и фуражите
+
+Служба «Военна информация»
+
+Служба «Военна полиция»
+
+Фонд «Републиканска пътна инфраструктура»
+
+Авиоотряд 28
+
+##### REPÚBLICA CHECA
+
+Ministerstvo dopravy
+
+Ministerstvo financí
+
+Ministerstvo kultury
+
+Ministerstvo obrany
+
+Ministerstvo pro místní rozvoj
+
+Ministerstvo práce a sociálních věcí
+
+Ministerstvo průmyslu a obchodu
+
+Ministerstvo spravedlnosti
+
+Ministerstvo školství, mládeže a tělovýchovy
+
+Ministerstvo vnitra
+
+Ministerstvo zahraničních věcí
+
+Ministerstvo zdravotnictví
+
+Ministerstvo zemědělství
+
+Ministerstvo životního prostředí
+
+Poslanecká sněmovna PČR
+
+Senát PČR
+
+Kancelář prezidenta
+
+Český statistický úřad
+
+Český úřad zeměměřičský a katastrální
+
+Úřad průmyslového vlastnictví
+
+Úřad pro ochranu osobních údajů
+
+Bezpečnostní informační služba
+
+Národní bezpečnostní úřad
+
+Česká akademie věd
+
+Vězeňská služba
+
+Český báňský úřad
+
+Úřad pro ochranu hospodářské soutěže
+
+Správa státních hmotných rezerv
+
+Státní úřad pro jadernou bezpečnost
+
+Česká národní banka
+
+Energetický regulační úřad
+
+Úřad vlády České republiky
+
+Ústavní soud
+
+Nejvyšší soud
+
+Nejvyšší správní soud
+
+Nejvyšší státní zastupitelství
+
+Nejvyšší kontrolní úřad
+
+Kancelář Veřejného ochránce práv
+
+Grantová agentura České republiky
+
+Státní úřad inspekce práce
+
+Český telekomunikační úřad
+
+##### DINAMARCA
+
+Folketinget
+
+Rigsrevisionen
+
+Statsministeriet
+
+Udenrigsministeriet
+
+Beskæftigelsesministeriet
+
+5 styrelser og institutioner (5 agências e instituições)
+
+Domstolsstyrelsen
+
+Finansministeriet
+
+5 styrelser og institutioner (5 agências e instituições)
+
+Forsvarsministeriet
+
+5 styrelser og institutioner (5 agências e instituições)
+
+Ministeriet for Sundhed og Forebyggelse
+
+Adskillige styrelser og institutioner, herunder Statens Serum Institut (Várias agências e instituições, incluindo o Statens Serum Institut)
+
+Justitsministeriet
+
+Rigspolitichefen, anklagemyndigheden samt 1 direktorat og et antal styrelser (Chefe da Polícia nacional, Ministério Público, 1 direção e várias agências)
+
+Kirkeministeriet
+
+10 stiftsøvrigheder (10 autoridades diocesanas)
+
+Kulturministeriet — Ministério da Cultura
+
+4 styrelser samt et antal statsinstitutioner (4 departamentos e várias instituições)
+
+Miljøministeriet
+
+5 styrelser (5 agências)
+
+Ministeriet for Flygtninge, Invandrere og Integration
+
+1 styrelse (1 agência)
+
+Ministeriet for Fødevarer, Landbrug og Fiskeri
+
+4 direktoraterog institutioner (4 direções e instituições)
+
+Ministeriet for Videnskab, Teknologi og Udvikling
+
+Adskillige styrelser og institutioner, Forskningscenter Risø og Statens uddannelsesbygninger (Várias agências e instituições, entre as quais o Laboratório Nacional Risoe e os estabelecimentos nacionais de investigação e educação)
+
+Skatteministeriet
+
+1 styrelse og institutioner (1 agência e várias instituições)
+
+Velfærdsministeriet
+
+3 styrelser og institutioner (3 agências e várias instituições)
+
+Transportministeriet
+
+7 styrelser og institutioner, herunder Øresundsbrokonsortiet (7 agências e instituições, entre elas o Øresundsbrokonsortiet)
+
+Undervisningsministeriet
+
+3 styrelser, 4 undervisningsinstitutioner og 5 andre institutioner (3 agências, 4 estabelecimentos de ensino, 5 outras agências)
+
+Økonomi– og Erhvervsministeriet
+
+Adskilligestyrelser og institutioner (Várias agências e instituições)
+
+Klima– og Energiministeriet
+
+3 styrelse og institutioner (3 agências e instituições)
+
+##### ALEMANHA
+
+Auswärtiges Amt
+
+Bundeskanzleramt
+
+Bundesministerium für Arbeit und Soziales
+
+Bundesministerium für Bildung und Forschung
+
+Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+
+Bundesministerium der Finanzen
+
+Bundesministerium des Innern (apenas bens civis)
+
+Bundesministerium für Gesundheit
+
+Bundesministerium für Familie, Senioren, Frauen und Jugend
+
+Bundesministerium der Justiz
+
+Bundesministerium für Verkehr, Bau und Stadtentwicklung
+
+Bundesministerium für Wirtschaft und Technologie
+
+Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+
+Bundesministerium der Verteidigung (material não militar)
+
+Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+
+##### ESTÓNIA
+
+Vabariigi Presidendi Kantselei;
+
+Eesti Vabariigi Riigikogu;
+
+Eesti Vabariigi Riigikohus;
+
+Riigikontroll;
+
+Õiguskantsler;
+
+Riigikantselei;
+
+Rahvusarhiiv;
+
+Haridus– ja Teadusministeerium;
+
+Justiitsministeerium;
+
+Kaitseministeerium;
+
+Keskkonnaministeerium;
+
+Kultuuriministeerium;
+
+Majandus– ja Kommunikatsiooniministeerium;
+
+Põllumajandusministeerium;
+
+Rahandusministeerium;
+
+Siseministeerium;
+
+Sotsiaalministeerium;
+
+Välisministeerium;
+
+Keeleinspektsioon;
+
+Riigiprokuratuur;
+
+Teabeamet;
+
+Maa-amet;
+
+Keskkonnainspektsioon;
+
+Metsakaitse– ja Metsauuenduskeskus;
+
+Muinsuskaitseamet;
+
+Patendiamet;
+
+Tarbijakaitseamet;
+
+Riigihangete Amet;
+
+Taimetoodangu Inspektsioon;
+
+Põllumajanduse Registrite ja Informatsiooni Amet;
+
+Veterinaar– ja Toiduamet
+
+Konkurentsiamet;
+
+Maksu –ja Tolliamet;
+
+Statistikaamet;
+
+Kaitsepolitseiamet;
+
+Kodakondsus– ja Migratsiooniamet;
+
+Piirivalveamet;
+
+Politseiamet;
+
+Eesti Kohtuekspertiisi Instituut;
+
+Keskkriminaalpolitsei;
+
+Päästeamet;
+
+Andmekaitse Inspektsioon;
+
+Ravimiamet;
+
+Sotsiaalkindlustusamet;
+
+Tööturuamet;
+
+Tervishoiuamet;
+
+Tervisekaitseinspektsioon;
+
+Tööinspektsioon;
+
+Lennuamet;
+
+Maanteeamet;
+
+Veeteede Amet;
+
+Julgestuspolitsei;
+
+Kaitseressursside Amet;
+
+Kaitseväe Logistikakeskus;
+
+Tehnilise Järelevalve Amet.
+
+##### IRLANDA
+
+President’s Establishment
+
+Houses of the Oireachtas — [Parlamento]
+
+Department of theTaoiseach — [Primeiro Ministro]
+
+Central Statistics Office
+
+Department of Finance
+
+Office of the Comptroller and Auditor General
+
+Office of the Revenue Commissioners
+
+Office of Public Works
+
+State Laboratory
+
+Office of the Attorney General
+
+Office of the Director of Public Prosecutions
+
+Valuation Office
+
+Office of the Commission for Public Service Appointments
+
+Public Appointments Service
+
+Office of the Ombudsman
+
+Chief State Solicitor’s Office
+
+Department of Justice, Equality and Law Reform
+
+Courts Service
+
+Prisons Service
+
+Office of the Commissioners of Charitable Donations and Bequests
+
+Department of the Environment, Heritage and Local Government
+
+Department of Education and Science
+
+Department of Communications, Energy and Natural Resources
+
+Department of Agriculture, Fisheries and Food
+
+Department of Transport
+
+Department of Health and Children
+
+Department of Enterprise, Trade and Employment
+
+Department of Arts, Sports and Tourism
+
+Department of Defence
+
+Department of Foreign Affairs
+
+Department of Social and Family Affairs
+
+Department of Community, Rural and Gaeltacht — [regiões onde se fala o gaélico] Affairs
+
+Arts Council
+
+National Gallery.
+
+##### GRÉCIA
+
+Υπουργείο Εσωτερικών;
+
+Υπουργείο Εξωτερικών;
+
+Υπουργείο Οικονομίας και Οικονομικών;
+
+Υπουργείο Ανάπτυξης;
+
+Υπουργείο Δικαιοσύνης;
+
+Υπουργείο Εθνικής Παιδείας και Θρησκευμάτων;
+
+Υπουργείο Πολιτισμού;
+
+Υπουργείο Υγείας και Κοινωνικής Αλληλεγγύης;
+
+Υπουργείο Περιβάλλοντος, Χωροταξίας και Δημοσίων Έργων;
+
+Υπουργείο Απασχόλησης και Κοινωνικής Προστασίας;
+
+Υπουργείο Μεταφορών και Επικοινωνιών;
+
+Υπουργείο Αγροτικής Ανάπτυξης και Τροφίμων;
+
+Υπουργείο Εμπορικής Ναυτιλίας, Αιγαίου και Νησιωτικής Πολιτικής;
+
+Υπουργείο Μακεδονίας– Θράκης;
+
+Γενική Γραμματεία Επικοινωνίας;
+
+Γενική Γραμματεία Ενημέρωσης;
+
+Γενική Γραμματεία Νέας Γενιάς;
+
+Γενική Γραμματεία Ισότητας;
+
+Γενική Γραμματεία Κοινωνικών Ασφαλίσεων;
+
+Γενική Γραμματεία Απόδημου Ελληνισμού;
+
+Γενική Γραμματεία Βιομηχανίας;
+
+Γενική Γραμματεία Έρευνας και Τεχνολογίας;
+
+Γενική Γραμματεία Αθλητισμού;
+
+Γενική Γραμματεία Δημοσίων Έργων;
+
+Γενική Γραμματεία Εθνικής Στατιστικής Υπηρεσίας Ελλάδος;
+
+Εθνικό Συμβούλιο Κοινωνικής Φροντίδας;
+
+Οργανισμός Εργατικής Κατοικίας;
+
+Εθνικό Τυπογραφείο;
+
+Γενικό Χημείο του Κράτους;
+
+Ταμείο Εθνικής Οδοποιίας;
+
+Εθνικό Καποδιστριακό Πανεπιστήμιο Αθηνών;
+
+Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης;
+
+Δημοκρίτειο Πανεπιστήμιο Θράκης;
+
+Πανεπιστήμιο Αιγαίου;
+
+Πανεπιστήμιο Ιωαννίνων;
+
+Πανεπιστήμιο Πατρών;
+
+Πανεπιστήμιο Μακεδονίας;
+
+Πολυτεχνείο Κρήτης;
+
+Σιβιτανίδειος Δημόσια Σχολή Τεχνών και Επαγγελμάτων;
+
+Αιγινήτειο Νοσοκομείο;
+
+Αρεταίειο Νοσοκομείο;
+
+Εθνικό Κέντρο Δημόσιας Διοίκησης;
+
+Οργανισμός Διαχείρισης Δημοσίου Υλικού;
+
+Οργανισμός Γεωργικών Ασφαλίσεων;
+
+Οργανισμός Σχολικών Κτιρίων;
+
+Γενικό Επιτελείο Στρατού;
+
+Γενικό Επιτελείο Ναυτικού;
+
+Γενικό Επιτελείο Αεροπορίας;
+
+Ελληνική Επιτροπή Ατομικής Ενέργειας;
+
+Γενική Γραμματεία Εκπαίδευσης Ενηλίκων;
+
+Υπουργείο Εθνικής Άμυνας;
+
+Γενική Γραμματεία Εμπορίου.
+
+##### ESPANHA
+
+Presidencia de Gobierno
+
+Ministerio de Asuntos Exteriores y de Cooperación
+
+Ministerio de Justicia
+
+Ministerio de Defensa
+
+Ministerio de Economía y Hacienda
+
+Ministerio del Interior
+
+Ministerio de Fomento
+
+Ministerio de Educación, Política Social y Deportes
+
+Ministerio de Industria, Turismo y Comercio
+
+Ministerio de Trabajo e Inmigración
+
+Ministerio de la Presidencia
+
+Ministerio de Administraciones Públicas
+
+Ministerio de Cultura
+
+Ministerio de Sanidad y Consumo
+
+Ministerio de Medio Ambiente y Medio Rural y Marino
+
+Ministerio de Vivienda
+
+Ministerio de Ciencia e Innovación
+
+Ministerio de Igualdad
+
+##### FRANÇA
+
+##### 1. Ministérios
+
+Services du Premier ministre
+
+Ministère chargé de la santé, de la jeunesse et des sports
+
+Ministère chargé de l’intérieur, de l’outre-mer et des collectivités territoriales
+
+Ministère chargé de la justice
+
+Ministère chargé de la défense
+
+Ministère chargé des affaires étrangères et européennes
+
+Ministère chargé de l’éducation nationale
+
+Ministère chargé de l’économie, des finances et de l’emploi
+
+Secrétariat d’Etat aux transports
+
+Secrétariat d’Etat aux entreprises et au commerce extérieur
+
+Ministère chargé du travail, des relations sociales et de la solidarité
+
+Ministère chargé de la culture et de la communication
+
+Ministère chargé du budget, des comptes publics et de la fonction publique
+
+Ministère chargé de l’agriculture et de la pêche
+
+Ministère chargé de l’enseignement supérieur et de la recherche
+
+Ministère chargé de l’écologie, du développement et de l’aménagement durables
+
+Secrétariat d’Etat à la fonction publique
+
+Ministère chargé du logement et de la ville
+
+Secrétariat d’Etat à la coopération et à la francophonie
+
+Secrétariat d’Etat à l’outre-mer
+
+Secrétariat d’Etat à la jeunesse, des sports et de la vie associative
+
+Secrétariat d’Etat aux anciens combattants
+
+Ministère chargé de l’immigration, de l’intégration, de l’identité nationale et du co-développement
+
+Secrétariat d’Etat en charge de la prospective et de l’évaluation des politiques publiques
+
+Secrétariat d’Etat aux affaires européennes,
+
+Secrétariat d’Etat aux affaires étrangères et aux droits de l’homme
+
+Secrétariat d’Etat à la consommation et au tourisme
+
+Secrétariat d’Etat à la politique de la ville
+
+Secrétariat d’Etat à la solidarité
+
+Secrétariat d’Etat en charge de l’industrie et de la consommation
+
+Secrétariat d’Etat en charge de l’emploi
+
+Secrétariat d’Etat en charge du commerce, de l’artisanat, des PME, du tourisme et des services
+
+Secrétariat d’Etat en charge de l’écologie
+
+Secrétariat d’Etat en charge du développement de la région-capitale
+
+Secrétariat d’Etat en charge de l’aménagement du territoire
+
+##### 2. Instituições, autoridades e jurisdições independentes
+
+Présidence de la République
+
+Assemblée Nationale
+
+Sénat
+
+Conseil constitutionnel
+
+Conseil économique et social
+
+Conseil supérieur de la magistrature
+
+Agence française contre le dopage
+
+Autorité de contrôle des assurances et des mutuelles
+
+Autorité de contrôle des nuisances sonores aéroportuaires
+
+Autorité de régulation des communications électroniques et des postes
+
+Autorité de sûreté nucléaire
+
+Autorité indépendante des marchés financiers
+
+Comité national d’évaluation des établissements publics à caractère scientifique, culturel et professionnel
+
+Commission d’accès aux documents administratifs
+
+Commission consultative du secret de la défense nationale
+
+Commission nationale des comptes de campagne et des financements politiques
+
+Commission nationale de contrôle des interceptions de sécurité
+
+Commission nationale de déontologie de la sécurité
+
+Commission nationale du débat public
+
+Commission nationale de l’informatique et des libertés
+
+Commission des participations et des transferts
+
+Commission de régulation de l’énergie
+
+Commission de la sécurité des consommateurs
+
+Commission des sondages
+
+Commission de la transparence financière de la vie politique
+
+Conseil de la concurrence
+
+Conseil des ventes volontaires de meubles aux enchères publiques
+
+Conseil supérieur de l’audiovisuel
+
+Défenseur des enfants
+
+Haute autorité de lutte contre les discriminations et pour l’égalité
+
+Haute autorité de santé
+
+Médiateur de la République
+
+Cour de justice de la République
+
+Tribunal des Conflits
+
+Conseil d’Etat
+
+Cours administratives d’appel
+
+Tribunaux administratifs
+
+Cour des Comptes
+
+Chambres régionales des Comptes
+
+Cours et tribunaux de l’ordre judiciaire (Cour de Cassation, Cours d’Appel, Tribunaux d’instance et Tribunaux de grande instance)
+
+##### 3. Organismos nacionais de direito público
+
+Académie de France à Rome
+
+Académie de marine
+
+Académie des sciences d’outre-mer
+
+Académie des technologies
+
+Agence centrale des organismes de sécurité sociale (ACOSS)
+
+Agence de biomédicine
+
+Agence pour l’enseignement du français à l’étranger
+
+Agence française de sécurité sanitaire des aliments
+
+Agence française de sécurité sanitaire de l’environnement et du travail
+
+Agence Nationale pour la cohésion sociale et l’égalité des chances
+
+Agence nationale pour la garantie des droits des mineurs
+
+Agences de l’eau
+
+Agence Nationale de l’Accueil des Etrangers et des migrations
+
+Agence nationale pour l’amélioration des conditions de travail (ANACT
+
+Agence nationale pour l’amélioration de l’habitat (ANAH)
+
+Agence Nationale pour la Cohésion Sociale et l’Egalité des Chances
+
+Agence nationale pour l’indemnisation des français d’outre-mer (ANIFOM)
+
+Assemblée permanente des chambres d’agriculture (APCA)
+
+Bibliothèque publique d’information
+
+Bibliothèque nationale de France
+
+Bibliothèque nationale et universitaire de Strasbourg
+
+Caisse des Dépôts et Consignations
+
+Caisse nationale des autoroutes (CNA)
+
+Caisse nationale militaire de sécurité sociale (CNMSS)
+
+Caisse de garantie du logement locatif social
+
+Casa de Velasquez
+
+Centre d’enseignement zootechnique
+
+Centre d’études de l’emploi
+
+Centre d’études supérieures de la sécurité sociale
+
+Centres de formation professionnelle et de promotion agricole
+
+Centre hospitalier des Quinze-Vingts
+
+Centre international d’études supérieures en sciences agronomiques (Montpellier Sup Agro)
+
+Centre des liaisons européennes et internationales de sécurité sociale
+
+Centre des Monuments Nationaux
+
+Centre national d’art et de culture Georges Pompidou
+
+Centre national des arts plastiques
+
+Centre national de la cinématographie
+
+Centre National d’Etudes et d’expérimentation du machinisme agricole, du génie rural, des eaux et des forêts (CEMAGREF)
+
+Centre national du livre
+
+Centre national de documentation pédagogique
+
+Centre national des œuvres universitaires et scolaires (CNOUS)
+
+Centre national professionnel de la propriété forestière
+
+Centre National de la Recherche Scientifique (C.N.R.S)
+
+Centres d’éducation populaire et de sport (CREPS)
+
+Centres régionaux des œuvres universitaires (CROUS)
+
+Collège de France
+
+Conservatoire de l’espace littoral et des rivages lacustres
+
+Conservatoire National des Arts et Métiers
+
+Conservatoire national supérieur de musique et de danse de Paris
+
+Conservatoire national supérieur de musique et de danse de Lyon
+
+Conservatoire national supérieur d’art dramatique
+
+Ecole centrale de Lille
+
+Ecole centrale de Lyon
+
+École centrale des arts et manufactures
+
+École française d’archéologie d’Athènes
+
+École française d’Extrême-Orient
+
+École française de Rome
+
+École des hautes études en sciences sociales
+
+Ecole du Louvre
+
+École nationale d’administration
+
+École nationale de l’aviation civile (ENAC)
+
+École nationale des Chartes
+
+École nationale d’équitation
+
+Ecole Nationale du Génie de l’Eau et de l’environnement de Strasbourg
+
+Écoles nationales d’ingénieurs
+
+Ecole nationale d’ingénieurs des industries des techniques agricoles et alimentaires de Nantes
+
+Écoles nationales d’ingénieurs des travaux agricoles
+
+École nationale de la magistrature
+
+Écoles nationales de la marine marchande
+
+École nationale de la santé publique (ENSP)
+
+École nationale de ski et d’alpinisme
+
+École nationale supérieure des arts décoratifs
+
+École nationale supérieure des arts et techniques du théâtre
+
+École nationale supérieure des arts et industries textiles Roubaix
+
+Écoles nationales supérieures d’arts et métiers
+
+École nationale supérieure des beaux-arts
+
+École nationale supérieure de céramique industrielle
+
+École nationale supérieure de l’électronique et de ses applications (ENSEA)
+
+Ecole nationale supérieure du paysage de Versailles
+
+Ecole Nationale Supérieure des Sciences de l’information et des bibliothécaires
+
+Ecole nationale supérieure de la sécurité sociale
+
+Écoles nationales vétérinaires
+
+École nationale de voile
+
+Écoles normales supérieures
+
+École polytechnique
+
+École technique professionnelle agricole et forestière de Meymac (Corrèze)
+
+École de sylviculture Crogny (Aube)
+
+École de viticulture et d’œnologie de la Tour– Blanche (Gironde)
+
+École de viticulture — Avize (Marne)
+
+Etablissement national d’enseignement agronomique de Dijon
+
+Établissement national des invalides de la marine (ENIM)
+
+Établissement national de bienfaisance Koenigswarter
+
+Établissement public du musée et du domaine national de Versailles
+
+Fondation Carnegie
+
+Fondation Singer-Polignac
+
+Haras nationaux
+
+Hôpital national de Saint-Maurice
+
+Institut des hautes études pour la science et la technologie
+
+Institut français d’archéologie orientale du Caire
+
+Institut géographique national
+
+Institut National de l’origine et de la qualité
+
+Institut national des hautes études de sécurité
+
+Institut de veille sanitaire
+
+Institut National d’enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes
+
+Institut National d’Etudes Démographiques (I.N.E.D)
+
+Institut National d’Horticulture
+
+Institut National de la jeunesse et de l’éducation populaire
+
+Institut national des jeunes aveugles — Paris
+
+Institut national des jeunes sourds — Bordeaux
+
+Institut national des jeunes sourds — Chambéry
+
+Institut national des jeunes sourds — Metz
+
+Institut national des jeunes sourds — Paris
+
+Institut national de physique nucléaire et de physique des particules (I.N.P.N.P.P)
+
+Institut national de la propriété industrielle
+
+Institut National de la Recherche Agronomique (I.N.R.A)
+
+Institut National de la Recherche Pédagogique (I.N.R.P)
+
+Institut National de la Santé et de la Recherche Médicale (I.N.S.E.R.M)
+
+Institut national d’histoire de l’art (I.N.H.A.)
+
+Institut national de recherches archéologiques préventives
+
+Institut National des Sciences de l’Univers
+
+Institut National des Sports et de l’Education Physique
+
+Institut national supérieur de formation et de recherche pour l’éducation des jeunes handicapés et les enseignements inadaptés
+
+Instituts nationaux polytechniques
+
+Instituts nationaux des sciences appliquées
+
+Institut national de recherche en informatique et en automatique (INRIA)
+
+Institut national de recherche sur les transports et leur sécurité (INRETS)
+
+Institut de Recherche pour le Développement
+
+Instituts régionaux d’administration
+
+Institut des Sciences et des Industries du vivant et de l’environnement (Agro Paris Tech)
+
+Institut supérieur de mécanique de Paris
+
+Institut Universitaires de Formation des Maîtres
+
+Musée de l’armée
+
+Musée Gustave-Moreau
+
+Musée national de la marine
+
+Musée national J.-J.-Henner
+
+Musée du Louvre
+
+Musée du Quai Branly
+
+Muséum National d’Histoire Naturelle
+
+Musée Auguste-Rodin
+
+Observatoire de Paris
+
+Office français de protection des réfugiés et apatrides
+
+Office National des Anciens Combattants et des Victimes de Guerre (ONAC)
+
+Office national de la chasse et de la faune sauvage
+
+Office National de l’eau et des milieux aquatiques
+
+Office national d’information sur les enseignements et les professions (ONISEP)
+
+Office universitaire et culturel français pour l’Algérie
+
+Ordre national de la Légion d’honneur
+
+Palais de la découverte
+
+Parcs nationaux
+
+Universités
+
+##### 4. Outros organismos públicos
+
+Union des groupements d’achats publics (UGAP)
+
+Agence Nationale pour l’emploi (A.N.P.E)
+
+Caisse Nationale des Allocations Familiales (CNAF)
+
+Caisse Nationale d’Assurance Maladie des Travailleurs Salariés (CNAMS)
+
+Caisse Nationale d’Assurance-Vieillesse des Travailleurs Salariés (CNAVTS)
+
+##### CROÁCIA
+
+Hrvatski sabor
+
+Predsjednik Republike Hrvatske
+
+Ured predsjednika Republike Hrvatske
+
+Ured predsjednika Republike Hrvatske po prestanku obnašanja dužnosti
+
+Vlada Republike Hrvatske
+
+uredi Vlade Republike Hrvatske
+
+Ministarstvo gospodarstva
+
+Ministarstvo regionalnog razvoja i fondova Europske unije
+
+Ministarstvo financija
+
+Ministarstvo obrane
+
+Ministarstvo vanjskih i europskih poslova
+
+Ministarstvo unutarnjih poslova
+
+Ministarstvo pravosuđa
+
+Ministarstvo uprave
+
+Ministarstvo poduzetništva i obrta
+
+Ministarstvo rada i mirovinskog sustava
+
+Ministarstvo pomorstva, prometa i infrastrukture
+
+Ministarstvo poljoprivrede
+
+Ministarstvo turizma
+
+Ministarstvo zaštite okoliša i prirode
+
+Ministarstvo graditeljstva i prostornog uređenja
+
+Ministarstvo branitelja
+
+Ministarstvo socijalne politike i mladih
+
+Ministarstvo zdravlja
+
+Ministarstvo znanosti, obrazovanja i sporta
+
+Ministarstvo kulture
+
+državne upravne organizacije
+
+uredi državne uprave u županijama
+
+Ustavni sud Republike Hrvatske
+
+Vrhovni sud Republike Hrvatske
+
+sudovi Državno sudbeno vijeće
+
+državna odvjetništva
+
+Državnoodvjetničko vijeće
+
+pravobraniteljstva
+
+Državna komisija za kontrolu postupaka javne nabave
+
+Hrvatska narodna banka
+
+državne agencije i uredi
+
+Državni ured za reviziju
+
+##### ITÁLIA
+
+Organismos adjudicantes
+
+Presidenza del Consiglio dei Ministri
+
+Ministero degli Affari Esteri
+
+Ministero dell’Interno
+
+Ministero della Giustizia e Uffici giudiziari (esclusi i giudici di pace)
+
+Ministero della Difesa
+
+Ministero dell’Economia e delle Finanze
+
+Ministero dello Sviluppo Economico
+
+Ministero delle Politiche Agricole, Alimentari e Forestali
+
+Ministero dell’Ambiente — Tutela del Territorio e del Mare
+
+Ministero delle Infrastrutture e dei Trasporti
+
+Ministero del Lavoro, della Salute e delle Politiche Sociali
+
+Ministero dell’Istruzione, Università e Ricerca
+
+Ministero per i Beni e le Attività culturali, comprensivo delle sue articolazioni periferiche
+
+Outros organismos públicos:
+
+CONSIP (Concessionaria Servizi Informatici Pubblici)
+
+##### CHIPRE
+
+Προεδρία και Προεδρικό Μέγαρο
+
+Γραφείο Συντονιστή Εναρμόνισης
+
+Υπουργικό Συμβούλιο
+
+Βουλή των Αντιπροσώπων
+
+Δικαστική Υπηρεσία
+
+Νομική Υπηρεσία της Δημοκρατίας
+
+Ελεγκτική Υπηρεσία της Δημοκρατίας
+
+Επιτροπή Δημόσιας Υπηρεσίας
+
+Επιτροπή Εκπαιδευτικής Υπηρεσίας
+
+Γραφείο Επιτρόπου Διοικήσεως
+
+Επιτροπή Προστασίας Ανταγωνισμού
+
+Υπηρεσία Εσωτερικού Ελέγχου
+
+Γραφείο Προγραμματισμού
+
+Γενικό Λογιστήριο της Δημοκρατίας
+
+Γραφείο Επιτρόπου Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+
+Γραφείο Εφόρου Δημοσίων Ενισχύσεων
+
+Αναθεωρητική Αρχή Προσφορών
+
+Υπηρεσία Εποπτείας και Ανάπτυξης Συνεργατικών Εταιρειών
+
+Αναθεωρητική Αρχή Προσφύγων
+
+Υπουργείο Άμυνας
+
+Υπουργείο Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+
+Τμήμα Γεωργίας
+
+Κτηνιατρικές Υπηρεσίες
+
+Τμήμα Δασών
+
+Τμήμα Αναπτύξεως Υδάτων
+
+Τμήμα Γεωλογικής Επισκόπησης
+
+Μετεωρολογική Υπηρεσία
+
+Τμήμα Αναδασμού
+
+Υπηρεσία Μεταλλείων
+
+Ινστιτούτο Γεωργικών Ερευνών
+
+Τμήμα Αλιείας και Θαλάσσιων Ερευνών
+
+Υπουργείο Δικαιοσύνης και Δημοσίας Τάξεως
+
+Αστυνομία
+
+Πυροσβεστική Υπηρεσία Κύπρου
+
+Τμήμα Φυλακών
+
+Υπουργείο Εμπορίου, Βιομηχανίας και Τουρισμού
+
+Τμήμα Εφόρου Εταιρειών και Επίσημου Παραλήπτη
+
+Υπουργείο Εργασίας και Κοινωνικών Ασφαλίσεων
+
+Τμήμα Εργασίας
+
+Τμήμα Κοινωνικών Ασφαλίσεων
+
+Τμήμα Υπηρεσιών Κοινωνικής Ευημερίας
+
+Κέντρο Παραγωγικότητας Κύπρου
+
+Ανώτερο Ξενοδοχειακό Ινστιτούτο Κύπρου
+
+Ανώτερο Τεχνολογικό Ινστιτούτο
+
+Τμήμα Επιθεώρησης Εργασίας
+
+Τμήμα Εργασιακών Σχέσεων
+
+Υπουργείο Εσωτερικών
+
+Επαρχιακές Διοικήσεις
+
+Τμήμα Πολεοδομίας και Οικήσεως
+
+Τμήμα Αρχείου Πληθυσμού και Μεταναστεύσεως
+
+Τμήμα Κτηματολογίου και Χωρομετρίας
+
+Γραφείο Τύπου και Πληροφοριών
+
+Πολιτική Άμυνα
+
+Υπηρεσία Μέριμνας και Αποκαταστάσεων Εκτοπισθέντων
+
+Υπηρεσία Ασύλου
+
+Υπουργείο Εξωτερικών
+
+Υπουργείο Οικονομικών
+
+Τελωνεία
+
+Τμήμα Εσωτερικών Προσόδων
+
+Στατιστική Υπηρεσία
+
+Τμήμα Κρατικών Αγορών και Προμηθειών
+
+Τμήμα Δημόσιας Διοίκησης και Προσωπικού
+
+Κυβερνητικό Τυπογραφείο
+
+Τμήμα Υπηρεσιών Πληροφορικής
+
+Υπουργείο Παιδείας και Πολιτισμού
+
+Υπουργείο Συγκοινωνιών και Έργων
+
+Τμήμα Δημοσίων Έργων
+
+Τμήμα Αρχαιοτήτων
+
+Τμήμα Πολιτικής Αεροπορίας
+
+Τμήμα Εμπορικής Ναυτιλίας
+
+Τμήμα Οδικών Μεταφορών
+
+Τμήμα Ηλεκτρομηχανολογικών Υπηρεσιών
+
+Τμήμα Ηλεκτρονικών Επικοινωνιών
+
+Υπουργείο Υγείας
+
+Φαρμακευτικές Υπηρεσίες
+
+Γενικό Χημείο
+
+Ιατρικές Υπηρεσίες και Υπηρεσίες Δημόσιας Υγείας
+
+Οδοντιατρικές Υπηρεσίες
+
+Υπηρεσίες Ψυχικής Υγείας
+
+##### LETÓNIA
+
+Ministérios, secretariados dos ministros encarregados de missões especiais e instituições que deles dependem
+
+Aizsardzības ministrija un tās padotībā esošās iestādes
+
+Ārlietu ministrija un tas padotībā esošās iestādes
+
+Bērnu un ģimenes lietu ministrija un tās padotībā esošas iestādes
+
+Ekonomikas ministrija un tās padotībā esošās iestādes
+
+Finanšu ministrija un tās padotībā esošās iestādes
+
+Iekšlietu ministrija un tās padotībā esošās iestādes
+
+Izglītības un zinātnes ministrija un tās padotībā esošās iestādes
+
+Kultūras ministrija un tas padotībā esošās iestādes
+
+Labklājības ministrija un tās padotībā esošās iestādes
+
+Reģionālās attīstības un pašvaldības lietu ministrija un tās padotībā esošās iestādes
+
+Satiksmes ministrija un tās padotībā esošās iestādes
+
+Tieslietu ministrija un tās padotībā esošās iestādes
+
+Veselības ministrija un tās padotībā esošās iestādes
+
+Vides ministrija un tās padotībā esošās iestādes
+
+Zemkopības ministrija un tās padotībā esošās iestādes
+
+Īpašu uzdevumu ministra sekretariāti un to padotībā esošās iestādes
+
+Satversmes aizsardzības birojs
+
+Outras instituições estatais
+
+Augstākā tiesa
+
+Centrālā vēlēšanu komisija
+
+Finanšu un kapitāla tirgus komisija
+
+Latvijas Banka
+
+Prokuratūra un tās pārraudzībā esošās iestādes
+
+Saeimas kanceleja un tās padotībā esošās iestādes
+
+Satversmes tiesa
+
+Valsts kanceleja un tās padotībā esošās iestādes
+
+Valsts kontrole
+
+Valsts prezidenta kanceleja
+
+Tiesībsarga birojs
+
+Nacionālā radio un televīzijas padome
+
+Citas valsts iestādes, kuras nav ministriju padotībā (Outras instituições estatais não subordinadas a ministérios)
+
+##### LITUÂNIA
+
+Prezidentūros kanceliarija
+
+Instituições da alçada do Seimas (Parlamento):
+
+Institutions accountable to the Seimas [Parliament]: Lietuvos mokslo taryba;
+
+Seimo kontrolierių įstaiga;
+
+Valstybės kontrolė;
+
+Specialiųjų tyrimų tarnyba;
+
+Valstybės saugumo departamentas;
+
+Konkurencijos taryba;
+
+Lietuvos gyventojų genocido ir rezistencijos tyrimo centras;
+
+Vertybinių popierių komisija;
+
+Ryšių reguliavimo tarnyba;
+
+Nacionalinė sveikatos taryba;
+
+Etninės kultūros globos taryba;
+
+Lygių galimybių kontrolieriaus tarnyba;
+
+Valstybinė kultūros paveldo komisija;
+
+Vaiko teisių apsaugos kontrolieriaus įstaiga;
+
+Valstybinė kainų ir energetikos kontrolės komisija;
+
+Valstybinė lietuvių kalbos komisija;
+
+Vyriausioji rinkimų komisija;
+
+Vyriausioji tarnybinės etikos komisija;
+
+Žurnalistų etikos inspektoriaus tarnyba.
+
+Vyriausybės kanceliarija
+
+Instituições da alçada do Governo:
+
+Ginklų fondas;
+
+Informacinės visuomenės plėtros komitetas;
+
+Kūno kultūros ir sporto departamentas;
+
+Lietuvos archyvų departamentas;
+
+Mokestinių ginčų komisija;
+
+Statistikos departamentas;
+
+Tautinių mažumų ir išeivijos departamentas;
+
+Valstybinė tabako ir alkoholio kontrolės tarnyba;
+
+Viešųjų pirkimų tarnyba;
+
+Narkotikų kontrolės departamentas;
+
+Valstybinė atominės energetikos saugos inspekcija;
+
+Valstybinė duomenų apsaugos inspekcija;
+
+Valstybinė lošimų priežiūros komisija;
+
+Valstybinė maisto ir veterinarijos tarnyba;
+
+Vyriausioji administracinių ginčų komisija;
+
+Draudimo priežiūros komisija;
+
+Lietuvos valstybinis mokslo ir studijų fondas;
+
+Lietuvių grįžimo į Tėvynę informacijos centras
+
+Konstitucinis Teismas
+
+Lietuvos bankas
+
+Aplinkos ministerija
+
+Instituições da alçada do Ministério do Ambiente:
+
+Generalinė miškų urėdija;
+
+Lietuvos geologijos tarnyba;
+
+Lietuvos hidrometeorologijos tarnyba;
+
+Lietuvos standartizacijos departamentas;
+
+Nacionalinis akreditacijos biuras;
+
+Valstybinė metrologijos tarnyba;
+
+Valstybinė saugomų teritorijų tarnyba;
+
+Valstybinė teritorijų planavimo ir statybos inspekcija.
+
+Finansų ministerija
+
+Instituições da alçada do Ministério das Finanças:
+
+Muitinės departamentas;
+
+Valstybės dokumentų technologinės apsaugos tarnyba;
+
+Valstybinė mokesčių inspekcija;
+
+Finansų ministerijos mokymo centras.
+
+Krašto apsaugos ministerija
+
+Instituições da alçada do Ministério da Defesa Nacional:
+
+Antrasis operatyvinių tarnybų departamentas;
+
+Centralizuota finansų ir turto tarnyba;
+
+Karo prievolės administravimo tarnyba;
+
+Krašto apsaugos archyvas;
+
+Krizių valdymo centras;
+
+Mobilizacijos departamentas;
+
+Ryšių ir informacinių sistemų tarnyba;
+
+Infrastruktūros plėtros departamentas;
+
+Valstybinis pilietinio pasipriešinimo rengimo centras.
+
+Lietuvos kariuomenė
+
+Krašto apsaugos sistemos kariniai vienetai ir tarnybos
+
+Kultūros ministerija
+
+Instituições da alçada do Ministério da Cultura:
+
+Kultūros paveldo departamentas;
+
+Valstybinė kalbos inspekcija.
+
+Socialinės apsaugos ir darbo ministerija
+
+Instituições da alçada do Ministério da Segurança Social e do Emprego:
+
+Garantinio fondo administracija;
+
+Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba;
+
+Lietuvos darbo birža;
+
+Lietuvos darbo rinkos mokymo tarnyba;
+
+Trišalės tarybos sekretoriatas;
+
+Socialinių paslaugų priežiūros departamentas;
+
+Darbo inspekcija;
+
+Valstybinio socialinio draudimo fondo valdyba;
+
+Neįgalumo ir darbingumo nustatymo tarnyba;
+
+Ginčų komisija;
+
+Techninės pagalbos neįgaliesiems centras;
+
+Neįgaliųjų reikalų departamentas.
+
+Susisiekimo ministerija
+
+Instituições da alçada do Ministério dos Transportes e Comunicações:
+
+Lietuvos automobilių kelių direkcija;
+
+Valstybinė geležinkelio inspekcija;
+
+Valstybinė kelių transporto inspekcija;
+
+Pasienio kontrolės punktų direkcija.
+
+Sveikatos apsaugos ministerija
+
+Instituições da alçada do Ministério da Saúde:
+
+Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba;
+
+Valstybinė ligonių kasa;
+
+Valstybinė medicininio audito inspekcija;
+
+Valstybinė vaistų kontrolės tarnyba;
+
+Valstybinė teismo psichiatrijos ir narkologijos tarnyba;
+
+Valstybinė visuomenės sveikatos priežiūros tarnyba;
+
+Farmacijos departamentas;
+
+Sveikatos apsaugos ministerijos Ekstremalių sveikatai situacijų centras;
+
+Lietuvos bioetikos komitetas;
+
+Radiacinės saugos centras.
+
+Švietimo ir mokslo ministerija
+
+Instituições da alçada do Ministério da Educação e Ciência:
+
+Nacionalinis egzaminų centras;
+
+Studijų kokybės vertinimo centras.
+
+Teisingumo ministerija
+
+Instituições da alçada do Ministério da Justiça:
+
+Kalėjimų departamentas;
+
+Nacionalinė vartotojų teisių apsaugos taryba;
+
+Europos teisės departamentas
+
+Ūkio ministerija
+
+Instituições da alçada do Ministério da Economia:
+
+Įmonių bankroto valdymo departamentas;
+
+Valstybinė energetikos inspekcija;
+
+Valstybinė ne maisto produktų inspekcija;
+
+Valstybinis turizmo departamentas
+
+Užsienio reikalų ministerija
+
+Diplomatinės atstovybės ir konsulinės įstaigos užsienyje bei atstovybės prie tarptautinių organizacijų
+
+Vidaus reikalų ministerija
+
+Instituições da alçada do Ministério do Interior:
+
+Asmens dokumentų išrašymo centras;
+
+Finansinių nusikaltimų tyrimo tarnyba;
+
+Gyventojų registro tarnyba;
+
+Policijos departamentas;
+
+Priešgaisrinės apsaugos ir gelbėjimo departamentas;
+
+Turto valdymo ir ūkio departamentas;
+
+Vadovybės apsaugos departamentas;
+
+Valstybės sienos apsaugos tarnyba;
+
+Valstybės tarnybos departamentas;
+
+Informatikos ir ryšių departamentas;
+
+Migracijos departamentas;
+
+Sveikatos priežiūros tarnyba;
+
+Bendrasis pagalbos centras.
+
+Žemės ūkio ministerija
+
+Instituições da alçada do Ministério da Agricultura:
+
+Nacionalinė mokėjimo agentūra;
+
+Nacionalinė žemės tarnyba;
+
+Valstybinė augalų apsaugos tarnyba;
+
+Valstybinė gyvulių veislininkystės priežiūros tarnyba;
+
+Valstybinė sėklų ir grūdų tarnyba;
+
+Žuvininkystės departamentas
+
+Tribunais:
+
+Lietuvos Aukščiausiasis Teismas;
+
+Lietuvos apeliacinis teismas;
+
+Lietuvos vyriausiasis administracinis teismas;
+
+apygardų teismai;
+
+apygardų administraciniai teismai;
+
+apylinkių teismai;
+
+Nacionalinė teismų administracija
+
+Generalinė prokuratūra
+
+Outras entidades da administração pública central (instituições, organismos e agências)
+
+Aplinkos apsaugos agentūra;
+
+Valstybinė aplinkos apsaugos inspekcija;
+
+Aplinkos projektų valdymo agentūra;
+
+Miško genetinių išteklių, sėklų ir sodmenų tarnyba;
+
+Miško sanitarinės apsaugos tarnyba;
+
+Valstybinė miškotvarkos tarnyba;
+
+Nacionalinis visuomenės sveikatos tyrimų centras;
+
+Lietuvos AIDS centras;
+
+Nacionalinis organų transplantacijos biuras;
+
+Valstybinis patologijos centras;
+
+Valstybinis psichikos sveikatos centras;
+
+Lietuvos sveikatos informacijos centras;
+
+Slaugos darbuotojų tobulinimosi ir specializacijos centras;
+
+Valstybinis aplinkos sveikatos centras;
+
+Respublikinis mitybos centras;
+
+Užkrečiamųjų ligų profilaktikos ir kontrolės centras;
+
+Trakų visuomenės sveikatos priežiūros ir specialistų tobulinimosi centras;
+
+Visuomenės sveikatos ugdymo centras;
+
+Muitinės kriminalinė tarnyba;
+
+Muitinės informacinių sistemų centras;
+
+Muitinės laboratorija;
+
+Muitinės mokymo centras;
+
+Valstybinis patentų biuras;
+
+Lietuvos teismo ekspertizės centras;
+
+Centrinė hipotekos įstaiga;
+
+Lietuvos metrologijos inspekcija;
+
+Civilinės aviacijos administracija;
+
+Lietuvos saugios laivybos administracija;
+
+Transporto investicijų direkcija;
+
+Valstybinė vidaus vandenų laivybos inspekcija;
+
+Pabėgėlių priėmimo centras
+
+##### LUXEMBURGO
+
+Ministère d’Etat
+
+Ministère des Affaires Etrangères et de l’Immigration
+
+Ministère de l’Agriculture, de la Viticulture et du Développement Rural
+
+Ministère des Classes moyennes, du Tourisme et du Logement
+
+Ministère de la Culture, de l’Enseignement Supérieur et de la Recherche
+
+Ministère de l’Economie et du Commerce extérieur
+
+Ministère de l’Education nationale et de la Formation professionnelle
+
+Ministère de l’Egalité des chances
+
+Ministère de l’Environnement
+
+Ministère de la Famille et de l’Intégration
+
+Ministère des Finances
+
+Ministère de la Fonction publique et de la Réforme administrative
+
+Ministère de l’Intérieur et de l’Aménagement du territoire
+
+Ministère de la Justice
+
+Ministère de la Santé
+
+Ministère de la Sécurité sociale
+
+Ministère des Transports
+
+Ministère du Travail et de l’Emploi
+
+Ministère des Travaux publics
+
+##### HUNGRIA
+
+Egészségügyi Minisztérium
+
+Földművelésügyi és Vidékfejlesztési Minisztérium
+
+Gazdasági és Közlekedési Minisztérium
+
+Honvédelmi Minisztérium
+
+Igazságügyi és Rendészeti Minisztérium
+
+Környezetvédelmi és Vízügyi Minisztérium
+
+Külügyminisztérium
+
+Miniszterelnöki Hivatal
+
+Oktatási és Kulturális Minisztérium
+
+Önkormányzati és Területfejlesztési Minisztérium
+
+Pénzügyminisztérium
+
+Szociális és Munkaügyi Minisztérium
+
+Központi Szolgáltatási Főigazgatóság
+
+##### MALTA
+
+Uffiċċju tal-Prim Ministru (Gabinete do Primeiro Ministro)
+
+Ministeru għall-Familja u Solidarjeta’ Soċjali (Ministério da Família e da Solidariedade Social)
+
+Ministeru ta’ l-Edukazzjoni Zghazagh u Impjieg (Ministério da Educação, Juventude e Emprego)
+
+Ministeru tal-Finanzi (Ministério das Finanças)
+
+Ministeru tar-Riżorsi u l-Infrastruttura (Ministério dos Recursos e Infraestruturas)
+
+Ministeru tat-Turiżmu u Kultura (Ministério do Turismo e da Cultura)
+
+Ministeru tal-Ġustizzja u l-Intern (Ministério da Justiça e dos Assuntos Internos)
+
+Ministeru għall-Affarijiet Rurali u l-Ambjent (Ministério dos Assuntos Rurais e do Ambiente)
+
+Ministeru għal Għawdex (Ministério de Gozo)
+
+Ministeru tas-Saħħa, l-Anzjani u Kura fil-Kommunita’ (Ministério da Saúde, Terceira Idade e Cuidados de Saúde)
+
+Ministeru ta’ l-Affarijiet Barranin (Ministério dos Negócios Estrangeiros)
+
+Ministeru għall-Investimenti, Industrija u Teknologija ta’ Informazzjoni (Ministério do Investimento, Indústria e Tecnologia da Informação)
+
+Ministeru għall-Kompetittivà u Komunikazzjoni (Ministério da Competitividade e das Comunicações)
+
+Ministeru għall-Iżvilupp Urban u Toroq (Ministério do Desenvolvimento Urbano e das Estradas)
+
+##### PAÍSES BAIXOS
+
+Ministerie van Algemene Zaken
+
+Bestuursdepartement
+
+Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid
+
+Rijksvoorlichtingsdienst
+
+Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+
+Bestuursdepartement
+
+Centrale Archiefselectiedienst (CAS)
+
+Algemene Inlichtingen– en Veiligheidsdienst (AIVD)
+
+Agentschap Basisadministratie Persoonsgegevens en Reisdocumenten (BPR)
+
+Agentschap Korps Landelijke Politiediensten
+
+Ministerie van Buitenlandse Zaken
+
+Directoraat-generaal Regiobeleid en Consulaire Zaken (DGRC)
+
+Directoraat-generaal Politieke Zaken (DGPZ)
+
+Directoraat-generaal Internationale Samenwerking (DGIS)
+
+Directoraat-generaal Europese Samenwerking (DGES)
+
+Centrum tot Bevordering van de Import uit Ontwikkelingslanden (CBI)
+
+Centrale diensten ressorterend onder S/PlvS (Serviços centrais da tutela do Secretário-Geral e do Secretário-Geral Adjunto)
+
+Buitenlandse Posten (ieder afzonderlijk)
+
+Ministerie van Defensie — (Ministério da Defesa)
+
+Bestuursdepartement
+
+Commando Diensten Centra (CDC)
+
+Defensie Telematica Organisatie (DTO)
+
+Centrale directie van de Defensie Vastgoed Dienst
+
+De afzonderlijke regionale directies van de Defensie Vastgoed Dienst
+
+Defensie Materieel Organisatie (DMO)
+
+Landelijk Bevoorradingsbedrijf van de Defensie Materieel Organisatie
+
+Logistiek Centrum van de Defensie Materieel Organisatie
+
+Marinebedrijf van de Defensie Materieel Organisatie
+
+Defensie Pijpleiding Organisatie (DPO)
+
+Ministerie van Economische Zaken
+
+Bestuursdepartement
+
+Centraal Planbureau (CPB)
+
+SenterNovem
+
+Staatstoezicht op de Mijnen (SodM)
+
+Nederlandse Mededingingsautoriteit (NMa)
+
+Economische Voorlichtingsdienst (EVD)
+
+Agentschap Telecom
+
+Kenniscentrum Professioneel & Innovatief Aanbesteden, Netwerk voor Overheidsopdrachtgevers (PIANOo)
+
+Regiebureau Inkoop Rijksoverheid
+
+Octrooicentrum Nederland
+
+Consumentenautoriteit
+
+Ministerie van Financiën
+
+Bestuursdepartement
+
+Belastingdienst Automatiseringscentrum
+
+Belastingdienst
+
+de afzonderlijke Directies der Rijksbelastingen (as várias direções da Administração Fiscal e Aduaneira em todo o país)
+
+Fiscale Inlichtingen– en Opsporingsdienst (incl. Economische Controle dienst (ECD))
+
+Belastingdienst Opleidingen
+
+Dienst der Domeinen
+
+Ministerie van Justitie
+
+Bestuursdepartement
+
+Dienst Justitiële Inrichtingen
+
+Raad voor de Kinderbescherming
+
+Centraal Justitie Incasso Bureau
+
+Openbaar Ministerie
+
+Immigratie en Naturalisatiedienst
+
+Nederlands Forensisch Instituut
+
+Dienst Terugkeer & Vertrek
+
+Ministerie van Landbouw, Natuur en Voedselkwaliteit
+
+Bestuursdepartement
+
+Dienst Regelingen (DR)
+
+Agentschap Plantenziektenkundige Dienst (PD)
+
+Algemene Inspectiedienst (AID)
+
+Dienst Landelijk Gebied (DLG)
+
+Voedsel en Waren Autoriteit (VWA)
+
+Ministerie van Onderwijs, Cultuur en Wetenschappen
+
+Bestuursdepartement
+
+Inspectie van het Onderwijs
+
+Erfgoedinspectie
+
+Centrale Financiën Instellingen
+
+Nationaal Archief
+
+Adviesraad voor Wetenschaps– en Technologiebeleid
+
+Onderwijsraad
+
+Raad voor Cultuur
+
+Ministerie van Sociale Zaken en Werkgelegenheid
+
+Bestuursdepartement
+
+Inspectie Werk en Inkomen
+
+Agentschap SZW
+
+Ministerie van Verkeer en Waterstaat
+
+Bestuursdepartement
+
+Directoraat-Generaal Transport en Luchtvaart
+
+Directoraat-generaal Personenvervoer
+
+Directoraat-generaal Water
+
+Centrale diensten (Serviços centrais)
+
+Shared services Organisatie Verkeer en Watersaat
+
+Koninklijke Nederlandse Meteorologisch Instituut KNMI
+
+Rijkswaterstaat, Bestuur
+
+De afzonderlijke regionale Diensten van Rijkswaterstaat (os vários serviços regionais dependentes da Direção-Geral das Obras Públicas e da Gestão dos Recursos Hídricos)
+
+De afzonderlijke specialistische diensten van Rijkswaterstaat (os vários serviços especializados da Direção-Geral das Obras Públicas e da Gestão dos Recursos Hídricos)
+
+Adviesdienst Geo-Informatie en ICT
+
+Adviesdienst Verkeer en Vervoer (AVV)
+
+Bouwdienst
+
+Corporate Dienst
+
+Data ICT Dienst
+
+Dienst Verkeer en Scheepvaart
+
+Dienst Weg– en Waterbouwkunde (DWW)
+
+Rijksinstituut voor Kunst en Zee (RIKZ)
+
+Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling (RIZA)
+
+Waterdienst
+
+Inspectie Verkeer en Waterstaat, Hoofddirectie
+
+Port state Control
+
+Directie Toezichtontwikkeling Communicatie en Onderzoek (TCO)
+
+Toezichthouder Beheer Eenheid Lucht
+
+Toezichthouder Beheer Eenheid Water
+
+Toezichthouder Beheer Eenheid Land
+
+Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+Bestuursdepartement
+
+Directoraat-generaal Wonen, Wijken en Integratie
+
+Directoraat-generaal Ruimte
+
+Directoraat-general Milieubeheer
+
+Rijksgebouwendienst
+
+VROM Inspectie
+
+Ministerie van Volksgezondheid, Welzijn en Sport
+
+Bestuursdepartement
+
+Inspectie Gezondheidsbescherming, Waren en Veterinaire Zaken
+
+Inspectie Gezondheidszorg
+
+Inspectie Jeugdhulpverlening en Jeugdbescherming
+
+Rijksinstituut voor de Volksgezondheid en Milieu (RIVM)
+
+Sociaal en Cultureel Planbureau
+
+Agentschap t.b.v. het College ter Beoordeling van Geneesmiddelen
+
+Tweede Kamer der Staten-Generaal
+
+Eerste Kamer der Staten-Generaal
+
+Raad van State
+
+Algemene Rekenkamer
+
+Nationale Ombudsman
+
+Kanselarij der Nederlandse Orden
+
+Kabinet der Koningin
+
+Raad voor de rechtspraak en de Rechtbanken
+
+##### ÁUSTRIA
+
+Bundeskanzleramt
+
+Bundesministerium für europäische und internationale Angelegenheiten
+
+Bundesministerium für Finanzen
+
+Bundesministerium für Gesundheit, Familie und Jugend
+
+Bundesministerium für Inneres
+
+Bundesministerium für Justiz
+
+Bundesministerium für Landesverteidigung
+
+Bundesministerium für Land– und Forstwirtschaft, Umwelt und Wasserwirtschaft
+
+Bundesministerium für Soziales und Konsumentenschutz
+
+Bundesministerium für Unterricht, Kunst und Kultur
+
+Bundesministerium für Verkehr, Innovation und Technologie
+
+Bundesministerium für Wirtschaft und Arbeit
+
+Bundesministerium für Wissenschaft und Forschung
+
+Österreichische Forschungs– und Prüfzentrum Arsenal Gesellschaft m.b.H
+
+Bundesbeschaffung G.m.b.H
+
+Bundesrechenzentrum G.m.b.H
+
+##### POLÓNIA
+
+Kancelaria Prezydenta RP
+
+Kancelaria Sejmu RP
+
+Kancelaria Senatu RP
+
+Kancelaria Prezesa Rady Ministrów
+
+Sąd Najwyższy
+
+Naczelny Sąd Administracyjny
+
+Wojewódzkie sądy administracyjne
+
+Sądy powszechne — rejonowe, okręgowe i apelacyjne
+
+Trybunał Konstytucyjny
+
+Najwyższa Izba Kontroli
+
+Biuro Rzecznika Praw Obywatelskich
+
+Biuro Rzecznika Praw Dziecka
+
+Biuro Ochrony Rządu
+
+Biuro Bezpieczeństwa Narodowego
+
+Centralne Biuro Antykorupcyjne
+
+Ministerstwo Pracy i Polityki Społecznej
+
+Ministerstwo Finansów
+
+Ministerstwo Gospodarki
+
+Ministerstwo Rozwoju Regionalnego
+
+Ministerstwo Kultury i Dziedzictwa Narodowego
+
+Ministerstwo Edukacji Narodowej
+
+Ministerstwo Obrony Narodowej
+
+Ministerstwo Rolnictwa i Rozwoju Wsi
+
+Ministerstwo Skarbu Państwa
+
+Ministerstwo Sprawiedliwości
+
+Ministerstwo Infrastruktury
+
+Ministerstwo Nauki i Szkolnictwa Wyższego
+
+Ministerstwo Środowiska
+
+Ministerstwo Spraw Wewnętrznych i Administracji
+
+Ministerstwo Spraw Zagranicznych
+
+Ministerstwo Zdrowia
+
+Ministerstwo Sportu i Turystyki
+
+Urząd Komitetu Integracji Europejskiej
+
+Urząd Patentowy Rzeczypospolitej Polskiej
+
+Urząd Regulacji Energetyki
+
+Urząd do Spraw Kombatantów i Osób Represjonowanych
+
+Urząd Transportu Kolejowego
+
+Urząd Dozoru Technicznego
+
+Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych
+
+Urząd do Spraw Repatriacji i Cudzoziemców
+
+Urząd Zamówień Publicznych
+
+Urząd Ochrony Konkurencji i Konsumentów
+
+Urząd Lotnictwa Cywilnego
+
+Urząd Komunikacji Elektronicznej
+
+Wyższy Urząd Górniczy
+
+Główny Urząd Miar
+
+Główny Urząd Geodezji i Kartografii
+
+Główny Urząd Nadzoru Budowlanego
+
+Główny Urząd Statystyczny
+
+Krajowa Rada Radiofonii i Telewizji
+
+Generalny Inspektor Ochrony Danych Osobowych
+
+Państwowa Komisja Wyborcza
+
+Państwowa Inspekcja Pracy
+
+Rządowe Centrum Legislacji
+
+Narodowy Fundusz Zdrowia
+
+Polska Akademia Nauk
+
+Polskie Centrum Akredytacji
+
+Polskie Centrum Badań i Certyfikacji
+
+Polska Organizacja Turystyczna
+
+Polski Komitet Normalizacyjny
+
+Zakład Ubezpieczeń Społecznych
+
+Komisja Nadzoru Finansowego
+
+Naczelna Dyrekcja Archiwów Państwowych
+
+Kasa Rolniczego Ubezpieczenia Społecznego
+
+Generalna Dyrekcja Dróg Krajowych i Autostrad
+
+Państwowa Inspekcja Ochrony Roślin i Nasiennictwa
+
+Komenda Główna Państwowej Straży Pożarnej
+
+Komenda Główna Policji
+
+Komenda Główna Straży Granicznej
+
+Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych
+
+Główny Inspektorat Ochrony Środowiska
+
+Główny Inspektorat Transportu Drogowego
+
+Główny Inspektorat Farmaceutyczny
+
+Główny Inspektorat Sanitarny
+
+Główny Inspektorat Weterynarii
+
+Agencja Bezpieczeństwa Wewnętrznego
+
+Agencja Wywiadu
+
+Agencja Mienia Wojskowego
+
+Wojskowa Agencja Mieszkaniowa
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa
+
+Agencja Rynku Rolnego
+
+Agencja Nieruchomości Rolnych
+
+Państwowa Agencja Atomistyki
+
+Polska Agencja Żeglugi Powietrznej
+
+Polska Agencja Rozwiązywania Problemów Alkoholowych
+
+Agencja Rezerw Materiałowych
+
+Narodowy Bank Polski
+
+Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej
+
+Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych
+
+Instytut Pamięci Narodowej — Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiemu
+
+Rada Ochrony Pamięci Walk i Męczeństwa
+
+Służba Celna Rzeczypospolitej Polskiej
+
+Państwowe Gospodarstwo Leśne «Lasy Państwowe»
+
+Polska Agencja Rozwoju Przedsiębiorczości
+
+Urzędy wojewódzkie
+
+Samodzielne Publiczne Zakłady Opieki Zdrowotnej, jeśli ich organem założycielskim jest minister, centralny organ administracji rządowej lub wojewoda
+
+##### PORTUGAL
+
+Presidência do Conselho de Ministros
+
+Ministério das Finanças e da Administração Pública
+
+Ministério da Defesa Nacional
+
+Ministério dos Negócios Estrangeiros
+
+Ministério da Administração Interna
+
+Ministério da Justiça
+
+Ministério da Economia e da Inovação
+
+Ministério da Agricultura, Desenvolvimento Rural e Pescas
+
+Ministério da Educação
+
+Ministério da Ciência, Tecnologia e do Ensino Superior
+
+Ministério da Cultura
+
+Ministério da Saúde
+
+Ministério do Trabalho e da Solidariedade Social
+
+Ministério das Obras Públicas, Transportes e Comunicações
+
+Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+
+Presidência da República
+
+Tribunal Constitucional
+
+Tribunal de Contas
+
+Provedoria de Justiça
+
+##### ROMÉNIA
+
+Administrația Prezidențială
+
+Senatul României
+
+Camera Deputaților
+
+Inalta Curte de Casație și Justiție
+
+Curtea Constituțională
+
+Consiliul Legislativ
+
+Curtea de Conturi
+
+Consiliul Superior al Magistraturii
+
+Parchetul de pe lângă Inalta Curte de Casație și Justiție
+
+Secretariatul General al Guvernului
+
+Cancelaria primului ministru
+
+Ministerul Afacerilor Externe
+
+Ministerul Economiei și Finanțelor
+
+Ministerul Justiției
+
+Ministerul Apărării
+
+Ministerul Internelor și Reformei Administrative
+
+Ministerul Muncii, Familiei și Egalității de Sanse
+
+Ministerul pentru Intreprinderi Mici și Mijlocii, Comerț, Turism și Profesii Liberale
+
+Ministerul Agriculturii și Dezvoltării Rurale
+
+Ministerul Transporturilor
+
+Ministerul Dezvoltării, Lucrărilor Publice și Locuinței
+
+Ministerul Educației Cercetării și Tineretului
+
+Ministerul Sănătății Publice
+
+Ministerul Culturii și Cultelor
+
+Ministerul Comunicațiilor și Tehnologiei Informației
+
+Ministerul Mediului și Dezvoltării Durabile
+
+Serviciul Român de Informații
+
+Serviciul de Informații Externe
+
+Serviciul de Protecție și Pază
+
+Serviciul de Telecomunicații Speciale
+
+Consiliul Național al Audiovizualului
+
+Consiliul Concurenței (CC)
+
+Direcția Națională Anticorupție
+
+Inspectoratul General de Poliție
+
+Autoritatea Națională pentru Reglementarea și Monitorizarea Achizițiilor Publice
+
+Consiliul Național de Soluționare a Contestațiilor
+
+Autoritatea Națională de Reglementare pentru Serviciile Comunitare de Utilități Publice (ANRSC)
+
+Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor
+
+Autoritatea Națională pentru Protecția Consumatorilor
+
+Autoritatea Navală Română
+
+Autoritatea Feroviară Română
+
+Autoritatea Rutieră Română
+
+Autoritatea Națională pentru Protecția Drepturilor Copilului
+
+Autoritatea Națională pentru Persoanele cu Handicap
+
+Autoritatea Națională pentru Turism
+
+Autoritatea Națională pentru Restituirea Proprietăților
+
+Autoritatea Națională pentru Tineret
+
+Autoritatea Națională pentru Cercetare Stiințifică
+
+Autoritatea Națională pentru Reglementare în Comunicații și Tehnologia Informației
+
+Autoritatea Națională pentru Serviciile Societății Informaționale
+
+Autoritatea Electorală Permanente
+
+Agenția pentru Strategii Guvernamentale
+
+Agenția Națională a Medicamentului
+
+Agenția Națională pentru Sport
+
+Agenția Națională pentru Ocuparea Forței de Muncă
+
+Agenția Națională de Reglementare în Domeniul Energiei
+
+Agenția Română pentru Conservarea Energiei
+
+Agenția Națională pentru Resurse Minerale
+
+Agenția Română pentru Investiții Străine
+
+Agenția Națională pentru Întreprinderi Mici și Mijlocii și Cooperație
+
+Agenția Națională a Funcționarilor Publici
+
+Agenția Națională de Administrare Fiscală
+
+Agenția de Compensare pentru Achiziții de Tehnică Specială
+
+Agenția Națională Anti-doping
+
+Agenția Nucleară
+
+Agenția Națională pentru Protecția Familiei
+
+Agenția Națională pentru Egalitatea de Sanse între Bărbați și Femei
+
+Agenția Națională pentru Protecția Mediului
+
+Agenția națională Antidrog
+
+##### ESLOVÉNIA
+
+Predsednik Republike Slovenije
+
+Državni zbor Republike Slovenije
+
+Državni svet Republike Slovenije
+
+Varuh človekovih pravic
+
+Ustavno sodišče Republike Slovenije
+
+Računsko sodišče Republike Slovenije
+
+Državna revizijska komisja za revizijo postopkov oddaje javnih naročil
+
+Slovenska akademija znanosti in umetnosti
+
+Vladne službe
+
+Ministrstvo za finance
+
+Ministrstvo za notranje zadeve
+
+Ministrstvo za zunanje zadeve
+
+Ministrstvo za obrambo
+
+Ministrstvo za pravosodje
+
+Ministrstvo za gospodarstvo
+
+Ministrstvo za kmetijstvo, gozdarstvo in prehrano
+
+Ministrstvo za promet
+
+Ministrstvo za okolje in prostor
+
+Ministrstvo za delo, družino in socialne zadeve
+
+Ministrstvo za zdravje
+
+Ministrstvo za javno upravo
+
+Ministrstvo za šolstvo in šport
+
+Ministrstvo za visoko šolstvo, znanost in tehnologijo
+
+Ministrstvo za kulturo
+
+Vrhovno sodišče Republike Slovenije
+
+višja sodišča
+
+okrožna sodišča
+
+okrajna sodišča
+
+Vrhovno državno tožilstvo Republike Slovenije
+
+Okrožna državna tožilstva
+
+Državno pravobranilstvo
+
+Upravno sodišče Republike Slovenije
+
+Višje delovno in socialno sodišče
+
+delovna sodišča
+
+Davčna uprava Republike Slovenije
+
+Carinska uprava Republike Slovenije
+
+Urad Republike Slovenije za preprečevanje pranja denarja
+
+Urad Republike Slovenije za nadzor prirejanja iger na srečo
+
+Uprava Republike Slovenije za javna plačila
+
+Urad Republike Slovenije za nadzor proračuna
+
+Policija
+
+Inšpektorat Republike Slovenije za notranje zadeve
+
+Generalštab Slovenske vojske
+
+Uprava Republike Slovenije za zaščito in reševanje
+
+Inšpektorat Republike Slovenije za obrambo
+
+Inšpektorat Republike Slovenije za varstvo pred naravnimi in drugimi nesrečami
+
+Uprava Republike Slovenije za izvrševanje kazenskih sankcij
+
+Urad Republike Slovenije za varstvo konkurence
+
+Urad Republike Slovenije za varstvo potrošnikov
+
+Tržni inšpektorat Republike Slovenije
+
+Urad Republike Slovenije za intelektualno lastnino
+
+Inšpektorat Republike Slovenije za elektronske komunikacije, elektronsko podpisovanje in pošto
+
+Inšpektorat za energetiko in rudarstvo
+
+Agencija Republike Slovenije za kmetijske trge in razvoj podeželja
+
+Inšpektorat Republike Slovenije za kmetijstvo, gozdarstvo in hrano
+
+Fitosanitarna uprava Republike Slovenije
+
+Veterinarska uprava Republike Slovenije
+
+Uprava Republike Slovenije za pomorstvo
+
+Direkcija Republike Slovenije za caste
+
+Prometni inšpektorat Republike Slovenije
+
+Direkcija za vodenje investicij v javno železniško infrastrukturo
+
+Agencija Republike Slovenije za okolje
+
+Geodetska uprava Republike Slovenije
+
+Uprava Republike Slovenije za jedrsko varstvo
+
+Inšpektorat Republike Slovenije za okolje in prostor
+
+Inšpektorat Republike Slovenije za delo
+
+Zdravstveni inšpektorat
+
+Urad Republike Slovenije za kemikalije
+
+Uprava Republike Slovenije za varstvo pred sevanji
+
+Urad Republike Slovenije za meroslovje
+
+Urad za visoko šolstvo
+
+Urad Republike Slovenije za mladino
+
+Inšpektorat Republike Slovenije za šolstvo in šport
+
+Arhiv Republike Slovenije
+
+Inšpektorat Republike Slovenije za kulturo in medije
+
+Kabinet predsednika Vlade Republike Slovenije
+
+Generalni sekretariat Vlade Republike Slovenije
+
+Služba vlade za zakonodajo
+
+Služba vlade za evropske zadeve
+
+Služba vlade za lokalno samoupravo in regionalno politiko
+
+Urad vlade za komuniciranje
+
+Urad za enake možnosti
+
+Urad za verske skupnosti
+
+Urad za narodnosti
+
+Urad za makroekonomske analize in razvoj
+
+Statistični urad Republike Slovenije
+
+Slovenska obveščevalno-varnostna agencija
+
+Protokol Republike Slovenije
+
+Urad za varovanje tajnih podatkov
+
+Urad za Slovence v zamejstvu in po svetu
+
+Služba Vlade Republike Slovenije za razvoj
+
+Informacijski pooblaščenec
+
+Državna volilna komisija
+
+##### ESLOVÁQUIA
+
+Ministérios e outras autoridades do governo central referidas na Lei 575/2001 relativa à estrutura das atividades do governo e das autoridades centrais da administração pública, na versão em vigor:
+
+Kancelária Prezidenta Slovenskej republiky
+
+Národná rada Slovenskej republiky
+
+Ministerstvo hospodárstva Slovenskej republiky
+
+Ministerstvo financií Slovenskej republiky
+
+Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky
+
+Ministerstvo pôdohospodárstva Slovenskej republiky
+
+Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky
+
+Ministerstvo vnútra Slovenskej republiky
+
+Ministerstvo obrany Slovenskej republiky
+
+Ministerstvo spravodlivosti Slovenskej republiky
+
+Ministerstvo zahraničných vecí Slovenskej republiky
+
+Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky
+
+Ministerstvo životného prostredia Slovenskej republiky
+
+Ministerstvo školstva Slovenskej republiky
+
+Ministerstvo kultúry Slovenskej republiky
+
+Ministerstvo zdravotníctva Slovenskej republiky
+
+Úrad vlády Slovenskej republiky
+
+Protimonopolný úrad Slovenskej republiky
+
+Štatistický úrad Slovenskej republiky
+
+Úrad geodézie, kartografie a katastra Slovenskej republiky
+
+Úrad jadrového dozoru Slovenskej republiky
+
+Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky
+
+Úrad pre verejné obstarávanie
+
+Úrad priemyselného vlastníctva Slovenskej republiky
+
+Správa štátnych hmotných rezerv Slovenskej republiky
+
+Národný bezpečnostný úrad
+
+Ústavný súd Slovenskej republiky
+
+Najvyšši súd Slovenskej republiky
+
+Generálna prokuratura Slovenskej republiky
+
+Najvyšši kontrolný úrad Slovenskej republiky
+
+Telekomunikačný úrad Slovenskej republiky
+
+Úrad priemyselného vlastníctva Slovenskej republiky
+
+Úrad pre finančný trh
+
+Úrad na ochranu osobn ý ch udajov
+
+Kancelária verejneho ochranu prav
+
+##### FINLÂNDIA
+
+Oikeuskanslerinvirasto — Justitiekanslersämbetet
+
+Liikenne– ja viestintäministeriö — Kommunikationsministeriet
+
+Ajoneuvohallintokeskus AKE — Fordonsförvaltningscentralen AKE
+
+Ilmailuhallinto — Luftfartsförvaltningen
+
+Ilmatieteen laitos — Meteorologiska institutet
+
+Merenkulkulaitos — Sjöfartsverket
+
+Merentutkimuslaitos — Havsforskningsinstitutet
+
+Ratahallintokeskus RHK — Banförvaltningscentralen RHK
+
+Rautatievirasto — Järnvägsverket
+
+Tiehallinto — Vägförvaltningen
+
+Viestintävirasto — Kommunikationsverket
+
+Maa– ja metsätalousministeriö — Jord– och skogsbruksministeriet
+
+Elintarviketurvallisuusvirasto — Livsmedelssäkerhetsverket
+
+Maanmittauslaitos — Lantmäteriverket
+
+Maaseutuvirasto — Landsbygdsverket
+
+Oikeusministeriö — Justitieministeriet
+
+Tietosuojavaltuutetun toimisto — Dataombudsmannens byrå
+
+Tuomioistuimet — Domstolar
+
+Korkein oikeus — Högsta domstolen
+
+Korkein hallinto-oikeus — Högsta förvaltningsdomstolen
+
+Hovioikeudet — Hovrätter
+
+Käräjäoikeudet — Tingsrätter
+
+Hallinto-oikeudet –Förvaltningsdomstolar
+
+arkkinaoikeus — Marknadsdomstolen
+
+Työtuomioistuin — Arbetsdomstolen
+
+Vakuutusoikeus — Försäkringsdomstolen
+
+Kuluttajariitalautakunta — Konsumenttvistenämnden
+
+Vankeinhoitolaitos — Fångvårdsväsendet
+
+HEUNI — Yhdistyneiden Kansakuntien yhteydessä toimiva Euroopan kriminaalipolitiikan instituutti — HEUNI — Europeiska institutet för kriminalpolitik, verksamt i anslutning till Förenta nationerna
+
+Konkurssiasiamiehen toimisto — Konkursombudsmannens byrå
+
+Kuluttajariitalautakunta — Konsumenttvistenämnden
+
+Oikeushallinnon palvelukeskus — Justitieförvaltningens servicecentral
+
+Oikeushallinnon tietotekniikkakeskus — Justitieförvaltningens datateknikcentral
+
+Oikeuspoliittinen tutkimuslaitos (Optula) — Rättspolitiska forskningsinstitutet
+
+Oikeusrekisterikeskus — Rättsregistercentralen
+
+Onnettomuustutkintakeskus — Centralen för undersökning av olyckor
+
+Rikosseuraamusvirasto — Brottspåföljdsverket
+
+Rikosseuraamusalan koulutuskeskus — Brottspåföljdsområdets utbildningscentral
+
+Rikoksentorjuntaneuvosto — Rådet för brottsförebyggande
+
+Saamelaiskäräjät — Sametinget
+
+Valtakunnansyyttäjänvirasto — Riksåklagarämbetet
+
+Vankeinhoitolaitos — Fångvårdsväsendet
+
+Opetusministeriö — Undervisningsministeriet
+
+Opetushallitus — Utbildningsstyrelsen
+
+Valtion elokuvatarkastamo — Statens filmgranskningsbyrå
+
+Puolustusministeriö — Försvarsministeriet
+
+Puolustusvoimat — Försvarsmakten
+
+Sisäasiainministeriö — Inrikesministeriet
+
+Väestörekisterikeskus — Befolkningsregistercentralen
+
+Keskusrikospoliisi — Centralkriminalpolisen
+
+Liikkuva poliisi — Rörliga polisen
+
+Rajavartiolaitos — Gränsbevakningsväsendet
+
+Lääninhallitukset — Länstyrelserna
+
+Suojelupoliisi — Skyddspolisen
+
+Poliisiammattikorkeakoulu — Polisyrkeshögskolan
+
+Poliisin tekniikkakeskus — Polisens teknikcentral
+
+Poliisin tietohallintokeskus — Polisens datacentral
+
+Helsingin kihlakunnan poliisilaitos — Polisinrättningen i Helsingfors
+
+Pelastusopisto — Räddningsverket
+
+Hätäkeskuslaitos — Nödcentralsverket
+
+Maahanmuuttovirasto — Migrationsverket
+
+Sisäasiainhallinnon palvelukeskus — Inrikesförvaltningens servicecentral
+
+Sosiaali– ja terveysministeriö — Social– och hälsovårdsministeriet
+
+Työttömyysturvan muutoksenhakulautakunta — Besvärsnämnden för utkomstskyddsärenden
+
+Sosiaaliturvan muutoksenhakulautakunta — Besvärsnämnden för social trygghet
+
+Lääkelaitos — Läkemedelsverket
+
+Terveydenhuollon oikeusturvakeskus — Rättsskyddscentralen för hälsovården
+
+Säteilyturvakeskus — Strålsäkerhetscentralen
+
+Kansanterveyslaitos — Folkhälsoinstitutet
+
+Lääkehoidon kehittämiskeskus ROHTO — Utvecklingscentralen för läkemedelsbe-handling
+
+Sosiaali– ja terveydenhuollon tuotevalvontakeskus — Social– och hälsovårdens produkttillsynscentral
+
+Sosiaali– ja terveysalan tutkimus– ja kehittämiskeskus Stakes — Forsknings– och utvecklingscentralen för social– och hälsovården Stakes
+
+Vakuutusvalvontavirasto — Försäkringsinspektionen
+
+Työ– ja elinkeinoministeriö — Arbets– och näringsministeriet
+
+Kuluttajavirasto — Konsumentverket
+
+Kilpailuvirasto — Konkurrensverket
+
+Patentti– ja rekisterihallitus — Patent– och registerstyrelsen
+
+Valtakunnansovittelijain toimisto — Riksförlikningsmännens byrå
+
+Valtion turvapaikanhakijoiden vastaanottokeskukset – Statliga förläggningar för asylsökande
+
+Energiamarkkinavirasto - Energimarknadsverket
+
+Geologian tutkimuskeskus — Geologiska forskningscentralen
+
+Huoltovarmuuskeskus — Försörjningsberedskapscentralen
+
+Kuluttajatutkimuskeskus — Konsumentforskningscentralen
+
+Matkailun edistämiskeskus (MEK) — Centralen för turistfrämjande
+
+Mittatekniikan keskus (MIKES) — Mätteknikcentralen
+
+Tekes — teknologian ja innovaatioiden kehittämiskeskus - Tekes — utvecklingscentralen för teknologi och innovationer
+
+Turvatekniikan keskus (TUKES) — Säkerhetsteknikcentralen
+
+Valtion teknillinen tutkimuskeskus (VTT) — Statens tekniska forskningscentral
+
+Syrjintälautakunta — Nationella diskrimineringsnämnden
+
+Työneuvosto — Arbetsrådet
+
+Vähemmistövaltuutetun toimisto — Minoritetsombudsmannens byrå
+
+Ulkoasiainministeriö — Utrikesministeriet
+
+Valtioneuvoston kanslia — Statsrådets kansli
+
+Valtiovarainministeriö — Finansministeriet
+
+Valtiokonttori — Statskontoret
+
+Verohallinto — Skatteförvaltningen
+
+Tullilaitos — Tullverket
+
+Tilastokeskus — Statistikcentralen
+
+Valtion taloudellinen tutkimuskeskus — Statens ekonomiska forskiningscentral
+
+Ympäristöministeriö — Miljöministeriet
+
+Suomen ympäristökeskus — Finlands miljöcentral
+
+Asumisen rahoitus– ja kehityskeskus — Finansierings– och utvecklingscentralen för boendet
+
+Valtiontalouden tarkastusvirasto — Statens revisionsverk
+
+##### SUÉCIA
+
+##### A
+
+Affärsverket svenska kraftnät
+
+Akademien för de fria konsterna
+
+Alkohol– och läkemedelssortiments-nämnden
+
+Allmänna pensionsfonden
+
+Allmänna reklamationsnämnden
+
+Ambassader
+
+Ansvarsnämnd, statens
+
+Arbetsdomstolen
+
+Arbetsförmedlingen
+
+Arbetsgivarverk, statens
+
+Arbetslivsinstitutet
+
+Arbetsmiljöverket
+
+Arkitekturmuseet
+
+Arrendenämnder
+
+Arvsfondsdelegationen
+
+Arvsfondsdelegationen
+
+##### B
+
+Banverket
+
+Barnombudsmannen
+
+Beredning för utvärdering av medicinsk metodik, statens
+
+Bergsstaten
+
+Biografbyrå, statens
+
+Biografiskt lexikon, svenskt
+
+Birgittaskolan
+
+Blekinge tekniska högskola
+
+Bokföringsnämnden
+
+Bolagsverket
+
+Bostadsnämnd, statens
+
+Bostadskreditnämnd, statens
+
+Boverket
+
+Brottsförebyggande rådet
+
+Brottsoffermyndigheten
+
+##### C
+
+Centrala studiestödsnämnden
+
+##### D
+
+Danshögskolan
+
+Datainspektionen
+
+Departementen
+
+Domstolsverket
+
+Dramatiska institutet
+
+##### E
+
+Ekeskolan
+
+Ekobrottsmyndigheten
+
+Ekonomistyrningsverket
+
+Ekonomiska rådet
+
+Elsäkerhetsverket
+
+Energimarknadsinspektionen
+
+Energimyndighet, statens
+
+EU/FoU-rådet
+
+Exportkreditnämnden
+
+Exportråd, Sveriges
+
+##### F
+
+Fastighetsmäklarnämnden
+
+Fastighetsverk, statens
+
+Fideikommissnämnden
+
+Finansinspektionen
+
+Finanspolitiska rådet
+
+Finsk-svenska gränsälvskommissionen
+
+Fiskeriverket
+
+Flygmedicincentrum
+
+Folkhälsoinstitut, statens
+
+Fonden för fukt– och mögelskador
+
+Forskningsrådet för miljö, areella näringar och samhällsbyggande, Formas
+
+Folke Bernadotte Akademin
+
+Forskarskattenämnden
+
+Forskningsrådet för arbetsliv och socialvetenskap
+
+Fortifikationsverket
+
+Forum för levande historia
+
+Försvarets materielverk
+
+Försvarets radioanstalt
+
+Försvarets underrättelsenämnd
+
+Försvarshistoriska museer, statens
+
+Försvarshögskolan
+
+Försvarsmakten
+
+Försäkringskassan
+
+##### G
+
+Gentekniknämnden
+
+Geologiska undersökning
+
+Geotekniska institut, statens
+
+Giftinformationscentralen
+
+Glesbygdsverket
+
+Grafiska institutet och institutet för högre kommunikation– och reklamutbildning
+
+Granskningsnämnden för radio och TV
+
+Granskningsnämnden för försvarsuppfinningar
+
+Gymnastik– och Idrottshögskolan
+
+Göteborgs universitet
+
+##### H
+
+Handelsflottans kultur– och fritidsråd
+
+Handelsflottans pensionsanstalt
+
+Handelssekreterare
+
+Handelskamrar, auktoriserade
+
+Handikappombudsmannen
+
+Handikappråd, statens
+
+Harpsundsnämnden
+
+Haverikommission, statens
+
+Historiska museer, statens
+
+Hjälpmedelsinstitutet
+
+Hovrätterna
+
+Hyresnämnder
+
+Häktena
+
+Hälso– och sjukvårdens ansvarsnämnd
+
+Högskolan Dalarna
+
+Högskolan i Borås
+
+Högskolan i Gävle
+
+Högskolan i Halmstad
+
+Högskolan i Kalmar
+
+Högskolan i Karlskrona/Ronneby
+
+Högskolan i Kristianstad
+
+Högskolan i Skövde
+
+Högskolan i Trollhättan/Uddevalla
+
+Högskolan på Gotland
+
+Högskolans avskiljandenämnd
+
+Högskoleverket
+
+Högsta domstolen
+
+##### I
+
+ILO kommittén
+
+Inspektionen för arbetslöshetsförsäkringen
+
+Inspektionen för strategiska produkter
+
+Institut för kommunikationsanalys, statens
+
+Institut för psykosocial medicin, statens
+
+Institut för särskilt utbildningsstöd, statens
+
+Institutet för arbetsmarknadspolitisk utvärdering
+
+Institutet för rymdfysik
+
+Institutet för tillväxtpolitiska studier
+
+Institutionsstyrelse, statens
+
+Insättningsgarantinämnden
+
+Integrationsverket
+
+Internationella programkontoret för utbildningsområdet
+
+##### J
+
+Jordbruksverk, statens
+
+Justitiekanslern
+
+Jämställdhetsombudsmannen
+
+Jämställdhetsnämnden
+
+Järnvägar, statens
+
+Järnvägsstyrelsen
+
+##### K
+
+Kammarkollegiet
+
+Kammarrätterna
+
+Karlstads universitet
+
+Karolinska Institutet
+
+Kemikalieinspektionen
+
+Kommerskollegium
+
+Konjunkturinstitutet
+
+Konkurrensverket
+
+Konstfack
+
+Konsthögskolan
+
+Konstnärsnämnden
+
+Konstråd, statens
+
+Konsulat
+
+Konsumentverket
+
+Krigsvetenskapsakademin
+
+Krigsförsäkringsnämnden
+
+Kriminaltekniska laboratorium, statens
+
+Kriminalvården
+
+Krisberedskapsmyndigheten
+
+Kristinaskolan
+
+Kronofogdemyndigheten
+
+Kulturråd, statens
+
+Kungl. Biblioteket
+
+Kungl. Konsthögskolan
+
+Kungl. Musikhögskolan i Stockholm
+
+Kungl. Tekniska högskolan
+
+Kungl. Vitterhets-, historie– och antikvitetsakademien
+
+Kungl Vetenskapsakademin
+
+Kustbevakningen
+
+Kvalitets– och kompetensråd, statens
+
+Kärnavfallsfondens styrelse
+
+##### L
+
+Lagrådet
+
+Lantbruksuniversitet, Sveriges
+
+Lantmäteriverket
+
+Linköpings universitet
+
+Livrustkammaren, Skoklosters slott och Hallwylska museet
+
+Livsmedelsverk, statens
+
+Livsmedelsekonomiska institutet
+
+Ljud– och bildarkiv, statens
+
+Lokala säkerhetsnämnderna vid kärnkraftverk
+
+Lotteriinspektionen
+
+Luftfartsverket
+
+Luftfartsstyrelsen
+
+Luleå tekniska universitet
+
+Lunds universitet
+
+Läkemedelsverket
+
+Läkemedelsförmånsnämnden
+
+Länsrätterna
+
+Länsstyrelserna
+
+Lärarhögskolan i Stockholm
+
+##### M
+
+Malmö högskola
+
+Manillaskolan
+
+Maritima muséer, statens
+
+Marknadsdomstolen
+
+Medlingsinstitutet
+
+Meteorologiska och hydrologiska institut, Sveriges
+
+Migrationsverket
+
+Militärhögskolor
+
+Mittuniversitetet
+
+Moderna museet
+
+Museer för världskultur, statens
+
+Musikaliska Akademien
+
+Musiksamlingar, statens
+
+Myndigheten för handikappolitisk samordning
+
+Myndigheten för internationella adoptionsfrågor
+
+Myndigheten för skolutveckling
+
+Myndigheten för kvalificerad yrkesutbildning
+
+Myndigheten för nätverk och samarbete inom högre utbildning
+
+Myndigheten för Sveriges nätuniversitet
+
+Myndigheten för utländska investeringar i Sverige
+
+Mälardalens högskola
+
+##### N
+
+Nationalmuseum
+
+Nationellt centrum för flexibelt lärande
+
+Naturhistoriska riksmuseet
+
+Naturvårdsverket
+
+Nordiska Afrikainstitutet
+
+Notarienämnden
+
+Nämnd för arbetstagares uppfinningar, statens
+
+Nämnden för statligt stöd till trossamfund
+
+Nämnden för styrelserepresentationsfrågor
+
+Nämnden mot diskriminering
+
+Nämnden för elektronisk förvaltning
+
+Nämnden för RH anpassad utbildning
+
+Nämnden för hemslöjdsfrågor
+
+##### O
+
+Oljekrisnämnden
+
+Ombudsmannen mot diskriminering på grund av sexuell läggning
+
+Ombudsmannen mot etnisk diskriminering
+
+Operahögskolan i Stockholm
+
+##### P
+
+Patent– och registreringsverket
+
+Patentbesvärsrätten
+
+Pensionsverk, statens
+
+Personregisternämnd statens, SPAR-nämnden
+
+Pliktverk, Totalförsvarets
+
+Polarforskningssekretariatet
+
+Post– och telestyrelsen
+
+Premiepensionsmyndigheten
+
+Presstödsnämnden
+
+##### R
+
+Radio– och TV–verket
+
+Rederinämnden
+
+Regeringskansliet
+
+Regeringsrätten
+
+Resegarantinämnden
+
+Registernämnden
+
+Revisorsnämnden
+
+Riksantikvarieämbetet
+
+Riksarkivet
+
+Riksbanken
+
+Riksdagsförvaltningen
+
+Riksdagens ombudsmän
+
+Riksdagens revisorer
+
+Riksgäldskontoret
+
+Rikshemvärnsrådet
+
+Rikspolisstyrelsen
+
+Riksrevisionen
+
+Rikstrafiken
+
+Riksutställningar, Stiftelsen
+
+Riksvärderingsnämnden
+
+Rymdstyrelsen
+
+Rådet för Europeiska socialfonden i Sverige
+
+Räddningsverk, statens
+
+Rättshjälpsmyndigheten
+
+Rättshjälpsnämnden
+
+Rättsmedicinalverket
+
+##### S
+
+Samarbetsnämnden för statsbidrag till trossamfund
+
+Sameskolstyrelsen och sameskolor
+
+Sametinget
+
+SIS, Standardiseringen i Sverige
+
+Sjöfartsverket
+
+Skatterättsnämnden
+
+Skatteverket
+
+Skaderegleringsnämnd, statens
+
+Skiljenämnden i vissa trygghetsfrågor
+
+Skogsstyrelsen
+
+Skogsvårdsstyrelserna
+
+Skogs och lantbruksakademien
+
+Skolverk, statens
+
+Skolväsendets överklagandenämnd
+
+Smittskyddsinstitutet
+
+Socialstyrelsen
+
+Specialpedagogiska institutet
+
+Specialskolemyndigheten
+
+Språk– och folkminnesinstitutet
+
+Sprängämnesinspektionen
+
+Statistiska centralbyrån
+
+Statskontoret
+
+Stockholms universitet
+
+Stockholms internationella miljöinstitut
+
+Strålsäkerhetsmyndigheten
+
+Styrelsen för ackreditering och teknisk kontroll
+
+Styrelsen för internationellt utvecklingssamarbete, SIDA
+
+Styrelsen för Samefonden
+
+Styrelsen för psykologiskt försvar
+
+Stängselnämnden
+
+Svenska institutet
+
+Svenska institutet för europapolitiska studier
+
+Svenska ESF rådet
+
+Svenska Unescorådet
+
+Svenska FAO kommittén
+
+Svenska Språknämnden
+
+Svenska Skeppshypotekskassan
+
+Svenska institutet i Alexandria
+
+Sveriges författarfond
+
+Säkerhetspolisen
+
+Säkerhets– och integritetsskyddsnämnden
+
+Södertörns högskola
+
+##### T
+
+Taltidningsnämnden
+
+Talboks– och punktskriftsbiblioteket
+
+Teaterhögskolan i Stockholm
+
+Tingsrätterna
+
+Tjänstepensions och grupplivnämnd, statens
+
+Tjänsteförslagsnämnden för domstolsväsendet
+
+Totalförsvarets forskningsinstitut
+
+Totalförsvarets pliktverk
+
+Tullverket
+
+Turistdelegationen
+
+##### U
+
+Umeå universitet
+
+Ungdomsstyrelsen
+
+Uppsala universitet
+
+Utlandslönenämnd, statens
+
+Utlänningsnämnden
+
+Utrikesförvaltningens antagningsnämnd
+
+Utrikesnämnden
+
+Utsädeskontroll, statens
+
+##### V
+
+Valideringsdelegationen
+
+Valmyndigheten
+
+Vatten– och avloppsnämnd, statens
+
+Vattenöverdomstolen
+
+Verket för förvaltningsutveckling
+
+Verket för högskoleservice
+
+Verket för innovationssystem (VINNOVA)
+
+Verket för näringslivsutveckling (NUTEK)
+
+Vetenskapsrådet
+
+Veterinärmedicinska anstalt, statens
+
+Veterinära ansvarsnämnden
+
+Väg– och transportforskningsinstitut, statens
+
+Vägverket
+
+Vänerskolan
+
+Växjö universitet
+
+Växtsortnämnd, statens
+
+##### Å
+
+Åklagarmyndigheten
+
+Åsbackaskolan
+
+##### Ö
+
+Örebro universitet
+
+Örlogsmannasällskapet
+
+Östervångsskolan
+
+Överbefälhavaren
+
+Överklagandenämnden för högskolan
+
+Överklagandenämnden för nämndemanna-uppdrag
+
+Överklagandenämnden för studiestöd
+
+Överklagandenämnden för totalförsvaret
+
+##### REINO UNIDO
+
+Cabinet Office
+
+Office of the Parliamentary Counsel
+
+Central Office of Information
+
+Charity Commission
+
+Crown Estate Commissioners (Vote Expenditure Only)
+
+Crown Prosecution Service
+
+Department for Business, Enterprise and Regulatory Reform
+
+Competition Commission
+
+Gas and Electricity Consumers’ Council
+
+Office of Manpower Economics
+
+Department for Children, Schools and Families
+
+Department of Communities and Local Government
+
+Rent Assessment Panels
+
+Department for Culture, Media and Sport
+
+British Library
+
+British Museum
+
+Commission for Architecture and the Built Environment
+
+The Gambling Commission
+
+Historic Buildings and Monuments Commission for England (English Heritage)
+
+Imperial War Museum
+
+Museums, Libraries and Archives Council
+
+National Gallery
+
+National Maritime Museum
+
+National Portrait Gallery
+
+Natural History Museum
+
+Science Museum
+
+Tate Gallery
+
+Victoria and Albert Museum
+
+Wallace Collection
+
+Department for Environment, Food and Rural Affairs
+
+Agricultural Dwelling House Advisory Committees
+
+Agricultural Land Tribunals
+
+Agricultural Wages Board and Committees
+
+Cattle Breeding Centre
+
+Countryside Agency
+
+Plant Variety Rights Office
+
+Royal Botanic Gardens, Kew
+
+Royal Commission on Environmental Pollution
+
+Department of Health
+
+Dental Practice Board
+
+National Health Service Strategic Health Authorities
+
+NHS Trusts
+
+Prescription Pricing Authority
+
+Department for Innovation, Universities and Skills
+
+Higher Education Funding Council for England
+
+National Weights and Measures Laboratory
+
+Patent Office
+
+Department for International Development
+
+Department of the Procurator General and Treasury Solicitor
+
+Legal Secretariat to the Law Officers
+
+Department for Transport
+
+Maritime and Coastguard Agency
+
+Department for Work and Pensions
+
+Disability Living Allowance Advisory Board
+
+Independent Tribunal Service
+
+Medical Boards and Examining Medical Officers (War Pensions)
+
+Occupational Pensions Regulatory Authority
+
+Regional Medical Service
+
+Social Security Advisory Committee
+
+Export Credits Guarantee Department
+
+Foreign and Commonwealth Office
+
+Wilton Park Conference Centre
+
+Government Actuary’s Department
+
+Government Communications Headquarters
+
+Home Office
+
+HM Inspectorate of Constabulary
+
+House of Commons
+
+House of Lords
+
+Ministry of Defence
+
+Defence Equipment & Support
+
+Meteorological Office
+
+Ministry of Justice
+
+Boundary Commission for England
+
+Combined Tax Tribunal
+
+Council on Tribunals
+
+Court of Appeal — Criminal
+
+Employment Appeals Tribunal
+
+Employment Tribunals
+
+HMCS Regions, Crown, County and Combined Courts (England and Wales)
+
+Immigration Appellate Authorities
+
+Immigration Adjudicators
+
+Immigration Appeals Tribunal
+
+Lands Tribunal
+
+Law Commission
+
+Legal Aid Fund (England and Wales)
+
+Office of the Social Security Commissioners
+
+Parole Board and Local Review Committees
+
+Pensions Appeal Tribunals
+
+Public Trust Office
+
+Supreme Court Group (England and Wales)
+
+Transport Tribunal
+
+The National Archives
+
+National Audit Office
+
+National Savings and Investments
+
+National School of Government
+
+Northern Ireland Assembly Commission
+
+Northern Ireland Court Service
+
+Coroners Courts
+
+County Courts
+
+Court of Appeal and High Court of Justice in Northern Ireland
+
+Crown Court
+
+Enforcement of Judgements Office
+
+Legal Aid Fund
+
+Magistrates’ Courts
+
+Pensions Appeals Tribunals
+
+Northern Ireland, Department for Employment and Learning
+
+Northern Ireland, Department for Regional Development
+
+Northern Ireland, Department for Social Development
+
+Northern Ireland, Department of Agriculture and Rural Development
+
+Northern Ireland, Department of Culture, Arts and Leisure
+
+Northern Ireland, Department of Education
+
+Northern Ireland, Department of Enterprise, Trade and Investment
+
+Northern Ireland, Department of the Environment
+
+Northern Ireland, Department of Finance and Personnel
+
+Northern Ireland, Department of Health, Social Services and Public Safety
+
+Northern Ireland, Office of the First Minister and Deputy First Minister
+
+Northern Ireland Office
+
+Crown Solicitor’s Office
+
+Department of the Director of Public Prosecutions for Northern Ireland
+
+Forensic Science Laboratory of Northern Ireland
+
+Office of the Chief Electoral Officer for Northern Ireland
+
+Police Service of Northern Ireland
+
+Probation Board for Northern Ireland
+
+State Pathologist Service
+
+Office of Fair Trading
+
+Office for National Statistics
+
+National Health Service Central Register
+
+Office of the Parliamentary Commissioner for Administration and Health Service Commissioners
+
+Paymaster General’s Office
+
+Postal Business of the Post Office
+
+Privy Council Office
+
+Public Record Office
+
+HM Revenue and Customs
+
+The Revenue and Customs Prosecutions Office
+
+Royal Hospital, Chelsea
+
+Royal Mint
+
+Rural Payments Agency
+
+Scotland, Auditor-General
+
+Scotland, Crown Office and Procurator Fiscal Service
+
+Scotland, General Register Office
+
+Scotland, Queen’s and Lord Treasurer’s Remembrancer
+
+Scotland, Registers of Scotland
+
+The Scotland Office
+
+The Scottish Ministers
+
+Architecture and Design Scotland
+
+Crofters Commission
+
+Deer Commission for Scotland
+
+Lands Tribunal for Scotland
+
+National Galleries of Scotland
+
+National Library of Scotland
+
+National Museums of Scotland
+
+Royal Botanic Garden, Edinburgh
+
+Royal Commission on the Ancient and Historical Monuments of Scotland
+
+Scottish Further and Higher Education Funding Council
+
+Scottish Law Commission
+
+Community Health Partnerships
+
+Special Health Boards
+
+Health Boards
+
+The Office of the Accountant of Court
+
+High Court of Justiciary
+
+Court of Session
+
+HM Inspectorate of Constabulary
+
+Parole Board for Scotland
+
+Pensions Appeal Tribunals
+
+Scottish Land Court
+
+Sheriff Courts
+
+Scottish Police Services Authority
+
+Office of the Social Security Commissioners
+
+The Private Rented Housing Panel and Private Rented Housing Committees
+
+Keeper of the Records of Scotland
+
+The Scottish Parliamentary Body Corporate
+
+HM Treasury
+
+Office of Government Commerce
+
+United Kingdom Debt Management Office
+
+The Wales Office (Office of the Secretary of State for Wales)
+
+The Welsh Ministers
+
+Higher Education Funding Council for Wales
+
+Local Government Boundary Commission for Wales
+
+The Royal Commission on the Ancient and Historical Monuments of Wales
+
+Valuation Tribunals (Wales)
+
+Welsh National Health Service Trusts and Local Health Boards
+
+Welsh Rent Assessment Panels
+
+## ANEXO II
+
+#### LISTA DAS ATIVIDADES REFERIDAS NO ARTIGO 2.º, N.º 1, PONTO 6, ALÍNEA A)
+
+Em caso de divergências de interpretação entre a CPV e a NACE, é aplicável a nomenclatura CPV.
+
+| NACE Rev. 1 [^1] |  |  |  |  | Código CPV |
+|---|---|---|---|---|---|
+| SECÇÃO F |  |  | CONSTRUÇÃO |  | Código CPV |
+| Divisão | Grupo | Classe | Objeto | Notas | Código CPV |
+| 45 |  |  | Construção | Esta divisão inclui: <br> — novas construções, restauração e reparação de rotina. | 45000000 |
+|  | 45,1 |  | Preparação dos locais de construção |  | 45100000 |
+|  |  | 45,11 | Demolição e destruição de edifícios; terraplenagens | Esta classe inclui: <br> — demolição de edifícios e outras estruturas, <br> — limpeza de estaleiros de construção, <br> — terraplanagens: desaterros, aterros, nivelamento de estaleiros de construção, escavação de valas, remoção de rochas, destruição por meio de explosivos, etc., <br> — preparação de estaleiros para mineração: <br> — remoção de obstáculos e outras atividades de desenvolvimento e de preparação de propriedades e de estaleiros associados a minas. <br> Esta classe inclui ainda: <br> — drenagem de estaleiros de construção, <br> — drenagem de terras dedicadas à agricultura ou à silvicultura. | 45110000 |
+|  |  | 45,12 | Perfurações e sondagens | Esta classe inclui: <br> — perfurações, sondagens e recolha de amostras com fins geofísicos, geológicos, de construção ou semelhantes. <br> Esta classe não inclui: <br> — perfuração de poços de petróleo ou de gás, ver 11.20, <br> — perfuração de poços de água, ver 45.25, <br> — abertura de poços, ver 45.25, <br> — exploração de campos de petróleo e de gás, prospeção geofísica, geológica e sísmica, ver 74.20. | 45120000 |
+|  | 45,2 |  | Construção de edifícios (no todo ou em parte); engenharia civil |  | 45200000 |
+|  |  | 45,21 | Construção geral de edifícios e engenharia civil | Esta classe inclui: <br> — construção de todo o tipo de edifícios construção de obras de engenharia civil, <br> — pontes, incluindo as que se destinam a estradas em passagens superiores, viadutos, túneis e passagens inferiores, <br> — condutas de longa distância, linhas de comunicações e de transporte de energia, <br> — condutas urbanas, linhas urbanas de comunicações e de transporte de energia, <br> — obras urbanas associadas, <br> — montagem e edificação, no local, de construções pré-fabricadas. <br> Esta classe não inclui: <br> — atividades dos serviços relacionados com a extração de petróleo e de gás, ver 11.20, <br> — edificação de construções totalmente pré-fabricadas a partir de partes fabricadas automaticamente, não de betão, ver divisões 20, 26 e 28, <br> — obras de construção, exceto de edifícios, em estádios, piscinas, ginásios, campos de ténis e de golfe e em outras instalações desportivas, ver 45.23, <br> — instalações especiais, ver 45.3, <br> — acabamento de edifícios, ver 45.4, <br> — atividades de arquitetura e de engenharia, ver 74.20, <br> — gestão de projetos para a construção, ver 74.20. | 45210000 Exceto: <br> – 45213316 <br> 45220000 45231000 <br> 45232000 |
+|  |  | 45,22 | Construção de coberturas e estruturas | Esta classe inclui: <br> — construção de telhados, <br> — cobertura de telhados, <br> — impermeabilização. | 45261000 |
+|  |  | 45,23 | Construção de estradas, vias férreas, aeroportos e de instalações desportivas | Esta classe inclui: <br> — construção de estradas, ruas e outras vias para veículos e peões, <br> — construção de vias férreas, <br> — construção de pistas de aeroportos, <br> — obras de construção, exceto de edifícios, em estádios, piscinas, ginásios, campos de ténis, campos de golfe, e outras instalações desportivas, <br> — pintura de sinalização horizontal em estradas e parques de estacionamento. <br> Esta classe não inclui: <br> — terraplanagens prévias, ver 45.11. | 45212212 e DA03 <br> 45230000 Exceto: <br> – 45231000 <br> – 45232000 <br> – 45234115 |
+|  |  | 45,24 | Engenharia hidráulica | Esta classe inclui: <br> — construção de: <br> — vias aquáticas, portos e obras fluviais, portos de recreio (marinas), eclusas, etc., <br> — barragens e diques, <br> — dragagens, <br> — obras abaixo da superfície. | 45240000 |
+|  |  | 45,25 | Outras obras especializadas de construção | Esta classe inclui: <br> — atividades de construção especializadas num aspeto comum a diferentes tipos de estruturas e que requeiram aptidões ou equipamento especializados, <br> — construção de fundações, incluindo cravação de estacas, <br> — perfuração e construção de poços de água, abertura de poços, <br> — edificação de elementos de aço não fabricados automaticamente, <br> — moldagem de aço, <br> — assentamento de tijolos e de pedras, <br> — montagem e desmontagem de andaimes e plataformas de construção, incluindo o aluguer dos mesmos, <br> — edificação de chaminés e de fornos industriais. <br> Esta classe não inclui: <br> — aluguer de andaimes que não implique montagem nem desmontagem, ver 71.32. | 45250000 45262000 |
+|  | 45,3 |  | Instalações especiais |  | 45300000 |
+|  |  | 45,31 | Instalação elétrica | Esta classe inclui: <br> instalação, em edifícios ou em outros projetos de construção, de: <br> — instalação elétrica, <br> — sistemas de telecomunicações, <br> — sistemas elétricos de aquecimento, <br> — antenas residenciais, <br> — alarmes contra incêndio, <br> — alarmes contra roubo, <br> — elevadores e escadas rolantes, <br> — condutores de para-raios, etc. | 45213316 45310000 <br> Exceto: <br> – 45316000 |
+|  |  | 45,32 | Obras de isolamento | Esta classe inclui: <br> — instalação, em edifícios ou em outros projetos de construção, de isolamento térmico, sonoro ou contra vibrações. <br> Esta classe não inclui: <br> — impermeabilização, ver 45.22. | 45320000 |
+|  |  | 45,33 | Instalação de canalizações e de climatização | Esta classe inclui: <br> — instalação, em edifícios ou em outros projetos de construção, de: <br> — canalizações e equipamento sanitário, <br> — artefactos para instalações de distribuição de gás, <br> — equipamento e condutas para aquecimento, ventilação, refrigeração ou climatização, <br> — sistemas de aspersão. <br> Esta classe não inclui: <br> — realização de instalações de aquecimento elétrico, ver 45.31. | 45330000 |
+|  |  | 45,34 | Instalações, n.e. | Esta classe inclui: <br> — instalação de sistemas de iluminação e de sinalização para estradas, caminhos-de-ferro, aeroportos e portos, <br> — instalação, em edifícios ou em outros projetos de construção, de equipamento e acessórios não especificados noutra posição. | 45234115 45316000 <br> 45340000 |
+|  | 45,4 |  | Atividades de acabamento |  | 45400000 |
+|  |  | 45,41 | Estucagem | Esta classe inclui: <br> — aplicação, em edifícios ou em outros projetos de construção, de estuque interior e exterior, incluindo materiais de revestimento associados. | 45410000 |
+|  |  | 45,42 | Montagem de trabalhos de carpintaria e de caixilharia | Esta classe inclui: <br> — instalação de portas, janelas, caixilhos de portas e janelas, cozinhas equipadas, escadas, equipamento para estabelecimentos comerciais e semelhantes não fabricados automaticamente, de madeira ou de outros materiais, <br> — acabamentos de interior, tais como tetos, revestimentos de madeira para paredes, divisórias móveis, etc. <br> Esta classe não inclui: <br> — colocação de parquet e outros revestimentos de madeira para pavimentos, ver 45.43. | 45420000 |
+|  |  | 45,43 | Revestimento de pavimentos e de paredes | Esta classe inclui: <br> — colocação, aplicação, suspensão ou assentamento, em edifícios ou em outros projetos de construção, de: <br> — paredes de cerâmica, de betão ou de cantaria, ou ladrilhos para pavimentos, <br> — parquet e outros revestimentos de madeira para pavimentos, alcatifas e revestimentos em linóleo para pavimentos, <br> — incluindo de borracha ou plástico, <br> — revestimentos de granito artificial, mármore, granito ou ardósia para pavimentos e paredes, <br> — papel de parede. | 45430000 |
+|  |  | 45,44 | Pintura e colocação de vidros | Esta classe inclui: <br> — pintura interior e exterior de edifícios, <br> — pintura de estruturas de engenharia civil, <br> — colocação de vidros, espelhos, etc. <br> Esta classe não inclui: <br> — instalação de janelas, ver 45.42. | 45440000 |
+|  |  | 45,45 | Atividades de acabamento, n.e. | Esta classe inclui: <br> — instalação de piscinas privadas, <br> — limpeza a vapor ou com jato de areia e outras atividades semelhantes em exteriores de edifícios, <br> — outras obras de acabamento de edifícios n.e. <br> Esta classe não inclui: <br> — limpeza interior de edifícios e de outras estruturas, ver 74.70. | 45212212 e DA04 <br> 45450000 |
+|  | 45,5 |  | Aluguer de equipamento de construção e de demolição com operador |  | 45500000 |
+|  |  | 45,50 | Aluguer de equipamento de construção e de demolição com operador | Esta classe não inclui: <br> — aluguer de maquinaria e equipamento de construção ou demolição sem operador, ver 71.32. | 45500000 |
+| (^1) <br> Regulamento (CEE) n.º 3037/90 do Conselho, de 9 de outubro de 1990, relativo à nomenclatura estatística das atividades económicas na Comunidade Europeia (JO L 293 de 24.10.1990, p. 1). |  |  |  |  |  |
+
+## ANEXO III
+
+#### LISTA DOS PRODUTOS REFERIDOS NO ARTIGO 4.º, ALÍNEA b), RELATIVAMENTE AOS CONTRATOS CELEBRADOS POR AUTORIDADES ADJUDICANTES NO DOMÍNIO DA DEFESA
+
+Para efeitos da presente Diretiva, apenas faz fé o texto constante do Anexo I, ponto 3, do GPA, no qual se baseia a seguinte lista indicativa de produtos:
+
+| Capítulo 25: | Sal, enxofre, terras e pedras, gesso, cal e cimentos |
+|---|---|
+| Capítulo 26: | Minérios metalúrgicos, escórias e cinzas |
+| Capítulo 27: | Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas, ceras minerais <br> Exceto: <br> ex 27.10 : carburantes especiais |
+| Capítulo 28: | Produtos químicos inorgânicos, compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras e de isótopos <br> Exceto: <br> ex 28.09 : explosivos <br> ex 28.13 : explosivos <br> ex 28.14 : gás lacrimogéneo <br> ex 28.28 : explosivos <br> ex 28.32 : explosivos <br> ex 28.39 : explosivos <br> ex 28.50 : produtos tóxicos <br> ex 28.51 : produtos tóxicos <br> ex 28.54 : explosivos |
+| Capítulo 29: | Produtos químicos orgânicos <br> Exceto: <br> ex 29.03 : explosivos <br> ex 29.04 : explosivos <br> ex 29.07 : explosivos <br> ex 29.08 : explosivos <br> ex 29.11 : explosivos <br> ex 29.12 : explosivos <br> ex 29.13 : produtos tóxicos <br> ex 29.14 : produtos tóxicos <br> ex 29.15 : produtos tóxicos <br> ex 29.21 : produtos tóxicos <br> ex 29.22 : produtos tóxicos <br> ex 29.23 : produtos tóxicos <br> ex 29.26 : explosivos <br> ex 29.27 : produtos tóxicos <br> ex 29.29 : explosivos |
+| Capítulo 30: | Produtos farmacêuticos |
+| Capítulo 31: | Adubos |
+| Capítulo 32: | Extratos tanantes e tintórios; taninos e seus derivados; matérias corantes; cores, tintas e vernizes; mástiques; tintas de escrever |
+| Capítulo 33: | Óleos essenciais e resinoides; produtos de perfumaria ou de toucador e cosméticos |
+| Capítulo 34: | Sabões, produtos orgânicos tensoativos, preparados para lixívias, preparados lubrificantes, ceras artificiais, ceras preparadas, produtos para conservação e limpeza, velas de iluminação e artefactos semelhantes, pastas para modelar e «ceras para a arte dentária» |
+| Capítulo 35: | Matérias albuminoides, colas e enzimas |
+| Capítulo 37: | Produtos para fotografia e cinematografia |
+| Capítulo 38: | Produtos diversos das indústrias químicas <br> Exceto: <br> ex 38.19 : produtos tóxicos |
+| Capítulo 39: | Matérias plásticas artificiais, éteres e éteres da celulose, resinas artificiais e obras destas matérias, <br> Exceto: <br> ex 39.03 : explosivos |
+| Capítulo 40: | Borracha natural, sintética ou artificial e obras de borracha, <br> Exceto: <br> ex 40.11 : pneumáticos à prova de bala |
+| Capítulo 41: | Peles, exceto as peles com pelo, e couros |
+| Capítulo 42: | Artigos de correeiro e de seleiro; artigos de viagem, bolsas e artefactos semelhantes; obras de tripa |
+| Capítulo 43: | Peles com pelo e peles artificiais e respetivas obras |
+| Capítulo 44: | Madeira, carvão vegetal e obras de madeira |
+| Capítulo 45: | Cortiça e obras de cortiça |
+| Capítulo 46: | Obras de espartaria ou de cestaria |
+| Capítulo 47: | Matérias-primas para o fabrico de papel |
+| Capítulo 48: | Papel e cartão; obras de pasta de celulose (ouate), de papel e de cartão |
+| Capítulo 49: | Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou datilografados, planos e plantas |
+| Capítulo 65: | Chapéus e artefactos de uso semelhante e respetivas partes |
+| Capítulo 66: | Guarda-chuvas, guarda-sóis, bengalas, chicotes, pingalins e respetivas partes |
+| Capítulo 67: | Penas e penugem preparadas e respetivas obras; flores artificiais; obras de cabelo |
+| Capítulo 68: | Obras de pedra, gesso, cimento, amianto, mica e matérias análogas |
+| Capítulo 69: | Produtos cerâmicos |
+| Capítulo 70: | Vidro e suas obras |
+| Capítulo 71: | Pérolas naturais, gemas e similares, metais preciosos, metais chapeados de metais preciosos e respetivas obras; joalharia falsa e de fantasia; |
+| Capítulo 73: | Ferro fundido, ferro macio, aço e suas obras |
+| Capítulo 74: | Cobre e suas obras |
+| Capítulo 75: | Níquel e suas obras |
+| Capítulo 76: | Alumínio e suas obras |
+| Capítulo 77: | Magnésio, berílio e suas obras |
+| Capítulo 78: | Chumbo e suas obras |
+| Capítulo 79: | Zinco e suas obras |
+| Capítulo 80: | Estanho e suas obras |
+| Capítulo 81: | Outros metais comuns e suas obras |
+| Capítulo 82: | Ferramentas, artefactos de cutelaria e talheres e suas peças, de metais comuns, <br> Exceto: <br> ex 82.05 : ferramentas <br> ex 82.07 : ferramentas, partes |
+| Capítulo 83: | Obras diversas de metais comuns |
+| Capítulo 84: | Caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes <br> Exceto: <br> ex 84.06 : motores <br> ex 84.08 : outros motores <br> ex 84.45 : máquinas <br> ex 84.53 : máquinas automáticas de tratamento de informação <br> ex 84.55 : peças da posição 84.53 <br> ex 84.59 : reatores nucleares |
+| Capítulo 85: | Máquinas, aparelhos e material elétrico, e suas partes, <br> Exceto: <br> ex 85.13 : equipamento de telecomunicações <br> ex 85.15 : aparelhos de transmissão |
+| Capítulo 86: | Veículos e material para vias férreas; aparelhos de sinalização não elétricos para vias de comunicação <br> Exceto: <br> ex 86.02 : locomotivas elétricas blindadas <br> ex 86.03 : outras locomotivas blindadas <br> ex 86.05 : vagões blindados <br> ex 86.06 : vagões-oficinas <br> ex 86.07 : vagões |
+| Capítulo 87: | Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes <br> Exceto: <br> ex 87.08 : carros e veículos blindados <br> ex 87.01 : tratores <br> ex 87.02 : veículos militares <br> ex 87.03 : veículos de desempanagem <br> ex 87.09 : motociclos <br> ex 87.14 : reboques |
+| Capítulo 89: | Navegação marítima e fluvial, <br> Exceto: <br> ex 89.01A : navios de guerra |
+| Capítulo 90: | Instrumentos e aparelhos de ótica, fotografia e cinematografia, medida, verificação e precisão; instrumentos e aparelhos médico-cirúrgicos, suas partes <br> Exceto: <br> ex 90.05 : binóculos <br> ex 90.13 : instrumentos diversos, lasers <br> ex 90.14 : telémetros <br> ex 90.28 : instrumentos de medida elétricos ou eletrónicos <br> ex 90.11 : microscópios <br> ex 90.17 : instrumentos médicos <br> ex 90.18 : aparelhos de mecanoterapia <br> ex 90.19 : aparelhos de ortopedia <br> ex 90.20 : aparelhos de raios X |
+| Capítulo 91: | Relojoaria |
+| Capítulo 92: | Aparelhos de registo ou de reprodução de imagens e de som, para televisão; partes e acessórios destes instrumentos e aparelhos |
+| Capítulo 94: | Móveis e respetivas partes; artigos de cama, colchões, estrados, almofadas e artigos semelhantes estofados ou guarnecidos interiormente <br> Exceto: <br> ex 94.01A : cadeiras ou bancos de aeronaves |
+| Capítulo 95: | Matérias para talhe ou modelação, preparadas ou em obra |
+| Capítulo 96: | Escovas, pincéis e artefactos semelhantes, vassouras, borlas, peneiras e crivos |
+| Capítulo 98: | Obras diversas |
+
+## ANEXO IV
+
+#### EXIGÊNCIAS RELATIVAS AOS INSTRUMENTOS E AOS DISPOSITIVOS DE RECEÇÃO ELETRÓNICA DE PROPOSTAS, DE PEDIDOS DE PARTICIPAÇÃO, ASSIM COMO DE PLANOS E PROJETOS NOS CONCURSOS DE CONCEÇÃO
+
+Os instrumentos e dispositivos de receção eletrónica de propostas de pedidos de participação assim como os planos e projetos nos concursos de conceção devem, através de meios técnicos e procedimentos adequados, garantir, pelo menos, que:
+
+- a) A hora e data precisas da receção das propostas, pedidos de participação e dos planos e projetos possam ser determinadas com exatidão;
+
+- b) Seja possível assegurar, na medida do razoável, que antes das datas-limite fixadas ninguém possa ter acesso aos dados transmitidos de acordo com os presentes requisitos;
+
+- c) As datas para a abertura dos dados recebidos só possam ser fixadas ou alteradas por pessoas autorizadas;
+
+- d) Nas diferentes fases do procedimento de contratação ou de concurso de conceção, o acesso à totalidade ou parte dos dados apresentados só seja possível para as pessoas autorizadas;
+
+- e) Só as pessoas autorizadas possam dar acesso aos dados enviados e apenas após a data fixada;
+
+- f) Os dados recebidos e abertos de acordo com as presentes exigências sejam acessíveis unicamente às pessoas autorizadas a deles tomar conhecimento;
+
+- g) Possa haver razoável certeza de que, em caso de violação ou tentativa de violação das proibições ou condições de acesso referidas nas alíneas b), c), d), e) e f), tal violação ou tentativa de violação seja claramente detetável.
+
+## ANEXO V
+
+#### INFORMAÇÕES QUE DEVEM CONSTAR DOS ANÚNCIOS
+
+##### PARTE A
+
+##### Informações que devem constar dos anúncios relativos à publicação de um anúncio de pré-informação sobre o perfil de adquirente
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet da autoridade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações complementares.
+
+- 2. Tipo de autoridade adjudicante e principais atividades exercidas.
+
+- 3. Se for caso disso, indicação de que a autoridade adjudicante é uma central de compras ou de que existe ou pode existir outra forma de contratação conjunta.
+
+- 4. Códigos CPV.
+
+- 5. Endereço internet do «perfil de adquirente» (URL).
+
+- 6. Data de envio do anúncio que informa sobre a publicação do anúncio de pré-informação sobre o perfil de adquirente.
+
+##### PARTE B
+
+##### Informações que devem constar dos anúncios de pré-informação
+
+##### (conforme referido no artigo 48.º)
+
+##### I. Informações a incluir em todos os casos
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet da autoridade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações complementares.
+
+- 2. Correio eletrónico ou endereço Internet em que os documentos do concurso estarão disponíveis para acesso livre, direto, completo, a título gratuito.
+
+  Sempre que o acesso livre, completo, direto, a título gratuito, não estiver disponível pelas razões indicadas no artigo 53.º, n.º 1, segundo e terceiro parágrafos, uma indicação de como obter acesso aos documentos do concurso.
+
+- 3. Tipo de autoridade adjudicante e principais atividades exercidas.
+
+- 4. Se for o caso, indicação de que a autoridade adjudicante é uma central de compras ou de que existe ou pode existir outra forma de contratação conjunta.
+
+- 5. Códigos CPV. quando o contrato estiver dividido em lotes, esta informação deverá ser fornecida para cada lote.
+
+- 6. Código NUTS do local principal de execução das obras, no caso das empreitadas de obras, ou do local principal de entrega ou de execução, no caso dos fornecimentos e serviços. quando o contrato estiver dividido em lotes, esta informação deverá ser fornecida para cada lote.
+
+- 7. Breve descrição do contrato: natureza e extensão das obras, natureza e quantidade ou valor dos fornecimentos, natureza e extensão dos serviços.
+
+- 8. Quando o anúncio não for utilizado como meio de abertura de concurso, data(s) estimada(s) para a publicação de um anúncio ou anúncios de concurso relativo(s) ao(s) contrato(s) referido(s) no anúncio de pré-informação.
+
+- 9. Data de envio do anúncio.
+
+- 10. Quaisquer outras informações relevantes.
+
+- 11. Indicação sobre se o contrato é ou não abrangido pelo GPA.
+
+##### II. Informações adicionais a prestar quando o anúncio servir como meio de abertura do concurso (Artigo 48.º, n.º 2)
+
+- 1. Mencionar se os operadores económicos interessados devem comunicar à autoridade adjudicante o seu interesse no contrato ou nos contratos.
+
+- 2. Tipo de processo de adjudicação (concurso limitado, quer envolva ou não um sistema de aquisição dinâmico, ou procedimento concorrencial com negociação).
+
+- 3. Se for o caso, indicação de que se trata de:
+
+  - a) Um acordo-quadro;
+
+  - b) Um sistema de aquisição dinâmico.
+
+- 4. Se já for conhecido, prazo para a entrega ou o fornecimento de produtos, obras ou a prestação de serviços e a duração do contrato.
+
+- 5. Na medida em que já sejam conhecidas, condições para a participação, incluindo:
+
+  - a) Se for o caso, indicação de que se trata de um contrato público reservado a entidades cujo objetivo principal seja a integração social e profissional ou cuja execução está reservada no quadro de programas de emprego protegido;
+
+  - b) Se for o caso, indicação sobre se a prestação do serviço está reservada, por força de disposições legislativas, regulamentares ou administrativas, a uma profissão específica,
+
+  - c) Breve descrição dos critérios de seleção.
+
+- 6. Na medida em que já sejam conhecidos, breve descrição dos critérios a utilizar na adjudicação.
+
+- 7. Na medida em que já seja conhecida, ordem de grandeza total estimada do(s) contrato(s); caso o contrato seja dividido em lotes, indicar esta informação para cada lote.
+
+- 8. Prazo para a receção das manifestações de interesse.
+
+- 9. Endereço para onde devem ser enviadas as manifestações de interesse.
+
+- 10. Língua ou línguas autorizadas para a apresentação de candidaturas ou propostas;
+
+- 11. Se for o caso, indicação de que:
+
+  - a) É exigida/aceite a apresentação eletrónica de propostas ou pedidos de participação;
+
+  - b) São utilizadas as encomendas eletrónicas;
+
+  - c) É utilizada a faturação eletrónica;
+
+  - d) São aceites os pagamentos eletrónicos.
+
+- 12. Informações sobre se o contrato está relacionado com um projeto e/ou programa financiado por fundos da União.
+
+- 13. Designação e endereço do órgão responsável pelos processos de recurso e, se for caso disso, de mediação. Especificação dos prazos para a interposição de recursos e, se necessário, designação, endereço, número de telefone, número de fax e endereço eletrónico do serviço junto do qual podem ser obtidas essas informações.
+
+##### PARTE C
+
+##### Informações que devem constar dos anúncios de concurso
+
+##### (conforme referido no artigo 49.º)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet da autoridade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações complementares.
+
+- 2. Correio eletrónico ou endereço Internet em que os documentos do concurso estarão disponíveis para acesso livre, direto, completo, a título gratuito.
+
+  Sempre que o acesso livre, completo, direto, a título gratuito, não estiver disponível pelas razões indicadas no artigo 53.º, n.º 1, segundo e terceiro parágrafos, uma indicação de como obter acesso aos documentos do concurso.
+
+- 3. Tipo de autoridade adjudicante e principais atividades exercidas.
+
+- 4. Se for o caso, indicação de que a autoridade adjudicante é uma central de compras ou de que existe outra forma de contratação conjunta.
+
+- 5. Códigos CPV, quando o contrato estiver dividido em lotes, esta informação deverá ser fornecida para cada lote.
+
+- 6. Código NUTS do local principal de execução das obras, no caso das empreitadas de obras, ou do local principal de entrega ou de execução, no caso dos fornecimentos e serviços. quando o contrato estiver dividido em lotes, esta informação deverá ser fornecida para cada lote.
+
+- 7. Descrição do contrato: natureza e extensão das obras, natureza e quantidade ou valor dos fornecimentos, natureza e extensão dos serviços. Se o contrato estiver dividido em lotes, estas informações devem ser fornecidas para cada lote. Se for caso disso, descrição das eventuais opções.
+
+- 8. Ordem de grandeza total estimada do(s) contrato(s); caso o contrato seja dividido em lotes, indicar esta informação para cada lote.
+
+- 9. Admissibilidade ou proibição de variantes.
+
+- 10. Prazo para a entrega ou o fornecimento de bens, a execução de obras ou a prestação de serviços e, na medida do possível, duração do contrato.
+
+  - a) No caso de um acordo-quadro, indicação da duração prevista do mesmo, declarando, se for caso disso, as razões para qualquer duração que exceda quatro anos; na medida do possível, indicação do valor, ou ordem de grandeza e frequência dos contratos a adjudicar, número e, quando apropriado, número máximo proposto de operadores económicos autorizados a participar.
+
+  - b) No caso de um sistema de aquisição dinâmico, indicação da duração prevista do mesmo; na medida do possível, indicação do valor ou ordem de grandeza e frequência dos contratos a adjudicar.
+
+- 11. Condições de participação, nomeadamente:
+
+  - a) Se for o caso, indicação de que se trata de um contrato público reservado a entidades cujo objetivo principal seja a integração social e profissional ou cuja execução está reservada no quadro de programas de emprego protegido;
+
+  - b) Se for o caso, indicação se a execução do serviço está reservada, por força de disposições legislativas, regulamentares ou administrativas, a uma profissão específica; referência da disposição legislativa, regulamentar ou administrativa relevante,
+
+  - c) Uma lista e uma breve descrição dos critérios relativos à situação pessoal dos operadores económicos que possam levar à sua exclusão, bem como dos critérios de seleção; nível(eis) mínimo(s) específico(s) das normas eventualmente aplicáveis; indicação das informações exigidas (autodeclarações, documentação).
+
+- 12. Tipo de procedimento de adjudicação; se for o caso, justificação do recurso ao procedimento acelerado (no caso de concursos abertos, concursos limitados e procedimentos concorrenciais com negociação).
+
+- 13. Se for o caso, indicação de que se trata de:
+
+  - a) Um acordo-quadro;
+
+  - b) Um sistema de aquisição dinâmico;
+
+  - c) Um leilão eletrónico (no caso de concursos abertos, concursos limitados ou procedimentos concorrenciais com negociação).
+
+- 14. Se os contratos forem divididos em lotes, indicação da possibilidade de concorrer a um, vários e/ou a todos esses lotes; indicação de qualquer eventual limitação do número de lotes que podem ser adjudicados a um único proponente. Se os contratos não forem divididos em lotes, indicação dos motivos para tal, a não ser que esta informação seja fornecida no relatório individual.
+
+- 15. Em caso de concurso limitado, de procedimento concorrencial com negociação, de diálogo concorrencial ou de parceria para a inovação, sempre que se recorra à possibilidade de reduzir o número de candidatos convidados a apresentar propostas, a dialogar ou a negociar: número mínimo e, eventualmente, máximo de candidatos previsto e critérios objetivos a aplicar para escolher os candidatos em questão.
+
+- 16. Em caso de procedimento concorrencial com negociação, de diálogo concorrencial ou de parceria para a inovação, indicação, se for o caso, do recurso a um procedimento faseado a fim de reduzir progressivamente o número de propostas a negociar ou de soluções a discutir.
+
+- 17. Se for o caso, condições particulares a que está sujeita a execução do contrato.
+
+- 18. Critérios a utilizar na adjudicação do contrato ou contratos. Exceto se proposta economicamente mais vantajosa for identificada apenas com base no preço, os critérios que permitem definir a proposta economicamente mais vantajosa, bem como a respetiva ponderação, serão indicados quando não constarem do caderno de encargos ou, no caso de diálogo concorrencial, da memória descritiva.
+
+- 19. Prazo para a receção das propostas (concursos abertos) ou dos pedidos de participação (concursos limitados e procedimentos concorrenciais com negociação, sistemas de aquisição dinâmicos, diálogos concorrenciais e parcerias para a inovação).
+
+- 20. Endereço para onde as propostas ou os pedidos de participação devem ser enviados.
+
+- 21. No caso de concursos abertos:
+
+  - a) Prazo durante o qual o proponente é obrigado a manter a sua proposta;
+
+  - b) Data, hora e local da abertura das propostas;
+
+  - c) Pessoas autorizadas a assistir à abertura das propostas.
+
+- 22. Língua ou línguas que podem ser utilizadas nas propostas ou nos pedidos de participação.
+
+- 23. Se for o caso, indicação de que:
+
+  - a) É aceite a apresentação eletrónica de propostas ou pedidos de participação;
+
+  - b) São utilizadas as encomendas eletrónicas;
+
+  - c) Será utilizada faturação eletrónica;
+
+  - d) Serão aceites pagamentos eletrónicos.
+
+- 24. Informações sobre se o contrato está relacionado com um projeto e/ou programa financiado por fundos da União.
+
+- 25. Designação e endereço do órgão responsável pelos processos de recurso e, se for caso disso, de mediação. Informações precisas sobre os prazos de recurso ou, se for caso disso, nome, endereço, telefone, fax e endereço de correio eletrónico do serviço junto do qual podem ser obtidas essas informações.
+
+- 26. Data(s) e referência(s) das publicações anteriores no Jornal Oficial da União Europeia pertinentes para o(s) contrato(s) publicitado(s) no anúncio.
+
+- 27. No caso de um contrato recorrente, prazo estimado para a publicação de novos anúncios.
+
+- 28. Data de envio do anúncio.
+
+- 29. Indicação sobre se o contrato é ou não abrangido pelo GPA.
+
+- 30. Quaisquer outras informações relevantes.
+
+##### PARTE D
+
+##### Informações que devem constar dos anúncios de adjudicação de contratos
+
+##### (conforme referido no artigo 50.º)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet da autoridade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações complementares.
+
+- 2. Tipo de autoridade adjudicante e principais atividades exercidas.
+
+- 3. Se for o caso, indicação de que a autoridade adjudicante é uma central de compras ou de que existe outra forma de contratação conjunta.
+
+- 4. Códigos CPV.
+
+- 5. Código NUTS do local principal de execução das obras, no caso das empreitadas de obras, ou do local principal de entrega ou de execução, no caso dos fornecimentos e serviços.
+
+- 6. Descrição do contrato: natureza e extensão das obras, natureza e quantidade ou valor dos fornecimentos, natureza e extensão dos serviços. Se o contrato estiver dividido em lotes, estas informações devem ser fornecidas para cada lote. Se for caso disso, descrição das eventuais opções.
+
+- 7. Tipo de procedimento de adjudicação; em caso de procedimento por negociação sem publicação prévia de anúncio, a respetiva justificação.
+
+- 8. Se for o caso, indicação de que se trata de:
+
+  - a) Um acordo-quadro;
+
+  - b) Um sistema de aquisição dinâmico.
+
+- 9. Critérios, referidos no artigo 67.º que foram utilizados para a adjudicação do contrato ou contratos. Se for o caso, indicação sobre se houve recurso a um leilão eletrónico (no caso de concursos abertos, concursos limitados ou procedimentos concorrenciais com negociação).
+
+- 10. Data de celebração do(s) contrato (s) ou do(s) acordo(s)-quadro, na sequência da decisão sobre a sua adjudicação ou celebração.
+
+- 11. Número de propostas recebidas em relação a cada adjudicação, nomeadamente:
+
+  - a) Número de propostas recebidas de operadores económicos que são pequenas e médias empresas;
+
+  - b) Número de propostas recebidas de outro Estado-Membro ou de um país terceiro;
+
+  - c) Número de propostas recebidas por via eletrónica.
+
+- 12. Para cada adjudicação, o nome, endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet do(s) adjudicatário(s), incluindo:
+
+  - a) Informações sobre se o adjudicatário é uma pequena e média empresa;
+
+  - b) Informação sobre se o contrato foi adjudicado a um agrupamento de operadores económicos (empresa comum, consórcio ou outros).
+
+- 13. Valor da ou das propostas selecionadas ou das propostas mais elevada e mais baixa que foram tidas em conta para a adjudicação ou adjudicações do contrato.
+
+- 14. Se for o caso, valor e parte do contrato suscetível de ser subcontratada a terceiros, para cada adjudicação.
+
+- 15. Informações sobre se o contrato está relacionado com um projeto e/ou programa financiado por fundos da União Europeia.
+
+- 16. Designação e endereço do órgão responsável pelos processos de recurso e, se for caso disso, de mediação. Informações precisas sobre os prazos de recurso ou, se for caso disso, nome, endereço, telefone, fax e endereço de correio eletrónico do serviço junto do qual podem ser obtidas essas informações.
+
+- 17. Data(s) e referência(s) das publicações anteriores no Jornal Oficial da União Europeia pertinentes para o(s) contrato(s) publicitado(s) no anúncio.
+
+- 18. Data de envio do anúncio.
+
+- 19. Quaisquer outras informações relevantes.
+
+##### PARTE E
+
+##### Informações que devem constar dos anúncios de concursos de conceção
+
+##### (conforme referido no artigo 79.º, n.º 1)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet da autoridade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações complementares.
+
+- 2. Correio eletrónico ou endereço Internet em que os documentos do concurso estarão disponíveis para acesso livre, direto, completo, a título gratuito.
+
+  Sempre que o acesso livre, completo, direto, a título gratuito, não estiver disponível pelas razões indicadas no artigo 53.º, n.º 1, segundo e terceiro parágrafos, uma indicação de como obter acesso aos documentos do concurso.
+
+- 3. Tipo de autoridade adjudicante e principais atividades exercidas.
+
+- 4. Se for o caso, indicação de que a autoridade adjudicante é uma central de compras ou de que existe outra forma de contratação conjunta.
+
+- 5. Códigos CPV; quando o contrato estiver dividido em lotes, esta informação deverá ser fornecida para cada lote.
+
+- 6. Descrição das características principais do projeto.
+
+- 7. Número e valor de quaisquer prémios.
+
+- 8. Tipo de concurso de conceção (aberto ou limitado).
+
+- 9. Em caso de concurso de conceção aberto, prazo para a apresentação dos projetos.
+
+- 10. No caso de concurso de conceção limitado:
+
+  - a) Número previsto de participantes;
+
+  - b) Se for caso disso, nomes dos participantes já selecionados;
+
+  - c) Critérios de seleção dos participantes;
+
+  - d) Prazo para os pedidos de participação.
+
+- 11. Se for caso disso, indicação sobre se a participação está reservada a uma profissão específica.
+
+- 12. Critérios a aplicar na avaliação dos projetos.
+
+- 13. Indicação sobre se a decisão do júri é vinculativa para a autoridade adjudicante.
+
+- 14. Se for caso disso, indicação dos pagamentos a efetuar a todos os participantes.
+
+- 15. Indicação sobre se, na sequência do concurso, de conceção quaisquer contratos serão ou não adjudicados ao vencedor ou aos vencedores.
+
+- 16. Data de envio do anúncio.
+
+- 17. Quaisquer outras informações relevantes.
+
+##### PARTE F
+
+##### Informações que devem constar dos anúncios sobre os resultados de um concurso
+
+##### (conforme referido no artigo 79.º, n.º 2)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet da autoridade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações complementares.
+
+- 2. Tipo de autoridade adjudicante e principais atividades exercidas.
+
+- 3. Se for o caso, indicação de que a autoridade adjudicante é uma central de compras ou de que existe outra forma de contratação conjunta.
+
+- 4. Códigos CPV.
+
+- 5. Descrição das características principais do projeto.
+
+- 6. Valor dos prémios.
+
+- 7. Tipo de concurso de conceção (aberto ou limitado).
+
+- 8. Critérios que foram aplicados na avaliação dos projetos.
+
+- 9. Data da decisão do júri.
+
+- 10. Número de participantes.
+
+  - a) Número de participantes que são PME;
+
+  - b) Número de participantes do estrangeiro.
+
+- 11. Nome, endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet do(s) vencedor(es) do concurso e indicação sobre se o vencedor ou vencedores são pequenas e médias empresas.
+
+- 12. Informações sobre se o concurso de conceção está relacionado com um projeto ou programa financiado por fundos da União.
+
+- 13. Data(s) e referência(s) das publicações anteriores no Jornal Oficial da União Europeia pertinentes para o(s) projeto(s) publicitado(s) no anúncio.
+
+- 14. Data de envio do anúncio.
+
+- 15. Quaisquer outras informações relevantes.
+
+##### PARTE G
+
+##### Informações que devem constar dos anúncios de alteração de um contrato durante o seu período de vigência
+
+##### (conforme referido no artigo 72.º, n.º 1)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, telefone, fax, correio eletrónico e endereço Internet da autoridade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações complementares.
+
+- 2. Códigos CPV.
+
+- 3. Código NUTS do local principal de execução das obras, no caso das empreitadas de obras, ou do local principal de entrega ou de execução, no caso dos fornecimentos e serviços.
+
+- 4. Descrição do concurso antes e depois da modificação: natureza e extensão das obras, natureza e quantidade ou valor dos fornecimentos, natureza e extensão dos serviços.
+
+- 5. Quando aplicável, aumento de preço causado pela modificação.
+
+- 6. Descrição das circunstâncias que tornaram necessária a modificação.
+
+- 7. Data da decisão de adjudicação do contrato.
+
+- 8. Quando aplicável, nome, endereço, incluindo código NUTS, telefone, fax, endereço de correio eletrónico e endereço Internet do(s) novo(s) operador(es) económico(s).
+
+- 9. Informações sobre se o contrato está relacionado com um projeto e/ou programa financiado por fundos da União Europeia.
+
+- 10. Designação e endereço do órgão de fiscalização e dos órgãos responsáveis pelos processos de recurso e, se for caso disso, de mediação. Informações precisas sobre os prazos de recurso ou, se for caso disso, nome, endereço, telefone, fax e endereço de correio eletrónico do serviço junto do qual podem ser obtidas essas informações.
+
+- 11. Data(s) e referência(s) das publicações anteriores no Jornal Oficial da União Europeia pertinentes para o(s) contrato(s) publicitado(s) no anúncio.
+
+- 12. Data de envio do anúncio.
+
+- 13. Quaisquer outras informações relevantes.
+
+##### PARTE H
+
+##### Informações que devem constar dos anúncios de concurso relativos a contratos de serviços sociais e outros serviços específicos
+
+##### (conforme referido no artigo 75.º, n.º 1)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, correio eletrónico e endereço Internet da autoridade adjudicante.
+
+- 2. Código NUTS do local principal de execução das obras, no caso das empreitadas de obras, ou do local principal de entrega ou de execução, no caso dos fornecimentos e serviços.
+
+- 3. Breve descrição do contrato em causa, incluindo número ou números de referência dos códigos CPV.
+
+- 4. Condições de participação, nomeadamente:
+
+  - — se for o caso, indicação de que se trata de um contrato reservado a entidades cujo objetivo principal seja a integração social e profissional ou cuja execução está reservada no quadro de programas de emprego protegido,
+
+  - — se for o caso, indicação sobre se a execução do serviço está reservada, por força de disposições legislativas, regulamentares ou administrativas, a uma profissão específica.
+
+- 5. Prazo(s) para contactar a autoridade adjudicante tendo em vista a participação.
+
+- 6. Breve descrição das principais características do procedimento de adjudicação a aplicar.
+
+##### PARTE I
+
+##### Informações que devem constar dos anúncios de pré-informação relativos a serviços sociais e outros serviços específicos
+
+##### (conforme referido no artigo 75.º, n.º 1)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, correio eletrónico e endereço Internet da autoridade adjudicante.
+
+- 2. Breve descrição do contrato em causa, incluindo o valor global estimado do contrato e o número ou números de referência dos códigos CPV.
+
+- 3. Se já forem conhecidos:
+
+  - a) Código NUTS do local principal de execução das obras, no caso das empreitadas de obras, ou do local principal de entrega ou de execução, no caso dos fornecimentos e serviços;
+
+  - b) Prazo para a entrega ou o fornecimento de produtos, trabalhos ou a prestação de serviços e a duração do contrato.
+
+  - c) Condições de participação, nomeadamente:
+
+    - — se for o caso, indicação de que se trata de um contrato público reservado a entidades cujo objetivo principal seja a integração social e profissional ou cuja execução está reservada no quadro de programas de emprego protegido,
+
+    - — se for o caso, indicação sobre se a execução do serviço está reservada, por força de disposições legislativas, regulamentares ou administrativas, a uma profissão específica;
+
+  - d) Breve descrição das principais características do procedimento de adjudicação a aplicar.
+
+- 4. Mencionar se os operadores económicos interessados devem comunicar à autoridade adjudicante o seu interesse no contrato ou contratos e prazo para a receção das manifestações de interesse, bem como o endereço para onde devem ser enviadas.
+
+##### PARTE J
+
+##### Informações que devem constar dos anúncios de adjudicação relativos a contratos de serviços sociais e outros serviços específicos
+
+##### (conforme referido no artigo 75.º, n.º 2)
+
+- 1. Nome, número de identificação (se previsto na legislação nacional), endereço, incluindo código NUTS, correio eletrónico e endereço Internet da autoridade adjudicante.
+
+- 2. Breve descrição do contrato em causa, incluindo número ou números de referência dos códigos CPV.
+
+- 3. Código NUTS do local principal de execução das obras, no caso das empreitadas de obras, ou do local principal de entrega ou de execução, no caso dos fornecimentos e serviços.
+
+- 4. Número de propostas recebidas.
+
+- 5. Preço ou gama de preços (mínimo/máximo) pagos.
+
+- 6. Para cada adjudicação, o nome, endereço, incluindo código NUTS, correio eletrónico e endereço Internet do(s) operador(es) económico(s) que venceu (venceram) o concurso.
+
+- 7. Quaisquer outras informações relevantes.
+
+## ANEXO VI
+
+#### INFORMAÇÕES QUE DEVEM CONSTAR DOS DOCUMENTOS DO CONCURSO RELATIVOS A LEILÕES ELETRÓNICOS
+
+#### (artigo 35.º, n.º 4)
+
+Quando as autoridades adjudicantes decidem recorrer a um leilão eletrónico, os documentos do concurso devem incluir, pelo menos, os seguintes elementos:
+
+- a) Os elementos cujos valores serão objeto do leilão eletrónico, desde que sejam quantificáveis e possam ser expressos em valores absolutos ou em percentagens;
+
+- b) Os eventuais limites dos valores que poderão ser apresentados, decorrentes das especificações do objeto do contrato;
+
+- c) As informações que serão facultadas aos proponentes durante o leilão eletrónico e em que momento, eventualmente, o serão;
+
+- d) As informações pertinentes sobre o desenrolar do leilão eletrónico;
+
+- e) As condições em que os proponentes poderão licitar e, nomeadamente, as diferenças mínimas que serão exigidas para fazer lanços sucessivos;
+
+- f) As informações pertinentes sobre o dispositivo eletrónico utilizado e sobre as modalidades e especificações técnicas de conexão.
+
+## ANEXO VII
+
+#### DEFINIÇÃO DE DETERMINADAS ESPECIFICAÇÕES TÉCNICAS
+
+Para efeitos da presente diretiva, entende-se por:
+
+- 1) «Especificação técnica» :
+
+  - a) No caso dos contratos de empreitada de obras, a totalidade das prescrições técnicas constantes, nomeadamente, dos documentos do concurso, que definem as características exigidas ao material, produto ou fornecimento e que permitem caracterizá-los de modo a que correspondam à utilização a que a autoridade adjudicante os destina; essas características incluem os níveis de desempenho ambiental e climático, a conceção que preveja todas as utilizações (incluindo a acessibilidade por parte das pessoas com deficiência) e a avaliação da conformidade, o desempenho, a segurança ou as dimensões, incluindo os procedimentos relativos à garantia de qualidade, a terminologia, os símbolos, os ensaios e métodos de ensaio, a embalagem, a marcação e a rotulagem, as instruções de utilização, bem como os procedimentos e métodos de produção em qualquer das fases do ciclo de vida dos trabalhos; as características incluem igualmente as regras de conceção e cálculo dos custos, as condições de ensaio, de controlo e de receção das obras, bem como as técnicas ou métodos de construção e todas as outras condições de caráter técnico que a autoridade adjudicante possa exigir, por meio de regulamentação geral ou especial, no que respeita às obras acabadas e aos materiais ou elementos integrantes dessas obras;
+
+  - b) No caso de contratos públicos de fornecimentos ou de serviços, uma especificação constante de um documento que define as características exigidas a um produto ou a um serviço, tais como os níveis de qualidade, os níveis de desempenho ambiental e climático, a conceção que preveja todas as utilizações (incluindo a acessibilidade por parte das pessoas com deficiência) e a avaliação da conformidade, o desempenho, a utilização do produto, a segurança ou as dimensões, incluindo as prescrições aplicáveis ao produto no que se refere ao nome sob o qual é vendido, a terminologia, os símbolos, os ensaios e métodos de ensaio, a embalagem, a marcação e rotulagem, as instruções de utilização, os procedimentos e métodos de produção em qualquer fase do ciclo de vida do produto ou serviço e os procedimentos de avaliação da conformidade.
+
+- 2) «Norma» :
+
+  uma especificação técnica aprovada por um organismo de normalização reconhecido para aplicação repetida ou continuada, cuja observância não é obrigatória e que se enquadra no âmbito de uma das seguintes categorias:
+
+  - a) «Norma internacional» : uma norma aprovada por um organismo internacional de normalização e acessível ao público em geral;
+
+  - b) «Norma europeia» : uma norma aprovada por um organismo europeu de normalização e acessível ao público em geral;
+
+  - c) «Norma nacional» : uma norma aprovada por um organismo nacional de normalização e acessível ao público em geral.
+
+- 3) «Avaliação Técnica Europeia» : a avaliação documentada do desempenho de um produto de construção, em relação às suas características essenciais, em conformidade com o respetivo documento de avaliação europeu, conforme definido no artigo 2.º, ponto 12, do Regulamento (UE) n.º 305/2011 do Parlamento Europeu e do Conselho ([^22]).
+
+- 4) «Especificação técnica comum» : uma especificação técnica no domínio das TIC estabelecida de acordo com o disposto nos artigos 13.º e 14.º do Regulamento (UE) n.º 1025/2012.
+
+- 5) «Referencial técnico» : qualquer produto elaborado por organismos europeus de normalização, que não as normas europeias, em conformidade com procedimentos adaptados à evolução das necessidades do mercado.
+
+## ANEXO VIII
+
+#### CARACTERÍSTICAS RELATIVAS À PUBLICAÇÃO
+
+##### 1. Publicação dos anúncios
+
+Os anúncios referidos nos artigos 48.º, 49.º, 50.º, 75.º e 79.º devem ser enviados pelas autoridades adjudicantes ao Serviço das Publicações da União Europeia e publicados em conformidade com as seguintes regras:
+
+Os anúncios a que se referem os artigos 48.º, 49.º, 50.º, 75.º e 79.º são publicados pelo Serviço das Publicações da União Europeia ou pelas autoridades adjudicantes no caso de anúncios de pré-informação publicados num perfil de adquirente em conformidade com o artigo 48.º, n.º 1.
+
+As autoridades adjudicantes podem, além disso, publicar estas informações na Internet num «perfil de adquirente», tal como referido no ponto 2, alínea b).
+
+O Serviço das Publicações da União Europeia fornece à autoridade adjudicante a confirmação de publicação a que se refere o artigo 51.º, n.º 5, segundo parágrafo.
+
+##### 2. Publicação de informações complementares ou adicionais
+
+- a) Salvo disposições em contrário previstas no artigo 53.º, n.º 1, segundo e terceiro parágrafos, as autoridades adjudicantes publicarão os documentos do concurso na sua totalidade na Internet;
+
+- b) O perfil de adquirente pode incluir anúncios de pré-informação, referidos no artigo 48.º, n.º 1, informações relativas a concursos públicos a decorrer, as aquisições previstas, as adjudicações efetuadas, os procedimentos anulados e todas as informações de utilidade geral, como pontos de contacto, números de telefone e de fax, endereços postais e endereços eletrónicos. O perfil de adquirente pode também incluir anúncios de pré-informação utilizados como meio de abertura de concurso, publicados a nível nacional nos termos do artigo 52.º.
+
+##### 3. Formato e modalidades de transmissão dos anúncios por via eletrónica
+
+O formato e as modalidades de envio dos anúncios por via eletrónica tal como definidos pela Comissão estão disponíveis no endereço Internet: «http://simap.europa.eu».
+
+## ANEXO IX
+
+#### CONTEÚDO DOS CONVITES À APRESENTAÇÃO DE PROPOSTAS, À PARTICIPAÇÃO NO DIÁLOGO OU À CONFIRMAÇÃO DE INTERESSE NOS TERMOS DO ARTIGO 54.º
+
+1. Os convites à apresentação de propostas ou à participação no diálogo previstos no artigo 54.º devem incluir, no mínimo:
+
+- a) Uma referência ao anúncio de concurso publicado;
+
+- b) O prazo de receção das propostas, o endereço para o qual devem ser enviadas e a ou as línguas em que devem ser redigidas;
+
+- c) No diálogo concorrencial, o endereço e a data fixada para o início da fase de consulta e a língua ou as línguas que serão utilizadas;
+
+- d) A indicação dos documentos a apensar eventualmente, quer para comprovar as declarações verificáveis do proponente, nos termos dos artigos 59.º e 60.º e, se for caso disso, do artigo 62.º, quer como complemento das informações previstas nesses mesmos artigos, e nas condições previstas nos artigos 59.º, 60.º e 62.º;
+
+- e) A ponderação relativa dos critérios para a adjudicação do contrato, ou, se for caso disso, a ordem decrescente de importância desses critérios, caso não constem do anúncio de concurso, do convite à confirmação de interesse, das especificações técnicas ou da memória descritiva.
+
+No entanto, no caso dos contratos adjudicados no âmbito de um diálogo concorrencial ou de uma parceria para a inovação, as informações referidas na alínea b) não figurarão no convite à participação no diálogo ou na negociação, mas serão referidas no convite à apresentação de propostas.
+
+2. Se a abertura do concurso tiver sido efetuada através de um anúncio de pré-informação, as autoridades adjudicantes convidam posteriormente todos os candidatos a confirmarem o seu interesse com base em informações pormenorizadas sobre o contrato em causa, antes de dar início à seleção dos proponentes ou dos participantes numa negociação.
+
+Esse convite incluirá, pelo menos, as informações seguintes:
+
+- a) Natureza e quantidade, incluindo todas as opções relativas a contratos complementares e, se possível, calendário provisório para o exercício dessas opções; no caso de contratos renováveis, natureza, quantidade e, se possível, calendário provisório de publicação dos anúncios de concurso posteriores para as empreitadas de obras, os fornecimentos ou os serviços que devam constituir o objeto do contrato;
+
+- b) Tipo de processo: concurso limitado ou procedimento concorrencial com negociação;
+
+- c) Se necessário, data em que se iniciará ou concluirá a entrega dos fornecimentos, a execução das empreitadas de obras ou a prestação dos serviços;
+
+- d) Caso não possa ser dado acesso eletrónico, endereço e data-limite para a apresentação dos pedidos de obtenção dos documentos do concurso, bem como a ou as línguas em que devem ser redigidos;
+
+- e) Endereço da autoridade adjudicante responsável pela adjudicação do contrato;
+
+- f) Condições económicas e técnicas, garantias financeiras e informações exigidas aos operadores económicos;
+
+- g) Forma do contrato que é objeto do anúncio de concurso: aquisição, locação financeira, locação ou locação-venda, ou qualquer combinação destas formas; e
+
+- h) Critérios para a adjudicação do contrato, bem como a respetiva ponderação, ou, se for caso disso, a ordem de importância desses critérios, caso tais informações não constem do anúncio de pré-informação, das especificações técnicas ou do convite para apresentação de propostas ou de participação na negociação.
+
+## ANEXO X
+
+#### LISTA DAS CONVENÇÕES INTERNACIONAIS NOS DOMÍNIOS SOCIAL E AMBIENTAL REFERIDAS NO ARTIGO 18.º, N.º 2
+
+- — Convenção n.º 87 da OIT sobre a liberdade sindical e a proteção do direito sindical;
+
+- — Convenção n.º 98 da OIT sobre a aplicação dos princípios do direito de organização e de negociação coletiva;
+
+- — Convenção n.º 29 da OIT sobre o trabalho forçado ou obrigatório;
+
+- — Convenção n.º 105 da OIT sobre a abolição do trabalho forçado;
+
+- — Convenção n.º 138 da OIT sobre a idade mínima de admissão ao emprego;
+
+- — Convenção n.º 111 da OIT sobre a discriminação em matéria de emprego e de profissão;
+
+- — Convenção n.º 100 da OIT sobre a igualdade de remuneração de homens e mulheres trabalhadores por trabalho de igual valor;
+
+- — Convenção n.º 182 da OIT relativa à interdição das piores formas de trabalho das crianças e à ação imediata com vista à sua eliminação;
+
+- — Convenção de Viena para a proteção da camada de ozono e Protocolo de Montreal relativo às substâncias que empobrecem a camada de ozono;
+
+- — Convenção sobre o controlo dos movimentos transfronteiriços de resíduos perigosos e sua eliminação (Convenção de Basileia);
+
+- — Convenção de Estocolmo sobre poluentes orgânicos persistentes (Convenção POP);
+
+- — Convenção de Roterdão sobre o Procedimento de Acordo Prévio com Conhecimento de Causa relativamente a Certos Produtos Químicos e Pesticidas Perigosos no Comércio Internacional (PNUA/FAO) (Convenção PIC), de 10 de setembro de 1998, e seus 3 protocolos regionais.
+
+## ANEXO XI
+
+#### REGISTOS ([^23])
+
+São os seguintes os registos profissionais e as declarações e certificados correspondentes para cada Estado-Membro:
+
+- — na Bélgica, o «Registre du commerce»/«Handelsregister» e, no caso dos contratos de prestação de serviços, as «Ordres professionnels/Beroepsorden»;
+
+- — na Bulgária, o «Търговски регистър»;
+
+- — na República Checa, o «obchodní rejstřík»;
+
+- — na Dinamarca, o «Erhvervsstyrelsen»;
+
+- — na Alemanha, o «Handelsregister», o «Handwerksrolle» e, no caso dos contratos de serviços, o «Vereinsregister», o «Partnerschaftsregister» e os «Mitgliedsverzeichnisse der Berufskammern der Länder»;
+
+- — na Estónia, o «Registrite ja Infosüsteemide Keskus»;
+
+- — na Irlanda, o operador económico pode ser convidado a apresentar um certificado emitido pelo «Registrar of Companies» ou pelo «Registrar of Friendly Societies», ou, se dele não dispuser, um certificado em que se ateste ter o interessado declarado, sob compromisso de honra, que exerce a profissão em questão no país onde se encontra estabelecido, em lugar específico e sob firma determinada;
+
+- — na Grécia, o «Μητρώο Εργοληπτικών Επιχειρήσεων — ΜΕΕΠ» do Ministério do Ambiente, Ordenamento do Território e Obras Públicas (Υ.ΠΕ.ΧΩ.Δ.Ε), no caso dos contratos de empreitada de obras públicas; o «Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελητήριο» e o «Μητρώο Κατασκευαστών Αμυντικού Υλικού», no caso dos contratos de fornecimentos; no caso dos contratos de serviços, o prestador de serviços pode ser convidado a apresentar uma declaração de exercício da profissão em causa, reconhecida em notário; ►C1 nos casos previstos na legislação nacional em vigor, para a prestação de serviços de investigação, o registo profissional ◄ «Μητρώο Μελετητών» e o «Μητρώο Γραφείων Μελετών»;
+
+- — em Espanha, o «Registro Oficial de Licitadores y Empresas Clasificadas del Estado» no que respeita aos contratos de empreitada de obras e serviços, e, no caso de contratos de fornecimentos, o «Registro Mercantil» ou, caso não exista inscrição neste registo, um certificado em que se ateste ter o interessado declarado, sob compromisso de honra, que exerce a profissão em questão;
+
+- — em França, o «Registre du commerce et des sociétés» e o «Répertoire des métiers»;
+
+- — na Croácia, o «Sudski registar» e o «Obrtni registrar» ou, no caso de certas atividades, um certificado do qual conste que a pessoa em causa é autorizada a exercer certas atividades de natureza comercial ou a profissão em causa;
+
+- — em Itália, o «Registro della Camera di commercio, industria, agricoltura e artigianato», – no caso dos contratos de fornecimentos e de serviços também o «Registro delle commissioni provinciali per l‘artigianato» ou, para além dos já referidos registos, o «Consiglio nazionale degli ordini professionali» em relação aos contratos de prestação de serviços; em relação aos contratos de empreitada de obras e de prestação de serviços, o ‘Albo nazionale dei gestori ambientali,» para além dos já referidos registos;
+
+- — em Chipre, o operador pode ser convidado a fornecer um certificado do «Council for the Registration and Audit of Civil Engineering and Building Contractors» (Συμβούλιο Εγγραφής και Ελέγχου Εργοληπτών Οικοδομικών και Τεχνικών Έργων) em conformidade com a legislação aplicável, no caso dos contratos de empreitada de obras públicas; no caso dos contratos de fornecimentos e de prestação de serviços o fornecedor pode ser convidado a apresentar um certificado do «Registrar of Companies and Official Receiver» (Έφορος Εταιρειών και Επίσημος Παραλήπτης) ou, se dele não dispuser, uma declaração em que se ateste ter o interessado declarado, sob compromisso de honra, que exerce a profissão em questão no país onde se encontra estabelecido, em lugar específico e sob firma determinada;
+
+- — na Letónia, o «Uzņēmumu reģistrs»;
+
+- — na Lituânia, o «Juridinių asmenų registras»;
+
+- — no Luxemburgo, o «Registre aux firmes» e o «Rôle de la Chambre des métiers»;
+
+- — na Hungria, o «Cégnyilvántartás», o «egyéni vállalkozók jegyzői nyilvántartása», e, no caso de contratos de prestação de serviços, alguns «szakmai kamarák nyilvántartása» ou, no caso de certas atividades, um certificado em que se ateste que o interessado está autorizado a exercer a atividade comercial ou a profissão em causa;
+
+- — em Malta, o operador económico deve comunicar o respetivo «numru ta’ registrazzjoni tat-Taxxa tal-Valur Miżjud (VAT) u n-numru tal-licenzja ta’ kummerc» e, no caso de parcerias ou sociedades, o respetivo número de registo atribuído pela Autoridade dos Serviços Financeiros de Malta;
+
+- — nos Países Baixos, o «Handelsregister»;
+
+- — na Áustria, o «Firmenbuch», o «Gewerberegister» e os «Mitgliederverzeichnisse der Landeskammern»;
+
+- — na Polónia, o «Krajowy Rejestr Sądowy»;
+
+- — em Portugal, o «Instituto da Construção e do Imobiliário» (INCI) no que respeita aos contratos de empreitada de obras; e o «Registo Nacional das Pessoas Coletivas» no que respeita aos contratos de fornecimentos e de serviços;
+
+- — na Roménia, o «Registrul Comerțului»;
+
+- — na Eslovénia, o «sodni register» e o «obrtni register»;
+
+- — na Eslováquia, o «Obchodný register»;
+
+- — na Finlândia, o «Kaupparekisteri»/«Handelsregistret»;
+
+- — na Suécia, os «aktiebolags–, handels– eller föreningsregistren»;
+
+- — no Reino Unido, o operador económico pode ser convidado a apresentar um certificado emitido pelo «Registrar of Companies» em que se ateste que constituiu uma sociedade ou está inscrito num registo comercial ou, se não dispuser de tal certificado, um certificado em que se ateste ter o interessado declarado, sob compromisso de honra, que exerce a profissão em questão num lugar específico e sob firma determinada.
+
+## ANEXO XII
+
+#### MEIOS DE PROVA DOS CRITÉRIOS DE SELEÇÃO
+
+##### Parte I: Capacidade económica e financeira
+
+A prova da capacidade económica e financeira do operador económico pode ser feita, regra geral, por um ou mais dos seguintes elementos de referência:
+
+- a) Declarações bancárias adequadas ou, se necessário, prova de que se encontra seguro contra riscos profissionais;
+
+- b) A apresentação das demonstrações financeiras ou extratos das demonstrações financeiras, sempre que a sua publicação seja exigida pela legislação do país onde o operador económico estiver estabelecido;
+
+- c) Uma declaração relativa ao volume de negócios global e, eventualmente, ao volume de negócios no domínio de atividades objeto do contrato, respeitante no máximo aos últimos três exercícios disponíveis, em função da data de criação ou do início de atividades do operador económico, desde que estejam disponíveis dados sobre esse volume de negócios.
+
+##### Parte II: Capacidade técnica
+
+Meios que comprovam as capacidades técnicas dos operadores económicos, nos termos do artigo 58.º:
+
+- a) As seguintes listas:
+
+  - i) lista das obras executadas, no máximo, nos últimos cinco anos, acompanhada de certificados de boa execução relativos às obras mais importantes e dos seus resultados; quando necessário para assegurar um nível adequado de concorrência, as entidades adjudicantes podem indicar que serão tidos em conta os elementos de prova das obras relevantes realizadas há mais de cinco anos,
+
+  - ii) lista dos principais fornecimentos ou serviços efetuados durante os três últimos anos, no máximo, com indicação dos montantes, datas e destinatários, públicos ou privados. Quando necessário para assegurar um nível adequado de concorrência, as autoridades adjudicantes podem indicar que serão tidas em conta provas de fornecimentos ou de serviços relevantes entregues ou prestados há mais de três anos;
+
+- b) Indicação dos técnicos ou dos serviços técnicos envolvidos, integrados ou não na empresa do operador económico, e especialmente dos responsáveis pelo controlo da qualidade e, sempre que se trate de contratos de empreitada de obras públicas, dos técnicos de que o empreiteiro poderá dispor para executar o trabalho;
+
+- c) Descrição do equipamento técnico e das medidas adotadas pelo operador económico para garantir a qualidade e dos meios de estudo e de investigação da sua empresa;
+
+- d) Indicação dos sistemas de gestão da cadeia de abastecimento e de seguimento que o operador económico poderá aplicar aquando da execução do contrato;
+
+- e) Se os produtos a fornecer ou os serviços a prestar forem complexos ou se, a título excecional, se destinarem a um fim específico, um controlo efetuado pela autoridade adjudicante ou, em seu nome, por um organismo oficial competente do país onde o fornecedor ou o prestador de serviços estiver estabelecido, sob reserva do acordo desse organismo; este controlo incidirá sobre a capacidade de produção do fornecedor ou sobre a capacidade técnica do prestador de serviços e, se necessário, sobre os meios de estudo e de investigação de que dispõe, bem como sobre as medidas que adota para controlar a qualidade;
+
+- f) Certificados de habilitações literárias e qualificações profissionais do prestador de serviços ou do empreiteiro ou das do quadro de gestão da empresa, desde que não sejam avaliados como um critério de adjudicação;
+
+- g) Indicação das medidas de gestão ambiental que o operador económico poderá aplicar aquando da execução do contrato;
+
+- h) Declaração em que se indique o efetivo médio anual do prestador de serviços ou do empreiteiro e a parte do efetivo constituída por quadros, nos últimos três anos;
+
+- i) Declaração das ferramentas, material, instalações ou equipamento industrial e técnico de que o prestador de serviços ou o empreiteiro disporá para a execução do contrato;
+
+- j) Indicação da parte do contrato que o operador económico tenciona eventualmente subcontratar;
+
+- k) Relativamente aos produtos a fornecer:
+
+  - i) amostras, descrições ou fotografias, cuja autenticidade deve poder ser comprovada a pedido da autoridade adjudicante,
+
+  - ii) certificados emitidos por institutos ou serviços oficiais de controlo da qualidade com competência reconhecida, que atestem a conformidade dos produtos, claramente identificada por referência a especificações ou normas técnicas.
+
+## ANEXO XIII
+
+#### LISTA DOS ATOS NORMATIVOS DA UNIÃO REFERIDA NO ARTIGO 68.º, N.º 3
+
+Diretiva 2009/33/CE do Parlamento Europeu e do Conselho
+
+## ANEXO XIV
+
+**SERVIÇOS A QUE SE REFERE O ARTIGO 74.º**
+
+| Código CPV | Descrição |
+|---|---|
+| 75200000-8; 75231200-6; 75231240-8; 79611000-0; 79622000-0 [Serviços de fornecimento de pessoal auxiliar doméstico]; 79624000-4 [Serviços de fornecimento de pessoal de enfermagem] e 79625000-1 [Serviços de fornecimento de pessoal médico] de 85000000-9 a 85323000-9; 98133100-5, 98133000-4; 98200000-5; 98500000-8 [Residências particulares com empregados domésticos] e 98513000-2 a 98514000-9 [Serviços de fornecimento de pessoal para agregados familiares, Serviços de agências de pessoal para agregados familiares, Serviços de empregados para agregados familiares, Pessoal temporário para agregados familiares, Serviços de assistência ao domicílio e Serviços domésticos] | Saúde, serviços sociais e serviços conexos |
+| 85321000-5 e 85322000-2, 75000000-6 [Serviços relacionados com a administração pública, a defesa e a segurança social], 75121000-0, 75122000-7, 75124000-1; de 79995000-5 a 79995200-7; de 80000000-4 [Serviços de educação e formação profissional] a 80660000-8; de 92000000-1 a 92700000-8 <br> 79950000-8 [Serviços de organização de exposições, feiras e congressos], 79951000-5 [Serviços de organização de seminários], 79952000-2 [Serviços de eventos], 79952100-3 [Serviços de organização de eventos culturais], 79953000-9 [Serviços de organização de festivais], 79954000-6 [Serviços de organização de receções], 79955000-3 [Serviços de organização de desfiles de moda], 79956000-0 [Serviços de organização de feiras e exposições] | Serviços administrativos nas áreas social, da educação, da saúde e da cultura |
+| 75300000-9 | Serviços relacionados com a segurança social obrigatória [^1] |
+| 75310000-2, 75311000-9, 75312000-6, 75313000-3, 75313100-4, 75314000-0, 75320000-5, 75330000-8, 75340000-1 | Serviços relacionados com as prestações sociais |
+| 98000000-3; 98120000-0; 98132000-7; 98133110-8 e 98130000-3 | Outros serviços coletivos, sociais e pessoais, incluindo serviços prestados por organizações sindicais, organizações políticas, organizações de juventude e outras organizações associativas. |
+| 98131000-0 | Serviços prestados por organizações religiosas |
+| de 55100000-1 a 55410000-7; de 55521000-8 a 55521200-0 [55521000-8 Serviços de fornecimento de refeições (catering) a agregados privados, 55521100-9 Serviços de refeições ao domicílio, 55521200-0 Serviços de entrega de refeições] <br> 55520000-1 Serviços de fornecimento de refeições ao domicílio (catering), 55522000-5 Serviços de fornecimento de refeições a empresas de transportes, 55523000-2 Serviços de fornecimento de refeições (catering) a outras empresas e instituições, 55524000-9 Serviços de fornecimento de refeições (catering) a escolas <br> 55510000-8 Serviços de cantinas, 55511000-5 Serviços de cantinas e outros serviços de cafetaria de clientela restrita, 55512000-2 Serviços de gestão de cantinas, 55523100-3 Serviços de cantinas escolares | Serviços de hotelaria e restauração |
+| de 79100000-5 a 79140000-7; 75231100-5; | Serviços jurídicos, na medida em que não estejam excluídos nos termos do artigo 10.º, alínea d) |
+| de 75100000-7 a 75120000-3; 75123000-4; de 75125000-8 a 75131000-3 | Outros serviços administrativos e das administrações públicas |
+| de 75200000-8 a 75231000-4 | Prestação de serviços à comunidade |
+| de 75231210-9 a 75231230-5; de 75240000-0 a 75252000-7; 794300000-7; 98113100-9 | Serviços relacionados com estabelecimentos prisionais, serviços de segurança pública e serviços de socorro, na medida em que não estejam excluídos por força do artigo 10.º, alínea h) |
+| de 79700000-1 a 79721000-4 [Serviços de investigação e de segurança, Serviços de segurança, Serviços de controlo de alarmes, Serviços de guarda, Serviços de vigilância, Serviços de localização, Serviços de localização de fugitivos, Serviços de patrulha, Serviços de emissão de cartões de identificação, Serviços de inquirição e investigação e Serviços de agência de detetives] 79722000-1 [Serviços de grafologia], 79723000-8 [Serviços de análise de resíduos] | Serviços de investigação e segurança |
+| 98900000-2 [Serviços prestados por organizações e entidades extraterritoriais] e 98910000-5 [Serviços específicos às organizações e entidades extraterritoriais] | Serviços internacionais |
+| 64000000-6 [Serviços postais e de telecomunicações], 64100000-7 [Serviços postais e de correio rápido], 64110000-0 [Serviços postais], 64111000-7 [Serviços postais de encaminhamento e distribuição de jornais e publicações periódicas], 64112000-4 [Serviços postais de encaminhamento e distribuição de correspondência], 64113000-1 [Serviços postais de encaminhamento e distribuição de encomendas], 64114000-8 [Serviços postais de atendimento], 64115000-5 [Aluguer de apartados postais], 64116000-2 [Serviços de posta restante], 64122000-7 [Serviços de correio interno] | Serviços postais |
+| 50116510-9 [Serviços de recauchutagem de pneumáticos], 71550000-8 [Serviços de ferraria] | Serviços diversos |
+| (^1) <br> Estes serviços não são abrangidos pela presente diretiva nos casos em que sejam organizados como serviços de interesse geral sem caráter económico. Os Estados-Membros são livres de organizar a prestação de serviços sociais obrigatórios ou de outros serviços enquanto serviços de interesse geral ou enquanto serviços de interesse geral sem caráter económico. |  |
+
+## ANEXO XV
+
+**TABELA DE CORRESPONDÊNCIA**
+
+| A presente diretiva | Diretiva 2004/18/CE |
+|---|---|
+| Artigo 1.º, n.ºs 1, 2, 4, 5 e 6 | — |
+| Artigo 1.º, n.º 3 | Artigo 10.º |
+| Artigo 2.º, n.º 1, ponto 1 | Artigo 1.º, n.º 9, primeiro parágrafo |
+| Artigo 2.º, n.º 1, ponto 2 | Artigo 7.º, alínea a) |
+| Artigo 2.º, n.º 1, ponto 3 | — |
+| Artigo 2.º, n.º 1, ponto 4, alínea a) | Artigo 1.º, n.º 9, segundo parágrafo, alínea a) |
+| Artigo 2.º, n.º 1, ponto 4, alínea b) | Artigo 1.º, n.º 9, segundo parágrafo, alínea b) |
+| Artigo 2.º, n.º 1, ponto 4, alínea c) | Artigo 1.º, n.º 9, segundo parágrafo, alínea c) |
+| Artigo 2.º, n.º 1, ponto 5 | Artigo 1.º, n.º 2, alínea a) |
+| Artigo 2.º, n.º 1, ponto 6 | Artigo 1.º, n.º 2, alínea b), primeiro período |
+| Artigo 2.º n.º 1, ponto 7 | Artigo 1.º, n.º 2, alínea b), segundo período |
+| Artigo 2.º, n.º 1, ponto 8 | Artigo 1.º, n.º 2, alínea c) |
+| Artigo 2.º, n.º 1, ponto 9 | Artigo 1.º, n.º 2, alínea d) |
+| Artigo 2.º, n.º 1, ponto 10 | Artigo 1.º, n.º 8, segundo parágrafo |
+| Artigo 2.º, n.º 1, ponto 11 | Artigo 1.º, n.º 8, terceiro parágrafo |
+| Artigo 2.º, n.º 1, ponto 12 | Artigo 1.º, n.º 8, terceiro parágrafo |
+| Artigo 2.º, n.º 1, ponto 13 | Artigo 23.º, n.º 1 |
+| Artigo 2.º, n.º 1, ponto 14 | Artigo 1.º, n.º 10 |
+| Artigo 2.º, n.º 1, ponto 15 | — |
+| Artigo 2.º, n.º 1, ponto 16 | Artigo 1.º, n.º 10 |
+| Artigo 2.º, n.º 1, ponto 17 | — |
+| Artigo 2.º, n.º 1, ponto 18 | Artigo 1.º, n.º 12 |
+| Artigo 2.º, n.º 1, ponto 19 | Artigo 1.º, n.º 13 |
+| Artigo 2.º, n.º 1, ponto 20 | — |
+| Artigo 2.º, n.º 1, ponto 21 | Artigo 1.º, n.º 11, alínea e) |
+| Artigo 2.º, n.º 1, ponto 22 | — |
+| Artigo 2.º, n.º 1, ponto 23 | — |
+| Artigo 2.º, n.º 1, ponto 24 | — |
+| Artigo 2.º, n.º 2 | — |
+| Artigo 3.º, n.º 1 | — |
+| Artigo 3.º, n.º 2, primeiro parágrafo | — |
+| Artigo 3.º, n.º 2, segundo parágrafo | Artigo 22.º; artigo 1.º, n.º 2, alínea d) |
+| Artigo 3.º, n.º 3 | — |
+| Artigo 3.º, n.º 4 | — |
+| Artigo 3.º, n.º 5 | — |
+| Artigo 3.º, n.º 6 | — |
+| Artigo 4.º | Artigos 7.º e 67.º |
+| Artigo 5.º, n.º 1 | Artigo 9.º, n.º 1 |
+| Artigo 5.º, n.º 2 | — |
+| Artigo 5.º, n.º 3 | Artigo 9.º, n.º 3; artigo 9.º, n.º 7, segundo parágrafo |
+| Artigo 5.º, n.º 4 | Artigo 9.º, n.º 2 |
+| Artigo 5.º, n.º 5 | Artigo 9.º, n.º 9 |
+| Artigo 5.º, n.º 6 | — |
+| Artigo 5.º, n.º 7 | Artigo 9.º, n.º 4 |
+| Artigo 5.º, n.º 8 | Artigo 9.º, n.º 5, alínea a), primeiro parágrafo |
+| Artigo 5.º, n.º 9 | Artigo 9.º, n.º 5, alínea b), primeiro e segundo parágrafos |
+| Artigo 5.º, n.º 10 | Artigo 9.º, n.º 5, alínea a), terceiro parágrafo <br> Artigo 9.º, n.º 5, alínea b), terceiro parágrafo |
+| Artigo 5.º, n.º 11 | Artigo 9.º, n.º 7 |
+| Artigo 5.º, n.º 12 | Artigo 9.º, n.º 6 |
+| Artigo 5.º, n.º 13 | Artigo 9.º, n.º 8, alínea a) |
+| Artigo 5.º, n.º 14 | Artigo 9.º, n.º 8, alínea b) |
+| Artigo 6.º, n.ºs 1 a 6 | Artigo 78.º; artigo 79.º, n.º 2, alínea a) |
+| Artigo 6.º, n.º 7 | Artigo 79.º, n.º 2, alínea d) |
+| Artigo 7.º | Artigo 12.º; artigo 68.º, alínea a) |
+| Artigo 8.º, primeiro parágrafo | Artigo 13.º; artigo 68.º, alínea b) |
+| Artigo 8.º, segundo parágrafo | Artigo 1.º, n.º 15 |
+| Artigo 9.º | Artigo 15.º; artigo 68.º, alínea b) |
+| Artigo 10.º, alínea a) | Artigo 16.º, alínea a) |
+| Artigo 10.º, alínea b) | Artigo 16.º, alínea b) |
+| Artigo 10.º, alínea c) | Artigo 16.º, alínea c) |
+| Artigo 10.º, alínea d) | — |
+| Artigo 10.º, alínea e) | Artigo 16.º, alínea d) |
+| Artigo 10.º, alínea f) | — |
+| Artigo 10.º, alínea g) | Artigo 16.º, alínea e) |
+| Artigo 10.º, alínea h) | — |
+| Artigo 10.º, alínea i) | — |
+| Artigo 10.º, alínea j) | — |
+| Artigo 11 | Artigo 18.º |
+| Artigo 12.º | — |
+| Artigo 13.º, primeiro parágrafo | Artigo 8.º, primeiro parágrafo |
+| Artigo 12.º, segundo parágrafo | Artigo 8.º, segundo parágrafo |
+| Artigo 14.º | Artigo 16.º, alínea f) |
+| Artigo 15.º, n.ºs 1 e 2 | Artigo 10.º; artigo 14.º; artigo 68.º, alínea b) |
+| Artigo 15.º, n.º 3 | Artigo 14.º; artigo 68.º, alínea b) |
+| Artigo 16.º | — |
+| Artigo 17.º, n.º 1 | Artigo 10.º, segundo parágrafo; artigo 12.º da Diretiva 2009/81/CE |
+| Artigo 17.º, n.º 2 | — |
+| Artigo 18.º, n.º 1 | Artigo 2.º |
+| Artigo 18.º, n.º 2 | — |
+| Artigo 19.º, n.º 1 | Artigo 4.º, n.º 1 |
+| Artigo 19.º, n.ºs 2 e 3 | Artigo 4.º, n.º 2 |
+| Artigo 20.º, n.º 1 | Artigo 19.º |
+| Artigo 20.º, n.º 2 | Artigo 19.º, segundo parágrafo |
+| Artigo 21.º, n.º 1 | Artigo 6.º |
+| Artigo 21.º, n.º 2 | — |
+| Artigo 22.º, n.º 1 | Artigo 42.º, n.ºs 1, 2 e 4; artigo 71.º, n.º 1 |
+| Artigo 22.º, n.º 2 | — |
+| Artigo 22.º, n.º 3 | Artigo 42.º, n.º 3; artigo 71.º, n.º 2 |
+| Artigo 22.º, n.º 4 | — |
+| Artigo 22.º, n.º 5 | — |
+| Artigo 22.º, n.º 6 | Artigo 42.º, n.ºs 5 e 6; artigo 71.º, n.º 3 |
+| Artigo 22.º, n.º 7, primeiro parágrafo | Artigo 79.º, n.º 2, alínea g) |
+| Artigo 22.º n.º 7, segundo e terceiro parágrafos | — |
+| Artigo 23.º, n.º 1 | Artigo 1.º, n.º 14, primeiro parágrafo |
+| Artigo 23.º, n.º 2 | Artigo 79.º, n.º 2, alíneas e) e f) |
+| Artigo 24.º | — |
+| Artigo 25.º | Artigo 5.º |
+| Artigo 26.º, n.º 1 | Artigo 28.º, primeiro parágrafo |
+| Artigo 26.º, n.º 2 | Artigo 28.º, segundo parágrafo |
+| Artigo 26.º, n.º 3 | — |
+| Artigo 26.º, n.º 4 | Artigo 28.º, segundo parágrafo; artigo 30.º, n.º 1 |
+| Artigo 26.º, n.º 5, primeiro parágrafo | Artigo 35.º, n.º 2 |
+| Artigo 26.º, n.º 5, segundo parágrafo | — |
+| Artigo 26.º, n.º 6 | Artigo 28.º, segundo parágrafo |
+| Artigo 27.º, n.º 1, primeiro parágrafo | Artigo 1.º, n.º 11, alínea a) |
+| Artigo 27.º, n.º 1, segundo e terceiro parágrafos | Artigo 38.º, n.º 2 |
+| Artigo 27.º, n.º 2 | Artigo 38.º, n.º 4 |
+| Artigo 27.º, n.º 3 | — |
+| Artigo 27.º, n.º 4 | — |
+| Artigo 27.º, n.º 1 | Artigo 38.º, n.º 3, alínea a); artigo 1.º, n.º 11, alínea b) |
+| Artigo 28.º, n.º 2 | Artigo 1.º, n.º 11, alínea b); artigo 38.º, n.º 3, alínea b); artigo 44.º, n.º 3, primeiro período |
+| Artigo 28.º, n.º 3 | Artigo 38.º, n.º 4 |
+| Artigo 28.º, n.º 4 | — |
+| Artigo 28.º, n.º 5 | — |
+| Artigo 28, n.º 6 | Artigo 38.º, n.º 8 |
+| Artigo 29.º, n.º 1, primeiro parágrafo | Artigo 1.º, n.º 11, alínea d) |
+| Artigo 29.º, n.º 1, segundo e terceiro parágrafos | — |
+| Artigo 29.º, n.º 1, quarto parágrafo | Artigo 38.º, n.º 3, alíneas a) e b) |
+| Artigo 29.º, n.º 2 | Artigo 1.º, n.º 11, alínea d); artigo 44.º, n.º 3, primeiro período |
+| Artigo 29.º, n.º 3 | Artigo 30.º, n.º 2 |
+| Artigo 29.º, n.º 4 | — |
+| Artigo 29.º, n.º 5 | Artigo 30.º, n.º 3 |
+| Artigo 29.º, n.º 6 | Artigo 30.º, n.º 4 |
+| Artigo 29.º, n.º 7 | Artigo 30.º, n.º 2 |
+| Artigo 30.º, n.º 1 | Artigo 1.º n.º 11, alínea c); artigo 38.o, n.º 3; artigo 44.º, n.º 3, primeiro período |
+| Artigo 30.º, n.º 2 | Artigo 29.º, n.ºs 2 e 7 |
+| Artigo 30.º, n.º 3 | Artigo 29.º, n.º 3 |
+| Artigo 30.º, n.º 4 | Artigo 29.º, n.º 4 |
+| Artigo 30.º, n.º 5 | Artigo 29.º, n.º 5 |
+| Artigo 30.º, n.º 6 | Artigo 29.º, n.º 6 |
+| Artigo 30.º, n.º 7 | Artigo 29.º, n.º 7 |
+| Artigo 30.º, n.º 8 | Artigo 29.º, n.º 8 |
+| Artigo 31.º | — |
+| Artigo 32.º, n.º 1 | Artigo 31.º, primeiro período |
+| Artigo 32.º, n.º 2, alínea a) | Artigo 31.º, ponto 1, alínea a) |
+| Artigo 32.º, n.º 2, alínea b) | Artigo 31.º, ponto 1, alínea b) |
+| Artigo 32.º, n.º 2, alínea c) | Artigo 31.º, ponto 1, alínea c) |
+| Artigo 32.º, n.º 3, alínea a) | Artigo 31.º, ponto 2, alínea a) |
+| Artigo 32.º, n.º 3, alínea b) | Artigo 31.º, ponto 2, alínea b) |
+| Artigo 32.º, n.º 3, alínea c) | Artigo 31.º, ponto 2, alínea c) |
+| Artigo 32.º, n.º 3, alínea d) | Artigo 31.º, ponto 2, alínea d) |
+| Artigo 32.º, n.º 4 | Artigo 31.º, ponto 3 |
+| Artigo 32.º, n.º 5 | Artigo 31.º, ponto 4, alínea b) |
+| Artigo 33.º, n.º 1 | Artigo 32.º, n.º 1; artigo 1.º, n.º 5; artigo 32.º, n.º 2, primeiro e quarto parágrafos |
+| Artigo 33.º, n.º 2 | Artigo 32.º, n.º 2, segundo e terceiro parágrafos |
+| Artigo 33.º, n.º 3 | Artigo 32.º, n.º 3 |
+| Artigo 33.º, n.º 4 | Artigo 32.º, n.º 4 |
+| Artigo 33.º, n.º 5 | Artigo 32.º, n.º 4 |
+| Artigo 34.º, n.º 1 | Artigo 33.º, n.º 1; artigo 1.º, n.º 6 |
+| Artigo 34.º, n.º 2 | Artigo 33.º, n.º 2 |
+| Artigo 34.º, n.º 3 | Artigo 33.º, n.º 2 |
+| Artigo 34.º, n.º 4 | Artigo 33.º, n.º 3 |
+| Artigo 34.º, n.º 5 | Artigo 33.º, n.º 4 |
+| Artigo 34.º, n.º 6 | Artigo 33.º, n.º 6 |
+| Artigo 34.º, n.º 7 | — |
+| Artigo 34.º, n.º 8 | — |
+| Artigo 34.º, n.º 9 | Artigo 33.º, n.º 7, terceiro parágrafo |
+| Artigo 35.º, n.º 1, primeiro parágrafo | Artigo 54.º, n.º 1 |
+| Artigo 35.º, n.º 1, segundo e terceiro parágrafos | Artigo 1.º, n.º 7 |
+| Artigo 35.º, n.º 2 | Artigo 54.º, n.º 2, primeiro e segundo parágrafos |
+| Artigo 35.º, n.º 3 | Artigo 54.º, n.º 2, terceiro parágrafo |
+| Artigo 35.º, n.º 4 | Artigo 54.º, n.º 3 |
+| Artigo 35.º, n.º 5 | Artigo 54.º, n.º 4 |
+| Artigo 35.º, n.º 6 | Artigo 54.º, n.º 5 |
+| Artigo 35.º, n.º 7 | Artigo 54.º, n.º 6 |
+| Artigo 35.º, n.º 8 | Artigo 54.º, n.º 7 |
+| Artigo 35.º, n.º 9 | Artigo 54.º, n.º 8, primeiro parágrafo |
+| Artigo 36.º | — |
+| Artigo 37.º, n.º 1 | Artigo 11.º, n.º 1 |
+| Artigo 37.º, n.º 2 | Artigo 11.º, n.º 2 |
+| Artigo 37.º, n.º 3 | — |
+| Artigo 37.º, n.º 4 | Artigo 11.º, n.º 2 |
+| Artigo 38.º | — |
+| Artigo 39.º | — |
+| Artigo 40.º | Considerando 8 |
+| Artigo 41.º | — |
+| Artigo 42.º, n.º 1 | Artigo 23.º, n.º 1 |
+| Artigo 42.º, n.º 2 | Artigo 23.º, n.º 2 |
+| Artigo 42.º, n.º 3 | Artigo 23.º, n.º 3 |
+| Artigo 42.º, n.º 4 | Artigo 23.º, n.º 8 |
+| Artigo 42.º, n.º 5 | Artigo 23.º, n.º 4, primeiro parágrafo |
+| Artigo 42.º, n.º 6 | Artigo 23.º, n.º 5, primeiro e segundo parágrafos |
+| Artigo 43.º, n.º 1 | Artigo 23.º, n.º 6 |
+| Artigo 43.º, n.º 2 | Artigo 23.º, n.º 6, primeiro travessão |
+| Artigo 44.º, n.º 1 | Artigo 23.º, n.º 4, segundo parágrafo; n.º 5, segundo e terceiro parágrafos; n.º 6, segundo parágrafo; n.º 7 |
+| Artigo 44.º, n.º 2 | Artigo 23.º, n.º 4, primeiro parágrafo; n.º 5, primeiro parágrafo; n.º 6, primeiro parágrafo |
+| Artigo 44.º, n.º 4 | — |
+| Artigo 45.º, n.º 1 | Artigo 24.º, n.ºs 1 e 2 |
+| Artigo 45.º, n.º 2 | Artigo 24.º, n.º 3 |
+| Artigo 45.º, n.º 3 | Artigo 24.º, n.º 4 |
+| Artigo 46.º | — |
+| Artigo 47.º, n.º 1 | Artigo 38.º, n.º 1 |
+| Artigo 47.º, n.º 2 | Artigo 38.º, n.º 7 |
+| Artigo 47.º, n.º 3 | Artigo 38.º, n.º 7 |
+| Artigo 48.º, n.º 1 | Artigo 35.º, n.º 1; artigo 36.º, n.º 1 |
+| Artigo 48.º, n.º 2 | — |
+| Artigo 49.º | Artigo 35.º, n.º 2; artigo 36.º, n.º 1 |
+| Artigo 50.º, n.ºs 1 a 3 | Artigo 35.º, n.º 4, primeiro ao terceiro parágrafos; artigo 36.º, n.º 1 |
+| Artigo 50.º, n.º 4 | Artigo 35.º, n.º 4, quinto parágrafo |
+| Artigo 51.º, n.º 1 | Artigo 36.º, n.º 1; artigo 79.º, n.º 1, alínea a) |
+| Artigo 51.º, n.º 2 | Artigo 36.º, n.º 2 |
+| Artigo 51.º, n.º 2 | Artigo 36.º, n.º 3 e n.º 4, segundo parágrafo |
+| Artigo 51.º, n.º 3 | Artigo 36.º, n.º 4, primeiro parágrafo |
+| Artigo 51.º, n.º 4 | — |
+| Artigo 51.º, n.º 5, primeiro parágrafo | Artigo 36.º, n.º 7 |
+| Artigo 51.º, n.º 5, segundo parágrafo | Artigo 36.º, n.º 8 |
+| Artigo 51.º, n.º 6 | Artigo 37.º |
+| Artigo 52.º, n.º 1 | Artigo 36.º, n.º 5, primeiro parágrafo |
+| Artigo 52.º, n.ºs 2 e 3 | Artigo 36.º, n.º 5, segundo e tereceiro parágrafos |
+| Artigo 53.º, n.º 1 | Artigo 38.º, n.º 6 |
+| Artigo 53.º, n.º 2 | Artigo 39.º, n.º 2 |
+| Artigo 54.º, n.º 1 | Artigo 40.º, n.º 1 |
+| Artigo 54.º, n.º 2 | Artigo 40.º, n.º 2 |
+| Artigo 55.º, n.º 1 | Artigo 41.º, n.º 1 |
+| Artigo 55.º, n.º 2 | Artigo 41.º, n.º 2 |
+| Artigo 55.º, n.º 3 | Artigo 41.º, n.º 3 |
+| Artigo 56.º, n.º 1, primeiro parágrafo | Artigo 44.º, n.º 1 |
+| Artigo 56.º, n.º 1, segundo parágrafo | — |
+| Artigo 56.º, n.º 2 | — |
+| Artigo 56.º, n.º 3 | — |
+| Artigo 56.º, n.º 4 | — |
+| Artigo 57.º, n.º 1 | Artigo 45.º, n.º 1 |
+| Artigo 57.º, n.º 2 | Artigo 45.º, n.º 2, alíneas e) e f) |
+| Artigo 57.º, n.º 3 | Artigo 45.º, n.º 1, segundo parágrafo |
+| Artigo 57.º n.º 4 | Artigo 45.º, n.º 2 |
+| Artigo 57.º, n.º 5 | — |
+| Artigo 57.º, n.º 6 | — |
+| Artigo 57.º, n.º 7 | Artigo 45.º, n.º 1, segundo parágrafo, e n.º 2, segundo parágrafo |
+| Artigo 58.º, n.º 1 | Artigo 44.º, n.º 1, e n.º 2, primeiro e segundo parágrafos |
+| Artigo 58.º, n.º 2 | Artigo 46.º |
+| Artigo 58.º, n.º 3 | Artigo 47.º |
+| Artigo 58.º, n.º 4 | Artigo 48.º |
+| Artigo 58.º, n.º 5 | Artigo 44.º, n.º 2 |
+| Artigo 59.º | — |
+| Artigo 60.º, n.º 1 | Artigo 47.º, n.ºs 4 a 5; artigo 48.º, n.º 6 |
+| Artigo 60.º, n.º 2 | Artigo 45.º, n.º 3 |
+| Artigo 60.º, n.ºs 3 e 4 | Artigo 47.º, n.ºs 1 e 5; artigo 48.º, n.º 2 |
+| Artigo 60.º, n.º 5 | — |
+| Artigo 61.º | — |
+| Artigo 62.º, n.º 1 | Artigo 49.º |
+| Artigo 62.º, n.º 2 | Artigo 50.º |
+| Artigo 62.º, n.º 3 | — |
+| Artigo 63.º, n.º 1 | Artigo 47.º, n.ºs 2 e 3; artigo 48.º, n.ºs 3 e 4 |
+| Artigo 63.º, n.º 2 | — |
+| Artigo 64.º, n.º 1 | Artigo 52.º, n.º 1; artigo 52.º, n.º 7 |
+| Artigo 64.º, n.º 2, primeiro parágrafo | Artigo 52.º, n.º 1, segundo parágrafo |
+| Artigo 64.º, n.º 2, segundo parágrafo | Artigo 52.º, n.º 1, terceiro parágrafo |
+| Artigo 64.º, n.º 3 | Artigo 52.º, n.º 2 |
+| Artigo 64.º, n.º 4 | Artigo 52.º, n.º 3 |
+| Artigo 64.º, n.º 5, primeiro parágrafo | Artigo 52.º, n.º 4, primeiro parágrafo |
+| Artigo 64.º, n.º 5, segundo parágrafo | Artigo 52.º, n.º 4, segundo parágrafo |
+| Artigo 64.º, n.º 6, primeiro parágrafo | Artigo 52.º, n.º 5, primeiro parágrafo |
+| Artigo 64.º, n.º 6, segundo parágrafo | Artigo 52.º, n.º 6 |
+| Artigo 64.º, n.º 7 | Artigo 52.º, n.º 5, segundo parágrafo |
+| Artigo 64.º, n.º 8 | — |
+| Artigo 65.º | Artigo 44.º, n.º 3 |
+| Artigo 66.º | Artigo 44.º, n.º 4 |
+| Artigo 67.º, n.º 1 | Artigo 53.º, n.º 1 |
+| Artigo 67.º, n.º 2 | Artigo 53.º, n.º 1 |
+| Artigo 67.º, n.º 2-A | — |
+| Artigo 67.º, n.º 4 | Considerando 1; considerando 46, terceiro parágrafo |
+| Artigo 67.º, n.º 5 | Artigo 53.º, n.º 2 |
+| Artigo 68.º | — |
+| Artigo 69.º, n.º 1 | Artigo 55.º, n.º 1 |
+| Artigo 69.º, n.º 2, alínea a) | Artigo 55.º, n.º 1, segundo parágrafo, alínea a) |
+| Artigo 69.º, n.º 2, alínea b) | Artigo 55.º, n.º 1, segundo parágrafo, alínea b) |
+| Artigo 69.º, n.º 2, alínea c) | Artigo 55.º, n.º 1, segundo parágrafo, alínea c) |
+| Artigo 69.º, n.º 2, alínea d) | Artigo 55.º, n.º 1, segundo parágrafo, alínea d) |
+| Artigo 69.º, n.º 2, alínea e) | — |
+| Artigo 69.º, n.º 2, alínea f) | Artigo 55.º, n.º 1, segundo parágrafo, alínea e) |
+| Artigo 69.º, n.º 3, primeiro parágrafo | Artigo 55.º, n.º 2 |
+| Artigo 69.º, n.º 3, segundo parágrafo | — |
+| Artigo 69.º, n.º 4 | Artigo 55.º, n.º 3 |
+| Artigo 69.º, n.º 5 | — |
+| Artigo 70.º | Artigo 26.º |
+| Artigo 71.º, n.º 1 | — |
+| Artigo 71.º, n.º 2 | Artigo 25.º, primeiro parágrafo |
+| Artigo 71.º, n.º 3 | — |
+| Artigo 71.º, n.º 4 | Artigo 25.º, segundo parágrafo |
+| Artigo 71.º, n.ºs 5 a 8 | — |
+| Artigo 72.º | — |
+| Artigo 73.º | — |
+| Artigo 74.º | — |
+| Artigo 75.º | — |
+| Artigo 76.º | — |
+| Artigo 77.º | — |
+| Artigo 78.º | Artigo 67.º, n.º 2 |
+| Artigo 79.º, n.ºs 1 a 2 | Artigo 69.º, n.º 1-2 |
+| Artigo 79.º, n.º 3 | Artigo 70.º, n.º 1; artigo 79, n.º 1, alínea a) |
+| Artigo 80.º, n.º 1 | — |
+| Artigo 80.º, n.º 2 | Artigo 66.º, n.º 2 |
+| Artigo 80.º, n.º 3 | Artigo 72.º |
+| Artigo 81.º | Artigo 73.º |
+| Artigo 82.º | Artigo 74.º |
+| Artigo 83.º, n.º 1 | Artigo 81.º, primeiro parágrafo |
+| Artigo 83.º, n.ºs 2 a 6 | — |
+| Artigo 84.º | Artigo 43.º |
+| Artigo 85.º | — |
+| Artigo 86.º | — |
+| Artigo 87.º | Artigo 77.º, n.ºs 3 e 4 |
+| Artigo 88.º | Artigo 77.º, n.º 5 |
+| Artigo 89.º, n.ºs 1 e 2 | Artigo 77.º, n.º 1 e 2 |
+| Artigo 89.º, n.º 3 | — |
+| Artigo 90.º, n.º 1 | Artigo 80.º, n.º 1, primeiro parágrafo |
+| Artigo 90.º, n.ºs 2 a 5 | — |
+| Artigo 90.º, n.º 6 | Artigo 80.º, n.º 1, segundo parágrafo |
+| Artigo 91.º | Artigo 82.º |
+| Artigo 92.º | — |
+| Artigo 93.º | Artigo 83.º |
+| Artigo 9.º | Artigo 84.º |
+| Anexo I | Anexo IV |
+| Anexo II | Anexo I |
+| Anexo III | Anexo V |
+| — | Anexo III |
+| Anexo IV, alíneas a) a f) | Anexo X, alíneas b) a h) |
+| Anexo IV, alínea g) | — |
+| Anexo V — Parte A | Anexo VII — A |
+| Anexo V — Parte B — I. | Anexo VII — A |
+| Anexo V — Parte B — II. | — |
+| Anexo V — Parte C | Anexo VII — A |
+| Anexo V — Parte D | Anexo VII — A |
+| Anexo V — Parte E | Anexo VII — D |
+| Anexo V — Parte F | Anexo VII — D |
+| Anexo V — Parte G | — |
+| Anexo V — Parte H | — |
+| Anexo V — Parte I | — |
+| Anexo V — Parte J | — |
+| Anexo VI | Artigo 54.º, n.º 3, alíneas a) a f) |
+| Anexo VII | Anexo VI |
+| Anexo VIII | Anexo VIII |
+| Anexo IX, 1. | Artigo 40.º, n.º 5 |
+| Anexo IX, 2. | — |
+| Anexo X | — |
+| Anexo XI | Anexo IX A, B, C |
+| Anexo XII, Parte 1 | Artigo 47.º, n.º 1 |
+| Anexo XII, Parte 2 | Artigo 48.º, n.º 2 |
+| Anexo XIII | — |
+| Anexo XIV | Anexo II |
+| Anexo XV | Anexo XII |
+
+[^1]: Regulamento (CE) n.º 1059/2003 do Parlamento Europeu e do Conselho, de 26 de maio de 2003, relativo à instituição de uma Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS) (JO L 154 de 21.6.2003, p. 1).
+
+[^2]: Diretiva 2002/21/CE do Parlamento Europeu e do Conselho, de 7 de março de 2002, relativa a um quadro regulamentar comum para as redes e serviços de comunicações eletrónicas (diretiva-quadro) (JO L 108 de 24.4.2002, p. 33).
+
+[^3]: Diretiva 2010/13/UE do Parlamento Europeu e do Conselho, de 10 de março de 2010, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à oferta de serviços de comunicação social audiovisual (Diretiva Serviços de Comunicação Social Audiovisual) (JO L 95 de 15.4.2010, p. 1).
+
+[^4]: Diretiva 77/249/CEE do Conselho, de 22 de março de 1977, tendente a facilitar o exercício efetivo da livre prestação de serviços pelos advogados (JO L 78 de 26.3.1977, p. 17).
+
+[^5]: Diretiva 2004/39/CE do Parlamento Europeu e do Conselho, de 21 de abril de 2004, relativa aos mercados de instrumentos financeiros, que altera as Diretivas 85/611/CEE e 93/6/CEE do Conselho e a Diretiva 2000/12/CE do Parlamento Europeu e do Conselho e que revoga a Diretiva 93/22/CEE do Conselho (JO L 145 de 30.4.2004, p. 1).
+
+[^6]: Diretiva 1999/93/CE do Parlamento Europeu e do Conselho, de 13 de dezembro de 1999, relativa a um quadro legal comunitário para as assinaturas eletrónicas (JO L 13 de 19.1.2000, p. 12).
+
+[^7]: Decisão 2009/767/CE da Comissão, de 16 de outubro de 2009, que determina medidas destinadas a facilitar a utilização de procedimentos informatizados através de balcões únicos, nos termos da Diretiva 2006/123/CE do Parlamento Europeu e do Conselho relativa aos serviços no mercado interno (JO L 274 de 20.10.2009, p. 36).
+
+[^8]: Decisão 2011/130/UE da Comissão, de 25 de fevereiro de 2011, que estabelece requisitos mínimos para o processamento transfronteiras de documentos assinados eletronicamente pelas autoridades competentes nos termos da Diretiva 2006/123/CE do Parlamento Europeu e do Conselho relativa aos serviços no mercado interno (JO L 53 de 26.2.2011, p. 66).
+
+[^9]: Regulamento (CE) n.º 1082/2006 do Parlamento Europeu e do Conselho, de 5 de julho de 2006, relativo aos agrupamentos europeus de cooperação territorial (AECT) (JO L 210 de 31.7.2006, p. 19).
+
+[^10]: Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos, e que revoga o Regulamento (CEE) n.º 339/93 (JO L 218 de 13.8.2008, p. 30).
+
+[^11]: Decisão-Quadro 2008/841/JAI do Conselho, de 24 de outubro de 2008, relativa à luta contra a criminalidade organizada (JO L 300 de 11.11.2008, p. 42).
+
+[^12]: JO C 195 de 25.6.1997, p. 1.
+
+[^13]: Decisão-Quadro 2003/568/JAI do Conselho, de 22 de julho de 2003, relativa ao combate à corrupção no setor privado (JO L 192 de 31.7.2003, p. 54).
+
+[^14]: JO C 316 de 27.11.1995, p. 48.
+
+[^15]: Decisão-Quadro do Conselho, de 13 de junho de 2002, relativa à luta contra o terrorismo (JO L 164 de 22.6.2002, p. 3).
+
+[^16]: Diretiva 2005/60/CE do Parlamento Europeu e do Conselho, de 26 de outubro de 2005, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais e de financiamento do terrorismo (JO L 309 de 25.11.2005, p. 15).
+
+[^17]: Diretiva 2011/36/UE do Parlamento Europeu e do Conselho, de 5 de abril de 2011, relativa à prevenção e luta contra o tráfico de seres humanos e à proteção das vítimas, e que substitui a Decisão-Quadro 2002/629/JAI do Conselho (JO L 101 de 15.4.2011, p. 1).
+
+[^18]: Recomendação da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas (JO L 124 de 20.5.2003, p. 36).
+
+[^19]: Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados (JO L 281 de 23.11.1995, p. 31).
+
+[^20]: Diretiva 2002/58/CE do Parlamento Europeu e do Conselho, de 12 de julho de 2002, relativa ao tratamento de dados pessoais e à proteção da privacidade no setor das comunicações eletrónicas (Diretiva relativa à privacidade e às comunicações eletrónicas) (JO L 201 de 31.7.2002, p. 37).
+
+[^21]: Decisão 71/306/CEE do Conselho, de 26 de julho de 1971, que institui um Comité Consultivo para os Contratos de Empreitada de Obras Públicas (JO L 185 de 16.8.1971, p. 15).
+
+[^22]: Regulamento (UE) n.º 305/2011 do Parlamento Europeu e do Conselho, de 9 de março de 2011, que estabelece condições harmonizadas para a comercialização dos produtos de construção e que revoga a Diretiva 89/106/CEE do Conselho (JO L 88 de 4.4.2011, p. 5).
+
+[^23]: Para efeitos do artigo 58.º, n.º 2, os «registos profissionais e comerciais» são os que constam da lista do presente Anexo e, quando forem efetuadas alterações a nível nacional, os registos que os substituam.

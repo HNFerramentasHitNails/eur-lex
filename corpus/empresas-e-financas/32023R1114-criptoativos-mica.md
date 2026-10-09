@@ -1,0 +1,5192 @@
+---
+celex: 32023R1114
+nome_curto: Criptoativos (MiCA)
+tipo: Regulamento
+titulo: Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 (Texto relevante para efeitos do EEE)
+data_documento: '2023-05-31'
+em_vigor: true
+entrada_em_vigor:
+- '2023-06-29'
+- '2024-06-30'
+- '2024-12-30'
+texto: consolidado
+versao_consolidada: 02023R1114-20240109
+versao_aplicavel_desde: '2024-01-09'
+eli: http://data.europa.eu/eli/reg/2023/1114/oj
+repertorio:
+- 10.40 Livre circulação de capitais
+url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023R1114
+url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02023R1114-20240109
+lingua: pt
+fonte: cellar:application/xhtml+xml
+obtido_em: '2026-10-09'
+---
+
+# Regulamento 32023R1114 — Criptoativos (MiCA)
+
+**Título oficial:** Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 (Texto relevante para efeitos do EEE)
+
+**Texto:** versão consolidada aplicável desde 2024-01-09 (02023R1114-20240109).
+
+> Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
+
+**Considerandos (preâmbulo):** ficheiro `32023R1114-criptoativos-mica.considerandos.md`.
+
+**Contexto** (sínteses oficiais, transposição em Portugal, jurisprudência do TJUE): ficheiro `32023R1114-criptoativos-mica.contexto.md`.
+
+**EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023R1114
+
+## Alterações incorporadas nesta versão
+
+No texto, ▼M1/►M1 marcam disposições alteradas pelo acto M1 (e assim por diante), ▼C1 marca rectificações, ▼A1 actos de adesão e ▼B o texto de base.
+
+- ►M1 REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023 — L 2869 — 1 — 20.12.2023 (CELEX 32023R2869)
+- ►C1 Rectificação, JO L 90275, 2.5.2024, p. 1 (2023/1114) (CELEX 32023R1114R(03))
+- ►C2 Rectificação, JO L 90658, 30.10.2024, p. 1 (2023/1114) (CELEX 32023R1114R(04))
+- ►C3 Rectificação, JO L 90077, 28.1.2025, p. 1 (2023/1114) (CELEX 32023R1114R(05))
+
+## Texto
+
+▼B
+
+## TÍTULO I — OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+
+### Artigo 1.º — Objeto
+
+1. O presente regulamento estabelece requisitos uniformes para a oferta pública e a admissão à negociação numa plataforma de negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica, de criptofichas referenciadas a ativos e de criptofichas de moeda eletrónica, bem como requisitos aplicáveis aos prestadores de serviços de criptoativos.
+
+2. Em especial, o presente regulamento estabelece o seguinte:
+
+- a) Requisitos de transparência e divulgação para a emissão, a oferta pública e a admissão de criptoativos à negociação numa plataforma de negociação («admissão à negociação»);
+
+- b) Requisitos para a autorização e supervisão de prestadores de serviços de criptoativos, emitentes de criptofichas referenciadas a ativos e emitentes de criptofichas de moeda eletrónica, bem como relativos à sua operação, organização e governação;
+
+- c) Requisitos para a proteção dos detentores de criptoativos no que respeita à emissão, oferta pública e admissão à negociação de criptoativos;
+
+- d) Requisitos para a proteção dos clientes de prestadores de serviços de criptoativos;
+
+- e) Medidas para prevenir o abuso de informação privilegiada, a divulgação ilícita de informação privilegiada e a manipulação de mercado relacionados com criptoativos, a fim de assegurar a integridade dos mercados de criptoativos.
+
+### Artigo 2.º — Âmbito de aplicação
+
+1. O presente regulamento aplica-se às pessoas singulares e coletivas e a determinadas outras empresas envolvidas na emissão, oferta pública e admissão à negociação de criptoativos ou que prestam serviços de criptoativos na União.
+
+2. O presente regulamento não se aplica:
+
+- a) A pessoas que prestam serviços de criptoativos exclusivamente às suas empresas-mãe, às suas filiais ou a outras filiais das respetivas empresas-mãe;
+
+- b) A um liquidatário ou administrador que atue no decurso de um processo de insolvência, exceto para efeitos do artigo 47.º;
+
+- c) Ao BCE, aos bancos centrais dos Estados-Membros, quando atuarem na sua qualidade de autoridades monetárias, ou a outras autoridades públicas dos Estados—Membros;
+
+- d) Ao Banco Europeu de Investimento e às suas filiais;
+
+- e) Ao Fundo Europeu de Estabilidade Financeira e ao Mecanismo Europeu de Estabilidade;
+
+- f) Às organizações internacionais públicas.
+
+3. O presente regulamento não se aplica aos criptoativos que sejam únicos e não fungíveis com outros criptoativos.
+
+4. O presente regulamento não se aplica a criptoativos que que entrem numa ou mais das seguintes categorias:
+
+- a) Instrumentos financeiros;
+
+- b) Depósitos, incluindo depósitos estruturados;
+
+- c) Fundos, exceto se forem criptofichas de moeda eletrónica;
+
+- d) Posições de titularização no âmbito de uma titularização na aceção do artigo 2.º, ponto 1, do Regulamento (UE) 2017/2402;
+
+- e) Produtos de seguros não vida ou de vida abrangidos pelos ramos de seguros enumerados nos anexos I e II da Diretiva 2009/138/CE do Parlamento Europeu e do Conselho ([^1]) ou contratos de resseguro e de retrocessão referidos nessa diretiva;
+
+- f) Produtos de pensões que, ao abrigo do direito nacional, sejam reconhecidos como tendo por principal objetivo proporcionar aos investidores um rendimento na reforma e que confiram ao investidor o direito de receber determinadas prestações;
+
+- g) Planos de pensões profissionais oficialmente reconhecidos que caiam no âmbito de aplicação da Diretiva (UE) 2016/2341 do Parlamento Europeu e do Conselho ([^2]) ou da Diretiva 2009/138/CE;
+
+- h) Produtos individuais de pensões de reforma relativamente aos quais o direito nacional exija uma contribuição financeira do empregador e no âmbito dos quais nem o empregador nem o trabalhador sejam livres de escolher o produto ou o prestador;
+
+- i) Um Produto Individual de Reforma Pan-Europeu, na aceção do artigo 2.º, ponto 2, do Regulamento (UE) 2019/1238 do Parlamento Europeu e do Conselho ([^3]);
+
+- j) Regimes de segurança social abrangidos pelos Regulamentos (CE) n.º 883/2004 ([^4]) e (CE) n.º 987/2009 do Parlamento Europeu e do Conselho ([^5]).
+
+5. Até 30 de dezembro de 2024, a ESMA emite, para efeitos do n.º 4, alínea a), do presente artigo, orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1095/2010 sobre as condições e os critérios para a classificação de criptoativos como instrumentos financeiros.
+
+6. O presente regulamento não prejudica o disposto no Regulamento (UE) n.º 1024/2013.
+
+### Artigo 3.º — Definições
+
+1. Para efeitos do presente regulamento, entende-se por:
+
+- 1) «Tecnologia de registo distribuído» ou «DLT» (do inglês, distributed ledger technology), uma tecnologia que permite o funcionamento e a utilização de registos distribuídos;
+
+- 2) «Registo distribuído», um repositório de informações que mantém registos das transações e é partilhado através de um conjunto de nós da rede DLT e se encontra sincronizado entre os nós da rede DLT utilizando um mecanismo de consenso;
+
+- 3) «Mecanismo de consenso», regras e procedimentos através dos quais se chega a acordo, entre os nós da rede DLT, em como uma transação está validada;
+
+- 4) «Nó da rede DLT», um dispositivo ou processo que faz parte de uma rede e que detém uma réplica total ou parcial de registos de todas as transações num registo distribuído;
+
+- 5) «Criptoativo», uma representação digital de um valor ou de um direito que pode ser transferida e armazenada eletronicamente, recorrendo à tecnologia de registo distribuído ou a uma tecnologia semelhante;
+
+- 6) «Criptoficha referenciada a ativos», um tipo de criptoativo que não é uma criptoficha de moeda eletrónica e que procura manter um valor estável por referência a outro valor ou direito, ou a uma combinação de ambos, nomeadamente uma ou várias moedas oficiais;
+
+- 7) «Criptoficha de moeda eletrónica», um tipo de criptoativo que procura manter um valor estável por referência ao valor de uma moeda oficial;
+
+- 8) «Moeda oficial», uma moeda oficial de um país que é emitida por um banco central ou por outra autoridade monetária;
+
+- 9) «Criptoficha de consumo», um tipo de criptoativo destinado exclusivamente a facultar o acesso a um bem ou serviço prestado pelo emitente dessa criptoficha;
+
+- 10) «Emitente», uma pessoa singular ou coletiva, ou outra empresa, que emite criptoativos;
+
+- 11) «Emitente requerente», um emitente de criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica que requer autorização para fazer uma oferta pública ou solicita admissão à negociação desses criptoativos;
+
+- 12) «Oferta pública», uma comunicação ao público, independentemente da sua forma e dos meios utilizados, que apresenta informações suficientes sobre os termos da oferta e sobre os criptoativos em causa, de modo a que potenciais detentores possam decidir se adquirem ou não esses criptoativos;
+
+- 13) «Oferente», uma pessoa singular ou coletiva, outra empresa ou o emitente que faz uma oferta pública de criptoativos;
+
+- 14) «Fundos», os fundos na aceção do artigo 4.º, ponto 25, da Diretiva (UE) 2015/2366;
+
+- 15) «Prestador de serviços de criptoativos», uma pessoa coletiva ou outra empresa cuja ocupação ou atividade económica seja a prestação de um ou mais serviços de criptoativos a clientes a título profissional e que está autorizada a prestar serviços de criptoativos nos termos do artigo 59.º;
+
+- 16) «Serviço de criptoativo», qualquer um dos seguintes serviços e atividades relacionados com qualquer criptoativo:
+
+  - a) Custódia e administração de criptoativos em nome de clientes;
+
+  - b) Operação de uma plataforma de negociação de criptoativos;
+
+  - c) Troca de criptoativos por fundos;
+
+  - d) Troca de criptoativos por outros criptoativos;
+
+  - e) Execução de ordens relativas a criptoativos em nome de clientes;
+
+  - f) Colocação de criptoativos;
+
+  - g) Receção e transmissão de ordens relativas a criptoativos em nome de clientes;
+
+  - h) Consultoria sobre criptoativos;
+
+  - i) Gestão de carteiras de criptoativos;
+
+  - j) Serviços de transferência de criptoativos em nome de clientes;
+
+- 17) «Custódia e administração de criptoativos em nome de clientes», a conservação ou controlo, em nome de clientes, de criptoativos ou dos meios de acesso a esses criptoativos, quando aplicável sob a forma de chaves criptográficas privadas;
+
+- 18) «Operação de uma plataforma de negociação de criptoativos», a gestão de um ou mais sistemas multilaterais que reúnem ou permitem reunir, no sistema e nos termos das regras que o regem, múltiplos interesses de compra e venda de criptoativos de terceiros de uma forma que resulta num contrato, quer através da troca de criptoativos por fundos quer através da troca de criptoativos por outros criptoativos;
+
+- 19) «Troca de criptoativos por fundos», a celebração, com clientes, de contratos de compra ou venda relativos a criptoativos em troca de fundos, recorrendo ao próprio capital;
+
+- 20) «Troca de criptoativos por outros criptoativos», a celebração, com clientes, de contratos de compra ou venda relativos a criptoativos em troca de outros criptoativos, recorrendo ao próprio capital;
+
+- 21) «Execução de ordens relativas a criptoativos em nome de clientes», a celebração de acordos, em nome de clientes, para comprar ou vender um ou mais criptoativos ou a subscrição, em nome de clientes, de um ou mais criptoativos, aí incluída a celebração de contratos de venda de criptoativos no momento da sua oferta pública ou admissão à negociação;
+
+- 22) «Colocação de criptoativos», a comercialização de criptoativos junto de compradores, em nome ou por conta do oferente ou de uma parte relacionada com o oferente;
+
+- 23) «Receção e transmissão de ordens relativas a criptoativos em nome de clientes», a receção de uma ordem de uma pessoa para comprar ou vender um ou mais criptoativos ou para subscrever um ou mais criptoativos e a transmissão dessa ordem a um terceiro para a sua execução;
+
+- 24) «Consultoria sobre criptoativos», oferecer, dar ou concordar em dar aconselhamento personalizado a um cliente, a pedido do cliente ou por iniciativa do prestador de serviços de criptoativos que presta a consultoria, a respeito de uma ou mais transações relacionadas com criptoativos ou da utilização de serviços de criptoativos;
+
+- 25) «Gestão de carteiras de criptoativos», a gestão de carteiras com base em mandatos conferidos por clientes numa base individual e discricionária, sempre que essas carteiras incluam um ou mais criptoativos;
+
+- 26) «Serviços de transferência de criptoativos em nome de clientes», os serviços de transferência, em nome de uma pessoa singular ou coletiva, de criptoativos de um endereço ou conta de registo distribuído para outro;
+
+- 27) «Órgão de administração», o órgão, ou os órgãos, de um emissor, de um oferente ou de uma pessoa que solicita a admissão à negociação de criptoativos, ou de um prestador de serviços de criptoativos, que são nomeados de acordo com o direito nacional, que têm poderes para estabelecer a estratégia, os objetivos e a orientação geral da entidade e que supervisionam e acompanham a tomada de decisões em matéria de gestão na entidade e que incluem as pessoas que dirigem efetivamente as atividades da entidade;
+
+- 28) «Instituição de crédito», uma instituição de crédito na aceção do artigo 4.º, n.º 1, ponto 1, do Regulamento (UE) n.º 575/2013 autorizada nos termos da Diretiva 2013/36/UE;
+
+- 29) «Empresa de investimento», uma empresa de investimento na aceção do artigo 4.º, n.º 1, ponto 2, do Regulamento (UE) n.º 575/2013 autorizada nos termos da Diretiva 2014/65/UE;
+
+- 30) «Investidores qualificados», as pessoas ou entidades enumeradas na secção I, pontos 1 a 4, do anexo II da Diretiva 2014/65/UE;
+
+- 31) «Relação estreita», uma relação estreita na aceção do artigo 4.º, n.º 1, ponto 35, da Diretiva 2014/65/UE;
+
+- 32) «Reserva de ativos», o cabaz de ativos de reserva que garante o crédito sobre o emitente;
+
+- 33) «Estado-Membro de origem»,
+
+  - a) O Estado-Membro em que o oferente ou a pessoa que solicita admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica tem a sua sede social, sempre que o oferente ou a pessoa em causa tenha a sua sede social na União;
+
+  - b) O Estado-Membro escolhido pelo oferente ou pela pessoa que solicita admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica entre aqueles Estados-Membros em que tem sucursais, sempre que o oferente ou a pessoa em causa não tenha sede social na União mas tenha uma ou mais sucursais na União;
+
+  - c) O Estado-Membro em que será feita a primeira oferta pública de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica ou o Estado-Membro onde é apresentado o primeiro pedido de admissão à negociação desses criptoativos, à escolha do oferente ou da pessoa que solicita admissão à negociação desses criptoativos, sempre que o oferente ou a pessoa que solicita admissão à negociação esteja estabelecido num país terceiro e não tenha sucursais na União;
+
+  - d) O Estado-Membro em que o emitente de criptofichas referenciadas a ativos tem a sua sede social, caso se trate de um emitente de criptofichas referenciadas a ativos;
+
+  - e) O Estado-Membro em que o emitente de criptofichas de moeda eletrónica está autorizado como instituição de crédito ao abrigo da Diretiva 2013/36/UE ou como instituição de moeda eletrónica ao abrigo da Diretiva 2009/110/CE, caso se trate de um emitente de criptofichas de moeda eletrónica;
+
+  - f) O Estado-Membro em que o prestador de serviços de criptoativos tem a sua sede social, caso se trate de um prestador de serviços de criptoativos;
+
+- 34) «Estado-Membro de acolhimento», o Estado-Membro em que um oferente ou a pessoa que solicita admissão à negociação fez uma oferta pública de criptoativos ou procura obter a admissão à negociação, ou em que o prestador de serviços de criptoativos presta serviços de criptoativos, quando diferente do Estado-Membro de origem;
+
+- 35) «Autoridade competente», uma ou mais autoridades:
+
+  - a) Designadas por cada um dos Estados-Membros nos termos do artigo 93.º relativamente aos oferentes, às pessoas que solicitam a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica, aos emitentes de criptofichas referenciadas a ativos ou aos prestadores de serviços de criptoativos;
+
+  - b) Designadas por cada um dos Estados-Membros para a aplicação da Diretiva 2009/110/CE relativamente aos emitentes de criptofichas de moeda eletrónica;
+
+- 36) «Participação qualificada», a detenção de uma participação direta ou indireta num emitente de criptofichas referenciadas a ativos ou num prestador de serviços de criptoativos que represente pelo menos 10 % do capital ou dos direitos de voto, conforme estabelecido nos artigos 9.º e 10.º da Diretiva 2004/109/CE do Parlamento Europeu e do Conselho ([^6]), respetivamente, tendo em conta as condições relativas à sua agregação estabelecidas no artigo 12.º, n.ºs 4 e 5 dessa diretiva, ou que permita exercer uma influência significativa na gestão do emitente de criptofichas referenciadas a ativos ou na gestão do prestador de serviços de criptoativos objeto da participação;
+
+- 37) «Detentor não profissional», qualquer pessoa singular que atue para fins que não se incluam na atividade comercial, industrial, artesanal ou profissional dessa pessoa;
+
+- 38) «Interface em linha», qualquer software, nomeadamente um sítio Web, parte de um sítio Web ou uma aplicação, explorado por um oferente ou prestador de serviços de criptoativos, ou em seu nome, que se destina a facultar aos detentores de criptoativos acesso aos seus criptoativos e a facultar aos clientes acesso aos serviços de criptoativos;
+
+- 39) «Cliente», qualquer pessoa singular ou coletiva a quem um prestador de serviços de criptoativos presta serviços de criptoativos;
+
+- 40) «Transações simultâneas por conta própria», as transações simultâneas por conta própria na aceção do artigo 4.º, n.º 1, ponto 38, da Diretiva 2014/65/UE;
+
+- 41) «Serviços de pagamento», os serviços de pagamento na aceção do artigo 4.º, ponto 3, da Diretiva (UE) 2015/2366;
+
+- 42) «Prestador de serviços de pagamento», um prestador de serviços de pagamento na aceção do artigo 4.º, ponto 11, da Diretiva (UE) 2015/2366;
+
+- 43) «Instituição de moeda eletrónica», uma instituição de moeda eletrónica na aceção do artigo 2.º, ponto 1, da Diretiva 2009/110/CE;
+
+- 44) «Moeda eletrónica», a moeda eletrónica na aceção do artigo 2.º, ponto 2, da Diretiva 2009/110/CE;
+
+- 45) «Dados pessoais», os dados pessoais na aceção do artigo 4.º, ponto 1, do Regulamento (UE) 2016/679;
+
+- 46) «Instituição de pagamento», uma instituição de pagamento na aceção do artigo 4.º, ponto 4, da Diretiva (UE) 2015/2366;
+
+- 47) «Sociedade gestora de OICVM», uma sociedade gestora na aceção do artigo 2.º, n.º 1, alínea b), da Diretiva 2009/65/CE do Parlamento Europeu e do Conselho ([^7]);
+
+- 48) «Gestores de fundos de investimento alternativos», os «GFIA» na aceção do artigo 4.º, n.º 1, alínea b), da Diretiva 2011/61/UE do Parlamento Europeu e do Conselho ([^8]);
+
+- 49) «Instrumento financeiro», um instrumento financeiro na aceção do artigo 4.º, n.º 1, ponto 15, da Diretiva 2014/65/UE;
+
+- 50) «Depósito», um depósito na aceção do artigo 2.º, n.º 1, ponto 3, da Diretiva 2014/49/UE;
+
+- 51) «Depósito estruturado», um depósito estruturado na aceção do artigo 4.º, n.º 1, ponto 43, da Diretiva 2014/65/UE.
+
+2. A Comissão adota atos delegados nos termos do artigo 139.º a fim de completar o presente regulamento com a especificação mais pormenorizada de determinados elementos técnicos das definições estabelecidas no n.º 1 do presente artigo, e de adaptar essas definições à evolução dos mercados e à evolução tecnológica.
+
+## TÍTULO II — CRIPTOATIVOS QUE NÃO SEJAM CRIPTOFICHAS REFERENCIADAS A ATIVOS NEM CRIPTOFICHAS DE MOEDA ELETRÓNICA
+
+### Artigo 4.º — Ofertas públicas de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica
+
+1. Uma pessoa não pode, na União, fazer uma oferta pública de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica a menos que:
+
+- a) Seja uma pessoa coletiva;
+
+- b) Tenha redigido um livrete do criptoativo relativamente a esse criptoativo, em conformidade com o artigo 6.º;
+
+- c) Tenha notificado o livrete do criptoativo, em conformidade com o artigo 8.º;
+
+- d) Tenha publicado o livrete do criptoativo, em conformidade com o artigo 9.º;
+
+- e) Tenha elaborado as eventuais comunicações comerciais a respeito desse criptoativo em conformidade com o artigo 7.º;
+
+- f) Tenha publicado as eventuais comunicações comerciais a respeito desse criptoativo em conformidade com o artigo 9.º;
+
+- g) Cumpra os requisitos aplicáveis aos oferentes, estabelecidos no artigo 14.º.
+
+2. O disposto no n.º 1, alíneas b), c), d) e f), não se aplica a nenhumas das seguintes ofertas públicas de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica:
+
+- a) Uma oferta feita a menos de 150 pessoas singulares ou coletivas por Estado-Membro, quando essas pessoas atuam por conta própria;
+
+- b) Uma oferta pública de um criptoativo na União cujo montante total não seja, ao longo de um período de 12 meses a contar do início da oferta, superior a 1 000 000 EUR ou ao montante equivalente noutra moeda oficial ou em criptoativos;
+
+- c) Uma oferta de um criptoativo que se destine exclusivamente a investidores qualificados e em que o criptoativo só possa ser detido por esses investidores qualificados.
+
+3. O presente título não se aplica às ofertas públicas de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica, sempre que se verifique qualquer uma das seguintes condições:
+
+- a) O criptoativo é oferecido gratuitamente;
+
+- b) O criptoativo é criado automaticamente a título de recompensa pela manutenção do registo distribuído ou pela validação de transações;
+
+- c) A oferta diz respeito a uma criptoficha de consumo que dá acesso a um bem ou serviço existente ou em funcionamento;
+
+- d) O detentor do criptoativo tem o direito de os utilizar apenas em troca de bens e serviços numa rede restrita de comerciantes que tenham disposições contratuais acordadas com o oferente.
+
+Para efeitos do primeiro parágrafo, alínea a), um criptoativo não deve ser considerado como sendo oferecido gratuitamente caso os compradores sejam obrigados a prestar, ou a comprometer-se a prestar, dados pessoais ao oferente em troca desse criptoativo, ou caso o oferente de um criptoativo receba dos potenciais detentores desse criptoativo quaisquer taxas, comissões ou benefícios pecuniários ou não pecuniários em troca desse criptoativo.
+
+Se, para cada período de 12 meses a contar do início da oferta pública inicial, o valor total de uma oferta pública de criptoativos na União feita nas circunstâncias a que se refere o primeiro parágrafo, alínea d), for superior a 1 000 000 EUR, o oferente envia à autoridade competente uma notificação contendo uma descrição da oferta e explicando por que razão a oferta não está abrangida pelo disposto no presente título nos termos do primeiro parágrafo, alínea d).
+
+Com base na notificação a que se refere o terceiro parágrafo, a autoridade competente toma uma decisão devidamente justificada, caso considere que a atividade não pode beneficiar de uma isenção a título de rede restrita ao abrigo do primeiro parágrafo, alínea d), e informa o oferente em conformidade.
+
+4. As isenções enumeradas nos n.ºs 2 e 3 não se aplicam caso o oferente, ou outra pessoa que atue em seu nome, dê a conhecer, em qualquer comunicação, a sua intenção de solicitar a admissão à negociação de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica.
+
+5. A autorização como prestador de serviços de criptoativos nos termos do artigo 59.º não é exigida para a custódia e administração de criptoativos em nome de clientes nem para a prestação de serviços de transferência de criptoativos em relação a criptoativos cujas ofertas públicas estejam isentas nos termos do n.º 3 do presente artigo, a menos que:
+
+- a) Exista outra oferta pública do mesmo criptoativo e essa oferta não beneficie da isenção; ou
+
+- b) O criptoativo oferecido tenha sido admitido numa plataforma de negociação.
+
+6. Caso a oferta pública do criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica diga respeito a uma criptoficha de consumo que dê acesso a bens e serviços que ainda não existam ou que ainda não estejam em funcionamento, a duração da oferta pública, conforme descrita no livrete do criptoativo, não pode exceder 12 meses a contar da data de publicação do referido livrete.
+
+7. Qualquer subsequente oferta pública do criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica é considerada uma oferta pública separada, à qual se aplicam os requisitos estabelecidos no n.º 1, sem prejuízo de uma eventual aplicação do n.º 2 ou 3 à subsequente oferta pública.
+
+Não é exigida a elaboração de um livrete do criptoativo adicional para ofertas públicas subsequentes do criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica desde que o livrete do criptoativo tenha sido publicado em conformidade com os artigos 9.º e 12.º e que a pessoa responsável pela redação desse livrete consinta, por escrito, na sua utilização.
+
+8. Caso a oferta pública de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica esteja isenta da obrigação de publicação de um livrete do criptoativo ao abrigo do n.º 2 ou 3 mas ainda assim tenha sido redigido voluntariamente um livrete, as disposições do presente título são aplicáveis.
+
+### Artigo 5.º — Admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica
+
+1. Uma pessoa não pode solicitar a admissão à negociação de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica a menos que:
+
+- a) Seja uma pessoa coletiva;
+
+- b) Tenha redigido um livrete do criptoativo relativamente a esse criptoativo, em conformidade com o artigo 6.º;
+
+- c) Tenha notificado o livrete do criptoativo, em conformidade com o artigo 8.º;
+
+- d) Tenha publicado o livrete do criptoativo, em conformidade com o artigo 9.º;
+
+- e) Tenha elaborado as eventuais comunicações comerciais a respeito desse criptoativo em conformidade com o artigo 7.º;
+
+- f) Tenha publicado as eventuais comunicações comerciais a respeito desse criptoativo em conformidade com o artigo 9.º;
+
+- g) Cumpra os requisitos aplicáveis às pessoas que solicitam a admissão à negociação estabelecidos no artigo 14.º.
+
+2. Quando um criptoativo é admitido à negociação por iniciativa do operador de uma plataforma de negociação e não tiver sido publicado um livrete do criptoativo em conformidade com o artigo 9.º nos casos exigidos pelo presente regulamento, o operador dessa plataforma de negociação de criptoativos deve cumprir os requisitos estabelecidos no n.º 1 do presente artigo.
+
+3. Em derrogação do disposto no n.º 1, uma pessoa que solicita a admissão à negociação de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica e o respetivo operador da plataforma de negociação podem acordar, por escrito, que a obrigação de cumprir os requisitos referidos no n.º 1, alíneas b) a g) recaia na sua totalidade ou em parte sobre o operador da plataforma de negociação.
+
+O acordo por escrito a que se refere o primeiro parágrafo do presente número deve indicar claramente que a pessoa que solicita a admissão à negociação é obrigada a prestar ao operador da plataforma de negociação todas as informações necessárias para que esse operador possa preencher os requisitos a que se refere o no n.º 1, alíneas b) a g), conforme aplicável.
+
+4. O disposto no n.º 1, alíneas b), c) e d), não se aplica aos casos em que:
+
+- a) O criptoativo já tenha sido admitido à negociação noutra plataforma de negociação de criptoativos na União; e
+
+- b) O livrete do criptoativo tenha sido redigido nos termos do artigo 6.º e atualizado nos termos do artigo 12.º e em que a pessoa responsável pela redação desse livrete consinta, por escrito, na sua utilização.
+
+### Artigo 6.º — Conteúdo e forma do livrete do criptoativo
+
+1. O livrete do criptoativo deve conter todas as seguintes informações, conforme especificado em maior pormenor no anexo I:
+
+- a) Informações sobre o oferente ou sobre a pessoa que solicita a admissão à negociação;
+
+- b) Informações sobre o emitente, se for diferente do oferente ou da pessoa que solicita a admissão à negociação;
+
+- c) Informações sobre o operador da plataforma de negociação, caso redija o livrete do criptoativo;
+
+- d) Informações sobre o projeto de criptoativos;
+
+- e) Informações sobre a oferta pública do criptoativo ou sobre a sua admissão à negociação;
+
+- f) Informações sobre o criptoativo;
+
+- g) Informações sobre os direitos e obrigações associados ao criptoativo;
+
+- h) Informações sobre a tecnologia subjacente;
+
+- i) Informações sobre os riscos;
+
+- j) Informações sobre os principais impactos negativos no clima e outros impactos negativos relacionados com o ambiente do mecanismo de consenso utilizado para emitir o criptoativo.
+
+Nos casos em que o livrete do criptoativo não seja redigido pelas pessoas referidas no primeiro parágrafo, alíneas a), b) e c), o livrete do criptoativo deve também indicar a identidade da pessoa que o redigiu e a razão que levou essa pessoa a fazê-lo.
+
+2. Todas as informações enumeradas no n.º 1 devem ser corretas, claras e não induzir em erro. O livrete do criptoativo não deve conter omissões materiais e deve ser apresentado de forma concisa e compreensível.
+
+3. O livrete do criptoativo deve conter na primeira página a seguinte declaração clara e com destaque:
+
+«Este livrete do criptoativo não foi aprovado por nenhuma autoridade competente em nenhum Estado-Membro da União Europeia. O conteúdo deste livrete do criptoativo é da exclusiva responsabilidade do oferente do criptoativo.».
+
+Sempre que o livrete do criptoativo for redigido pela pessoa que solicita a admissão à negociação ou por um operador de uma plataforma de negociação, em vez de «oferente», deve inserir-se na declaração a que se refere o primeiro parágrafo uma referência à «pessoa que solicita a admissão à negociação» ou ao «operador da plataforma de negociação».
+
+4. O livrete do criptoativo não deve conter quaisquer afirmações a respeito do valor futuro do criptoativo, para além da declaração referida no n.º 5.
+
+5. O livrete do criptoativo deve conter uma declaração clara e inequívoca indicando que:
+
+- a) O criptoativo pode perder parcial ou totalmente o seu valor;
+
+- b) O criptoativo pode não ser sempre transferível;
+
+- c) O criptoativo pode não ser líquido;
+
+- d) Nos casos em que a oferta pública diga respeito a uma criptoficha de consumo, essa criptoficha de consumo pode não ser trocada pelo bem ou serviço prometido no livrete do criptoativo, especialmente em caso de insucesso ou abandono do projeto de criptoativos;
+
+- e) O criptoativo não está abrangido pelos sistemas de indemnização dos investidores previstos na Diretiva 97/9/CE do Parlamento Europeu e do Conselho ([^9]);
+
+- f) O criptoativo não está abrangido pelos sistemas de garantia de depósitos previstos na Diretiva 2014/49/UE.
+
+6. O livrete do criptoativo deve incluir uma declaração do órgão de administração do oferente, da pessoa que solicita a admissão à negociação ou do operador da plataforma de negociação. Essa declaração, a inserir a seguir à declaração a que se refere o n.º 3, deve confirmar que o livrete do criptoativo cumpre o disposto no presente título e que, tanto quanto é do conhecimento do órgão de administração, as informações apresentadas no livrete do criptoativo são corretas, claras e não induzem em erro e que o livrete do criptoativo não contém omissões suscetíveis de afetar o seu alcance.
+
+7. O livrete do criptoativo deve conter um resumo, inserido após a declaração a que se refere o n.º 6, que deve prestar, em linguagem sucinta e não técnica, informações fundamentais sobre a oferta pública do criptoativo ou a admissão à negociação prevista. O resumo deve ser facilmente inteligível e apresentado num formato claro e compreensível, com recurso a caracteres de tamanho legível. O resumo do livrete do criptoativo deve facultar informação apropriada sobre as características do criptoativo em questão, de molde a permitir que os potenciais detentores do criptoativo tomem uma decisão informada.
+
+O resumo deve conter um aviso indicando que:
+
+- a) Deve ser entendido como uma introdução ao livrete do criptoativo;
+
+- b) O potencial detentor deve basear toda e qualquer decisão de compra do criptoativo no conteúdo da totalidade do livrete do criptoativo e não apenas no resumo;
+
+- c) A oferta pública do criptoativo não constitui uma oferta nem uma solicitação para comprar instrumentos financeiros, e que qualquer oferta ou solicitação nesse sentido só pode ser feita através de um prospeto ou de outros documentos relativos à oferta nos termos do direito nacional aplicável;
+
+- d) O livrete do criptoativo não constitui um prospeto na aceção do Regulamento (UE) 2017/1129 do Parlamento Europeu e do Conselho ([^10]) nem outro documento relativo à oferta nos termos do direito da União ou do direito nacional.
+
+8. O livrete do criptoativo deve indicar a data da sua notificação e compreender um índice.
+
+9. O livrete do criptoativo deve ser redigido numa das línguas oficiais do Estado-Membro de origem ou numa língua habitual no sector financeiro internacional.
+
+Caso o criptoativo seja igualmente oferecido noutro Estado-Membro que não o Estado-Membro de origem, o livrete do criptoativo deve ser também redigido numa das línguas oficiais do Estado-Membro de acolhimento ou numa língua habitual no sector financeiro internacional.
+
+10. O livrete do criptoativo deve ser disponibilizado num formato legível por máquina.
+
+11. A ESMA, em cooperação com a EBA, elabora projetos de normas técnicas de execução para criar formulários, formatos e modelos normalizados para efeitos do n.º 10.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo, em conformidade com o artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+12. A ESMA, em cooperação com a EBA, elabora projetos de normas técnicas de regulamentação sobre o conteúdo, as metodologias e a apresentação das informações a que se refere o n.º 1, primeiro parágrafo, alínea j), no que diz respeito aos indicadores de sustentabilidade relacionados com os impactos negativos no clima e outros impactos negativos relacionados com o ambiente.
+
+Ao elaborar os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo, a ESMA tem em conta os vários tipos de mecanismos de consenso utilizados para validar as transações de criptoativos, as suas estruturas de incentivo e a utilização de energia, energias renováveis e recursos naturais, bem como a produção de resíduos e as emissões de gases com efeito de estufa. A ESMA atualiza as normas técnicas de regulamentação à luz da evolução regulamentar e tecnológica.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 7.º — Comunicações comerciais
+
+1. Todas as comunicações comerciais relativas a uma oferta pública de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica ou relativas à admissão à negociação desse criptoativo devem cumprir todos os seguintes requisitos:
+
+- a) As comunicações comerciais são claramente identificáveis como tal;
+
+- b) As informações incluídas nas comunicações comerciais são corretas, claras e não induzem em erro;
+
+- c) As informações contidas nas comunicações comerciais são coerentes com as informações constantes do livrete do criptoativo, caso este seja exigido nos termos dos artigos 4.º ou 5.º;
+
+- d) As comunicações comerciais mencionam claramente que foi publicado um livrete do criptoativo e indicam claramente o endereço do sítio Web do oferente, da pessoa que solicita a admissão à negociação ou do operador da plataforma de negociação do criptoativo em questão, bem como um número de telefone e um endereço de correio eletrónico para contactar a pessoa em causa;
+
+- e) As comunicações comerciais contêm a seguinte declaração clara e de forma destacada:
+
+  «Esta comunicação comercial não foi revista nem aprovada por nenhuma autoridade competente de nenhum Estado-Membro da União Europeia. O conteúdo desta comunicação comercial é da exclusiva responsabilidade do oferente do criptoativo.».
+
+Sempre que a comunicação comercial for elaborada pela pessoa que solicita a admissão à negociação ou por um operador de uma plataforma de negociação, em vez de «oferente», deve inserir-se na declaração a que se refere o primeiro parágrafo, alínea e), uma referência à «pessoa que solicita a admissão à negociação» ou ao «operador da plataforma de negociação».
+
+2. Sempre que seja exigido um livrete do criptoativo nos termos do artigo 4.º ou 5.º, não devem ser divulgadas quaisquer comunicações comerciais antes da respetiva publicação. Tal não afeta a capacidade do oferente, da pessoa que solicita a admissão à negociação ou do operador de uma plataforma de negociação para realizar sondagens de mercado.
+
+3. A autoridade competente do Estado-Membro em que as comunicações comerciais são divulgadas tem poderes para avaliar o cumprimento do disposto no n.º 1 no que diz respeito a essas comunicações comerciais.
+
+Se necessário, a autoridade competente do Estado-Membro de origem ajuda a autoridade competente do Estado-Membro em que as comunicações comerciais são difundidas a avaliar a sua coerência com as informações constantes do livrete do criptoativo.
+
+4. O exercício de qualquer um dos poderes de supervisão e de investigação previstos no artigo 94.º por parte da autoridade competente de um Estado-Membro de acolhimento em relação à execução das disposições do presente artigo é notificado sem demora injustificada à autoridade competente do Estado-Membro de origem do oferente, da pessoa que solicita a admissão à negociação ou do operador da plataforma de negociação dos criptoativos.
+
+### Artigo 8.º — Notificação do livrete do criptoativo e das comunicações comerciais
+
+1. Os oferentes, as pessoas que solicitam a admissão à negociação e os operadores de plataformas de negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica devem notificar o seu livrete do criptoativo à autoridade competente do seu Estado-Membro de origem.
+
+2. As comunicações comerciais são notificadas, a pedido, à autoridade competente do Estado-Membro de origem e à autoridade competente do Estado-Membro de acolhimento quando se dirijam a potenciais detentores de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica nesses Estados-Membros.
+
+3. As autoridades competentes não podem exigir a aprovação prévia de um livrete do criptoativo, nem de quaisquer comunicações comerciais relacionadas com este, antes da respetiva publicação.
+
+4. A notificação relativa ao livrete do criptoativo a que se refere o n.º 1 deve ser acompanhada de uma explicação das razões pelas quais o criptoativo descrito no livrete do criptoativo não deve ser considerado:
+
+- a) Um criptoativo excluído do âmbito de aplicação do presente regulamento nos termos do artigo 2.º, n.º 4;
+
+- b) Uma criptoficha de moeda eletrónica; ou
+
+- c) Uma criptoficha referenciada a ativos.
+
+5. Os elementos referidos nos n.ºs 1 e 4 devem ser notificados à autoridade competente do Estado-Membro de origem pelo menos 20 dias úteis antes da data de publicação do livrete do criptoativo.
+
+6. Os oferentes e as pessoas que solicitam a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica facultam à autoridade competente do respetivo Estado-Membro de origem, juntamente com a notificação a que se refere o n.º 1, uma lista dos Estados-Membros de acolhimento, se os houver, onde pretendem submeter os seus criptoativos a oferta pública ou solicitar a admissão à negociação. Devem também informar a autoridade competente do respetivo Estado-Membro de origem da data de início da oferta pública prevista ou da pretendida admissão à negociação, bem como de quaisquer alterações a essa data.
+
+A autoridade competente do Estado-Membro de origem notifica o ponto único de contacto dos Estados-Membros de acolhimento da oferta pública prevista ou da admissão à negociação prevista e transmite ao ponto único de contacto o livrete do criptoativo correspondente no prazo de cinco dias úteis a contar da receção da lista dos Estados-Membros de acolhimento referida no primeiro parágrafo.
+
+7. A autoridade competente do Estado-Membro de origem comunica à ESMA as informações a que se referem os n.ºs 1, 2 e 4, bem como a data de início da oferta pública prevista ou da admissão à negociação prevista, bem como quaisquer alterações dessa data. A autoridade em causa comunica as referidas informações no prazo de cinco dias úteis a contar da data em que as recebeu do oferente ou da pessoa que solicita a admissão à negociação.
+
+A ESMA torna o livrete do criptoativo disponível no registo, nos termos do artigo 109.º, n.º 2, até à data de início da oferta pública ou da admissão à negociação.
+
+### Artigo 9.º — Publicação do livrete do criptoativo e das comunicações comerciais
+
+1. Os oferentes e as pessoas que solicitam a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica publicam os seus livretes do criptoativo e, se for caso disso, as suas comunicações comerciais no seu sítio Web – o qual deve estar acessível ao público –, com uma antecedência razoável relativamente à oferta pública ou à admissão à negociação desses criptoativos e, em qualquer caso, antes da respetiva data de início. Os livretes do criptoativo e, se for caso disso, as comunicações comerciais permanecem disponíveis no sítio Web dos oferentes ou das pessoas que solicitam a admissão à negociação enquanto os criptoativos forem detidos pelo público.
+
+2. Os livretes do criptoativo publicados e, se for caso disso, as comunicações comerciais devem ser idênticos à versão que foi notificada à autoridade competente relevante nos termos do artigo 8.º ou, quando aplicável, à versão modificada em conformidade com o artigo 12.º.
+
+### Artigo 10.º — Resultado da oferta pública e mecanismos de salvaguarda
+
+1. Os oferentes de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica que tenham estabelecido um limite temporal para a sua oferta pública desses criptoativos publicam no respetivo sítio Web o resultado da oferta pública no prazo de 20 dias úteis a contar do fim do período de subscrição.
+
+2. Os oferentes de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica que não estabelecem um limite temporal para a sua oferta pública desses criptoativos publicam regularmente, e pelo menos mensalmente, no respetivo sítio Web o número de unidades dos criptoativos em circulação.
+
+3. Os oferentes de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica que estabelecem um limite temporal para a sua oferta pública de criptoativos devem dispor de mecanismos eficazes para acompanhar e proteger os fundos ou outros criptoativos mobilizados durante a oferta pública. Para o efeito, esses oferentes asseguram que os fundos ou os criptoativos mobilizados durante a oferta pública são mantidos em custódia por uma das seguintes entidades:
+
+- a) Uma instituição de crédito, quando os fundos são mobilizados durante a oferta pública;
+
+- b) Um prestador de serviços de criptoativos que presta serviços de custódia e administração de criptoativos em nome de clientes.
+
+4. Se não tiver sido estabelecido um limite temporal para a oferta pública, o oferente cumpre o disposto no n.º 3 do presente artigo até expirar o direito de retratação do detentor não profissional por força do artigo 13.º.
+
+### Artigo 11.º — Direitos dos oferentes e das pessoas que solicitam a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica
+
+1. Após a publicação do livrete do criptoativo nos termos do artigo 9.º e, se aplicável, do livrete do criptoativo modificado em conformidade com o artigo 12.º, os oferentes podem oferecer em toda a União criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica, e esses criptoativos podem ser admitidos à negociação numa plataforma de negociação de criptoativos da União.
+
+2. Os oferentes e as pessoas que solicitam a admissão à negociação de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica que tenham publicado um livrete do criptoativo nos termos do artigo 9.º e, se aplicável, um livrete do criptoativo modificado em conformidade com o artigo 12.º não estão sujeitos a quaisquer requisitos de informação adicionais em relação à oferta pública ou à admissão à negociação desse criptoativo.
+
+### Artigo 12.º — Modificação do livrete do criptoativo publicado e das comunicações comerciais publicadas
+
+1. Os oferentes, as pessoas que solicitam a admissão à negociação ou os operadores de uma plataforma de negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica devem alterar os seus livretes do criptoativo publicados e, se for caso disso, as suas comunicações comerciais publicadas sempre que se verifique um novo facto significativo, um erro material ou uma inexatidão material suscetíveis de afetar a avaliação dos criptoativos. Esse requisito aplica-se durante o período de vigência da oferta pública ou enquanto o criptoativo for admitido à negociação.
+
+2. Os oferentes, as pessoas que solicitam a admissão à negociação ou os operadores de uma plataforma de negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica notificam a autoridade competente do seu Estado-Membro de origem dos seus livretes do criptoativo modificados e, se for o caso, das suas comunicações comerciais modificadas e da data de publicação prevista, mencionando, nomeadamente, os motivos subjacentes a essa alteração, pelo menos sete dias úteis antes da respetiva publicação.
+
+3. Na data de publicação, ou antes dessa data caso a autoridade competente assim o exija, o oferente, a pessoa que solicita a admissão à negociação ou o operador da plataforma de negociação informa imediatamente o público, no seu sítio Web, de que a autoridade competente do seu Estado-Membro de origem foi notificada da alteração do livrete do criptoativo e apresenta um resumo das razões que conduziram à notificação do livrete do criptoativo modificado.
+
+4. A ordem das informações num livrete do criptoativo modificado e, quando aplicável, nas comunicações comerciais modificadas, deve ser consentânea com a do livrete do criptoativos ou a das comunicações comerciais publicadas em conformidade com o artigo 9.º.
+
+5. No prazo de cinco dias úteis a contar da receção do livrete do criptoativo modificado e, se aplicável, das comunicações comerciais modificadas, a autoridade competente do Estado-Membro de origem notifica a autoridade competente dos Estados-Membros de acolhimento a que se refere o artigo 8.º, n.º 6, do livrete do criptoativo modificado e, se aplicável, das comunicações comerciais modificadas, e comunica a notificação e a data de publicação à ESMA.
+
+A ESMA torna o livrete do criptoativo modificado no registo disponível, nos termos do artigo 109.º, n.º 2, após a respetiva publicação.
+
+6. Os oferentes, as pessoas que solicitam a admissão à negociação ou os operadores de plataformas de negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica publicam no seu sítio Web, nos termos do artigo 9.º, o livrete do criptoativo modificado e, quando aplicável, as comunicações comerciais modificadas, mencionando nomeadamente os motivos subjacentes a essa alteração.
+
+7. O livrete do criptoativo modificado e, quando aplicável, as comunicações comerciais modificadas, devem conter uma marca temporal. A versão mais recente do livrete do criptoativo modificado e, quando aplicável, das comunicações comerciais modificadas, devem ser assinaladas como sendo as versões aplicáveis. Todos os livretes do criptoativo modificados e, quando aplicável, as comunicações comerciais modificadas devem permanecer disponíveis enquanto os criptoativos forem detidos pelo público.
+
+8. Sempre que a oferta pública diga respeito a uma criptoficha de consumo que faculte o acesso a bens e serviços que ainda não existem ou ainda não estão em funcionamento, as alterações introduzidas no livrete do criptoativo modificado e, se for caso disso, nas comunicações comerciais modificadas não podem prorrogar o prazo de 12 meses referido no artigo 4.º, n.º 6.
+
+9. As versões mais antigas do livrete do criptoativo e das comunicações comerciais devem permanecer à disposição do público no sítio Web dos oferentes, das pessoas que solicitam a admissão à negociação ou dos operadores de plataformas de negociação, durante pelo menos dez anos a contar da data de publicação dessas versões mais antigas, incluindo um aviso em lugar de destaque indicando que deixaram de ser válidas e uma hiperligação para a secção específica do sítio Web em que a versão mais recente desses documentos se encontra publicada.
+
+### Artigo 13.º — Direito de retratação
+
+1. Os detentores não profissionais que comprem criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica diretamente a um oferente ou a um prestador de serviços de criptoativos que proceda à colocação de criptoativos em nome desse oferente têm direito de retratação.
+
+Os detentores não profissionais dispõem de um prazo de 14 dias de calendário dentro do qual podem exercer o direito de retratação do respetivo acordo de compra de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica sem incorrerem em quaisquer comissões ou custos e sem serem obrigados a indicar os motivos. O período de retratação tem início na data em que o detentor não profissional deu o seu acordo para a compra desses criptoativos.
+
+2. Todos os pagamentos recebidos de um detentor não profissional, incluindo, se aplicável, quaisquer encargos, devem ser reembolsados sem atrasos indevidos e, em qualquer caso, o mais tardar 14 dias a contar da data em que o oferente ou o prestador de serviços de criptoativos que proceda à colocação desses criptoativos em nome desse oferente seja informado da decisão do detentor não profissional de retratação do acordo para a compra desses criptoativos.
+
+Esse reembolso deve ser efetuado com recurso ao mesmo meio de pagamento utilizado pelo detentor não profissional na transação inicial, salvo acordo expresso em contrário do detentor não profissional e na condição de este não incorrer em quaisquer comissões ou custos em consequência do reembolso em questão.
+
+3. Os oferentes de criptoativos devem prestar informações sobre o direito de retratação referido no n.º 1 no respetivo livrete do criptoativo.
+
+4. O direito de retratação a que se refere o n.º 1 não se aplica se os criptoativos tiverem sido admitidos à negociação antes da sua aquisição pelo detentor não profissional.
+
+5. Caso os oferentes tenham fixado um prazo para a sua oferta pública desses criptoativos nos termos do artigo 10.º, o direito de retratação não pode ser exercido após o termo do período de subscrição.
+
+### Artigo 14.º — Obrigações dos oferentes e das pessoas que solicitam a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica
+
+1. Os oferentes e as pessoas que solicitam a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica devem:
+
+- a) Atuar com honestidade, lealdade e profissionalismo;
+
+- b) Comunicar com os detentores e potenciais detentores de criptoativos de forma leal, clara e que não induza em erro;
+
+- c) Identificar, prevenir, gerir e divulgar quaisquer conflitos de interesse que possam surgir;
+
+- d) Manter todos os seus sistemas e protocolos de acesso de segurança em conformidade com as normas aplicáveis da União.
+
+Para efeitos da alínea d) do primeiro parágrafo, a ESMA, em cooperação com a EBA, emite até 30 de dezembro de 2024 orientações nos termos do artigo 16.º do Regulamento (UE) n.º 1095/2010 para especificar essas normas da União.
+
+2. Os oferentes e as pessoas que solicitam a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica devem atuar no melhor interesse dos detentores desses criptoativos e devem tratar os mesmos de forma equitativa, exceto se, no livrete do criptoativo e, quando aplicável, nas comunicações comerciais, for mencionado qualquer tratamento preferencial de detentores específicos, bem como os motivos para esse tratamento preferencial.
+
+3. Caso uma oferta pública de um criptoativo que não seja uma criptoficha referenciada a ativos nem uma criptoficha de moeda eletrónica seja cancelada, os oferentes do criptoativo em causa asseguram que todos os fundos já mobilizados junto de detentores ou potenciais detentores são devidamente devolvidos aos mesmos, o mais tardar 25 dias de calendário após a data de cancelamento.
+
+### Artigo 15.º — Responsabilidade pelas informações prestadas no livrete do criptoativo
+
+1. Caso um oferente, uma pessoa que solicita a admissão à negociação ou um operador de uma plataforma de negociação tenha infringido o artigo 6.º ao prestar, no seu livrete do criptoativo ou num livrete do criptoativo modificado, informação que não seja completa, correta ou clara ou que induza em erro, esse oferente, essa pessoa que solicita a admissão à negociação ou esse operador de uma plataforma de negociação, e os membros do seu órgão de administração, direção ou supervisão, são responsáveis perante um detentor do criptoativo pelos danos causados por essa infração.
+
+2. Toda e qualquer exclusão ou limitação contratual da responsabilidade civil a que se refere o n.º 1 não produz efeitos jurídicos.
+
+3. Sempre que o livrete do criptoativo e as comunicações comerciais forem elaborados pelo operador da plataforma de negociação em conformidade com o artigo 5.º, n.º 3, a pessoa que solicita a admissão à negociação é igualmente responsável, nos casos em que preste ao operador da plataforma de negociação informação que não é completa, correta ou clara ou que induz em erro.
+
+4. Cabe aos detentores do criptoativo apresentar provas que indiquem que o oferente, a pessoa que solicita a admissão à negociação ou o operador da plataforma de negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica infringiu o artigo 6.º através da prestação de informação que não é completa, correta ou clara ou que induz em erro e que o recurso a essa informação teve um impacto na decisão de compra, venda ou troca do criptoativo em causa tomada pelo detentor.
+
+5. O oferente, a pessoa que solicita a admissão à negociação ou o operador da plataforma de negociação e os membros do seu órgão de administração, direção ou supervisão não são responsáveis perante o detentor de um criptoativo pelas perdas em que tenham incorrido em resultado da confiança depositada nas informações prestadas no resumo a que se refere o artigo 6.º, n.º 7, nomeadamente quaisquer traduções das mesmas, salvo se o resumo:
+
+- a) Lido em conjunto com as outras partes do livrete do criptoativo, induzir em erro, for inexato ou incoerente; ou
+
+- b) Lido em conjunto com as outras partes do livrete do criptoativo, não prestar informação fundamental para ajudar os potenciais detentores do criptoativo quando ponderam comprar o criptoativo em causa.
+
+6. O presente artigo não prejudica qualquer outra forma de responsabilidade civil prevista no direito nacional.
+
+## TÍTULO III — CRIPTOFICHAS REFERENCIADAS A ATIVOS
+
+## CAPÍTULO 1 — Autorização para oferecer ao público criptofichas referenciadas a ativos e para solicitar a sua admissão à negociação
+
+### Artigo 16.º — Autorização
+
+1. Uma pessoa não pode, na União, fazer uma oferta pública ou solicitar a admissão à negociação de uma criptoficha referenciada a ativos, a menos que essa pessoa seja o emitente dessa criptoficha referenciada a ativos e seja:
+
+- a) Uma pessoa coletiva ou uma empresa estabelecida na União que tenha sido autorizada nos termos do artigo 21.º pela autoridade competente do seu Estado-Membro de origem; ou
+
+- b) Uma instituição de crédito que cumpre o disposto no artigo 17.º.
+
+Não obstante o disposto no primeiro parágrafo, mediante consentimento escrito do emitente da criptoficha referenciada a ativos, outras pessoas podem fazer uma oferta pública ou solicitar a admissão à negociação dessa criptoficha referenciada a ativos. Essas pessoas devem cumprir o disposto nos artigos 27.º, 29.º e 40.º.
+
+Para efeitos do primeiro parágrafo, alínea a), outras empresas apenas podem emitir criptofichas referenciadas a ativos se a sua forma jurídica garantir um nível de proteção dos interesses de terceiros equivalente ao proporcionado pelas pessoas coletivas e desde que estejam sujeitas a uma supervisão prudencial equivalente, adequada à sua forma jurídica.
+
+2. O n.º 1 não se aplica caso:
+
+- a) Ao longo de um período de 12 meses o valor médio pendente da criptoficha referenciada a ativos, calculado no final de cada dia de calendário, nunca exceda 5 000 000 EUR ou o montante equivalente noutra moeda oficial e o emitente não esteja associado a uma rede de outros emitentes isentos; ou
+
+- b) A oferta pública da criptoficha referenciada a ativos seja exclusivamente dirigida a investidores qualificados e a criptoficha referenciada a ativos só possa ser detida por esses investidores qualificados.
+
+Sempre que o presente número for aplicável, os emitentes de criptofichas referenciadas a ativos devem redigir um livrete do criptoativo conforme previsto no artigo 19.º e notificar à autoridade competente do seu Estado-Membro de origem esse livrete do criptoativo e, mediante pedido, eventuais comunicações comerciais.
+
+3. A autorização, concedida pela autoridade competente a uma pessoa referida no n.º 1, primeiro parágrafo, alínea a), é válida para toda a União e permite que um emitente de uma criptoficha referenciada a ativos proceda, em toda a União, a uma oferta pública da criptoficha referenciada a ativos para a qual foi autorizado, ou solicite a admissão à negociação dessa criptoficha referenciada a ativos.
+
+4. A aprovação concedida pela autoridade competente do livrete do criptoativo de um emitente nos termos do artigo 17.º, n.º 1 ou do artigo 21.º, n.º 1 ou do livrete do criptoativo modificado nos termos do artigo 25.º é válida para toda a União.
+
+### Artigo 17.º — Requisitos para as instituições de crédito
+
+1. Uma criptoficha referenciada a ativos emitida por uma instituição de crédito pode ser objeto de uma oferta pública ou admitida à negociação se a instituição de crédito:
+
+- a) Redigir um livrete do criptoativo conforme referido no artigo 19.º para a criptoficha referenciada a ativos, apresentar esse livrete do criptoativo, para aprovação, à autoridade competente do seu Estado-Membro de origem, em conformidade com o procedimento estabelecido nas normas técnicas de regulamentação adotadas nos termos do n.º 8 do presente artigo, e obtiver aprovação pela autoridade competente relativamente ao livrete do criptoativo;
+
+- b) Notificar a respetiva autoridade competente, pelo menos 90 dias úteis antes de emitir pela primeira vez a criptoficha referenciada a ativos, facultando-lhe as seguintes informações:
+
+  - i) um programa de atividades que indique o modelo de negócios que a instituição de crédito tenciona seguir,
+
+  - ii) um parecer jurídico em que se conclua que a criptoficha referenciada a ativos não pode ser considerada:
+
+    - — um criptoativo excluído do âmbito de aplicação do presente regulamento nos termos do artigo 2.º, n.º 4, ou
+
+    - — uma criptoficha de moeda eletrónica,
+
+  - iii) uma descrição pormenorizada dos mecanismos de governação a que se refere o artigo 34.º, n.º 1,
+
+  - iv) as políticas e os procedimentos enumerados no artigo 34.º, n.º 5, primeiro parágrafo,
+
+  - v) uma descrição das disposições contratuais acordadas com entidades terceiras a que se refere o artigo 34.º, n.º 5, segundo parágrafo,
+
+  - vi) uma descrição da política de continuidade das atividades a que se refere o artigo 34.º, n.º 9,
+
+  - vii) uma descrição dos mecanismos de controlo interno e dos procedimentos de gestão de riscos a que se refere o artigo 34.º, n.º 10,
+
+  - viii) uma descrição dos sistemas e procedimentos existentes para garantir a disponibilidade, autenticidade, integridade e confidencialidade dos dados a que se refere o artigo 34.º, n.º 11.
+
+2. Uma instituição de crédito que tenha anteriormente notificado a autoridade competente nos termos do n.º 1, alínea b), aquando da emissão de outra criptoficha referenciada a ativos, não é obrigada a apresentar nenhumas informações que tenham anteriormente sido apresentadas à autoridade competente nos casos em que essas informações se afigurassem idênticas. Ao apresentar as informações enumeradas no n.º 1, alínea b), a instituição de crédito confirma expressamente que todas as informações que não tenham sido apresentadas de novo continuam atualizadas.
+
+3. A autoridade competente que receba uma notificação a que se refere o n.º 1, alínea b), deve, no prazo de 20 dias úteis a contar da data de receção das informações aí enumeradas, avaliar se foram comunicadas todas as informações exigidas ao abrigo dessa alínea. Se a autoridade competente concluir que uma notificação não está completa porque falta informação, deve informar imediatamente a instituição de crédito notificante desse facto e fixar um prazo para que a instituição de crédito seja obrigada a prestar a informação em falta.
+
+O prazo para a comunicação da informação em falta não pode exceder 20 dias úteis a contar da data do pedido. Até ao termo desse prazo, o prazo fixado no n.º 1, alínea b), é suspenso. Quaisquer outros pedidos apresentados pela autoridade competente para completar ou clarificar a informação ficam ao critério dessa autoridade, mas não podem dar lugar à suspensão do prazo estabelecido no n.º 1, alínea b).
+
+A instituição de crédito não pode proceder a uma oferta pública nem solicitar a admissão à negociação da criptoficha referenciada a ativos enquanto a notificação estiver incompleta.
+
+4. Uma instituição de crédito que emita criptofichas referenciadas a ativos, incluindo criptofichas referenciadas a ativos significativas, não está sujeita aos artigos 16.º, 18.º, 20.º, 21.º, 24.º, 35.º, 41.º e 42.º.
+
+5. A autoridade competente transmite sem demora a informação completa recebida ao abrigo do n.º 1 ao BCE e, se a instituição de crédito estiver estabelecida num Estado-Membro cuja moeda oficial não seja o euro, ou se uma moeda oficial de um Estado-Membro que não seja o euro for referenciada pela criptoficha referenciada a ativos, também ao banco central nacional do Estado-Membro em causa.
+
+O BCE e, se for o caso, o banco central do Estado-Membro a que se refere o primeiro parágrafo devem, no prazo de 20 dias úteis a contar da receção da informação completa, emitir um parecer sobre essa informação e transmiti-lo à autoridade competente.
+
+A autoridade competente exigirá à instituição de crédito que não proceda a uma oferta pública nem solicite a admissão à negociação da criptoficha referenciada a ativos nos casos em que o BCE ou, se for o caso, o banco central do Estado-Membro a que se refere o primeiro parágrafo, emita um parecer desfavorável por motivos que se prendam com riscos para o bom funcionamento dos sistemas de pagamento, a transmissão da política monetária ou a soberania monetária.
+
+6. A autoridade competente comunica à ESMA as informações especificadas no artigo 109.º, n.º 3, depois de verificar se as informações recebidas nos termos do n.º 1 do presente artigo estão completas.
+
+A ESMA torna essas informações disponíveis no registo, nos termos do artigo 109.º, n.º 3, até à data do início da oferta pública ou da admissão à negociação.
+
+7. A autoridade competente pertinente comunica à ESMA a revogação da autorização de uma instituição de crédito que emita criptofichas referenciadas a ativos, no prazo de dois dias úteis após essa revogação. A ESMA disponibiliza as informações sobre essa revogação no registo, nos termos do artigo 109.º, n.º 3, sem demora injustificada.
+
+8. A EBA, em estreita cooperação com a ESMA e o BCE, elabora projetos de normas técnicas de regulamentação a fim de especificar melhor o procedimento de aprovação de um livrete do criptoativo a que se refere o n.º 1, alínea a).
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 18.º — Pedido de autorização
+
+1. As pessoas coletivas ou outras empresas que pretendem fazer uma oferta pública ou solicitar a admissão à negociação de criptofichas referenciadas a ativos devem apresentar o seu pedido de autorização, referido no artigo 16.º, à autoridade competente do seu Estado-Membro de origem.
+
+2. O pedido a que se refere o n.º 1 deve incluir todas as seguintes informações:
+
+- a) O endereço do emitente requerente;
+
+- b) O identificador de entidade jurídica do emitente requerente;
+
+- c) Os estatutos do emitente requerente, quando aplicável;
+
+- d) Um programa de atividades que indique o modelo de negócios que o emitente requerente tenciona seguir;
+
+- e) Um parecer jurídico em que se conclua que a criptoficha referenciada a ativos não pode ser considerada:
+
+  - i) um criptoativo excluído do âmbito de aplicação do presente regulamento nos termos do artigo 2.º, n.º 4, ou
+
+  - ii) uma criptoficha de moeda eletrónica;
+
+- f) Uma descrição pormenorizada dos mecanismos de governação do emitente requerente a que se refere o artigo 34.º, n.º 1;
+
+- g) Caso existam acordos de cooperação com prestadores de serviços de criptoativos específicos, uma descrição dos respetivos mecanismos e procedimentos de controlo interno destinados a assegurar o cumprimento das obrigações em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo previstas na Diretiva (UE) 2015/849;
+
+- h) A identidade dos membros do órgão de administração do emitente requerente;
+
+- i) Um comprovativo de que as pessoas a que se refere a alínea h) têm idoneidade suficiente e possuem os conhecimentos, competências e experiência adequados para assumir a direção do emitente requerente;
+
+- j) Um comprovativo de que qualquer acionista ou sócio, quer direto ou indireto, que detenha participações qualificadas no emitente requerente tem idoneidade suficiente;
+
+- k) Um livrete do criptoativo, tal como referido no artigo 19.º;
+
+- l) As políticas e os procedimentos referidos no artigo 34.º, n.º 5, primeiro parágrafo;
+
+- m) Uma descrição das disposições contratuais acordadas com entidades terceiras a que se refere o artigo 34.º, n.º 5, segundo parágrafo;
+
+- n) Uma descrição da política de continuidade das atividades do emitente requerente a que se refere o artigo 34.º, n.º 9;
+
+- o) Uma descrição dos mecanismos de controlo interno e dos procedimentos de gestão de riscos a que se refere o artigo 34.º, n.º 10;
+
+- p) Uma descrição dos sistemas e procedimentos existentes para garantir a disponibilidade, autenticidade, integridade e confidencialidade dos dados a que se refere o artigo 34.º, n.º 11;
+
+- q) Uma descrição dos procedimentos de tratamento das reclamações do emitente requerente a que se refere o artigo 31.º;
+
+- r) Se for caso disso, uma lista dos Estados-Membros de acolhimento em que o emitente requerente pretende proceder a uma oferta pública ou solicitar a admissão à negociação da criptoficha referenciada a ativos.
+
+3. Os emitentes que já tenham sido anteriormente autorizados relativamente a uma criptoficha referenciada a ativos não são obrigados a apresentar, para efeitos da autorização relativamente a outra criptoficha referenciada a ativos, nenhumas informações que tenham anteriormente apresentado à autoridade competente nos casos em que essas informações se afigurassem idênticas. Ao apresentar as informações enumeradas no n.º 2, o emitente confirma expressamente que todas as informações que não tenham sido apresentadas de novo continuam atualizadas.
+
+4. A autoridade competente deve com a maior brevidade, e em qualquer caso no prazo de dois dias úteis a contar da data de receção de um pedido nos termos do n.º 1, acusar, por escrito, a receção do pedido junto do emitente requerente.
+
+5. Para efeitos do n.º 2, alíneas i) e j), o emitente requerente da criptoficha referenciada a ativos deve apresentar prova que demonstre todos os seguintes elementos:
+
+- a) Para todos os membros do órgão de administração, um registo criminal do qual não constem condenações, ou a ausência de sanções impostas, por força do direito comercial aplicável, do direito da insolvência e da legislação relativa aos serviços financeiros, ou no contexto da luta contra o branqueamento de capitais e o financiamento do terrorismo, da fraude ou da responsabilidade profissional;
+
+- b) Os membros do órgão de administração do emitente requerente da criptoficha referenciada a ativos possuem, no seu conjunto, os conhecimentos, competências e experiência adequados para assumir a direção do emitente da criptoficha referenciada a ativos e de que se exige a essas pessoas que consagrem tempo suficiente ao desempenho das suas funções.
+
+- c) Para todos os acionistas ou sócios, quer diretos ou indiretos, que detenham participações qualificadas no emitente requerente, um registo criminal do qual não constem condenações, e a ausência de sanções impostas, por força do direito comercial aplicável, do direito da insolvência e da legislação relativa aos serviços financeiros, ou no contexto da luta contra o branqueamento de capitais e o financiamento do terrorismo, da fraude ou da responsabilidade profissional.
+
+6. A EBA, em estreita cooperação com a ESMA e o BCE, elabora projetos de normas técnicas de regulamentação que especifiquem melhor as informações a que se refere o n.º 2.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+7. A EBA, em estreita cooperação com a ESMA, elabora projetos de normas técnicas de execução para criar formulários, modelos e procedimentos normalizados para a informação a incluir no pedido, de molde a assegurar a uniformidade em toda a União.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo, nos termos do artigo 15.º do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 19.º — Conteúdo e forma do livrete do criptoativo para criptofichas referenciadas a ativos
+
+1. O livrete do criptoativo relativo a uma criptoficha referenciada a ativos deve conter todas as seguintes informações, conforme especificado com maior pormenor no anexo II:
+
+- a) Informação sobre o emitente da criptoficha referenciada a ativos;
+
+- b) Informação sobre a criptoficha referenciada a ativos;
+
+- c) Informação sobre a oferta pública da criptoficha referenciada a ativos ou sobre a sua admissão à negociação;
+
+- d) Informação sobre os direitos e obrigações associados à criptoficha referenciada a ativos;
+
+- e) Informação sobre a tecnologia subjacente;
+
+- f) Informação sobre os riscos;
+
+- g) Informação sobre a reserva de ativos;
+
+- h) Informação sobre os principais impactos negativos no clima e outros impactos negativos relacionados com o ambiente do mecanismo de consenso utilizado para emitir a criptoficha referenciada a ativos.
+
+O livrete do criptoativo deve também incluir a identidade da pessoa que não seja o emitente que faz a oferta pública ou solicita a admissão à negociação nos termos do artigo 16.º, n.º 1, segundo parágrafo, bem como a razão pela qual essa pessoa em particular oferece essa criptoficha referenciada a ativos ou solicita a sua admissão à negociação. Nos casos em que o livrete do criptoativo não seja redigido pelo emitente, o livrete do criptoativo deve também incluir a identidade da pessoa que o redigiu e a razão pela qual essa pessoa em especial o redigiu.
+
+2. As informações enumeradas no n.º 1 devem ser corretas, claras e não induzir em erro. O livrete do criptoativo não deve conter omissões materiais e deve ser apresentado de forma concisa e compreensível.
+
+3. O livrete do criptoativo não deve conter quaisquer afirmações relativamente ao valor futuro do criptoativo, para além da declaração referida no n.º 4.
+
+4. O livrete do criptoativo deve conter uma declaração clara e inequívoca no sentido de que:
+
+- a) A criptoficha referenciada a ativos pode perder parcial ou totalmente o seu valor;
+
+- b) A criptoficha referenciada a ativo pode não ser sempre transferível;
+
+- c) A criptoficha referenciada a ativos pode não ser líquida;
+
+▼C3
+
+- d) A criptoficha referenciada a ativos não está abrangida pelos sistemas de indemnização dos investidores ao abrigo da Diretiva 97/9/CE;
+
+▼B
+
+- e) A criptoficha referenciada a ativos não está abrangida pelos sistemas de garantia de depósitos ao abrigo da Diretiva 2014/49/UE.
+
+5. O livrete do criptoativo deve incluir uma declaração do órgão de administração do emitente da criptoficha referenciada a ativos. Essa declaração deve confirmar que o livrete do criptoativo está em conformidade com o presente título e que, tanto quanto é do conhecimento do órgão de administração, a informação apresentada no livrete do criptoativo é correta, clara e não induz em erro e que o livrete do criptoativo não contém omissões suscetíveis de afetar o seu alcance.
+
+6. O livrete do criptoativo deve incluir um resumo, inserido após a declaração a que se refere o n.º 5, que, de forma sucinta e em linguagem não técnica, forneça informação fundamental sobre a oferta pública da criptoficha referenciada a ativos ou a admissão à negociação prevista da criptoficha referenciada a ativos. O resumo deve ser facilmente inteligível e apresentado num formato claro e compreensível, com recurso a caracteres de tamanho legível. O resumo do livrete do criptoativo deve facultar, conjuntamente com o livrete do criptoativo, informação apropriada sobre as características da criptoficha referenciada a ativos em questão, de molde a permitir que os potenciais detentores dessa criptoficha referenciada a ativos possam tomar uma decisão informada.
+
+O resumo deve também conter um aviso indicando que:
+
+- a) Deve ser entendido como uma introdução ao livrete do criptoativo;
+
+- b) O potencial detentor deve basear toda e qualquer decisão de compra da criptoficha referenciada a ativos no conteúdo do livrete do criptoativo no seu conjunto e não apenas no resumo;
+
+- c) A oferta pública da criptoficha referenciada a ativos não constitui uma oferta nem uma solicitação para comprar instrumentos financeiros e que qualquer oferta ou solicitação nesse sentido só pode ser feita através de um prospeto ou de outros documentos relativos à oferta nos termos do direito nacional aplicável;
+
+- d) O livrete do criptoativo não constitui um prospeto na aceção do Regulamento (UE) 2017/1129, nem outro documento relativo à oferta nos termos do direito da União ou do direito nacional.
+
+O resumo deve indicar que os detentores de criptofichas referenciadas a ativos têm, em qualquer momento, um direito de reembolso, bem como as condições desse reembolso.
+
+7. O livrete do criptoativo deve incluir a data da sua notificação e um índice.
+
+8. O livrete do criptoativo é redigido numa língua oficial do Estado-Membro de origem ou numa língua habitual no sector financeiro internacional.
+
+Caso a criptoficha referenciada a ativos também seja oferecida num Estado-Membro diferente do Estado-Membro de origem, o livrete do criptoativo é igualmente redigido numa língua oficial do Estado-Membro de acolhimento ou numa língua habitual no sector financeiro internacional.
+
+9. O livrete do criptoativo é disponibilizado num formato legível por máquina.
+
+10. A ESMA, em cooperação com a EBA, elabora projetos de normas técnicas de execução para criar formulários, formatos e modelos normalizados para efeitos do n.º 9.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo, em conformidade com o artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+11. A ESMA, em cooperação com a EBA, elabora projetos de normas técnicas de regulamentação sobre o conteúdo, as metodologias e a apresentação das informações a que se refere o n.º 1, primeiro parágrafo, alínea h), no que diz respeito aos indicadores de sustentabilidade relacionados com os impactos negativos no clima e outros impactos negativos relacionados com o ambiente.
+
+Ao elaborar os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo, a ESMA tem em conta os vários tipos de mecanismos de consenso utilizados para validar as transações de criptoativos, as suas estruturas de incentivo e a utilização de energia, energias renováveis e recursos naturais, bem como a produção de resíduos e as emissões de gases com efeito de estufa. A ESMA atualiza as normas técnicas de regulamentação à luz da evolução regulamentar e tecnológica.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 20.º — Apreciação do pedido de autorização
+
+1. As autoridades competentes que recebam um pedido de autorização a que se refere o artigo 18.º devem, no prazo de 25 dias úteis a contar da receção do pedido, avaliar se esse pedido, nomeadamente o livrete do criptoativo a que se refere o artigo 19.º, compreende todas as informações exigidas. Devem notificar imediatamente o emitente requerente sobre se o pedido, nomeadamente o livrete do criptoativo, contém todas as informações exigidas. Se o pedido, incluindo o livrete do criptoativo, não estiver completo, as autoridades competentes devem fixar um prazo para que o emitente requerente forneça as informações em falta.
+
+2. As autoridades competentes devem avaliar, no prazo de 60 dias úteis a contar da receção de um pedido completo, se o emitente requerente cumpre os requisitos enunciados no presente título e adotar um projeto de decisão devidamente fundamentado no sentido de conceder ou recusar a autorização. Nesse prazo de 60 dias úteis, as autoridades competentes podem solicitar ao emitente requerente quaisquer informações relativas ao pedido, nomeadamente no que respeita ao livrete do criptoativo a que se refere o artigo 19.º.
+
+Ao longo do processo de avaliação, as autoridades competentes podem cooperar com as autoridades competentes em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo, as Unidades de Informação Financeira ou outros organismos públicos.
+
+3. O prazo de avaliação previsto nos n.ºs 1 e 2 fica suspenso durante o período compreendido entre a data do pedido de informação em falta pelas autoridades competentes e a receção por estas de uma resposta à mesma por parte do emitente requerente. A suspensão não pode exceder 20 dias úteis. É deixado ao critério das autoridades competentes formular mais pedidos com vista a completar ou clarificar as informações, mas esses pedidos não dão lugar à suspensão do prazo de avaliação nos termos dos n.ºs 1 e 2.
+
+4. Após os 60 dias úteis referidos no n.º 2, as autoridades competentes devem transmitir o seu projeto de decisão e o pedido à EBA, à ESMA e ao BCE. Se o emitente requerente estiver estabelecido num Estado-Membro cuja moeda não seja o euro, ou se uma moeda oficial de um Estado-Membro que não seja o euro for referenciada pela criptoficha referenciada a ativos, as autoridades competentes transmitem também o seu projeto de decisão e o pedido ao banco central do Estado-Membro em causa.
+
+5. A pedido da autoridade competente, e no prazo de 20 dias úteis a contar da receção do projeto de decisão e do pedido, a EBA e a ESMA emitem um parecer relativo à sua apreciação do parecer jurídico a que se refere o artigo 18.º, n.º 2, alínea e), e transmitem os respetivos pareceres à autoridade competente em causa.
+
+O BCE e, se for o caso, o banco central a que se refere o n.º 4, emitem, no prazo de 20 dias úteis a contar da receção do projeto de decisão e do pedido, um parecer sobre a sua apreciação dos riscos que a emissão dessa criptoficha referenciada a ativos seja suscetível de criar para a estabilidade financeira, o bom funcionamento dos sistemas de pagamento, a transmissão da política monetária e a soberania monetária, e transmite o seu parecer à autoridade competente em causa.
+
+Sem prejuízo do disposto no artigo 21.º, n.º 4, os pareceres a que se referem o primeiro e o segundo parágrafos do presente número não são vinculativos.
+
+No entanto, a autoridade competente deve ter devidamente em conta os pareceres referidos nos primeiro e segundo parágrafos do presente número.
+
+### Artigo 21.º — Concessão ou recusa da autorização
+
+1. As autoridades competentes devem, no prazo de 25 dias úteis a contar da receção dos pareceres referidos no artigo 20.º, n.º 5, adotar uma decisão devidamente fundamentada de concessão ou recusa da autorização ao emitente requerente e notificar, no prazo de cinco dias úteis, essa decisão ao emitente requerente. Se o emitente requerente for autorizado, considera-se que o seu livrete do criptoativo foi aprovado.
+
+2. As autoridades competentes devem recusar a autorização se existirem motivos objetivos e comprováveis para concluir que:
+
+- a) O órgão de administração do emitente requerente pode constituir uma ameaça para a sua gestão eficaz, sã e prudente e para a continuidade das atividades, bem como para a consideração adequada dos interesses dos seus clientes e a integridade do mercado;
+
+- b) Os membros do órgão de administração não preenchem os critérios estabelecidos no artigo 34.º, n.º 2;
+
+- c) Os acionistas ou sócios, diretos ou indiretos, que detêm participações qualificadas não preenchem os critérios de idoneidade estabelecidos no artigo 34.º, n.º 4;
+
+- d) O emitente requerente não preenche ou pode não preencher algum dos requisitos estipulados no presente título;
+
+- e) O modelo de negócio do emitente requerente poderá constituir uma ameaça grave para a integridade do mercado, a estabilidade financeira ou o bom funcionamento dos sistemas de pagamento ou expõe o emitente ou o sector a riscos graves de branqueamento de capitais e de financiamento do terrorismo.
+
+3. Até 30 de junho de 2024, a EBA e a ESMA emitem, conjuntamente, orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1093/2010 e o artigo 16.º do Regulamento (UE) n.º 1095/2010, respetivamente, sobre a avaliação da aptidão dos membros do órgão de administração dos emitentes de criptofichas referenciadas a ativos e dos acionistas e sócios, diretos ou indiretos, que detenham participações qualificadas em emitentes de criptofichas referenciadas a ativos.
+
+4. As autoridades competentes recusarão igualmente a autorização se o BCE ou, quando aplicável, o banco central emitir um parecer negativo nos termos do artigo 20.º, n.º 5, por motivos que se prendam com os riscos para o bom funcionamento dos sistemas de pagamento, a transmissão da política monetária ou a soberania monetária.
+
+5. As autoridades competentes comunicam ao ponto único de contacto dos Estados-Membros de acolhimento, à ESMA, à EBA, ao BCE e, quando aplicável, aos bancos centrais a que se refere o artigo 20.º, n.º 4, no prazo de dois dias úteis a contar da concessão da autorização, as informações especificadas no artigo 109.º, n.º 3.
+
+A ESMA torna essas informações disponíveis no registo, nos termos do artigo 109.º, n.º 3, até à data de início da oferta pública ou da admissão à negociação.
+
+6. As autoridades competentes informam a EBA, a ESMA, o BCE e, se for o caso, o banco central a que se refere o artigo 20.º, n.º 4, de todas as autorizações recusadas, expõem os motivos subjacentes à respetiva decisão e fundamentam, se for caso disso, qualquer desvio em relação aos pareceres a que se refere o artigo 20.º, n.º 5.
+
+### Artigo 22.º — Comunicação de informação sobre criptofichas referenciadas a ativos
+
+1. O emitente comunica trimestralmente à autoridade competente, relativamente a cada criptoficha referenciada a ativos com um valor de emissão superior a 100 000 000 EUR, as seguintes informações:
+
+- a) O número de detentores;
+
+- b) O valor da criptoficha referenciada a ativos emitida e o volume da reserva de ativos;
+
+- c) A média do número e do valor agregado de transações diárias durante o trimestre relevante;
+
+- d) Uma estimativa da média do número e do valor agregado das transações diárias durante o trimestre relevante que estão associadas às suas utilizações como meio de troca numa área de moeda única.
+
+Para efeitos das alíneas c) e d) do primeiro parágrafo, entende-se por «transação» qualquer mudança da pessoa singular ou coletiva com direito à criptoficha referenciada a ativos que resulte da transferência da criptoficha referenciada a ativos de um endereço ou conta de registo distribuído para outro.
+
+As transações que estão associadas à troca por fundos ou outros criptoativos com o emitente ou com um prestador de serviços de criptoativos não devem ser consideradas como estando associadas a utilizações da criptoficha referenciada a ativos como um meio de troca, salvo se existirem provas de que a criptoficha referenciada a ativos é utilizada para a liquidação de outros criptoativos.
+
+2. A autoridade competente pode exigir que os emitentes de criptofichas referenciadas a ativos cumpram a obrigação de comunicação de informações a que se refere o n.º 1 relativamente a criptofichas referenciadas a ativos emitidas com um valor inferior a 100 000 000 EUR.
+
+3. Os prestadores de serviços de criptoativos que prestam serviços relacionados com criptofichas referenciadas a ativos facultam ao emitente da criptoficha referenciada a ativos a informação necessária para a elaboração do relatório a que se refere o n.º 1, nomeadamente comunicando as transações efetuadas fora do registo distribuído.
+
+4. A autoridade competente partilha as informações recebidas com o BCE e, se for o caso, com o banco central a que se refere o artigo 20.º, n.º 4, bem como com as autoridades competentes dos Estados-Membros de acolhimento.
+
+5. O BCE e, se for o caso, o banco central a que se refere o artigo 20.º, n.º 4, podem disponibilizar à autoridade competente as suas próprias estimativas da média trimestral do número e do valor agregado das transações diárias que estão associadas às utilizações da criptoficha referenciada a ativos como meio de troca numa área de moeda única.
+
+6. A EBA, em estreita cooperação com o BCE, elabora projetos de normas técnicas de regulamentação para especificar a metodologia para estimar a média trimestral do número e do valor agregado das transações diárias que estão associadas às utilizações da criptoficha referenciada a ativos como meio de troca numa área de moeda única.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+7. A EBA elabora projetos de normas técnicas de execução para criar formulários, modelos e procedimentos normalizados para efeitos da comunicação das informações a que se refere o n.º 1 e da prestação da informação a que se refere o n.º 3.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número, em conformidade com o artigo 15.º do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 23.º — Restrições para a emissão de criptofichas referenciadas a ativos amplamente utilizadas como meio de troca
+
+1. Sempre que, relativamente a uma criptoficha referenciada a ativos, a média trimestral estimada do número e do valor agregado das transações diárias associadas às suas utilizações como meio de troca numa área de moeda única for superior a um milhão de transações e 200 000 000 EUR, respetivamente, o emitente:
+
+- a) Deixa de emitir a criptoficha referenciada a ativos em causa; e
+
+- b) No prazo de 40 dias úteis após ter atingido esse limiar, apresenta um plano à autoridade competente para assegurar que a média trimestral estimada do número e do valor agregado dessas transações diárias não ultrapassa um milhão de transações e 200 000 000 EUR, respetivamente.
+
+2. A autoridade competente utiliza as informações prestadas pelo emitente, as suas próprias estimativas ou as estimativas disponibilizadas pelo BCE ou, se for o caso, pelo banco central a que se refere o artigo 20.º, n.º 4, consoante o que for mais elevado, a fim de verificar se o limiar a que se refere o n.º 1 foi atingido.
+
+3. Caso vários emitentes emitam a mesma criptoficha referenciada a ativos, os critérios referidos no n.º 1 são avaliados pela autoridade competente após agregação dos dados de todos os emitentes.
+
+4. O emitente apresenta à autoridade competente o plano a que se refere o n.º 1, alínea b), para aprovação. Se necessário, a autoridade competente pode exigir alterações, nomeadamente a imposição de um montante nominal mínimo, a fim de assegurar a redução, em tempo útil, da utilização da criptoficha referenciada a ativo enquanto meio de troca.
+
+5. A autoridade competente só deve autorizar o emitente a emitir a criptoficha referenciada a ativos quando tiver provas de que a média trimestral estimada do número e do valor agregado das transações diárias associadas às suas utilizações como meio de troca numa área de moeda única é inferior a um milhão de transações e 200 000 000 EUR, respetivamente.
+
+### Artigo 24.º — Revogação da autorização
+
+1. As autoridades competentes devem revogar a autorização de um emitente de uma criptoficha referenciada a ativos em qualquer uma das seguintes situações:
+
+- a) O emitente cessou o exercício da atividade empresarial durante seis meses consecutivos ou não utilizou a sua autorização durante 12 meses consecutivos;
+
+- b) O emitente obteve a sua autorização por meios irregulares, nomeadamente fazendo declarações falsas no pedido de autorização a que se refere o artigo 18.º ou num livrete do criptoativo modificado em conformidade com o artigo 25.º;
+
+- c) O emitente deixou de cumprir as condições ao abrigo das quais a autorização foi concedida;
+
+- d) O emitente infringiu de forma grave o disposto no presente título;
+
+- e) O emitente é objeto de um plano de reembolso;
+
+- f) O emitente renunciou expressamente à sua autorização ou decidiu pôr termo às suas operações;
+
+- g) A atividade exercida pelo emitente representa uma ameaça grave para a integridade do mercado, a estabilidade financeira ou o bom funcionamento dos sistemas de pagamento ou expõe o emitente ou o sector a riscos graves de branqueamento de capitais e de financiamento do terrorismo.
+
+O emitente de uma criptoficha referenciada a ativos deve notificar a respetiva autoridade competente de qualquer uma das situações referidas no primeiro parágrafo, alíneas e) e f).
+
+2. As autoridades competentes devem revogar igualmente a autorização de um emitente de uma criptoficha referenciada a ativos quando o BCE ou, se for o caso, o banco central a que se refere o artigo 20.º, n.º 4, emite um parecer segundo o qual a criptoficha referenciada a ativos constitui uma ameaça grave para o bom funcionamento dos sistemas de pagamento, a transmissão da política monetária ou a soberania monetária.
+
+3. As autoridades competentes limitam igualmente o montante de uma criptoficha referenciada a ativos a emitir ou impõem um montante nominal mínimo à criptoficha referenciada a ativos quando o BCE ou, se for o caso, o banco central a que se refere o artigo 20.º, n.º 4, emite um parecer segundo o qual a criptoficha referenciada a ativos constitui uma ameaça para o bom funcionamento dos sistemas de pagamento, a transmissão da política monetária ou a soberania monetária, e especificam o limite aplicável ou o montante nominal mínimo.
+
+4. As autoridades competentes pertinentes devem notificar sem demora à autoridade competente de um emitente de uma criptoficha referenciada a ativos as seguintes situações:
+
+- a) Uma entidade terceira referida no artigo 34.º, n.º 5, primeiro parágrafo, alínea h), do presente regulamento deixou de dispor da sua autorização como instituição de crédito nos termos do artigo 8.º da Diretiva 2013/36/UE, como prestador de serviços de criptoativos nos termos do artigo 59.º do presente regulamento, como instituição de pagamento ou como instituição de moeda eletrónica;
+
+- b) Os membros do órgão de administração do emitente ou os acionistas ou sócios, diretos ou indiretos, que detêm participações qualificadas no emitente violaram as disposições do direito nacional de transposição da Diretiva (UE) 2015/849.
+
+5. As autoridades competentes devem revogar a autorização de um emitente de uma criptoficha referenciada a ativos sempre que considerem que as situações referidas no n.º 4 do presente artigo afetam a idoneidade do órgão de administração desse emitente ou a idoneidade de quaisquer acionistas ou sócios, diretos ou indiretos, que detêm participações qualificadas no emitente ou que haja outra indicação no sentido de existir uma falha a nível dos sistemas de governação ou dos mecanismos de controlo interno referidos no artigo 34.º.
+
+Quando a autorização for revogada, o emitente da criptoficha referenciada a ativos deve aplicar o procedimento previsto no artigo 47.º.
+
+6. As autoridades competentes comunicam à ESMA, no prazo de dois dias úteis a contar da revogação da autorização, a revogação da autorização do emitente da criptoficha referenciada a ativos. A ESMA disponibiliza as informações sobre essa revogação no registo a que se refere o artigo 109.º, sem demora injustificada.
+
+### Artigo 25.º — Modificação dos livretes do criptoativo publicados para criptofichas referenciadas a ativos
+
+1. Os emitentes de criptofichas referenciadas a ativos devem notificar a autoridade competente do seu Estado-Membro de origem de qualquer alteração prevista do seu modelo de negócios, suscetível de ter uma influência significativa na decisão de qualquer detentor ou potencial detentor de compra de criptofichas referenciadas a ativos, que ocorra após a autorização a que se refere o artigo 21.º ou após a aprovação do livrete do criptoativo nos termos do artigo 17.º, bem como no contexto do artigo 23.º. Estas incluem, nomeadamente, todas as modificações materiais dos seguintes elementos:
+
+- a) Os mecanismos de governação, incluindo os canais de comunicação de informações ao órgão de administração e o quadro de gestão dos riscos;
+
+- b) Os ativos de reserva e a custódia dos ativos de reserva;
+
+- c) Os direitos concedidos aos detentores de criptofichas referenciadas a ativos;
+
+- d) O mecanismo através do qual uma criptoficha referenciada a ativos é emitida e reembolsada;
+
+- e) Os protocolos de validação das transações de criptofichas referenciadas a ativos;
+
+- f) O funcionamento da tecnologia proprietária de registo distribuído do emitente, caso as criptofichas referenciadas a ativos sejam emitidas, transferidas e armazenadas utilizando uma tal tecnologia de registo distribuído;
+
+- g) Os mecanismos destinados a assegurar a liquidez das criptofichas referenciadas a ativos, nomeadamente a política de gestão da liquidez e os procedimentos aplicáveis aos emitentes de criptofichas referenciadas a ativos significativas a que se refere o artigo 45.º;
+
+- h) Os acordos com entidades terceiras, nomeadamente para a gestão dos ativos de reserva e do investimento da reserva, a custódia dos ativos de reserva e, se for caso disso, a distribuição ao público das criptofichas referenciadas a ativos;
+
+- i) O procedimento de tratamento das reclamações;
+
+- j) A avaliação do risco de branqueamento de capitais e de financiamento do terrorismo e as respetivas políticas e procedimentos gerais.
+
+Os emitentes de criptofichas referenciadas a ativos notificam a autoridade competente do seu Estado-Membro de origem pelo menos 30 dias úteis antes de as alterações previstas produzirem efeitos.
+
+2. Se qualquer alteração prevista referida no n.º 1 tiver sido notificada à autoridade competente, o emitente de uma criptoficha referenciada a ativos deve redigir um projeto de livrete do criptoativo modificado e assegurar que a ordem das informações nele constantes é coerente com a do livrete do criptoativo original.
+
+O emitente da criptoficha referenciada a ativos notifica o projeto de livrete do criptoativo modificado à autoridade competente do Estado-Membro de origem.
+
+A autoridade competente deve acusar por via eletrónica a receção do projeto de livrete do criptoativo modificado o mais rapidamente possível e, o mais tardar, cinco dias úteis a contar da sua receção.
+
+A autoridade competente deve conceder a aprovação ou recusar a aprovação do projeto de livrete do criptoativo modificado no prazo de 30 dias úteis após ter acusado a sua receção. Durante o processo de análise do projeto de livrete do criptoativo modificado, a autoridade competente pode solicitar informações, explicações ou justificações adicionais sobre o mesmo. Caso a autoridade competente formule um pedido nesse sentido, o prazo limite de 30 dias úteis só começa a correr quando a autoridade competente tiver recebido as informações adicionais solicitadas.
+
+3. Caso considere que as alterações a um livrete do criptoativo são potencialmente relevantes para o bom funcionamento dos sistemas de pagamento, a transmissão da política monetária e a soberania monetária, a autoridade competente deve consultar o BCE e, se for o caso, o banco central a que se refere o artigo 20.º, n.º 4. Em tais casos, a autoridade competente pode também consultar a EBA e a ESMA.
+
+O BCE ou o banco central pertinente e, se for o caso, a EBA e a ESMA emitem um parecer no prazo de 20 dias úteis a contar da receção do pedido de consulta a que se refere o primeiro parágrafo.
+
+4. Caso aprove o livrete do criptoativo modificado, a autoridade competente pode solicitar ao emitente da criptoficha referenciada a ativos:
+
+- a) Que crie mecanismos para assegurar a proteção dos detentores da criptoficha referenciada a ativos, sempre que uma potencial modificação das operações do emitente possa ter um efeito importante sobre o valor, a estabilidade ou os riscos da criptoficha referenciada a ativos ou dos ativos de reserva;
+
+- b) Que tome todas as medidas corretivas adequadas para dar resposta a preocupações relacionadas com a integridade do mercado, a estabilidade financeira ou o bom funcionamento dos sistemas de pagamento.
+
+A autoridade competente solicita ao emitente da criptoficha referenciada a ativos que tome as medidas corretivas adequadas para dar resposta às preocupações relacionadas com o bom funcionamento dos sistemas de pagamentos, a transmissão da política monetária ou a soberania monetária se, no âmbito das consultas a que se refere o n.º 3 do presente artigo, tais medidas corretivas forem propostas pelo BCE ou, se for o caso, por um banco central a que se refere o artigo 20.º, n.º 4.
+
+Caso o BCE ou o banco central a que se refere o artigo 20.º, n.º 4, proponham medidas que difiram das exigidas pela autoridade competente, as medidas propostas devem ser combinadas. Se tal não for possível, a medida mais rigorosa deverá ser imposta.
+
+5. A autoridade competente comunica o livrete do criptoativo modificado à ESMA, aos pontos de contacto únicos dos Estados-Membros de acolhimento, à EBA, ao BCE e, se for o caso, ao banco central do Estado-Membro em causa, no prazo de dois dias úteis a contar da concessão da aprovação.
+
+A ESMA disponibiliza, sem demora injustificada, o livrete do criptoativo modificado no registo a que se refere o artigo 109.º.
+
+### Artigo 26.º — Responsabilidade dos emitentes de criptofichas referenciadas a ativos pelas informações incluídas num livrete do criptoativo
+
+1. Caso um emitente tenha infringido o artigo 19.º através da prestação, no seu livrete do criptoativo ou num livrete do criptoativo modificado, de informação que não seja completa, ou não seja correta ou não seja clara ou que induza em erro, esse emitente e os membros do seu órgão de administração, direção ou supervisão são responsáveis perante um detentor dessa criptoficha referenciada a ativos por quaisquer perdas sofridas devido a essa infração.
+
+2. Toda e qualquer exclusão ou limitação contratual da responsabilidade civil a que se refere o n.º 1 não produz efeitos jurídicos.
+
+3. Recai sobre o detentor da criptoficha referenciada a ativos a responsabilidade de apresentar provas que indiquem que o emitente dessa criptoficha referenciada a ativos infringiu o artigo 19.º ao prestar, no seu livrete do criptoativo ou num livrete do criptoativo modificado, informação que não era completa, ou não era correta, ou não era clara ou que induzia em erro e que o recurso a essa informação teve impacto na decisão do detentor de comprar, vender ou trocar a criptoficha em causa.
+
+4. O emitente e os membros do seu órgão administrativo, direção ou supervisão não são responsáveis pelas perdas sofridos em resultado da confiança depositada nas informações facultadas num resumo nos termos do artigo 19.º, nomeadamente em traduções dessas informações, salvo se o resumo:
+
+- a) Quando lido em conjunto com as outras partes do livrete do criptoativo, induzir em erro, for inexato ou incoerente; ou
+
+- b) Quando lido em conjunto com as outras partes do livrete do criptoativo, não prestar a informação fundamental para ajudar os potenciais detentores a decidirem se devem comprar a criptoficha referenciada a ativos.
+
+5. O presente artigo não prejudica qualquer outra forma de responsabilidade civil prevista no direito nacional.
+
+## CAPÍTULO 2 — Obrigações dos emitentes de criptofichas referenciadas a ativos
+
+### Artigo 27.º — Obrigação de atuar com honestidade, lealdade e profissionalismo no melhor interesse dos detentores de criptofichas referenciadas a ativos
+
+1. Os emitentes de criptofichas referenciadas a ativos devem atuar com honestidade, lealdade e profissionalismo e comunicar com os detentores e potenciais detentores de criptofichas referenciadas a ativos de forma leal, clara e que não induza em erro.
+
+2. Os emitentes de criptofichas referenciadas a ativos devem atuar no melhor interesse dos detentores dessas criptofichas e tratá-los de forma equitativa, exceto se qualquer tratamento preferencial for divulgado no livrete do criptoativo e, se for caso disso, nas comunicações comerciais.
+
+### Artigo 28.º — Publicação do livrete do criptoativo
+
+Um emitente de uma criptoficha referenciada a ativos deve publicar no seu sítio Web o livrete do criptoativo aprovado a que se refere o artigo 17.º, n.º 1, o artigo 21.º, n.º 1, e, se for caso disso, o livrete do criptoativo modificado a que se refere o artigo 25.º. O livrete do criptoativo aprovado deve estar acessível ao público à data de início da oferta pública da criptoficha referenciada a ativos ou da admissão à negociação dessa criptoficha. O livrete do criptoativo aprovado e, se for caso disso, o livrete do criptoativo modificado devem permanecer disponíveis no sítio Web do emitente enquanto a criptoficha referenciada a ativos for detida pelo público.
+
+### Artigo 29.º — Comunicações comerciais
+
+1. Todas as comunicações comerciais relativas a uma oferta pública de uma criptoficha referenciada a ativos ou à admissão à negociação dessa criptoficha referenciada a ativos devem cumprir todos os seguintes requisitos:
+
+- a) As comunicações comerciais são claramente identificáveis como tal;
+
+- b) As informações incluídas nas comunicações comerciais são corretas, claras e não induzem em erro;
+
+- c) As informações incluídas nas comunicações comerciais são coerentes com as informações incluídas no livrete do criptoativo;
+
+- d) As comunicações comerciais mencionam claramente que foi publicado um livrete do criptoativo e indicam claramente o endereço do sítio Web do emitente da criptoficha referenciada a ativos, bem como um número de telefone e um endereço de correio eletrónico para contactar o emitente.
+
+2. As comunicações comerciais devem incluir uma declaração clara e inequívoca no sentido de que todos os detentores da criptoficha referenciada a ativos dispõem, a qualquer momento, de um direito de reembolso sobre o emitente.
+
+3. As comunicações comerciais e quaisquer versões modificadas dessas comunicações comerciais devem ser publicadas no sítio Web do emitente.
+
+4. As autoridades competentes não podem exigir uma aprovação prévia das comunicações comerciais antes da sua publicação.
+
+5. As comunicações comerciais são, a pedido, notificadas às autoridades competentes.
+
+6. Nenhuma comunicação comercial pode ser divulgada antes da publicação do livrete do criptoativo. Esta restrição não afeta a capacidade do emitente da criptoficha referenciada a ativos para realizar sondagens de mercado.
+
+### Artigo 30.º — Informação periódica aos detentores de criptofichas referenciadas a ativos
+
+1. Os emitentes de criptofichas referenciadas a ativos devem divulgar, de uma forma clara, exata e transparente, num lugar facilmente acessível ao público no seu sítio Web, o montante das criptofichas referenciadas a ativos em circulação e o valor e composição da reserva de ativos a que se refere o artigo 36.º. Essa informação deve ser atualizada pelo menos mensalmente.
+
+2. Os emitentes de criptofichas referenciadas a ativos devem publicar num local facilmente acessível ao público no seu sítio Web, com a maior brevidade possível, um resumo sucinto, claro, exato e transparente do relatório de auditoria, bem com a versão integral e inalterada do relatório de auditoria, relativo à reserva de ativos a que se refere o artigo 36.º.
+
+3. Sem prejuízo do artigo 88.º, os emitentes de criptofichas referenciadas a ativos devem divulgar no seu sítio Web, com a maior brevidade possível e de forma clara, exata e transparente, num lugar facilmente acessível ao público, qualquer evento que tenha ou possa ter um efeito significativo sobre o valor das criptofichas referenciadas a ativos ou sobre a reserva de ativos a que se refere o artigo 36.º.
+
+### Artigo 31.º — Procedimentos de tratamento das reclamações
+
+1. Os emitentes de criptofichas referenciadas a ativos devem estabelecer e manter procedimentos eficazes e transparentes com vista ao tratamento expedito, leal e coerente das reclamações recebidas de detentores de criptofichas referenciadas a ativos e de outras partes interessadas, nomeadamente associações de consumidores que representem detentores de criptofichas referenciadas a ativos, e devem publicar descrições desses procedimentos. Se as criptofichas referenciadas a ativos forem distribuídas, total ou parcialmente, por entidades terceiras, nos termos do artigo 34.º, n.º 5, primeiro parágrafo, alínea h), os emitentes das criptofichas referenciadas a ativos devem estabelecer procedimentos para também facilitar o tratamento dessas reclamações entre os detentores das criptofichas referenciadas a ativos e essas entidades terceiras.
+
+2. Os detentores de criptofichas referenciadas a ativos devem poder apresentar, a título gratuito, reclamações aos emitentes das suas criptofichas referenciadas a ativos ou, se for caso disso, às entidades terceiras a que se refere o n.º 1.
+
+3. Os emitentes de criptofichas referenciadas a ativos e, se for caso disso, as entidades terceiras a que se refere o n.º 1, devem elaborar e disponibilizar aos detentores de criptofichas referenciadas a ativos um modelo para a apresentação de reclamações e manter um registo de todas as reclamações recebidas e de quaisquer medidas adotadas para dar resposta às mesmas.
+
+4. Os emitentes de criptofichas referenciadas a ativos devem investigar todas as reclamações de forma atempada e leal, e comunicar as conclusões dessas investigações aos detentores das suas criptofichas referenciadas a ativos dentro de um prazo razoável.
+
+5. A EBA, em estreita cooperação com a ESMA, elabora projetos de normas técnicas de regulamentação a fim de especificar mais pormenorizadamente os requisitos, os modelos e os procedimentos para o tratamento das reclamações.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, nos termos dos artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 32.º — Identificação, prevenção, gestão e divulgação de conflitos de interesses
+
+1. Os emitentes de criptofichas referenciadas a ativos devem aplicar e manter políticas e procedimentos para identificar, prevenir, gerir e divulgar conflitos de interesses entre si e:
+
+- a) Os seus acionistas ou sócios;
+
+- b) Qualquer acionista ou sócio, direto ou indireto, que detenha uma participação qualificada no emitente;
+
+- c) Os membros do seu órgão de administração;
+
+- d) Os seus trabalhadores;
+
+- e) Os detentores de criptofichas referenciadas a ativos; ou
+
+- f) Qualquer terceiro que desempenhe uma das funções referidas no artigo 34.º, n.º 5, primeiro parágrafo, alínea h).
+
+2. Em especial, os emitentes de criptofichas referenciadas a ativos tomam todas as medidas adequadas para identificar, prevenir, gerir e divulgar conflitos de interesses decorrentes da gestão e do investimento da reserva de ativos a que se refere o artigo 36.º.
+
+3. Os emitentes de criptofichas referenciadas a ativos devem, num lugar de destaque no seu sítio Web, divulgar aos detentores das suas criptofichas referenciadas a ativos a natureza geral e as fontes de conflitos de interesses a que se refere o n.º 1, bem como as medidas adotadas para os mitigar.
+
+4. A divulgação referida no n.º 3 deve ser suficientemente precisa para permitir que os potenciais detentores das suas criptofichas referenciadas a ativos tomem uma decisão informada sobre a compra das criptofichas referenciadas a ativos.
+
+5. A EBA elabora projetos de normas técnicas de regulamentação para especificar mais pormenorizadamente:
+
+- a) Os requisitos das políticas e dos procedimentos referidos no n.º 1;
+
+- b) Os pormenores e a metodologia relativos ao conteúdo da comunicação a que se refere o n.º 3.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 33.º — Notificação de alterações do órgão de administração
+
+Os emitentes de criptofichas referenciadas a ativos devem comunicar de imediato à respetiva autoridade competente quaisquer alterações do seu órgão de administração, facultando-lhe todas as informações necessárias para verificar o cumprimento do disposto no artigo 34.º, n.º 2.
+
+### Artigo 34.º — Mecanismos de governação
+
+1. Os emitentes de criptofichas referenciadas a ativos devem dispor de mecanismos de governação sólidos, incluindo uma estrutura organizativa clara, com linhas de responsabilidade bem definidas, transparentes e coerentes, processos eficazes de identificação, gestão, controlo e comunicação dos riscos a que estejam ou possam vir a estar expostos e mecanismos adequados de controlo interno, nomeadamente procedimentos administrativos e contabilísticos sólidos.
+
+2. Os membros do órgão de administração de um emitente de criptofichas referenciadas a ativos devem ter idoneidade suficiente e possuir os conhecimentos, competências e experiência adequados, tanto a nível individual como no seu conjunto, para o desempenho das suas funções. Em especial, não podem ter sido condenados por infrações relacionadas com branqueamento de capitais ou financiamento do terrorismo, nem por quaisquer outras infrações que afetem a sua idoneidade. Devem ainda demonstrar que estão em condições de dedicar tempo suficiente ao desempenho eficaz das suas funções.
+
+3. O órgão de administração de um emitente de criptofichas referenciadas a ativos deve avaliar e reanalisar periodicamente a eficácia dos mecanismos e procedimentos aplicados tendo em vista o cumprimento do disposto nos capítulos 2, 3, 5 e 6 do presente título e tomar as medidas adequadas para corrigir quaisquer deficiências a este respeito.
+
+4. Os acionistas ou sócios, diretos ou indiretos, que detêm participações qualificadas em emitentes de criptofichas referenciadas a ativos devem ter idoneidade suficiente e não podem, em especial, ter sido condenadas por infrações relacionadas com branqueamento de capitais ou financiamento do terrorismo, nem por quaisquer outras infrações que afetariam a sua idoneidade.
+
+5. Os emitentes de criptofichas referenciadas a ativos devem adotar políticas e procedimentos suficientemente eficazes para assegurar o cumprimento do presente regulamento. Os emitentes de criptofichas referenciadas a ativos devem estabelecer, manter e aplicar, em especial, políticas e procedimentos sobre:
+
+- a) A reserva de ativos a que se refere o artigo 36.º;
+
+- b) A custódia dos ativos de reserva, incluindo a segregação dos ativos, como especificado no artigo 37.º;
+
+- c) Os direitos concedidos aos detentores de criptofichas referenciadas a ativos, nos termos do artigo 39.º;
+
+- d) O mecanismo através do qual as criptofichas referenciadas a ativos são emitidas e reembolsadas;
+
+- e) Os protocolos de validação das transações de criptofichas referenciadas a ativos;
+
+- f) O funcionamento da tecnologia proprietária de registo distribuído do emitente, caso as criptofichas referenciadas a ativos sejam emitidas, transferidas e armazenadas utilizando essa tecnologia de registo distribuído ou uma tecnologia similar operada pelo emitente ou por um terceiro agindo em seu nome;
+
+- g) Os mecanismos para assegurar a liquidez das criptofichas referenciadas a ativos, incluindo a política de gestão da liquidez e os procedimentos aplicáveis aos emitentes de criptofichas referenciadas a ativos significativas a que se refere o artigo 45.º;
+
+- h) Os acordos com entidades terceiras para a operação da reserva de ativos e para o investimento dos ativos de reserva, a custódia dos ativos de reserva e, se for caso disso, a distribuição ao público das criptofichas referenciadas a ativos;
+
+- i) O consentimento escrito dado pelos emitentes de criptofichas referenciadas a ativos a outras pessoas que possam oferecer ou solicitar a admissão à negociação de criptofichas referenciadas a ativos;
+
+- j) O tratamento das reclamações, nos termos do artigo 31.º,
+
+- k) Os conflitos de interesses, nos termos do artigo 32.º.
+
+Caso os emitentes de criptofichas referenciadas a ativos celebrem acordos conforme referido no primeiro parágrafo, alínea h), esses acordos devem ser estabelecidos num contrato com as entidades terceiras. As disposições contratuais em causa devem definir as funções, as responsabilidades, os direitos e as obrigações tanto dos emitentes de criptofichas referenciadas a ativos como das entidades terceiras. Toda e qualquer disposição contratual que envolva várias jurisdições deve estipular de forma inequívoca a lei aplicável.
+
+6. A menos que tenham lançado um plano de reembolso referido no artigo 47.º, os emitentes de criptofichas referenciadas a ativos devem utilizar sistemas, recursos e procedimentos adequados e proporcionados para assegurar o desempenho contínuo e regular dos seus serviços e atividades. Para esse efeito, os emitentes de criptofichas referenciadas a ativos devem manter todos os seus sistemas e protocolos de acesso de segurança em conformidade com as normas adequadas da União.
+
+7. Se o emitente de uma criptoficha referenciada a ativos decidir interromper a prestação de serviços e atividades conexos, nomeadamente suspendendo a emissão da criptoficha referenciada a ativos, deve apresentar um plano à autoridade competente para aprovação dessa interrupção.
+
+8. Os emitentes de criptofichas referenciadas a ativos devem identificar as fontes de risco operacional e limitar esse risco através do desenvolvimento de sistemas, controlos e procedimentos adequados.
+
+9. Os emitentes de criptofichas referenciadas a ativos devem estabelecer uma política de continuidade das atividades e planos para garantir, no caso de uma interrupção dos seus sistemas e procedimentos de TIC, a preservação de dados e funções essenciais e a prossecução das suas atividades ou, se tal não for possível, a rápida recuperação desses dados e funções e o rápido reatamento das suas atividades.
+
+10. Os emitentes de criptofichas referenciadas a ativos devem dispor de mecanismos de controlo interno e de procedimentos eficazes para a gestão dos riscos, nomeadamente mecanismos eficazes de controlo e proteção para a gestão dos sistemas de TIC, conforme exigido pelo Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho ([^11]). Os procedimentos devem prever uma avaliação abrangente da dependência de entidades terceiras, nos termos do n.º 5, primeiro parágrafo, alínea h), do presente artigo. Os emitentes de criptofichas referenciadas a ativos devem acompanhar e avaliar regularmente a adequação e a eficácia dos mecanismos de controlo interno e dos procedimentos para a avaliação dos riscos, e tomar medidas adequadas para corrigir quaisquer deficiências a este respeito.
+
+11. Os emitentes de criptofichas referenciadas a ativos devem dispor de sistemas e procedimentos adequados que garantam a disponibilidade, autenticidade, integridade e confidencialidade dos dados, conforme exigido pelo Regulamento (UE) 2022/2554 e em consonância com o Regulamento (UE) 2016/679. Esses sistemas devem registar e proteger as informações e os dados pertinentes recolhidos e produzidos no âmbito das atividades dos emitentes.
+
+12. Os emitentes de criptofichas referenciadas a ativos devem assegurar que são regularmente auditados por auditores independentes. Os resultados dessas auditorias devem ser comunicados ao órgão de administração do emitente em causa e disponibilizados à autoridade competente.
+
+13. Até 30 de junho de 2024, a EBA, em estreita cooperação com a ESMA e o BCE, emite orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1093/2010 que especifiquem o conteúdo mínimo dos mecanismos de governação quanto:
+
+- a) Aos instrumentos de acompanhamento dos riscos a que se refere o n.º 8;
+
+- b) Ao plano de continuidade das atividades a que se refere o n.º 9;
+
+- c) Aos mecanismos de controlo interno a que se refere o n.º 10;
+
+- d) Às auditorias a que se refere o n.º 12, incluindo a documentação mínima que deve ser utilizada aquando da auditoria.
+
+Ao emitir as orientações a que se refere o primeiro parágrafo, a EBA tem em conta as disposições relativas aos requisitos de governação previstos noutros atos legislativos da União em matéria de serviços financeiros, incluindo a Diretiva 2014/65/UE.
+
+### Artigo 35.º — Requisitos de fundos próprios
+
+1. Os emitentes de criptofichas referenciadas a ativos devem, a todo o tempo, dispor de fundos próprios equivalentes a um montante pelo menos igual ao mais elevado dos seguintes montantes:
+
+- a) 350 000 EUR;
+
+- b) 2 % do montante médio da reserva de ativos a que se refere o artigo 36.º;
+
+- c) Um quarto das despesas gerais fixas do ano anterior.
+
+Para efeitos da alínea b) do primeiro parágrafo, entende-se por «montante médio da reserva de ativos» o montante médio dos ativos de reserva no final de cada dia de calendário, calculado ao longo dos últimos seis meses.
+
+Caso um emitente ofereça mais do que uma criptoficha referenciada a ativos, o montante referido na alínea b) do primeiro parágrafo é a soma do montante médio dos ativos de reserva subjacentes a cada criptoficha referenciada a ativos.
+
+O montante a que se refere a alínea c) do primeiro parágrafo é revisto anualmente e calculado em conformidade com o artigo 67.º, n.º 3.
+
+2. Os fundos próprios referidos no n.º 1 do presente artigo consistem nos elementos e instrumentos de fundos próprios principais de nível 1 mencionados nos artigos 26.º a 30.º do Regulamento (UE) n.º 575/2013 após as deduções na íntegra, nos termos do artigo 36.º do referido regulamento, sem a aplicação dos limiares de isenção referidos no artigo 46.º, n.º 4, e no artigo 48.º desse regulamento.
+
+3. A autoridade competente do Estado-Membro de origem pode exigir que um emitente de uma criptoficha referenciada a ativos detenha um montante de fundos próprios até 20 % superior ao montante resultante da aplicação do n.º 1, primeiro parágrafo, alínea b), sempre que uma avaliação de qualquer um dos seguintes elementos indique um grau de risco superior:
+
+- a) A avaliação dos processos de gestão de riscos e dos mecanismos de controlo interno do emitente da criptoficha referenciada a ativos, nos termos do artigo 34.º, n.ºs 1, 8 e 10;
+
+- b) A qualidade e a volatilidade da reserva de ativos a que se refere o artigo 36.º;
+
+- c) Os tipos de direitos concedidos pelo emitente da criptoficha referenciada a ativos aos detentores da mesma, em conformidade com o artigo 39.º;
+
+- d) Quando a reserva de ativos inclui investimentos, os riscos que a política de investimento representa para a reserva de ativos;
+
+- e) O valor agregado e o número de transações liquidadas com a criptoficha referenciada a ativos;
+
+- f) A importância dos mercados em que a criptoficha referenciada a ativos é oferecida e comercializada;
+
+- g) Se for caso disso, a capitalização bolsista da criptoficha referenciada a ativos.
+
+4. A autoridade competente do Estado-Membro de origem pode exigir que um emitente de uma criptoficha referenciada a ativos que não seja significativa cumpra os requisitos estabelecidos no artigo 45.º, sempre que necessário para fazer face a um grau de risco mais elevado, identificado nos termos do n.º 3 do presente artigo, ou a qualquer outro risco ao qual o artigo 45.º visa dar resposta, nomeadamente riscos de liquidez.
+
+5. Sem prejuízo do disposto no n.º 3, os emitentes de criptofichas referenciadas a ativos realizam regularmente testes de esforço que tenham em conta cenários de esforço financeiro graves, mas plausíveis, tais como choques das taxas de juro, bem como cenários de esforço não financeiro, tais como o risco operacional. Com base nos resultados destes testes de esforço, a autoridade competente do Estado-Membro de origem deve exigir ao emitente da criptoficha referenciada a ativos que detenha fundos próprios num montante 20 % a 40 % superior ao montante resultante da aplicação do n.º 1, primeiro parágrafo, alínea b), em determinadas circunstâncias, tendo em conta as perspetivas de risco e os resultados dos testes de esforço.
+
+6. A EBA, em estreita cooperação com a ESMA e o BCE, elabora projetos de normas técnicas de regulamentação que especifiquem com maior pormenor:
+
+- a) O procedimento e o calendário para que um emitente de uma criptoficha referenciada a ativos significativa se adapte aos requisitos de fundos próprios mais elevados constantes do n.º 3;
+
+- b) Os critérios para exigir fundos próprios num montante mais elevado, conforme estabelecido no n.º 3;
+
+- c) Os requisitos mínimos para a elaboração dos programas relativos aos testes de esforço, tendo em conta a dimensão, a complexidade e a natureza da criptoficha referenciada a ativos, incluindo, entre outros:
+
+  - i) os tipos de testes de esforço e os seus principais objetivos e aplicações,
+
+  - ii) a frequência dos diferentes exercícios de testes de esforço,
+
+  - iii) os mecanismos de governação interna,
+
+  - iv) a infraestrutura de dados pertinente,
+
+  - v) a metodologia e a plausibilidade dos pressupostos,
+
+  - vi) a aplicação do princípio da proporcionalidade a todos os requisitos mínimos, sejam eles quantitativos ou qualitativos, e
+
+  - vii) a periodicidade mínima dos testes de esforço e os parâmetros de referência comuns dos cenários dos testes de esforço.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+## CAPÍTULO 3 — Reserva de ativos
+
+### Artigo 36.º — Obrigação de possuir uma reserva de ativos e composição e gestão dessa reserva de ativos
+
+1. Os emitentes de criptofichas referenciadas a ativos devem constituir e manter a todo o tempo uma reserva de ativos.
+
+A reserva de ativos é composta e gerida de modo a que:
+
+- a) Os riscos associados aos ativos referenciados pelas criptofichas referenciadas a ativos estejam cobertos; e
+
+- b) Os riscos de liquidez associados aos direitos de reembolso permanentes dos detentores sejam tidos em conta.
+
+2. A reserva de ativos deve estar juridicamente separada do património do emitente, bem como da reserva de ativos de outras criptofichas referenciadas a ativos, no interesse dos detentores de criptofichas referenciadas a ativos, nos termos do direito aplicável, de modo a que os credores dos emitentes não possam recorrer à reserva de ativos, em especial em caso de insolvência.
+
+3. Os emitentes de criptofichas referenciadas a ativos devem assegurar que a reserva de ativos esteja, em termos operacionais, separada do seu património, bem como da reserva de ativos de outras criptofichas.
+
+4. A EBA, em estreita cooperação com a ESMA e o BCE, elabora projetos de normas técnicas de regulamentação que especifiquem em maior detalhe os requisitos de liquidez, tendo em conta a dimensão, a complexidade e a natureza da reserva de ativos e da própria criptoficha referenciada a ativos.
+
+As normas técnicas de regulamentação estabelecem, em especial:
+
+- a) A percentagem pertinente da reserva de ativos em função dos prazos de vencimento diários, incluindo a percentagem de acordos de revenda da reserva que podem ser denunciados mediante pré-aviso de um dia útil ou a percentagem de numerário que pode ser levantado mediante pré-aviso de um dia útil;
+
+- b) A percentagem pertinente da reserva de ativos em função dos prazos de vencimento semanais, incluindo a percentagem de acordos de revenda da reserva que podem ser denunciados mediante pré-aviso de cinco dias úteis ou a percentagem de numerário que pode ser levantado mediante pré-aviso de cinco dias úteis;
+
+- c) Outros prazos de vencimento relevantes, bem como técnicas globais para a gestão da liquidez;
+
+- d) Os montantes mínimos dos depósitos a deter, em cada moeda oficial referenciada, nas instituições de crédito, que não podem ser inferiores a 30 % do montante referenciado em cada moeda oficial.
+
+Para efeitos das alíneas a), b) e c) do segundo parágrafo, a EBA tem em conta, entre outros, os limiares pertinentes estabelecidos no artigo 52.º da Diretiva 2009/65/CE.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+5. Os emitentes que ofereçam ao público duas ou mais criptofichas referenciadas a ativos devem gerir e manter conjuntos separados de reservas de ativos para cada criptoficha referenciada a ativos. Cada um desses conjuntos de reservas de ativos é gerido separadamente.
+
+Caso diferentes emitentes de criptofichas referenciadas a ativos submetam a mesma criptoficha referenciada a ativos a uma oferta pública, esses emitentes devem explorar e manter apenas uma reserva de ativos para essa criptoficha referenciada a ativos.
+
+6. Os órgãos de administração dos emitentes de criptofichas referenciadas a ativos asseguram uma gestão eficaz e prudente da reserva de ativos. Os emitentes asseguram que a emissão e o reembolso de criptofichas referenciadas a ativos sejam sempre acompanhados por um aumento ou uma diminuição correspondente da reserva de ativos.
+
+7. O emitente de uma criptoficha referenciada a ativos deve determinar o valor agregado da reserva de ativos recorrendo aos preços de mercado. O seu valor agregado deve ser pelo menos igual ao valor agregado dos créditos sobre o emitente detidos pelos detentores da criptoficha referenciada a ativos em circulação.
+
+8. Os emitentes de criptofichas referenciadas a ativos devem dispor de uma política clara e pormenorizada que descreva o mecanismo de estabilização das criptofichas em causa. Essa política deve, nomeadamente:
+
+- a) Enumerar os ativos referenciados pelas criptofichas referenciadas a ativos e a composição desses ativos;
+
+- b) Descrever o tipo de ativos e a afetação precisa dos ativos que estão incluídos na reserva de ativos;
+
+- c) Incluir uma avaliação aprofundada dos riscos, incluindo o risco de crédito, o risco de mercado, o risco de concentração e o risco de liquidez resultantes da reserva de ativos;
+
+- d) Descrever o procedimento através do qual as criptofichas referenciadas a ativos são emitidas e reembolsadas, e o procedimento através do qual essa emissão e esse reembolso resultarão num aumento ou numa diminuição correspondente da reserva de ativos;
+
+- e) Indicar se uma parte da reserva de ativos é investida conforme estabelecido pelo artigo 38.º;
+
+- f) Caso os emitentes de criptofichas referenciadas a ativos invistam uma parte da reserva de ativos nos termos do artigo 38.º, descrever em pormenor a política de investimento e incluir uma avaliação do modo como essa política de investimento pode afetar o valor da reserva de ativos;
+
+- g) Descrever o procedimento de aquisição de criptofichas referenciadas a ativos e de reembolso dessas criptofichas contra a reserva de ativos, e enumerar as pessoas ou categorias de pessoas com direito a fazê-lo.
+
+9. Sem prejuízo do artigo 34.º, n.º 12, os emitentes de criptofichas referenciadas a ativos devem assegurar, para efeitos de avaliação da conformidade com as normas estabelecidas pelo presente capítulo, a realização de uma auditoria independente da reserva de ativos de seis em seis meses, a partir da data da sua autorização nos termos do artigo 21.º ou a partir da data de aprovação do livrete do criptoativo nos termos do artigo 17.º.
+
+10. O emitente deve notificar os resultados da auditoria a que se refere o n.º 9 à autoridade competente sem demora, e o mais tardar seis semanas após a data de referência da avaliação. O emitente deve publicar o resultado da auditoria no prazo de duas semanas a contar da data de notificação à autoridade competente. A autoridade competente pode dar instruções a um emitente para adiar a publicação dos resultados da auditoria se:
+
+- a) O emitente tiver sido obrigado a aplicar um mecanismo ou medidas de recuperação, em conformidade com o artigo 46.º, n.º 3;
+
+- b) O emitente tiver sido obrigado a aplicar um plano de reembolso, em conformidade com o artigo 47.º;
+
+- c) Tal for considerado necessário para proteger os interesses económicos dos detentores da criptoficha referenciada a ativos;
+
+- d) Tal for considerado necessário para evitar um efeito prejudicial significativo no sistema financeiro do Estado-Membro de origem ou de outro Estado-Membro.
+
+11. A avaliação a preços de mercado a que se refere o n.º 7 do presente artigo é efetuada utilizando, sempre que possível, a avaliação ao preço do mercado, na aceção do artigo 2.º, ponto 8, do Regulamento (UE) 2017/1131 do Parlamento Europeu e do Conselho ([^12]).
+
+Aquando do recurso à avaliação a preços de mercado, o ativo de reserva é avaliado à cotação de compra ou de venda mais prudente, a não ser que seja possível encerrar a posição no ativo ao preço médio de mercado. Apenas podem ser utilizados dados de boa qualidade, os quais são avaliados com base nos seguintes elementos cumulativos:
+
+- a) O número e a qualidade das contrapartes;
+
+- b) O volume de vendas e o volume de negócios do ativo de reserva no mercado;
+
+- c) A dimensão da reserva de ativos.
+
+12. Caso não seja possível utilizar a avaliação ao preço do mercado referida no n.º 11 do presente artigo ou caso os dados de mercado não sejam de qualidade suficiente, o ativo de reserva é avaliado de forma prudente, utilizando-se a avaliação com recurso a um modelo, na aceção do artigo 2.º, ponto 9, do Regulamento (UE) 2017/1131.
+
+O modelo deve estimar corretamente o valor intrínseco do ativo de reserva, com base em todos os seguintes fatores fundamentais atualizados:
+
+- a) O volume de vendas e o volume de negócios desse ativo de reserva no mercado;
+
+- b) A dimensão da reserva de ativos;
+
+- c) O risco de mercado, o risco de taxa de juro e o risco de crédito associados ao ativo de reserva.
+
+Quando é utilizada a avaliação com recurso a um modelo, não pode ser utilizado o método do custo amortizado, tal como definido no artigo 2.º, ponto 10, do Regulamento (UE) 2017/1131.
+
+### Artigo 37.º — Custódia dos ativos de reserva
+
+1. Os emitentes de criptofichas referenciadas a ativos devem estabelecer, manter e aplicar políticas, procedimentos e disposições contratuais de custódia que assegurem a todo o tempo que:
+
+- a) Os ativos de reserva não sejam onerados nem penhorados no quadro de um «acordo de garantia financeira» conforme definido pelo artigo 2.º, n.º 1, alínea a), da Diretiva 2002/47/CE do Parlamento Europeu e do Conselho ([^13]);
+
+- b) Os ativos de reserva sejam detidos em custódia em conformidade com o n.º 6 do presente artigo;
+
+- c) Os emitentes de criptofichas referenciadas a ativos tenham acesso imediato aos ativos de reserva para satisfazer todos os pedidos de reembolso dos detentores de criptofichas referenciadas a ativos;
+
+- d) As concentrações de entidades de custódia dos ativos de reserva sejam evitadas;
+
+- e) O risco de concentração de ativos de reserva seja evitado.
+
+2. Os emitentes de criptofichas referenciadas a ativos que emitam duas ou mais criptofichas referenciadas a ativos na União devem dispor de uma política de custódia para cada conjunto de reserva de ativos. Os diferentes emitentes de criptofichas referenciadas a ativos que tenham emitido a mesma criptoficha referenciada a ativos devem operar e manter uma política única de custódia.
+
+3. Os ativos de reserva devem ser detidos em custódia o mais tardar cinco dias úteis após a data de emissão da criptoficha referenciadas a ativos por uma ou mais das seguintes entidades:
+
+- a) Um prestador de serviços de criptoativos que preste serviços de custódia e administração de criptoativos em nome de clientes, caso os ativos de reserva assumam a forma de criptoativos;
+
+- b) Uma instituição de crédito para todos os outros tipos de ativos de reserva;
+
+- c) Uma empresa de investimento que preste serviços auxiliares de custódia e administração de instrumentos financeiros por conta de clientes a que se refere o a secção B, ponto 1, do anexo I da Diretiva 2014/65/UE, sempre que os ativos de reserva assumam a forma de instrumentos financeiros.
+
+4. Os emitentes de criptofichas referenciadas a ativos devem atuar com a devida competência, zelo e diligência na seleção, nomeação e análise dos prestadores de serviços de criptoativos, das instituições de crédito e das empresas de investimento nomeados como entidades de custódia dos ativos de reserva nos termos do n.º 3. A entidade de custódia é uma pessoa coletiva diferente do emitente.
+
+Os emitentes de criptofichas referenciadas a ativos devem assegurar que os prestadores de serviços de criptoativos, as instituições de crédito e as empresas de investimento nomeados como entidades de custódia dos ativos de reserva a que se refere o n.º 3 disponham dos conhecimentos especializados e da reputação no mercado necessários para atuarem como entidades de custódia desses ativos de reserva, tendo em conta as práticas contabilísticas, os procedimentos de conservação e os mecanismos de controlo interno desses prestadores de serviços de criptoativos, dessas instituições de crédito e dessas empresas de investimento. As disposições contratuais acordadas entre os emitentes de criptofichas referenciadas a ativos e as entidades de custódia devem assegurar que os ativos de reserva detidos em custódia estejam protegidos contra os créditos dos credores dessas entidades.
+
+5. As políticas e os procedimentos de custódia referidos no n.º 1 devem estabelecer os critérios de seleção para a nomeação de prestadores de serviços de criptoativos, de instituições de crédito ou de empresas de investimento enquanto entidades de custódia dos ativos de reserva e o procedimento de revisão dessa nomeação.
+
+Os emitentes de criptofichas referenciadas a ativos devem rever regularmente a nomeação dos prestadores de serviços de criptoativos, das instituições de crédito ou das empresas de investimento enquanto entidades de custódia dos ativos de reserva. Para efeitos dessa revisão, os emitentes de criptofichas referenciadas a ativos devem avaliar as suas exposições a essas entidades de custódia, tendo em conta todo o âmbito da sua relação com as mesmas, e acompanhar permanentemente a situação financeira das entidades de custódia em causa.
+
+6. As entidades de custódia dos ativos de reserva nos termos do n.º 4 devem assegurar que a custódia desses ativos de reserva é efetuada do seguinte modo:
+
+- a) As instituições de crédito detêm fundos em custódia numa conta aberta na sua contabilidade;
+
+- b) Relativamente aos instrumentos financeiros que podem ser detidos em custódia, as instituições de crédito ou as empresas de investimento detêm em custódia todos os instrumentos financeiros que possam ser registados numa conta de instrumentos financeiros aberta na contabilidade das instituições de créditos ou das empresas de investimento e todos os instrumentos financeiros que lhes possam ser fisicamente entregues;
+
+- c) Relativamente aos criptoativos que podem ser detidos em custódia, os prestadores de serviços de criptoativos detêm em custódia os criptoativos incluídos nos ativos de reserva ou os meios de acesso a esses criptoativos, se aplicável, sob a forma de chaves criptográficas privadas;
+
+- d) Relativamente aos outros ativos, as instituições de crédito verificam a propriedade dos emitentes das criptofichas referenciadas a ativos e mantêm um registo dos ativos de reserva que considerem pertencer aos emitentes das criptofichas referenciadas a ativos.
+
+Para efeitos da alínea a) do primeiro parágrafo, as instituições de crédito devem assegurar que os fundos são registados na sua contabilidade numa conta separada, nos termos das disposições do direito nacional que transpõem o artigo 16.º da Diretiva 2006/73/CE da Comissão ([^14]) para o direito nacional. Essa conta deve ser aberta em nome do emitente da criptoficha referenciada a ativos para fins de gestão dos ativos de reserva de cada criptoficha referenciada a ativos, de modo a que os fundos detidos em custódia possam ser claramente identificados como pertencendo a cada reserva de ativos.
+
+Para efeitos da alínea b) do primeiro parágrafo, as instituições de crédito e as empresas de investimento devem assegurar que todos os instrumentos financeiros que podem ser registados numa conta de instrumentos financeiros aberta na contabilidade das instituições de crédito e na contabilidade das empresas de investimento sejam registados nas contabilidades das instituições de crédito e das empresas de investimento em contas separadas, nos termos das disposições do direito nacional que transpõem o artigo 16.º da Diretiva 2006/73/CE para o direito nacional. A conta de instrumentos financeiros deve ser aberta em nome dos emitentes das criptofichas referenciadas a ativos para fins de gestão dos ativos de reserva de cada criptoficha referenciada a ativos, de modo a que os instrumentos financeiros detidos em custódia possam ser claramente identificados como pertencendo a cada reserva de ativos.
+
+Para efeitos da alínea c) do primeiro parágrafo, os prestadores de serviços de criptoativos devem abrir um registo de posições em nome dos emitentes das criptofichas referenciadas a ativos para fins de gestão dos ativos de reserva de cada criptoficha referenciada a ativos, de modo a que os criptoativos detidos em custódia possam ser claramente identificados como pertencendo a cada reserva de ativos.
+
+Para efeitos da alínea d) do primeiro parágrafo, a avaliação da questão de saber se os emitentes das criptofichas referenciadas a ativos são proprietários dos ativos de reserva baseia-se em informações ou documentos disponibilizados pelos emitentes das criptofichas referenciadas a ativos e, quando possível, em elementos de prova externos.
+
+7. A nomeação de prestadores de serviços de criptoativos, de instituições de crédito ou de empresas de investimento como entidades de custódia dos ativos de reserva nos termos do n.º 4 do presente artigo deve ser comprovada por disposições contratuais escritas, conforme referido no artigo 34.º, n.º 5, segundo parágrafo. As disposições contratuais em causa regulam, nomeadamente, o fluxo das informações consideradas necessárias para permitir que os emitentes de criptofichas referenciadas a ativos e os prestadores de serviços de criptoativos, as instituições de crédito e as empresas de investimento desempenhem as suas funções enquanto entidades de custódia.
+
+8. Os prestadores de serviços de criptoativos, as instituições de crédito e as empresas de investimento nomeados como entidades de custódia nos termos do n.º 4 devem agir com honestidade, lealdade, profissionalismo e independência, e no interesse do emitente das criptofichas referenciadas a ativos e dos detentores das mesmas.
+
+9. Os prestadores de serviços de criptoativos, as instituições de crédito e as empresas de investimento nomeados como entidades de custódia nos termos do n.º 4 não podem, relativamente aos emitentes de criptofichas referenciadas a ativos, exercer atividades suscetíveis de criar conflitos de interesses entre esses emitentes, os detentores das criptofichas referenciadas a ativos e eles próprios, a menos que todas as seguintes condições estejam preenchidas:
+
+- a) Os prestadores de serviços de criptoativos, as instituições de crédito ou as empresas de investimento separaram funcional e hierarquicamente o desempenho das suas funções de custódia de outras funções que possam entrar em conflito com as mesmas;
+
+- b) Os potenciais conflitos de interesses foram devidamente identificados, acompanhados, geridos e comunicados pelo emitente das criptofichas referenciadas a ativos aos detentores das criptofichas referenciadas a ativos, em conformidade com o artigo 32.º.
+
+10. Em caso de perda de um instrumento financeiro ou de um criptoativo detido em custódia nos termos do n.º 6, o prestador de serviços de criptoativos, a instituição de crédito ou a empresa de investimento que tenha perdido esse instrumento financeiro ou criptoativo deve, sem demora injustificada, indemnizar o emitente da criptoficha referenciada a ativos ou restituir-lhe um instrumento financeiro ou um criptoativo de tipo idêntico ou de valor correspondente. O prestador de serviços de criptoativos, a instituição de crédito ou a empresa de investimento em causa não pode ser obrigado a indemnização ou restituição se puder provar que a perda ocorreu devido a um acontecimento externo que escapa ao seu controlo razoável e com consequências inevitáveis apesar de todos os esforços razoáveis em contrário.
+
+### Artigo 38.º — Investimento da reserva de ativos
+
+1. Os emitentes de criptofichas referenciadas a ativos que invistam uma parte da reserva de ativos só podem investir esses ativos em instrumentos financeiros de elevada liquidez com um risco de mercado, um risco de crédito e um risco de concentração mínimos. Os investimentos devem poder ser rapidamente liquidados com consequências adversas mínimas sobre os preços.
+
+2. As unidades de participação num organismo de investimento coletivo em valores mobiliários (OICVM) são consideradas ativos com um risco mínimo de mercado, de crédito e de concentração para efeitos do n.º 1, quando esse OICVM invista exclusivamente em ativos especificados pela EBA nos termos do n.º 5 e caso o emitente da criptoficha referenciada a ativos assegure que a reserva de ativos é investida de uma forma que minimiza o risco de concentração.
+
+3. Os instrumentos financeiros em que a reserva de ativos é investida são detidos em custódia em conformidade com o artigo 37.º.
+
+4. Todos os lucros ou perdas, incluindo flutuações no valor dos instrumentos financeiros referidos no n.º 1, e quaisquer riscos operacionais ou de contraparte resultantes do investimento da reserva de ativos são assumidos pelo emitente da criptoficha referenciada a ativos.
+
+5. A EBA, em cooperação com a ESMA e o BCE, elabora projetos de normas técnicas de regulamentação que especifiquem os instrumentos financeiros que podem ser considerados de elevada liquidez e com um risco de mercado, um risco de crédito e um risco de concentração mínimos, conforme referido no n.º 1. Ao especificar esses instrumentos financeiros, a EBA tem em conta:
+
+- a) Os vários tipos de ativos a que uma criptoficha referenciada a ativos pode ser referenciada;
+
+- b) A correlação entre os ativos referenciados pela criptoficha referenciada a ativos e os instrumentos financeiros de elevada liquidez em que o emitente possa investir;
+
+- c) O requisito de cobertura de liquidez a que se refere o artigo 412.º do Regulamento (UE) n.º 575/2013 e conforme especificado com maior pormenor no Regulamento Delegado (UE) 2015/61 da Comissão ([^15]);
+
+- d) Restrições à concentração que impeçam o emitente de:
+
+  - i) investir mais do que uma determinada percentagem de ativos de reserva em instrumentos de elevada liquidez com risco de mercado, risco de crédito e risco de concentração mínimos emitidos por uma única entidade,
+
+  - ii) deter em custódia mais do que uma determinada percentagem dos criptoativos ou ativos junto de prestadores de serviços de criptoativos ou instituições de crédito que pertençam ao mesmo grupo, na aceção do artigo 2.º, ponto 11, da Diretiva 2013/34/UE do Parlamento Europeu e do Conselho ([^16]), ou empresas de investimento.
+
+Para efeitos da alínea d), subalínea i) do primeiro parágrafo, a EBA estabelece limites adequados para definir os requisitos em matéria de concentração. Os limites em causa devem, nomeadamente, ter em conta os limiares pertinentes estabelecidos no artigo 52.º da Diretiva 2009/65/CE.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 39.º — Direito de reembolso
+
+1. Os detentores de criptofichas referenciadas a ativos têm, a todo o tempo, um direito de reembolso sobre os emitentes das criptofichas referenciadas a ativos e no que respeita aos ativos de reserva, caso os emitentes não estejam em condições de cumprir as suas obrigações referidas no capítulo 6 do presente título. Os emitentes devem estabelecer, manter e aplicar políticas e procedimentos claros e pormenorizados relativamente a esse direito de reembolso permanente.
+
+2. A pedido de um detentor de uma criptoficha referenciada a ativos, um emitente dessa criptoficha deve proceder ao reembolso ou mediante o pagamento, em fundos que não sejam moeda eletrónica, de um montante equivalente ao valor de mercado dos ativos referenciados pelas criptofichas referenciadas a ativos detidas, ou mediante a entrega dos ativos referenciados pelas criptofichas. Os emitentes definem uma política relativa a esse direito de reembolso permanente estabelecendo:
+
+- a) As condições, incluindo limiares, períodos e prazos, para que os detentores das criptofichas referenciadas a ativos exerçam esse direito de reembolso;
+
+- b) Os mecanismos e procedimentos destinados a assegurar o reembolso das criptofichas referenciadas a ativos, incluindo em circunstâncias de tensão do mercado, bem como no contexto da execução do plano de recuperação estabelecido no artigo 46.º ou em caso de reembolso ordenado de criptofichas referenciadas a ativos nos termos do artigo 47.º;
+
+- c) A avaliação, ou os princípios da avaliação, das criptofichas referenciadas a ativos e dos ativos de reserva quando o direito de reembolso for exercido pelo detentor das criptofichas referenciadas a ativos, nomeadamente com recurso ao método de avaliação estabelecido no artigo 36.º, n.º 11;
+
+- d) As modalidades da liquidação do reembolso; e
+
+- e) As medidas que os emitentes tomam para gerir de forma adequada os aumentos ou diminuições da reserva de ativos, a fim de evitar quaisquer impactos adversos no mercado dos ativos de reserva.
+
+Caso o emitente, ao vender uma criptoficha referenciada a ativos, aceite um pagamento em fundos que não seja em moeda eletrónica, denominado numa moeda oficial, deve sempre prever a possibilidade de reembolso da criptoficha em fundos denominados na mesma moeda oficial.
+
+3. Sem prejuízo do disposto no artigo 46.º, o reembolso de criptofichas referenciadas a ativos não está sujeito a qualquer taxa.
+
+### Artigo 40.º — Proibição de pagamento de juros
+
+1. Os emitentes de criptofichas referenciadas a ativos não podem pagar juros relativamente a criptofichas referenciadas a ativos.
+
+2. Os prestadores de serviços de criptoativos não podem pagar juros quando prestem serviços de criptoativos relacionados com criptofichas referenciadas a ativos.
+
+3. Para efeitos dos n.ºs 1 e 2, toda e qualquer remuneração ou outro benefício relacionado com o período de tempo durante o qual o detentor de criptofichas referenciadas a ativos detém essas criptofichas referenciadas a ativos é considerado juro. Tal inclui a compensação ou descontos líquidos com um efeito equivalente a juros recebidos pelo detentor de criptofichas referenciadas a ativos, diretamente do emitente ou de terceiros, e diretamente associados às criptofichas referenciadas a ativos, ou através da remuneração ou da fixação de preços de outros produtos.
+
+## CAPÍTULO 4 — Aquisições de emitentes de criptofichas referenciadas a ativos
+
+### Artigo 41.º — Avaliação das aquisições potenciais de emitentes de criptofichas referenciadas a ativos
+
+1. Qualquer pessoa singular ou coletiva que, individualmente ou em concertação, pretenda adquirir, direta ou indiretamente (os «potenciais adquirentes»), uma participação qualificada num emitente de uma criptoficha referenciada a ativos, ou aumentar, direta ou indiretamente, uma tal participação qualificada, de modo que a sua percentagem de direitos de voto ou de participação no capital atinja ou ultrapasse os limiares de 20 %, 30 % ou 50 % ou que o emitente da criptoficha referenciada a ativos passe a ser sua filial, devem notificar desse facto, por escrito, a autoridade competente do emitente, indicando a dimensão da participação pretendida e as informações exigidas pelas normas técnicas de regulamentação adotadas pela Comissão em conformidade com o artigo 42.º, n.º 4.
+
+2. As pessoas singulares ou coletivas que tenham tomado a decisão de alienar, direta ou indiretamente, uma participação qualificada num emitente de uma criptoficha referenciada a ativos devem, antes da alienação dessa participação, notificar por escrito a autoridade competente dessa decisão e indicar a dimensão da participação em causa. Essas pessoas devem também notificar a autoridade competente se decidirem diminuir a sua participação qualificada de tal modo que a sua percentagem dos direitos de voto ou da participação no capital passe a ser inferior aos limiares de 10 %, 20 %, 30 % ou 50 %, ou que o emitente da criptoficha referenciada a ativos deixe de ser sua filial.
+
+3. A autoridade competente deve acusar por escrito a receção de uma notificação nos termos do n.º 1, com a maior brevidade e em qualquer caso no prazo de dois dias úteis a contar da data de receção.
+
+4. A autoridade competente avalia a aquisição potencial a que se refere o n.º 1 do presente artigo e as informações exigidas pelas normas técnicas de regulamentação adotadas pela Comissão nos termos do artigo 42.º, n.º 4, no prazo de 60 dias úteis a contar da data do aviso de receção a que se refere o n.º 3 do presente artigo. Ao acusar a receção da notificação, a autoridade competente informa o potencial adquirente da data em que termina o prazo de avaliação.
+
+5. Ao efetuar a avaliação a que se refere o n.º 4, a autoridade competente pode solicitar ao potencial adquirente quaisquer informações adicionais que sejam necessárias para a conclusão dessa avaliação. Esse pedido é efetuado antes da finalização da avaliação e, em qualquer caso, no prazo máximo de 50 dias úteis a contar da data do aviso de receção a que se refere o n.º 3. Estes pedidos devem ser apresentados por escrito e especificar as informações adicionais necessárias.
+
+A autoridade competente suspende o prazo de avaliação a que se refere o n.º 4 até ter recebido as informações adicionais mencionadas no primeiro parágrafo do presente número. A suspensão não pode ser superior a 20 dias úteis. Quaisquer outros eventuais pedidos de informações adicionais ou de esclarecimento das informações recebidas por parte da autoridade competente não podem dar lugar a uma suspensão adicional do prazo de avaliação.
+
+A autoridade competente pode prorrogar a suspensão a que se refere o segundo parágrafo do presente número por um máximo de 30 dias úteis se o potencial adquirente estiver estabelecido fora da União ou se for regulado pelo direito de um país terceiro.
+
+6. A autoridade competente que, após a conclusão da avaliação a que se refere o n.º 4, decida opor-se à aquisição potencial a que se refere o n.º 1 notifica o potencial adquirente dessa oposição no prazo de dois dias úteis e em qualquer caso antes da data mencionada no n.º 4 prorrogada, se aplicável, nos termos do n.º 5, segundo e terceiro parágrafos. A notificação deve apresentar os motivos de tal decisão.
+
+7. Caso a autoridade competente não se oponha à aquisição potencial a que se refere o n.º 1 antes da data mencionada no n.º 4, prorrogada, se aplicável, nos termos do n.º 5, segundo e terceiro parágrafos, a aquisição potencial será considerada aprovada.
+
+8. A autoridade competente pode fixar um prazo máximo para a conclusão da aquisição potencial a que se refere o n.º 1 e prorrogar esse prazo máximo, se for caso disso.
+
+### Artigo 42.º — Teor da avaliação das aquisições potenciais de emitentes de criptofichas referenciadas a ativos
+
+1. Ao realizar a avaliação a que se refere o artigo 41.º, n.º 4, a autoridade competente avalia a aptidão do potencial adquirente e a solidez financeira da aquisição potencial a que se refere o artigo 41.º, n.º 1, tendo em conta todos os seguintes critérios:
+
+- a) A idoneidade do potencial adquirente;
+
+- b) A idoneidade, os conhecimentos, as competências e a experiência das pessoas que administrarão a atividade do emitente da criptoficha referenciada a ativos em resultado da aquisição potencial;
+
+- c) A solidez financeira do potencial adquirente, designadamente em função do tipo de atividade a exercer e exercida no que se refere ao emitente da criptoficha referenciada a ativos que é objeto da aquisição potencial;
+
+- d) A capacidade do emitente da criptoficha referenciada a ativos para cumprir de forma continuada as disposições do presente título;
+
+- e) A existência de motivos razoáveis para suspeitar que, em ligação com a aquisição potencial, estão a ser ou foram cometidos ou tentados atos de branqueamento de capitais ou de financiamento do terrorismo na aceção, respetivamente, do artigo 1.º, n.ºs 3 e 5, da Diretiva (UE) 2015/849 ou que a aquisição potencial poderá aumentar esse risco.
+
+2. A autoridade competente só pode opor-se à aquisição potencial se para tanto existirem motivos razoáveis, com base nos critérios enunciados no n.º 1 do presente artigo, ou se as informações prestadas nos termos do artigo 41.º, n.º 4, forem incompletas ou falsas.
+
+3. Os Estados-Membros não podem impor quaisquer condições prévias quanto ao nível da participação qualificada que é necessário adquirir nos termos do presente regulamento, nem permitir que as suas autoridades competentes apreciem a aquisição proposta em termos das necessidades económicas do mercado.
+
+4. A EBA, em estreita colaboração com a ESMA, elabora projetos de normas técnicas de regulamentação que especifiquem o conteúdo pormenorizado das informações necessárias para a realização da avaliação a que se refere o artigo 41.º, n.º 4, primeiro parágrafo. As informações exigidas devem ser relevantes para uma avaliação prudencial, bem como proporcionais e adaptadas à natureza do potencial adquirente e da aquisição potencial a que se refere o artigo 41.º, n.º 1.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+## CAPÍTULO 5 — Criptofichas referenciadas a ativos significativas
+
+### Artigo 43.º — Classificação de criptofichas referenciadas a ativos como significativas
+
+1. Os critérios para classificar uma criptoficha referenciada a ativos como criptoficha referenciada a ativos significativa são, conforme especificado mais pormenorizadamente nos atos delegados adotados nos termos do n.º 11, os seguintes:
+
+- a) O número de detentores da criptoficha referenciada a ativos ser superior a 10 milhões;
+
+- b) O valor da criptoficha referenciada a ativos emitidas, a sua capitalização bolsista ou a dimensão da reserva de ativos do emitente da criptoficha referenciada a ativos ser superior a 5 000 000 000 EUR;
+
+- c) A média do número e do valor agregado das transações diárias dessa criptoficha referenciadas a ativos durante o período relevantes ser superior a 2,5 milhões de transações e 500 000 000 EUR, respetivamente;
+
+- d) O emitente da criptoficha referenciada a ativos ser um prestador de serviços essenciais de plataforma designado como um controlador de acesso nos termos do Regulamento (UE) 2022/1925 do Parlamento Europeu e do Conselho ([^17]);
+
+- e) A importância das atividades do emitente da criptoficha referenciada a ativos à escala internacional, incluindo a utilização da criptoficha referenciada a ativos para pagamentos e remessas;
+
+- f) A interconectividade da criptoficha referenciada a ativos ou do seu emitente com o sistema financeiro;
+
+- g) O facto de o mesmo emitente emitir pelo menos mais uma criptoficha referenciada a ativos ou criptoficha de moeda eletrónica adicional e prestar pelo menos um serviço de criptoativos.
+
+2. A EBA classifica as criptofichas referenciadas a ativos como significativas quando pelo menos três dos critérios previstos no n.º 1 do presente artigo estiverem preenchidos:
+
+- a) Durante o período abrangido pela primeira comunicação de informações a que se refere o n.º 4 do presente artigo, após a autorização nos termos do artigo 21.º ou após a aprovação do livrete do criptoativo nos termos do artigo 17.º; ou
+
+- b) Durante o período abrangido por pelo menos duas comunicações de informações consecutivas a que se refere o n.º 4 do presente artigo.
+
+3. Caso vários emitentes emitam a mesma criptoficha referenciada a ativos, o cumprimento dos critérios referidos no n.º 1 é avaliado após agregação dos dados de todos esses emitentes.
+
+4. As autoridades competentes do Estado-Membro de origem do emitente comunicam à EBA e ao BCE, pelo menos duas vezes por ano, as informações relevantes para a avaliação do cumprimento dos critérios previstos no n.º 1 do presente artigo, incluindo informações recebidas ao abrigo do artigo 22.º.
+
+Se o emitente estiver estabelecido num Estado-Membro cuja moeda oficial não seja o euro, ou se uma moeda oficial de um Estado-Membro que não seja o euro for referenciada pela criptoficha referenciada a ativos, as autoridades competentes também transmitem as informações a que se refere o primeiro parágrafo ao banco central do Estado-Membro em causa.
+
+5. Caso a EBA conclua que uma criptoficha referenciada a ativos preenche os critérios estabelecidos no n.º 1, em conformidade com o n.º 2, prepara um projeto de decisão para classificar a criptoficha referenciada a ativos como sendo significativa e notifica esse projeto de decisão ao emitente da criptoficha referenciada a ativos em causa, à autoridade competente do Estado-Membro de origem do emitente, ao BCE e, nos casos referidos no n.º 4, segundo parágrafo, ao banco central do Estado-Membro em causa.
+
+Os emitentes dessas criptofichas referenciadas a ativos, as respetivas autoridades competentes, o BCE e, se for o caso, o banco central do Estado-Membro em causa, dispõem de um prazo de 20 dias úteis a contar da data de notificação do projeto de decisão da EBA para apresentarem por escrito as suas observações e comentários. A EBA deve ter devidamente em conta essas observações e comentários antes de tomar uma decisão final.
+
+6. A EBA toma a sua decisão final sobre se uma criptoficha referenciada a ativos deve ser classificada como significativa no prazo de 60 dias úteis a contar da data de notificação a que se refere o n.º 5 e notifica de imediato essa decisão aos emitentes dessa criptoficha referenciada a ativos e à respetiva autoridade competente.
+
+7. Caso uma criptoficha referenciada a ativos tenha sido classificada como significativa nos termos de uma decisão da EBA tomada em conformidade com o n.º 6, as responsabilidades de supervisão em relação ao emitente dessa criptoficha referenciada a ativos significativa são transferidas da autoridade competente do Estado-Membro de origem do emitente para a EBA no prazo de 20 dias úteis a contar da data de notificação dessa decisão.
+
+A EBA e a autoridade competente devem cooperar entre si a fim de assegurar a transição harmoniosa das competências de supervisão.
+
+8. A EBA reavalia anualmente a classificação das criptofichas referenciadas a ativos significativas com base nas informações disponíveis, incluindo as comunicações de informação a que se refere o n.º 4 ou a informação recebida ao abrigo do artigo 22.º.
+
+Caso a EBA conclua que uma determinada criptoficha referenciada a ativos deixou de preencher os critérios estabelecidos no n.º 1, nos termos do n.º 2, a EBA prepara um projeto de decisão para que as criptofichas referenciadas a ativos deixem de ser classificadas como significativas e notifica desse projeto de decisão os emitentes das criptofichas referenciadas a ativos em causa, a autoridade competente do respetivo Estado-Membro de origem, o BCE e, nos casos referidos no n.º 4, segundo parágrafo, o banco central do Estado-Membro em causa.
+
+Os emitentes dessas criptofichas referenciadas a ativos, as respetivas autoridades competentes, o BCE e o banco central a que se refere o n.º 4 dispõem de um prazo de 20 dias úteis a contar da data de notificação do projeto de decisão para apresentarem, por escrito, as suas observações e comentários. A EBA deve ter devidamente em conta essas observações e comentários antes de tomar uma decisão final.
+
+9. A EBA toma a sua decisão final sobre se uma criptoficha referenciada a ativos deixa de ser considerada significativa no prazo de 60 dias úteis a contar da data de notificação a que se refere o n.º 8 e notifica de imediato essa decisão ao emitente dessas criptofichas referenciadas a ativos e à respetiva autoridade competente.
+
+10. Caso uma criptoficha referenciada a ativos deixe de ser classificada como significativa nos termos de uma decisão da EBA tomada em conformidade com o n.º 9, as responsabilidades de supervisão em relação ao emitente dessa criptoficha referenciada a ativos são transferidas da EBA para a autoridade competente do Estado-Membro de origem do emitente no prazo de 20 dias úteis a contar da data de notificação dessa decisão.
+
+A EBA e a autoridade competente cooperam entre si, a fim de assegurar a transição harmoniosa das competências de supervisão.
+
+11. A Comissão adota atos delegados nos termos do artigo 139.º, a fim de completar o presente regulamento com a especificação mais pormenorizada dos critérios estabelecidos no n.º 1 para que uma criptoficha referenciada a ativos seja classificada como significativa e de determinar:
+
+- a) As circunstâncias em que as atividades do emitente da criptoficha referenciada a ativos são consideradas significativas à escala internacional, fora da União;
+
+- b) As circunstâncias em que as criptofichas referenciadas a ativos e os respetivos emitentes são considerados como estando interligados com o sistema financeiro;
+
+- c) O conteúdo e o formato das informações facultadas pelas autoridades competentes à EBA e ao BCE nos termos do n.º 4 do presente artigo e do artigo 56.º, n.º 3.
+
+### Artigo 44.º — Classificação voluntária das criptofichas referenciadas a ativos como significativas
+
+1. Os emitentes de criptofichas referenciadas a ativos requerentes podem indicar no seu pedido de autorização nos termos do artigo 18.º, ou na sua notificação nos termos do artigo 17.º, que pretendem que as suas criptofichas referenciadas a ativos sejam classificadas como criptofichas referenciadas a ativos significativas. Nesse caso, a autoridade competente notifica de imediato esse pedido do emitente requerente à EBA, ao BCE e, nos casos referidos no artigo 43.º, n.º 4, ao banco central do Estado-Membro em causa.
+
+Para que uma criptoficha referenciada a ativos seja classificada como significativa nos termos do presente artigo, o emitente requerente da criptoficha referenciada a ativos deve demonstrar, através de um programa de atividades detalhado a que se referem o artigo 17.º, n.º 1, alínea b), subalínea i), e o artigo 18.º, n.º 2, alínea d), que é provável que venha a preencher pelo menos três dos critérios previstos no artigo 43.º, n.º 1.
+
+2. No prazo de 20 dias úteis a contar da notificação a que se refere o n.º 1 do presente artigo, a EBA elabora um projeto de decisão em que indica, com base no programa de atividades, o seu entendimento sobre se a criptoficha referenciada a ativos preenche ou é provável que preencha pelo menos três dos critérios previstos no artigo 43.º, n.º 1, e notifica esse projeto de decisão à autoridade competente do Estado-Membro de origem do emitente requerente, ao BCE e, nos casos referidos no artigo 43.º, n.º 4, segundo parágrafo, ao banco central do Estado-Membro em causa.
+
+As autoridades competentes dos emitentes dessa criptoficha referenciada a ativos, o BCE e, quando aplicável, o banco central do Estado-Membro em causa, dispõem de um prazo de 20 dias úteis a contar da data de notificação do projeto de decisão para apresentarem, por escrito, as suas observações e comentários. A EBA deve ter devidamente em conta essas observações e comentários antes de tomar uma decisão final.
+
+3. A EBA deve tomar a sua decisão final de classificar uma criptoficha referenciada a ativos como significativa ou não no prazo de 60 dias úteis a contar da notificação a que se refere o n.º 1 e notifica de imediato essa decisão ao emitente requerente dessa criptoficha referenciada a ativos e à respetiva autoridade competente.
+
+4. Se as criptofichas referenciadas a ativos tiverem sido classificadas como significativas nos termos de uma decisão da EBA tomada em conformidade com o n.º 3 do presente artigo, as responsabilidades de supervisão em relação aos emitentes dessas criptofichas referenciadas a ativos são transferidas da autoridade competente para a EBA, na data da decisão pela qual a autoridade competente concede a autorização a que se refere o artigo 21.º, n.º 1, ou na data de aprovação do livrete do criptoativo nos termos do artigo 17.º.
+
+### Artigo 45.º — Obrigações adicionais específicas dos emitentes de criptofichas referenciadas a ativos significativas
+
+1. Os emitentes de criptofichas referenciadas a ativos significativas devem adotar, aplicar e manter uma política de remunerações que promova uma gestão de riscos sólida e eficaz desses emitentes e que não crie incentivos a padrões de risco menos exigentes.
+
+2. Os emitentes de criptofichas referenciadas a ativos significativas devem assegurar que estas possam ser detidas em custódia por diferentes prestadores de serviços de criptoativos autorizados para a custódia e administração de criptoativos em nome de clientes, inclusive por prestadores de serviços de criptoativos que não pertençam ao mesmo grupo, na aceção do artigo 2.º, n.º 11, da Diretiva 2013/34/UE, numa base equitativa, razoável e não discriminatória.
+
+3. Os emitentes de criptofichas referenciadas a ativos significativas devem avaliar e vigiar as necessidades de liquidez para dar resposta aos pedidos de reembolso de criptofichas referenciadas a ativos por parte dos seus detentores. Para o efeito, os emitentes de criptofichas referenciadas a ativos significativas devem estabelecer, manter e aplicar uma política e procedimentos de gestão da liquidez. Essa política e esses procedimentos devem assegurar que os ativos de reserva tenham um perfil de liquidez resiliente, que permita ao emitente de criptofichas referenciadas a ativos significativas continuar a funcionar normalmente, inclusive em cenários de esforço de liquidez.
+
+▼C1
+
+4. Os emitentes de criptofichas referenciadas a ativos significativas devem realizar regularmente testes de esforço de liquidez. Em função do resultado desses testes, a EBA pode decidir reforçar os requisitos de liquidez a que se refere o n.º 7, primeiro parágrafo, alínea b), do presente artigo e o artigo 36.º, n.º 4.
+
+▼B
+
+Caso o emitente de criptofichas referenciadas a ativos significativas ofereça duas ou mais criptofichas referenciadas a ativos ou preste serviços de criptoativos, esses testes de esforço devem abarcar todas essas atividades de forma abrangente e holística.
+
+5. A percentagem referida no artigo 35.º, n.º 1, primeiro parágrafo, alínea b), deve ser fixada em 3 % do montante médio dos ativos de reserva para os emitentes de criptofichas referenciadas a ativos significativas.
+
+6. Caso vários emitentes ofereçam a mesma criptoficha referenciada a ativos significativa, os n.ºs 1 a 5 aplicam-se a cada um desses emitentes.
+
+Caso um emitente ofereça duas ou mais criptofichas referenciadas a ativos na União e pelo menos uma dessas criptofichas referenciadas a ativos for classificada como significativa, os n.ºs 1 a 5 aplicam-se ao emitente em causa.
+
+7. A EBA, em estreita cooperação com a ESMA, elabora projetos de normas técnicas de regulamentação que especifiquem:
+
+- a) O teor mínimo dos mecanismos de governação aplicáveis à política de remuneração a que se refere o n.º 1;
+
+- b) O teor mínimo da política e dos procedimentos de gestão da liquidez, conforme estabelecido no n.º 3, e requisitos de liquidez, nomeadamente especificando o montante mínimo dos depósitos em cada uma das moedas oficiais referenciadas, que não pode ser inferior a 60 % do montante referenciado em cada moeda oficial;
+
+- c) O procedimento e o calendário para que um emitente de uma criptoficha referenciada a ativos significativa adapte o montante dos seus fundos próprios conforme exigido no n.º 5.
+
+Quando se tratar de instituições de crédito, a EBA calibra as normas técnicas tendo em conta as possíveis interações entre os requisitos regulamentares estabelecidos pelo presente regulamento e os requisitos regulamentares estabelecidos por outros atos legislativos da União.
+
+A EBA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+8. A EBA, em estreita cooperação com a ESMA e o BCE, emite orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1093/2010 com vista ao estabelecimento dos parâmetros de referência comuns para os cenários dos testes de esforço a incluir nos testes de esforço a que se refere o n.º 4 do presente artigo. Essas orientações são regularmente atualizadas, tendo em conta a mais recente evolução do mercado.
+
+## CAPÍTULO 6 — Planos de recuperação e de reembolso
+
+### Artigo 46.º — Plano de recuperação
+
+1. Um emitente de uma criptoficha referenciada a ativos deve elaborar e manter um plano de recuperação que preveja medidas a tomar pelo emitente para restabelecer a conformidade com os requisitos aplicáveis à reserva de ativos sempre que o emitente não cumpra esses requisitos.
+
+O plano de recuperação deve incluir também a preservação dos serviços do emitente relacionados com a criptoficha referenciada a ativos emitida, a recuperação atempada das operações e o cumprimento das obrigações do emitente em situações que colocam um risco significativo de perturbar as operações.
+
+O plano de recuperação deve compreender condições e procedimentos adequados para assegurar a execução atempada das medidas de recuperação, bem como uma vasta gama de opções de recuperação, incluindo:
+
+- a) Comissões de liquidez sobre os reembolsos;
+
+- b) Limites aplicáveis ao montante da criptoficha referenciada a ativos que pode ser reembolsado em qualquer dia útil;
+
+- c) Suspensão dos reembolsos.
+
+2. O emitente da criptoficha referenciada a ativos deve notificar à autoridade competente o plano de recuperação no prazo de seis meses a contar da data de autorização nos termos do artigo 21.º ou no prazo de seis meses a contar da data de aprovação do livrete do criptoativo nos termos do artigo 17.º. A autoridade competente requer a introdução de alterações ao plano de recuperação sempre que tal seja necessário para assegurar a sua correta execução e comunica ao emitente a sua decisão no sentido de solicitar essas alterações no prazo de 40 dias úteis a contar da data de notificação do plano em questão. Essa decisão é implementada pelo emitente no prazo de 40 dias úteis a contar da data de notificação da mesma. O emitente revê e atualiza regularmente o plano de recuperação.
+
+Se for caso disso, o emitente também notifica o plano de recuperação às suas próprias autoridades de resolução e de supervisão prudencial, paralelamente à sua notificação à autoridade competente.
+
+3. Caso o emitente não cumpra os requisitos aplicáveis à reserva de ativos a que se refere o capítulo 3 do presente título ou, devido a uma situação financeira em rápida deterioração, esteja em risco de não cumprir esses requisitos num futuro próximo, a autoridade competente, a fim de assegurar a conformidade com os requisitos aplicáveis, tem poderes para exigir que o emitente aplique um ou mais dos mecanismos ou medidas previstos no plano de recuperação, ou que atualize esse plano de recuperação quando as circunstâncias forem diferentes dos pressupostos estabelecidos no plano de recuperação inicial e que ponha em prática um ou mais dos mecanismos ou medidas previstos no plano de recuperação atualizado dentro de um determinado período de tempo.
+
+4. Nas circunstâncias a que se refere o n.º 3, a autoridade competente tem poderes para, temporariamente, suspender o reembolso de criptofichas referenciadas a ativos, desde que a suspensão seja justificada tendo em conta os interesses dos detentores de criptofichas referenciadas a ativos e a estabilidade financeira.
+
+5. Se for caso disso, a autoridade competente notifica as autoridades de resolução e de supervisão prudencial do emitente de qualquer medida tomada nos termos dos n.ºs 3 e 4.
+
+6. A EBA, após consulta da ESMA, emite orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1093/2010 para especificar o formato do plano de recuperação e as informações a incluir no plano de recuperação.
+
+### Artigo 47.º — Plano de reembolso
+
+1. Um emitente de uma criptoficha referenciada a ativos deve elaborar e manter um plano operacional de apoio ao reembolso ordenado de cada criptoficha referenciada a ativos, a executar com base numa decisão da autoridade competente, em que esta estabeleça que o emitente não tem, ou está em risco de não ter, a capacidade para cumprir as suas obrigações, nomeadamente em caso de insolvência ou, se for caso disso, de resolução, ou em caso de revogação da autorização do emitente, sem prejuízo do lançamento de medidas de prevenção de crises ou de medidas de gestão de crises na aceção do artigo 2.º, n.º 1, pontos 101 e 102, respetivamente, da Diretiva 2014/59/UE ou de medidas de resolução na aceção do artigo 2.º, ponto 11, do Regulamento (UE) 2021/23 do Parlamento Europeu e do Conselho ([^18]).
+
+2. O plano de reembolso deve demonstrar a capacidade do emitente da criptoficha referenciada a ativos para proceder ao reembolso da criptoficha referenciada a ativos emitida sem causar prejuízos económicos indevidos aos seus detentores ou à estabilidade dos mercados dos ativos de reserva.
+
+O plano de reembolso deve incluir disposições contratuais, procedimentos e sistemas, nomeadamente a designação de um administrador temporário, em conformidade com o direito aplicável, para assegurar o tratamento equitativo de todos os detentores de criptofichas referenciadas a ativos e para que os detentores de criptofichas referenciadas a ativos sejam pagos em tempo útil com as receitas da venda dos restantes ativos de reserva.
+
+O plano de reembolso deve assegurar a continuidade das atividades críticas realizadas pelos emitentes, ou por qualquer entidade terceira, que sejam necessárias para o reembolso ordenado.
+
+3. O emitente da criptoficha referenciada a ativos notifica o plano de reembolso à autoridade competente no prazo de seis meses a contar da data de autorização nos termos do artigo 21.º ou no prazo de seis meses a contar da data de aprovação do livrete do criptoativo nos termos do artigo 17.º. A autoridade competente requer a introdução de alterações ao plano de reembolso sempre que tal seja necessário para assegurar a sua correta execução e comunica ao emitente a sua decisão no sentido de solicitar essas alterações no prazo de 40 dias úteis a contar da data de notificação do plano em questão. Essa decisão é implementada pelo emitente no prazo de 40 dias úteis a contar da data de notificação da mesma. O emitente revê e atualiza regularmente o plano de reembolso.
+
+4. Se for caso disso, a autoridade competente notifica a autoridade de resolução e a autoridade de supervisão prudencial do emitente do plano de reembolso.
+
+A autoridade de resolução pode analisar o plano de reembolso a fim de identificar as medidas nele constantes suscetíveis de afetar negativamente a resolubilidade do emitente, e pode fazer recomendações à autoridade competente a esse respeito.
+
+5. A EBA emite orientações nos termos do artigo 16.º do Regulamento (UE) n.º 1093/2010 para especificar:
+
+- a) O teor do plano de reembolso e a periodicidade da revisão, tendo em conta a dimensão, a complexidade e a natureza da criptoficha referenciada a ativos e tendo em conta o modelo de negócio do emitente em causa; e
+
+- b) As condições que levam à execução do plano de reembolso.
+
+## TÍTULO IV — CRIPTOFICHAS DE MOEDA ELETRÓNICA
+
+## CAPÍTULO 1 — Requisitos a preencher por todos os emitentes de criptofichas de moeda eletrónica
+
+### Artigo 48.º — Requisitos para a oferta pública ou admissão à negociação de criptofichas de moeda eletrónica
+
+1. Uma pessoa não pode, na União, fazer uma oferta pública ou solicitar a admissão à negociação de uma criptoficha de moeda eletrónica, a menos que a pessoa em causa seja o emitente dessa criptoficha de moeda eletrónica e:
+
+- a) Esteja autorizada como instituição de crédito ou como instituição de moeda eletrónica; e
+
+- b) Tenha notificado um livrete do criptoativo à autoridade competente e o tenha publicado em conformidade com o artigo 51.º.
+
+Não obstante o disposto no primeiro parágrafo, mediante consentimento escrito do emitente, outras pessoas podem proceder a uma oferta pública de criptofichas de moeda eletrónica ou solicitar a admissão à negociação das mesmas. As pessoas em causa devem cumprir o disposto nos artigos 50.º e 53.º.
+
+2. As criptofichas de moeda eletrónica são consideradas moeda eletrónica.
+
+Uma criptoficha de moeda eletrónica cujo valor de referência seja uma moeda oficial de um Estado-Membro é considerada como sendo objeto de uma oferta pública na União.
+
+3. Salvo disposição em contrário no presente título, aplicam-se às criptofichas de moeda eletrónica os títulos II e III da Diretiva 2009/110/CE.
+
+4. O n.º 1 do presente artigo não se aplica aos emitentes de criptofichas de moeda eletrónica isentos em conformidade com o artigo 9.º, n.º 1, da Diretiva 2009/110/CE.
+
+5. O presente título, à exceção do n.º 7 do presente artigo e do artigo 51.º, não se aplica relativamente a criptofichas de moeda eletrónica isentas nos termos do artigo 1.º, n.ºs 4 e 5 da Diretiva 2009/110/CE.
+
+6. Os emitentes de criptofichas de moeda eletrónica devem notificar à sua autoridade competente, pelo menos 40 dias úteis antes da data em que pretendem fazer uma oferta pública dessas criptofichas de moeda eletrónica ou solicitar a sua admissão à negociação, essa sua intenção.
+
+7. Quando se apliquem os n.ºs 4 e 5, os emitentes de criptofichas de moeda eletrónica devem redigir um livrete do criptoativo e notificar a autoridade competente desse livrete do criptoativo em conformidade com o artigo 51.º.
+
+### Artigo 49.º — Emissão e caráter reembolsável das criptofichas de moeda eletrónica
+
+1. Em derrogação do disposto no artigo 11.º da Diretiva 2009/110/CE, no que respeita à emissão e ao caráter reembolsável das criptofichas de moeda eletrónica, apenas os requisitos estabelecidos no presente artigo são aplicáveis aos emitentes de criptofichas de moeda eletrónica.
+
+2. Os detentores de criptofichas de moeda eletrónica têm direito de crédito sobre os emitentes dessas criptofichas de moeda eletrónica.
+
+3. Os emitentes de criptofichas de moeda eletrónica devem emitir criptofichas de moeda eletrónica pelo valor nominal aquando da receção de fundos.
+
+4. A pedido de um detentor de uma criptoficha de moeda eletrónica, o emitente dessa criptoficha de moeda eletrónica deve reembolsá-la, em qualquer momento e pelo valor nominal, mediante o pagamento, ao detentor da criptoficha de moeda eletrónica, do valor monetário da criptoficha de moeda eletrónica detida, em fundos que não sejam moeda eletrónica.
+
+5. Os emitentes de criptofichas de moeda eletrónica devem dar destaque às condições de reembolso no livrete do criptoativo, como referido no artigo 51.º, n.º 1, primeiro parágrafo, alínea d).
+
+6. Sem prejuízo do disposto no artigo 46.º, o reembolso de criptofichas de moeda eletrónica não está sujeito a qualquer taxa.
+
+### Artigo 50.º — Proibição de pagamento de juros
+
+1. Não obstante o disposto no artigo 12.º da Diretiva 2009/110/CE, os emitentes de criptofichas de moeda eletrónica não podem pagar juros relativamente a criptofichas de moeda eletrónica.
+
+2. Os prestadores de serviços de criptoativos não podem pagar juros quando prestam serviços de criptoativos relacionados com criptofichas de moeda eletrónica.
+
+3. Para efeitos dos n.ºs 1 e 2, toda e qualquer remuneração ou outro benefício relacionado com o período de tempo durante o qual o detentor de uma criptoficha de moeda eletrónica detém essa criptoficha de moeda eletrónica é considerado juro. Tal inclui a compensação ou descontos líquidos com um efeito equivalente a juros recebidos pelo detentor da criptoficha de moeda eletrónica, diretamente do emitente ou de terceiros, e diretamente associados à criptoficha de moeda eletrónica, ou através da remuneração ou da fixação de preços de outros produtos.
+
+### Artigo 51.º — Conteúdo e forma do livrete do criptoativo para criptofichas de moeda eletrónica
+
+1. O livrete do criptoativo para uma criptoficha de moeda eletrónica deve incluir todas as seguintes informações, conforme especificado com maior pormenor no anexo III:
+
+- a) Informação sobre o emitente da criptoficha de moeda eletrónica;
+
+- b) Informação sobre a criptoficha de moeda eletrónica;
+
+- c) Informação sobre a oferta pública da criptoficha de moeda eletrónica ou sobre a sua admissão à negociação;
+
+- d) Informação sobre os direitos e obrigações associados à criptoficha de moeda eletrónica;
+
+- e) Informação sobre a tecnologia subjacente;
+
+- f) Informação sobre os riscos;
+
+- g) Informação sobre os principais impactos negativos no clima e outros impactos negativos relacionados com o ambiente do mecanismo de consenso utilizado para emitir a criptoficha de moeda eletrónica.
+
+O livrete do criptoativo deve também incluir a identidade da pessoa que não seja o emitente que procede à oferta pública da criptoficha de moeda eletrónica ou solicita a sua admissão à negociação nos termos do artigo 48.º, n.º 1, segundo parágrafo, bem como a razão pela qual essa pessoa em particular oferece essa criptoficha de moeda eletrónica ou solicita a sua admissão à negociação.
+
+2. Todas as informações enumeradas no n.º 1 devem ser corretas, claras e não induzir em erro. O livrete do criptoativo não deve conter omissões materiais e deve ser apresentado de forma concisa e compreensível.
+
+3. O livrete do criptoativo deve conter na primeira página a seguinte declaração clara e com destaque:
+
+«Este livrete do criptoativo não foi revisto nem aprovado por nenhuma autoridade competente de nenhum Estado-Membro da União Europeia. O conteúdo deste livrete do criptoativo é da exclusiva responsabilidade do emitente do criptoativo.».
+
+4. O livrete do criptoativo deve conter um aviso claro indicando que:
+
+- a) A criptoficha de moeda eletrónica não está abrangida pelos sistemas de indemnização dos investidores previstos na Diretiva 97/9/CE;
+
+- b) A criptoficha de moeda eletrónica não está abrangida pelos sistemas de garantia de depósitos previstos na Diretiva 2014/49/UE.
+
+5. O livrete do criptoativo deve incluir uma declaração do órgão de administração do emitente da criptoficha de moeda eletrónica. Essa declaração, a inserir a seguir à declaração a que se refere o n.º 3, deve confirmar que o livrete do criptoativo cumpre os requisitos do presente título e que, tanto quanto é do conhecimento do órgão de administração, a informação apresentada no livrete do criptoativo é completa, correta, clara e não induz em erro e que o livrete do criptoativo não contém omissões suscetíveis de afetar o seu alcance.
+
+6. O livrete do criptoativo deve conter um resumo, inserido após a declaração a que se refere o n.º 5, que deve prestar, em linguagem sucinta e não técnica, informação fundamental sobre a oferta pública da criptoficha de moeda eletrónica ou a admissão à negociação da criptoficha de moeda eletrónica prevista. O resumo deve ser facilmente inteligível e apresentado num formato claro e compreensível, com recurso a caracteres de tamanho legível. O resumo do livrete do criptoativo deve facultar informação apropriada sobre as características dos criptoativos em questão, de molde a permitir que os potenciais detentores dos criptoativos tomem uma decisão informada.
+
+O resumo deve conter um aviso indicando que:
+
+- a) Deve ser entendido como uma introdução ao livrete do criptoativo;
+
+- b) O potencial detentor deve basear toda e qualquer decisão de compra do criptoficha de moeda eletrónica no conteúdo da totalidade do livrete do criptoativo e não apenas no resumo;
+
+- c) A oferta pública da criptoficha de moeda eletrónica não constitui uma oferta nem uma solicitação para comprar instrumentos financeiros, e que qualquer oferta ou solicitação nesse sentido só pode ser feita através de um prospeto ou de outros documentos relativos à oferta nos termos do direito nacional aplicável;
+
+- d) O livrete do criptoativo não constitui um prospeto na aceção do Regulamento (UE) 2017/1129, nem outro documento relativo à oferta nos termos do direito da União ou do direito nacional.
+
+O resumo deve indicar que os detentores da criptoficha de moeda eletrónica têm, em qualquer momento, um direito de reembolso pelo valor nominal, bem como as condições de reembolso.
+
+7. O livrete do criptoativo deve incluir a data da sua notificação e um índice.
+
+8. O livrete do criptoativo deve ser redigido numa língua oficial do Estado-Membro de origem ou numa língua habitual no sector financeiro internacional.
+
+Caso a criptoficha de moeda eletrónica também seja oferecida num Estado-Membro diferente do Estado-Membro de origem, o livrete do criptoativo é igualmente redigido numa língua oficial do Estado-Membro de acolhimento ou numa língua de uso corrente no sector financeiro internacional.
+
+9. O livrete do criptoativo é disponibilizado num formato legível por máquina.
+
+10. A ESMA, em cooperação com a EBA, elabora projetos de normas técnicas de execução para criar formulários, formatos e modelos normalizados para efeitos do n.º 9.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número em conformidade com o artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+11. Os emitentes de criptofichas de moeda eletrónica notificam à sua autoridade competente o seu livrete do criptoativo pelo menos 20 dias úteis antes da data da sua publicação.
+
+As autoridades competentes não exigem que os livretes do criptoativo sejam aprovados antes da sua publicação.
+
+12. Qualquer novo facto significativo, erro ou inexatidão material suscetíveis de afetar a avaliação da criptoficha de moeda eletrónica devem ser descritos num livrete do criptoativo modificado, redigido pelos emitentes, notificado às autoridades competentes e publicado nos sítios Web dos emitentes.
+
+13. Antes de oferecer a criptoficha de moeda eletrónica ao público na União ou de solicitar a admissão à negociação dessa criptoficha de moeda eletrónica, o emitente dessa criptoficha de moeda eletrónica deve publicar um livrete do criptoativo no seu sítio Web.
+
+14. O emitente da criptoficha de moeda eletrónica deve, juntamente com a notificação do livrete do criptoativo nos termos do n.º 11 do presente artigo, facultar à autoridade competente a informação a que se refere o artigo 109.º, n.º 4. A autoridade competente comunica à ESMA, no prazo de cinco dias úteis a contar da receção das informações do emitente, as informações elencadas no artigo 109.º, n.º 4.
+
+A autoridade competente também comunica à ESMA qualquer livrete do criptoativo modificado e qualquer revogação da autorização do emitente da criptoficha de moeda eletrónica.
+
+A ESMA disponibiliza essas informações no registo ao abrigo do artigo 109.º, n.º 4, na data de início da oferta pública ou da admissão à negociação, ou, no caso de um livrete do criptoativo modificado ou da revogação da autorização, sem demora injustificada.
+
+15. A ESMA, em cooperação com a EBA, elabora projetos de normas técnicas de regulamentação sobre o conteúdo, as metodologias e a apresentação das informações a que se refere o n.º 1, alínea g), no que diz respeito aos indicadores de sustentabilidade relacionados com os impactos negativos no clima e outros impactos negativos relacionados com o ambiente.
+
+Ao elaborar os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo, a ESMA tem em conta os vários tipos de mecanismos de consenso utilizados para validar as transações de criptoativos, as suas estruturas de incentivo e a utilização de energia, energias renováveis e recursos naturais, bem como a produção de resíduos e as emissões de gases com efeito de estufa. A ESMA atualiza as normas técnicas de regulamentação à luz da evolução regulamentar e tecnológica.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 52.º — Responsabilidade dos emitentes de criptofichas de moeda eletrónica pela informação incluída num livrete do criptoativo
+
+1. Caso um emitente de uma criptoficha de moeda eletrónica tenha infringido o artigo 51.º, ao facultar, no seu livrete do criptoativo ou num livrete do criptoativo modificado, informação que não é completa, não é correta, não é clara ou que induz em erro, esse emitente e os membros do seu órgão de administração, direção ou supervisão são responsáveis perante o detentor dessa criptoficha de moeda eletrónica pelas perdas sofridas devido a essa infração.
+
+2. Toda e qualquer exclusão ou limitação contratual da responsabilidade civil a que se refere o n.º 1 não produz efeitos jurídicos.
+
+3. Cabe aos detentores da criptoficha de moeda eletrónica apresentarem provas que indiquem que o emitente dessa criptoficha de moeda eletrónica infringiu o artigo 51.º ao prestar, no seu livrete do criptoativo ou num livrete do criptoativo modificado, informação que não é completa, não é correta, não é clara ou que induz em erro e que o recurso a essa informação teve um impacto na decisão do detentor de comprar, vender ou trocar essa criptoficha de moeda eletrónica.
+
+4. O emitente e os membros dos seus órgãos de administração, de direção ou de supervisão não são responsáveis pelas perdas sofridas em resultado da confiança depositada na informação facultada num resumo nos termos do artigo 51.º, n.º 6, nomeadamente em traduções dessa informação, salvo se o resumo:
+
+- a) Quando lido em conjunto com as outras partes do livrete do criptoativo, induzir em erro, for inexato ou incoerente; ou
+
+- b) Quando, lido em conjunto com as outras partes do livrete do criptoativo, não prestar a informação fundamental para ajudar os potenciais detentores a decidirem se devem adquirir essas criptofichas de moeda eletrónica.
+
+5. O presente artigo não prejudica qualquer outra responsabilidade civil prevista no direito nacional.
+
+### Artigo 53.º — Comunicações comerciais
+
+1. As comunicações comerciais relativas a uma oferta pública de uma criptoficha de moeda eletrónica ou relativas à admissão à negociação dessa criptoficha de moeda eletrónica devem cumprir todos os seguintes requisitos:
+
+- a) As comunicações comerciais são claramente identificáveis como tal;
+
+- b) A informação incluída nas comunicações comerciais é correta, clara e não induz em erro;
+
+- c) A informação incluída nas comunicações comerciais é coerente com a informação incluída no livrete do criptoativo;
+
+- d) As comunicações comerciais mencionam claramente que foi publicado um livrete do criptoativo e indicam claramente o endereço do sítio Web do emitente da criptoficha de moeda eletrónica, bem como um número de telefone e um endereço de correio eletrónico para contactar o emitente.
+
+2. As comunicações comerciais incluem uma declaração clara e inequívoca no sentido de que todos os detentores da criptoficha de moeda eletrónica têm um direito de reembolso a qualquer momento, pelo valor nominal, sobre o emitente.
+
+3. As comunicações comerciais e quaisquer versões modificadas dessas comunicações comerciais devem ser publicadas no sítio Web do emitente.
+
+4. As autoridades competentes não podem exigir uma aprovação prévia das comunicações comerciais antes da sua publicação.
+
+5. As comunicações comerciais são, a pedido, transmitidas às autoridades competentes.
+
+6. Nenhuma comunicação comercial pode ser divulgada antes da publicação do livrete do criptoativo. Esta restrição não afeta a capacidade do emitente da criptoficha de moeda eletrónica para realizar sondagens de mercado.
+
+### Artigo 54.º — Investimento de fundos recebidos em troca de criptofichas de moeda eletrónica
+
+Os fundos recebidos pelos emitentes de criptofichas de moeda eletrónica em troca de criptofichas de moeda eletrónica e garantidos em conformidade com o artigo 7.º, n.º 1, da Diretiva 2009/110/CE devem cumprir os seguintes requisitos:
+
+- a) Pelo menos 30 % dos fundos recebidos estão sempre depositados em contas separadas junto de instituições de crédito;
+
+- b) Os fundos recebidos remanescentes são investidos em ativos seguros e de baixo risco que sejam considerados instrumentos financeiros de elevada liquidez com risco de mercado, risco de crédito e risco de concentração mínimos, em conformidade com o artigo 38.º, n.º 1, do presente regulamento, e que sejam denominados na mesma moeda oficial que a referenciada pela criptoficha de moeda eletrónica.
+
+### Artigo 55.º — Planos de recuperação e de reembolso
+
+O capítulo 6 do título III aplica-se, com as devidas adaptações, aos emitentes de criptofichas de moeda eletrónica.
+
+Em derrogação do disposto no artigo 46.º, n.º 2, a data até à qual o plano de recuperação deve ser notificado à autoridade competente deve, no que diz respeito aos emitentes de criptofichas de moeda eletrónica, ocorrer no prazo de seis meses a contar da data da oferta pública ou da admissão à negociação.
+
+Em derrogação do disposto no artigo 47.º, n.º 3, a data até à qual o plano de reembolso deve ser notificado à autoridade competente deve, no que diz respeito aos emitentes de criptofichas de moeda eletrónica, ocorrer no prazo de seis meses a contar da data da oferta pública ou da admissão à negociação.
+
+## CAPÍTULO 2 — Criptofichas de moeda eletrónica significativas
+
+### Artigo 56.º — Classificação de criptofichas de moeda eletrónica como significativas
+
+1. A EBA classifica criptofichas de moeda eletrónica como criptofichas de moeda eletrónica significativas quando pelo menos três dos critérios previstos no artigo 43.º, n.º 1, estiverem preenchidos:
+
+- a) Durante o período abrangido pela primeira comunicação de informação a que se refere o n.º 3 do presente artigo após a oferta pública ou o pedido de admissão à negociação dessas criptofichas; ou
+
+- b) Durante o período abrangido por pelo menos duas comunicações de informação consecutivas a que se refere o n.º 3 do presente artigo.
+
+2. Caso vários emitentes emitam a mesma criptoficha de moeda eletrónica, o preenchimento dos critérios previstos no artigo 43.º, n.º 1, é avaliado após agregação dos dados de todos esses emitentes.
+
+3. As autoridades competentes do Estado-Membro de origem do emitente comunicam à EBA e ao BCE as informações relevantes para a avaliação do preenchimento dos critérios previstos no artigo 43.º, n.º 1, incluindo, se aplicável, as informações recebidas ao abrigo do artigo 22.º, pelo menos duas vezes por ano.
+
+Se o emitente estiver estabelecido num Estado-Membro cuja moeda oficial não seja o euro, ou se uma moeda oficial de um Estado-Membro que não seja o euro for referenciada pela criptoficha de moeda eletrónica, as autoridades competentes também transmitem as informações a que se refere o primeiro parágrafo ao banco central do Estado-Membro em causa.
+
+4. Caso a EBA conclua que uma criptoficha de moeda eletrónica preenche os critérios estabelecidos no artigo 43.º, n.º 1, em conformidade com o n.º 1 do presente artigo, prepara um projeto de decisão para classificar a criptoficha de moeda eletrónica como significativa e notifica esse projeto de decisão ao emitente da criptoficha de moeda eletrónica, à autoridade competente do Estado-Membro de origem do emitente, ao BCE e, nos casos referidos no n.º 3, segundo parágrafo, do presente artigo, ao banco central do Estado-Membro em causa.
+
+Os emitentes dessas criptofichas de moeda eletrónica, as respetivas autoridades competentes, o BCE e, quando aplicável, o banco central do Estado-Membro em causa dispõem de 20 dias úteis a contar da data de notificação do projeto de decisão para apresentarem, por escrito, as suas observações e comentários. A EBA deve ter devidamente em conta essas observações e comentários antes de tomar uma decisão final.
+
+5. A EBA toma a sua decisão final sobre se uma criptoficha de moeda eletrónica deve ser classificada como significativa no prazo de 60 dias úteis a contar da data de notificação a que se refere o n.º 4 e notifica de imediato essa decisão aos emitentes dessa criptoficha de moeda eletrónica e às respetivas autoridades competentes.
+
+6. Caso uma criptoficha de moeda eletrónica tenha sido classificada como significativa nos termos de uma decisão da EBA tomada em conformidade com o n.º 5, as responsabilidades de supervisão em relação ao emitente dessa criptoficha de moeda eletrónica são transferidas da autoridade competente do Estado-Membro de origem do emitente para a EBA em conformidade com o artigo 117.º, n.º 4.º, no prazo de 20 dias úteis a contar da data de notificação dessa decisão.
+
+A EBA e a autoridade competente devem cooperar a fim de garantir uma transição harmoniosa das competências de supervisão.
+
+7. Em derrogação do disposto no n.º 6, não são transferidas para a EBA as responsabilidades de supervisão em relação aos emitentes de criptofichas de moeda eletrónica significativas denominadas numa moeda oficial de um Estado-Membro que não seja o euro, caso pelo menos 80 % do número de detentores e do volume de transações dessas criptofichas de moeda eletrónica significativas esteja concentrado no Estado-Membro de origem.
+
+A autoridade competente do Estado-Membro de origem do emitente faculta à EBA anualmente informações sobre todos os casos em que se aplique a derrogação a que se refere o primeiro parágrafo.
+
+Para efeitos do primeiro parágrafo, considera-se que uma transação tem lugar no Estado-Membro de origem quando o ordenante ou o beneficiário está estabelecido no Estado-Membro em causa.
+
+8. A EBA reavalia anualmente a classificação das criptofichas de moeda eletrónica significativas, com base na informação disponível, incluindo as comunicações de informação a que se refere o n.º 3 do presente artigo ou a informação recebida nos termos do artigo 22.º.
+
+Caso a EBA conclua que uma determinada criptoficha de moeda eletrónica deixou de preencher os critérios estabelecidos no artigo 43.º, n.º 1, nos termos do n.º 1 do presente artigo, a EBA prepara um projeto de decisão para deixar de classificar a criptoficha de moeda eletrónica como significativa e notifica esse projeto de decisão aos emitentes dessas criptofichas de moeda eletrónica, à autoridade competente do Estado-Membro de origem do emitente, ao BCE e, nos casos referidos no n.º 3, segundo parágrafo, do presente artigo, ao banco central do Estado-Membro em causa.
+
+Os emitentes dessas criptofichas de moeda eletrónica, as respetivas autoridades competentes, o BCE e o banco central do Estado-Membro em causa dispõem de 20 dias úteis a contar da data de notificação desse projeto de decisão para apresentarem, por escrito, as suas observações e comentários. A EBA deve ter devidamente em conta essas observações e comentários antes de tomar a decisão final.
+
+9. A EBA toma a sua decisão final sobre se uma criptoficha de moeda eletrónica deixa de ser considerada como significativa no prazo de 60 dias úteis a contar da data de notificação a que se refere o n.º 8 e notifica de imediato essa decisão ao emitente dessa criptoficha de moeda eletrónica e à respetiva autoridade competente.
+
+10. Caso uma criptoficha de moeda eletrónica deixe de ser classificada como significativa nos termos de uma decisão da EBA tomada em conformidade com o n.º 9, as responsabilidades de supervisão em relação ao emitente dessa criptoficha de moeda eletrónica são transferidas da EBA para a autoridade competente do Estado-Membro de origem do emitente no prazo de 20 dias úteis a contar da data de notificação dessa decisão.
+
+A EBA e a autoridade competente devem cooperar a fim de assegurar a transição harmoniosa das competências de supervisão.
+
+### Artigo 57.º — Classificação voluntária de criptofichas de moeda eletrónica como significativas
+
+1. Um emitente de uma criptoficha de moeda eletrónica, autorizado enquanto instituição de crédito ou instituição de moeda eletrónica, ou que solicite essa autorização, pode indicar que pretende classificar a respetiva criptoficha de moeda eletrónica como significativa. Nesse caso, a autoridade competente deve notificar de imediato a EBA, o BCE e, nos casos referidos no artigo 56.º, n.º 3, segundo parágrafo, o banco central do Estado-Membro em causa de um tal pedido.
+
+Para que a criptoficha de moeda eletrónica seja classificada como significativa nos termos do presente artigo, o emitente da criptoficha de moeda eletrónica deve demonstrar, através de um programa de atividades detalhado, que é provável que venha a preencher pelo menos três dos critérios estabelecidos no artigo 43.º, n.º 1.
+
+2. No prazo de 20 dias úteis a contar da data de notificação a que se refere o n.º 1 do presente artigo, a EBA elabora um projeto de decisão contendo o seu entendimento, com base no programa de atividades do emitente, sobre se a criptoficha de moeda eletrónica preenche ou se é provável que preencha pelo menos três dos critérios estabelecidos no artigo 43.º, n.º 1, e notifica esse projeto de decisão à autoridade competente do Estado-Membro de origem do emitente, ao BCE e, nos casos referidos no artigo 56.º, n.º 3, segundo parágrafo, ao banco central do Estado-Membro em causa.
+
+As autoridades competentes dos emitentes dessas criptofichas de moeda eletrónica, o BCE e, se for o caso, o banco central do Estado-Membro em causa dispõem de 20 dias úteis a contar da data de notificação do projeto de decisão para apresentarem, por escrito, as suas observações e comentários. A EBA deve ter devidamente em conta essas observações e comentários antes de tomar a decisão final.
+
+3. A EBA toma a sua decisão final sobre se uma criptoficha de moeda eletrónica deve ser classificada como significativa no prazo de 60 dias úteis a contar da data de notificação a que se refere o n.º 1 e notifica de imediato essa decisão ao emitente dessa criptoficha de moeda eletrónica e à respetiva autoridade competente.
+
+4. Caso uma criptoficha de moeda eletrónica tenha sido classificada como significativa nos termos de uma decisão da EBA tomada em conformidade com o n.º 3 do presente artigo, as responsabilidades de supervisão em relação aos emitentes dessas criptofichas de moeda eletrónica são transferidas da autoridade competente para a EBA, em conformidade com o artigo 117.º, n.º 4, no prazo de 20 dias úteis a contar da data de notificação dessa decisão.
+
+A EBA e as autoridades competentes devem cooperar a fim de assegurar a transição harmoniosa das competências de supervisão.
+
+5. Em derrogação do n.º 4, não são transferidas para a EBA as responsabilidades de supervisão em relação aos emitentes de criptofichas de moeda eletrónica significativas denominadas numa moeda oficial de um Estado-Membro diferente do euro, caso pelo menos 80 % do número de detentores e do volume de transações das criptofichas de tais moedas eletrónicas significativas se concentrem, ou seja de esperar que se concentrem, no Estado-Membro de origem.
+
+A autoridade competente do Estado-Membro de origem do emitente faculta à EBA anualmente informações sobre a aplicação da derrogação a que se refere o primeiro parágrafo.
+
+Para efeitos do primeiro parágrafo, considera-se que uma transação tem lugar no Estado-Membro de origem quando o ordenante ou o beneficiário estão estabelecidas nesse Estado-Membro.
+
+### Artigo 58.º — Obrigações adicionais específicas dos emitentes de criptofichas de moeda eletrónica
+
+1. As instituições de moeda eletrónica que emitem criptofichas de moeda eletrónica significativas estão sujeitas:
+
+- a) Aos requisitos referidos nos artigos 36.º, 37.º e 38.º e no artigo 45.º, n.ºs 1 a 4, do presente regulamento, em vez do artigo 7.º da Diretiva 2009/110/CE;
+
+- b) Aos requisitos referidos no artigo 35.º, n.ºs 2, 3 e 5 e no artigo 45.º, n.º 5, do presente regulamento, em vez do artigo 5.º da Diretiva 2009/110/CE.
+
+Em derrogação do disposto no artigo 36.º, n.º 9, a auditoria independente deve, no que diz respeito aos emitentes de criptofichas de moeda eletrónica significativas, ser mandatada de seis em seis meses a contar da data da decisão de classificar a criptoficha de moeda eletrónica como significativa nos termos dos artigos 56.º ou 57.º, consoante aplicável.
+
+2. As autoridades competentes dos Estados-Membros de origem podem exigir que as instituições de moeda eletrónica que emitem criptofichas de moeda eletrónica que não sejam significativas cumpram os requisitos a que se refere o n.º 1, se tal for necessário para fazer face aos riscos a que essas disposições visam dar resposta, tais como riscos de liquidez, riscos operacionais ou riscos decorrentes do incumprimento dos requisitos em matéria de gestão da reserva de ativos.
+
+3. Os artigos 22.º e 23.º e o artigo 24.º, n.º 3, aplicam-se às criptofichas de moeda eletrónica denominadas numa moeda que não seja uma moeda oficial de um Estado-Membro.
+
+## TÍTULO V — AUTORIZAÇÃO E CONDIÇÕES DE FUNCIONAMENTO PARA PRESTADORES DE SERVIÇOS DE CRIPTOATIVOS
+
+## CAPÍTULO 1 — Autorização de prestadores de serviços de criptoativos
+
+### Artigo 59.º — Autorização
+
+1. Uma pessoa não pode, na União, prestar serviços de criptoativos a menos que essa pessoa seja:
+
+- a) Uma pessoa coletiva ou outra empresa que tenha sido autorizada como prestador de serviços de criptoativos nos termos do artigo 63.º; ou
+
+- b) Uma instituição de crédito, uma central de valores mobiliários, uma empresa de investimento, um operador de mercado, uma instituição de moeda eletrónica, uma sociedade gestora de OICVM ou um gestor de um fundo de investimento alternativo autorizado a prestar serviços de criptoativos nos termos do artigo 60.º.
+
+2. Os prestadores de serviços de criptoativos que tenham sido autorizados nos termos do artigo 63.º devem ter sede social num Estado-Membro em que exerçam pelo menos parte da sua atividade de prestação de serviços de criptoativos. Devem ter o seu local de direção efetiva na União e pelo menos um dos membros do seu órgão de administração deve ser residente na União.
+
+3. Para efeitos do n.º 1, alínea a), outras empresas que não sejam pessoas coletivas só podem prestar serviços de criptoativos se a sua forma jurídica garantir um nível de proteção dos interesses de terceiros equivalente ao proporcionado pelas pessoas coletivas e se estiverem sujeitas a uma supervisão prudencial equivalente, adequada à sua forma jurídica.
+
+4. Os prestadores de serviços de criptoativos autorizados em conformidade com o artigo 63.º devem cumprir a todo o tempo as condições necessárias para a respetiva autorização.
+
+5. Uma pessoa que não seja um prestador de serviços de criptoativos autorizado não pode utilizar um nome ou uma firma ou emitir comunicações comerciais ou empreender qualquer outro processo que sugira que essa pessoa seja um prestador de serviços de criptoativos ou que possa criar confusão a esse respeito.
+
+6. As autoridades competentes que concedem autorizações em conformidade com o artigo 63.º devem assegurar que essas autorizações especificam os serviços de criptoativos que os prestadores de serviços de criptoativos estão autorizados a prestar.
+
+7. Os prestadores de serviços de criptoativos devem ser autorizados a prestar serviços de criptoativos em toda a União, quer através do direito de estabelecimento, incluindo através de uma sucursal, quer através da liberdade de prestação de serviços. Os prestadores de serviços de criptoativos que prestam serviços de criptoativos a nível transfronteiriço não são obrigados a ter presença física no território de um Estado-Membro de acolhimento.
+
+8. Os prestadores de serviços de criptoativos que procuram acrescentar serviços de criptoativos à sua autorização a que se refere o artigo 63.º devem pedir uma extensão da sua autorização às autoridades competentes que a concederam, complementando e atualizando as informações referidas no artigo 62.º. O pedido de extensão será processado nos termos do artigo 63.º.
+
+### Artigo 60.º — Prestação de serviços de criptoativos por determinadas entidades financeiras
+
+1. Uma instituição de crédito pode prestar serviços de criptoativos se notificar as informações referidas no n.º 7 à autoridade competente do seu Estado-Membro de origem pelo menos 40 dias úteis antes de prestar esses serviços pela primeira vez.
+
+2. Uma central de valores mobiliários autorizada ao abrigo do Regulamento (UE) n.º 909/2014 do Parlamento Europeu e do Conselho ([^19]) só pode proceder à custódia e administração de criptoativos em nome de clientes se notificar as informações referidas no n.º 7 do presente ao artigo à autoridade competente do Estado-Membro de origem pelo menos 40 dias úteis antes de prestar esses serviços pela primeira vez.
+
+Para efeitos do primeiro parágrafo do presente número, a custódia e administração de criptoativos em nome de clientes é considerada equivalente ao fornecimento, manutenção ou gestão de contas de valores mobiliários em relação com o serviço de liquidação a que se refere a secção B, ponto 3, do anexo do Regulamento (UE) n.º 909/2014.
+
+3. Uma empresa de investimento pode prestar, na União, serviços de criptoativos equivalentes aos serviços e atividades de investimento para as quais está especificamente autorizada ao abrigo da Diretiva 2014/65/UE se notificar as informações referidas no n.º 7 do presente artigo à autoridade competente do Estado-Membro de origem pelo menos 40 dias úteis antes de prestar esses serviços pela primeira vez.
+
+Para efeitos do presente número:
+
+- a) A custódia e administração de criptoativos em nome de clientes é considerada equivalente ao serviço auxiliar a que se refere a secção B, ponto 1, do anexo I da Diretiva 2014/65/UE;
+
+- b) A operação de uma plataforma de negociação de criptoativos é considerada equivalente à operação de um sistema de negociação multilateral e à operação de um sistema de negociação organizado a que se refere a secção A, pontos 8 e 9, respetivamente, do anexo I da Diretiva 2014/65/UE;
+
+- c) A troca de criptoativos por fundos e por outros criptoativos é considerada equivalente à negociação por conta própria a que se refere a secção A, ponto 3, do anexo I da Diretiva 2014/65/UE;
+
+- d) A execução de ordens relativas a criptoativos em nome de clientes é considerada equivalente à execução de ordens em nome de clientes a que se refere a secção A, ponto 2, do anexo I da Diretiva 2014/65/UE;
+
+- e) A colocação de criptoativos é considerada equivalente à tomada firme ou colocação de instrumentos financeiros com garantia e à colocação de instrumentos financeiros sem garantia a que se refere a secção A, pontos 6 e 7, respetivamente, do anexo I da Diretiva 2014/65/UE;
+
+- f) A receção e transmissão de ordens relativas a criptoativos em nome de clientes é considerada equivalente à receção e transmissão de ordens relativas a um ou mais instrumentos financeiros a que se refere a secção A, ponto 1, do anexo I da Diretiva 2014/65/UE;
+
+- g) A consultoria sobre criptoativos é considerada equivalente à consultoria para investimento a que se refere a secção A, ponto 5, do anexo I da Diretiva 2014/65/UE;
+
+- h) A prestação de serviços de gestão de criptoativos é considerada equivalente à gestão de carteiras a que se refere a secção A, ponto 4, do anexo I da Diretiva 2014/65/UE.
+
+4. Uma instituição de moeda eletrónica autorizada ao abrigo da Diretiva 2009/110/CE só pode proceder à custódia e administração de criptoativos em nome de clientes e prestar serviços de transferência de criptoativos em nome de clientes no que diz respeito às criptofichas de moeda eletrónica que emite se notificar as informações referidas no n.º 7 do presente artigo à autoridade competente do Estado-Membro de origem pelo menos 40 dias úteis antes de prestar esses serviços pela primeira vez.
+
+5. Uma sociedade gestora de OICVM ou um gestor de fundos de investimento alternativos pode prestar serviços de criptoativos equivalentes aos serviços de gestão de carteiras de investimento e a serviços acessórios para os quais está autorizada ao abrigo da Diretiva 2009/65/CE ou da Diretiva 2011/61/UE se notificar as informações referidas no n.º 7 do presente artigo à autoridade competente do Estado-Membro de origem pelo menos 40 dias úteis antes de prestar esses serviços pela primeira vez.
+
+Para efeitos do presente número:
+
+- a) A receção e transmissão de ordens relativas a criptoativos em nome de clientes é considerada equivalente à receção e transmissão de ordens relativas a um ou mais instrumentos financeiros a que se refere o artigo 6.º, n.º 4, alínea b), subalínea iii), da Diretiva 2011/61/UE;
+
+- b) A consultoria sobre criptoativos é considerada equivalente à consultoria para investimento a que se refere o artigo 6.º, n.º 4, alínea b), subalínea i), da Diretiva 2011/61/UE e o artigo 6.º, n.º 3, alínea b), subalínea i), da Diretiva 2009/65/CE;
+
+- c) A prestação de serviços de gestão de carteiras de criptoativos é considerada equivalente aos serviços a que se refere o artigo 6.º, n.º 4, alínea a), da Diretiva 2011/61/UE e o artigo 6.º, n.º 3, alínea a), da Diretiva 2009/65/CE.
+
+6. Um operador do mercado autorizado ao abrigo da Diretiva 2014/65/UE pode operar uma plataforma de negociação de criptoativos se notificar as informações referidas no n.º 7 do presente artigo à autoridade competente do Estado-Membro de origem pelo menos 40 dia úteis antes de prestar esses serviços pela primeira vez.
+
+7. Para efeitos dos n.ºs 1 a 6, as seguintes informações são objeto de notificação:
+
+- a) Um programa de atividades que indique os tipos de serviços de criptoativos que o prestador de serviços de criptoativos requerente pretende prestar, incluindo onde e como esses serviços serão comercializados;
+
+- b) Uma descrição:
+
+  - i) dos mecanismos de controlo interno, das políticas e dos procedimentos destinados a assegurar a conformidade com as disposições de direito nacional que transpõem a Diretiva (UE) 2015/849,
+
+  - ii) do quadro de avaliação do risco para a gestão dos riscos de branqueamento de capitais e de financiamento do terrorismo, e
+
+  - iii) do plano de continuidade das atividades;
+
+- c) A documentação técnica dos sistemas TIC e das disposições de segurança, bem como uma descrição da mesma em linguagem não técnica;
+
+- d) Uma descrição do procedimento de segregação dos criptoativos e dos fundos dos clientes;
+
+- e) Uma descrição da política de custódia e administração, caso haja intenção de proceder à custódia e administração de criptoativos em nome de clientes;
+
+- f) Uma descrição das regras de funcionamento da plataforma de negociação, bem como dos procedimentos e do sistema de deteção de abusos de mercado, caso haja intenção de operar uma plataforma de negociação para criptoativos;
+
+- g) Uma descrição da política comercial não discriminatória que rege a relação com os clientes, bem como uma descrição da metodologia para determinar o preço dos criptoativos que propõem para a troca por fundos ou por outros criptoativos, caso haja intenção de trocar criptoativos por fundos ou por outros criptoativos;
+
+- h) Uma descrição da política de execução, caso haja intenção de executar ordens sobre criptoativos em nome de clientes;
+
+- i) Uma prova de que as pessoas singulares que prestam aconselhamento em nome do prestador de serviços de criptoativos requerente ou que gerem carteiras em nome do prestador de serviços de criptoativos requerente dispõem dos conhecimentos e das competências necessários para o cumprimento das suas obrigações, caso haja intenção de prestar serviços de consultoria sobre criptoativos ou serviços de gestão de carteiras de criptoativos;
+
+- j) Indicação sobre se o serviço de criptoativos está relacionado com criptofichas referenciadas a ativos, criptofichas de moeda eletrónica ou outros criptoativos;
+
+- k) Informação sobre a forma como os serviços de transferência serão prestados, caso haja intenção de prestar serviços de transferência de criptoativos em nome de clientes.
+
+8. Uma autoridade competente que receba uma notificação a que se referem os n.ºs 1 a 6 verifica, no prazo de 20 dias úteis a contar da sua receção, se a informação exigida foi prestada na sua totalidade. Caso a autoridade competente conclua que uma notificação está incompleta, deve informar imediatamente a entidade notificante desse facto e fixar um prazo para a prestação da informação em falta.
+
+O prazo para a comunicação da informação em falta não pode exceder 20 dias úteis a contar da data do pedido. Até ao termo desse prazo, os prazos previstos nos n.ºs 1 a 6 ficam suspensos. Quaisquer outros pedidos da autoridade competente no sentido de completar ou clarificar as informações ficam ao critério dessa autoridade, mas não podem dar lugar à suspensão dos prazos previstos nos n.ºs 1 a 6.
+
+O prestador de serviços de criptoativos não pode dar início à prestação dos serviços de criptoativos enquanto a notificação estiver incompleta.
+
+9. As entidades a que se referem os n.ºs 1 a 6 não são obrigadas a apresentar à autoridade competente quaisquer informações a que se refere o n.º 7 que tenham previamente apresentado à autoridade competente nos casos em que essas informações se afigurassem idênticas. Ao apresentarem as informações a que se refere o n.º 7, as entidades a que se referem os n.ºs 1 a 6 devem declarar expressamente que qualquer informação anteriormente apresentada se mantém atualizada.
+
+10. Caso as entidades a que se referem os n.ºs 1 a 6 do presente artigo prestem serviços de criptoativos, não ficam sujeitas aos artigos 62.º, 63.º, 64.º, 67.º, 83.º e 84.º.
+
+11. O direito de prestar serviços de criptoativos a que se referem os n.ºs 1 a 6 do presente artigo é revogado no momento da revogação da autorização relevante que permitiu à respetiva entidade prestar os serviços de criptoativos sem ser obrigada a obter uma autorização nos termos do artigo 59.º.
+
+12. As autoridades competentes comunicam à ESMA as informações especificadas no artigo 109.º, n.º 5, depois de verificar se as informações a que se refere o n.º 7 estão completas.
+
+A ESMA torna essas informações disponíveis no registo a que se refere o artigo 109.º na data de início da pretendida prestação de serviços de criptoativos.
+
+13. A ESMA, em estreita cooperação com a EBA, elabora projetos de normas técnicas de regulamentação a fim de especificar com maior pormenor as informações a que se refere o n.º 7.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+14. A ESMA, em estreita cooperação com a EBA, elabora projetos de normas técnicas de execução para criar formulários, modelos e procedimentos normalizados para a notificação prevista no n.º 7.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número em conformidade com o artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 61.º — Prestação de serviços de criptoativos por iniciativa exclusiva do cliente
+
+1. Caso um cliente estabelecido ou situado na União dê início, por sua própria e exclusiva iniciativa, à prestação de um serviço ou atividade de criptoativos por uma empresa de um país terceiro, o pedido de autorização ao abrigo do artigo 59.º não se aplica à prestação, pela empresa do país terceiro, desse serviço ou atividade a esse cliente, nem a uma relação especificamente relacionada com a prestação desse serviço ou atividade de criptoativos.
+
+Sem prejuízo das relações intragrupo, caso uma empresa de um país terceiro, inclusive através de uma entidade que atue em seu nome ou que tenha uma relação estreita com essa empresa de um país terceiro ou com qualquer outra pessoa que atue em nome de tal entidade, angarie clientes ou potenciais clientes na União, independentemente do meio de comunicação utilizado para a angariação, promoção ou publicidade na União, o serviço não pode ser considerado um serviço prestado por iniciativa própria e exclusiva do cliente.
+
+O segundo parágrafo aplica-se não obstante o disposto em eventuais cláusulas contratuais ou de exoneração da responsabilidade que afirmem o contrário, nomeadamente cláusulas contratuais ou de exoneração da responsabilidade que afirmem que a prestação de serviços por uma empresa do país terceiro deve ser considerada uma prestação de serviços de criptoativos por iniciativa própria e exclusiva do cliente.
+
+2. A iniciativa própria e exclusiva de um cliente a que se refere o n.º 1 não confere à empresa de um país terceiro o direito de comercializar novos tipos de criptoativos ou serviços de criptoativos junto desse cliente.
+
+3. Até 30 de dezembro de 2024, a ESMA emite orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1095/2010 para especificar as situações em que se considera que uma empresa de um país terceiro angaria clientes estabelecidos ou situados na União.
+
+A fim de fomentar a convergência e promover uma supervisão coerente no que respeita ao risco de abuso do presente artigo, a ESMA emite igualmente orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1095/2010 sobre as práticas de supervisão para detetar e prevenir a evasão ao presente regulamento.
+
+### Artigo 62.º — Pedido de autorização como prestador de serviços de criptoativos
+
+1. As pessoas coletivas ou outras empresas que pretendam prestar serviços de criptoativos devem apresentar o seu pedido de autorização como prestador de serviços de criptoativos à autoridade competente do seu Estado-Membro de origem.
+
+2. O pedido a que se refere o n.º 1 deve incluir todas as seguintes informações:
+
+- a) O nome, incluindo a denominação jurídica e qualquer outra denominação comercial a utilizar, o identificador de entidade jurídica do prestador de serviços de criptoativos requerente, o endereço do sítio Web operado por esse prestador, um endereço de correio eletrónico de contacto, um contacto telefónico e o seu endereço físico;
+
+- b) A forma jurídica do prestador de serviços de criptoativos requerente;
+
+- c) Os estatutos do prestador de serviços de criptoativos requerente, quando aplicável;
+
+- d) Um programa de atividades que indique os tipos de serviços de criptoativos que o prestador de serviços de criptoativos requerente pretende prestar, incluindo onde e como esses serviços serão comercializados;
+
+- e) Prova de que o prestador de serviços de criptoativos requerente cumpre os requisitos em matéria de garantias prudenciais estabelecidos no artigo 67.º;
+
+- f) Uma descrição dos mecanismos de governação do prestador de serviços de criptoativos requerente;
+
+- g) Prova de que os membros do órgão de administração do prestador de serviços de criptoativos requerente têm idoneidade suficiente e possuem os conhecimentos, competências e experiência adequados para assumir a direção desse prestador;
+
+- h) A identidade dos acionistas e sócios, diretos ou indiretos, que detêm participações qualificadas no prestador de serviços de criptoativos requerente e o montante dessas participações, bem como a prova de que essas pessoas têm idoneidade suficiente;
+
+- i) Uma descrição dos mecanismos de controlo interno, das políticas e dos procedimentos para identificar, avaliar e gerir os riscos, nomeadamente de branqueamento de capitais e de financiamento do terrorismo, do prestador de serviços de criptoativos requerente, bem como do plano de continuidade das atividades;
+
+- j) A documentação técnica dos sistemas TIC e das disposições de segurança, bem como uma descrição da mesma em linguagem não técnica;
+
+- k) Uma descrição do procedimento de segregação dos criptoativos e dos fundos dos clientes;
+
+- l) Uma descrição dos procedimentos de tratamento das reclamações estabelecidos pelo prestador de serviços de criptoativos requerente;
+
+- m) Caso o prestador de serviços de criptoativos requerente pretenda proceder à custódia e administração de criptoativos em nome de clientes, uma descrição da política de custódia e de administração;
+
+- n) Caso o prestador de serviços de criptoativos requerente pretenda operar uma plataforma de negociação para criptoativos, uma descrição das regras de funcionamento da plataforma de negociação, bem como dos procedimentos e do sistema de deteção de abusos de mercado;
+
+- o) Caso o prestador de serviços de criptoativos requerente pretenda trocar criptoativos por fundos ou por outros criptoativos, uma descrição da política comercial, que não pode ser discriminatória, que rege a relação com os clientes, bem como uma descrição da metodologia para determinar o preço dos criptoativos que o prestador de serviços de criptoativos requerente propõe para troca por fundos ou por outros criptoativos;
+
+- p) Caso o prestador de serviços de criptoativos requerente pretenda executar ordens sobre criptoativos em nome de clientes, uma descrição da política de execução;
+
+- q) Caso o prestador de serviços de criptoativos requerente pretenda prestar consultoria sobre criptoativos ou serviços de gestão de carteiras de criptoativos, uma prova de que as pessoas singulares que prestam consultoria em nome do prestador de serviços de criptoativos requerente ou que gerem carteiras em nome do prestador de serviços de criptoativos requerente dispõem dos conhecimentos e das competências necessários para o cumprimento das suas obrigações;
+
+- r) Caso o prestador de serviços de criptoativos requerente pretenda prestar serviços de transferência de criptoativos em nome de clientes, informações sobre a forma como esses serviços de transferência serão prestados;
+
+- s) O tipo de criptoativo a que se refere o serviço de criptoativos.
+
+3. Para efeitos do n.º 2, alíneas g) e h), o prestador de serviços de criptoativos requerente apresenta comprovativos de todos os elementos que se seguem:
+
+- a) Para todos os membros do órgão de administração do prestador de serviços de criptoativos requerente, um registo criminal no qual não constam, e ausência de sanções impostas, por força do direito comercial aplicável, incluindo o direito da insolvência e a legislação relativa aos serviços financeiros, ou no que diz respeito à luta contra o branqueamento de capitais e o financiamento do terrorismo, à fraude ou à responsabilidade profissional;
+
+- b) Os membros do órgão de administração do prestador de serviços de criptoativos requerente possuem, no seu conjunto, os conhecimentos, competências e experiência adequados para assumir a administração do prestador de serviços de criptoativos, e de que essas pessoas são obrigadas a consagrar tempo suficiente ao desempenho das suas funções;
+
+- c) Para todos os acionistas ou sócios, diretos ou indiretos, que detenham participações qualificadas no prestador de serviços de criptoativos requerente, um registo criminal no qual não constem condenações, ou a ausência de sanções impostas, por força do direito comercial aplicável, incluindo o direito da insolvência e a legislação relativa aos serviços financeiros, ou no que diz respeito à luta contra o branqueamento de capitais e o financiamento do terrorismo, à fraude ou à responsabilidade profissional.
+
+4. As autoridades competentes não podem exigir a um prestador de serviços de criptoativos requerente que forneça as informações a que se referem os n.ºs 2 e 3 do presente artigo que estas já tenham recebido ao abrigo dos respetivos procedimentos de autorização nos termos das Diretivas 2009/110/CE, 2014/65/UE ou (UE) 2015/2366, ou do direito nacional aplicável aos serviços de criptoativos antes de 29 de junho de 2023, desde que essas informações tenham sido anteriormente apresentadas ou que os documentos continuem atualizados.
+
+5. A ESMA, em estreita cooperação com a EBA, elabora projetos de normas técnicas de regulamentação a fim de especificar com maior pormenor as informações a que se referem os n.ºs 2 e 3.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+6. A ESMA, em estreita cooperação com a EBA, elabora projetos de normas técnicas de execução para criar formulários, modelos e procedimentos normalizados para a informação a incluir no pedido de autorização como prestador de serviços de criptoativos.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número em conformidade com o artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 63.º — Avaliação do pedido de autorização e concessão ou recusa da autorização
+
+1. As autoridades competentes acusam por escrito ao prestador de serviços de criptoativos requerente a receção do pedido ao abrigo do artigo 62.º, n.º 1, com a maior brevidade e em qualquer caso no prazo de cinco dias úteis a contar da data de receção do pedido.
+
+2. As autoridades competentes avaliam, no prazo de 25 dias úteis a contar da receção de um pedido apresentado ao abrigo do artigo 62.º, n.º 1, se esse pedido está completo, verificando se as informações enumeradas no artigo 62.º, n.º 2, foram apresentadas.
+
+Caso o pedido não esteja completo, as autoridades competentes fixam um prazo para os prestadores de serviços de criptoativos requerentes prestarem as informações em falta.
+
+3. As autoridades competentes podem recusar a análise dos pedidos, caso estes continuem incompletos findo o prazo a que se refere o n.º 2, segundo parágrafo.
+
+4. Logo que um pedido esteja completo, as autoridades competentes notificam rapidamente o prestador de serviços de criptoativos requerente desse facto.
+
+5. Antes de concederem ou recusarem uma autorização como prestador de serviços de criptoativos, as autoridades competentes consultam as autoridades competentes de outro Estado-Membro caso o prestador de serviços de criptoativos requerente se encontre numa das seguintes posições relativamente a uma instituição de crédito, uma central de valores mobiliários, uma empresa de investimento, um operador de mercado, uma sociedade gestora de OICVM, um gestor de fundos de investimento alternativos, de uma instituição de pagamento, uma companhia de seguros, uma instituição de moeda eletrónica ou uma instituição de realização de planos de pensões profissionais, autorizados nesse outro Estado-Membro:
+
+- a) Filial de qualquer uma dessas entidades;
+
+- b) Filial da empresa-mãe de qualquer uma dessas entidades;
+
+- c) Controlado pelas mesmas pessoas singulares ou coletivas que controlam qualquer uma dessas entidades.
+
+6. Antes de concederem ou recusarem uma autorização como prestador de serviços de criptoativos, as autoridades competentes:
+
+- a) Podem consultar as autoridades competentes em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo e as unidades de informação financeira, a fim de verificar se o prestador de serviços de criptoativos requerente não foi objeto de um inquérito sobre práticas relacionadas com o branqueamento de capitais ou o financiamento do terrorismo;
+
+- b) Asseguram que o prestador de serviços de criptoativos requerente que explora estabelecimentos ou recorre a terceiros estabelecidos em países terceiros de risco elevado identificados nos termos do artigo 9.º da Diretiva (UE) 2015/849 cumpre as disposições de direito nacional que transpõem o artigo 26.º, n.º 2 e o artigo 45.º, n.º 3 e n.º 5 da referida diretiva;
+
+- c) Asseguram, se for caso disso, que o prestador de serviços de criptoativos requerente instituiu procedimentos adequados para cumprir as disposições do direito nacional que transpõem o artigo 18.º-A, n.º 1, e n.º 3, da Diretiva (UE) 2015/849.
+
+7. Caso exista uma relação estreita entre o prestador de serviços de criptoativos requerente e outras pessoas singulares ou coletivas, as autoridades competentes só concedem a autorização se essa relação não entravar o exercício efetivo das suas funções de supervisão.
+
+8. As autoridades competentes recusam a autorização caso disposições legislativas, regulamentares ou administrativas de um país terceiro a que estejam sujeitas uma ou mais pessoas singulares ou coletivas com as quais o prestador de serviços de criptoativos requerente tem uma relação estreita – ou dificuldades relacionadas com a sua execução – impeçam o exercício efetivo das suas funções de supervisão.
+
+9. As autoridades competentes avaliam, no prazo de 40 dias úteis a contar da data de receção de um pedido completo, se o prestador de serviços de criptoativos requerente cumpre o disposto no presente título e adotam uma decisão devidamente fundamentada no sentido de conceder ou recusar uma autorização como prestador de serviços de criptoativos. As autoridades competentes notificam o requerente da sua decisão no prazo de cinco dias úteis a contar da data da referida decisão. Essa avaliação tem em conta a natureza, a escala e a complexidade dos serviços de criptoativos que o prestador de serviços de criptoativos requerente pretende prestar.
+
+10. As autoridades competentes recusam a autorização como prestador de serviços de criptoativos se existirem motivos objetivos e comprovados para considerar que:
+
+- a) O órgão de administração do prestador de serviços de criptoativos requerente constitui uma ameaça para a sua gestão eficaz, sã e prudente e para a continuidade das atividades, bem como para a devida consideração dos interesses dos respetivos clientes e da integridade do mercado, ou expõe o prestador de serviços de criptoativos requerente a um risco grave de branqueamento de capitais ou de financiamento do terrorismo;
+
+- b) Os membros do órgão de administração do prestador de serviços de criptoativos requerente não preenchem os critérios estabelecidos no artigo 68.º, n.º 1;
+
+- c) Os acionistas ou sócios, diretos ou indiretos, que detêm participações qualificadas no prestador de serviços de criptoativos requerente não preenchem os critérios de idoneidade estabelecidos no artigo 68.º, n.º 2;
+
+- d) O prestador de serviços de criptoativos requerente não preenche ou está em risco de não preencher qualquer um dos requisitos previstos no presente título.
+
+11. A ESMA e a EBA emitem, conjuntamente, em conformidade com o artigo 16.º do Regulamento (UE) n.º 1095/2010 e com o artigo 16.º do Regulamento (UE) n.º 1093/2010, respetivamente, orientações sobre a avaliação da aptidão dos membros do órgão de administração do prestador de serviços de criptoativos requerente e dos acionistas ou sócios, diretos ou indiretos, que detêm participações qualificadas no prestador de serviços de criptoativos requerente.
+
+A ESMA e a EBA emitem as orientações a que se refere o primeiro parágrafo até 30 de junho de 2024.
+
+12. Durante o prazo de avaliação previsto no n.º 9, mas nunca depois do vigésimo dia útil desse prazo, as autoridades competentes podem solicitar informações adicionais que sejam necessárias para completar a avaliação. Esse pedido deve ser apresentado por escrito ao prestador de serviços de criptoativos requerente e especificar as informações adicionais necessárias.
+
+O prazo de avaliação previsto no n.º 9 ficará suspenso durante o período compreendido entre a data do pedido das informações em falta apresentado pelas autoridades competentes e a receção de uma resposta a esse pedido pelo prestador de serviços de criptoativos requerente. A suspensão não pode ser superior a 20 dias úteis. É deixado ao critério das autoridades competentes formular mais pedidos com vista a completar ou clarificar as informações, mas esses pedidos não dão lugar à suspensão do prazo de apreciação previsto no n.º 9.
+
+13. As autoridades competentes comunicam à ESMA, no prazo de dois dias úteis a contar da concessão da autorização, as informações especificadas no artigo 109.º, n.º 5. As autoridades competentes informam igualmente a ESMA de quaisquer recusas de autorização. A ESMA disponibiliza as informações a que se refere o artigo 109.º, n.º 5, no registo a que se refere esse artigo, na data de início da prestação de serviços de criptoativos.
+
+### Artigo 64.º — Revogação da autorização de um prestador de serviços de criptoativos
+
+1. As autoridades competentes revogam a autorização de um prestador de serviços de criptoativos se o prestador de serviços de criptoativos:
+
+- a) Não tiver utilizado a sua autorização no prazo de 12 meses a contar da data de concessão da mesma;
+
+- b) Tiver renunciado expressamente à sua autorização;
+
+- c) Não tiver prestado serviços de criptoativos durante nove meses consecutivos;
+
+- d) Tiver obtido a sua autorização recorrendo a meios irregulares, nomeadamente fazendo declarações falsas no seu pedido de autorização;
+
+- e) Tiver deixado de preencher as condições com base nas quais a autorização foi concedida e não tiver adotado as medidas corretivas solicitadas pela autoridade competente dentro do prazo fixado;
+
+- f) Não dispuser de sistemas, procedimentos e mecanismos eficazes para prevenir e detetar o branqueamento de capitais e o financiamento do terrorismo, em conformidade com a Diretiva (UE) 2015/849;
+
+- g) Tiver infringido gravemente o presente regulamento, incluindo as disposições relativas à proteção dos detentores de criptoativos ou dos clientes de prestadores de serviços de criptoativos, ou à integridade do mercado.
+
+2. As autoridades competentes podem revogar a autorização como prestador de serviços de criptoativos em qualquer uma das seguintes situações:
+
+- a) O prestador de serviços de criptoativos infringiu as disposições do direito nacional que transpõem a Diretiva (UE) 2015/849;
+
+- b) O prestador de serviços de criptoativos deixou de estar autorizado como instituição de pagamento ou como instituição de moeda eletrónica e não logrou corrigir a situação no prazo de 40 dias de calendário.
+
+3. Caso uma autoridade competente revogue uma autorização como prestador de serviços de criptoativos, esta notifica sem demora injustificada a ESMA e os pontos únicos de contacto dos Estados-Membros de acolhimento. A ESMA disponibiliza essas informações no registo a que se refere o artigo 109.º.
+
+4. As autoridades competentes podem limitar a revogação da autorização a um determinado serviço de criptoativos.
+
+5. Antes de revogar uma autorização como prestador de serviços de criptoativos, as autoridades competentes consultam a autoridade competente de outro Estado-Membro caso o prestador de serviços de criptoativos em questão seja:
+
+- a) Uma filial de um prestador de serviços de criptoativos autorizado nesse outro Estado-Membro;
+
+- b) Uma filial da empresa-mãe de um prestador de serviços de criptoativos autorizado nesse outro Estado-Membro;
+
+- c) Controlado pelas mesmas pessoas singulares ou coletivas que controlam um prestador de serviços de criptoativos autorizado nesse outro Estado-Membro.
+
+6. Antes de revogar uma autorização como prestador de serviços de criptoativos, as autoridades competentes podem consultar a autoridade competente incumbida de supervisionar a conformidade do prestador de serviços de criptoativos com as regras em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo.
+
+7. A EBA, a ESMA e qualquer autoridade competente de um Estado-Membro de acolhimento podem solicitar a qualquer momento que a autoridade competente do Estado-Membro de origem verifique se o prestador de serviços de criptoativos continua a preencher as condições com base nas quais a autorização foi concedida, quando haja motivos para suspeitar que deixou de ser esse o caso.
+
+8. Os prestadores de serviços de criptoativos devem criar, aplicar e manter procedimentos adequados que assegurem a transferência atempada e ordenada dos criptoativos e dos fundos dos seus clientes para outro prestador de serviços de criptoativos em caso de revogação da autorização.
+
+### Artigo 65.º — Prestação de serviços de criptoativos a nível transfronteiriço
+
+1. Um prestador de serviços de criptoativos que pretenda prestar serviços de criptoativos em mais do que um Estado-Membro, deve apresentar à autoridade competente do Estado-Membro de origem as seguintes informações:
+
+- a) Uma lista dos Estados-Membros nos quais o prestador de serviços de criptoativos pretende prestar serviços de criptoativos;
+
+- b) Os serviços de criptoativos que o prestador de serviços de criptoativos pretende prestar numa base transfronteiriça;
+
+- c) A data inicial da prestação pretendida de serviços de criptoativos;
+
+- d) Uma lista de todas as outras atividades prestadas pelo prestador de serviços de criptoativos não abrangidas pelo presente regulamento.
+
+2. A autoridade competente do Estado-Membro de origem comunica essas informações, no prazo de dez dias úteis a contar da data de receção das informações a que se refere o n.º 1, aos pontos únicos de contacto dos Estados-Membros de acolhimento, à ESMA e à EBA.
+
+3. A autoridade competente do Estado-Membro que concedeu a autorização informa sem demora o prestador de serviços de criptoativos em questão da comunicação a que se refere o n.º 2.
+
+4. O prestador de serviços de criptoativos pode começar a prestar serviços de criptoativos num Estado-Membro que não seja o seu Estado-Membro de origem a partir da data de receção da comunicação a que se refere o n.º 3 ou o mais tardar a partir do décimo quinto dia de calendário após a apresentação das informações a que se refere o n.º 1.
+
+## CAPÍTULO 2 — Obrigação para todos os prestadores de serviços de criptoativos
+
+### Artigo 66.º — Dever de atuar com honestidade, lealdade e profissionalismo no melhor interesse dos clientes
+
+1. Os prestadores de serviços de criptoativos devem agir com honestidade, lealdade e profissionalismo, no melhor interesse dos seus clientes e potenciais clientes.
+
+2. Os prestadores de serviços de criptoativos devem facultar aos respetivos clientes informações corretas, claras e que não induzam em erro, nomeadamente nas comunicações comerciais, que devem ser identificadas como tal. Os prestadores de serviços de criptoativos não devem, de forma deliberada ou negligente, induzir em erro um cliente no que diz respeito às vantagens efetivas ou presumíveis de quaisquer criptoativos.
+
+3. Os prestadores de serviços de criptoativos devem alertar os clientes sobre os riscos inerentes às transações de criptoativos.
+
+Sempre que operem uma plataforma de negociação de criptoativos, troquem criptoativos por fundos ou por outros criptoativos, prestem consultoria sobre criptoativos ou serviços de gestão de carteiras de criptoativos, os prestadores de serviços de criptoativos fornecem aos seus clientes hiperligações para os livretes do criptoativo relativos aos criptoativos em relação aos quais prestam esses serviços.
+
+4. Os prestadores de serviços de criptoativos disponibilizam ao público as suas políticas de preços, custos e comissões, através da publicação em linha num lugar de destaque do seu sítio Web.
+
+5. Os prestadores de serviços de criptoativos disponibilizam ao público, num lugar de destaque no seu sítio Web, informação relacionadas com os principais impactos negativos no clima e outros impactos negativos relacionados com o ambiente do mecanismo de consenso utilizado para emitir cada criptoativo em relação ao qual prestem serviços. Essa informação pode ser obtida a partir dos livretes do criptoativo.
+
+6. A ESMA, em cooperação com a EBA, elabora projetos de normas técnicas de regulamentação sobre o conteúdo, as metodologias e a apresentação das informações a que se refere o n.º 5 no que diz respeito aos indicadores de sustentabilidade relacionados com os impactos negativos no clima e outros impactos negativos relacionados com o ambiente.
+
+Ao elaborar os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo, a ESMA tem em conta os vários tipos de mecanismos de consenso utilizados para validar as transações de criptoativos, as suas estruturas de incentivo e a utilização de energia, energias renováveis e recursos naturais, bem como a produção de resíduos e as emissões de gases com efeito de estufa. A ESMA atualiza as normas técnicas de regulamentação à luz da evolução regulamentar e tecnológica.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 67.º — Requisitos prudenciais
+
+1. Os prestadores de serviços de criptoativos devem, a todo o tempo, dispor de garantias prudenciais que equivalham, pelo menos, ao montante mais elevado dos dois seguintes:
+
+- a) O montante dos requisitos de capital mínimo permanente indicados no anexo IV, dependendo do tipo de serviços de criptoativos prestados;
+
+- b) Um quarto das despesas gerais fixas do exercício anterior, revistas anualmente.
+
+2. Os prestadores de serviços de criptoativos que não tenham exercido atividade durante um ano a contar da data em que começaram a prestação de serviços devem utilizar, para o cálculo a que se refere o n.º 1, alínea b), as despesas gerais fixas previstas incluídas nas suas projeções para os primeiros 12 meses de prestação de serviços, tal como apresentadas no seu pedido de autorização.
+
+3. Para efeitos do n.º 1, alínea b), os prestadores de serviços de criptoativos devem calcular as suas despesas gerais fixas do ano anterior utilizando valores resultantes do regime contabilístico aplicável, mediante a dedução das seguintes rubricas das despesas totais, após a distribuição dos lucros aos acionistas ou sócios constantes das suas mais recentes demonstrações financeiras anuais auditadas ou, quando as demonstrações auditadas não estiverem disponíveis, das demonstrações financeiras anuais validadas pelos supervisores nacionais:
+
+- a) Bónus e outra remuneração do pessoal, na medida em que dependam de um lucro líquido dos prestadores de serviços de criptoativos no ano em causa;
+
+- b) Participações dos trabalhadores, titulares de cargos dirigentes e sócios nos lucros;
+
+- c) Outras rubricas de lucros e outra remuneração variável, na medida em que sejam totalmente discricionárias;
+
+- d) Despesas pontuais de atividades extraordinárias.
+
+4. As garantias prudenciais mencionadas no n.º 1 devem assumir uma das seguintes formas ou ser uma combinação das mesmas:
+
+- a) Fundos próprios, que consistam nos elementos e instrumentos de fundos próprios principais de nível 1 mencionados nos artigos 26.º a 30.º do Regulamento (UE) n.º 575/2013 após as deduções na íntegra, nos termos do artigo 36.º do referido regulamento, sem a aplicação dos limiares de isenção por força dos artigos 46.º e 48.º do referido regulamento;
+
+- b) Uma apólice de seguro que abranja os territórios da União onde os serviços de criptoativos são prestados ou uma garantia equivalente.
+
+5. A apólice de seguro a que se refere o n.º 4, alínea b), é divulgada ao público no sítio Web do prestador de serviços de criptoativos e deve ter, pelo menos, as seguintes características:
+
+- a) Tem uma vigência inicial não inferior a um ano;
+
+- b) O período de pré-aviso mínimo para a respetiva rescisão é de 90 dias;
+
+- c) É proveniente de uma empresa autorizada para a prestação de seguros, de acordo com o direito da União ou com o direito nacional;
+
+- d) É oferecida por uma entidade terceira.
+
+6. A apólice de seguro a que se refere o n.º 4, alínea b), deve incluir cobertura contra o risco relativo a todas as seguintes alíneas:
+
+- a) Perda de documentos;
+
+- b) Declarações falsas ou declarações que induzam em erro;
+
+- c) Atos, erros ou omissões de que resulte uma infração:
+
+  - i) de obrigações legais e regulamentares,
+
+  - ii) do dever de atuar com honestidade, lealdade e profissionalismo para com os seus clientes,
+
+  - iii) de obrigações de confidencialidade;
+
+- d) Incumprimento da obrigação de estabelecer, aplicar e manter procedimentos adequados para prevenir conflitos de interesses;
+
+- e) Perdas decorrentes da perturbação das atividades comerciais ou de falhas do sistema;
+
+- f) Quando aplicável ao modelo de negócio, negligência grave na proteção dos criptoativos e dos fundos dos clientes;
+
+- g) Responsabilidade dos prestadores de serviços de criptoativos para com os seus clientes nos termos do artigo 75.º, n.º 8.
+
+### Artigo 68.º — Mecanismos de governação
+
+1. Os membros do órgão de administração dos prestadores de serviços de criptoativos devem ter idoneidade suficiente e possuir os conhecimentos, competências e experiência adequados tanto a nível individual como no seu conjunto para o desempenho das suas funções. Em especial, os membros do órgão de administração dos prestadores de serviços de criptoativos não podem ter sido condenados por infrações relacionadas com branqueamento de capitais ou financiamento do terrorismo, nem por quaisquer outras infrações que afetem a sua idoneidade. Devem ainda demonstrar que estão em condições de dedicar tempo suficiente ao desempenho efetivo das suas funções.
+
+2. Os acionistas e sócios, diretos ou indiretos, que detenham participações qualificadas em prestadores de serviços de criptoativos devem ter idoneidade suficiente e, em especial, não podem ter sido condenadas por infrações relacionadas com branqueamento de capitais ou financiamento do terrorismo, nem por quaisquer outras infrações que afetem a sua idoneidade.
+
+3. Caso a influência exercida pelos acionistas ou sócios, diretos ou indiretos, que detêm participações qualificadas num prestador de serviços de criptoativos seja suscetível de prejudicar a gestão sã e prudente do prestador de serviços de criptoativos em causa, as autoridades competentes tomam as medidas adequadas para fazer face a esses riscos.
+
+Essas medidas podem incluir o requerimento de providências judiciais ou a imposição de sanções aos titulares de cargos dirigentes e às pessoas responsáveis pela gestão, ou a suspensão do exercício dos direitos de voto inerentes às ações detidas pelos acionistas ou sócios, diretos ou indiretos, que detêm as participações qualificadas.
+
+4. Os prestadores de serviços de criptoativos devem adotar políticas e procedimentos suficientemente eficazes para assegurar a conformidade com o presente regulamento.
+
+5. Os prestadores de serviços de criptoativos devem empregar pessoas com os conhecimentos, as competências e a experiência necessários para a realização das responsabilidades que lhes foram atribuídas, tendo em conta a escala, a natureza e o alcance dos serviços de criptoativos prestados.
+
+6. O órgão de administração dos prestadores de serviços de criptoativos deve avaliar e reanalisar periodicamente a eficácia das políticas e dos procedimentos implementados com vista ao cumprimento do disposto nos capítulos 2 e 3 do presente título e tomar as medidas adequadas para resolver quaisquer deficiências a este respeito.
+
+7. Os prestadores de serviços de criptoativos devem tomar todas as medidas razoáveis para assegurar a continuidade e a regularidade da realização dos serviços de criptoativos. Para esse efeito, os prestadores de serviços de criptoativos devem utilizar os recursos e os procedimentos apropriados e proporcionados, nomeadamente sistemas de TIC resilientes e seguros, conforme exigido pelo Regulamento (UE) 2022/2554.
+
+Os prestadores de serviços de criptoativos devem criar uma política de continuidade das atividades que inclua planos de continuidade relativo às atividades de TIC e também planos de resposta e recuperação em matéria de TIC de acordo com os artigos 11.º e 12.º do Regulamento (UE) 2022/2554, que visem garantir, no caso de uma interrupção dos seus sistemas e procedimentos de TIC, a preservação dos dados e das funções essenciais e a manutenção dos serviços de criptoativos ou, caso isso não seja possível, a recuperação atempada desses dados e funções e a retoma atempada dos serviços de criptoativos.
+
+8. Os prestadores de serviços de criptoativos devem dispor de mecanismos, sistemas e procedimentos conforme exigido pelo Regulamento (UE) 2022/2554, bem como de procedimentos e disposições eficazes para a avaliação dos riscos, a fim de cumprir as disposições de direito nacional que transpõem a Diretiva (UE) 2015/849. Acompanham e, regularmente, avaliam a adequação e a eficácia desses mecanismos, sistemas e procedimentos, tendo em conta a escala, a natureza e a gama dos serviços de criptoativos prestados, e tomam as medidas adequadas para corrigir eventuais deficiências a este respeito.
+
+Os prestadores de serviços de criptoativos devem utilizar sistemas e procedimentos para garantir a disponibilidade, autenticidade, integridade e confidencialidade dos dados, de acordo com o Regulamento (UE) 2022/2554.
+
+9. Os prestadores de serviços de criptoativos devem manter registos de todos os serviços de criptoativos, atividades, ordens e transações por si realizadas. Esses registos devem ser suficientes para permitir que as autoridades competentes desempenhem as suas funções de supervisão e tomem medidas de execução e, em especial, verifiquem o cumprimento por parte dos prestadores de serviços de criptoativos de todas as obrigações que lhes incumbem, nomeadamente no que respeita aos clientes ou potenciais clientes, e à integridade do mercado.
+
+Os registos mantidos em conformidade com o primeiro parágrafo são fornecidos aos clientes mediante pedido, sendo mantidos por um período de cinco anos e, se solicitado pela autoridade competente antes do termo do prazo de cinco anos, por um período até sete anos.
+
+10. A ESMA elabora projetos de normas técnicas de regulamentação para especificar com mais pormenor:
+
+- a) As medidas que assegurem a continuidade e a regularidade da prestação dos serviços de criptoativos a que se refere o n.º 7;
+
+- b) Os registos a manter no que respeita a todos os serviços, atividades, ordens e transações de criptoativos realizadas a que se refere o n.º 9.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 69.º — Informação às autoridades competentes
+
+Os prestadores de serviços de criptoativos devem comunicar sem demora à respetiva autoridade competente quaisquer alterações do seu órgão de administração antes de qualquer novo membro exercer atividades, facultando-lhe toda a informação necessária para verificar o cumprimento do disposto no artigo 68.º.
+
+### Artigo 70.º — Guarda dos criptoativos e dos fundos dos clientes
+
+1. Os prestadores de serviços de criptoativos que detêm criptoativos pertencentes a clientes, ou meios de acesso a esses criptoativos, devem dispor de mecanismos adequados para salvaguardar os direitos de titularidade dos clientes, em especial em caso de insolvência do prestador de serviços de criptoativos, e para impedir que criptoativos de clientes sejam utilizados por conta própria.
+
+2. Caso os seus modelos de negócios ou os serviços de criptoativos requeiram a detenção de fundos de clientes que não sejam criptofichas de moeda eletrónica, os prestadores de serviços de criptoativos devem dispor de mecanismos adequados para salvaguardar os direitos de titularidade dos clientes e impedir a utilização por conta própria dos fundos dos clientes.
+
+3. Até ao final do dia útil seguinte ao dia em que fundos de clientes que não sejam criptofichas de moeda eletrónica tenham sido recebidos, os prestadores de serviços de criptoativos devem colocar esses fundos junto de uma instituição de crédito ou de um banco central.
+
+Os prestadores de serviços de criptoativos devem tomar todas as medidas necessárias para assegurar que os fundos dos clientes que não sejam criptofichas de moeda eletrónica depositados numa instituição de crédito ou num banco central se encontrem depositados numa conta identificável separadamente de quaisquer contas utilizadas para o depósito de fundos pertencentes aos prestadores de serviços de criptoativos.
+
+4. Os prestadores de serviços de criptoativos podem, eles próprios ou através de um terceiro, prestar serviços de pagamento relacionados com o serviço de criptoativos por si oferecido, desde que o prestador de serviços de criptoativos ou o terceiro esteja autorizado a prestar esses serviços ao abrigo da Diretiva (UE) 2015/2366.
+
+Caso sejam prestados serviços de pagamento, os prestadores de serviços de criptoativos prestam aos seus clientes todas as seguintes informações:
+
+- a) A natureza e os termos e condições destes serviços, nomeadamente referências à legislação nacional aplicável e aos direitos dos clientes;
+
+- b) Se os referidos serviços são prestados diretamente por eles próprios ou por terceiros.
+
+5. Os n.ºs 2 e 3 do presente artigo não se aplicam aos prestadores de serviços de criptoativos que sejam instituições de moeda eletrónica, instituições de pagamento ou instituições de crédito.
+
+### Artigo 71.º — Procedimentos de tratamento das reclamações
+
+1. Os prestadores de serviços de criptoativos estabelecem e mantêm procedimentos eficazes e transparentes tendo em vista o tratamento expedito, leal e coerente das reclamações recebidas de clientes e publicam descrições desses procedimentos.
+
+2. Os clientes devem poder apresentar reclamações aos prestadores de serviços de criptoativos livres de encargos.
+
+3. Os prestadores de serviços de criptoativos informam os clientes da possibilidade de apresentarem uma reclamação. Os prestadores de serviços de criptoativos devem disponibilizar aos clientes um modelo para a apresentação de reclamações e manter um registo de todas as reclamações recebidas e de todas as medidas adotadas para dar resposta a essas mesmas reclamações.
+
+4. Os prestadores de serviços de criptoativos devem investigar todas as reclamações de forma atempada e leal e comunicar as conclusões dessas investigações aos seus clientes num prazo razoável.
+
+5. A ESMA elabora, em estreita cooperação com a EBA, projetos de normas técnicas de regulamentação a fim de especificar mais pormenorizadamente os requisitos, os modelos e os procedimentos para o tratamento das reclamações.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 72.º — Identificação, prevenção, gestão e divulgação de conflitos de interesses
+
+1. Os prestadores de serviços de criptoativos aplicam e mantêm políticas e procedimentos eficazes, tendo em conta a escala, a natureza e a gama de serviços de criptoativos prestados, para identificar, prevenir, gerir e divulgar conflitos de interesses entre:
+
+- a) Eles próprios e:
+
+  - i) os seus acionistas ou membros,
+
+  - ii) qualquer pessoa direta ou indiretamente associada ao prestador de serviços de criptoativos ou aos seus acionistas ou membros através de controlo,
+
+  - iii) os membros do seu órgão de administração,
+
+  - iv) os seus trabalhadores, ou
+
+  - v) os seus clientes; ou
+
+- b) Dois ou mais clientes cujos interesses mútuos entrem em conflito.
+
+2. Os prestadores de serviços de criptoativos devem comunicar aos clientes e aos potenciais clientes, num lugar de destaque no seu sítio Web, a natureza geral e as fontes de conflitos de interesses referidas no n.º 1, bem como as medidas adotadas para os atenuar.
+
+3. A comunicação a que se refere o n.º 2 deve ser feita em formato eletrónico e ser suficientemente pormenorizada, tendo em conta a natureza de cada cliente, a fim de permitir que cada cliente tome uma decisão informada sobre o serviço de criptoativos no âmbito do qual surge o conflito de interesses.
+
+4. Os prestadores de serviços de criptoativos devem avaliar e rever, pelo menos anualmente, a sua política em matéria de conflitos de interesses e tomar todas as medidas apropriadas para resolver quaisquer deficiências a este respeito.
+
+5. A ESMA elabora, em estreita cooperação com a EBA, projetos de normas técnicas de regulamentação para especificar mais pormenorizadamente:
+
+- a) Os requisitos relativos às políticas e procedimentos a que se refere o n.º 1, tendo em conta a escala, a natureza e a gama dos serviços de criptoativos prestados;
+
+- b) Os pormenores e a metodologia relativos ao conteúdo da comunicação a que se refere o n.º 2;
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 73.º — Subcontratação
+
+1. Os prestadores de serviços de criptoativos que subcontratam serviços ou atividades a terceiros para a execução de funções operacionais devem tomar todas as medidas razoáveis para evitar riscos operacionais adicionais. Continuam a ser plenamente responsáveis pelo cumprimento de todas as suas obrigações nos termos do presente título, e asseguram em permanência o cumprimento das seguintes condições:
+
+- a) A subcontratação não implica a delegação da responsabilidade dos prestadores de serviços de criptoativos;
+
+- b) A subcontratação não altera a relação entre os prestadores de serviços de criptoativos e os seus clientes, nem as obrigações dos prestadores de serviços de criptoativos para com os seus clientes;
+
+- c) A subcontratação não altera as condições da autorização dos prestadores de serviços de criptoativos;
+
+- d) Os terceiros que participam na subcontratação cooperam com a autoridade competente do Estado-Membro de origem dos prestadores de serviços de criptoativos e a subcontratação não impede o exercício das funções de supervisão das autoridades competentes, incluindo o acesso in loco para a obtenção de quaisquer informações relevantes necessárias para o desempenho dessas funções;
+
+- e) Os prestadores de serviços de criptoativos conservam as competências e os recursos necessários para avaliar a qualidade dos serviços prestados, para controlar os serviços subcontratados de forma efetiva e para gerir os riscos associados à subcontratação numa base contínua;
+
+- f) Os prestadores de serviços de criptoativos dispõem de acesso direto às informações relevantes sobre os serviços subcontratados;
+
+- g) Os prestadores de serviços de criptoativos asseguram que os terceiros que participam na subcontratação cumprem as normas em matéria de proteção de dados da União.
+
+Para efeitos da alínea g) do primeiro parágrafo, os prestadores de serviços de criptoativos são responsáveis por assegurar que as normas em matéria de proteção de dados constam do acordo escrito a que se refere o n.º 3.
+
+2. Os prestadores de serviços de criptoativos dispõem de uma política em matéria de subcontratação que inclui nomeadamente planos de contingência e estratégias de saída, tendo em conta a escala, a natureza e a gama de serviços de criptoativos prestados.
+
+3. Os prestadores de serviços de criptoativos devem definir num acordo escrito os seus direitos e obrigações, bem como os direitos e as obrigações dos terceiros aos quais subcontratam serviços ou atividades. Os acordos de subcontratação devem conferir aos prestadores de serviços de criptoativos o direito de os rescindirem.
+
+4. Os prestadores de serviços de criptoativos e os terceiros devem pôr à disposição das autoridades competentes e de outras autoridades relevantes, a pedido destas, todas as informações necessárias que permitam às autoridades avaliarem a conformidade das atividades subcontratadas com os requisitos enunciados do presente título.
+
+### Artigo 74.º — Liquidação ordenada dos prestadores de serviços de criptoativos
+
+Os prestadores de serviços de criptoativos que prestem os serviços referidos nos artigos 75.º a 79.º devem dispor de um plano adequado para apoiar uma liquidação ordenada das suas atividades nos termos do direito nacional aplicável, incluindo a continuidade ou a recuperação de quaisquer atividades críticas por eles realizadas. Este plano deve demonstrar a capacidade dos prestadores de serviços de criptoativos para procederem a uma liquidação ordenada sem causarem prejuízo económico indevido aos seus clientes.
+
+## CAPÍTULO 3 — Obrigações relativas a serviços específicos de criptoativos
+
+### Artigo 75.º — Custódia e administração de criptoativos em nome de clientes
+
+1. Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes celebram um acordo com os seus clientes para especificar as suas funções e responsabilidades. Tal acordo deve incluir pelo menos os seguintes elementos:
+
+- a) A identidade das partes no acordo;
+
+- b) A natureza do serviço de criptoativos prestado e uma descrição desse serviço;
+
+- c) A política de custódia;
+
+- d) Os meios de comunicação entre o prestador de serviços de criptoativos e o cliente, incluindo o sistema de autenticação do cliente;
+
+- e) Uma descrição dos sistemas de segurança utilizados pelo prestador de serviços de criptoativos;
+
+- f) As comissões, custos e encargos aplicados pelo prestador de serviços de criptoativos;
+
+- g) A lei aplicável.
+
+2. Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes mantêm um registo, aberto em nome de cada cliente, das posições correspondentes aos direitos de cada cliente sobre os criptoativos. Quando relevante, os prestadores de serviços de criptoativos devem incluir o mais rapidamente possível nesse registo quaisquer movimentos feitos em cumprimento de instruções dadas pelos seus clientes. Em tais casos, os seus procedimentos internos devem assegurar que todos os movimentos que afetam o registo dos criptoativos são comprovados por uma transação devidamente inscrita no registo das posições do cliente.
+
+3. Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes criam uma política de custódia com regras e procedimentos internos para assegurar a conservação ou o controlo desses criptoativos, ou dos meios de acesso aos mesmos.
+
+A política de custódia a que se refere o primeiro parágrafo minimiza o risco de perda dos criptoativos do cliente, dos direitos associados a esses criptoativos ou dos meios de acesso aos criptoativos devido a situações de fraude, ciberameaça ou negligência.
+
+Deve ser disponibilizado aos clientes, a pedido destes, um resumo da política de custódia em formato eletrónico.
+
+4. Quando aplicável, os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes devem facilitar o exercício dos direitos inerentes aos criptoativos. Qualquer acontecimento suscetível de criar ou alterar os direitos de um cliente é incluído de imediato no registo das posições do cliente.
+
+Em caso de alterações da tecnologia de registo distribuído subjacente ou de qualquer outro acontecimento suscetível de criar direitos para um cliente ou de os modificar, o cliente tem direito a quaisquer criptoativos ou a quaisquer direitos recém-criados com base nas suas posições e até ao limite dessas posições detidas aquando da ocorrência dessa alteração ou acontecimento, salvo disposição expressa em contrário de um acordo válido assinado com o prestador de serviços de criptoativos que se encarrega da custódia e administração de criptoativos em nome de clientes nos termos do n.º 1 antes de tal alteração ou acontecimento.
+
+5. Os prestadores de serviços de criptoativos que prestem serviços de custódia e administração de criptoativos em nome de clientes fornecem aos seus clientes, pelo menos uma vez de três em três meses e a pedido do cliente em questão, uma demonstração da posição dos criptoativos registados em nome desses clientes. Essa demonstração da posição deve ser efetuada em formato eletrónico. A demonstração da posição deve identificar os criptoativos em questão, o respetivo saldo, o respetivo valor e as transferências de criptoativos efetuadas durante esse período.
+
+Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes prestam aos seus clientes, o mais rapidamente possível, todas as informações relativas às operações sobre criptoativos que exigem uma reação desses clientes.
+
+6. Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes devem assegurar a existência dos procedimentos necessários para que os criptoativos detidos em nome dos seus clientes, ou os meios de acesso, sejam devolvidos a esses clientes com a maior brevidade possível.
+
+7. Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes segregam as participações de criptoativos em nome dos seus clientes das suas próprias participações, e asseguram que os meios de acesso aos criptoativos dos seus clientes sejam claramente identificados como tal. Devem assegurar que, no registo distribuído, os criptoativos dos seus clientes sejam conservados separadamente dos seus próprios criptoativos.
+
+Os criptoativos detidos em custódia são juridicamente segregados do património do prestador de serviços de criptoativos, no interesse dos clientes do prestador de serviços de criptoativos, em conformidade com o direito aplicável, para que os credores do prestador de serviços de criptoativos não recorram a criptoativos detidos em custódia pelo prestador de serviços de criptoativos, em especial em caso de insolvência.
+
+O prestador de serviços de criptoativos assegura que os criptoativos detidos em custódia são operacionalmente segregados do património do prestador de serviços de criptoativos.
+
+8. Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes são responsáveis perante os seus clientes pela perda de quaisquer criptoativos ou dos meios de acesso aos criptoativos em resultado de um incidente que lhes seja imputável. A responsabilidade do prestador de serviços de criptoativos é limitada ao valor de mercado do criptoativo perdido no momento em que a perda ocorreu.
+
+Os incidentes não imputáveis ao prestador de serviços de criptoativos incluem qualquer evento em relação ao qual o prestador de serviços de criptoativos demonstre ter ocorrido independentemente da prestação do serviço pertinente ou das operações do prestador de serviços de criptoativos, como um problema inerente ao funcionamento do registo distribuído que o prestador de serviços de criptoativos não controla.
+
+9. Se os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes recorrerem a outros prestadores de serviços de criptoativos que prestem esse serviço, só podem recorrer a prestadores de serviços de criptoativos autorizados nos termos do artigo 59.º.
+
+Os prestadores de serviços de criptoativos que prestam serviços de custódia e administração de criptoativos em nome de clientes e que recorram a outros prestadores de serviços de criptoativos que prestem esse serviço informam os seus clientes desse facto.
+
+### Artigo 76.º — Operação de uma plataforma de negociação de criptoativos
+
+1. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos estabelecem, mantêm e aplicam regras de operação claras e transparentes aplicáveis à plataforma de negociação. Essas regras de utilização devem pelo menos:
+
+- a) Fixar os processos de aprovação, nomeadamente requisitos de devida diligência relativos aos clientes proporcionais ao risco de branqueamento de capitais ou de financiamento do terrorismo que o requerente representa em conformidade com a Diretiva (UE) 2015/849, que são aplicados antes da admissão dos criptoativos na plataforma de negociação;
+
+- b) Definir as categorias de exclusão, se as houver, dos tipos de criptoativos que não são admitidos à negociação;
+
+- c) Fixar as políticas, os procedimentos e o nível das comissões, se as houver, para a admissão à negociação;
+
+- d) Fixar regras objetivas, não discriminatórias e critérios proporcionados para a participação nas atividades de negociação, promovendo o acesso equitativo e aberto à plataforma de negociação para os clientes que pretendem negociar nessa plataforma;
+
+- e) Definir regras e procedimentos não discricionários para assegurar uma negociação leal e ordenada e critérios objetivos para a execução eficiente das ordens;
+
+- f) Fixar condições para os criptoativos continuarem acessíveis à negociação, incluindo limiares de liquidez e requisitos de informação periódica;
+
+- g) Fixar as condições em que a negociação dos criptoativos pode ser suspensa;
+
+- h) Fixar procedimentos para assegurar a liquidação eficaz tanto de criptoativos como de fundos.
+
+Para efeitos da alínea a) do primeiro parágrafo, as regras de funcionamento devem mencionar claramente que um criptoativo não pode ser admitido à negociação se não tiver sido publicado o correspondente livrete do criptoativo nos casos em que tal é exigido pelo presente regulamento.
+
+2. Antes de admitir um criptoativo à negociação, os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos devem assegurar que o criptoativo cumpre as regras de operação da plataforma de negociação e avaliar a adequação do criptoativo em questão. Ao avaliar a adequação de um criptoativo, os prestadores de serviços de criptoativos que operam uma plataforma de negociação devem aferir, em especial, a fiabilidade das soluções técnicas utilizadas e a potencial associação a atividades ilícitas ou fraudulentas, tendo em conta a experiência, o histórico e a idoneidade do emitente desses criptoativos e da sua equipa de desenvolvimento. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação avaliam igualmente a adequação dos criptoativos que não sejam criptofichas referenciadas a ativos, nem criptofichas de moeda eletrónica a que se refere o artigo 4.º, n.º 3, primeiro parágrafo, alíneas a) a d).
+
+3. As regras de operação da plataforma de negociação de criptoativos devem impedir a admissão à negociação de criptoativos que incluam uma função de anonimização integrada, a menos que os detentores destes criptoativos e o seu histórico de transações possam ser identificados pelos prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos.
+
+4. As regras de operação a que se refere o n.º 1 devem ser redigidas numa língua oficial do Estado-Membro de origem ou numa língua habitual no sector financeiro internacional.
+
+Se a operação de uma plataforma de negociação de criptoativos tiver lugar noutro Estado-Membro, as regras de operação a que se refere o n.º 1 devem ser redigidas numa língua oficial do Estado-Membro de acolhimento ou numa língua habitual no sector financeiro internacional.
+
+5. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos não negoceiam por conta própria na plataforma de negociação de criptoativos que operam, incluindo no caso de prestarem o serviço de troca de criptoativos por fundos ou por outros criptoativos.
+
+6. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos só estão autorizados a realizar transações simultâneas por conta própria quando o cliente tiver dado o seu consentimento a esse processo. Os prestadores de serviços de criptoativos prestam à autoridade competente informações que expliquem a sua utilização das transações simultâneas por conta própria. A autoridade competente controla a participação dos prestadores de serviços de criptoativos em transações simultâneas por conta própria, e assegura que que essa participação continua a estar abrangida pela definição desse tipo de transações e não dá origem a conflitos de interesses entre os prestadores de serviços de criptoativos e os seus clientes.
+
+7. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos dispõem de sistemas, procedimentos e mecanismos eficazes para assegurar que os seus sistemas de negociação:
+
+- a) São resilientes;
+
+- b) Têm capacidade suficiente para lidar com os picos de volume de ordens e de mensagens;
+
+- c) Têm capacidade para assegurar uma boa negociação em condições de forte tensão no mercado;
+
+- d) Conseguem recusar ordens que excedam os limiares de volume e preço predeterminados ou sejam claramente erróneas;
+
+- e) São integralmente testados para assegurar o cumprimento das condições determinadas nas alíneas a) a d);
+
+- f) Estão sujeitos a mecanismos eficazes de continuidade das atividades para assegurar a continuidade dos seus serviços em caso de falha do sistema de negociação;
+
+- g) São capazes de prevenir ou detetar casos de abuso de mercado;
+
+- h) São suficientemente sólidos para prevenir a sua utilização abusiva para efeitos de branqueamento de capitais ou de financiamento do terrorismo.
+
+8. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos informam a respetiva autoridade competente sempre que identifiquem casos de abuso de mercado ou de tentativa de abuso de mercado nos seus sistemas de negociação ou através deles.
+
+9. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos disponibilizam ao público todos os preços de compra e de venda e a profundidade dos interesses de negociação a esses preços que são anunciados através das suas plataformas de negociação para os criptoativos. Os prestadores de serviços de criptoativos em causa disponibilizam em contínuo essas informações ao público durante o horário de negociação.
+
+10. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos tornam público o preço, o volume e a hora das transações realizadas em relação aos criptoativos negociados nas suas plataformas de negociação e divulgam as informações pormenorizadas sobre todas essas transações, tão próximo do tempo real quanto seja tecnicamente possível.
+
+11. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos disponibilizam ao público as informações publicadas nos termos dos n.ºs 9 e 10 em condições comerciais razoáveis e asseguram o acesso não discriminatório a essas informações. Essas informações devem ser disponibilizadas gratuitamente 15 minutos após a publicação, num formato legível por máquina, e devem continuar publicadas durante pelo menos dois anos.
+
+12. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos iniciam a liquidação final de uma transação de criptoativos no registo distribuído no prazo de 24 horas após a transação ter sido realizada na plataforma de negociação ou, no caso de transações liquidadas fora do registo distribuído, o mais tardar até ao fecho do dia.
+
+13. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos asseguram que as suas estruturas tarifárias são transparentes, equitativas e não discriminatórias e que não criam incentivos para a colocação, a alteração ou o cancelamento de ordens ou para a realização de operações de uma forma que contribua para condições de negociação desordenadas ou para o abuso de mercado, conforme referido no título VI.
+
+14. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação de criptoativos mantêm recursos e dispõem de mecanismos de salvaguarda que lhes permitam comunicar informações à sua autoridade competente em qualquer momento.
+
+15. Os prestadores de serviços de criptoativos que operam uma plataforma de negociação mantêm à disposição da autoridade competente, durante pelo menos cinco anos, os dados pertinentes relativos a todas as ordens de criptoativos que são anunciadas através dos seus sistemas, ou permitem à autoridade competente aceder à carteira de ordens para que a autoridade competente possa controlar a atividade de negociação. Os referidos dados pertinentes incluem as características da ordem, nomeadamente as que ligam uma ordem às transações executadas em virtude da mesma.
+
+16. A ESMA elabora projetos de normas técnicas de regulamentação para especificar mais pormenorizadamente:
+
+- a) De que forma devem ser apresentados os dados relacionados com as obrigações de transparência, incluindo o grau de desagregação desses dados a disponibilizar ao público nos termos dos n.ºs 1, 9 e 10;
+
+- b) O conteúdo e o formato dos registos da carteira de ordens a manter conforme especificado no n.º 15.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 77.º — Troca de criptoativos por fundos ou por outros criptoativos;
+
+1. Os prestadores de serviços de criptoativos que trocam criptoativos por fundos ou por outros criptoativos criam uma política comercial não discriminatória que indique, em especial, o tipo de clientes com que estão dispostos a transacionar e as condições que esses clientes devem preencher.
+
+2. Os prestadores de serviços de criptoativos que trocam criptoativos por fundos ou por outros criptoativos publicam um preço firme para os criptoativos ou um método para a determinação do preço dos criptoativos que propõem trocar por fundos ou por outros criptoativos, bem como qualquer limite aplicável ao montante a trocar determinado por esse prestador de serviços de criptoativos.
+
+3. Os prestadores de serviços de criptoativos que trocam criptoativos por fundos ou por outros criptoativos executam as ordens de clientes aos preços afixados no momento em que a ordem de troca se torna definitiva. Os prestadores de serviços de criptoativos informam os seus clientes das condições a cumprir para que a sua ordem seja considerada definitiva.
+
+4. Os prestadores de serviços de criptoativos que trocam criptoativos por fundos ou por outros criptoativos publicam informações sobre as transações que concluíram, tais como os volumes e os preços das transações.
+
+### Artigo 78.º — Execução de ordens relativas a criptoativos em nome de clientes
+
+1. Os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes devem tomar todas as medidas necessárias para obter, aquando da execução das ordens, o melhor resultado possível para os seus clientes em termos de preço, custos, rapidez, probabilidade de execução e liquidação, volume, natureza, condições de custódia dos criptoativos ou qualquer outra consideração relevante para a execução da ordem.
+
+Não obstante o disposto no primeiro parágrafo, os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes não são obrigados a tomar as medidas necessárias a que se refere o primeiro parágrafo quando executam ordens relativas a criptoativos segundo instruções específicas transmitidas pelos seus clientes.
+
+2. Para assegurar o cumprimento do disposto no n.º 1, os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes criam e aplicam mecanismos de execução eficazes. Em especial, devem definir e executar uma política de execução de ordens que permita cumprir o disposto no n.º 1. A política de execução de ordens deve, entre outras coisas, permitir a execução célere, leal e expedita das ordens de clientes e prevenir a utilização ilícita de informações relativas às ordens dos clientes por parte dos trabalhadores dos prestadores de serviços de criptoativos.
+
+3. Os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes facultam aos seus clientes informação adequada e clara sobre a sua política de execução de ordens a que se refere o n.º 2 e sobre quaisquer alterações importantes da mesma. Essa informação deve explicar claramente, com um grau de pormenor suficiente e de uma forma que seja facilmente compreensível, o modo como as ordens dos clientes devem ser executadas pelos prestadores de serviços de criptoativos. Os prestadores de serviços de criptoativos devem obter o consentimento prévio de cada cliente relativamente à política de execução de ordens.
+
+4. Os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes devem poder demonstrar aos seus clientes, a pedido destes, que executaram as suas ordens de acordo com a sua política de execução de ordens e devem poder demonstrar à autoridade competente, a pedido desta, a sua conformidade com o presente artigo.
+
+5. Caso a política de execução de ordens preveja a possibilidade de as ordens dos clientes serem executadas fora de uma plataforma de negociação, os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes informam os seus clientes dessa possibilidade e obtêm o consentimento expresso prévio dos seus clientes antes de procederem à execução das suas ordens fora de uma plataforma de negociação, quer sob a forma de um acordo geral quer em relação a operações individuais.
+
+6. Os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes vigiam a eficácia dos seus mecanismos de execução de ordens e da sua política de execução de ordens, a fim de identificar e, se for caso disso, corrigir eventuais deficiências a este respeito. Em particular, avaliam periodicamente se as plataformas de execução previstas na política de execução de ordens proporcionam o melhor resultado possível para os clientes ou se devem fazer alterações aos seus mecanismos de execução de ordens. Os prestadores de serviços de criptoativos que executam ordens relativas a criptoativos em nome de clientes notificam os clientes com quem já tenham uma relação de cliente de quaisquer alterações de fundo dos seus mecanismos de execução de ordens ou da sua política de execução de ordens.
+
+### Artigo 79.º — Colocação de criptoativos
+
+1. Os prestadores de serviços de criptoativos que colocam criptoativos comunicam as seguintes informações ao oferente, à pessoa que solicita a admissão à negociação ou a terceiros que atuem em seu nome, antes de celebrarem um acordo com eles:
+
+- a) O tipo de colocação em causa, incluindo se está ou não garantido um montante mínimo de aquisição;
+
+- b) Uma indicação do montante das comissões relacionadas com a colocação proposta;
+
+- c) O prazo, o processo e o preço prováveis para a operação proposta;
+
+- d) Informações sobre os compradores visados.
+
+Os prestadores de serviços de criptoativos que colocam criptoativos devem, antes de os colocarem, obter o acordo dos emitentes desses criptoativos ou de terceiros que atuem em seu nome no que diz respeito às informações enumeradas no primeiro parágrafo.
+
+2. As regras dos prestadores de serviços de criptoativos em matéria de conflitos de interesses referidas no artigo 72.º, n.º 1, devem prever procedimentos específicos e adequados para identificar, prevenir, gerir e divulgar quaisquer conflitos de interesses decorrentes das seguintes situações:
+
+- a) Os prestadores de serviços de criptoativos colocam os criptoativos junto dos seus próprios clientes;
+
+- b) O preço proposto para a colocação de criptoativos foi sobrestimado ou subestimado;
+
+- c) São pagos ou concedidos pelo oferente, aos prestadores de serviços de criptoativos, incentivos, incluindo incentivos não pecuniários.
+
+### Artigo 80.º — Receção e transmissão de ordens relativas a criptoativos em nome de clientes
+
+1. Os prestadores de serviços de criptoativos que recebem e transmitem ordens relativas a criptoativos em nome de clientes devem criar e aplicar procedimentos e mecanismos que permitam a transmissão célere e correta das ordens dos clientes para execução numa plataforma de negociação de criptoativos ou a outro prestador de serviços de criptoativos.
+
+2. Os prestadores de serviços de criptoativos que recebem e transmitem ordens relativas a criptoativos em nome de clientes não podem receber qualquer remuneração, desconto ou benefício não pecuniário em contrapartida do encaminhamento de ordens recebidas de clientes para uma plataforma de negociação de criptoativos específica ou para outro prestador de serviços de criptoativos.
+
+3. Os prestadores de serviços de criptoativos que recebem e transmitem ordens relativas a criptoativos em nome de clientes não podem utilizar ilicitamente as informações respeitantes às ordens pendentes de clientes e devem tomar todas as medidas razoáveis para impedir a utilização ilícita dessas informações por qualquer um dos seus trabalhadores.
+
+### Artigo 81.º — Consultoria sobre criptoativos e gestão de carteiras de criptoativos
+
+1. Os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos ou que prestam serviços de gestão de carteiras de criptoativos avaliam se os serviços de criptoativos ou os criptoativos são adequados aos seus clientes ou potenciais clientes, tendo em conta os seus conhecimentos e a sua experiência em matéria de investimento em criptoativos, os seus objetivos de investimento, incluindo a tolerância ao risco, e a sua situação financeira nomeadamente a sua capacidade para suportar perdas.
+
+2. Os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos devem, antes de prestarem consultoria sobre criptoativos, informar atempadamente os potenciais clientes sobre se:
+
+- a) A consultoria é prestada a título independente;
+
+- b) A consultoria tem por base uma análise do mercado mais ampla ou mais limitada de diferentes criptoativos, nomeadamente se a consultoria é limitada a criptoativos emitidos ou disponibilizados por entidades que mantenham com o prestador de serviços de criptoativos uma relação estreita ou quaisquer outras relações jurídicas ou económicas, tais como relações contratuais, suscetíveis de colocar em risco a independência da consultoria prestada.
+
+3. Caso um prestador de serviços de criptoativos que presta consultoria sobre criptoativos informe o potencial cliente de que a consultoria é prestada a título independente, esse prestador de serviços de criptoativos:
+
+- a) Deve avaliar uma gama suficiente de criptoativos disponíveis no mercado a qual tem de ser suficientemente diversificada para assegurar que os objetivos de investimento do cliente possam ser adequadamente atingidos e que não se podem limitar aos criptoativos emitidos ou disponibilizados por:
+
+  - i) esse mesmo prestador de serviços de criptoativos,
+
+  - ii) entidades que mantenham uma relação estreita com esse mesmo prestador de serviços de criptoativos, ou
+
+  - iii) outras entidades com as quais esse mesmo prestador de serviços de criptoativos mantém relações jurídicas ou económicas de tal modo estreitas, tais como relações contratuais, que são suscetíveis de colocar em risco a independência da consultoria prestada;
+
+- b) Não pode aceitar nem receber comissões, pagamento de encargos ou quaisquer benefícios pecuniários ou não pecuniários pagos ou concedidos por qualquer terceiro ou por uma pessoa que atue em nome de um terceiro em relação à prestação do serviço aos clientes.
+
+Não obstante o disposto na alínea b) do primeiro parágrafo, os pequenos benefícios não pecuniários que sejam capazes de melhorar a qualidade dos serviços de criptoativos prestados a um cliente e que sejam de proporções e de natureza que não prejudiquem o cumprimento do dever do prestador de serviços de criptoativos de agir no melhor interesse do seu cliente são permitidos no caso de serem claramente divulgados ao cliente.
+
+4. Os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos prestam também aos potenciais clientes informações sobre todos os custos e encargos associados, incluindo o custo da consultoria, quando aplicável, o custo dos criptoativos recomendados ou comercializados ao cliente e a forma como o cliente pode pagar os criptoativos, incluindo também quaisquer pagamentos a terceiros.
+
+5. Os prestadores de serviços de criptoativos que prestam serviços de gestão de carteiras de criptoativos não podem aceitar nem receber comissões, pagamento de encargos ou quaisquer benefícios pecuniários ou não pecuniários pagos ou concedidos por um emitente, um oferente, uma pessoa que solicita a admissão à negociação ou qualquer terceiro, ou por uma pessoa que atue em nome de um terceiro, em relação à prestação de gestão da carteira de criptoativos aos seus clientes.
+
+6. Caso um prestador de serviços de criptoativos informe um potencial cliente de que a sua consultoria é prestada a título não independente, esse prestador de serviços pode receber incentivos desde que o pagamento ou a prestação:
+
+- a) Se destine a melhorar a qualidade do serviço pertinente para o cliente; e
+
+- b) Não prejudique o cumprimento do dever dos prestadores de serviços de criptoativos de agir de forma honesta, leal e profissional, em conformidade com o melhor interesse dos seus clientes.
+
+A existência, a natureza e o montante do pagamento ou da prestação a que se refere o n.º 4 ou, se o montante não puder ser determinado, o método de cálculo desse montante, são claramente divulgados ao cliente de modo completo, exato e compreensível, antes da prestação do serviço de criptoativos pertinente.
+
+7. Os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos devem assegurar que as pessoas singulares que prestam aconselhamento ou informações sobre criptoativos ou um serviço de criptoativos em seu nome possuem os conhecimentos e a competência necessários para o cumprimento das suas obrigações. Os Estados-Membros publicam os critérios a utilizar para avaliar tais conhecimentos e competência.
+
+8. Para efeitos da avaliação da adequação a que se refere o n.º 1, os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos ou que prestam serviços de gestão de carteiras de criptoativos obtêm dos seus clientes ou dos seus potenciais clientes as informações necessárias sobre os seus conhecimentos e experiência em investimentos, nomeadamente em criptoativos, os seus objetivos de investimento, incluindo a sua tolerância ao risco, a sua situação financeira, nomeadamente a sua capacidade para suportar perdas, e a sua compreensão básica dos riscos envolvidos na aquisição de criptoativos, de modo a permitir que os prestadores de serviços de criptoativos apresentem aos clientes ou aos potenciais clientes uma recomendação sobre se os criptoativos são ou não adequados para si e, em especial, se estão em conformidade com a sua tolerância ao risco e a sua capacidade para suportar as perdas.
+
+9. Os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos ou que prestam serviços de gestão de carteiras de criptoativos devem advertir os clientes ou os potenciais clientes de que:
+
+- a) O valor dos criptoativos pode flutuar;
+
+- b) Os criptoativos podem estar sujeitos a perdas totais ou parciais;
+
+- c) Os criptoativos podem não ser líquidos;
+
+- d) Se for caso disso, os criptoativos não estão abrangidos pelos sistemas de indemnização dos investidores previstos na Diretiva 97/9/CE;
+
+- e) Os criptoativos não estão abrangidos pelos sistemas de garantia de depósitos previstos na Diretiva 2014/49/UE.
+
+10. Os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos ou que prestam serviços de gestão de carteiras de criptoativos criam, mantêm e aplicam políticas e procedimentos que lhes permitam recolher e avaliar todas as informações necessárias para a realização da avaliação referida no n.º 1 para cada cliente. Devem tomar todas as medidas razoáveis para assegurar que as informações recolhidas sobre os seus clientes efetivos ou potenciais sejam fiáveis.
+
+11. Caso os clientes não forneçam as informações exigidas nos termos do n.º 8, ou caso os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos ou que prestam serviços de gestão de carteiras de criptoativos considerem que os serviços de criptoativos ou os criptoativos não são adequados para os seus clientes, estes prestadores de serviços não podem recomendar esses serviços de criptoativos nem esses criptoativos, nem iniciar a prestação de serviços de gestão de carteiras de criptoativos.
+
+▼C2
+
+12. Os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos ou que prestam serviços de gestão de carteiras de criptoativos revêm regularmente, para cada cliente, a avaliação da adequação a que se refere o n.º 1, pelo menos de dois em dois anos após a avaliação inicial efetuada nos termos desse número.
+
+▼B
+
+13. Uma vez efetuada a avaliação da adequação a que se refere o n.º 1 ou a sua reapreciação nos termos do n.º 12, os prestadores de serviços de criptoativos que prestam consultoria sobre criptoativos fornecem aos clientes um relatório sobre a adequação, especificando a consultoria prestada e a forma como essa consultoria vai ao encontro das preferências, dos objetivos e de outras características dos clientes. Esse relatório deve ser elaborado e comunicado aos clientes em formato eletrónico. Esse relatório deve, no mínimo:
+
+- a) Incluir informação atualizada sobre a avaliação a que se refere o n.º 1; e
+
+- b) Apresentar em linhas gerais a consultoria prestada.
+
+O relatório sobre a adequação a que se refere o primeiro parágrafo deve deixar claro que a consultoria se baseia nos conhecimentos e na experiência do cliente em matéria de investimento em criptoativos, nos objetivos de investimento do cliente, na sua tolerância ao risco, na sua situação financeira e na sua capacidade para suportar perdas.
+
+14. Os prestadores de serviços de criptoativos que prestam serviços de gestão de carteiras de criptoativos fornecem aos seus clientes, em formato eletrónico, mapas periódicos das atividades de gestão de carteiras realizadas em seu nome. Esses mapas periódicos devem conter uma análise justa e equilibrada das atividades realizadas e do desempenho da carteira durante o período de referência, uma declaração atualizada sobre a forma como as atividades realizadas satisfazem as preferências, os objetivos e outras características do cliente, bem como informações atualizadas sobre a avaliação da adequação a que se refere o n.º 1 ou a sua reapreciação nos termos do n.º 12.
+
+O mapa periódico a que se refere o primeiro parágrafo do presente número deve ser apresentado de três em três meses, exceto nos casos em que um cliente tem acesso a um sistema em linha em que é possível aceder a avaliações atualizadas da carteira do cliente e a informações atualizadas sobre a avaliação da adequação a que se refere o n.º 1, e desde que o prestador de serviços de criptoativos tenha provas de que o cliente acedeu a uma avaliação pelo menos uma vez durante o trimestre em causa. Tal sistema em linha é considerado um formato eletrónico.
+
+15. Até 30 de dezembro de 2024, a ESMA emite orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1095/2010 que especifiquem:
+
+▼C1
+
+- a) Os critérios de avaliação dos conhecimentos e da competência em conformidade com o n.º 7;
+
+▼B
+
+- b) As informações a que se refere o n.º 8; e
+
+- c) O formato do mapa periódico a que se refere o n.º 14.
+
+### Artigo 82.º — Serviços de transferência de criptoativos em nome de clientes
+
+1. Os prestadores de serviços de criptoativos que prestam serviços de transferência de criptoativos em nome de clientes devem celebrar um acordo com os seus clientes para especificar as suas funções e responsabilidades. Esse acordo deve incluir pelo menos os seguintes elementos:
+
+- a) A identidade das partes no acordo;
+
+- b) Uma descrição das modalidades do serviço de transferência prestado;
+
+- c) Uma descrição dos sistemas de segurança utilizados pelo prestador de serviços de criptoativos;
+
+- d) Comissões aplicadas pelo prestador de serviços de criptoativos;
+
+- e) A lei aplicável.
+
+2. A ESMA, em estreita cooperação com a EBA, emite orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1095/2010 para os prestadores de serviços de criptoativos que prestam serviços de transferência de criptoativos em nome de clientes no que diz respeito aos procedimentos e políticas, nomeadamente os direitos dos clientes, no contexto dos serviços de transferência de criptoativos.
+
+## CAPÍTULO 4 — Aquisição de prestadores de serviços de criptoativos
+
+### Artigo 83.º — Avaliação das aquisições potenciais de prestadores de serviços de criptoativos
+
+1. Qualquer pessoa singular ou coletiva que, individualmente ou em concertação, tenha tomado a decisão de adquirir, direta ou indiretamente, (o «potencial adquirente») uma participação qualificada num prestador de serviços de criptoativos ou de aumentar essa participação, de forma direta ou indireta, de modo que a sua percentagem de direitos de voto ou de participação no capital atinja ou exceda os limiares de 20 %, 30 % ou 50 %, ou que o prestador de serviços de criptoativos passe a ser sua filial, notifica por escrito essa intenção à autoridade competente do prestador de serviços de criptoativos, indicando o montante da participação pretendida e as informações exigidas em conformidade com as normas técnicas de regulamentação adotadas pela Comissão nos termos do artigo 84.º, n.º 4.
+
+2. Qualquer pessoa singular ou coletiva que pretenda alienar, direta ou indiretamente, uma participação qualificada num prestador de serviços de criptoativos notifica esse facto, por escrito, à autoridade competente antes de alienar a referida participação e indica o montante da participação em causa. A referida pessoa notifica também a autoridade competente no caso de ter decidido reduzir a sua participação qualificada de tal modo que a sua percentagem de direitos de voto ou de participação no capital passe a ser inferior aos limiares de 10 %, 20 %, 30 % ou 50 % ou que o prestador de serviços de criptoativos deixe de ser sua filial.
+
+3. A autoridade competente deve comunicar por escrito a receção de uma notificação nos termos do n.º 1, com a maior brevidade e em qualquer caso no prazo de dois dias úteis a contar da data de receção.
+
+4. A autoridade competente avalia a aquisição potencial a que se refere o n.º 1 do presente artigo e as informações exigidas em conformidade com as normas técnicas de regulamentação adotadas pela Comissão nos termos do artigo 84.º, n.º 4, no prazo de 60 dias úteis a contar da data do aviso de receção a que se refere o n.º 3 do presente artigo. Ao acusar a receção da notificação, a autoridade competente informa o potencial adquirente da data em que termina o prazo de avaliação.
+
+5. Para efeitos da avaliação a que se refere o n.º 4, a autoridade competente pode consultar as autoridades competentes em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo, bem como as unidades de informação financeira, e deve ter devidamente em conta os seus pontos de vista.
+
+6. Ao efetuar a avaliação a que se refere o n.º 4, a autoridade competente pode solicitar ao potencial adquirente quaisquer informações adicionais que sejam necessárias para a conclusão dessa avaliação. Esse pedido é efetuado antes da finalização da avaliação e, em qualquer caso, no prazo máximo de 50 dias úteis a contar da data do aviso de receção a que se refere o n.º 3. Estes pedidos devem ser apresentados por escrito e especificar as informações adicionais necessárias.
+
+A autoridade competente suspende o prazo de avaliação a que se refere o n.º 4 até ter recebido as informações adicionais mencionadas no primeiro parágrafo do presente número. A suspensão não pode ser superior a 20 dias úteis. Quaisquer outros eventuais pedidos de informações adicionais ou de esclarecimento das informações recebidas por parte da autoridade competente não podem dar lugar a uma suspensão adicional do prazo de avaliação.
+
+A autoridade competente pode prorrogar a suspensão a que se refere o segundo parágrafo do presente número por um máximo de 30 dias úteis, se o potencial adquirente estiver estabelecido fora da União ou for regulamentado pelo direito de um país terceiro.
+
+7. A autoridade competente que, após a conclusão da avaliação a que se refere o n.º 4, decida opor-se à aquisição potencial a que se refere o n.º 1 notifica o potencial adquirente dessa oposição no prazo de dois dias úteis e em qualquer caso antes da data mencionada no n.º 4 prorrogada, se aplicável, nos termos do n.º 6, segundo e terceiro parágrafos. A notificação deve apresentar os motivos de tal decisão.
+
+8. Caso a autoridade competente não se oponha à aquisição potencial a que se refere o n.º 1 antes da data mencionada no n.º 4 prorrogada, se aplicável, nos termos do n.º 6, segundo e terceiro parágrafos, a aquisição potencial será considerada aprovada.
+
+9. A autoridade competente pode fixar um prazo máximo para a conclusão da aquisição potencial a que se refere o n.º 1 e prorrogar esse prazo máximo, se for caso disso.
+
+### Artigo 84.º — Conteúdo da avaliação das aquisições potenciais de prestadores de serviços de criptoativos
+
+1. Ao realizar a avaliação a que se refere o artigo 83.º, n.º 4, a autoridade competente avalia a aptidão do potencial adquirente e a solidez financeira da aquisição potencial a que se refere o artigo 83.º, n.º 1, tendo em conta todos os seguintes critérios:
+
+- a) A idoneidade do potencial adquirente;
+
+- b) A idoneidade, os conhecimentos, as competências e a experiência da pessoa ou pessoas que administrarão a atividade do prestador de serviços de criptoativos em resultado da aquisição potencial;
+
+- c) A solidez financeira do potencial adquirente, designadamente em função do tipo de atividade a exercer e exercida no que se refere ao prestador de serviços de criptoativos que é objeto da aquisição potencial;
+
+- d) A capacidade do prestador de serviços de criptoativos para cumprir de forma continuada as disposições do presente título;
+
+- e) A existência de motivos razoáveis para suspeitar que, em ligação com a aquisição potencial, estão a ser ou foram cometidos ou tentados atos de branqueamento de capitais ou de financiamento do terrorismo na aceção, respetivamente, do artigo 1.º, n.ºs 3 e 5, da Diretiva (UE) 2015/849 ou que a aquisição potencial poderá aumentar esse risco.
+
+2. A autoridade competente só pode opor-se à aquisição potencial se para tanto existirem motivos razoáveis, com base nos critérios enunciados no n.º 1 do presente artigo, ou se as informações prestadas nos termos do artigo 83.º, n.º 4, forem incompletas ou falsas.
+
+3. Os Estados-Membros não podem impor quaisquer condições prévias quanto ao nível da participação qualificada que deve ser adquirida nos termos do presente regulamento, nem permitir que as suas autoridades competentes apreciem a aquisição proposta em termos das necessidades económicas do mercado.
+
+4. A ESMA, em estreita colaboração com a EBA, elabora projetos de normas técnicas de regulamentação que especifiquem o conteúdo pormenorizado das informações necessárias para a realização da avaliação a que se refere o artigo 83.º, n.º 4, primeiro parágrafo. As informações exigidas devem ser relevantes para uma avaliação prudencial, bem como proporcionais e adaptadas à natureza do potencial adquirente e da aquisição potencial a que se refere o artigo 83.º, n.º 1.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+## CAPÍTULO 5 — Prestadores significativos de serviços de criptoativos
+
+### Artigo 85.º — Identificação dos prestadores significativos de serviços de criptoativos
+
+1. Um prestador de serviços de criptoativos é considerado significativo se tiver pelo menos 15 milhões de utilizadores ativos na União, em média, num ano civil, sendo a média calculada como a média do número diário de utilizadores ativos durante o ano civil anterior.
+
+2. Os prestadores de serviços de criptoativos devem notificar as suas autoridades competentes no prazo de dois meses após ter atingido o número de utilizadores ativos previstos no n.º 1. Caso a autoridade competente concorde que o limiar estabelecido no n.º 1 é atingido, notifica deste facto a ESMA.
+
+3. Sem prejuízo das responsabilidades das autoridades competentes nos termos do presente regulamento, as autoridades competentes dos Estados-Membros de origem prestam anualmente ao Conselho de Supervisores da ESMA informação atualizada sobre os seguintes desenvolvimentos em matéria de supervisão relativamente aos prestadores de serviços de criptoativos significativos:
+
+- a) Autorizações em curso ou concluídas a que se refere o artigo 59.º;
+
+- b) Processos em curso ou concluídos de revogação de autorizações a que se refere o artigo 64.º;
+
+- c) O exercício dos poderes de supervisão previstos no artigo 94.º, n.º 1, primeiro parágrafo, alíneas b), c), e), f), g), y) e a-A).
+
+A autoridade competente do Estado-Membro de origem pode prestar ao Conselho de Supervisores da ESMA atualizações da informação com mais frequência, ou notificá-lo antes de qualquer decisão tomada pela autoridade competente do Estado-Membro de origem no que diz respeito ao primeiro parágrafo, alíneas a), b) ou c).
+
+4. A transmissão de informações atualizadas a que se refere o n.º 3, segundo parágrafo, pode ser seguida de uma troca de pontos de vista no Conselho de Supervisores da ESMA.
+
+5. Se for caso disso, a ESMA pode fazer uso dos seus poderes nos termos dos artigos 29.º, 30.º, 31.º e 31.º-B do Regulamento (UE) n.º 1095/2010.
+
+## TÍTULO VI — PREVENÇÃO E PROIBIÇÃO DOS ABUSOS DE MERCADO LIGADOS A CRIPTOATIVOS
+
+### Artigo 86.º — Âmbito das regras em matéria de abuso de mercado
+
+1. O presente título aplica-se aos atos realizados por qualquer pessoa que digam respeito a criptoativos admitidos à negociação ou em relação aos quais tenha sido efetuado um pedido de admissão à negociação.
+
+2. O presente título é igualmente aplicável a qualquer transação, ordem ou conduta que diga respeito a criptoativos referidos no n.º 1, independentemente de essa transação, ordem ou conduta ocorrer numa plataforma de negociação.
+
+3. O presente título é aplicável às ações e omissões na União e em países terceiros no que diz respeito aos criptoativos referidos no n.º 1.
+
+### Artigo 87.º — Informação privilegiada
+
+1. Para efeitos do presente regulamento, a informação privilegiada engloba os seguintes tipos de informação:
+
+- a) Informação com caráter preciso, que não tenha sido tornada pública e diga respeito, direta ou indiretamente, a um ou mais emitentes, oferentes ou pessoas que solicitam a admissão à negociação ou a um ou mais criptoativos e que, caso fosse tornada pública, seria suscetível de influenciar de forma significativa os preços desses criptoativos ou o preço de um criptoativo conexo;
+
+- b) No caso das pessoas encarregadas da execução de ordens relativas a criptoativos em nome de clientes, engloba igualmente a informação com caráter preciso transmitida por um cliente e relativa às ordens pendentes do cliente sobre criptoativos, que diga respeito, direta ou indiretamente, a um ou mais emitentes, oferentes ou pessoas que solicitam a admissão à negociação ou a um ou mais criptoativos e que, caso fosse tornada pública, provavelmente influenciaria de forma significativa os preços desses criptoativos ou o preço de um criptoativo conexo.
+
+2. Para efeitos do n.º 1, considera-se que a informação tem um caráter preciso se indicar um conjunto de circunstâncias que exista ou que possa razoavelmente prever-se que venha a existir, ou um acontecimento que tenha ocorrido ou possa razoavelmente prever-se que venha a ocorrer, e que seja suficientemente específica para permitir que sejam extraídas conclusões acerca do possível efeito desse conjunto de circunstâncias ou desse acontecimento sobre os preços de criptoativos. Neste contexto, no caso de um processo continuado no tempo que se destina a concretizar, ou que tem como resultado, determinadas circunstâncias ou um determinado acontecimento, essas circunstâncias futuras ou esse acontecimento futuro podem ser considerados informação com um caráter preciso, tal como as etapas intermédias desse processo que estão relacionadas com a concretização dessas circunstâncias futuras ou desse acontecimento futuro ou que têm como resultado essas circunstâncias ou esse acontecimento.
+
+3. Uma etapa intermédia num processo continuado no tempo constitui informação privilegiada se, em si e por si, cumprir os critérios da informação privilegiada referidos no n.º 2.
+
+4. Para efeitos do n.º 1, entende-se por informação que, caso fosse tornada pública, seria suscetível de influenciar de forma significativa os preços dos criptoativos, a informação que um detentor razoável de criptoativos utilizaria provavelmente como um dos elementos para fundamentar as suas decisões de investimento.
+
+### Artigo 88.º — Divulgação pública de informação privilegiada
+
+1. Os emitentes, os oferentes e as pessoas que solicitam a admissão à negociação devem informar o público, o mais rapidamente possível, da informação privilegiada referida no artigo 87.º que lhes diga diretamente respeito, de uma forma que permita um acesso rápido e uma avaliação completa, correta e atempada da informação pelo público. Os emitentes, os oferentes e as pessoas que solicitam a admissão à negociação não podem combinar a divulgação de informação privilegiada ao público com a promoção das suas atividades. Os emitentes, os oferentes e as pessoas que solicitam a admissão à negociação publicam e mantêm no seu sítio Web durante um período de, pelo menos, cinco anos, todas as informações privilegiadas que são obrigados a tornar públicas.
+
+2. Os emitentes, os oferentes e as pessoas que solicitam a admissão à negociação podem, sob sua responsabilidade, diferir a divulgação pública de informação privilegiada referida no artigo 87.º, desde que estejam reunidas todas as seguintes condições:
+
+- a) A divulgação imediata é suscetível de prejudicar os interesses legítimos dos emitentes, dos oferentes ou das pessoas que solicitam a admissão à negociação;
+
+- b) O diferimento da divulgação não é suscetível de induzir o público em erro;
+
+- c) Os emitentes, os oferentes ou as pessoas que solicitam a admissão à negociação estão em condições de assegurar a confidencialidade dessa informação.
+
+3. Caso um emitente, um oferente ou uma pessoa que solicita a admissão à negociação tenha adiado a divulgação de informação privilegiada em conformidade com o n.º 2, informa a autoridade competente de que a divulgação da informação foi adiada e presta uma explicação por escrito do modo como foram cumpridas as condições estabelecidas no n.º 2, imediatamente após a divulgação da informação ao público. Em alternativa, os Estados-Membros podem prever que o registo dessa explicação só seja prestado a pedido da autoridade competente.
+
+4. A fim de garantir condições uniformes de aplicação do presente artigo, a ESMA elabora projetos de normas técnicas de execução para determinar os meios técnicos para:
+
+- a) A divulgação pública adequada da informação privilegiada a que se refere o n.º 1; e
+
+- b) O diferimento da divulgação pública de informação privilegiada a que se referem os n.ºs 2 e 3.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número, nos termos do artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 89.º — Proibição do abuso de informação privilegiada
+
+1. Para efeitos do presente regulamento, considera-se que existe abuso de informação privilegiada quando uma pessoa dispõe de informação privilegiada e utiliza essa informação para adquirir ou alienar, por sua conta ou por conta de terceiros, direta ou indiretamente, criptoativos a que essa informação diz respeito. Considera-se também abuso de informação privilegiada a utilização de informação privilegiada para anular ou alterar uma ordem relativa a um criptoativo a que essa informação diz respeito, quando a ordem tenha sido colocada antes de a pessoa em causa dispor da informação privilegiada. A utilização de informação privilegiada inclui igualmente a apresentação, a alteração ou a retirada de uma oferta por uma pessoa por sua própria conta ou por conta de terceiros.
+
+2. É proibido a qualquer pessoa cometer ou tentar cometer abuso de informação privilegiada ou utilizar informação privilegiada sobre criptoativos para a aquisição ou a alienação desses criptoativos, direta ou indiretamente, quer por sua própria conta, quer por conta de terceiros. É proibido recomendar que um terceiro cometa abuso de informação privilegiada ou incitar essa pessoa a cometer abuso de informação privilegiada.
+
+3. Nenhuma pessoa na posse de informação privilegiada sobre criptoativos pode, com base nessa informação privilegiada, recomendar ou incitar outra pessoa:
+
+- a) A adquirir ou alienar esses criptoativos; ou
+
+- b) Cancelar ou alterar uma ordem relativa a esses criptoativos.
+
+4. A utilização de uma recomendação ou de um incitamento a que se refere o n.º 3 constitui abuso de informação privilegiada na aceção do presente artigo, caso a pessoa que recorre à recomendação ou ao incitamento saiba, ou devesse saber, que se baseia em informação privilegiada.
+
+5. O presente artigo aplica-se a qualquer pessoa que possua informação privilegiada em virtude de:
+
+- a) Ser membro dos órgãos de administração, direção ou fiscalização do emitente, do oferente ou da pessoa que solicita a admissão à negociação;
+
+- b) Deter uma participação no capital do emitente, do oferente ou da pessoa que solicita admissão à negociação;
+
+- c) Ter acesso às informações através do exercício de uma atividade laboral, de uma profissão ou de funções ou pelo seu papel na tecnologia de registo distribuído ou tecnologia similar; ou
+
+- d) Participar em atividades criminosas.
+
+O presente artigo aplica-se igualmente a qualquer pessoa que disponha de informação privilegiada em circunstâncias distintas das especificadas no primeiro parágrafo e quando essa pessoa saiba ou devesse saber que se trata de informação privilegiada.
+
+6. Quando a pessoa a que se refere o n.º 1 for uma pessoa coletiva, o presente artigo é aplicável, nos termos do direito nacional, às pessoas singulares que participem na decisão de efetuar a aquisição, a alienação, o cancelamento ou a alteração de uma ordem por conta da pessoa coletiva em causa.
+
+### Artigo 90.º — Proibição da divulgação ilícita de informação privilegiada
+
+1. Nenhuma pessoa na posse de informação privilegiada pode divulgar ilicitamente informação privilegiada a terceiros, exceto quando tal divulgação é efetuada durante o exercício normal de uma atividade laboral, de uma profissão ou de funções.
+
+2. A divulgação subsequente das recomendações ou dos incitamentos referidos no artigo 89.º, n.º 4, constitui divulgação ilícita de informação privilegiada, caso a pessoa que divulga a recomendação ou o incitamento saiba, ou devesse saber, que os mesmos se baseavam em informação privilegiada.
+
+### Artigo 91.º — Proibição de manipulação de mercado
+
+1. É proibido a qualquer pessoa cometer ou tentar cometer manipulação de mercado.
+
+2. Para efeitos do presente regulamento, manipulação de mercado engloba qualquer das seguintes atividades:
+
+- a) Exceto se por razões legítimas, realizar uma transação, colocar uma ordem de negociação ou praticar qualquer outra conduta que:
+
+  - i) dê ou seja suscetível de dar, indicações falsas ou enganosas no que respeita à oferta, à procura ou ao preço de um criptoativo,
+
+  - ii) mantenha ou seja suscetível de manter o preço de um ou mais criptoativos a um nível anormal ou artificial;
+
+- b) Realizar transações, colocar uma ordem de negociação ou praticar qualquer outra atividade ou conduta que afete, ou seja suscetível de afetar, o preço de um ou mais criptoativos, recorrendo a procedimentos fictícios ou a quaisquer outras formas de engano ou artifício;
+
+- c) Divulgar informações através dos meios de comunicação social, incluindo a Internet, ou através de outros meios, que deem ou sejam suscetíveis de dar indicações falsas ou enganosas quanto à oferta, à procura ou ao preço de um ou de vários criptoativos, ou mantenham ou sejam suscetíveis de manter o preço de um ou mais criptoativos a um nível anormal ou artificial, incluindo a divulgação de rumores, quando a pessoa que procedeu à divulgação sabia ou devesse saber que essas informações eram falsas ou enganosas.
+
+3. São consideradas manipulação de mercado, entre outras, as seguintes condutas:
+
+- a) Assegurar uma posição dominante sobre a oferta ou a procura de um criptoativo, que tenha ou possa ter por efeito a fixação, de forma direta ou indireta, de preços de compra ou de venda ou que crie, ou seja suscetível de criar, outras condições de negociação desleais;
+
+- b) Colocar ordens de negociação numa plataforma de negociação de criptoativos, incluindo o seu cancelamento ou alteração, por meio de qualquer mecanismo de negociação, que tenha um dos efeitos referidos no n.º 2, alínea a):
+
+  - i) perturbando ou diferindo o funcionamento da plataforma de negociação de criptoativos ou participando em atividades suscetíveis de ter esse efeito,
+
+  - ii) dificultando a identificação por outras pessoas de verdadeiras ordens na plataforma de negociação de criptoativos ou participando em atividades suscetíveis de ter esse efeito, nomeadamente através da introdução de ordens de negociação que resultem na desestabilização do funcionamento normal da plataforma de negociação de criptoativos,
+
+  - iii) criando uma indicação falsa ou enganosa sobre a oferta, a procura ou o preço de um criptoativo, nomeadamente através da introdução de ordens de negociação para iniciar ou exacerbar uma tendência ou participando em atividades suscetíveis de ter esse efeito;
+
+- c) Tirar partido do acesso pontual ou regular aos meios de comunicação social (tradicionais ou eletrónicos) emitindo opiniões sobre um criptoativo, tendo previamente assumido posições nesse criptoativo e tirando seguidamente partido do impacto dessas opiniões no preço desse criptoativo, sem simultaneamente ter revelado ao público, de forma adequada e eficaz, esse conflito de interesses.
+
+### Artigo 92.º — Prevenção e deteção de abuso de mercado
+
+1. Qualquer pessoa que, a título profissional, organize ou execute transações de criptoativos deve dispor de mecanismos, sistemas e procedimentos eficazes para prevenir e detetar o abuso de mercado. Essa pessoa fica sujeita às regras em matéria de notificação do Estado-Membro em que está registada ou em que tem a sua sede social ou, no caso de uma sucursal, do Estado-Membro em que se situa a sucursal, e deve comunicar sem demora à autoridade competente desse Estado-Membro qualquer suspeita razoável quanto a uma ordem ou a uma transação, nomeadamente qualquer cancelamento ou alteração desta ordem ou desta transação, e outros aspetos do funcionamento da tecnologia de registo distribuído, tais como o mecanismo de consenso, caso existam circunstâncias que indiciem que foi, está a ser ou é suscetível de ser praticado abuso de mercado.
+
+As autoridades competentes que recebam uma comunicação de ordens ou de transações suspeitas devem transmitir imediatamente estas informações às autoridades competentes das plataformas de negociação em causa.
+
+▼C1
+
+2. A ESMA elabora projetos de normas técnicas de regulamentação para especificar mais pormenorizadamente:
+
+- a) Disposições, sistemas e procedimentos adequados para que as pessoas deem cumprimento ao disposto no n.º 1;
+
+- b) O modelo a utilizar pelas pessoas para efeitos do cumprimento do disposto no n.º 1;
+
+- c) Para situações transfronteiriças de abuso de mercado, procedimentos de coordenação entre as autoridades competentes pertinentes para detetar e sancionar o abuso de mercado.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de dezembro de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+▼B
+
+3. Para assegurar a coerência das práticas de supervisão nos termos do presente artigo, a ESMA, até 30 de junho de 2025, emite orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1095/2010 sobre práticas de supervisão entre as autoridades competentes para prevenir e detetar o abuso de mercado, caso não estejam já abrangidas pelas normas técnicas de regulamentação a que se refere o n.º 2.
+
+## TÍTULO VII — AUTORIDADES COMPETENTES, EBA E ESMA
+
+## CAPÍTULO 1 — Poderes das autoridades competentes e cooperação entre as autoridades competentes, a EBA e a ESMA
+
+### Artigo 93.º — Autoridades competentes
+
+1. Os Estados-Membros designam as autoridades competentes responsáveis pelo exercício das funções e dos deveres previstos no presente regulamento. Os Estados-Membros informam a EBA e a ESMA das autoridades competentes designadas.
+
+2. Nos casos em que os Estados-Membros designem mais do que uma autoridade competente nos termos do n.º 1, determinam as respetivas atribuições e designam uma autoridade competente como ponto de contacto único para efeitos de cooperação administrativa transfronteiriça entre autoridades competentes, bem como com a EBA e a ESMA. Os Estados-Membros podem designar um ponto de contacto diferente para cada um destes tipos de cooperação administrativa.
+
+3. A ESMA publica no seu sítio Web a lista das autoridades competentes designadas nos termos dos n.ºs 1 e 2.
+
+### Artigo 94.º — Poderes das autoridades competentes
+
+1. Para o desempenho das suas funções previstas nos títulos II a VI do presente regulamento, as autoridades competentes dispõem pelo menos, nos termos do direito nacional, dos seguintes poderes de supervisão e investigação:
+
+- a) Exigir a qualquer pessoa que preste informações e documentos que as autoridades competentes considerem relevantes para o exercício das suas funções;
+
+- b) Suspender, ou exigir que um prestador de serviços de criptoativos suspenda, a prestação de serviços de criptoativos por um período máximo de 30 dias úteis consecutivos de cada vez, sempre que existam motivos razoáveis para suspeitar de uma infração ao presente regulamento;
+
+- c) Proibir a prestação de serviços de criptoativos nos casos em que constatem uma infração ao presente regulamento;
+
+- d) Divulgar, ou exigir que um prestador de serviços de criptoativos divulgue, todas as informações relevantes suscetíveis de influenciar a prestação dos serviços de criptoativos em causa, no intuito de assegurar a proteção dos interesses dos clientes, em particular dos detentores não profissionais, ou o regular funcionamento do mercado;
+
+- e) Tornar público o facto de que um prestador de serviços de criptoativos não cumpre as suas obrigações;
+
+- f) Suspender, ou exigir que um prestador de serviços de criptoativos suspenda, a prestação de serviços de criptoativos nos casos em que as autoridades competentes considerem que a situação desse prestador é tal que a prestação do referido serviço prejudicaria os interesses dos clientes, em particular dos detentores não profissionais;
+
+- g) Exigir a transferência dos contratos em vigor para outro prestador de serviços de criptoativos nos casos em que a autorização de um prestador de serviços de criptoativos seja revogada nos termos do artigo 64.º, sujeito ao acordo dos clientes e do prestador de serviços de criptoativos para o qual os contratos são transferidos;
+
+- h) Sempre que existam motivos para presumir que uma pessoa presta serviços de criptoativos sem autorização, ordenar a cessação imediata da atividade, sem aviso prévio ou imposição de um prazo para o efeito;
+
+- i) Exigir que os oferentes, as pessoas que solicitam a admissão à negociação de criptoativos ou os emitentes de criptofichas referenciadas a ativos ou de criptofichas de moeda eletrónica alterem o seu livrete do criptoativo ou alterem novamente o seu livrete do criptoativo modificado, caso considerem que o livrete do criptoativo ou o livrete do criptoativo modificado não contém as informações exigidas pelo artigo 6.º, 19.º ou 51.º;
+
+- j) Exigir que os oferentes, as pessoas que solicitam a admissão à negociação de criptoativos ou os emitentes de criptofichas referenciadas a ativos ou de criptofichas de moeda eletrónica alterem as suas comunicações comerciais, caso considerem que as comunicações comerciais não são conformes com os requisitos estabelecidos no artigo 7.º, 29.º ou 53.º do presente regulamento;
+
+- k) Exigir que os oferentes, as pessoas que solicitam a admissão à negociação de criptoativos ou os emitentes de criptofichas referenciadas a ativos ou de criptofichas de moeda eletrónica incluam informações adicionais nos seus livretes do criptoativo, sempre que tal seja necessário para a estabilidade financeira, a proteção dos interesses dos detentores de criptoativos, em particular os detentores não profissionais;
+
+- l) Suspender uma oferta pública ou uma admissão à negociação de criptoativos por um período máximo de 30 dias úteis consecutivos de cada vez que haja motivos razoáveis para suspeitar de uma infração ao presente regulamento;
+
+- m) Proibir uma oferta pública de criptoativos ou uma admissão à negociação de criptoativos, caso constatem uma infração ao presente regulamento ou haja motivos razoáveis para suspeitar que será infringido;
+
+- n) Suspender, ou exigir que um prestador de serviços de criptoativos que opera uma plataforma de negociação de criptoativos suspenda, a negociação dos criptoativos por um período máximo de 30 dias úteis consecutivos de cada vez, sempre que existam motivos razoáveis para suspeitar de uma infração ao presente regulamento;
+
+- o) Proibir uma negociação de criptoativos numa plataforma de negociação de criptoativos, caso constatem uma infração ao presente regulamento ou haja motivos razoáveis para suspeitar que será infringido;
+
+- p) Suspender ou proibir comunicações comerciais sempre que haja motivos razoáveis para suspeitar de uma infração ao presente regulamento;
+
+- q) Exigir que oferentes, pessoas que solicitam a admissão à negociação de criptoativos, emitentes de criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica ou prestadores de serviços de criptoativos pertinentes cessem ou suspendam comunicações comerciais por um período máximo de 30 dias úteis consecutivos de cada vez que haja motivos razoáveis para suspeitar de uma infração ao presente regulamento;
+
+- r) Tornar público o facto de que um oferente, uma pessoa que solicita a admissão à negociação de um criptoativo ou um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica não cumpre as suas obrigações previstas no presente regulamento;
+
+- s) Divulgar, ou exigir que o oferente, a pessoa que solicita a admissão à negociação de um criptoativo ou o emitente da criptoficha referenciada a ativos ou da criptoficha de moeda eletrónica divulgue toda a informação relevante suscetível de influenciar a avaliação do criptoativo objeto de oferta pública ou a admitir à negociação, no intuito de assegurar a proteção dos interesses dos detentores de criptoativos, em particular dos detentores não profissionais, ou o regular funcionamento do mercado;
+
+- t) Suspender, ou exigir que o prestador de serviços de criptoativos pertinente que opera uma plataforma de negociação de criptoativos suspenda a negociação dos criptoativos, caso considerem que a situação do oferente, da pessoa que solicita a admissão à negociação de um criptoativo ou do emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica é tal que essa negociação prejudicaria os interesses dos detentores de criptoativos, em particular dos detentores não profissionais;
+
+- u) Caso haja razões para supor que uma pessoa emite criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica sem autorização, ou que uma pessoa oferece criptoativos ou solicita a admissão à negociação de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica sem ter notificado um livrete do criptoativo nos termos do artigo 8.º, ordenar a cessação imediata da atividade sem aviso prévio ou a imposição de um prazo para o efeito;
+
+- v) Tomar qualquer tipo de medida para assegurar que um oferente ou uma pessoa que solicita a admissão à negociação de criptoativos, um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica ou um prestador de serviços de criptoativos cumpre o disposto no presente regulamento, nomeadamente exigir a cessação de qualquer prática ou conduta que as autoridades competentes considerem contrária ao presente regulamento;
+
+- w) Realizar inspeções no local ou investigações em locais que não as residências privadas de pessoas singulares e, para esse efeito, entrar nas instalações a fim de aceder a documentos e a outros dados sob qualquer forma;
+
+- x) Externalizar verificações ou investigações a auditores ou peritos;
+
+- y) Exigir a saída de uma pessoa singular do órgão de administração de um emitente de uma criptoficha referenciada a ativos ou de um prestador de serviços de criptoativos;
+
+- z) Solicitar a qualquer pessoa que tome medidas para reduzir a dimensão da sua posição ou a sua exposição a criptoativos;
+
+- aa) Caso não estejam disponíveis outros meios eficazes para fazer cessar a infração ao presente regulamento, e a fim de evitar o risco de causar um prejuízo grave aos interesses dos clientes ou dos detentores de criptoativos, tomar todas as medidas necessárias, nomeadamente solicitando a um terceiro ou a uma autoridade pública que aplique tais medidos, para:
+
+  - i) retirar conteúdos ou restringir o acesso a uma interface em linha, ou ordenar que seja explicitamente exibido um alerta destinado aos clientes e aos detentores de criptoativos quando estes acedem à interface em linha,
+
+  - ii) ordenar a um prestador de serviços de alojamento virtual que elimine, desative ou restrinja o acesso a uma interface em linha, ou
+
+  - iii) exigir que os registos ou os operadores de registos de domínios suprimam um nome de domínio plenamente qualificado e permitir que a autoridade competente em causa o registe;
+
+- ab) Exigir que um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica, em conformidade com o artigo 23.º, n.º 4, o artigo 24.º, n.º 3, ou o artigo 58.º, n.º 3, introduza um montante nominal mínimo ou limite o montante emitido.
+
+2. Os poderes de supervisão e de investigação exercidos em relação aos oferentes, às pessoas que solicitam a admissão à negociação, aos emitentes e aos prestadores de serviços de criptoativos não prejudicam os poderes conferidos às mesmas ou a outras autoridades de supervisão no que diz respeito a essas entidades, nomeadamente os poderes conferidos às autoridades competentes relevantes nos termos das disposições do direito nacional que transpõem a Diretiva 2009/110/CE e os poderes de supervisão prudencial conferidos ao BCE ao abrigo do Regulamento (UE) n.º 1024/2013.
+
+3. Para o desempenho das suas funções previstas no título VI, as autoridades competentes devem dispor, nos termos do direito nacional, pelo menos dos seguintes poderes de supervisão e investigação, para além dos poderes a que se refere o n.º 1:
+
+- a) Ter acesso a quaisquer documentos e dados, independentemente da sua forma, e receber ou fazer uma cópia dos mesmos;
+
+- b) Solicitar ou exigir informações a quaisquer pessoas, incluindo as pessoas que sucessivamente intervenham na transmissão de ordens ou na realização das operações em causa, bem como os seus comitentes, e, se necessário, convocar e inquirir essas pessoas com vista a obter informações;
+
+- c) Entrar em instalações de pessoas singulares e coletivas com o propósito de apreender documentos e outros dados, independentemente da sua forma, se houver motivos razoáveis para suspeitar que existem documentos ou dados relacionados com o objeto da inspeção ou investigação que possam ser pertinentes para fazer prova de abuso de informação privilegiada ou de manipulação de mercado;
+
+- d) Remeter os processos para exercício da ação penal;
+
+- e) Solicitar, na medida em que o direito nacional o permita, os registos de tráfego de dados existentes na posse de um operador de telecomunicações, se houver motivos razoáveis para suspeitar de uma infração e se esses registos puderem ser pertinentes para a investigação de uma infração aos artigos 88.º a 91.º;
+
+- f) Exigir o congelamento, a apreensão de bens, ou ambos;
+
+- g) Impor uma interdição temporária do exercício da atividade profissional;
+
+- h) Tomar todas as medidas necessárias para assegurar a informação adequada do público, incluindo a retificação de informações falsas ou deturpadas divulgadas, nomeadamente exigindo a publicação de uma declaração retificativa por parte de um oferente, de uma pessoa que solicite a admissão à negociação ou de um emitente ou outra pessoa responsável pela publicação ou difusão das informações falsas ou deturpadas.
+
+4. Se necessário nos termos do direito nacional, a autoridade competente pode solicitar ao tribunal competente que decida sobre o exercício dos poderes a que se referem os n.ºs 1 e 2.
+
+5. As autoridades competentes exercem os poderes a que se referem os n.ºs 1 e 2 da seguinte forma:
+
+- a) Diretamente;
+
+- b) Em colaboração com outras autoridades, nomeadamente autoridades competentes em matéria de prevenção e luta contra o branqueamento de capitais e o financiamento do terrorismo;
+
+- c) Sob a sua responsabilidade, por delegação nas autoridades referidas na alínea b);
+
+- d) Mediante pedido dirigido aos tribunais competentes.
+
+6. Os Estados-Membros asseguram que existem medidas adequadas para que as autoridades competentes possam exercer os poderes de supervisão e investigação imprescindíveis ao desempenho das suas funções.
+
+7. A comunicação de informações às autoridades competentes nos termos do presente regulamento não é considerada uma infração a qualquer restrição relativa à divulgação de informações imposta contratualmente ou por qualquer disposição legislativa, regulamentar ou administrativa, não ficando a pessoa que efetua tal comunicação sujeita a qualquer tipo de responsabilidade com ela relacionada.
+
+### Artigo 95.º — Cooperação entre as autoridades competentes
+
+1. As autoridades competentes cooperam entre si para efeito do presente regulamento. As autoridades competentes prestam assistência às autoridades competentes de outros Estados-Membros, bem como à EBA e à ESMA. Procedem à troca de informações sem demora injustificada e cooperam nas atividades de investigação, supervisão e execução da lei.
+
+Caso os Estados-Membros tenham, nos termos do artigo 111.º, n.º 1, segundo parágrafo, estabelecido sanções penais pelas infrações ao presente regulamento a que se refere o artigo 111.º, n.º 1, primeiro parágrafo, devem assegurar que existem medidas adequadas para que as autoridades competentes disponham de todos os poderes necessários para assegurar a ligação com as autoridades judiciais, as autoridades competentes para o exercício da ação penal ou as autoridades de justiça penal na sua jurisdição, a fim de receberem informações específicas relacionadas com as investigações ou processos penais instaurados por infrações ao presente regulamento, e de prestarem essas mesmas informações a outras autoridades competentes, bem como à EBA e à ESMA, em cumprimento da sua obrigação de cooperação para efeitos do presente regulamento.
+
+2. As autoridades competentes só podem indeferir um pedido de informação ou de cooperação com uma investigação nos seguintes casos:
+
+- a) Caso a comunicação das informações pertinentes possa prejudicar a segurança do Estado-Membro ao qual o pedido foi dirigido, em especial a luta contra o terrorismo e outras infrações graves;
+
+- b) Caso o cumprimento do pedido possa prejudicar a sua própria investigação, as suas atividades de aplicação da lei ou, se for caso disso, uma investigação criminal;
+
+- c) Caso já tenha sido intentada uma ação relativamente aos mesmos atos e contra as mesmas pessoas singulares ou coletivas nos tribunais do Estado-Membro ao qual o pedido foi dirigido;
+
+- d) Caso já tenha transitado em julgado uma decisão relativamente aos mesmos factos e contra as mesmas pessoas singulares ou coletivas, no Estado-Membro ao qual o pedido foi dirigido.
+
+3. As autoridades competentes prestam sem demora injustificada, mediante pedido, quaisquer informações solicitadas para efeitos do presente regulamento.
+
+4. A autoridade competente pode solicitar assistência à autoridade competente de outro Estado-Membro no que respeita a investigações ou a inspeções no local.
+
+A autoridade competente requerente informa a EBA e a ESMA de qualquer pedido de assistência efetuado nos termos do primeiro parágrafo. Caso uma autoridade competente receba um pedido de uma autoridade competente de outro Estado-Membro para realizar uma investigação ou uma inspeção no local, pode:
+
+- a) Realizar ela própria a investigação ou a inspeção no local;
+
+- b) Autorizar a autoridade competente requerente a participar na investigação ou na inspeção no local;
+
+- c) Autorizar a autoridade competente requerente a realizar ela própria a investigação ou a inspeção no local;
+
+- d) Partilhar com as outras autoridades competentes funções específicas relacionadas com atividades de supervisão.
+
+5. No caso de uma investigação ou de uma inspeção no local referida no n.º 4, a ESMA coordena a inspeção ou a investigação sempre que tal lhe seja solicitado por uma das autoridades competentes.
+
+Caso a investigação ou a inspeção no local referida no n.º 4 diga respeito a um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica, ou a serviços de criptoativos relacionados com criptofichas referenciadas a ativos ou com criptofichas de moeda eletrónica, a EBA, a pedido de uma das autoridades competentes, coordena essa inspeção ou investigação.
+
+6. As autoridades competentes podem suscitar a questão junto da ESMA em situações em que tenha sido indeferido um pedido de cooperação, em especial de troca de informações, ou em que não lhe tenha sido dado seguimento num prazo razoável. O artigo 19.º, n.º 4, do Regulamento (UE) n.º 1095/2010 é aplicável, com as devidas adaptações, em tais situações.
+
+7. Em derrogação do disposto no n.º 6 do presente artigo, as autoridades competentes podem suscitar a questão junto da EBA nas situações em que tenha sido indeferido um pedido de cooperação, nomeadamente de informação respeitante a um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica ou de informação respeitante a serviços de criptoativos relacionados com criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica, ou em que não tenha sido dado seguimento a este pedido num prazo razoável. O artigo 19.º, n.º 4, do Regulamento (UE) n.º 1093/2010 é aplicável, com as devidas adaptações, em tais situações.
+
+8. As autoridades competentes coordenam estreitamente a sua supervisão de modo a identificarem e corrigirem as infrações ao presente regulamento, desenvolverem e promoverem as boas práticas, facilitarem a colaboração, promoverem a coerência da interpretação e facultarem avaliações transjurisdicionais em caso de desacordo.
+
+Para efeitos do primeiro parágrafo do presente número, a EBA e a ESMA desempenham um papel de coordenação entre as autoridades competentes e a nível dos colégios de supervisão a que se refere o artigo 119.º, a fim de instituir uma cultura de supervisão comum e práticas de supervisão uniformes e assegurar procedimentos uniformes.
+
+9. Caso uma autoridade competente constate que um dos requisitos estabelecidos no presente regulamento não é cumprido, ou tenha razões para supor que assim é, comunica esse facto, de forma suficientemente detalhada, à autoridade competente da entidade ou entidades suspeitas de tal infração.
+
+10. A ESMA elabora, em estreita cooperação com a EBA, projetos de normas técnicas de regulamentação para especificar mais pormenorizadamente as informações a trocar entre as autoridades competentes nos termos do n.º 1.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+11. A ESMA elabora, em estreita cooperação com a EBA, projetos de normas técnicas de execução para criar formulários, modelos e procedimentos normalizados para a cooperação e troca de informações entre autoridades competentes.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número, nos termos do artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 96.º — Cooperação com a EBA e a ESMA
+
+1. Para efeitos do presente regulamento, as autoridades competentes cooperam estreitamente com a ESMA nos termos do Regulamento (UE) n.º 1095/2010 e com a EBA nos termos do Regulamento (UE) n.º 1093/2010. Trocam informações, a fim de desempenharem as funções que lhes são atribuídas no presente capítulo e nos capítulos 2 e 3 do presente título.
+
+2. As autoridades competentes facultam sem demora à EBA e à ESMA todas as informações necessárias ao desempenho das suas funções, em conformidade com o artigo 35.º do Regulamento (UE) n.º 1093/2010 e o artigo 35.º do Regulamento (UE) n.º 1095/2010, respetivamente.
+
+3. A ESMA elabora, em estreita cooperação com a EBA, projetos de normas técnicas de execução para criar formulários, modelos e procedimentos normalizados para a cooperação e troca de informações entre autoridades competentes e a EBA e a ESMA.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de execução referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número, nos termos do artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 97.º — Promoção da convergência em matéria de classificação de criptoativos
+
+1. Até 30 de dezembro de 2024, as Autoridades Europeias de Supervisão emitem conjuntamente orientações em conformidade com o artigo 16.º do Regulamento (UE) n.º 1093/2010, o artigo 16.º do Regulamento (UE) n.º 1094/2010 e o artigo 16.º do Regulamento (UE) n.º 1095/2010 para especificar o conteúdo e a forma da explicação que acompanha o livrete do criptoativo a que se refere o artigo 8.º, n.º 4, e dos pareceres jurídicos sobre a qualificação das criptofichas referenciadas a ativos a que se refere o artigo 17.º, n.º 1, alínea b), subalínea ii), e o artigo 18.º, n.º 2, alínea e). As orientações devem incluir um modelo para a explicação e o parecer, bem como um teste normalizado para a classificação dos criptoativos.
+
+2. As Autoridades Europeias de Supervisão promovem, nos termos do artigo 29.º do Regulamento (UE) n.º 1093/2010, do artigo 29.º do Regulamento (UE) n.º 1094/2010 e do artigo 29.º do Regulamento (UE) n.º 1095/2010, consoante aplicável, o debate entre as autoridades competentes sobre a classificação dos criptoativos, nomeadamente sobre a classificação dos criptoativos excluídos do âmbito de aplicação do presente regulamento nos termos do artigo 2.º, n.º 3. As Autoridades Europeias de Supervisão identificam também as fontes de potenciais divergências nas abordagens das autoridades competentes em matéria de classificação destes criptoativos e, na medida do possível, promovem uma abordagem comum nesta matéria.
+
+3. As autoridades competentes dos Estados-Membros de origem ou de acolhimento podem solicitar à ESMA, à EIOPA ou à EBA, consoante o caso, um parecer sobre a classificação de criptoativos, incluindo os que estão excluídos do âmbito de aplicação do presente regulamento nos termos do artigo 2.º, n.º 3. A ESMA, a EIOPA ou a EBA, consoante o caso, devem emitir esse parecer nos termos do artigo 29.º do Regulamento (UE) n.º 1093/2010, do artigo 29.º do Regulamento (UE) n.º 1094/2010 e do artigo 29.º do Regulamento (UE) n.º 1095/2010, consoante o caso, no prazo de 15 dias úteis a contar da receção do pedido transmitido pelas autoridades competentes.
+
+4. As Autoridades Europeias de Supervisão elaboram conjuntamente um relatório anual com base nas informações contidas no registo a que se refere o artigo 109.º e nos resultados do seu trabalho a que se referem os n.ºs 2 e 3 do presente artigo, identificando as dificuldades na classificação dos criptoativos e as divergências nas abordagens das autoridades competentes.
+
+### Artigo 98.º — Cooperação com as demais autoridades
+
+Caso um oferente, uma pessoa que solicita a admissão à negociação, um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica ou um prestador de serviços de criptoativos exerça atividades distintas das atividades abrangidas pelo presente regulamento, as autoridades competentes cooperam com as autoridades responsáveis pela supervisão ou fiscalização dessas outras atividades nos termos do direito nacional ou do direito da União aplicável, inclusive com as autoridades fiscais e as autoridades de supervisão pertinentes de países terceiros.
+
+### Artigo 99.º — Dever de notificação
+
+Os Estados-Membros notificam à Comissão, à EBA e à ESMA, até 30 de junho de 2025, as disposições legislativas, regulamentares e administrativas que dão execução ao presente título, incluindo quaisquer disposições de direito penal aplicáveis. Os Estados-Membros notificam à Comissão, à EBA e à ESMA, sem demora injustificada, quaisquer alterações subsequentes das referidas disposições.
+
+### Artigo 100.º — Sigilo profissional
+
+1. Todas as informações trocadas entre as autoridades competentes nos termos do presente regulamento que digam respeito a condições comerciais ou operacionais ou a outros assuntos económicos ou pessoais são consideradas confidenciais e ficam sujeitas à obrigação de sigilo profissional, salvo se a autoridade competente declarar no momento da comunicação que tal informação pode ser divulgada ou se tal divulgação for necessária no âmbito de um processo judicial ou de processos abrangidos pelo direito fiscal ou penal nacional.
+
+2. A obrigação de sigilo profissional é aplicável a todas as pessoas singulares e coletivas que trabalhem ou tenham trabalhado para as autoridades competentes. As informações abrangidas pelo sigilo profissional não podem ser divulgadas a qualquer outra pessoa singular ou coletiva ou autoridade, exceto por força de atos legislativos da União ou nacionais.
+
+### Artigo 101.º — Proteção de dados
+
+No que respeita ao tratamento de dados pessoais no âmbito do presente regulamento, as autoridades competentes exercem as suas atribuições para efeitos do presente regulamento nos termos do Regulamento (UE) 2016/679.
+
+O tratamento dos dados pessoais pela EBA e a ESMA para efeitos do presente regulamento deve ser efetuado nos termos do Regulamento (UE) 2018/1725.
+
+### Artigo 102.º — Medidas cautelares
+
+1. Caso a autoridade competente do Estado-Membro de acolhimento tenha motivos inequívocos e demonstráveis para suspeitar que há irregularidades nas atividades de um oferente ou de uma pessoa que solicita a admissão à negociação de criptoativos, de um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica, ou de um prestador de serviços de criptoativos, notifica desse facto a autoridade competente do Estado-Membro de origem e a ESMA.
+
+Caso as irregularidades referidas no primeiro parágrafo respeitem a um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica, ou a um serviço de criptoativos relacionado com criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica, a autoridade competente do Estado-Membro de acolhimento deve notificar também a EBA.
+
+2. Caso, não obstante as medidas tomadas pela autoridade competente do Estado-Membro de origem, as irregularidades referidas no n.º 1 persistam, constituindo uma infração ao presente regulamento, a autoridade competente do Estado-Membro de acolhimento, após informar a autoridade competente do Estado-Membro de origem, a ESMA e, se for caso disso, a EBA tomam as medidas adequadas para proteger os clientes de prestadores de serviços de criptoativos e os detentores de criptoativos, em especial os detentores não profissionais. Tais medidas incluem impedir o oferente, a pessoa que solicita a admissão à negociação, o emitente da criptoficha referenciada a ativos ou de criptoficha de moeda eletrónica ou o prestador de serviços de criptoativos de continuar a exercer atividades no Estado-Membro de acolhimento. A autoridade competente informa desse facto a ESMA e, se for caso disso, a EBA, sem demora injustificada. A ESMA e, se intervier, a EBA informam desse facto a Comissão, sem demora injustificada.
+
+3. Caso uma autoridade competente do Estado-Membro de origem não concorde com qualquer das medidas tomadas por uma autoridade competente do Estado-Membro de acolhimento nos termos do n.º 2 do presente artigo, pode suscitar a questão junto da ESMA. O artigo 19.º, n.º 4, do Regulamento (UE) n.º 1095/2010 é aplicável, com as devidas adaptações, em tais situações.
+
+Em derrogação do disposto no primeiro parágrafo do presente número, se as medidas referidas no n.º 2 do presente artigo respeitarem a um emitente de uma criptoficha referenciada a ativos ou de uma criptoficha de moeda eletrónica, ou a um serviço de criptoativos relacionado com criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica, a autoridade competente do Estado-Membro de acolhimento pode suscitar a questão junto da EBA. O artigo 19.º, n.º 4, do Regulamento (UE) n.º 1093/2010 é aplicável, com as devidas adaptações, em tais situações.
+
+### Artigo 103.º — Poderes de intervenção temporária da ESMA
+
+1. Nos termos do artigo 9.º, n.º 5, do Regulamento (UE) n.º 1095/2010, e caso estejam preenchidas as condições enunciadas nos n.ºs 2 e 3 do presente artigo, a ESMA pode proibir ou restringir temporariamente:
+
+- a) A promoção, distribuição ou venda de determinados criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica ou de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica com determinadas características especificadas; ou
+
+- b) Um tipo de atividade ou de prática relacionada com criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica.
+
+Uma proibição ou restrição pode ser aplicável em determinadas circunstâncias, ou estar sujeita a exceções, especificadas pela ESMA.
+
+2. A ESMA só toma uma medida nos termos do n.º 1, se estiverem preenchidas cumulativamente as seguintes condições:
+
+- a) A proibição ou restrição proposta visa atender a uma preocupação relevante em matéria de proteção dos investidores ou enfrentar uma ameaça ao funcionamento ordenado e à integridade dos mercados de criptoativos ou à estabilidade de todo o sistema financeiro da União ou de parte dele;
+
+- b) Os requisitos regulamentares previstos no direito da União que são aplicáveis aos criptoativos e aos serviços de criptoativos pertinentes não enfrentam a ameaça em causa;
+
+- c) Nenhuma autoridade competente pertinente tomou medidas para responder à ameaça em causa ou as medidas tomadas não enfrentam adequadamente a ameaça.
+
+3. Ao tomar uma medida nos termos do n.º 1, a ESMA assegura que a medida:
+
+- a) Não tenha um efeito prejudicial sobre a eficiência dos mercados de criptoativos ou sobre os detentores de criptoativos ou os clientes que recebam serviços de criptoativos que seja desproporcional aos benefícios da medida; e
+
+- b) Não crie riscos de arbitragem regulamentar.
+
+Se as autoridades competentes tiverem tomado uma medida nos termos do artigo 105.º, a ESMA pode tomar qualquer das medidas referidas no n.º 1 do presente artigo sem emitir um parecer nos termos do artigo 106.º, n.º 2.
+
+4. Antes de decidir tomar uma medida nos termos do n.º 1, a ESMA informa as autoridades competentes pertinentes da medida que tenciona tomar.
+
+5. A ESMA publica no seu sítio Web um aviso da decisão de adotar uma medida nos termos do n.º 1. Esse aviso especifica os detalhes da proibição ou restrição imposta e a data, após a publicação do aviso, a partir da qual as medidas produzirão efeitos. Uma proibição ou restrição só é aplicável a atividades posteriores à produção de efeitos das medidas.
+
+6. A ESMA reavalia qualquer proibição ou restrição imposta nos termos do n.º 1 a intervalos adequados, no mínimo de seis em seis meses. Após um mínimo de duas renovações consecutivas, e com base numa análise adequada que avalie o impacto para os consumidores, a ESMA pode decidir a renovação da proibição ou restrição por um ano.
+
+7. As medidas tomadas pela ESMA nos termos do presente artigo prevalecem sobre quaisquer medidas anteriores tomadas pelas autoridades competentes pertinentes sobre a mesma matéria.
+
+8. A Comissão adota atos delegados nos termos do artigo 139.º, a fim de completar o presente regulamento com a especificação dos critérios e fatores que devem ser tidos em conta pela ESMA para determinar se existe uma preocupação relevante em matéria de proteção dos investidores ou uma ameaça ao funcionamento ordenado e à integridade dos mercados de criptoativos ou à estabilidade de todo o sistema financeiro da União ou de parte dele para efeitos do n.º 2, alínea a), do presente artigo.
+
+### Artigo 104.º — Poderes de intervenção temporária da EBA
+
+1. Nos termos do artigo 9.º, n.º 5, do Regulamento (UE) n.º 1093/2010, e caso estejam preenchidas as condições enunciadas nos n.ºs 2 e 3 do presente artigo, a EBA pode proibir ou restringir temporariamente:
+
+- a) A promoção, distribuição ou venda de determinadas criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica ou de criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica com determinadas características especificadas; ou
+
+- b) Um tipo de atividade ou de prática relacionada com criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica.
+
+Uma proibição ou restrição pode ser aplicável em determinadas circunstâncias, ou estar sujeita a exceções, especificadas pela EBA.
+
+2. A EBA só toma uma medida nos termos do n.º 1, se estiverem preenchidas cumulativamente as seguintes condições:
+
+- a) A proibição ou restrição proposta visa atender a uma preocupação relevante em matéria de proteção dos investidores ou enfrentar uma ameaça ao funcionamento ordenado e à integridade dos mercados de criptoativos ou à estabilidade de todo o sistema financeiro da União ou de parte dele;
+
+- b) Os requisitos regulamentares previstos no direito da União que são aplicáveis às criptofichas referenciadas a ativos pertinentes, às criptofichas de moeda eletrónica pertinentes ou aos serviços de criptoativos relacionados com estas criptofichas pertinentes não enfrentam a ameaça em causa;
+
+- c) Nenhuma autoridade competente pertinente tomou medidas para responder à ameaça em causa ou as medidas tomadas não enfrentam adequadamente a ameaça.
+
+3. Ao tomar uma medida nos termos do n.º 1, a EBA assegura que a medida:
+
+- a) Não tenha um efeito prejudicial sobre a eficiência dos mercados de criptoativos ou sobre os detentores de criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica ou os clientes que recebam serviços de criptoativos que seja desproporcional aos benefícios da medida; e
+
+- b) Não crie riscos de arbitragem regulamentar.
+
+Se as autoridades competentes tiverem tomado uma medida nos termos do artigo 105.º, a EBA pode tomar qualquer das medidas referidas no n.º 1 do presente artigo sem emitir o parecer a que se refere o artigo 106.º, n.º 2.
+
+4. Antes de decidir tomar uma medida nos termos do n.º 1, a EBA informa as autoridades competentes pertinentes da medida que tenciona tomar.
+
+5. A EBA publica no seu sítio Web um aviso da decisão de adotar uma medida nos termos do n.º 1. Este aviso especifica os detalhes da proibição ou restrição imposta e a data, após a publicação do aviso, a partir da qual as medidas produzirão efeitos. Uma proibição ou restrição só é aplicável a atividades posteriores à produção de efeitos da medida.
+
+6. A EBA reavalia qualquer proibição ou restrição imposta nos termos do n.º 1 a intervalos adequados, no mínimo de seis em seis meses. Após um mínimo de duas renovações consecutivas, e com base numa análise adequada que avalie o impacto para os consumidores, a EBA pode decidir a renovação da proibição ou restrição por um ano.
+
+7. As medidas tomadas pela EBA nos termos do presente artigo prevalecem sobre quaisquer medidas anteriores tomadas pela autoridade competente pertinente sobre a mesma matéria.
+
+8. A Comissão adota atos delegados nos termos do artigo 139.º, a fim de completar o presente regulamento com a especificação dos critérios e fatores que devem ser tidos em conta pela EBA para determinar se existe uma preocupação relevante em matéria de proteção dos investidores ou uma ameaça ao funcionamento ordenado e à integridade dos mercados de criptoativos ou à estabilidade de todo o sistema financeiro da União ou de parte dele para efeitos do n.º 2, alínea a), do presente artigo.
+
+### Artigo 105.º — Intervenção das autoridades competentes sobre os produtos
+
+1. Uma autoridade competente pode proibir ou restringir o seguinte no ou a partir do seu Estado-Membro:
+
+- a) A promoção, distribuição ou venda de determinados criptoativos ou de criptoativos com determinadas características especificadas; ou
+
+- b) Um tipo de atividade ou prática relacionada com criptoativos.
+
+2. Uma autoridade competente só toma uma medida nos termos do n.º 1, se considerar, com base em motivos razoáveis, que:
+
+- a) Um criptoativo suscita preocupações relevantes em matéria de proteção dos investidores ou representa uma ameaça ao funcionamento ordenado e à integridade dos mercados de criptoativos ou à estabilidade de todo o sistema financeiro ou de parte dele em pelo menos um Estado-Membro;
+
+- b) Os requisitos regulamentares existentes previstos no direito da União aplicáveis ao criptoativo ou ao serviço de criptoativos em causa não são suficientes para enfrentar os riscos a que se refere a alínea a) e o problema não seria tratado de forma mais eficaz através da melhoria da supervisão ou da aplicação dos requisitos existentes;
+
+- c) A medida é proporcionada, tendo em conta a natureza dos riscos identificados, o grau de sofisticação dos investidores ou dos participantes no mercado em causa e os efeitos prováveis da medida sobre os investidores e os participantes no mercado que possam deter ou utilizar o criptoativo ou o serviço de criptoativos em causa ou deles beneficiar;
+
+- d) A autoridade competente consultou devidamente as autoridades competentes de outros Estados-Membros suscetíveis de serem afetados de forma significativa pela medida; e
+
+- e) A medida não tem um efeito discriminatório nos serviços prestados ou nas atividades exercidas a partir de outro Estado-Membro.
+
+Caso as condições previstas no primeiro parágrafo do presente número estejam preenchidas, a autoridade competente pode impor, a título preventivo, a proibição ou restrição a que se refere o n.º 1 antes da promoção, distribuição ou venda a clientes de um criptoativo.
+
+A autoridade competente pode decidir só aplicar a proibição ou restrição a que se refere o n.º 1 em determinadas circunstâncias, ou sujeitá-la a exceções.
+
+3. A autoridade competente só pode impor uma proibição ou restrição nos termos do presente artigo, se, pelo menos um mês antes do momento em que se pretende que a medida comece a produzir efeitos, tiver prestado a todas as outras autoridades competentes e à ESMA ou à EBA, no caso de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica, por escrito ou através de outro meio acordado entre as autoridades, os seguintes elementos:
+
+- a) O criptoativo ou a atividade ou prática a que a medida proposta diz respeito;
+
+- b) A natureza exata da proibição ou restrição proposta e a data em que se pretende que comece a produzir efeitos; e
+
+- c) Os dados em que baseou a sua decisão e em função dos quais considera que se encontram reunidas todas as condições a que se refere o n.º 2, primeiro parágrafo.
+
+4. Em casos excecionais em que a autoridade competente o considere necessário, a fim de evitar quaisquer efeitos negativos decorrentes do criptoativo ou da atividade ou prática a que se refere o n.º 1, a autoridade competente pode tomar uma medida urgente a título provisório, notificando por escrito todas as outras autoridades competentes e a ESMA com uma antecedência mínima de 24 horas relativamente ao momento em que se pretende que a medida comece a produzir efeitos, desde que estejam satisfeitos todos os critérios estabelecidos no presente artigo e que, além disso, esteja claramente comprovado que o prazo de notificação de um mês não seria suficiente para atender à preocupação em causa ou para fazer face à ameaça concreta. A duração das medidas tomadas a título provisório não pode exceder três meses.
+
+5. A autoridade competente publica no seu sítio Web um aviso da decisão que impõe uma proibição ou restrição a que se refere o n.º 1. Este aviso especifica os detalhes da proibição ou restrição imposta e a data, após a publicação do aviso, a partir da qual as medidas produzirão efeitos, bem como os dados em que a autoridade competente baseou a sua decisão e em função dos quais considera que se encontram reunidas todas as condições a que se refere o n.º 2, primeiro parágrafo. A proibição ou restrição só é aplicável a atividades posteriores à produção de efeitos das medidas.
+
+6. A autoridade competente revoga a proibição ou restrição se as condições a que se refere o n.º 2 deixarem de ser aplicáveis.
+
+7. A Comissão adota atos delegados nos termos do artigo 139.º, a fim de completar o presente regulamento com a especificação dos critérios e fatores que devem ser tidos em conta pelas autoridades competentes para determinar se existe uma preocupação relevante em matéria de proteção dos investidores ou uma ameaça ao funcionamento ordenado e à integridade dos mercados de criptoativos ou à estabilidade de todo o sistema financeiro ou de parte dele em pelo menos um Estado-Membro para efeitos do n.º 2, primeiro parágrafo, alínea a).
+
+### Artigo 106.º — Coordenação com a ESMA ou a EBA
+
+1. A ESMA ou, no caso de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica, a EBA desempenha um papel de facilitação e coordenação relativamente às medidas tomadas pelas autoridades competentes nos termos do artigo 105.º. A ESMA ou, no caso de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica, a EBA, assegura que as medidas tomadas por uma autoridade competente sejam justificadas e proporcionadas e que as autoridades competentes adotem uma abordagem coerente, se for caso disso.
+
+2. Após receber a notificação nos termos do artigo 105.º, n.º 3, de qualquer medida a tomar nos termos desse artigo, a ESMA ou, no caso das criptofichas referenciadas a ativos e criptofichas de moeda eletrónica, a EBA, emite um parecer sobre se a proibição ou restrição é justificada e proporcionada. Se a ESMA ou, no caso de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica, a EBA, considerar que a adoção de uma medida por outras autoridades competentes é necessária para enfrentar o risco, declara este facto no seu parecer. O parecer é publicado no sítio Web da ESMA ou, no caso de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica, da EBA.
+
+3. Caso uma autoridade competente se proponha tomar, tome ou se recuse a tomar medidas, contrariando um parecer emitido pela ESMA ou pela EBA nos termos do n.º 2, publica imediatamente no seu sítio Web um comunicado que explique cabalmente as suas razões para tal.
+
+### Artigo 107.º — Cooperação com países terceiros
+
+1. As autoridades competentes dos Estados-Membros celebram, se necessário, acordos de cooperação com autoridades de supervisão de países terceiros em matéria de troca de informações com essas autoridades de países terceiros e de execução das obrigações resultantes do presente regulamento nesses países terceiros. Esses acordos de cooperação asseguram, no mínimo, uma troca de informações eficaz, de modo a que as autoridades competentes possam desempenhar as suas funções ao abrigo do presente regulamento.
+
+Se uma autoridade competente tiver a intenção de celebrar um acordo dessa natureza, informa a EBA, a ESMA e as outras autoridades competentes.
+
+2. Sempre que possível, a ESMA, em estreita cooperação com a EBA, facilita e coordena a elaboração dos acordos de cooperação entre as autoridades competentes e as autoridades de supervisão pertinentes de países terceiros.
+
+3. A ESMA, em estreita colaboração com a EBA, elabora projetos de normas técnicas de regulamentação que estabeleçam um modelo para os acordos de cooperação a que se refere o n.º 1, que deve ser usado, sempre que possível, pelas autoridades competentes dos Estados-Membros.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+4. Sempre que possível, a ESMA, em estreita cooperação com a EBA, facilita e coordena também a troca de informações entre autoridades competentes obtidas junto de autoridades de supervisão de países terceiros que possam ser pertinentes para a adoção de medidas previstas no capítulo 3 do presente título.
+
+5. As autoridades competentes só podem celebrar acordos de cooperação sobre troca de informações com as autoridades de supervisão de países terceiros caso a informação divulgada esteja sujeita a garantias de sigilo profissional que sejam pelo menos equivalentes às estabelecidas no artigo 100.º. Essa troca de informações deve ter por objetivo o exercício das atribuições das autoridades competentes em causa previstas no presente regulamento.
+
+### Artigo 108.º — Tratamento das reclamações pelas autoridades competentes
+
+1. As autoridades competentes estabelecem procedimentos que permitam aos clientes e a outras partes interessadas, incluindo associações de consumidores, apresentar-lhes reclamações respeitantes a alegadas infrações ao presente regulamento cometidas por oferentes, pessoas que solicitam a admissão à negociação, emitentes de criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica, ou prestadores de serviços de criptoativos. As reclamações são aceites por escrito, incluindo por via eletrónica, e numa língua oficial do Estado-Membro onde a reclamação é apresentada ou numa língua aceite pelas autoridades competentes desse Estado-Membro.
+
+2. As informações sobre os procedimentos de tratamento de reclamações a que se refere o n.º 1 do presente artigo são disponibilizadas no sítio Web de cada autoridade competente e comunicadas à EBA e à ESMA. A ESMA publica hiperligações para as secções dos sítios Web das autoridades competentes relacionadas com os procedimentos de tratamento de reclamações no seu registo de criptoativos a que se refere o artigo 109.º.
+
+## CAPÍTULO 2 — Registo da ESMA
+
+### Artigo 109.º — Registo de livretes do criptoativo, de emitentes de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica e de prestadores de serviços de criptoativos
+
+1. A ESMA estabelece um registo de:
+
+- a) Livretes do criptoativo para criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica;
+
+- b) Emitentes de criptofichas referenciadas a ativos;
+
+- c) Emitentes de criptofichas de moeda eletrónica; e
+
+- d) Prestadores de serviços de criptoativos.
+
+O registo da ESMA deve ser acessível ao público no sítio Web da ESMA e ser atualizado regularmente. A fim de facilitar essa atualização, as autoridades competentes comunicam à ESMA quaisquer alterações que lhes sejam notificadas no que diz respeito às informações especificadas nos n.ºs 2 a 5.
+
+A autoridade competente deve prestar à ESMA os dados necessários para a classificação dos livretes do criptoativo no registo, conforme especificado no n.º 8.
+
+2. No que diz respeito aos livretes do criptoativo que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica, o registo deve conter os livretes do criptoativo e os eventuais livretes do criptoativo modificados. Quaisquer versões desatualizadas dos livretes do criptoativo devem ser conservadas num arquivo separado e ser claramente assinaladas como versões desatualizadas.
+
+3. No que respeita aos emitentes de criptofichas referenciadas a ativos, o registo deve conter as seguintes informações:
+
+- a) O nome, a forma jurídica e o identificador de entidade jurídica do emitente;
+
+- b) A denominação comercial, o endereço físico, o número de telefone, o endereço eletrónico e o sítio Web do emitente;
+
+- c) Os livretes do criptoativo e quaisquer livretes do criptoativo modificados, devendo as versões desatualizadas do livrete do criptoativo ser conservadas num arquivo separado e ser claramente assinaladas como versões desatualizadas;
+
+- d) A lista dos Estados-Membros de acolhimento, caso o emitente requerente pretenda fazer uma oferta pública de uma criptoficha referenciada a ativos ou pretenda solicitar a admissão à negociação de criptofichas referenciadas a ativos;
+
+- e) A data de início, ou, caso não esteja disponível no momento da notificação pela autoridade competente, a data de início pretendida, da oferta pública ou da admissão à negociação;
+
+- f) Quaisquer outros serviços prestados pelo emitente não abrangidos pelo presente regulamento, com uma referência ao direito da União ou ao direito nacional aplicável;
+
+- g) A data da autorização da oferta pública ou do pedido de admissão à negociação da criptoficha referenciada a ativos ou de autorização da instituição de crédito e, se for caso disso, da revogação de qualquer uma daquelas autorizações.
+
+4. No que respeita aos emitentes de criptofichas de moeda eletrónica, o registo deve conter as seguintes informações:
+
+- a) O nome, a forma jurídica e o identificador de entidade jurídica do emitente;
+
+- b) A denominação comercial, o endereço físico, o número de telefone, o endereço eletrónico e o sítio Web do emitente;
+
+- c) Os livretes do criptoativo e quaisquer livretes do criptoativo modificados, devendo as versões desatualizadas do livrete do criptoativo ser conservadas num arquivo separado e ser claramente assinaladas como versões desatualizadas;
+
+- d) A data de início, ou, caso não esteja disponível no momento da notificação pela autoridade competente, a data de início pretendida, da oferta pública ou da admissão à negociação;
+
+- e) Quaisquer outros serviços prestados pelo emitente não abrangidos pelo presente regulamento, com uma referência ao direito da União ou ao direito nacional aplicável;
+
+- f) A data da autorização como instituição de crédito ou como instituição de moeda eletrónica e, se for caso disso, da revogação dessa autorização.
+
+5. No que respeita aos prestadores de serviços de criptoativos, o registo deve conter as seguintes informações:
+
+- a) O nome, a forma jurídica e o identificador de entidade jurídica do prestador de serviços de criptoativos e, se aplicável, as sucursais do prestador de serviços de criptoativos;
+
+- b) A denominação comercial, o endereço físico, o número de telefone, o endereço eletrónico e o sítio Web do prestador de serviços de criptoativos e, se aplicável, a plataforma de negociação de criptoativos operada pelo prestador de serviços de criptoativos;
+
+- c) O nome e o endereço da autoridade competente que concedeu a autorização e os seus dados de contacto;
+
+- d) A lista de serviços de criptoativos que são prestados pelos prestadores de serviços de criptoativos;
+
+- e) A lista dos Estados-Membros de acolhimento nos quais o prestador de serviços de criptoativos pretende prestar serviços de criptoativos;
+
+- f) A data de início da prestação de serviços de criptoativos ou, se não estiver disponível no momento da notificação pela autoridade competente, a data de início da prestação de serviços de criptoativos prevista;
+
+- g) Quaisquer outros serviços prestados pelo prestador de serviços de criptoativos não abrangidos pelo presente regulamento, com uma referência ao direito da União ou ao direito nacional aplicável;
+
+- h) A data da autorização e, se for caso disso, da revogação da autorização.
+
+6. As autoridades competentes notificam sem demora a ESMA das medidas previstas no artigo 94.º, n.º 1, primeiro parágrafo, alíneas b), c), f), l), m), n), o) ou t), e de quaisquer medidas cautelares públicas tomadas nos termos do artigo 102.º que afetem a prestação de serviços de criptoativos ou a emissão, a oferta pública ou a utilização de criptoativos. A ESMA inclui estas informações no registo.
+
+7. Qualquer revogação de uma autorização de um emitente de uma criptoficha referenciada a ativos, de um emitente de uma criptoficha de moeda eletrónica ou de um prestador de serviços de criptoativos, bem como qualquer medida notificada nos termos do n.º 6, deve permanecer publicada no registo durante cinco anos.
+
+8. A ESMA elabora projetos de normas técnicas de regulamentação a fim de especificar mais pormenorizadamente os dados necessários para a classificação, por tipo de criptoativo, dos livretes do criptoativo, incluindo os identificadores de entidade jurídica, no registo e de especificar as disposições práticas para assegurar que esses dados sejam legíveis por máquina.
+
+A ESMA apresenta à Comissão os projetos de normas técnicas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1095/2010.
+
+### Artigo 110.º — Registo de entidades não conformes que prestam serviços de criptoativos
+
+1. A ESMA cria um registo não exaustivo de entidades que prestam serviços de criptoativos em violação do artigo 59.º ou 61.º.
+
+2. O registo deve conter, pelo menos, a denominação comercial ou o sítio Web da entidade não conforme e o nome da autoridade competente que apresentou as informações.
+
+3. O registo é disponibilizado ao público no sítio Web da ESMA num formato legível por máquina e é atualizado regularmente, a fim de ter em conta qualquer mudança de circunstâncias ou quaisquer informações comunicadas à ESMA relativamente às entidades não conformes registadas. O registo deve permitir o acesso centralizado às informações apresentadas pelas autoridades competentes dos Estados-Membros ou de países terceiros, bem como pela EBA.
+
+4. A ESMA atualiza o registo a fim de incluir informações sobre qualquer caso de infração ao presente regulamento identificado por sua própria iniciativa nos termos do artigo 17.º do Regulamento (UE) n.º 1095/2010 em que tenha adotado uma decisão ao abrigo do n.º 6 do referido artigo dirigida a uma entidade não conforme que presta serviços de criptoativos ou quaisquer informações de entidades que prestam serviços de criptoativos sem a necessária autorização ou registo apresentadas pelas autoridades de supervisão pertinentes de países terceiros.
+
+5. Nos casos referidos no n.º 4 do presente artigo, a ESMA pode aplicar os poderes de supervisão e investigação pertinentes das autoridades competentes a que se refere o artigo 94.º, n.º 1, a entidades não conformes que prestam serviços de criptoativos.
+
+▼M1
+
+### Artigo 110.º-A — Acessibilidade da informação no ponto de acesso único europeu
+
+1. A partir de 10 de janeiro de 2030, sempre que tornem públicas quaisquer informações referidas no artigo 88.º, n.º 1, do presente regulamento, o emitente, o oferente ou a pessoa que solicita a admissão à negociação deve transmitir simultaneamente essas informações ao organismo de recolha competente a que se refere o n.º 3 do presente artigo, para efeitos de tornar essas informações acessíveis no ponto de acesso único europeu (ESAP) criado ao abrigo do Regulamento (UE) 2023/2859 do Parlamento Europeu e do Conselho ([^20]).
+
+Essas informações devem cumprir os seguintes requisitos:
+
+- a) Serem transmitidas num formato que permita a extração de dados, na aceção do artigo 2.º, ponto 3, do Regulamento (UE) 2023/2859 ou, quando tal for exigido pelo direito da União, num formato legível por máquina, na aceção do artigo 2.º, ponto 4, desse regulamento;
+
+- b) Serem acompanhadas dos seguintes metadados:
+
+  - i) todos os nomes do emitente, do oferente ou da pessoa que solicita a admissão à negociação a que as informações dizem respeito,
+
+  - ii) para as pessoas coletivas, o identificador de entidade jurídica do emitente, do oferente ou da pessoa que solicita a admissão, tal como especificado nos termos do artigo 7.º, n.º 4, alínea b), do Regulamento (UE) 2023/2859,
+
+  - iii) para as pessoas coletivas, a dimensão, por categoria, do emitente, do oferente ou da pessoa que solicita a admissão, especificada nos termos do artigo 7.º, n.º 4, alínea b), desse regulamento,
+
+  - iv) o tipo de informação, classificada nos termos do artigo 7.º, n.º 4, alínea c), desse regulamento,
+
+  - v) uma indicação sobre se as informações contêm dados pessoais.
+
+2. Para efeitos do n.º 1, alínea b), subalínea ii), o emitente, o oferente ou a pessoa que solicita a admissão deve obter um identificador de entidade jurídica.
+
+3. Até 9 de janeiro de 2030, para efeitos de tornar acessíveis no ESAP as informações referidas no n.º 1 do presente artigo, os Estados-Membros devem designar pelo menos um organismo de recolha, na aceção do artigo 2.º, ponto 2, do Regulamento (UE) 2023/2859, e notificar a ESMA desse facto.
+
+4. A partir de 10 de janeiro de 2030, as informações referidas nos artigos 109.º e 110.º do presente regulamento devem ser tornadas acessíveis no ESAP. Para esse efeito, o organismo de recolha, na aceção do artigo 2.º, ponto 2, do Regulamento (UE) 2023/2859, é a ESMA.
+
+Essas informações devem cumprir os seguintes requisitos:
+
+- a) Serem transmitidas num formato legível por máquina, na aceção do artigo 2.º, ponto 3, do Regulamento (UE) 2023/2859;
+
+- b) Serem acompanhadas dos seguintes metadados:
+
+  - i) todos os nomes do emitente de criptofichas referenciadas a ativos, do emitente de criptofichas de moeda eletrónica e do prestador de serviços de criptoativos a que as informações dizem respeito;
+
+  - ii) se disponível, o identificador de entidade jurídica do emitente de criptofichas referenciadas a ativos, do emitente de criptofichas de moeda eletrónica e do prestador de serviços de criptoativos, especificado nos termos do artigo 7.º, n.º 4, alínea b), desse regulamento,
+
+  - iii) o tipo de informação, classificada nos termos do artigo 7.º, n.º 4, alínea c), desse regulamento,
+
+  - iv) uma indicação sobre se as informações contêm dados pessoais.
+
+5. A fim de assegurar a recolha e gestão eficientes das informações transmitidas nos termos do n.º 1, a ESMA elabora projetos de normas técnicas de execução para especificar:
+
+- a) Quaisquer outros metadados que devam acompanhar as informações;
+
+- b) A estruturação dos dados nas informações;
+
+- c) As informações para as quais é exigido um formato legível por máquina e, nesses casos, qual o formato legível por máquina a utilizar.
+
+Para efeitos da alínea c), a ESMA avalia as vantagens e desvantagens dos diferentes formatos legíveis por máquina e realiza testes no terreno adequados.
+
+A ESMA apresenta à Comissão os referidos projetos de normas técnicas de execução.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número, nos termos do artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+6. Sempre que necessário, a ESMA adota orientações destinadas às entidades para assegurar que os metadados transmitidos nos termos do n.º 5, primeiro parágrafo, alínea a), sejam corretos.
+
+▼B
+
+## CAPÍTULO 3 — Sanções administrativas e outras medidas administrativas aplicadas pelas autoridades competentes
+
+### Artigo 111.º — Sanções administrativas e outras medidas administrativas
+
+1. Sem prejuízo de eventuais sanções penais e sem prejuízo dos poderes de supervisão e de investigação das autoridades competentes previstos no artigo 94.º, os Estados-Membros, em conformidade com o direito nacional, atribuem às autoridades competentes os poderes para aplicarem sanções e outras medidas administrativas adequadas, pelo menos, no caso das seguintes infrações:
+
+- a) Infrações aos artigos 4.º a 14.º;
+
+- b) Infrações aos artigos 16.º, 17.º, 19.º, 22.º, 23.º, 25.º, aos artigos 27.º a 41.º e aos artigos 46.º e 47.º;
+
+- c) Infrações aos artigos 48.º a 51.º e aos artigos 53.º, 54.º e 55.º;
+
+- d) Infrações aos artigos 59.º, 60.º e 64.º e aos artigos 65.º a 83.º;
+
+- e) Infrações aos artigos 88.º a 92.º;
+
+- f) Falta de cooperação ou incumprimento no âmbito de uma investigação, inspeção ou pedido conforme referido no artigo 94.º, n.º 3.
+
+Os Estados-Membros podem decidir não estabelecer regras em matéria das sanções administrativas caso as infrações a que se refere o primeiro parágrafo, alíneas a), b), c), d) ou e), já estejam sujeitas a sanções penais no respetivo direito nacional até 30 de junho de 2024. Nesse caso, os Estados-Membros comunicam pormenorizadamente à Comissão, à ESMA e à EBA as disposições pertinentes do seu direito penal.
+
+▼C1
+
+Até 30 de junho de 2025, os Estados-Membros comunicam pormenorizadamente à Comissão, à EBA e à ESMA as regras a que se referem o primeiro e o segundo parágrafos. Os Estados-Membros notificam também sem demora a Comissão, a ESMA e a EBA de qualquer alteração subsequente das referidas regras.
+
+▼B
+
+2. Os Estados-Membros asseguram, nos termos do seu direito nacional, que as autoridades competentes estão habilitadas a aplicar pelo menos as seguintes sanções administrativas e outras medidas administrativas relativamente às infrações referidas no n.º 1, primeiro parágrafo, alíneas a) a d):
+
+- a) Uma declaração pública que identifique a pessoa singular ou coletiva responsável e a natureza da infração;
+
+- b) Uma decisão que exija que a pessoa singular ou coletiva responsável ponha termo à conduta que constitui a infração e se abstenha de a reiterar;
+
+- c) Coimas máximas correspondentes pelo menos ao dobro do montante dos lucros obtidos ou das perdas evitadas com a infração, quando esse montante puder ser determinado, mesmo que ultrapasse os montantes máximos estabelecidos na alínea d) do presente número, no que se refere a pessoas singulares, ou no n.º 3, no que se refere a pessoas coletivas;
+
+- d) No caso de uma pessoa singular, coimas máximas de pelo menos 700 000 EUR ou, nos Estados-Membros cuja moeda oficial não seja o euro, o contravalor na moeda oficial em 29 de junho de 2023.
+
+3. Os Estados-Membros asseguram, nos termos do seu direito nacional, que as autoridades competentes tenham poderes para impor, no que se refere a infrações cometidas por pessoas coletivas, coimas máximas de, pelo menos:
+
+- a) 5 000 000 EUR ou, nos Estados-Membros cuja moeda oficial não seja o euro, o contravalor na moeda oficial em 29 de junho de 2023, relativamente às infrações referidas no n.º 1, primeiro parágrafo, alíneas a) a d);
+
+- b) 3 % do volume de negócios anual total da pessoa coletiva, de acordo com as últimas demonstrações financeiras disponíveis aprovadas pelo órgão de administração, relativamente às infrações referidas no n.º 1, primeiro parágrafo, alínea a);
+
+- c) 5 % do volume de negócios anual total da pessoa coletiva, de acordo com as últimas demonstrações financeiras disponíveis aprovadas pelo órgão de administração, relativamente às infrações referidas no n.º 1, primeiro parágrafo, alínea d);
+
+- d) 12,5 % do volume de negócios anual total da pessoa coletiva, de acordo com as últimas demonstrações financeiras disponíveis aprovadas pelo órgão de administração, relativamente às infrações referidas no n.º 1, primeiro parágrafo, alíneas b) e c).
+
+Caso a pessoa coletiva a que se refere o primeiro parágrafo, alíneas a) a d), seja uma empresa-mãe ou uma filial de uma empresa-mãe obrigada a elaborar demonstrações financeiras consolidadas nos termos da Diretiva 2013/34/UE, o volume de negócios anual total relevante é o volume de negócios anual total ou o tipo de rendimento correspondente nos termos do direito da União aplicável em matéria de contabilidade, de acordo com as últimas contas consolidadas disponíveis aprovadas pelo órgão de administração da empresa-mãe em última instância.
+
+4. Para além das sanções administrativas e de outras medidas administrativas, bem como das coimas referidas nos n.ºs 2 e 3, os Estados-Membros asseguram, nos termos do seu direito nacional, que as autoridades competentes têm poderes para impor, em caso de infrações referidas no n.º 1, primeiro parágrafo, alínea d), uma proibição temporária que impeça qualquer membro do órgão de administração do prestador de serviços de criptoativos, ou qualquer outra pessoa singular considerada responsável pela infração, de exercer funções de gestão num prestador de serviços de criptoativos.
+
+5. Os Estados-Membros asseguram, nos termos do seu direito nacional, que as autoridades competentes, em caso de infrações a que se refere o n.º 1, primeiro parágrafo, alínea e), estão habilitadas a aplicar pelo menos as seguintes sanções administrativas e a adotar pelo menos as seguintes medidas administrativas:
+
+- a) Uma declaração pública que identifique a pessoa singular ou coletiva responsável e a natureza da infração;
+
+- b) Uma decisão que exija que a pessoa singular ou coletiva responsável ponha termo à conduta que constitui a infração e se abstenha de a reiterar;
+
+- c) A restituição dos lucros obtidos ou das perdas evitadas em resultado da infração, na medida em que possam ser determinados;
+
+- d) A revogação ou a suspensão da autorização de um prestador de serviços de criptoativos;
+
+- e) A interdição temporária do exercício de funções de gestão em prestadores de serviços de criptoativos por qualquer membro do órgão de administração do prestador de serviços de criptoativos ou por qualquer outra pessoa singular que seja responsável pela infração;
+
+- f) Em caso de infrações reiteradas ao artigo 89.º, 90.º, 91.º ou 92.º, uma interdição de, pelo menos, dez anos do exercício de funções de gestão num prestador de serviços de criptoativos por qualquer membro do órgão de administração do prestador de serviços de criptoativos ou por qualquer outra pessoa singular que seja responsável pela infração;
+
+- g) A interdição temporária de negociação por conta própria por qualquer membro do órgão de administração de um prestador de serviços de criptoativos ou por qualquer outra pessoa singular que seja responsável pela infração;
+
+- h) Coimas máximas correspondentes pelo menos ao triplo do montante dos lucros obtidos ou das perdas evitadas com a infração, quando esse montante puder ser determinado, mesmo que ultrapassem os montantes máximos estabelecidos na alínea i) ou j), consoante o caso;
+
+- i) No caso das pessoas singulares, coimas máximas de pelo menos 1 000 000 EUR por infrações ao artigo 88.º e de 5 000 000 EUR por infrações aos artigos 89.º a 92.º ou, nos Estados-Membros cuja moeda oficial não seja o euro, o contravalor na moeda oficial em 29 de junho de 2023;
+
+- j) No caso das pessoas coletivas, coimas máximas de pelo menos 2 500 000 EUR por infrações ao artigo 88.º e de 15 000 000 EUR por infrações aos artigos 89.º a 92.º, ou de 2 % por infrações ao artigo 88.º e 15 % por infrações aos artigos 89.º a 92.º do volume de negócios anual total da pessoa coletiva, de acordo com as últimas contas disponíveis aprovadas pelo órgão de administração, ou, nos Estados-Membros cuja moeda oficial não seja o euro, o contravalor na moeda oficial em 29 de junho de 2023.
+
+Para efeitos da alínea j) do primeiro parágrafo, caso a pessoa coletiva seja uma empresa-mãe ou uma filial da empresa-mãe obrigada a elaborar demonstrações financeiras consolidadas nos termos da Diretiva 2013/34/UE, o volume de negócios anual total relevante é o volume de negócios anual total ou o tipo de rendimento correspondente nos termos do direito da União aplicável em matéria de contabilidade, de acordo com as últimas contas consolidadas disponíveis aprovadas pelo órgão de administração da empresa-mãe em última instância.
+
+6. Os Estados-Membros podem estabelecer que as autoridades competentes dispõem de outros poderes para além dos referidos nos n.ºs 2 a 5 e podem prever sanções mais elevadas do que as estabelecidas nesses números, tanto em relação às pessoas singulares como às pessoas coletivas responsáveis pela infração.
+
+### Artigo 112.º — Exercício dos poderes de supervisão e dos poderes para aplicar sanções
+
+1. Ao determinarem o tipo e o nível de uma sanção administrativa ou de outra medida administrativa a impor nos termos do artigo 111.º, as autoridades competentes têm em conta todas as circunstâncias relevantes, nomeadamente, se for o caso:
+
+- a) A gravidade e a duração da infração;
+
+- b) O facto de a infração ter sido cometida com dolo ou por negligência;
+
+- c) O grau de responsabilidade da pessoa singular ou coletiva responsável pela infração;
+
+- d) A capacidade financeira da pessoa singular ou coletiva responsável pela infração, indicada pelo volume de negócios total da pessoa coletiva responsável ou pelo rendimento anual e pelos ativos líquidos da pessoa singular responsável;
+
+- e) A importância dos lucros obtidos ou das perdas evitadas pela pessoa singular ou coletiva responsável pela infração, na medida em que sejam determináveis;
+
+- f) Os prejuízos causados a terceiros pela infração, na medida em que sejam determináveis;
+
+- g) O nível de colaboração da pessoa singular ou coletiva responsável com a autoridade competente, sem prejuízo da necessidade de assegurar a restituição dos lucros obtidos ou das perdas evitadas por essa pessoa;
+
+- h) Anteriores infrações ao presente regulamento cometidas pela pessoa singular ou coletiva responsável pela infração;
+
+- i) Medidas tomadas, após a infração, pela pessoa responsável pela infração a fim de evitar a sua repetição;
+
+- j) O impacto da infração nos interesses dos detentores de criptoativos e dos clientes dos prestadores de serviços de criptoativos, em especial dos detentores não profissionais.
+
+2. No exercício dos seus poderes para aplicar sanções administrativas e outras medidas administrativas nos termos do artigo 111.º, as autoridades competentes cooperam estreitamente para assegurar que o exercício dos seus poderes de supervisão e de investigação, bem como as sanções administrativas e outras medidas administrativas aplicadas, são eficazes e adequados. As autoridades competentes coordenam as suas ações de modo a evitar duplicações e sobreposições quando exercerem os seus poderes de supervisão e investigação e quando aplicarem as sanções administrativas e outras medidas administrativas em casos transfronteiriços.
+
+### Artigo 113.º — Direito de recurso
+
+1. Os Estados-Membros asseguram que as decisões tomadas pelas autoridades competentes nos termos do presente regulamento são devidamente fundamentadas e passíveis de recurso para um tribunal. O direito de recurso para os tribunais é igualmente aplicável no caso de, relativamente a um pedido de autorização acompanhado de todos os elementos exigidos, não ter sido tomada qualquer decisão no prazo de seis meses a contar da data em que foi apresentado.
+
+2. Os Estados-Membros devem prever que um ou mais dos organismos a seguir indicados, conforme previsto pelo direito nacional, possam, no interesse dos consumidores e nos termos do direito nacional, recorrer aos tribunais ou aos órgãos administrativos competentes para garantir a aplicação do presente regulamento:
+
+- a) Organismos públicos ou seus representantes;
+
+- b) Organizações de consumidores com um interesse legítimo na proteção dos detentores de criptoativos;
+
+- c) Organizações profissionais com um interesse legítimo na proteção dos seus membros.
+
+### Artigo 114.º — Publicação das decisões
+
+1. As decisões que determinam a aplicação de sanções administrativas ou outras medidas administrativas por uma infração ao presente regulamento em conformidade com o artigo 111.º são publicadas pelas autoridades competentes no seu sítio Web oficial sem demora injustificada após a pessoa singular ou coletiva sancionada ter sido informada da decisão. A publicação deve incluir, no mínimo, informações sobre o tipo e a natureza da infração e a identidade das pessoas singulares ou coletivas responsáveis. As decisões que imponham medidas de natureza investigatória não têm de ser publicadas.
+
+2. Se a publicação da identidade das pessoas coletivas, ou da identidade ou dos dados pessoais das pessoas singulares, for considerada desproporcionada pela autoridade competente na sequência de uma avaliação casuística efetuada quanto à proporcionalidade da publicação desses dados, ou se essa publicação puder pôr em causa uma investigação em curso, as autoridades competentes procedem de uma das seguintes formas:
+
+- a) Adiam a publicação da decisão de aplicar uma sanção administrativa ou outra medida administrativa até ao momento em que deixem de se verificar as razões para a não publicação;
+
+- b) Publicam a decisão de aplicar uma sanção administrativa ou outra medida administrativa na base do anonimato em termos consentâneos com o direito nacional, se tal publicação anónima assegurar a proteção efetiva dos dados pessoais em causa;
+
+- c) Não publicam a decisão de aplicar uma sanção administrativa ou outra medida administrativa se as opções previstas nas alíneas a) e b) forem consideradas insuficientes para assegurar:
+
+  - i) que a estabilidade dos mercados financeiros não seja posta em causa,
+
+  - ii) a proporcionalidade da publicação dessa decisão, relativamente a medidas consideradas de natureza menor.
+
+Caso seja decidida a publicação de uma sanção administrativa ou outra medida administrativa na base do anonimato, como referido no primeiro parágrafo, alínea b), a publicação dos dados relevantes pode ser diferida durante um prazo razoável se se previr que, no decurso desse prazo, deixarão de se verificar as razões para a publicação anónima.
+
+3. Caso seja interposto recurso da decisão de aplicar uma sanção administrativa ou outra medida administrativa perante os tribunais ou os órgãos administrativos pertinentes, as autoridades competentes publicam de imediato no seu sítio Web oficial essas informações, bem como informações posteriores relativas ao resultado desse recurso. Além disso, é também publicada qualquer decisão que anule uma decisão anterior de aplicar uma sanção administrativa ou outra medida administrativa.
+
+4. As autoridades competentes asseguram que as publicações nos termos do presente artigo estão disponíveis no seu sítio Web oficial durante um período de pelo menos cinco anos após a sua publicação. Os dados pessoais constantes da publicação estão disponíveis no sítio Web oficial da autoridade competente apenas durante o período necessário nos termos das regras aplicáveis em matéria de proteção de dados.
+
+### Artigo 115.º — Comunicação de sanções administrativas e outras medidas administrativas à ESMA e à EBA
+
+1. A autoridade competente presta anualmente à ESMA e à EBA informações agregadas sobre todas as sanções administrativas e outras medidas administrativas aplicadas nos termos do artigo 111.º. A ESMA publica essas informações num relatório anual.
+
+Caso os Estados-Membros tenham, nos termos do artigo 111.º, n.º 1, segundo parágrafo, estabelecido sanções penais para infrações às disposições aí referidas, as suas autoridades competentes facultam anualmente à EBA e à ESMA dados anonimizados e agregados relativos a todas as investigações criminais pertinentes efetuadas e às sanções penais aplicadas. A ESMA publica num relatório anual os dados sobre as sanções penais aplicadas.
+
+2. Caso a autoridade competente tenha divulgado ao público sanções administrativas, outras medidas administrativas ou sanções penais, comunica-as em simultâneo à ESMA.
+
+3. As autoridades competentes informam a EBA e a ESMA de todas as sanções administrativas ou outras medidas administrativas aplicadas mas não publicadas, incluindo qualquer recurso das mesmas e o seu resultado. Os Estados-Membros asseguram que as autoridades competentes recebem as informações e a decisão transitada em julgado relativa a quaisquer sanções penais aplicadas e que as transmitem à EBA e à ESMA. A ESMA mantém uma base de dados central das sanções e medidas administrativas que lhe são comunicadas exclusivamente para efeitos de troca de informações entre autoridades competentes. Essa base de dados está acessível apenas à EBA, à ESMA e às autoridades competentes e é atualizada com base nas informações prestadas pelas autoridades competentes.
+
+### Artigo 116.º — Denúncia de infrações e proteção dos denunciantes
+
+A Diretiva (UE) 2019/1937 aplica-se à denúncia de infrações ao presente regulamento e à proteção das pessoas que as denunciam.
+
+## CAPÍTULO 4 — Responsabilidades de supervisão da EBA em relação aos emitentes de criptofichas referenciadas a ativos significativas e de criptofichas de moeda eletrónica significativas e aos colégios de supervisão
+
+### Artigo 117.º — Responsabilidades de supervisão da EBA em relação aos emitentes de criptofichas referenciadas a ativos significativas e de criptofichas de moeda eletrónica significativas
+
+1. Caso uma criptoficha referenciada a ativos tenha sido classificada como significativa nos termos do artigo 43.º ou 44.º, o emitente dessa criptoficha exerce as suas atividades sob a supervisão da EBA.
+
+Sem prejuízo dos poderes das autoridades nacionais competentes nos termos do n.º 2 do presente artigo, a EBA exerce os poderes das autoridades competentes conferidos pelos artigos 22.º a 25.º, 29.º e 33.º, pelo artigo 34.º, n.ºs 7 e 12, pelo artigo 35.º, n.ºs 3 e 5, pelo artigo 36.º, n.º 10, e pelos artigos 41.º, 42.º, 46.º e 47.º em relação aos emitentes de criptofichas referenciadas a ativos significativas.
+
+2. Caso um emitente de uma criptoficha referenciada a ativos significativa também preste serviços de criptoativos ou emita criptoativos que não sejam criptofichas referenciadas a ativos significativas, esses serviços e atividades permanecem sob a supervisão da autoridade competente do Estado-Membro de origem.
+
+3. Caso uma criptoficha referenciada a ativos tenha sido classificada como significativa nos termos do artigo 43.º, a EBA conduz uma reavaliação de supervisão para assegurar que o emitente cumpre o disposto no título III.
+
+4. Caso uma criptoficha de moeda eletrónica emitida por uma instituição de moeda eletrónica tenha sido classificada como significativa nos termos dos artigos 56.º ou 57.º, a EBA supervisiona o cumprimento do disposto nos artigos 55.º e 58.º pelo emitente dessa criptoficha de moeda eletrónica significativa.
+
+Para efeitos da supervisão relativa ao cumprimento dos artigos 55.º e 58.º, a EBA exerce os poderes das autoridades competentes que lhes são conferidos pelos artigos 22.º e 23.º, pelo artigo 24.º, n.º 3, pelo artigo 35.º, n.ºs 3 e 5, pelo artigo 36.º, n.º 10, e pelos artigos 46.º e 47.º em relação às instituições de moeda eletrónica que emitem criptofichas de moeda eletrónica significativas.
+
+5. A EBA exerce os seus poderes de supervisão previstos nos n.ºs 1 a 4 em estreita cooperação com as outras autoridades competentes responsáveis pela supervisão do emitente, em especial:
+
+- a) A autoridade de supervisão prudencial, nomeadamente, se for caso disso, o BCE, nos termos do Regulamento (UE) n.º 1024/2013;
+
+- b) As autoridades competentes pertinentes nos termos do direito nacional que transpõe a Diretiva 2009/110/CE, se for caso disso;
+
+- c) As autoridades competentes a que se refere o artigo 20.º, n.º 1.
+
+### Artigo 118.º — Comité de criptoativos da EBA
+
+1. A EBA cria um comité interno permanente, nos termos do artigo 41.º do Regulamento (UE) n.º 1093/2010, encarregado de preparar as decisões da EBA a tomar nos termos do artigo 44.º do referido regulamento, nomeadamente decisões respeitantes às funções de supervisão atribuídas à EBA pelo presente regulamento.
+
+2. O comité de criptoativos pode também preparar decisões relativas a projetos de normas técnicas de regulamentação e projetos de normas técnicas de execução respeitantes às funções de supervisão atribuídas à EBA pelo presente regulamento.
+
+3. A EBA assegura que o comité de criptoativos exerce apenas as atividades referidas nos n.ºs 1 e 2 e quaisquer outras funções necessárias ao exercício das suas atividades relacionadas com criptoativos.
+
+### Artigo 119.º — Colégios para emitentes de criptofichas referenciadas a ativos significativas e de criptofichas de moeda eletrónica significativas
+
+1. No prazo de 30 dias de calendário a contar de uma decisão que classifique uma criptoficha referenciada a ativos ou uma criptoficha de moeda eletrónica como significativa nos termos do artigo 43.º, 44.º, 56.º ou 57.º, consoante o caso, a EBA cria, gere e preside a um colégio de supervisão consultivo para cada emitente de uma criptoficha referenciada a ativos significativa ou de uma criptoficha de moeda eletrónica significativa, a fim de facilitar o exercício das atribuições de supervisão e ser um veículo para a coordenação das atividades de supervisão nos termos do presente regulamento.
+
+2. Um colégio referido no n.º 1 é composto pelas seguintes entidades:
+
+- a) A EBA;
+
+- b) A ESMA;
+
+- c) As autoridades competentes do Estado-Membro de origem onde o emitente da criptoficha referenciada a ativos significativa ou da criptoficha de moeda eletrónica significativa se encontra estabelecido;
+
+- d) As autoridades competentes dos prestadores de serviços de criptoativos, instituições de crédito ou empresas de investimento mais relevantes que assegurem a custódia de ativos de reserva em conformidade com o artigo 37.º ou dos fundos recebidos em troca de criptofichas de moeda eletrónica significativas;
+
+- e) Se for o caso, as autoridades competentes das plataformas de negociação de criptoativos mais relevantes em que sejam admitidas à negociação criptofichas referenciadas a ativos significativas ou criptofichas de moeda eletrónica significativas;
+
+- f) As autoridades competentes dos prestadores de serviços de pagamento mais relevantes que prestem serviços de pagamento em relação a criptofichas de moeda eletrónica significativas;
+
+- g) Se for o caso, as autoridades competentes das entidades que asseguram as funções a que se refere o artigo 34.º, n.º 5, primeiro parágrafo, alínea h);
+
+- h) Se for o caso, as autoridades competentes dos prestadores de serviços de criptoativos mais relevantes que prestam serviços de custódia e administração de criptoativos em nome de clientes em relação às criptofichas referenciadas a ativos significativas ou às criptofichas de moeda eletrónica significativas;
+
+- i) O BCE;
+
+- j) Se o emitente da criptoficha referenciada a ativos significativas estiver estabelecido num Estado-Membro cuja moeda oficial não seja o euro, ou se uma moeda oficial que não seja o euro for referenciada pela criptoficha referenciada a ativos significativa, o banco central desse Estado-Membro;
+
+- k) Se o emitente da criptoficha de moeda eletrónica significativa estiver estabelecido num Estado-Membro cuja moeda oficial não seja o euro, ou se uma moeda oficial que não seja o euro for referenciada pela criptoficha de moeda eletrónica significativa, o banco central desse Estado-Membro;
+
+- l) As autoridades competentes dos Estados-Membros em que a criptoficha referenciada a ativos ou a criptoficha de moeda eletrónica for utilizada em grande escala, a seu pedido;
+
+- m) As autoridades de supervisão relevantes de países terceiros com os quais a EBA tenha celebrado acordos administrativos nos termos do artigo 126.º.
+
+3. A EBA pode convidar outras autoridades a serem membros do colégio referido no n.º 1 sempre que as entidades que supervisionam sejam relevantes para o trabalho do colégio.
+
+4. As autoridades competentes dos Estados-Membros que não sejam membros do colégio podem solicitar ao colégio quaisquer informações relevantes para o exercício das suas funções de supervisão nos termos do presente regulamento.
+
+5. Sem prejuízo das responsabilidades atribuídas pelo presente regulamento às autoridades competentes, um colégio referido no n.º 1 do presente artigo assegura:
+
+- a) A elaboração do parecer não vinculativo a que se refere o artigo 120.º;
+
+- b) A troca de informações em conformidade com o presente regulamento;
+
+- c) O acordo sobre a distribuição voluntária de atribuições entre os seus membros.
+
+A fim de facilitar o exercício das atribuições conferidas aos colégios nos termos do primeiro parágrafo do presente número, os membros do colégio a que se refere o n.º 2 podem contribuir para a elaboração da ordem do dia das reuniões do colégio, em especial acrescentando pontos à ordem do dia de uma reunião.
+
+6. A criação e o funcionamento do colégio referido no n.º 1 baseiam-se num acordo escrito entre todos os seus membros.
+
+O acordo referido no primeiro parágrafo determina as disposições práticas de funcionamento do colégio, designadamente regras pormenorizadas relativas:
+
+- a) Ao processo de votação a que se refere o artigo 120.º, n.º 3;
+
+- b) Aos procedimentos para a elaboração da ordem do dia das reuniões do colégio;
+
+- c) À periodicidade das reuniões do colégio;
+
+- d) Aos prazos mínimos adequados para a avaliação da documentação relevante pelos membros do colégio;
+
+- e) Às modalidades de comunicação entre os membros do colégio;
+
+- f) À criação de vários colégios, um para cada criptoativo ou grupo de criptoativos específico.
+
+O acordo pode também determinar as atribuições a confiar à EBA ou a outro membro do colégio.
+
+7. Na qualidade de presidente de cada colégio, a EBA:
+
+- a) Estabelece disposições e procedimentos escritos para o funcionamento do colégio, após consulta dos outros membros do colégio;
+
+- b) Coordena todas as atividades do colégio;
+
+- c) Convoca e preside a todas as suas reuniões e mantém os membros do colégio plenamente informados, com antecedência, da organização de reuniões do colégio, das principais questões a debater e dos pontos a examinar;
+
+- d) Notifica os membros do colégio das reuniões programadas, para que possam solicitar a sua participação;
+
+- e) Mantém os membros do colégio informados, atempadamente, sobre as decisões e os resultados dessas reuniões.
+
+8. A fim de assegurar um funcionamento uniforme e coerente dos colégios, a EBA elabora, em cooperação com a ESMA e o BCE, projetos de normas de regulamentação que especifiquem:
+
+- a) As condições em que as entidades a que se refere o n.º 2, alíneas d), e), f) e h), devem ser consideradas as mais relevantes;
+
+- b) As condições em que se considera que criptofichas referenciadas a ativos ou criptofichas de moeda eletrónica são utilizadas em grande escala, tal como referido no n.º 2, alínea l); e
+
+- c) Os pormenores das disposições práticas a que se refere o n.º 6.
+
+A EBA apresenta à Comissão os projetos de normas de regulamentação referidos no primeiro parágrafo até 30 de junho de 2024.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número em conformidade com os artigos 10.º a 14.º do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 120.º — Pareceres não vinculativos dos colégios para emitentes de criptofichas referenciadas a ativos significativas e de criptofichas de moeda eletrónica significativas
+
+1. Um colégio a que se refere o artigo 119.º, n.º 1, pode emitir um parecer não vinculativo sobre:
+
+- a) A reavaliação de supervisão a que se refere o artigo 117.º, n.º 3;
+
+- b) Qualquer decisão que imponha a um emitente de uma criptoficha referenciada a ativos significativa ou de uma criptoficha de moeda eletrónica significativa a obrigação de deter fundos próprios num montante mais elevado, em conformidade com o artigo 35.º, n.ºs 2, 3 e 5, o artigo 45.º, n.º 5 e o artigo 58.º, n.º 1, consoante aplicável;
+
+- c) Qualquer atualização do plano de recuperação ou do plano de reembolso de um emitente de uma criptoficha referenciada a ativos significativa ou de um emitente de uma criptoficha de moeda eletrónica significativa, nos termos dos artigos 46.º, 47.º e 55.º, consoante aplicável;
+
+- d) Qualquer alteração do modelo de negócios de um emitente de uma criptoficha referenciada a ativos significativa, nos termos do artigo 25.º, n.º 1;
+
+- e) Um projeto de livrete do criptoativo modificado, redigido em conformidade com o artigo 25.º, n.º 2;
+
+- f) Quaisquer medidas corretivas adequadas previstas nos termos do artigo 25.º, n.º 4;
+
+- g) Quaisquer medidas de supervisão previstas nos termos do artigo 130.º;
+
+- h) Qualquer acordo administrativo sobre troca de informações previsto com uma autoridade de supervisão de um país terceiro nos termos do artigo 126.º;
+
+- i) Qualquer delegação de atribuições de supervisão da EBA numa autoridade competente nos termos do artigo 138.º;
+
+- j) Qualquer alteração prevista à autorização dos membros do colégio a que se refere o artigo 119.º, n.º 2, alíneas d) a h), ou qualquer medida de supervisão prevista em relação a estes membros;
+
+- k) Um projeto de livrete do criptoativo modificado redigido em conformidade com o artigo 51.º, n.º 12.
+
+2. Sempre que o colégio emita um parecer em conformidade com o n.º 1, a pedido de qualquer membro do colégio e após aprovação por maioria do colégio nos termos do n.º 3, o parecer poderá conter recomendações destinadas a corrigir deficiências da medida prevista pela EBA ou pelas autoridades competentes.
+
+3. Um parecer do colégio é adotado com base numa maioria simples dos seus membros.
+
+Se houver vários membros do colégio por Estado-Membro, apenas um destes membros dispõe de um voto.
+
+Se o BCE for membro do colégio com várias funções, nomeadamente funções de supervisão, disporá apenas de um voto.
+
+As autoridades de supervisão de países terceiros a que se refere o artigo 119.º, n.º 2, alínea m), não têm direito de voto para a adoção do parecer do colégio.
+
+4. A EBA ou as autoridades competentes, consoante aplicável, têm em devida consideração o parecer não vinculativo do colégio adotado nos termos do n.º 3, incluindo eventuais recomendações destinadas a corrigir deficiências da medida de supervisão prevista em relação a um emitente de uma criptoficha referenciada a ativos significativa, um emitente de uma criptoficha de moeda eletrónica significativa, uma entidade ou um prestador de serviços de criptoativos a que se refere o artigo 119.º, n.º 2, alíneas d) a h). Caso a EBA ou uma autoridade competente não concorde com um parecer do colégio, incluindo eventuais recomendações destinadas a corrigir deficiências da medida de supervisão prevista, a sua decisão é fundamentada e inclui a explicação de qualquer desvio significativo em relação ao referido parecer ou às recomendações.
+
+## CAPÍTULO 5 — Os poderes e competências da EBA em relação aos emitentes de criptofichas referenciadas a ativos significativas e aos emitentes de criptofichas de moeda eletrónica significativas
+
+### Artigo 121.º — Proteção da confidencialidade
+
+Os poderes conferidos por força dos artigos 122.º a 125.º à EBA, ou a qualquer funcionário ou outra pessoa autorizada pela EBA, não podem ser utilizados para exigir a divulgação de informações que beneficiam de proteção da confidencialidade.
+
+### Artigo 122.º — Pedido de informação
+
+1. A fim de desempenhar as responsabilidades de supervisão que lhe são atribuídas pelo artigo 117.º, a EBA pode, mediante pedido simples ou por decisão, exigir que as pessoas a seguir indicadas apresentem toda a informação necessária para permitir que a EBA exerça as suas funções nos termos do presente regulamento:
+
+- a) Um emitente de uma criptoficha referenciada a ativos significativa ou qualquer pessoa que controle ou seja, diretamente ou indiretamente controlada por um emitente de uma criptoficha referenciada a ativos significativa;
+
+- b) Um terceiro conforme referido no artigo 34.º, n.º 5, primeiro parágrafo, alínea h), com o qual o emitente de uma criptoficha referenciada a ativos significativa tenha disposições contratuais;
+
+- c) Um prestador de serviços de criptoativos, instituição de crédito ou empresa de investimento que assegure a custódia dos ativos de reserva em conformidade com o artigo 37.º;
+
+- d) Um emitente de uma criptoficha de moeda eletrónica significativa ou uma pessoa que controle ou seja diretamente ou indiretamente controlada por um emitente de uma criptoficha de moeda eletrónica significativa;
+
+- e) Um prestador de serviços de pagamento que preste serviços de pagamento em relação a criptofichas de moeda eletrónica significativas;
+
+- f) Uma pessoa singular ou coletiva responsável pela distribuição de criptofichas de moeda eletrónica significativas em nome de um emitente de criptofichas de moeda eletrónica significativas;
+
+- g) Um prestador de serviços de criptoativos que preste serviços de custódia e administração de criptoativos em nome de clientes em relação a criptofichas referenciadas a ativos significativas ou a criptofichas de moeda eletrónica significativas;
+
+- h) Um operador de uma plataforma de negociação de criptoativos que tenha admitido à negociação uma criptoficha referenciada a ativos significativa ou uma criptoficha de moeda eletrónica significativa;
+
+- i) O órgão de administração das pessoas a que se referem as alíneas a) a h).
+
+2. Qualquer pedido de informação simples a que se refere o n.º 1 deve:
+
+- a) Referir o presente artigo como base jurídica desse pedido;
+
+- b) Indicar a finalidade do pedido;
+
+- c) Especificar a informação solicitada;
+
+- d) Incluir um prazo para a prestação da informação;
+
+- e) Informar a pessoa a quem a informação é solicitada de que não é obrigada a prestá-la, devendo, porém, em caso de resposta voluntária ao pedido, a informação prestada ser corretas e não induzir em erro; e
+
+- f) Indicar a coima prevista no artigo 131.º para os casos em que as respostas às perguntas colocadas estejam incorretas ou sejam enganadoras.
+
+3. Ao solicitar a prestação de informações mediante uma decisão nos termos do n.º 1, a EBA deve:
+
+- a) Remeter para o presente artigo como base jurídica desse pedido;
+
+- b) Indicar a finalidade do pedido;
+
+- c) Especificar as informações solicitadas;
+
+- d) Fixar um prazo para a prestação das informações;
+
+- e) Indicar as sanções pecuniárias compulsórias previstas no artigo 132.º para os casos em que seja exigida a apresentação de informações;
+
+- f) Indicar a coima prevista no artigo 131.º para os casos em que as respostas às perguntas colocadas estejam incorretas ou sejam enganadoras;
+
+- g) Mencionar o direito de recorrer da decisão para a Câmara de Recurso da EBA e o direito ao controlo jurisdicional da decisão pelo Tribunal de Justiça em conformidade com os artigos 60.º e 61.º do Regulamento (UE) n.º 1093/2010.
+
+4. As pessoas referidas no n.º 1 ou os seus representantes e, no caso de pessoas coletivas ou de associações sem personalidade jurídica, as pessoas habilitadas a representá-las nos termos da lei devem prestar as informações solicitadas.
+
+5. A EBA envia sem demora uma cópia do pedido simples ou da sua decisão à autoridade competente do Estado-Membro em cujo território estejam domiciliadas ou estabelecidas as pessoas às quais o pedido de informações diga respeito.
+
+### Artigo 123.º — Poderes gerais de investigação
+
+1. A fim de desempenhar as responsabilidades de supervisão que lhe são atribuídas pelo artigo 117.º, a EBA pode conduzir investigações sobre emitentes de criptofichas referenciadas a ativos significativas e emitentes de criptofichas de moeda eletrónica significativas. Para esse efeito, os funcionários e outras pessoas autorizadas pela EBA estão habilitados a:
+
+- a) Examinar quaisquer registos, dados, procedimentos ou qualquer outro material relevante para o exercício das suas atribuições, independentemente do meio em que se encontrem armazenados;
+
+- b) Recolher ou obter cópias autenticadas ou extratos desses registos, dados, procedimentos e outro material;
+
+- c) Convocar e solicitar a qualquer emitente de uma criptoficha referenciada a ativos significativa ou de uma criptoficha de moeda eletrónica significativa, ou ao respetivo órgão de administração ou aos membros do seu pessoal, que prestem esclarecimentos, oralmente ou por escrito, sobre factos ou documentos relacionados com o objeto e a finalidade da investigação e registar as suas respostas;
+
+- d) Inquirir quaisquer outras pessoas singulares ou coletivas que consintam em ser inquiridas, a fim de recolher informações relacionadas com o objeto da investigação;
+
+- e) Requerer a apresentação de registos telefónicos e do tráfego de dados.
+
+Qualquer colégio a que se refere o artigo 119.º, n.º 1, é informado sem demora injustificada de quaisquer conclusões suscetíveis de serem relevantes para o exercício das suas atribuições.
+
+2. Os funcionários e outras pessoas autorizadas pela EBA para efeitos da investigação a que se refere o n.º 1 exercem os seus poderes mediante a apresentação de uma autorização escrita que especifique o objeto e a finalidade da investigação. A autorização indica igualmente as sanções pecuniárias compulsórias previstas no artigo 132.º no caso de os registos, dados, procedimentos e outro material que tenham sido exigidos ou as respostas às perguntas feitas a emitentes de criptofichas referenciadas a ativos significativas ou de criptofichas de moeda eletrónica significativas não serem apresentados ou serem incompletos, bem como as coimas previstas no artigo 131.º no caso de as respostas às perguntas feitas a emitentes de criptofichas referenciadas a ativos significativas ou de criptofichas de moeda eletrónica significativas estarem incorretas ou serem enganadoras.
+
+3. Os emitentes de criptofichas referenciadas a ativos significativas e de criptofichas de moeda eletrónica significativas são obrigados a submeter-se às investigações lançadas com base numa decisão da EBA. A decisão indica o objeto e a finalidade da investigação, as sanções pecuniárias compulsórias previstas no artigo 132.º, as possibilidades de recurso previstas no Regulamento (UE) n.º 1093/2010 e o direito de requerer o controlo jurisdicional da decisão pelo Tribunal de Justiça.
+
+4. Com uma antecedência razoável em relação a uma investigação a que se refere o n.º 1, a EBA informa a autoridade competente do Estado-Membro no qual a investigação irá ser efetuada da sua realização e da identidade das pessoas autorizadas. A pedido da EBA, os funcionários da autoridade competente em causa devem prestar assistência a essas pessoas autorizadas no desempenho das suas funções. Mediante pedido, os funcionários da autoridade competente em questão podem igualmente estar presentes nas investigações.
+
+5. Se, para exigir a apresentação de registos telefónicos ou de tráfego de dados prevista no n.º 1, primeiro parágrafo, alínea e), for necessária a autorização de um tribunal nos termos do direito nacional aplicável, essa autorização é solicitada pela EBA. A autorização pode igualmente ser solicitada a título de medida cautelar.
+
+6. Caso um tribunal num Estado-Membro receba um pedido de autorização para a apresentação de registos telefónicos ou de tráfego de dados a que se refere o n.º 1, primeiro parágrafo, alínea e), esse tribunal verifica se:
+
+- a) A decisão da EBA a que se refere o n.º 3 é autêntica;
+
+- b) As medidas a tomar são proporcionadas e não são arbitrárias nem excessivas.
+
+7. Para efeitos do n.º 6, alínea b), o tribunal pode solicitar à EBA explicações circunstanciadas, relativas, em particular, aos motivos da EBA para suspeitar de uma infração ao presente regulamento, à gravidade da presumível infração e à natureza do envolvimento da pessoa sujeita às medidas coercivas. O tribunal não pode, no entanto, apreciar a necessidade da investigação, nem exigir que lhe sejam apresentadas as informações constantes do processo da EBA. O controlo da legalidade da decisão da EBA cabe exclusivamente ao Tribunal de Justiça, nos termos do procedimento previsto no Regulamento (UE) n.º 1093/2010.
+
+### Artigo 124.º — Inspeções no local
+
+1. A fim de desempenhar as responsabilidades de supervisão que lhe são atribuídas pelo artigo 117.º, a EBA pode realizar todas as inspeções necessárias nas instalações dos emitentes de criptofichas referenciadas a ativos significativas e de criptofichas de moeda eletrónica significativas.
+
+O colégio a que se refere o artigo 119.º é informado sem demora injustificada de quaisquer conclusões suscetíveis de serem relevantes para o exercício das suas atribuições.
+
+2. Os funcionários e outras pessoas autorizadas pela EBA para realizar inspeções no local podem aceder a todas as instalações das pessoas sujeitas a uma decisão de investigação adotada pela EBA e dispõem de todos os poderes previstos no artigo 123.º, n.º 1. Têm igualmente poderes para selar quaisquer instalações e livretes ou registos relativos à empresa durante o período da inspeção e na medida do necessário à sua realização.
+
+3. Com a devida antecedência em relação à inspeção, a EBA notifica da mesma a autoridade competente do Estado-Membro onde a inspeção irá ser efetuada. Caso a boa execução e a eficiência das inspeções o exijam, a EBA, após informar esta autoridade competente, pode proceder à inspeção no local sem pré-aviso ao emitente da criptoficha referenciada a ativos significativa ou da criptoficha de moeda eletrónica significativa.
+
+4. Os funcionários e outras pessoas autorizadas pela EBA para realizar inspeções no local exercem os seus poderes mediante a apresentação de uma autorização escrita que especifique o objeto e a finalidade da inspeção, bem como as sanções pecuniárias compulsórias previstas no artigo 132.º caso as pessoas em causa se oponham à inspeção.
+
+5. O emitente da criptoficha referenciada a ativos significativa ou o emitente da criptoficha de moeda eletrónica significativa deve submeter-se às inspeções no local ordenadas com base numa decisão da EBA. A decisão deve especificar o objeto e a finalidade da inspeção, fixar a data em que esta se deve iniciar e indicar as sanções pecuniárias compulsórias previstas no artigo 132.º, as possibilidades de recurso previstas no Regulamento (UE) n.º 1093/2010 e o direito de requerer o controlo jurisdicional da decisão pelo Tribunal de Justiça.
+
+6. Os funcionários da autoridade competente do Estado-Membro em cujo território se deve efetuar a inspeção, ou as pessoas autorizadas ou nomeadas por essa autoridade, devem, a pedido da EBA, prestar ativamente assistência aos funcionários da EBA e outras pessoas por esta autorizadas. Os funcionários da autoridade competente do Estado-Membro em causa podem igualmente estar presentes nas inspeções no local.
+
+7. A EBA pode igualmente requerer às autoridades competentes que pratiquem, em seu nome, atos específicos de investigação e inspeções no local, nos termos do presente artigo e do artigo 123.º, n.º 1.
+
+8. Caso os agentes da EBA e outras pessoas por ela mandatadas que os acompanhem verifiquem que alguém se opõe a uma inspeção ordenada por força do presente artigo, a autoridade competente do Estado-Membro em causa presta-lhes a assistência necessária, requerendo, se for caso disso, a intervenção da polícia ou de autoridade equivalente, para poderem conduzir a sua inspeção no local.
+
+9. Se para a inspeção no local prevista no n.º 1 ou para a assistência prevista no n.º 7 for necessária a autorização de um tribunal nos termos do direito nacional, essa autorização deve ser solicitada pela EBA. A autorização pode igualmente ser solicitada a título de medida cautelar.
+
+10. Caso um tribunal num Estado-Membro receba um pedido de autorização para uma inspeção no local prevista no n.º 1 ou para a assistência prevista no n.º 7, esse tribunal verifica se:
+
+- a) A decisão adotada pela EBA a que se refere o n.º 4 é autêntica;
+
+- b) As medidas a tomar são proporcionadas e não são arbitrárias nem excessivas.
+
+11. Para efeitos do n.º 10, alínea b), o tribunal pode solicitar à EBA explicações circunstanciadas, relativas, em particular, aos motivos da EBA para suspeitar de uma infração ao presente regulamento, à gravidade da presumível infração e à natureza do envolvimento da pessoa sujeita às medidas coercivas. O tribunal não pode, no entanto, apreciar a necessidade da investigação, nem exigir que lhe sejam apresentadas as informações constantes do processo da EBA. O controlo da legalidade da decisão da EBA cabe exclusivamente ao Tribunal de Justiça, nos termos do procedimento previsto no Regulamento (UE) n.º 1093/2010.
+
+### Artigo 125.º — Troca de informação
+
+1. Tendo em vista o desempenho das responsabilidades de supervisão da EBA nos termos do artigo 117.º, e sem prejuízo do disposto no artigo 96.º, a EBA e as autoridades competentes procedem, sem demora injustificada, à troca da informação necessária para o exercício das respetivas funções nos termos do presente regulamento. Para esse efeito, as autoridades competentes e a EBA trocam quaisquer informações relacionadas com:
+
+- a) Qualquer emitente de uma criptoficha referenciada a ativos significativa ou qualquer pessoa que controle ou seja, diretamente ou indiretamente, controlada por um emitente de uma criptoficha referenciada a ativos significativa;
+
+- b) Qualquer terceiro a que se refere o artigo 34.º, n.º 5, primeiro parágrafo, alínea h), com o qual o emitente de uma criptoficha referenciada a ativos significativa tenha disposições contratuais;
+
+- c) Qualquer prestador de serviços de criptoativos, instituição de crédito ou empresa de investimento que assegure a custódia dos ativos de reserva em conformidade com o artigo 37.º;
+
+- d) Qualquer emitente de uma criptoficha de moeda eletrónica significativa ou qualquer pessoa que controle ou seja, diretamente ou indiretamente, controlada por um emitente de uma criptoficha de moeda eletrónica significativa;
+
+- e) Qualquer prestador de serviços de pagamento que preste serviços de pagamento em relação a criptofichas de moeda eletrónica significativas;
+
+- f) Qualquer pessoa singular ou coletiva responsável pela distribuição de criptofichas de moeda eletrónica significativas em nome dos emitentes de criptofichas de moeda eletrónica significativas;
+
+- g) Qualquer prestador de serviços de criptoativos que preste serviços de custódia e administração de criptoativos em nome de clientes em relação a criptofichas referenciadas a ativos significativas ou a criptofichas de moeda eletrónica significativas;
+
+- h) Qualquer plataforma de negociação de criptoativos na qual uma criptoficha referenciada a ativos significativa ou uma criptoficha de moeda eletrónica significativa tenha sido admitida à negociação;
+
+- i) O órgão de administração das pessoas a que se referem as alíneas a) a h).
+
+2. As autoridades competentes só podem indeferir um pedido de troca de informações nos termos do n.º 1 do presente artigo ou um pedido de cooperação relativo à realização de uma investigação ou de uma inspeção no local nos termos dos artigos 123.º e 124.º, nos seguintes casos, respetivamente:
+
+- a) Caso o cumprimento do pedido possa prejudicar a sua própria investigação, as suas próprias atividades de aplicação da lei ou, se for o caso, a sua própria investigação criminal;
+
+- b) Caso já tenha sido intentada ação judicial relativamente aos mesmos atos e contra as mesmas pessoas singulares ou coletivas perante os tribunais do Estado-Membro em questão;
+
+- c) Caso já tenha transitado em julgado uma sentença relativamente a essas pessoas singulares ou coletivas, pelos mesmos atos, no Estado-Membro em causa.
+
+### Artigo 126.º — Acordos administrativos sobre a troca de informações entre a EBA e países terceiros
+
+1. A fim de desempenhar as responsabilidades de supervisão que lhe são atribuídas pelo artigo 117.º, a EBA só pode celebrar acordos administrativos sobre a troca de informações com as autoridades de supervisão de países terceiros se as informações a divulgar forem objeto de garantias de sigilo profissional pelo menos equivalentes às previstas no artigo 129.º.
+
+2. A troca de informações deve ter por objetivo o exercício das atribuições da EBA ou das autoridades de supervisão a que se refere o n.º 1.
+
+3. No que respeita ao envio de dados pessoais para países terceiros, a EBA aplica o Regulamento (UE) 2018/1725.
+
+### Artigo 127.º — Divulgação de informações provenientes de países terceiros
+
+1. A EBA só pode divulgar informações recebidas das autoridades de supervisão de países terceiros se ela própria ou a autoridade competente que lhe disponibilizou as informações tiver obtido o acordo expresso da autoridade de supervisão de um país terceiro que enviou as informações e, se for caso disso, se as informações forem divulgadas unicamente para os fins para os quais essa autoridade de supervisão tenha dado o seu acordo, ou se a respetiva divulgação for necessária para fins judiciais.
+
+2. O requisito de acordo expresso a que se refere o n.º 1 não se aplica a outras autoridades de supervisão da União, se as informações por elas solicitadas forem necessárias para o desempenho das suas atribuições e não se aplica aos tribunais, se as informações por eles solicitadas forem necessárias para investigações ou processos relativos a infrações passíveis de sanções penais.
+
+### Artigo 128.º — Cooperação com outras autoridades
+
+Nos casos em que um emitente de uma criptoficha referenciada a ativos significativa ou um emitente de uma criptoficha de moeda eletrónica significativa exerça atividades diferentes das abrangidas pelo presente regulamento, a EBA coopera com as autoridades responsáveis pela supervisão dessas outras atividades nos termos previstos no direito nacional ou no direito da União aplicável, nomeadamente com as autoridades fiscais e as autoridades de supervisão relevantes dos países terceiros que não sejam membros do colégio a que se refere o artigo 119.º, n.º 2, alínea m).
+
+### Artigo 129.º — Sigilo profissional
+
+A EBA e todas as pessoas que trabalhem ou tenham trabalhado para a EBA, bem como para qualquer pessoa em quem a EBA tenha delegado atribuições, incluindo os auditores e peritos contratados pela EBA, ficam sujeitas à obrigação de sigilo profissional.
+
+### Artigo 130.º — Medidas de supervisão adotadas pela EBA
+
+1. Caso a EBA conclua que um emitente de uma criptoficha referenciada a ativos significativa cometeu uma infração enumerada no anexo V, pode tomar uma ou mais das seguintes medidas:
+
+- a) Adotar uma decisão que exija que o emitente da criptoficha referenciada a ativos significativa ponha termo à conduta que constitui a infração;
+
+- b) Adotar uma decisão que aplique coimas ou sanções pecuniárias compulsórias nos termos dos artigos 131.º e 132.º;
+
+- c) Adotar uma decisão que exija que o emitente da criptoficha referenciada a ativos significativa forneça informação complementar quando tal seja necessário para a proteção dos detentores da criptoficha referenciada a ativos, em particular dos detentores não profissionais;
+
+- d) Adotar uma decisão que exija que o emitente da criptoficha referenciada a ativos significativa suspenda uma oferta pública de criptoativos por um período máximo de 30 dias úteis consecutivos, de cada vez que tenha motivos razoáveis para suspeitar que o presente regulamento foi infringido;
+
+- e) Adotar uma decisão que proíba uma oferta pública da criptoficha referenciada a ativos significativa, caso constate que o presente regulamento foi infringido ou caso tenha motivos razoáveis para suspeitar que será infringido;
+
+- f) Adotar uma decisão que exija que o prestador de serviços de criptoativos que opera uma plataforma de negociação de criptoativos que tenha admitido à negociação a criptoficha referenciada a ativos significativa suspenda a negociação desse criptoativo por um período máximo de 30 dias úteis consecutivos, de cada vez que tenha motivos razoáveis para suspeitar que o presente regulamento foi infringido;
+
+- g) Adotar uma decisão que proíba a negociação da criptoficha referenciada a ativos significativa numa plataforma de negociação de criptoativos, caso constate que o presente regulamento foi infringido;
+
+- h) Adotar uma decisão que exija que o emitente da criptoficha referenciada a ativos significativa altere as suas comunicações comerciais, caso considere que as comunicações comerciais não cumprem o disposto no artigo 29.º;
+
+- i) Adotar uma decisão que suspenda ou proíba comunicações comerciais sempre que haja motivos razoáveis para suspeitar que o presente regulamento foi infringido;
+
+- j) Adotar uma decisão que exija que o emitente da criptoficha referenciada a ativos significativa divulgue toda a informação relevante suscetível de influenciar a avaliação das criptofichas referenciadas a ativos significativas objeto de oferta pública ou admitidas à negociação, no intuito de assegurar a proteção dos consumidores ou o regular funcionamento do mercado;
+
+- k) Emitir alertas sobre o facto de que um emitente da criptoficha referenciada a ativos significativa não cumpre as suas obrigações nos termos do presente regulamento;
+
+- l) Revogar a autorização do emitente da criptoficha referenciada a ativos significativa;
+
+- m) Adotar uma decisão que exija a retirada de uma pessoa singular do órgão de administração do emitente da criptoficha referenciada a ativos significativa;
+
+- n) Exigir que o emitente da criptoficha referenciada a ativos significativa sob a sua supervisão introduza um montante nominal mínimo relativamente a essa criptoficha referenciada a ativos significativa ou limite o montante da criptoficha referenciada a ativos significativa emitida, nos termos do artigo 23.º, n.º 4, e do artigo 24.º, n.º 3.
+
+2. Caso a EBA conclua que um emitente de uma criptoficha de moeda eletrónica significativa cometeu uma infração enumerada no anexo VI, pode tomar uma ou mais das seguintes medidas:
+
+- a) Adotar uma decisão que exija que o emitente da criptoficha de moeda eletrónica significativa ponha termo à conduta que constitui a infração;
+
+- b) Adotar uma decisão que aplique coimas ou sanções pecuniárias compulsórias nos termos dos artigos 131.º e 132.º;
+
+- c) Adotar uma decisão que exija que o emitente da criptoficha de moeda eletrónica significativa forneça informação complementar, quando tal seja necessário para a proteção dos detentores da criptoficha de moeda eletrónica significativa, em particular dos detentores não profissionais;
+
+- d) Adotar uma decisão que exija que o emitente da criptoficha de moeda eletrónica significativa suspenda uma oferta pública de criptoativos por um período máximo de 30 dias úteis consecutivos, de cada vez que tenha motivos razoáveis para suspeitar que o presente regulamento foi infringido;
+
+- e) Adotar uma decisão que proíba uma oferta pública da criptoficha de moeda eletrónica significativa, caso constate que o presente regulamento foi infringido ou caso tenha motivos razoáveis para suspeitar que será infringido;
+
+- f) Adotar uma decisão que exija que o prestador de serviços de criptoativos pertinente que opera uma plataforma de negociação de criptoativos que tenha admitido à negociação a criptoficha de moeda eletrónica significativa suspenda a negociação desse criptoativo por um período máximo de 30 dias úteis consecutivos, de cada vez que tenha motivos razoáveis para suspeitar que o presente regulamento foi infringido;
+
+- g) Adotar uma decisão que proíba a negociação de criptofichas de moeda eletrónica significativas numa plataforma de negociação de criptoativos, caso constate que o presente regulamento foi infringido;
+
+- h) Adotar uma decisão que exija que o emitente da criptoficha de moeda eletrónica significativa divulgue toda a informação relevante suscetível de influenciar a avaliação da criptoficha de moeda eletrónica significativa objeto de oferta pública ou admitida à negociação, no intuito de assegurar a proteção dos consumidores ou o regular funcionamento do mercado;
+
+- i) Emitir alertas sobre o facto de que um emitente da criptoficha de moeda eletrónica significativa não cumpre as suas obrigações nos termos do presente regulamento.
+
+- j) Exigir que o emitente da criptoficha de moeda eletrónica significativa sob a sua supervisão introduza um montante nominal mínimo relativamente a essa criptoficha de moeda eletrónica significativa ou limite o montante da criptoficha de moeda eletrónica significativa emitida, em virtude da aplicação do artigo 58.º, n.º 3.
+
+3. Ao tomar as medidas referidas nos n.ºs 1 ou 2, a EBA tem em conta a natureza e a gravidade da infração, considerando:
+
+- a) A duração e frequência da infração;
+
+- b) O facto de a infração ter ocasionado, facilitado ou estado de alguma forma na origem de atos de criminalidade financeira;
+
+- c) O facto de a infração ter revelado deficiências graves ou sistémicas nos procedimentos, políticas e medidas de gestão do risco do emitente da criptoficha referenciada a ativos significativa ou do emitente da criptoficha de moeda eletrónica significativa;
+
+- d) O facto de a infração ter sido cometida com dolo ou por negligência;
+
+- e) O grau de responsabilidade do emitente da criptoficha referenciada a ativos significativa ou do emitente da criptoficha de moeda eletrónica significativa pela infração;
+
+- f) A capacidade financeira do emitente da criptoficha referenciada a ativos significativa ou do emitente da criptoficha de moeda eletrónica significativa responsável pela infração, indicada pelo volume de negócios total da pessoa coletiva responsável ou pelo rendimento anual e pelos ativos líquidos da pessoa singular responsável;
+
+- g) O impacto da infração nos interesses dos detentores de criptofichas referenciadas a ativos significativas ou de criptofichas de moeda eletrónica significativas;
+
+- h) A importância dos lucros obtidos ou das perdas evitadas pelo emitente da criptoficha referenciada a ativos significativa ou da criptoficha de moeda eletrónica significativa responsável pela infração, ou das perdas ocasionadas a terceiros em consequência da infração, na medida em que sejam determináveis;
+
+- i) O nível de cooperação com a EBA do emitente da criptoficha referenciada a ativos significativa ou do emitente da criptoficha de moeda eletrónica significativa responsável pela infração, sem prejuízo da necessidade de assegurar a restituição dos lucros obtidos ou das perdas evitadas por esse emitente;
+
+- j) Infrações anteriores cometidas pelo emitente da criptoficha referenciada a ativos significativa ou pelo emitente da criptoficha de moeda eletrónica responsável pela infração;
+
+- k) Medidas adotadas pelo emitente da criptoficha referenciada a ativos significativa ou pelo emitente da criptoficha de moeda eletrónica significativa após a infração para evitar a repetição desta infração.
+
+4. Antes de tomar qualquer uma das medidas a que se refere o n.º 1, alíneas d) a g) e j), a EBA informa a ESMA e, nos casos em que as criptofichas referenciadas a ativos significativas estejam referenciadas ao euro ou a uma moeda oficial de um Estado-Membro que não seja o euro, o BCE ou o banco central do Estado-Membro em causa que emite esta moeda oficial, respetivamente.
+
+5. Antes de tomar qualquer uma das medidas a que se refere o n.º 2, a EBA informa do facto a autoridade competente do emitente da criptoficha de moeda eletrónica significativa e o banco central do Estado-Membro a cuja moeda oficial a criptoficha de moeda eletrónica significativa está referenciada.
+
+6. A EBA notifica sem demora injustificada qualquer medida tomada nos termos dos n.ºs 1 ou 2 ao emitente da criptoficha referenciada a ativos significativa ou ao emitente da criptoficha de moeda eletrónica significativa responsável pela infração e comunica essa medida às autoridades competentes em causa bem como à Comissão. A EBA divulga publicamente essas decisões no seu sítio Web no prazo de 10 dias úteis a contar da data de adoção da decisão, a menos que essa divulgação possa pôr seriamente em causa a estabilidade financeira ou causar danos desproporcionados às partes envolvidas. Esta divulgação não pode incluir dados pessoais.
+
+7. A divulgação ao público a que se refere o n.º 6 inclui as seguintes declarações:
+
+- a) Uma declaração que ateste o direito de a pessoa responsável pela infração recorrer da decisão para o Tribunal de Justiça;
+
+- b) Se for caso disso, uma declaração que ateste a interposição do recurso e que especifique que tal recurso não tem efeito suspensivo;
+
+- c) Uma declaração que afirme que é possível à Câmara de Recurso da EBA suspender a aplicação da decisão objeto de recurso, em conformidade com o artigo 60.º, n.º 3, do Regulamento (UE) n.º 1093/2010.
+
+### Artigo 131.º — Coimas
+
+1. A EBA adota uma decisão que aplica uma coima em conformidade com o n.º 3 ou o n.º 4 do presente artigo quando, nos termos do artigo 134.º, n.º 8, concluir que:
+
+- a) Um emitente de uma criptoficha referenciada a ativos significativa ou um membro do seu órgão de administração cometeu, com dolo ou por negligência, uma infração enumerada no anexo V;
+
+- b) Um emitente de uma criptoficha de moeda eletrónica significativa ou um membro do seu órgão de administração cometeu, com dolo ou por negligência, uma infração enumerada no anexo VI;
+
+Entende-se que uma infração foi cometida com dolo se a EBA identificar fatores objetivos que demonstrem que o referido emitente ou um membro do seu órgão de administração agiu deliberadamente para cometer essa infração.
+
+2. Ao adotar uma decisão a que se refere o n.º 1, a EBA tem em conta a natureza e a gravidade da infração, considerando:
+
+- a) A duração e frequência da infração;
+
+- b) O facto de a infração ter ocasionado, facilitado ou estado de alguma forma na origem de atos de criminalidade financeira;
+
+- c) O facto de a infração ter revelado deficiências graves ou sistémicas nos procedimentos, políticas e medidas de gestão do risco do emitente da criptoficha referenciada a ativos significativa ou do emitente da criptoficha de moeda eletrónica significativa;
+
+- d) O facto de a infração ter sido cometida com dolo ou por negligência;
+
+- e) O grau de responsabilidade do emitente da criptoficha referenciada a ativos significativa ou do emitente da criptoficha de moeda eletrónica significativa pela infração;
+
+- f) A capacidade financeira do emitente da criptoficha referenciada a ativos significativa ou do emitente da criptoficha de moeda eletrónica significativa responsável pela infração, indicada pelo volume de negócios total da pessoa coletiva responsável ou pelo rendimento anual e pelos ativos líquidos da pessoa singular responsável;
+
+- g) O impacto da infração nos interesses dos detentores de criptofichas referenciadas a ativos significativas ou de criptofichas de moeda eletrónica significativas;
+
+- h) A importância dos lucros obtidos ou das perdas evitadas pelo emitente da criptoficha referenciada a ativos significativa ou da criptoficha de moeda eletrónica significativa responsável pela infração, ou das perdas ocasionadas a terceiros em consequência da infração, na medida em que sejam determináveis;
+
+- i) O nível de cooperação com a EBA do emitente da criptoficha referenciada a ativos significativa ou do emitente de criptoficha de moeda eletrónica significativa responsável pela infração, sem prejuízo da necessidade de assegurar a restituição dos lucros obtidos ou das perdas evitadas por esse emitente;
+
+- j) Infrações anteriores cometidas pelo emitente da criptoficha referenciada a ativos significativa ou pelo emitente da criptoficha de moeda eletrónica significativa responsável pela infração;
+
+- k) Medidas adotadas pelo emitente da criptoficha referenciada a ativos significativa ou pelo emitente da criptoficha de moeda eletrónica significativa após a infração para evitar a repetição da referida infração.
+
+3. Relativamente aos emitentes de criptofichas referenciadas a ativos significativas, o montante máximo da coima a que se refere o n.º 1 pode ascender a 12,5 % do seu volume de negócios anual registado no exercício anterior, ou ao dobro do montante dos lucros obtidos ou das perdas evitadas em resultado da infração, caso possam ser determinados.
+
+4. Relativamente aos emitentes de criptofichas de moeda eletrónica significativas, o montante máximo da coima a que se refere o n.º 1 pode ascender a 10 % do volume de negócios anual registado no exercício anterior, ou ao dobro do montante dos lucros obtidos ou das perdas evitadas em resultado da infração, caso sejam determináveis.
+
+### Artigo 132.º — Sanções pecuniárias compulsórias
+
+1. A EBA adota uma decisão que impõe sanções pecuniárias compulsórias para obrigar:
+
+- a) Uma pessoa a pôr termo à conduta que constitui uma infração, em conformidade com uma decisão tomada nos termos do artigo 130.º;
+
+- b) Uma pessoa referida no artigo 122.º, n.º 1:
+
+  - i) a prestar a informação completa que tenha sido solicitada por decisão tomada nos termos do artigo 122.º,
+
+  - ii) a submeter-se a uma investigação e, em particular, a apresentar na íntegra os registos, dados, procedimentos ou qualquer outro material exigidos e a completar e corrigir outras informações prestadas no âmbito de uma investigação lançada por decisão tomada nos termos do artigo 123.º,
+
+  - iii) a submeter-se a uma inspeção no local ordenada por decisão tomada nos termos do artigo 124.º.
+
+2. Uma sanção pecuniária compulsória deve ser eficaz e proporcionada. As sanções pecuniárias compulsórias são aplicadas por cada dia de mora.
+
+3. Não obstante o disposto no n.º 2, o montante das sanções pecuniárias compulsórias é igual a 3 % do volume de negócios diário médio registado no exercício anterior, ou, no caso das pessoas singulares, igual a 2 % do rendimento diário médio obtido no ano civil anterior. O referido montante é calculado a partir da data estabelecida na decisão da EBA que impõe a sanção pecuniária compulsória.
+
+4. As sanções pecuniárias compulsórias são aplicadas por um período máximo de seis meses a contar da data de notificação da decisão da EBA. No final deste período, a EBA procede à reapreciação da medida.
+
+### Artigo 133.º — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+
+1. A EBA divulga ao público todas as coimas e sanções pecuniárias compulsórias que tenha aplicado ao abrigo dos artigos 131.º e 132.º, salvo se tal divulgação puder comprometer gravemente a estabilidade financeira ou causar danos desproporcionados às partes envolvidas. A informação divulgada não pode conter dados pessoais.
+
+2. As coimas e as sanções pecuniárias compulsórias aplicadas por força dos artigos 131.º e 132.º têm caráter administrativo.
+
+3. As decisões de aplicar coimas e sanções pecuniárias compulsórias ao abrigo dos artigos 131.º e 132.º têm força executiva em conformidade com as normas de processo civil em vigor no Estado em cujo território a execução da coima ou da sanção pecuniária compulsória tem lugar.
+
+4. O montante das coimas e sanções pecuniárias compulsórias é afetado ao orçamento geral da União.
+
+5. Caso a EBA, não obstante o disposto nos artigos 131.º e 132.º, decida não aplicar coimas ou sanções pecuniárias, informa o Parlamento Europeu, o Conselho, a Comissão e as autoridades competentes do Estado-Membro em causa, indicando os fundamentos da sua decisão.
+
+### Artigo 134.º — Regras processuais para a adoção de medidas de supervisão e a aplicação de coimas
+
+1. Se, no desempenho das responsabilidades de supervisão que lhe são atribuídas pelo artigo 117.º, houver motivos claros e demonstráveis para suspeitar que foi ou que será cometida uma infração enumerada no anexo V ou no anexo VI, a EBA nomeia no seu seio um inquiridor independente para investigar o assunto. O inquiridor não pode estar envolvido, nem ter estado direta ou indiretamente envolvido, na supervisão dos emitentes de criptofichas referenciadas a ativos significativas ou dos emitentes de criptofichas de moeda eletrónica significativas em causa, e exerce as suas funções de forma independente da EBA.
+
+2. O inquiridor deve investigar as alegadas infrações, tendo em conta todas as observações formuladas pelas pessoas sujeitas a investigação, devendo apresentar à EBA um processo completo com as suas conclusões.
+
+3. Para levar a cabo as suas atribuições, o inquiridor pode exercer o poder de solicitar informações nos termos do artigo 122.º e o poder de realizar investigações e inspeções no local nos termos dos artigos 123.º e 124.º. Ao fazer uso desses poderes, o inquiridor cumpre o disposto no artigo 121.º.
+
+4. Na prossecução das suas atribuições, o inquiridor tem acesso a todos os documentos e informações recolhidas pela EBA no âmbito das suas atividades de supervisão.
+
+5. Tendo concluído a sua investigação e antes de apresentar à EBA o dossiê com as suas conclusões, o inquiridor dá às pessoas sujeitas à investigação a oportunidade de se pronunciarem sobre as matérias objeto da mesma. O inquiridor baseia as suas conclusões exclusivamente em factos sobre os quais as partes interessadas tenham tido a oportunidade de se pronunciar.
+
+6. Os direitos de defesa dos interessados devem ser plenamente acautelados no desenrolar das investigações efetuadas nos termos do presente artigo.
+
+7. Quando apresentar à EBA o dossiê com as suas conclusões, o inquiridor notifica deste facto as pessoas sujeitas à investigação. As pessoas sujeitas à investigação têm o direito de consultar o processo, sem prejuízo dos legítimos interesses de terceiros na proteção dos seus segredos comerciais. O direito de consulta do processo não é extensível a informações confidenciais que afetem terceiros nem aos documentos preparatórios internos da EBA.
+
+8. Com base no processo que contém as conclusões do inquiridor e, se tal for requerido pelas pessoas sujeitas à investigação, ouvidas as referidas pessoas nos termos do artigo 135.º, a EBA decide se o emitente da criptoficha referenciada a ativos significativa ou o emitente da criptoficha de moeda eletrónica significativa sujeito à investigação cometeu uma infração enumerada no anexo V ou no anexo VI, tomando, se for esse o caso, uma medida de supervisão em conformidade com o artigo 130.º ou aplicando uma coima em conformidade com o artigo 131.º.
+
+9. O inquiridor não participa nas deliberações da EBA nem intervém de qualquer outra forma no processo decisório da EBA.
+
+10. A Comissão adota atos delegados nos termos do artigo 139.º até 30 de junho de 2024, a fim de completar o presente regulamento com a especificação mais pormenorizada das regras processuais relativas ao exercício dos poderes de aplicação de coimas ou sanções pecuniárias compulsórias, incluindo disposições relativas aos direitos de defesa, disposições temporárias cobrança das coimas ou das sanções pecuniárias compulsórias e aos prazos de prescrição para a aplicação e execução de coimas e sanções pecuniárias compulsórias.
+
+11. Se, no exercício das funções que lhes são atribuídas pelo presente regulamento, a EBA concluir que há sérios indícios da existência de factos suscetíveis de constituírem infrações penais, suscita a questão junto das autoridades nacionais competentes para efeitos de investigação e, se for caso disso, instauração de procedimento penal. Além disso, a EBA abstém-se de aplicar coimas ou sanções pecuniárias compulsórias caso tenha conhecimento de que uma anterior absolvição ou condenação por facto idêntico ou factos em substância semelhantes já transitou em julgado em consequência de um processo penal nos termos do direito nacional.
+
+### Artigo 135.º — Audição das pessoas em causa
+
+1. Antes de tomar qualquer decisão nos termos do artigo 130.º, 131.º ou 132.º, a EBA dá às pessoas sujeitas a uma investigação a oportunidade de se pronunciarem sobre as suas conclusões. A EBA baseia as suas decisões apenas nas conclusões sobre as quais as pessoas sujeitas a tal investigação tiveram oportunidade de se pronunciar.
+
+2. O n.º 1 não se aplica se forem necessárias medidas urgentes para evitar prejuízos graves e iminentes para a estabilidade financeira ou para os detentores de criptoativos, em particular os detentores não profissionais. Nesse caso, a EBA pode tomar uma decisão provisória e dar aos interessados a possibilidade de serem ouvidos com a maior brevidade possível após a tomada da sua decisão.
+
+3. Os direitos de defesa das pessoas sujeitas a uma investigação devem ser plenamente respeitados. Essas pessoas têm o direito a consultar o processo da EBA, sem prejuízo do interesse legítimo de terceiros na proteção dos seus segredos comerciais. O direito de acesso ao processo da EBA não é extensível a informações confidenciais nem aos documentos preparatórios internos da EBA.
+
+### Artigo 136.º — Controlo jurisdicional pelo Tribunal de Justiça
+
+O Tribunal de Justiça tem competência ilimitada para proceder ao controlo jurisdicional das decisões através das quais a EBA tenha aplicado uma coima, uma sanção pecuniária compulsória ou qualquer sanção administrativa ou outra medida administrativa nos termos do presente regulamento. O Tribunal de Justiça pode anular, reduzir ou aumentar a coima ou a sanção pecuniária compulsória aplicada.
+
+### Artigo 137.º — Taxas de supervisão
+
+1. A EBA cobra taxas aos emitentes de criptofichas referenciadas a ativos significativas e aos emitentes de criptofichas de moeda eletrónica significativas. Essas taxas cobrem as despesas suportadas pela EBA na execução das suas atribuições de supervisão relacionadas com os emitentes de criptofichas referenciadas a ativos significativas e de emitentes de criptofichas de moeda eletrónica significativas em conformidade com os artigos 117.º e 119.º, e o reembolso dos custos em que as autoridades competentes possam incorrer no exercício de atividades prosseguidas nos termos do presente regulamento, nomeadamente em resultado de uma delegação de atribuições em conformidade com o artigo 138.º.
+
+2. O montante da taxa cobrada a um emitente individual da criptoficha referenciada a ativos significativa deve ser proporcional ao volume dos seus ativos de reserva e cobrir todos os custos suportados pela EBA na execução das suas atribuições de supervisão previstas no presente regulamento.
+
+O montante da taxa cobrada a um emitente individual de uma criptoficha de moeda eletrónica significativa deve ser proporcional ao volume de emissão da criptofichas de moeda eletrónica em troca de fundos e cobrir todos os custos decorrentes da execução das atribuições de supervisão da EBA ao abrigo do presente regulamento, nomeadamente o reembolso de quaisquer custos suportados em resultado da execução dessas atribuições.
+
+3. A Comissão adota um ato delegado nos termos do artigo 139.º até 30 de junho de 2024, a fim de completar presente regulamento especificando mais pormenorizadamente o tipo de taxas, os atos sujeitos a taxas, o montante das taxas e a forma como estas devem ser pagas, bem como a metodologia para o cálculo do montante máximo por entidade a que se refere o n.º 2 do presente artigo que a EBA pode cobrar.
+
+### Artigo 138.º — Delegação de atribuições da EBA nas autoridades competentes
+
+1. Quando necessário para a boa execução de uma missão de supervisão no que toca a emitentes de criptofichas referenciadas a ativos significativas ou a emitentes de criptofichas de moeda eletrónica significativas, a EBA pode delegar atribuições de supervisão específicas numa autoridade competente. As referidas atribuições de supervisão específicas podem incluir o poder de formular pedidos de informação nos termos do artigo 122.º e de proceder a investigações e inspeções no local nos termos do artigo 123.º ou 124.º.
+
+2. Antes da delegação de uma atribuição a que se refere o n.º 1, a EBA consulta a autoridade competente relevante sobre:
+
+- a) O âmbito da atribuição a delegar;
+
+- b) O calendário para a execução da referida atribuição; e
+
+- c) A transmissão das informações necessárias pela EBA e à EBA.
+
+3. Nos termos do ato delegado sobre taxas adotado pela Comissão nos termos do artigo 137.º, n.º 3, e do artigo 139.º, a EBA reembolsa as despesas em que as autoridades competentes incorram em resultado da execução das atribuições nelas delegadas.
+
+4. A EBA procede à revisão da delegação de atribuições com a periodicidade adequada. Tal delegação pode ser revogada em qualquer momento.
+
+## TÍTULO VIII — ATOS DELEGADOS
+
+### Artigo 139.º — Exercício da delegação
+
+1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar atos delegados referido no artigo 3.º, n.º 2, no artigo 43.º, n.º 11, no artigo 103, n.º 8, no artigo 104.º, n.º 8, no artigo 105.º, n.º 7, no artigo 134.º, n.º 10, e no artigo 137.º, n.º 3, é conferido à Comissão por um prazo de 36 meses a contar de 29 de junho de 2023. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de 36 meses. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.
+
+3. A delegação de poderes referida no artigo 3.º, n.º 2, no artigo 43.º, n.º 11, no artigo 103.º, n.º 8, no artigo 104.º, n.º 8, no artigo 105.º, n.º 7, no artigo 134.º, n.º 10, e no artigo 137.º, n.º 3, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no Jornal Oficial da União Europeia ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.
+
+5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+6. Os atos delegados adotados nos termos do artigo 3.º, n.º 2, do artigo 43.º, n.º 11, do artigo 103.º, n.º 8, do artigo 104.º, n.º 8, do artigo 105.º, n.º 7, do artigo 134.º, n.º 10, ou do artigo 137.º, n.º 3, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de três meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por três meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+## TÍTULO IX — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+### Artigo 140.º — Relatórios sobre a aplicação do presente regulamento
+
+1. Até 30 de junho de 2027, a Comissão, tendo consultado a EBA e a ESMA, apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação do presente regulamento, acompanhado, se adequado, de uma proposta legislativa. É apresentado um relatório intercalar até 30 de junho de 2025, acompanhado, se for caso disso, de uma proposta legislativa.
+
+2. Os relatórios referidos no n.º 1 devem incluir os seguintes elementos:
+
+- a) O número de emissões de criptoativos na União, o número de livretes do criptoativo apresentados ou notificados às autoridades competentes, o tipo de criptoativos emitidos e a sua capitalização de mercado, bem como o número de criptoativos admitidos à negociação;
+
+- b) Uma descrição da experiência com a classificação de criptoativos, incluindo eventuais divergências de abordagens por parte das autoridades competentes;
+
+- c) Uma avaliação da necessidade de introduzir um mecanismo de aprovação para os livretes do criptoativo relativo a criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica;
+
+- d) Uma estimativa do número de residentes na União que utilizam ou investem em criptoativos emitidos na União;
+
+- e) Se possível, uma estimativa do número de residentes na União que utilizam ou investem em criptoativos emitidos fora da União e uma explicação sobre a disponibilidade de dados a este respeito;
+
+- f) O número e o valor das fraudes, burlas, atos de pirataria, utilização de criptoativos para pagamentos relacionados com ataques com software de sequestro, ciberataques, furtos e perdas de criptoativos comunicados na União, os tipos de comportamento fraudulento, o número de reclamações recebidas por prestadores de serviços de criptoativos e por emitentes de criptofichas referenciadas a ativos, o número de reclamações recebidas pelas autoridades competentes e o objeto das reclamações recebidas;
+
+- g) O número de emitentes de criptofichas referenciadas a ativos e uma análise das categorias de ativos de reserva, da dimensão das reservas de ativos e do volume de pagamentos efetuados em criptofichas referenciadas a ativos;
+
+- h) O número de emitentes de criptofichas referenciadas a ativos significativas e uma análise das categorias de ativos incluídos nas categorias de ativos de reserva, da dimensão das reservas de ativos e do volume de pagamentos efetuados em criptofichas referenciadas a ativos significativas;
+
+- i) O número de emitentes de criptofichas de moeda eletrónica e uma análise das moedas oficiais referenciadas pelas criptofichas de moeda eletrónica, a composição e a dimensão dos fundos depositados ou investidos de acordo como artigo 54.º e o volume de pagamentos efetuados em criptofichas de moeda eletrónica;
+
+- j) O número de emitentes de criptofichas de moeda eletrónica significativas e uma análise das moedas oficiais referenciadas pelas criptofichas de moeda eletrónica significativas e, relativamente a instituições de moeda eletrónica que emitam criptofichas de moeda eletrónica significativas, a da dimensão das reservas de ativos e o volume de pagamentos efetuados em criptofichas de moeda eletrónica significativas;
+
+- k) O número de prestadores significativos de serviços de criptoativos;
+
+- l) Uma avaliação do funcionamento dos mercados de criptoativos na União, incluindo a evolução e as tendências do mercado, tendo em conta a experiência das autoridades de supervisão, o número de prestadores de serviços de criptoativos autorizados e as respetivas quotas médias de mercado;
+
+- m) Uma avaliação do nível de proteção dos detentores de criptoativos e dos clientes dos prestadores de serviços de criptoativos, em especial dos detentores não profissionais;
+
+- n) Uma avaliação das comunicações comerciais fraudulentas e das burlas que envolvem criptoativos e que ocorrem através das redes sociais;
+
+- o) Uma avaliação dos requisitos aplicáveis aos emitentes de criptoativos e aos prestadores de serviços de criptoativos, bem como do seu impacto na resiliência operacional, na integridade do mercado, na estabilidade financeira e na proteção dos clientes e dos detentores de criptoativos;
+
+- p) Uma avaliação da aplicação do artigo 81.º e da possibilidade de introduzir testes de adequação nos artigos 78.º, 79.º e 80.º, a fim de melhor proteger os clientes dos prestadores de serviços de criptoativos, em especial os detentores não profissionais;
+
+- q) Uma avaliação da adequação do âmbito dos serviços de criptoativos abrangidos pelo presente regulamento e da necessidade de qualquer ajustamento das definições estabelecidas no presente regulamento, bem como da necessidade de incluir no âmbito de aplicação do presente regulamento eventuais formas inovadoras adicionais de criptoativos;
+
+- r) Uma avaliação da adequação dos requisitos prudenciais aplicáveis aos prestadores de serviços de criptoativos e da pertinência de os alinhar com os requisitos de capital inicial e de fundos próprios aplicáveis às empresas de investimento nos termos do Regulamento (UE) 2019/2033 do Parlamento Europeu e do Conselho ([^21]) e da Diretiva (UE) 2019/2034 do Parlamento Europeu e do Conselho ([^22]);
+
+- s) Uma avaliação da adequação dos limiares para classificar criptofichas referenciadas a ativos e criptofichas de moeda eletrónica como significativas estabelecidos no artigo 43.º, n.º 1, alíneas a), b) e c), e uma avaliação da pertinência de apreciar periodicamente os limiares;
+
+- t) Uma avaliação do desenvolvimento de finanças descentralizadas em mercados de criptoativos e do tratamento regulamentar adequado dos sistemas descentralizados de criptoativos;
+
+- u) Uma avaliação da adequação dos limiares para considerar prestadores de serviços de criptoativos como significativos nos termos do artigo 85.º e uma avaliação da pertinência de apreciar periodicamente os limiares;
+
+- v) Uma avaliação da necessidade de estabelecer um regime de equivalência no âmbito do presente regulamento para as entidades que prestam serviços de criptoativos, os emitentes de criptofichas referenciadas a ativos ou os emitentes de criptofichas de moeda eletrónica de países terceiros;
+
+- w) Uma avaliação da adequação das isenções previstas nos artigos 4.º e 16.º;
+
+- x) Uma avaliação do impacto do presente regulamento no bom funcionamento do mercado interno no que se refere aos criptoativos, incluindo qualquer impacto no acesso das PME a financiamento e na criação de novos meios de pagamento, incluindo instrumentos de pagamento;
+
+- y) Uma descrição da evolução dos modelos de negócios e das tecnologias em mercados de criptoativos, dando especial atenção ao impacto ambiental e climático das novas tecnologias, bem como uma avaliação das opções políticas e, se necessário, de quaisquer medidas adicionais que possam ser justificadas para atenuar os impactos negativos no clima e outros impactos negativos relacionados com o ambiente das tecnologias utilizadas em mercados de criptoativos e, em especial, dos mecanismos de consenso utilizados para validar as transações de criptoativos;
+
+- z) Uma avaliação da necessidade de introduzir alterações às medidas estabelecidas no presente regulamento para assegurar a proteção dos clientes e dos detentores de criptoativos, a integridade do mercado e a estabilidade financeira;
+
+- aa) A aplicação de sanções administrativas e outras medidas administrativas;
+
+- ab) Uma avaliação da cooperação entre as autoridades competentes, a EBA, a ESMA, os bancos centrais, bem como outras autoridades pertinentes, nomeadamente no que se refere à interação entre as suas responsabilidades ou atribuições, e uma avaliação das vantagens e desvantagens da atribuição da responsabilidade pela supervisão, respetivamente, às autoridades competentes dos Estados-Membros e à EBA ao abrigo do presente regulamento;
+
+- ac) Uma avaliação da cooperação entre as autoridades competentes e a ESMA no que respeita à supervisão de prestadores significativos de serviços de criptoativos e uma avaliação das vantagens e desvantagens da atribuição da responsabilidade pela supervisão dos prestadores significativos de serviços de criptoativos, respetivamente, às autoridades competentes dos Estados-Membros e à ESMA ao abrigo do presente regulamento;
+
+- ad) Os custos relacionados com o cumprimento do presente regulamento para os emitentes de criptoativos que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica, expressos em percentagem do montante mobilizado com a emissão de criptoativos;
+
+- ae) Os custos relacionados com o cumprimento do presente regulamento para os emitentes de criptofichas referenciadas a ativos e emitentes de criptofichas de moeda eletrónica, expressos em percentagem dos seus custos operacionais;
+
+- af) Os custos relacionados com o cumprimento do presente regulamento para os prestadores de serviços de criptoativos, expressos em percentagem dos seus custos operacionais;
+
+- ag) O número e o montante das coimas e sanções penais aplicadas pelas autoridades competentes e pela EBA por infrações ao presente regulamento.
+
+3. Se for o caso, os relatórios a que se refere o n.º 1 do presente artigo devem também dar seguimento aos temas abordados nos relatórios a que se referem os artigos 141.º e 142.º.
+
+### Artigo 141.º — Relatório anual da ESMA sobre a evolução dos mercados
+
+Até 31 de dezembro de 2025 e, posteriormente, todos os anos, a ESMA, em estreita cooperação com a EBA, apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento e a evolução dos mercados de criptoativos. O relatório é tornado público.
+
+O relatório deve conter os elementos seguintes:
+
+- a) O número de emissões de criptoativos na União, o número de livretes do criptoativo apresentados ou notificados às autoridades competentes, o tipo de criptoativos emitidos e a sua capitalização de mercado, bem como o número de criptoativos admitidos à negociação;
+
+- b) O número de emitentes de criptofichas referenciadas a ativos e uma análise das categorias de ativos de reserva, da dimensão das reservas de ativos e do volume de transações de criptofichas referenciadas a ativos;
+
+- c) O número de emitentes de criptofichas referenciadas a ativos significativas e uma análise das categorias de ativos de reserva, da dimensão das reservas de ativos e do volume de transações de criptofichas referenciadas a ativos significativas;
+
+- d) O número de emitentes de criptofichas de moeda eletrónica e uma análise das moedas oficiais referenciadas pelas criptofichas de moeda eletrónica, da composição e da dimensão dos fundos depositados ou investidos de acordo com o artigo 54.º e do volume de pagamentos efetuados em criptofichas de moeda eletrónica;
+
+- e) O número de emitentes de criptofichas de moeda eletrónica significativas e uma análise das moedas oficiais referenciadas pelas criptofichas de moeda eletrónica significativas e, relativamente às instituições de moeda eletrónica que emitam criptofichas de moeda eletrónica significativas, da dimensão das reservas de ativos e do volume de pagamentos efetuados em criptofichas de moeda eletrónica significativas;
+
+- f) O número de prestadores de serviços de criptoativos e o número de prestadores significativos de serviços de criptoativos;
+
+- g) Uma estimativa do número de residentes na União que utilizam ou investem em criptoativos emitidos na União;
+
+- h) Se possível, uma estimativa do número de residentes na União que utilizam ou investem em criptoativos emitidos fora da União e uma explicação sobre a disponibilidade de dados a este respeito;
+
+- i) Um levantamento da localização geográfica e do nível dos procedimentos de conhecimento do cliente e de diligência quanto à clientela das bolsas não autorizadas que prestam serviços de criptoativos a residentes na União, nomeadamente o número de bolsas sem uma domiciliação clara e o número de bolsas localizadas em jurisdições incluídas na lista de países terceiros de risco elevado para efeitos das regras da União em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo ou na lista de jurisdições não cooperantes para efeitos fiscais, classificadas pelo nível de conformidade com os procedimentos adequados de conhecimento do cliente;
+
+- j) A proporção de transações de criptoativos que ocorrem através de um prestador de serviços de criptoativos, um prestador de serviços não autorizado ou entre pares, e o seu volume de transações;
+
+- k) O número e o valor das fraudes, burlas, atos de pirataria, utilização de criptoativos para pagamentos relacionados com ataques com software de sequestro, ciberataques, furtos ou perdas de criptoativos comunicados na União, os tipos de comportamento fraudulento, o número de reclamações recebidas por prestadores de serviços de criptoativos e por emitentes de criptofichas referenciadas a ativos, o número de reclamações recebidas pelas autoridades competentes e o objeto das reclamações recebidas;
+
+- l) O número de reclamações recebidas por prestadores de serviços de criptoativos, emitentes e autoridades competentes em relação a informações falsas e enganosas incluídas nos livretes do criptoativo ou em comunicações comerciais, nomeadamente através de plataformas de redes sociais;
+
+- m) Abordagens e opções possíveis, com base em boas práticas e relatórios de organizações internacionais pertinentes, para reduzir o risco de evasão ao presente regulamento, nomeadamente quanto à prestação de serviços de criptoativos na União por intervenientes de países terceiros sem autorização.
+
+As autoridades competentes transmitem à ESMA todas as informações necessárias para a elaboração do relatório. Para efeitos do relatório, a ESMA pode solicitar informações aos serviços responsáveis pela aplicação da lei.
+
+### Artigo 142.º — Relatório sobre os desenvolvimentos mais recentes em matéria de criptoativos
+
+1. Até 30 de dezembro de 2024, a Comissão, após consulta à EBA e à ESMA, apresenta ao Parlamento Europeu e ao Conselho um relatório sobre os desenvolvimentos mais recentes em matéria de criptoativos, em particular sobre questões não abordadas no presente regulamento, acompanhado, se adequado, de uma proposta legislativa.
+
+2. O relatório a que se refere o n.º 1 inclui, pelo menos, os seguintes elementos:
+
+- a) Uma avaliação do desenvolvimento de finanças descentralizadas nos mercados de criptoativos e do tratamento regulamentar adequado dos sistemas descentralizados de criptoativos sem um emitente ou um prestador de serviços de criptoativos, nomeadamente uma avaliação da necessidade e viabilidade de regulamentar as finanças descentralizadas;
+
+- b) Uma avaliação da necessidade e da viabilidade de regulamentar a concessão e a contração de empréstimos de criptoativos;
+
+- c) Uma avaliação do tratamento de serviços associados à transferência de criptofichas de moeda eletrónica, caso não tenham sido abordados no contexto da revisão da Diretiva (UE) 2015/2366;
+
+- d) Uma avaliação do desenvolvimento de mercados de criptoativos únicos e não fungíveis e do tratamento regulamentar adequado de tais criptoativos, nomeadamente uma avaliação da necessidade e viabilidade de regulamentar os oferentes de criptoativos únicos e não fungíveis, bem como os prestadores de serviços relacionados com tais criptoativos.
+
+### Artigo 143.º — Medidas transitórias
+
+1. Os artigos 4.º a 15.º não se aplicam às ofertas públicas de criptoativos que tenham terminado antes de 30 de dezembro de 2024.
+
+2. Em derrogação do disposto no título II, apenas os requisitos a seguir indicados são aplicáveis a criptoativos, desde que não sejam criptofichas referenciadas a ativos nem criptofichas de moeda eletrónica, que tenham sido admitidos à negociação antes de 30 de dezembro de 2024:
+
+- a) Os artigos 7.º e 9.º são aplicáveis às comunicações comerciais publicadas após 30 de dezembro de 2024;
+
+- b) Os operadores de plataformas de negociação asseguram, até 31 de dezembro de 2027, que um livrete do criptoativo, nos casos previstos no presente regulamento, seja redigido, notificado e publicado nos termos dos artigos 6.º, 8.º e 9.º e atualizado nos termos do artigo 12.º.
+
+3. Os prestadores de serviços de criptoativos que prestavam os seus serviços em conformidade com a legislação aplicável antes de 30 de dezembro de 2024 poderão continuar a fazê-lo até 1 de julho de 2026 ou até que lhes seja concedida ou recusada uma autorização nos termos do artigo 63.º, consoante o que ocorrer primeiro.
+
+Os Estados-Membros podem decidir não aplicar o regime transitório dos prestadores de serviços de criptoativos previsto no primeiro parágrafo ou reduzir a sua duração, caso decidam que o seu quadro regulamentar nacional aplicável antes de 30 de dezembro de 2024 é menos rigoroso do que o presente regulamento.
+
+Até 30 de junho de 2024, os Estados-Membros notificam à Comissão e à ESMA se exerceram a opção prevista no segundo parágrafo e a duração do regime transitório.
+
+4. Os emitentes de criptofichas referenciadas a ativos que não sejam instituições de crédito que tenham emitido criptofichas referenciadas a ativos em conformidade com a legislação aplicável antes de 30 de junho de 2024 podem continuar a fazê-lo até lhes ser concedida ou recusada uma autorização nos termos do artigo 21.º, desde que solicitem uma autorização antes de 30 de julho de 2024.
+
+5. As instituições de crédito que tenham emitido criptofichas referenciadas a ativos em conformidade com a legislação aplicável antes de 30 de junho de 2024 podem continuar a fazê-lo até que o livrete do criptoativo tenha sido aprovado ou tenha sido objeto de não aprovação nos termos do artigo 17.º, desde que notifiquem a respetiva autoridade competente nos termos do n.º 1 do mesmo artigo antes de 30 de julho de 2024.
+
+6. Em derrogação do disposto nos artigos 62.º e 63.º, os Estados-Membros podem aplicar um procedimento simplificado aos pedidos de autorização apresentados entre 30 de dezembro de 2024 e 1 de julho de 2026 por entidades que, em 30 de dezembro de 2024, estivessem autorizadas, ao abrigo do direito nacional, a prestar serviços de criptoativos. Antes de concederem a autorização nos termos desse procedimento simplificado, as autoridades competentes certificam-se do cumprimento do disposto nos capítulos 2 e 3 do título V.
+
+7. A EBA exerce as suas responsabilidades de supervisão nos termos do artigo 117.º a partir da data de aplicação dos atos delegados a que se refere o artigo 43.º, n.º 11.
+
+### Artigo 144.º — Alteração do Regulamento (UE) n.º 1093/2010
+
+No artigo 1.º, n.º 2, do Regulamento (UE) n.º 1093/2010, o primeiro parágrafo passa a ter a seguinte redação:
+
+«A Autoridade age no âmbito das competências conferidas pelo presente regulamento e no âmbito de aplicação da Diretiva 2002/87/CE, da Diretiva 2008/48/CE ([^1]), da Diretiva 2009/110/CE, do Regulamento (UE) n.º 575/2013 ([^2]), da Diretiva 2013/36/UE ([^3]), da Diretiva 2014/49/UE ([^4]), da Diretiva 2014/92/UE ([^5]), da Diretiva (UE) 2015/2366 ([^6]), do Regulamento (UE) 2023/1114 ([^7]) do Parlamento Europeu e do Conselho e, na medida em que esses atos se apliquem às instituições de crédito e às instituições financeiras e às autoridades competentes que as supervisionam, das partes aplicáveis da Diretiva 2002/65/CE, incluindo todas as diretivas, regulamentos e decisões baseados nesses atos, bem como de qualquer outro ato juridicamente vinculativo da União que confira atribuições à Autoridade. A Autoridade age também nos termos do Regulamento (UE) n.º 1024/2013 do Conselho ([^8]).
+
+### Artigo 145.º — Alteração do Regulamento (UE) n.º 1095/2010
+
+No artigo 1.º, n.º 2, do Regulamento (UE) n.º 1095/2010, o primeiro parágrafo passa a ter a seguinte redação:
+
+«A Autoridade age no âmbito das competências conferidas pelo presente regulamento e no âmbito de aplicação das Diretivas 97/9/CE, 98/26/CE, 2001/34/CE, 2002/47/CE, 2004/109/CE, 2009/65/CE, da Diretiva 2011/61/UE do Parlamento Europeu e do Conselho ([^9]), do Regulamento (CE) n.º 1060/2009 e da Diretiva 2014/65/UE do Parlamento e do Conselho ([^10]), do Regulamento (UE) 2017/1129 do Parlamento Europeu e do Conselho ([^11]), do Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho ([^12]) e, na medida em que esses atos se apliquem às empresas que prestam serviços de investimento ou aos organismos de investimento coletivo que comercializam as suas unidades de participação ou ações, aos emitentes ou oferentes de criptoativos, às pessoas que solicitam a admissão à negociação ou aos prestadores de serviços de criptoativos e às autoridades competentes que procedem à sua supervisão, das partes pertinentes das Diretivas 2002/87/CE e 2002/65/CE, incluindo todas as diretivas, regulamentos e decisões baseados nesses atos, bem como de qualquer outro ato juridicamente vinculativo da União que confira atribuições à Autoridade.
+
+### Artigo 146.º — Alteração da Diretiva 2013/36/UE
+
+No anexo I da Diretiva 2013/36/UE, o ponto 15 passa a ter a seguinte redação:
+
+- «15. “Emissão de moeda eletrónica”, incluindo criptofichas de moeda eletrónica na aceção do artigo 3.º, n.º 1, ponto 7, do Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho ([^13]).
+
+- 16. "Emissão de criptofichas referenciadas a ativos" na aceção do artigo 3.º, n.º 1, ponto 6, do Regulamento (UE) 2023/1114.
+
+- 17. "Serviços de criptoativos" na aceção do artigo 3.º, n.º 1, ponto 16, do Regulamento (UE) 2023/1114.
+
+### Artigo 147.º — Alteração da Diretiva (UE) 2019/1937
+
+À parte I.B do anexo da Diretiva (UE) 2019/1937, é aditado o seguinte ponto:
+
+- «xxii) Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 (JO L 150 de 9.6.2023, p. 40).».
+
+### Artigo 148.º — Transposição das alterações das Diretivas 2013/36/UE e (UE) 2019/1937
+
+1. Os Estados-Membros adotam e publicam, até 30 de dezembro de 2024, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento aos artigos 146.º e 147.º.
+
+2. Os Estados-Membros comunicam à Comissão, à EBA e à ESMA o texto das principais disposições de direito interno que adotarem no domínio regulado pelo artigo 116.º.
+
+### Artigo 149.º — Entrada em vigor e aplicação
+
+1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+2. O presente regulamento é aplicável a partir de 30 de dezembro de 2024.
+
+3. Em derrogação do disposto no n.º 2, os títulos III e IV são aplicáveis a partir de 30 de junho de 2024.
+
+4. Em derrogação do disposto nos n.ºs 2 e 3 do presente artigo, o artigo 2.º, n.º 5, o artigo 3.º, n.º 2, o artigo 6.º, n.ºs 11 e 12, o artigo 14.º, n.º 1, segundo parágrafo, o artigo 17.º, n.º 8, o artigo 18.º, n.ºs 6 e 7, o artigo 19.º, n.ºs 10 e 11, o artigo 21.º, n.º 3, o artigo 22.º, n.ºs 6 e 7, o artigo 31.º, n.º 5, o artigo 32.º, n.º 5, o artigo 34.º, n.º 13, o artigo 35.º, n.º 6), o artigo 36.º, n.º 4, o artigo 38.º, n.º 5, o artigo 42.º, n.º 4, o artigo 43.º, n.º 11, o artigo 45.º, n.ºs 7 e 8, o artigo 46.º, n.º 6, o artigo 47.º, n.º 5, o artigo 51.º, n.ºs 10 e 15, o artigo 60.º, n.ºs 13 e 14, o artigo 61.º, n.º 3, o artigo 62.º, n.ºs 5 e 6, o artigo 63.º, n.º 11, o artigo 66.º, n.º 6, o artigo 68.º, n.º 10, o artigo 71.º, n.º 5, o artigo 72.º, n.º 5, o artigo 76.º, n.º 16, o artigo 81.º, n.º 15, o artigo 82.º, n.º 2, o artigo 84.º, n.º 4, o artigo 88.º, n.º 4, o artigo 92.º, n.ºs 2 e 3, o artigo 95.º, n.ºs 10 e 11, o artigo 96.º, n.º 3, o artigo 97.º, n.º 1, o artigo 103.º, n.º 8, o artigo 104.º, n.º 8, o artigo 105.º, n.º 7, o artigo 107.º, n.ºs 3 e 4, o artigo 109.º, n.º 8, o artigo 119.º, n.º 8, o artigo 134.º, n.º 10, o artigo 137.º, n.º 3 e o artigo 139.º são aplicáveis a partir de 29 de junho de 2023.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+## ANEXO I
+
+#### ELEMENTOS A INCLUIR NO LIVRETE DO CRIPTOATIVO PRELATIVO A CRIPTOATIVOS QUE NÃO SEJAM CRIPTOFICHAS REFERENCIADAS A ATIVOS NEM CRIPTOFICHAS DE MOEDA ELETRÓNICA
+
+##### Parte A: Informações sobre o oferente ou sobre a pessoa que solicita a admissão à negociação
+
+- 1. Nome;
+
+- 2. Forma jurídica;
+
+- 3. Sede social e sede estatutária, se forem diferentes;
+
+- 4. Data do registo;
+
+- 5. Identificador de entidade jurídica ou outro identificador exigido em conformidade com o direito nacional aplicável;
+
+- 6. Um número de telefone de contacto e um endereço de correio eletrónico do oferente ou da pessoa que solicita a admissão à negociação e um período, em dias, dentro do qual um investidor que contacte o oferente ou a pessoa que solicita a admissão à negociação através do referido número de telefone ou endereço de correio eletrónico receberá uma resposta;
+
+- 7. Se for caso disso, o nome da empresa-mãe;
+
+- 8. Identidade, endereços profissionais e funções dos membros do órgão de administração do oferente ou da pessoa que solicita a admissão à negociação;
+
+- 9. Atividade comercial ou profissional do oferente ou da pessoa que solicita a admissão à negociação e, se for caso disso, da sua empresa-mãe;
+
+- 10. A situação financeira do oferente ou da pessoa que solicita a admissão à negociação nos últimos três anos ou, se o oferente ou a pessoa que solicita a admissão à negociação estiver estabelecida há menos de três anos, a sua situação financeira desde a data do registo.
+
+  A situação financeira é avaliada com base numa análise imparcial da evolução e do desempenho das atividades comerciais do oferente ou da pessoa que solicita a admissão à negociação e da sua situação em cada ano e período intercalar para o qual são exigidas informações financeiras históricas, incluindo os motivos de alterações significativas.
+
+  Essa análise deve consistir num exame equilibrado e global da evolução e do desempenho das atividades comerciais do oferente ou da pessoa que solicita a admissão à negociação e da sua situação, que corresponda à dimensão e à complexidade da atividade.
+
+##### Parte B: Informações relativas ao emitente, se for diferente do oferente ou da pessoa que solicita a admissão à negociação
+
+- 1. Nome;
+
+- 2. Forma jurídica;
+
+- 3. Sede social e sede estatutária, se forem diferentes;
+
+- 4. Data do registo;
+
+- 5. Identificador de entidade jurídica ou outro identificador exigido nos termos do direito nacional aplicável;
+
+- 6. Se for caso disso, o nome da empresa-mãe;
+
+- 7. Identidade, endereços profissionais e funções dos membros do órgão de administração do emitente;
+
+- 8. Atividade comercial ou profissional do emitente e, se for caso disso, da sua empresa-mãe.
+
+##### Parte C: Informações sobre o operador da plataforma de negociação, nos casos em que elabore o livrete do criptoativo
+
+- 1. Nome;
+
+- 2. Forma jurídica;
+
+- 3. Sede social e sede estatutária, se forem diferentes;
+
+- 4. Data do registo;
+
+- 5. Identificador de entidade jurídica ou outro identificador exigido nos termos do direito nacional aplicável;
+
+- 6. Se for caso disso, o nome da empresa-mãe;
+
+- 7. O motivo pelo qual esse operador redigiu o livrete do criptoativo;
+
+- 8. Identidade, endereços profissionais e funções dos membros do órgão de administração do operador;
+
+- 9. Atividade comercial ou profissional do operador e, se for caso disso, da sua empresa-mãe.
+
+##### Parte D: Informações sobre o projeto de criptoativos
+
+- 1. Nome do projeto de criptoativos e dos criptoativos, se for diferente do nome do oferente ou da pessoa que solicita a admissão à negociação, e forma abreviada ou símbolo;
+
+- 2. Descrição sucinta do projeto de criptoativos;
+
+- 3. Dados relativos a todas as pessoas singulares ou coletivas (incluindo endereços profissionais ou domicílio da empresa) envolvidas na execução do projeto de criptoativos, nomeadamente consultores, membros da equipa de desenvolvimento e prestadores de serviços de criptoativos;
+
+- 4. Se o projeto de criptoativos tiver por objeto criptofichas de consumo, as principais características dos bens ou serviços a desenvolver;
+
+- 5. Informações sobre o projeto de criptoativos, especialmente no que respeita aos objetivos intermédios passados e futuros do projeto e, se for o caso, aos recursos já afetados ao projeto;
+
+- 6. Se for caso disso, a utilização prevista de quaisquer fundos ou de outros criptoativos mobilizados.
+
+##### Parte E: Informações sobre a oferta pública de criptoativos ou sobre a sua admissão à negociação
+
+- 1. Menção que indique se o livrete do criptoativo diz respeito a uma oferta pública de criptoativos ou à sua admissão à negociação;
+
+- 2. Motivos da oferta pública ou da admissão à negociação solicitada;
+
+- 3. Quando pertinente, o montante que a oferta pública pretende mobilizar em fundos ou em qualquer outro criptoativo, nomeadamente, se for caso disso, as metas mínima e máxima dos objetivos de subscrição estabelecidos para a oferta pública de criptoativos, aceitação ou não das sobressubscrições e indicação do modo como se faz a sua afetação;
+
+- 4. O preço de emissão do criptoativo em oferta pública (em moeda oficial ou em qualquer outro criptoativo), qualquer taxa de subscrição aplicável ou o método segundo o qual se determinará o preço da oferta pública;
+
+- 5. Quando pertinente, o número total de criptoativos objeto da oferta pública ou da admissão à negociação;
+
+- 6. Indicação dos potenciais detentores visados pela oferta pública de criptoativos ou pela admissão desses criptoativos à negociação, incluindo eventuais restrições quanto ao tipo de detentores dos referidos criptoativos;
+
+- 7. Menção expressa que indique que os compradores que participam na oferta pública de criptoativos poderão ser reembolsados se a meta mínima do objetivo de subscrição não tiver sido alcançada no termo da oferta pública, se esses compradores exercerem o direito de retratação previsto no artigo 13.º ou se a oferta for cancelada, bem como uma descrição pormenorizada do mecanismo de reembolso, incluindo os prazos previstos para a realização do mesmo;
+
+- 8. Informações sobre as várias fases da oferta pública de criptoativos, incluindo informações relativas ao desconto sobre o preço de compra oferecido aos primeiros compradores de criptoativos (vendas pré-públicas); no caso de haver preços de compra com desconto para alguns compradores, uma explicação do motivo pelo qual os preços de compra podem variar e uma descrição do impacto sobre os outros investidores;
+
+- 9. Para ofertas públicas com duração limitada, o período de subscrição durante o qual a oferta pública está aberta;
+
+- 10. As medidas adotadas para salvaguardar os fundos ou outros criptoativos a que se refere o artigo 10.º durante a oferta pública com duração limitada ou durante o período de retratação;
+
+- 11. Métodos de pagamento para adquirir os criptoativos objeto da oferta pública e métodos de transferência para os compradores do valor pago, se estes tiverem direito a ser reembolsados;
+
+- 12. No caso de ofertas públicas, informações sobre o direito de retratação previsto no artigo 13.º;
+
+- 13. Informações sobre o modo e os prazos para a transferência dos criptoativos adquiridos para os detentores;
+
+- 14. Informações sobre os requisitos técnicos que o comprador é obrigado a satisfazer para deter os criptoativos;
+
+- 15. Quando pertinente, o nome do prestador de serviços de criptoativos responsável pela colocação dos criptoativos e a forma dessa colocação (com ou sem garantia);
+
+- 16. Quando pertinente, o nome da plataforma de negociação de criptoativos na qual é solicitada a admissão à negociação e informações sobre a forma como os investidores podem aceder a essas plataformas de negociação e sobre os custos envolvidos;
+
+- 17. Despesas relacionadas com a oferta pública de criptoativos;
+
+- 18. Potenciais conflitos de interesses das pessoas envolvidas na oferta pública ou na admissão à negociação, relacionados com a oferta ou com a admissão à negociação;
+
+- 19. A lei aplicável à oferta pública de criptoativos, bem como o tribunal competente.
+
+##### Parte F: Informações sobre os criptoativos
+
+- 1. O tipo de criptoativo que será objeto de oferta pública ou para o qual é solicitada a admissão à negociação;
+
+- 2. Uma descrição das características, incluindo os dados necessários para a classificação do livrete do criptoativo no registo referido no artigo 109.º, conforme especificado em conformidade com o n.º 8 desse artigo, e das funcionalidades dos criptoativos objeto da oferta pública ou de admissão à negociação, incluindo informações sobre os prazos previstos para a aplicação dessas funcionalidades.
+
+##### Parte G: Informações sobre os direitos e obrigações associados aos criptoativos
+
+- 1. Uma descrição dos direitos e obrigações, se for caso disso, do comprador, bem como do procedimento e das condições para o exercício desses direitos;
+
+- 2. Uma descrição das circunstâncias em que os direitos e as obrigações podem ser alterados;
+
+- 3. Quando pertinente, informações sobre as futuras ofertas públicas de criptoativos pelo emitente e sobre o número de criptoativos que o emitente conservará para si próprio;
+
+- 4. Se a oferta pública de criptoativos ou a sua admissão à negociação tiver por objeto criptofichas de consumo, informações sobre a qualidade e quantidade de bens ou serviços a que as criptofichas de consumo dão acesso;
+
+- 5. Se as ofertas públicas de criptoativos ou a sua admissão à negociação tiver por objeto criptofichas de consumo, informações sobre o modo como as criptofichas de consumo podem ser trocadas pelos bens ou serviços a que dizem respeito;
+
+- 6. Se não for solicitada a admissão à negociação, informações sobre o modo e o local de aquisição ou de venda dos criptoativos após a oferta pública;
+
+- 7. Restrições à transferibilidade dos criptoativos objeto de oferta ou admitidos à negociação;
+
+- 8. Se os criptoativos tiverem protocolos relativos ao aumento ou diminuição da sua oferta em resposta à evolução da procura, uma descrição do funcionamento desses protocolos;
+
+- 9. Quando pertinente, uma descrição dos regimes de proteção que protejam o valor dos criptoativos e dos regimes de compensação;
+
+- 10. A lei aplicável aos criptoativos, bem como o tribunal competente.
+
+##### Parte H: Informações sobre a tecnologia subjacente
+
+- 1. Informações sobre a tecnologia utilizada, incluindo a tecnologia de registo distribuído, os protocolos e as normas técnicas utilizadas;
+
+- 2. O mecanismo de consenso, quando pertinente;
+
+- 3. Mecanismos de incentivo para garantir a segurança das transações e eventuais comissões aplicáveis;
+
+- 4. Se os criptoativos forem emitidos, transferidos e armazenados utilizando uma tecnologia de registo distribuído gerida pelo emitente, pelo oferente ou por terceiros em seu nome, uma descrição pormenorizada do funcionamento dessa tecnologia de registo distribuído;
+
+- 5. Informações sobre o resultado da auditoria à tecnologia utilizada, se tal auditoria foi realizada.
+
+##### Parte I: Informação sobre os riscos
+
+- 1. Uma descrição dos riscos associados à oferta pública de criptoativos ou à sua admissão à negociação;
+
+- 2. Uma descrição dos riscos associados ao emitente, se for diferente do oferente, ou da pessoa que solicita a admissão à negociação;
+
+- 3. Uma descrição dos riscos associados aos criptoativos;
+
+- 4. Uma descrição dos riscos associados à execução do projeto;
+
+- 5. Uma descrição dos riscos associados à tecnologia utilizada, bem como das eventuais medidas de atenuação.
+
+## ANEXO II
+
+#### ELEMENTOS A DIVULGAR ATRAVÉS DO LIVRETE DO CRIPTOATIVO PARA UMA CRIPTOFICHA REFERENCIADA A ATIVOS
+
+##### Parte A: Informações sobre o emitente da criptoficha referenciada a ativos
+
+- 1. Nome;
+
+- 2. Forma jurídica;
+
+- 3. Sede social e sede estatutária, se forem diferentes;
+
+- 4. Data do registo;
+
+- 5. Identificador de entidade jurídica ou outro identificador exigido nos termos do direito nacional aplicável;
+
+- 6. Se for caso disso, a identidade da empresa-mãe;
+
+- 7. Identidade, endereços profissionais e funções dos membros do órgão de administração do emitente;
+
+- 8. Atividade comercial ou profissional do emitente e, se for caso disso, da sua empresa-mãe;
+
+- 9. A situação financeira do emitente nos últimos três anos ou, se o emitente estiver estabelecido há menos de três anos, a sua situação financeira desde a data do registo.
+
+  A situação financeira é avaliada com base numa análise imparcial da evolução e do desempenho das atividades comerciais do emitente e da sua situação em cada ano e período intercalar para o qual são exigidas informações financeiras históricas, incluindo os motivos de alterações significativas.
+
+  Essa análise deve consistir num exame equilibrado e global da evolução e do desempenho da atividade empresarial do emitente e da sua situação, que corresponda à dimensão e à complexidade da atividade.
+
+- 10. Uma descrição pormenorizada dos mecanismos de governação do emitente;
+
+- 11. Exceto para os emitentes de criptofichas referenciadas a ativos que estejam isentos de autorização nos termos do artigo 17.º, informações sobre a autorização enquanto emitente de uma criptoficha referenciada a ativos e nome da autoridade competente que concedeu essa autorização.
+
+  Para instituições de crédito, o nome da autoridade competente do Estado-Membro de origem.
+
+- 12. Caso o emitente da criptoficha referenciada a ativos também emita outros criptoativos ou também exercer atividades relacionadas com outros criptoativos, tal deve ser claramente indicado; o emitente deve também indicar se existe alguma ligação entre o emitente e a entidade que gere a tecnologia de registo distribuído utilizada para emitir o criptoativo, nomeadamente se os protocolos são geridos ou controlados por uma pessoa com uma ligação próxima aos participantes no projeto.
+
+##### Parte B: Informações sobre a criptoficha referenciada a ativos
+
+- 1. Nome e forma abreviada ou símbolo da criptoficha referenciada a ativos;
+
+- 2. Uma descrição das características da criptoficha referenciada a ativos, incluindo os dados necessários para a classificação do livrete do criptoativo no registo referido no artigo 109.º, conforme especificado em conformidade com o n.º 8 desse artigo;
+
+- 3. Dados relativos a todas as pessoas singulares ou coletivas (incluindo endereços profissionais ou domicílio da empresa) envolvidas na operacionalização da criptoficha referenciada a ativos, nomeadamente consultores, membros da equipa de desenvolvimento e prestadores de serviços de criptoativos;
+
+- 4. Uma descrição das funções, das responsabilidades e das obrigações em matéria de prestação de contas das entidades terceiras a que se refere o artigo 34.º, n.º 5, primeiro parágrafo, alínea h);
+
+- 5. Informações sobre os planos para as criptofichas referenciadas a ativos, incluindo a descrição dos objetivos intermédios passados e futuros e, se for o caso, dos recursos já afetados.
+
+##### Parte C: Informações sobre a oferta pública da criptoficha referenciada a ativos ou sobre a sua admissão à negociação
+
+- 1. Menção que indique se o livrete do criptoativo diz respeito a uma oferta pública da criptoficha referenciada a ativos ou à sua admissão à negociação;
+
+- 2. Quando pertinente, o montante que a oferta pública da criptoficha referenciada a ativos pretende mobilizar em fundos ou em qualquer outro criptoativo, nomeadamente, se for caso disso, as metas mínima e máxima dos objetivos de subscrição estabelecidos para a oferta pública da criptoficha referenciada a ativos, aceitação ou não das sobressubscrições e indicação do modo como se faz a sua afetação;
+
+- 3. Quando pertinente, o número total de unidades da criptoficha referenciada a ativos objeto da oferta ou da admissão à negociação;
+
+- 4. Indicação dos potenciais detentores visados pela oferta pública ou pela admissão à negociação da criptoficha referenciada a ativos, incluindo eventuais restrições quanto ao tipo de detentores da referida criptoficha referenciada a ativos;
+
+- 5. Menção expressa de que os compradores que participam na oferta pública da criptoficha referenciada a ativos poderão ser reembolsados se a meta mínima do objetivo de subscrição não tiver sido alcançada no termo da oferta pública, incluindo os prazos previstos para a realização do reembolso; as consequências de exceder a meta máxima do objetivo de subscrição devem ser explicitadas;
+
+- 6. Informação sobre as várias fases da oferta pública da criptoficha referenciada a ativos, incluindo informações relativas ao desconto sobre o preço de compra oferecido aos primeiros compradores da criptoficha referenciada a ativos (vendas pré-públicas) e, no caso de haver preços de compra com desconto para alguns compradores, uma explicação do motivo pelo qual os preços de compra podem variar e uma descrição do impacto sobre os outros investidores;
+
+- 7. Para ofertas com duração limitada, o período de subscrição durante o qual a oferta pública está aberta;
+
+- 8. Métodos de pagamento para a aquisição e o reembolso da criptoficha referenciada a ativos objeto da oferta pública;
+
+- 9. Informação sobre o método e os prazos para a transferência para os detentores da criptoficha referenciada a ativos adquirida;
+
+- 10. Informação sobre os requisitos técnicos que o comprador é obrigado a satisfazer para deter a criptoficha referenciada a ativos;
+
+- 11. Quando aplicável, o nome do prestador de serviços de criptoativos responsável pela colocação da criptoficha referenciada a ativos e a forma dessa colocação (com ou sem garantia);
+
+- 12. Quando aplicável, o nome da plataforma de negociação de criptoativos na qual é solicitada a admissão à negociação e informações sobre a forma como os investidores podem aceder a essas plataformas de negociação e sobre os custos envolvidos;
+
+- 13. Despesas relacionadas com a oferta pública da criptoficha referenciada a ativos;
+
+- 14. Potenciais conflitos de interesses das pessoas envolvidas na oferta pública ou na admissão à negociação, relacionados com a oferta ou com a admissão à negociação;
+
+- 15. A lei aplicável à oferta pública da criptoficha referenciada a ativos, bem como o tribunal competente.
+
+##### Parte D: Informações sobre os direitos e obrigações associados à criptoficha referenciada a ativos
+
+- 1. Uma descrição das características e das funcionalidades da criptoficha referenciada a ativos objeto da oferta pública ou de admissão à negociação, incluindo informações sobre os prazos previstos para a aplicação dessas funcionalidades;
+
+- 2. Uma descrição dos direitos e obrigações, se for caso disso, do comprador, bem como do procedimento e das condições para o exercício desses direitos;
+
+- 3. Uma descrição das circunstâncias em que os direitos e as obrigações podem ser alterados;
+
+- 4. Quando aplicável, informação sobre as futuras ofertas públicas da criptoficha referenciada a ativos pelo emitente e sobre o número de unidades da criptoficha referenciada a ativos que o emitente conservará para si próprio;
+
+- 5. Se não for solicitada a admissão à negociação, informação sobre o modo e o local de aquisição ou de venda da criptoficha referenciada a ativos após a oferta pública;
+
+- 6. Eventuais restrições à transferibilidade da criptoficha referenciada a ativos objeto de oferta pública ou admitidas à negociação;
+
+- 7. Caso a criptoficha referenciada a ativos tenha protocolos relativos ao aumento ou diminuição da sua oferta em resposta à evolução da procura, uma descrição do funcionamento desses protocolos;
+
+- 8. Quando aplicável, uma descrição dos regimes de proteção que protejam o valor da criptoficha referenciada a ativos e dos regimes de compensação;
+
+- 9. Informações sobre a natureza e a executoriedade dos direitos, incluindo os direitos de reembolso permanentes e quaisquer créditos que os detentores e qualquer pessoa singular ou coletiva a que se refere o artigo 39.º, n.º 2, possam ter sobre o emitente, incluindo informações sobre a forma como esses direitos serão tratados em caso de processos de insolvência, informações que indiquem se são atribuídos direitos diferentes a diferentes detentores e as razões não discriminatórias para essa diferença de tratamento;
+
+- 10. Uma descrição pormenorizada do crédito que a criptoficha referenciada a ativos representa para os detentores, nomeadamente:
+
+  - a) A descrição de cada ativo de referência e a proporção especificada de cada um desses ativos;
+
+  - b) A relação entre o valor dos ativos de referência e o montante do crédito e a reserva de ativos; e
+
+  - c) Uma descrição da forma como é efetuada uma avaliação justa e transparente das componentes do crédito, que identifique, se for caso disso, as partes independentes;
+
+- 11. Quando aplicável, informação sobre as medidas adotadas pelo emitente para assegurar a liquidez da criptoficha referenciada a ativos, incluindo o nome das entidades responsáveis por assegurar essa liquidez;
+
+- 12. Informações de contacto para a apresentação de reclamações e descrição dos procedimentos de tratamento das reclamações e de qualquer mecanismo de resolução de litígios ou procedimento de recurso estabelecido pelo emitente da criptoficha referenciada a ativos;
+
+- 13. Uma descrição dos direitos dos detentores quando o emitente não está em condições de cumprir as suas obrigações, inclusive em caso de insolvência;
+
+- 14. Uma descrição dos direitos no contexto da execução do plano de recuperação;
+
+- 15. Uma descrição dos direitos no contexto da execução do plano de reembolso;
+
+- 16. Informações pormenorizadas sobre a forma como a criptoficha referenciada a ativos é reembolsada, incluindo sobre a questão de saber se o detentor poderá escolher a forma de reembolso, a forma de transferência ou a moeda oficial de reembolso;
+
+- 17. A lei aplicável à criptoficha referenciada a ativos, bem como o tribunal competente.
+
+##### Parte E: Informações sobre a tecnologia subjacente
+
+- 1. Informação sobre a tecnologia utilizada, incluindo a tecnologia de registo distribuído, bem como os protocolos e as normas técnicas utilizadas, que permitem a detenção, armazenamento e transferência de criptofichas referenciadas a ativos;
+
+- 2. O mecanismo de consenso, quando pertinente;
+
+- 3. Mecanismos de incentivo para garantir a segurança das transações e eventuais comissões aplicáveis;
+
+- 4. Se as criptofichas referenciadas a ativos forem emitidas, transferidas e armazenadas utilizando uma tecnologia de registo distribuído gerida pelo emitente ou por um terceiro em nome do emitente, uma descrição pormenorizada do funcionamento dessa tecnologia de registo distribuído;
+
+- 5. Informações sobre o resultado da auditoria à tecnologia utilizada, se tal auditoria foi realizada.
+
+##### Parte F: Informação sobre os riscos
+
+- 1. Os riscos relacionados com a reserva de ativos, quando o emitente não está em condições de cumprir as suas obrigações;
+
+- 2. Uma descrição dos riscos associados ao emitente da criptoficha referenciada a ativos;
+
+- 3. Uma descrição dos riscos associados à oferta pública da criptoficha referenciada a ativos ou à sua admissão à negociação;
+
+- 4. Uma descrição dos riscos associados à criptoficha referenciada a ativos, em especial no que respeita aos ativos a que a criptoficha está referenciada;
+
+- 5. Uma descrição dos riscos associados à operacionalização do projeto da criptoficha referenciada a ativos;
+
+- 6. Uma descrição dos riscos associados à tecnologia utilizada, bem como das eventuais medidas de atenuação.
+
+##### Parte G: Informação sobre a reserva de ativos
+
+- 1. Uma descrição pormenorizada do mecanismo destinado a alinhar o valor da reserva de ativos com o crédito associado à criptoficha referenciada a ativos, incluindo os aspetos jurídicos e técnicos;
+
+- 2. Uma descrição pormenorizada da reserva de ativos e da respetiva composição;
+
+- 3. Uma descrição dos mecanismos através dos quais as criptofichas referenciadas a ativos são emitidas e reembolsadas;
+
+- 4. Informações sobre o eventual investimento de uma parte dos ativos de reserva e, se for o caso, uma descrição da política de investimento destes ativos de reserva;
+
+- 5. Uma descrição dos mecanismos de custódia dos ativos de reserva, incluindo a sua segregação, e o nome dos prestadores de serviços de criptoativos responsáveis pela custódia e administração de criptoativos por conta de clientes, das instituições de crédito ou das empresas de investimento nomeadas como entidades de custódia dos ativos de reserva.
+
+## ANEXO III
+
+#### ELEMENTOS A DIVULGAR ATRAVÉS DO LIVRETE DO CRIPTOATIVO PARA UMA CRIPTOFICHA DE MOEDA ELETRÓNICA
+
+##### Parte A: Informação sobre o emitente da criptoficha de moeda eletrónica
+
+- 1. Nome;
+
+- 2. Forma jurídica;
+
+- 3. Sede social e sede estatutária, se forem diferentes;
+
+- 4. Data do registo;
+
+- 5. Identificador de entidade jurídica, se disponível, ou outro identificador exigido nos termos do direito nacional aplicável;
+
+- 6. Um número de telefone de contacto e um endereço de correio eletrónico do emitente e um período, em dias, dentro do qual um investidor que contacte o emitente através do referido número de telefone ou endereço de correio eletrónico receberá uma resposta.
+
+- 7. Se for caso disso, a identidade da empresa-mãe;
+
+- 8. Identidade, endereço profissional e funções dos membros do órgão de administração do emitente;
+
+- 9. Atividade comercial ou profissional do emitente e, se for caso disso, da sua empresa-mãe;
+
+- 10. Potenciais conflitos de interesses;
+
+- 11. Caso o emitente da criptoficha de moeda eletrónica também emita outros criptoativos ou também exercer outras atividades relacionadas com criptoativos, tal deve ser claramente indicado; o emitente deve também indicar se existe alguma ligação entre o emitente e a entidade que gere a tecnologia de registo distribuído utilizada para emitir o criptoativo, nomeadamente se os protocolos são geridos ou controlados por uma pessoa com uma ligação próxima aos participantes no projeto;
+
+- 12. A situação financeira do emitente nos últimos três anos ou, se o emitente estiver estabelecido há menos de três anos, a sua situação financeira desde a data do seu registo.
+
+  A situação financeira é avaliada com base numa análise imparcial da evolução e do desempenho das atividades comerciais do emitente e da sua situação em cada ano e período intercalar para o qual são exigidas informações financeiras históricas, incluindo os motivos de alterações significativas.
+
+  Essa análise deve consistir num exame equilibrado e global da evolução e do desempenho da atividade empresarial do emitente e da sua situação, que corresponda à dimensão e à complexidade da atividade;
+
+- 13. Exceto para os emitentes de criptofichas de moeda eletrónica que estejam isentos de autorização nos termos do artigo 48.º, n.ºs 4 e 5, informações sobre a autorização na qualidade de emitente de uma criptoficha de moeda eletrónica e o nome da autoridade competente que concedeu essa autorização.
+
+##### Parte B: Informações sobre a criptoficha de moeda eletrónica
+
+- 1. Nome e forma abreviada;
+
+- 2. Uma descrição das características da criptoficha de moeda eletrónica, incluindo os dados necessários para a classificação do livrete do criptoativo no registo referido no artigo 109.º, conforme especificado em conformidade com o n.º 8 desse artigo;
+
+- 3. Dados relativos a todas as pessoas singulares ou coletivas (incluindo endereços profissionais e/ou domicílio da empresa) envolvidas na conceção e desenvolvimento, nomeadamente consultores, membros da equipa de desenvolvimento e prestadores de serviços de criptoativos.
+
+##### Parte C: Informações sobre a oferta pública da criptoficha de moeda eletrónica ou sobre a sua admissão à negociação
+
+- 1. Menção que indique se o livrete do criptoativo diz respeito a uma oferta pública da criptoficha de moeda eletrónica ou à sua admissão à negociação;
+
+- 2. Quando disponível, o número total de unidades da criptoficha de moeda eletrónica objeto da oferta pública ou da admissão à negociação;
+
+- 3. Quando aplicável, o nome das plataformas de negociação de criptoativos nas quais é solicitada a admissão da criptoficha de moeda eletrónica à negociação;
+
+- 4. A lei aplicável à oferta pública da criptoficha de moeda eletrónica, bem como o tribunal competente.
+
+##### Parte D: Informações sobre os direitos e obrigações associados às criptofichas de moeda eletrónica
+
+- 1. Uma descrição pormenorizada dos direitos e obrigações, se aplicável, do detentor da criptoficha de moeda eletrónica, incluindo o direito de reembolso pelo valor nominal, bem como o procedimento e as condições para o exercício destes direitos;
+
+- 2. Uma descrição das circunstâncias em que os direitos e as obrigações podem ser alterados;
+
+- 3. Uma descrição dos direitos dos detentores quando o emitente não está em condições de cumprir as suas obrigações, inclusive em caso de insolvência;
+
+- 4. Uma descrição dos direitos no contexto da execução do plano de recuperação;
+
+- 5. Uma descrição dos direitos no contexto da execução do plano de reembolso;
+
+- 6. Informações de contacto para a apresentação de reclamações e descrição dos procedimentos de tratamento das reclamações e de qualquer mecanismo de resolução de litígios ou procedimento de recurso estabelecido pelo emitente da criptoficha de moeda eletrónica;
+
+- 7. Quando pertinente, uma descrição dos regimes de proteção que protejam o valor do criptoativo e dos regimes de compensação;
+
+- 8. A lei aplicável à criptoficha de moeda eletrónica, bem como o tribunal competente.
+
+##### Parte E: Informações sobre a tecnologia subjacente
+
+- 1. Informação sobre a tecnologia utilizada, incluindo a tecnologia de registo distribuído, bem como os protocolos e as normas técnicas utilizadas, que permitem a detenção, armazenamento e transferência de criptofichas de moeda eletrónica;
+
+- 2. Informação sobre os requisitos técnicos que o comprador tem de cumprir para assumir o controlo da criptoficha de moeda eletrónica;
+
+- 3. O mecanismo de consenso, quando pertinente;
+
+- 4. Mecanismos de incentivo para garantir a segurança das transações e eventuais comissões aplicáveis;
+
+- 5. Caso a criptoficha de moeda eletrónica seja emitida, transferida e armazenada utilizando uma tecnologia de registo distribuído gerida pelo emitente ou por terceiros em seu nome, uma descrição pormenorizada do funcionamento dessa tecnologia de registo distribuído;
+
+- 6. Informação sobre o resultado da auditoria à tecnologia utilizada, se tal auditoria foi realizada.
+
+##### Parte F: Informação sobre os riscos
+
+- 1. Descrição dos riscos associados ao emitente da criptoficha de moeda eletrónica;
+
+- 2. Descrição dos riscos associados à criptoficha de moeda eletrónica;
+
+- 3. Descrição dos riscos associados à tecnologia utilizada, bem como das eventuais medidas de atenuação.
+
+## ANEXO IV
+
+#### REQUISITOS MÍNIMOS DE FUNDOS PRÓPRIOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE CRIPTOATIVOS
+
+| Prestadores de serviços de criptoativos | Tipo de serviços de criptoativos | Requisitos mínimos de fundos próprios nos termos do artigo 67.º, n.º 1, alínea a) |
+|---|---|---|
+| Classe 1 | Prestador de serviços de criptoativos autorizado para os seguintes serviços de criptoativos: <br> — execução de ordens em nome de clientes; <br> — colocação de criptoativos; <br> — serviços de transferência de criptoativos em nome de clientes; <br> — receção e transmissão de ordens relativas a criptoativos em nome de clientes; <br> — consultoria sobre criptoativos; e/ou <br> — gestão de carteiras de criptoativos. | 50 000 EUR |
+| Classe 2 | Prestador de serviços de criptoativos autorizado para quaisquer serviços de criptoativos abrangidos pela classe 1 e também para: <br> — custódia e administração de criptoativos em nome de clientes; <br> — troca de criptoativos por fundos; e/ou <br> — troca de criptoativos por outros criptoativos. | 125 000 EUR |
+| Classe 3 | Prestador de serviços de criptoativos autorizado para quaisquer serviços de criptoativos abrangidos pela classe 2 e também para: <br> — operação de uma plataforma de negociação de criptoativos. | 150 000 EUR |
+
+## ANEXO V
+
+#### LISTA DE INFRAÇÕES REFERIDAS NOS TÍTULOS III E VI NO QUE RESPEITA AOS EMITENTES DE CRIPTOFICHAS REFERENCIADAS A ATIVOS SIGNIFICATIVAS
+
+1. O emitente infringe o artigo 22.º, n.º 1, se não comunicar trimestralmente à EBA as informações a que se refere o primeiro parágrafo, alíneas a) a d), do referido número, relativamente a cada criptoficha referenciada a ativos significativa cujo valor de emissão seja superior a 100 000 000 de EUR.
+
+2. O emitente infringe o artigo 23.º, n.º 1, se não cessar a emissão de uma criptoficha referenciada a ativos significativa ao atingir os limiares previstos no referido número ou se não apresentar à EBA, no prazo de 40 dias úteis após ter atingido esses limiares, um plano para assegurar que a média trimestral estimada do número e do valor agregado das transações diárias é mantida abaixo desses limiares.
+
+3. O emitente infringe o artigo 23.º, n.º 4, se não proceder às modificações do plano referido no n.º 1, alínea b), do mesmo artigo exigidas pela EBA.
+
+4. O emitente infringe o artigo 25.º se não comunicar à EBA qualquer alteração prevista do seu modelo de negócios suscetível de ter uma influência significativa na decisão de compra de quaisquer detentores ou potenciais detentores de criptofichas referenciadas a ativos significativas, ou se não descrever essa alteração num livrete do criptoativo.
+
+5. O emitente infringe o artigo 25.º se não adotar uma medida solicitada pela EBA em conformidade com o artigo 25.º, n.º 4.
+
+6. O emitente infringe o artigo 27.º, n.º 1, se não atuar de forma honesta, leal e profissional.
+
+7. O emitente infringe o artigo 27.º, n.º 1, se não comunicar com os detentores e potenciais detentores da criptoficha referenciada a ativos significativa de forma leal, clara e que não induza em erro.
+
+8. O emitente infringe o artigo 27.º, n.º 2, se não agir no melhor interesse dos detentores da criptoficha referenciada a ativos significativa, ou se der tratamento preferencial a detentores específicos sem que tal tratamento seja comunicado no livrete do criptoativo do emitente ou, se for caso disso, nas comunicações comerciais.
+
+9. O emitente infringe o artigo 28.º se não publicar no respetivo sítio Web o livrete do criptoativo aprovado a que se refere o artigo 21.º, n.º 1, e, se for caso disso, o livrete do criptoativo modificado a que se refere o artigo 25.º.
+
+10. O emitente infringe o artigo 28.º se não tornar o livrete do criptoativo acessível ao público até à data de início da oferta pública da criptoficha referenciada a ativos significativa ou à admissão dessa criptoficha à negociação.
+
+11. O emitente infringe o artigo 28.º se não assegurar que o livrete do criptoativo e, se for caso disso, o livrete do criptoativo modificado permaneçam disponíveis no seu sítio Web enquanto a criptoficha referenciada a ativos significativa for detida pelo público.
+
+12. O emitente infringe o artigo 29.º, n.ºs 1 e 2, se publicar comunicações comerciais relacionadas com uma oferta pública de uma criptoficha referenciada a ativos significativa ou com a admissão à negociação dessa criptoficha referenciada a ativos significativa que não cumpram os requisitos estabelecidos no n.º 1, alíneas a) a d), e no n.º 2 do referido artigo.
+
+13. O emitente infringe o artigo 29.º, n.º 3, se não publicar as comunicações comerciais e as suas eventuais modificações no seu sítio Web.
+
+14. O emitente infringe o artigo 29.º, n.º 5, se não comunicar comunicações comerciais s que lhe sejam pedidas pela EBA.
+
+15. O emitente infringe o artigo 29.º, n.º 6, se difundir comunicações comerciais antes da publicação do livrete do criptoativo.
+
+16. O emitente infringe o artigo 30.º, n.º 1, se não divulgar num local público e facilmente acessível, no seu sítio Web, de forma clara, exata e transparente, o montante da criptoficha referenciada a ativos significativa em circulação e o valor e composição da reserva de ativos a que se refere o artigo 36.º, ou se não atualizar as informações exigidas pelo menos mensalmente.
+
+17. O emitente infringe o artigo 30.º, n.º 2, se não publicar num local público e facilmente acessível, no seu sítio Web, com a maior brevidade possível, um resumo sucinto, claro, exato e transparente do relatório de auditoria, bem como a versão integral e inalterada do relatório de auditoria, relativo à reserva de ativos a que se refere o artigo 36.º.
+
+18. O emitente infringe o artigo 30.º, n.º 3, se não divulgar num lugar facilmente acessível ao público no seu sítio Web, com a maior brevidade possível e de forma clara, exata e transparente, qualquer evento que tenha ou possa ter um efeito significativo sobre o valor da criptoficha referenciada a ativos significativa ou sobre os ativos de reserva a que se refere o artigo 36.º.
+
+19. O emitente infringe o artigo 31.º, n.º 1, se não estabelecer e mantiver procedimentos eficazes e transparentes com vista ao tratamento expedito, leal e coerente das reclamações recebidas de detentores da criptoficha referenciada a ativos significativa e de outras partes interessadas, nomeadamente associações de consumidores que representem detentores da criptoficha referenciada a ativos significativa e se não publicar descrições destes procedimentos, ou, se a criptoficha referenciada a ativos significativa for distribuída total ou parcialmente por entidades terceiras, se não estabelecer procedimentos para facilitar igualmente o tratamento das reclamações entre os detentores e as entidades terceiras referidas no artigo 34.º, n.º 5, primeiro parágrafo, alínea h).
+
+20. O emitente infringe o artigo 31.º, n.º 2, se não permitir que os detentores da criptoficha referenciada a ativos significativa possam apresentar reclamações de forma gratuita.
+
+21. O emitente infringe o artigo 31.º, n.º 3, se não elaborar e disponibilizar aos detentores da criptoficha referenciada a ativos significativa um modelo para a apresentação das reclamações e se não mantiver um registo de todas as reclamações recebidas e de todas as medidas adotadas para dar resposta a essas mesmas reclamações.
+
+22. O emitente infringe o artigo 31.º, n.º 4, se não investigar todas as reclamações de forma atempada e leal ou se não comunicar as conclusões dessas investigações aos detentores da sua criptoficha referenciada a ativos significativa dentro de um prazo razoável.
+
+23. O emitente infringe o artigo 32.º, n.º 1, se não puser em prática e mantiver políticas e procedimentos eficazes para identificar, prevenir, gerir e divulgar conflitos de interesses entre si próprio e os seus acionistas ou sócios, entre si próprio e qualquer acionista ou sócio, direto ou indireto, que detenha uma participação qualificada no emitente, entre si próprio e os membros do seu órgão de administração, entre si próprio e os seus trabalhadores, entre si próprio e os detentores da criptoficha referenciada a ativos significativa ou entre si próprio e qualquer terceiro que desempenhe uma das funções referidas no artigo 34.º, n.º 5, primeiro parágrafo, alínea h).
+
+24. O emitente infringe o artigo 32.º, n.º 2, se não tomar todas as medidas adequadas para identificar, prevenir, gerir e divulgar conflitos de interesses decorrentes da gestão e do investimento da reserva de ativos a que se refere o artigo 36.º.
+
+25. O emitente infringe o artigo 32.º, n.ºs 3 e 4, se não divulgar, num lugar de destaque do seu sítio Web, aos detentores da criptoficha referenciada a ativos significativa a natureza geral e as fontes dos conflitos de interesses e as medidas tomadas para atenuar esses riscos, ou se a divulgação não for suficientemente precisa para permitir que os detentores potenciais da criptoficha referenciada a ativos significativa tomem uma decisão de compra informada quanto a essa criptoficha.
+
+26. O emitente infringe o artigo 33.º se não comunicar imediatamente à EBA quaisquer alterações ao seu órgão de administração ou se não prestar à EBA todas as informações necessárias para avaliar o cumprimento do disposto no artigo 34.º, n.º 2.
+
+27. O emitente infringe o artigo 34.º, n.º 1, se não possuir mecanismos de governação sólidos, nomeadamente uma estrutura organizativa clara, com linhas de responsabilidade bem definidas, transparentes e uniformes, processos eficazes de identificação, gestão, controlo e comunicação dos riscos a que esteja ou possa vir a estar exposto, e mecanismos adequados de controlo interno, incluindo procedimentos administrativos e contabilísticos sólidos.
+
+28. O emitente infringe o artigo 34.º, n.º 2, se os membros do seu órgão de administração não possuírem a idoneidade suficiente ou os conhecimentos, competências e experiência, tanto a nível individual como no seu conjunto, adequados para desempenharem as suas funções ou não demonstrarem que estão em condições de dedicar tempo suficiente ao exercício efetivo das suas funções.
+
+29. O emitente infringe o artigo 34.º, n.º 3, se o seu órgão de administração não avaliar nem reanalisar periodicamente a eficácia das disposições e procedimentos em matéria das políticas executadas tendo em vista o cumprimento do disposto nos capítulos 2, 3, 5 e 6 do título III ou não tomar as medidas adequadas para resolver quaisquer lacunas a este respeito.
+
+30. O emitente infringe o artigo 34.º, n.º 4, se qualquer acionista ou sócio, direto ou indireto, sem a idoneidade suficiente nele detiver uma participação qualificada.
+
+31. O emitente infringe o artigo 34.º, n.º 5, se não adotar políticas e procedimentos suficientemente eficazes para garantir o cumprimento do presente regulamento, nomeadamente se não estabelecer, mantiver e aplicar quaisquer das políticas e procedimentos referidos no primeiro parágrafo, alíneas a) a k), do referido número.
+
+32. O emitente infringe o artigo 34.º, n.º 5, se não acordar disposições contratuais com entidades terceiras nos termos referidos no primeiro parágrafo, alínea h), do referido número que definam as funções, as responsabilidades, os direitos e as obrigações tanto do emitente como da entidade terceira em causa, ou se não previr a escolha inequívoca da lei aplicável.
+
+33. O emitente infringe o artigo 34.º, n.º 6, a menos que tenha iniciado um plano nos termos referidos no artigo 47.º, se não utilizar sistemas, recursos ou procedimentos adequados e proporcionados para assegurar a continuidade e a regularidade da execução dos seus serviços e atividades, e se não mantiver todos os seus sistemas e protocolos de acesso de segurança em conformidade com as normas aplicáveis da União.
+
+34. O emitente infringe o artigo 34.º, n.º 7, se não apresentar à EBA um plano para a descontinuação da prestação de serviços e de atividades, para aprovação de tal descontinuação.
+
+35. O emitente infringe o artigo 34.º, n.º 8, se não identificar as fontes de riscos operacionais e se não minimizar esses riscos através do desenvolvimento de sistemas, controlos e procedimentos adequados.
+
+36. O emitente infringe o artigo 34.º, n.º 9, se não estabelecer uma política e planos de continuidade das atividades para garantir, no caso de uma interrupção dos seus sistemas e procedimentos de TIC, a preservação de dados e funções essenciais e a prossecução das suas atividades ou, se tal não for possível, a rápida recuperação desses dados e funções e o rápido reatamento das suas atividades.
+
+37. O emitente infringe o artigo 34.º, n.º 10, se não dispuser de mecanismos de controlo interno e de procedimentos eficazes para a gestão dos riscos, nomeadamente mecanismos eficazes de controlo e salvaguarda para a gestão dos sistemas de TIC, conforme exigido pelo Regulamento (UE) 2022/2554.
+
+38. O emitente infringe o artigo 34.º, n.º 11, se não dispuser de sistemas e procedimentos adequados para salvaguardar a disponibilidade, autenticidade, integridade e confidencialidade dos dados, conforme exigido pelo Regulamento (UE) 2022/2554 e em conformidade com o Regulamento (UE) 2016/679.
+
+39. O emitente infringe o artigo 34.º, n.º 12, se não assegurar que o emitente seja auditado regularmente por auditores independentes.
+
+40. O emitente infringe o artigo 35.º, n.º 1, se não possuir, em qualquer momento, fundos próprios de montante pelo menos igual ao mais elevado dos montantes fixados na alínea a) ou c) do referido número, ou no artigo 45.º, n.º 5.
+
+41. O emitente infringe o artigo 35.º, n.º 2, do presente regulamento se os seus fundos próprios não consistirem nos elementos de fundos próprios principais de nível 1 mencionados nos artigos 26.º a 30.º do Regulamento (UE) n.º 575/2013, após as deduções integrais dos elementos previstos no artigo 36.º do referido regulamento, sem aplicação dos limiares de isenção a que se referem o artigo 46.º, n.º 4, e o artigo 48.º desse regulamento.
+
+42. O emitente infringe o artigo 35.º, n.º 3, se não respeitar o requisito da EBA de deter um montante mais elevado de fundos próprios, no seguimento de uma avaliação realizada nos termos das alíneas a) a g) do referido número.
+
+43. O emitente infringe o artigo 35.º, n.º 5, se não realizar regularmente testes de esforço que tenham em conta cenários de esforço financeiro graves, mas plausíveis, tais como choques das taxas de juro, e cenários de esforço não financeiro, tais como o risco operacional.
+
+44. O emitente infringe o artigo 35.º, n.º 5, se não respeitar o requisito da EBA de deter um montante mais elevado de fundos próprios com base nos resultados dos testes de esforço.
+
+45. O emitente infringe o artigo 36.º, n.º 1, se não constituir e mantiver, a todo o tempo, uma reserva de ativos.
+
+46. O emitente infringe o artigo 36.º, n.º 1, se não assegurar que a reserva de ativos seja composta e gerida de modo a cobrir os riscos associados aos ativos referenciados pela criptoficha referenciada a ativos significativa.
+
+47. O emitente infringe o artigo 36.º, n.º 1, se não assegurar que a reserva de ativos seja composta e gerida de modo a cobrir os riscos de liquidez associados aos direitos de reembolso permanentes dos detentores.
+
+48. O emitente infringe o artigo 36.º, n.º 3, se não assegurar que a reserva de ativos seja operacionalmente separada do património do emitente e da reserva de ativos de outras criptofichas referenciadas a ativos.
+
+49. O emitente infringe o artigo 36.º, n.º 6, se o seu órgão de administração não assegurar uma gestão eficaz e prudente da reserva de ativos.
+
+50. O emitente infringe o artigo 36.º, n.º 6, se não assegurar que a emissão e o reembolso da criptoficha referenciada a ativos significativa sejam sempre acompanhados por um aumento ou uma diminuição correspondente da reserva de ativos.
+
+51. O emitente infringe o artigo 36.º, n.º 7, se não determinar o valor agregado da reserva de ativos utilizando os preços de mercado e se o seu valor agregado não for sempre pelo menos igual ao valor agregado dos créditos sobre o emitente por parte dos detentores da criptoficha referenciada a ativos significativa em circulação.
+
+52. O emitente infringe o artigo 36.º, n.º 8, se não possuir uma política clara e pormenorizada que descreva o mecanismo de estabilização da criptoficha referenciada a ativos significativa que cumpra as condições estabelecidas nas alíneas a) a g) do referido número.
+
+53. O emitente infringe o artigo 36.º, n.º 9, se não ordenar a realização de uma auditoria independente da reserva de ativos de seis em seis meses a partir da data da sua autorização ou a partir da data de aprovação do livrete do criptoativo nos termos do artigo 17.º.
+
+54. O emitente infringe o artigo 36.º, n.º 10, se não comunicar à EBA o resultado da auditoria nos termos do desse número, ou se não publicar o resultado da auditoria no prazo de duas semanas a contar da data de comunicação à EBA.
+
+55. O emitente infringe o artigo 37.º, n.º 1, se não estabelecer, mantiver ou aplicar políticas, procedimentos e disposições contratuais em matéria de custódia que assegurem, a todo o tempo, o cumprimento das condições enumeradas no primeiro parágrafo, alíneas a) a e), do referido número.
+
+56. O emitente infringe o artigo 37.º, n.º 2, se não dispuser, quando emite duas ou mais criptoficha referenciada a ativos significativa, de uma política de custódia para cada conjunto de reserva de ativos.
+
+57. O emitente infringe o artigo 37.º, n.º 3, se não assegurar que os ativos de reserva estejam sob a custódia de um prestador de serviços de criptoativos que presta serviços de custódia e administração de criptoativos em nome de clientes, de uma instituição de crédito ou de uma empresa de investimento o mais tardar cinco dias úteis após a data de emissão da criptoficha referenciada a ativos significativa.
+
+58. O emitente infringe o artigo 37.º, n.º 4, se não atuar com as devidas competência, zelo e diligência na seleção, nomeação e avaliação dos prestadores de serviços de criptoativos, das instituições de crédito e das empresas de investimento nomeados como entidades de custódia dos ativos de reserva, ou se não assegurar que a entidade responsável pela custódia seja uma pessoa coletiva diferente do emitente.
+
+59. O emitente infringe o artigo 37.º, n.º 4, se não assegurar que os prestadores de serviços de criptoativos, as instituições de crédito e as empresas de investimento nomeados como entidades de custódia dos ativos de reserva possuem os conhecimentos especializados e a reputação no mercado necessários para atuarem nessa qualidade.
+
+60. O emitente infringe o artigo 37.º, n.º 4, se não assegurar nas disposições contratuais acordadas com as entidades de custódia que os ativos de reserva detidos em custódia estejam protegidos contra créditos dos credores dessas entidades de custódia.
+
+61. O emitente infringe o artigo 37.º, n.º 5, se não estabelecer nas políticas e procedimentos em matéria de custódia os critérios de seleção para a nomeação de prestadores de serviços de criptoativos, de instituições de crédito ou de empresas de investimento como entidades de custódia dos ativos de reserva ou se não estabelecer um procedimento de reapreciação dessa nomeação.
+
+62. O emitente infringe o artigo 37.º, n.º 5, se não proceder regularmente à reapreciação da nomeação de prestadores de serviços de criptoativos, de instituições de crédito ou de empresas de investimento como entidades de custódia dos ativos de reserva, se não avaliar as suas exposições a essas entidades ou se não acompanhar continuamente a situação financeira das mesmas.
+
+63. O emitente infringe o artigo 37.º, n.º 6, se não assegurar que a custódia dos ativos de reserva é efetuada em conformidade com o primeiro parágrafo, alíneas a) a d) do referido número.
+
+64. O emitente infringe o artigo 37.º, n.º 7, se a nomeação de um prestador de serviços de criptoativos, de uma instituição de crédito ou de uma empresa de investimento como entidade de custódia dos ativos de reserva não for comprovada por disposições contratuais, ou se não regular, através de tais disposições contratuais, o fluxo de informações necessárias para permitir que o emitente da criptoficha referenciada a ativos significativa, o prestador de serviços de criptoativos, a instituição de crédito e a empresa de investimento desempenhem as suas funções de entidades de custódia.
+
+65. O emitente infringe o artigo 38.º, n.º 1, se investir a reserva de ativos em quaisquer produtos que não sejam instrumentos financeiros de elevada liquidez com um risco de mercado, um risco de crédito e um risco de concentração mínimos, ou se esses investimentos não puderem ser rapidamente liquidados com efeitos mínimos sobre o preço.
+
+66. O emitente infringe o artigo 38.º, n.º 3, se não detiver em custódia, em conformidade com o artigo 37.º, os instrumentos financeiros em que a reserva de ativos está investida.
+
+67. O emitente infringe o artigo 38.º, n.º 4, se não suportar todos os ganhos e perdas e quaisquer riscos de contraparte ou operacionais resultantes do investimento da reserva de ativos.
+
+68. O emitente infringe o artigo 39.º, n.º 1, se não estabelecer, mantiver e aplicar políticas e procedimentos claros e pormenorizados no que respeita aos direitos de reembolso permanentes dos detentores da criptoficha referenciada a ativos significativa.
+
+69. O emitente infringe o artigo 39.º, n.ºs 1 e 2, se não assegurar aos detentores da criptoficha referenciada a ativos significativa direitos de reembolso permanente em conformidade com os números acima referidos, e se não estabelecer uma política em matéria destes direitos de reembolso permanente que satisfaça as condições enumeradas no artigo 39.º, n.º 2, primeiro parágrafo, alíneas a) a e).
+
+70. O emitente infringe o artigo 39.º, n.º 3, se aplicar comissões em caso de reembolso da criptoficha referenciada a ativos significativa.
+
+71. O emitente infringe o artigo 40.º se conceder juros em relação à criptoficha referenciada a ativos significativa.
+
+72. O emitente infringe o artigo 45.º, n.º 1, se não adotar, aplicar e mantiver uma política de remunerações que promova uma gestão de riscos sólida e eficaz dos emitentes de criptofichas referenciadas a ativos significativas e que não crie incentivos à adoção de normas menos rigorosas em matéria de risco.
+
+73. O emitente infringe o artigo 45.º, n.º 2, se não assegurar que as suas criptofichas referenciadas a ativos significativas possam ser detidas em custódia por diferentes prestadores de serviços de criptoativos autorizados a prestar serviços de custódia e administração de criptoativos em nome de clientes, numa base equitativa, razoável e não discriminatória.
+
+74. O emitente infringe o artigo 45.º, n.º 3, se não avaliar ou vigiar as necessidades de liquidez para satisfazer os pedidos de reembolso dos detentores da criptoficha referenciada a ativos significativa.
+
+75. O emitente infringe o artigo 45.º, n.º 3, se não estabelecer, mantiver ou aplicar uma política e procedimentos de gestão da liquidez ou se não assegurar, com esta política e procedimentos, que os ativos de reserva tenham um perfil de liquidez resiliente que permita ao emitente da criptoficha referenciada a ativos significativa continuar a funcionar normalmente, inclusive em cenários de esforço de liquidez.
+
+76. O emitente infringe o artigo 45.º, n.º 4, se não realizar regularmente testes de esforço de liquidez ou se não reforçar os requisitos de liquidez, quando tal for solicitado pela EBA com base nos resultados dos referidos testes.
+
+77. O emitente infringe o artigo 46.º, n.º 1, se não elaborar e mantiver um plano de recuperação que preveja medidas a tomar pelo emitente da criptoficha referenciada a ativos significativa para restabelecer o cumprimento dos requisitos aplicáveis à reserva de ativos caso o emitente não cumpra esses requisitos, incluindo a preservação dos seus serviços relacionados com a criptoficha referenciada a ativos significativa emitida, o restabelecimento atempado das operações e o cumprimento das obrigações do emitente caso haja acontecimentos que representem um risco significativo de perturbação das operações.
+
+78. O emitente infringe o artigo 46.º, n.º 1, se não elaborar e mantiver um plano de recuperação que inclua condições e procedimentos adequados para assegurar a execução atempada das medidas de restabelecimento, bem como um vasto leque de opções de restabelecimento, conforme previsto no terceiro parágrafo do referido número.
+
+79. O emitente infringe o artigo 46.º, n.º 2, se não comunicar o plano de recuperação à EBA e, se for caso disso, às suas autoridades de resolução e de supervisão prudencial no prazo de seis meses a contar da data de autorização nos termos do artigo 21.º ou da data de aprovação do livrete do criptoativo nos termos do artigo 17.º.
+
+80. O emitente infringe o artigo 46.º, n.º 2, se não proceder regularmente à revisão ou atualização do plano de recuperação.
+
+81. O emitente infringe o artigo 47.º, n.º 1, se não elaborar e mantiver um plano operacional para apoiar um resgate ordenado de cada criptoficha referenciada a ativos significativa.
+
+82. O emitente infringe o artigo 47.º, n.º 2, se não possuir um plano de reembolso que demonstre a capacidade do emitente da criptoficha referenciada a ativos significativa para proceder ao reembolso da criptoficha referenciada a ativos significativa emitida sem causar prejuízos económicos indevidos aos seus detentores ou à estabilidade dos mercados dos ativos de reserva.
+
+83. O emitente infringe o artigo 47.º, n.º 2, se não possuir um plano de reembolso que inclua disposições contratuais, procedimentos ou sistemas, nomeadamente a designação de um administrador temporário, para assegurar o tratamento equitativo de todos os detentores da criptoficha referenciada a ativos significativa e para assegurar que os detentores da criptoficha referenciada a ativos significativa sejam pagos em tempo útil com o produto da venda dos restantes ativos de reserva.
+
+84. O emitente infringe o artigo 47.º, n.º 2, se não possuir um plano de reembolso que assegure a continuidade de quaisquer atividades críticas necessárias para o resgate ordenado e que sejam realizadas pelo emitente ou por qualquer entidade terceira.
+
+85. O emitente infringe o artigo 47.º, n.º 3, se não comunicar à EBA o plano de reembolso no prazo de seis meses a contar da data de autorização nos termos do artigo 21.º ou da data de aprovação do livrete do criptoativo nos termos do artigo 17.º.
+
+86. O emitente infringe o artigo 47.º, n.º 3, se não proceder regularmente à reapreciação ou à atualização do plano de reembolso.
+
+87. O emitente infringe o artigo 88.º, n.º 1, salvo se as condições do artigo 88.º, n.º 2, se verificarem, se não informar o público, o mais rapidamente possível, da informação privilegiada referida no artigo 87.º que diga diretamente respeito ao referido emitente, de uma forma que permita um acesso rápido e uma avaliação completa, correta e atempada da informação pelo público.
+
+## ANEXO VI
+
+#### LISTA DE INFRAÇÕES ÀS DISPOSIÇÕES A QUE SE REFERE O TÍTULO IV EM CONJUGAÇÃO COM O TÍTULO III NO QUE RESPEITA AOS EMITENTES DE CRIPTOFICHAS DE MOEDA ELETRÓNICA SIGNIFICATIVAS
+
+1. O emitente infringe o artigo 22.º, n.º 1, se não comunicar trimestralmente à EBA as informações a que se refere o primeiro parágrafo, alíneas a) a d), do referido número, relativamente a cada criptoficha de moeda eletrónica significativa denominada numa moeda que não seja uma moeda oficial de um Estado-Membro cuja emissão seja de valor superior a 100 000 000 EUR.
+
+2. O emitente infringe o artigo 23.º, n.º 1, se não cessar a emissão de uma criptoficha de moeda eletrónica significativa denominada numa moeda que não seja uma moeda oficial de um Estado-Membro ao atingir os limiares previstos no referido número ou se não apresentar à EBA, no prazo de 40 dias úteis após ter atingido esses limiares, um plano para assegurar que a média trimestral estimada do número e do valor agregado das transações diárias são mantidos abaixo desses limiares.
+
+3. O emitente infringe o artigo 23.º, n.º 4, se não proceder às modificações do plano referido no n.º 1, alínea b), do mesmo artigo exigidas pela EBA.
+
+4. O emitente infringe o artigo 35.º, n.º 2, do presente regulamento se os seus fundos próprios não consistirem nos elementos de fundos próprios principais de nível 1 mencionados nos artigos 26.º a 30.º do Regulamento (UE) n.º 575/2013, após as deduções integrais dos elementos previstos no artigo 36.º do referido regulamento, sem aplicação dos limiares de isenção a que se referem o artigo 46.º, n.º 4, e o artigo 48.º desse regulamento.
+
+5. O emitente infringe o artigo 35.º, n.º 3, se não respeitar o requisito da EBA de deter um montante mais elevado de fundos próprios, no seguimento de uma avaliação realizada nos termos das alíneas a) a g) do referido número.
+
+6. O emitente infringe o artigo 35.º, n.º 5, se não realizar regularmente testes de esforço que tenham em conta cenários de esforço financeiro graves, mas plausíveis, tais como choques das taxas de juro, e cenários de esforço não financeiro, tais como o risco operacional.
+
+7. O emitente infringe o artigo 35.º, n.º 5, se não respeitar o requisito da EBA de deter um montante mais elevado de fundos próprios com base nos resultados dos testes de esforço.
+
+8. O emitente infringe o artigo 36.º, n.º 1, se não constituir e mantiver, a todo o tempo, uma reserva de ativos.
+
+9. O emitente infringe o artigo 36.º, n.º 1, se não assegurar que a reserva de ativos seja composta e gerida de modo a cobrir os riscos associados à moeda oficial referenciada pela criptoficha de moeda eletrónica significativa.
+
+10. O emitente infringe o artigo 36.º, n.º 1, se não assegurar que a reserva de ativos seja composta e gerida de modo a cobrir os riscos de liquidez associados aos direitos de reembolso permanentes dos detentores.
+
+11. O emitente infringe o artigo 36.º, n.º 3, se não assegurar que a reserva de ativos seja operacionalmente separada do património do emitente e da reserva de ativos de outras criptofichas de moeda eletrónica.
+
+12. O emitente infringe o artigo 36.º, n.º 6, se o seu órgão de administração não assegurar uma gestão eficaz e prudente da reserva de ativos.
+
+13. O emitente infringe o artigo 36, n.º 6, se não assegurar que a emissão e o reembolso da criptoficha de moeda eletrónica significativa sejam sempre acompanhados por um aumento ou uma diminuição correspondente da reserva de ativos.
+
+14. O emitente infringe o artigo 36.º, n.º 7, se não determinar o valor agregado da reserva de ativos utilizando os preços de mercado e se não mantiver sempre o seu valor agregado pelo menos igual ao valor agregado dos créditos sobre o emitente dos detentores da criptoficha de moeda eletrónica significativa em circulação.
+
+15. O emitente infringe o artigo 36.º, n.º 8, se não dispuser de uma política clara e pormenorizada que descreva o mecanismo de estabilização da criptoficha de moeda eletrónica significativa que cumpra as condições estabelecidas nas alíneas a) a g) do referido número.
+
+16. O emitente infringe o artigo 36.º, n.º 9, se não ordenar a realização de uma auditoria independente da reserva de ativos de seis em seis meses a partir da data da oferta pública ou da admissão à negociação.
+
+17. O emitente infringe o artigo 36.º, n.º 10, se não comunicar à EBA o resultado da auditoria nos termos desse número, ou se não publicar o resultado da auditoria no prazo de duas semanas a contar da data de comunicação à EBA.
+
+18. O emitente infringe o artigo 37.º, n.º 1, se não estabelecer, mantiver ou aplicar políticas, procedimentos e disposições contratuais em matéria de custódia que assegurem, a todo o tempo, o cumprimento das condições enumeradas no primeiro parágrafo, alíneas a) a e), do referido número.
+
+19. O emitente infringe o artigo 37.º, n.º 2, se não dispuser, quando emite duas ou mais criptofichas de moeda eletrónica significativas, de uma política de custódia para cada conjunto de reserva de ativos.
+
+20. O emitente infringe o artigo 37.º, n.º 3, se não assegurar que os ativos de reserva estejam sob a custódia de um prestador de serviços de criptoativos que presta serviços de custódia e administração de criptoativos em nome de clientes, de uma instituição de crédito ou de uma empresa de investimento o mais tardar cinco dias úteis após a emissão da criptoficha de moeda eletrónica significativa.
+
+21. O emitente infringe o artigo 37.º, n.º 4, se não atuar com as devidas competência, zelo e diligência na seleção, nomeação e avaliação dos prestadores de serviços de criptoativos, das instituições de crédito e das empresas de investimento nomeados como entidades de custódia dos ativos de reserva, ou se não assegurar que a entidade responsável pela custódia seja uma pessoa coletiva diferente do emitente.
+
+22. O emitente infringe o artigo 37.º, n.º 4, se não assegurar que os prestadores de serviços de criptoativos, as instituições de crédito e as empresas de investimento nomeados como entidades de custódia dos ativos de reserva possuam os conhecimentos especializados e a reputação no mercado necessários para atuarem nessa qualidade.
+
+23. O emitente infringe o artigo 37.º, n.º 4, se não assegurar nas disposições contratuais acordadas com as entidades de custódia que os ativos de reserva detidos em custódia estejam protegidos contra créditos dos credores dessas entidades de custódia.
+
+24. O emitente infringe o artigo 37.º, n.º 5, se não estabelecer nas políticas e procedimentos de custódia os critérios de seleção para a nomeação de prestadores de serviços de criptoativos, de instituições de crédito ou de empresas de investimento como entidades de custódia dos ativos de reserva ou se não estabelecer um procedimento de reapreciação dessa nomeação.
+
+25. O emitente infringe o artigo 37.º, n.º 5, se não proceder regularmente à reapreciação da nomeação de prestadores de serviços de criptoativos, de instituições de crédito ou de empresas de investimento como entidades de custódia dos ativos de reserva, e se não avaliar as suas exposições a essas entidades ou não acompanhar continuamente a situação financeira dos mesmos.
+
+26. O emitente infringe o artigo 37.º, n.º 6, se não assegurar que a custódia dos ativos de reserva seja efetuada em conformidade com o primeiro parágrafo, alíneas a) a d), do referido número.
+
+27. O emitente infringe o artigo 37.º, n.º 7, se a nomeação de um prestador de serviços de criptoativos, de uma instituição de crédito ou de uma empresa de investimento como responsável pela custódia dos ativos de reserva não for comprovada por disposições contratuais, ou se não regular, através de tais disposições contratuais, o fluxo de informações necessárias para permitir que o emitente da criptoficha de moeda eletrónica significativa e os prestadores de serviços de criptoativos, as instituições de crédito e as empresas de investimento desempenhem as suas funções de entidades de custódia.
+
+28. O emitente infringe o artigo 38.º, n.º 1, se investir a reserva de ativos em quaisquer produtos que não sejam instrumentos financeiros de elevada liquidez com um risco de mercado, um risco de crédito e um risco de concentração mínimos, ou se esses investimentos não puderem ser rapidamente liquidados com efeitos mínimos sobre o preço.
+
+29. O emitente infringe o artigo 34.º, n.º 3, se não detiver em custódia, em conformidade com o artigo 37.º, os instrumentos financeiros em que a reserva de ativos está investida.
+
+30. O emitente infringe o artigo 38.º, n.º 4, se não suportar todos os ganhos e perdas e quaisquer riscos de contraparte ou operacionais resultantes do investimento da reserva de ativos.
+
+31. O emitente infringe o artigo 45.º, n.º 1, se não adotar, aplicar e mantiver uma política de remunerações que promova uma gestão de riscos sólida e eficaz dos emitentes de criptofichas de moeda eletrónica significativas e que não crie incentivos à adoção de normas menos rigorosas em matéria de risco.
+
+32. O emitente infringe o artigo 45.º, n.º 2, se não assegurar que a sua criptoficha de moeda eletrónica significativa possa ser detida em custódia por diferentes prestadores de serviços de criptoativos autorizados a prestar serviços de custódia e administração de criptoativos em nome de clientes, numa base equitativa, razoável e não discriminatória.
+
+33. O emitente infringe o artigo 45.º, n.º 3, se não avaliar ou vigiar as necessidades de liquidez para satisfazer os pedidos de reembolso dos detentores da criptoficha de moeda eletrónica significativa.
+
+34. O emitente infringe o artigo 45.º, n.º 3, se não estabelecer, mantiver ou aplicar uma política e procedimentos de gestão da liquidez ou se não assegurar, com esta política e procedimentos, que os ativos de reserva tenham um perfil de liquidez resiliente que permita ao emitente da criptoficha de moeda eletrónica significativa continuar a funcionar normalmente, inclusive em cenários de esforço de liquidez.
+
+35. O emitente infringe o artigo 45.º, n.º 4, se não realizar regularmente testes de esforço de liquidez ou se não reforçar os requisitos de liquidez, quando tal for solicitado pela EBA com base nos resultados dos referidos testes.
+
+36. O emitente infringe o artigo 45.º, n.º 5, se não respeitar, em qualquer momento, o requisito de fundos próprios.
+
+37. O emitente infringe o artigo 46.º, n.º 1, se não elaborar e mantiver um plano de recuperação que preveja medidas a tomar pelo emitente de criptofichas de moeda eletrónica significativas para restabelecer o cumprimento dos requisitos aplicáveis à reserva de ativos caso o emitente não cumpra esses requisitos, incluindo a preservação dos seus serviços relacionados com a criptoficha de moeda eletrónica significativa emitida, o restabelecimento atempado das operações e o cumprimento das obrigações do emitente caso haja acontecimentos que representem um risco significativo de perturbação das operações.
+
+38. O emitente infringe o artigo 46.º, n.º 1, se não elaborar e mantiver um plano de recuperação que inclua condições e procedimentos adequados para assegurar a execução atempada das medidas de restabelecimento, bem como um vasto leque de opções de restabelecimento, conforme previsto no terceiro parágrafo, alíneas a), b) e c), do referido número.
+
+39. O emitente infringe o artigo 46.º, n.º 2, se não notificar o plano de recuperação à EBA e, se for caso disso, às suas autoridades de resolução e de supervisão prudencial no prazo de seis meses a contar da data da oferta pública ou da admissão à negociação.
+
+40. O emitente infringe o artigo 46.º, n.º 2, se não proceder regularmente à revisão ou atualização do plano de recuperação.
+
+41. O emitente infringe o artigo 47.º, n.º 1, se não elaborar e mantiver um plano operacional que apoie um reembolso ordenado de cada criptoficha de moeda eletrónica significativa.
+
+42. O emitente infringe o artigo 47.º, n.º 2, se não possuir de um plano de reembolso que demonstre a capacidade do emitente de criptofichas de moeda eletrónica significativas para proceder ao reembolso de criptofichas de moeda eletrónica significativas emitidas sem causar prejuízos económicos indevidos aos seus detentores ou à estabilidade dos mercados dos ativos de reserva.
+
+43. O emitente infringe o artigo 47.º, n.º 2, se não possuir um plano de reembolso que inclua disposições contratuais, procedimentos e sistemas, nomeadamente a designação de um administrador temporário, para assegurar o tratamento equitativo de todos os detentores da criptoficha de moeda eletrónica significativa e para assegurar que os detentores da criptoficha de moeda eletrónica significativa sejam pagos em tempo útil com o produto da venda dos restantes ativos de reserva.
+
+44. O emitente infringe o artigo 47.º, n.º 2, se não possuir um plano de reembolso que assegure a continuidade de quaisquer atividades críticas que sejam necessárias para o reembolso ordenado e que sejam realizadas pelo emitente ou por qualquer entidade terceira.
+
+45. O emitente infringe o artigo 47.º, n.º 3, se não notificar o plano de reembolso à EBA no prazo de seis meses a contar da data da oferta pública ou da admissão à negociação.
+
+46. O emitente infringe o artigo 47.º, n.º 3, se não proceder regularmente à reapreciação ou à atualização do plano de reembolso.
+
+[^1]: Diretiva 2009/138/CE do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, relativa ao acesso à atividade de seguros e resseguros e ao seu exercício (Solvência II) (JO L 335 de 17.12.2009, p. 1).
+
+[^2]: Diretiva (UE) 2016/2341 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016, relativa às atividades e à supervisão das instituições de realização de planos de pensões profissionais (IRPPP) (JO L 354 de 23.12.2016, p. 37).
+
+[^3]: Regulamento (UE) 2019/1238 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo a um produto pan-europeu de pensão pessoal (PEPP) (JO L 198 de 25.7.2019, p. 1).
+
+[^4]: Regulamento (CE) n.º 883/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo à coordenação dos sistemas de segurança social (JO L 166 de 30.4.2004, p. 1).
+
+[^5]: Regulamento (CE) n.º 987/2009 do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, que estabelece as modalidades de aplicação do Regulamento (CE) n.º 883/2004 relativo à coordenação dos sistemas de segurança social (JO L 284 de 30.10.2009, p. 1).
+
+[^6]: Diretiva 2004/109/CE do Parlamento Europeu e do Conselho, de 15 de dezembro de 2004, relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado e que altera a Diretiva 2001/34/CE (JO L 390 de 31.12.2004, p. 38).
+
+[^7]: Diretiva 2009/65/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, que coordena as disposições legislativas, regulamentares e administrativas respeitantes a alguns organismos de investimento coletivo em valores mobiliários (OICVM) (JO L 302 de 17.11.2009, p. 32).
+
+[^8]: Diretiva 2011/61/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa aos gestores de fundos de investimento alternativos e que altera as Diretivas 2003/41/CE e 2009/65/CE e os Regulamentos (CE) n.º 1060/2009 e (UE) n.º 1095/2010 (JO L 174 de 1.7.2011, p. 1).
+
+[^9]: Diretiva 97/9/CE do Parlamento Europeu e do Conselho de 3 de março de 1997 relativa aos sistemas de indemnização dos investidores (JO L 84 de 26.3.1997, p. 22).
+
+[^10]: Regulamento (UE) 2017/1129 do Parlamento Europeu e do Conselho, de 14 de junho de 2017, relativo ao prospeto a publicar em caso de oferta de valores mobiliários ao público ou da sua admissão à negociação num mercado regulamentado, e que revoga a Diretiva 2003/71/CE (JO L 168 de 30.6.2017, p. 12).
+
+[^11]: Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, relativo à resiliência operacional digital do setor financeiro e que altera os Regulamentos (CE) n.º 1060/2009, (UE) n.º 648/2012, (UE) n.º 600/2014 e (UE) n.º 909/2014 e (UE) 2016/1011 (JO L 333 de 27.12.2022, p. 1).
+
+[^12]: Regulamento (UE) 2017/1131 do Parlamento Europeu e do Conselho, de 14 de junho de 2017, relativo aos fundos do mercado monetário (JO L 169 de 30.6.2017, p. 8).
+
+[^13]: Diretiva 2002/47/CE do Parlamento Europeu e do Conselho, de 6 de junho de 2002, relativa aos acordos de garantia financeira (JO L 168 de 27.6.2002, p. 43).
+
+[^14]: Diretiva 2006/73/CE da Comissão, de 10 de agosto de 2006, que aplica a Diretiva 2004/39/CE do Parlamento Europeu e do Conselho no que diz respeito aos requisitos em matéria de organização e às condições de exercício da atividade das empresas de investimento e aos conceitos definidos para efeitos da referida diretiva (JO L 241 de 2.9.2006, p. 26).
+
+[^15]: Regulamento Delegado (UE) 2015/61 da Comissão, de 10 de outubro de 2014, que completa o Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, no que diz respeito ao requisito de cobertura de liquidez para as instituições de crédito (JO L 11 de 17.1.2015, p. 1).
+
+[^16]: Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa às demonstrações financeiras anuais, às demonstrações financeiras consolidadas e aos relatórios conexos de certas formas de empresas, que altera a Diretiva 2006/43/CE do Parlamento Europeu e do Conselho e revoga as Diretivas 78/660/CEE e 83/349/CEE do Conselho (JO L 182 de 29.6.2013, p. 19).
+
+[^17]: Regulamento (UE) 2022/1925 do Parlamento Europeu e do Conselho, de 14 de setembro de 2022, relativo à disputabilidade e equidade dos mercados no setor digital e que altera as Diretivas (UE) 2019/1937 e (UE) 2020/1828 (Regulamento dos Mercados Digitais) (JO L 265 de 12.10.2022, p. 1).
+
+[^18]: Regulamento (UE) 2021/23 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2020, relativo ao regime da recuperação e resolução das contrapartes centrais e que altera os Regulamentos (UE) n.º 1095/2010, (UE) n.º 648/2012, (UE) n.º 600/2014, (UE) n.º 806/2014 e (UE) 2015/2365 e as Diretivas 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE e (UE) 2017/1132 (JO L 22 de 22.1.2021, p. 1).
+
+[^19]: Regulamento (UE) n.º 909/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, relativo à melhoria da liquidação de valores mobiliários na União Europeia e às Centrais de Valores Mobiliários e que altera as Diretivas 98/26/CE e 2014/65/UE e o Regulamento (UE) n.º 236/2012 (JO L 257 de 28.8.2014, p. 1).
+
+[^20]: Regulamento (UE) 2023/2859 do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023, que cria um ponto de acesso único europeu destinado a permitir um acesso centralizado a informações publicamente disponíveis com relevância para os serviços financeiros, os mercados de capitais e a sustentabilidade (JO L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).
+
+[^21]: Regulamento (UE) 2019/2033 do Parlamento Europeu e do Conselho, de 27 de novembro de 2019, relativo aos requisitos prudenciais aplicáveis às empresas de investimento e que altera os Regulamentos (UE) n.º 1093/2010, (UE) n.º 575/2013, (UE) n.º 600/2014 e (UE) n.º 806/2014 (JO L 314 de 5.12.2019, p. 1).
+
+[^22]: Diretiva (UE) 2019/2034 do Parlamento Europeu e do Conselho, de 27 de novembro de 2019, relativa à supervisão prudencial das empresas de investimento e que altera as Diretivas 2002/87/CE, 2009/65/CE, 2011/61/UE, 2013/36/UE, 2014/59/UE e 2014/65/UE (JO L 314 de 5.12.2019, p. 64).
+
+[^1]: Diretiva 2008/48/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2008, relativa a contratos de crédito aos consumidores e que revoga a Diretiva 87/102/CEE do Conselho (JO L 133 de 22.5.2008, p. 66).
+
+[^2]: Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, 26 de junho de 2013, relativo aos requisitos prudenciais para as instituições de crédito e que altera o Regulamento (UE) n.º 648/2012 (JO L 176 de 27.6.2013, p. 1).
+
+[^3]: Diretiva 2013/36/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa ao acesso à atividade das instituições de crédito e à supervisão prudencial das instituições de crédito, que altera a Diretiva 2002/87/CE e revoga as Diretivas 2006/48/CE e 2006/49/CE (JO L 176 de 27.6.2013, p. 338).
+
+[^4]: Diretiva 2014/49/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativa aos sistemas de garantia de depósitos (JO L 173 de 12.6.2014, p. 149).
+
+[^5]: Diretiva 2014/92/UE do Parlamento Europeu e do Conselho, de 23 de julho de 2014, relativa à comparabilidade das comissões relacionadas com as contas de pagamento, à mudança de conta de pagamento e ao acesso a contas de pagamento com características básicas (JO L 257 de 28.8.2014, p. 214).
+
+[^6]: Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho, de 25 de novembro de 2015, relativa aos serviços de pagamento no mercado interno, que altera as Diretivas 2002/65/CE, 2009/110/CE e 2013/36/UE e o Regulamento (UE) n.º 1093/2010, e que revoga a Diretiva 2007/64/CE (JO L 337 de 23.12.2015, p. 35).
+
+[^7]: Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 (JO L 150 de 9.6.2023, p. 40).
+
+[^8]: Regulamento (UE) n.º 1024/2013 do Conselho, de 15 de outubro de 2013, que confere ao Banco Central Europeu atribuições específicas no que diz respeito às políticas relativas à supervisão prudencial das instituições de crédito (JO L 287 de 29.10.2013, p. 63).».
+
+[^9]: Diretiva 2011/61/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa aos gestores de fundos de investimento alternativos e que altera as Diretivas 2003/41/CE e 2009/65/CE e os Regulamentos (CE) n.º 1060/2009 e (UE) n.º 1095/2010 (JO L 174 de 1.7.2011, p. 1).
+
+[^10]: Diretiva 2014/65/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa aos mercados de instrumentos financeiros e que altera a Diretiva 2002/92/CE e a Diretiva 2011/61/UE (JO L 173 de 12.6.2014, p. 349).
+
+[^11]: Regulamento (UE) 2017/1129 do Parlamento Europeu e do Conselho, de 14 de junho de 2017, relativo ao prospeto a publicar em caso de oferta de valores mobiliários ao público ou da sua admissão à negociação num mercado regulamentado, e que revoga a Diretiva 2003/71/CE (JO L 168 de 30.6.2017, p. 12).
+
+[^12]: Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 (JO L 150 de 9.6.2023, p. 40).».
+
+[^13]: Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 (JO L 150 de 9.6.2023, p. 40).».

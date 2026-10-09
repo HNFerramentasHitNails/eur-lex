@@ -1,0 +1,108 @@
+# Instruções para o Claude — corpus de direito da UE (EUR-Lex)
+
+Este repositório contém legislação da União Europeia em português, extraída do EUR-Lex
+(via Cellar, o repositório oficial do Serviço das Publicações da UE) e convertida para
+Markdown. Serve de base para responder a perguntas, desenhar aplicações, bots e processos
+que cumpram o direito da UE.
+
+Responde sempre em português de Portugal.
+
+## Onde está cada coisa
+
+| Caminho | O que tem |
+|---|---|
+| `corpus/INDICE.md` | **Começa aqui.** Lista de todos os actos descarregados por área, com versão e tamanho. |
+| `corpus/<area>/<CELEX>-<nome>.md` | Texto do acto: versão consolidada mais recente já aplicável (ou o original do JO se não houver consolidação). Artigos como `### Artigo 6.º — Título`; capítulos, secções e anexos como `## …`. |
+| `corpus/<area>/<…>.considerandos.md` | Preâmbulo (considerandos) do texto original. Os considerandos não são normas, mas explicam a intenção do legislador e o Tribunal de Justiça usa-os para interpretar. |
+| `corpus/<area>/<…>.contexto.md` | Sínteses oficiais, **medidas portuguesas de transposição** (só diretivas) e lista de acórdãos do Tribunal de Justiça que interpretam o acto. |
+| `corpus/_sinteses/<id>.md` | Sínteses oficiais da UE em linguagem simples (não são texto legal). |
+| `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-09 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
+| `catalogo/repertorio.md` | Árvore de áreas do repertório oficial do EUR-Lex, com contagens. |
+| `ferramentas/eurlex.py` | Script que descarrega e converte. `ferramentas/nucleo.yaml` é a lista curada. |
+
+Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
+(consolidado/original), `versao_aplicavel_desde`, `versoes_futuras`, `url_eurlex`,
+`obtido_em` e, quando existem, dois avisos que **tens de ter em conta**:
+
+- `consolidacoes_sem_texto_na_lingua`: há uma versão consolidada mais recente, com
+  alterações, que o Cellar não tem em português. O ficheiro não inclui essas alterações;
+  os actos alteradores vêm indicados (descarrega-os ou avisa).
+- `rectificacoes_nao_incorporadas`: o texto é o original do JO e há rectificações
+  publicadas depois que não estão aplicadas. Muitas só corrigem outras línguas; não se
+  sabe, sem abrir cada uma, se mudam o texto português.
+
+## Como responder a uma pergunta
+
+1. Identifica o acto no `corpus/INDICE.md`. Se não estiver lá, procura no catálogo
+   (`grep -i "palavra" catalogo/legislacao-em-vigor.tsv | cut -f1,2,3,6`, ou por área com
+   o código de `catalogo/repertorio.md`) e, se for preciso o texto, descarrega-o:
+   `python3 ferramentas/eurlex.py obter <CELEX> --area <area> --curto "<nome>"`.
+   Não concluas que "não há regra" só porque o corpus não a tem: o corpus tem 86 actos
+   de um universo de 64 mil.
+2. Vai ao artigo concreto (`grep -n "^### Artigo 6.º" corpus/dados-e-privacidade/32016R0679-rgpd.md`)
+   e lê-o inteiro, incluindo definições (normalmente no artigo 2.º, 3.º ou 4.º) e exceções.
+   Usa os considerandos para a interpretação e o `.contexto.md` para a jurisprudência.
+3. **Cita sempre a fonte exacta**: acto, artigo, número e alínea, a versão usada
+   (`versao_aplicavel_desde`) e o ficheiro. Ex.: "RGPD, artigo 6.º, n.º 1, alínea f)
+   (versão consolidada de 2016-05-04, `corpus/dados-e-privacidade/32016R0679-rgpd.md`)".
+4. **Distingue o que está no texto do que é interpretação tua.** Se não encontraste a regra
+   no corpus, diz "não encontrei no corpus" e como procuraste — não preenchas com memória.
+5. Diz sempre o que fica por verificar (ver limites abaixo).
+
+## Limites que tens de assinalar nas respostas
+
+- **Diretivas não se aplicam directamente às empresas.** Obrigam os Estados-Membros a
+  transpor. Para uma empresa em Portugal, a regra aplicável é a lei portuguesa de
+  transposição (listada no `.contexto.md`, secção "Transposição em Portugal"), cujo texto
+  está no Diário da República (diariodarepublica.pt) e **não** neste repositório. A lei
+  nacional pode ir além da diretiva quando a diretiva o permite.
+- **Regulamentos aplicam-se directamente**, mas muitos deixam margem aos Estados-Membros
+  (o próprio texto diz quando: "o direito do Estado-Membro pode…"). Nesses pontos, a
+  resposta depende da lei portuguesa.
+- **Fiscalidade directa, segurança social, licenciamento, código do trabalho, taxas de
+  IVA concretas, prazos e procedimentos nacionais** são matéria nacional. A Diretiva IVA,
+  por exemplo, fixa regras e limites; as taxas portuguesas estão no Código do IVA.
+- **Textos consolidados não têm valor jurídico** (aviso oficial do EUR-Lex): fazem fé os
+  textos publicados no Jornal Oficial. Para decisões com consequências, confirmar no
+  JO através de `url_eurlex`.
+- **Datas:** o corpus foi obtido na data indicada em `obtido_em`. Se o ficheiro tiver
+  `versoes_futuras`, há alterações já publicadas que ainda não se aplicam — diz isso se a
+  pergunta for sobre o futuro. Se a pergunta for sobre o passado, a versão do corpus pode
+  não ser a aplicável nessa data.
+- **Orientações das autoridades** (Comissão, CEPD/EDPB, CNPD, ASAE, AT, Infarmed…) e
+  normas técnicas harmonizadas (EN/ISO) não estão aqui, e muitas vezes são o que decide a
+  prática.
+
+Quando a resposta tiver consequências sérias (contratos, coimas, declarações fiscais,
+colocação de produtos no mercado), diz claramente que é uma leitura do texto legal da UE
+e que a aplicação ao caso concreto, sobretudo onde entra lei nacional, deve ser validada
+por um profissional.
+
+## Convenções do texto convertido
+
+- `▼B`, `▼M1`, `►M1 … ◄`, `▼C1`: marcas do EUR-Lex nos consolidados. `B` = texto de base,
+  `M1`, `M2`… = alterado pelo acto listado em "Alterações incorporadas" no topo do ficheiro,
+  `C1`… = rectificação, `A1`… = acto de adesão.
+- `[^1]` = chamada de nota; a nota aparece como `[^1]: …` mais abaixo (normalmente no fim
+  da secção ou do documento). A numeração pode repetir-se em secções diferentes.
+- Alíneas e pontos estão como listas (`- a) …`, `- 1) …`), com subalíneas indentadas.
+- Tabelas dos anexos estão em tabelas Markdown. Quando uma célula do original ocupa
+  várias linhas (ex.: o nome de uma substância com várias restrições), é repetida em
+  cada linha, ou aparece `(idem)` se for longa. Na 1.ª linha de algumas tabelas o
+  cabeçalho original tinha várias linhas; lê as 2–3 primeiras linhas para perceber as
+  colunas. Em caso de dúvida, confirmar no EUR-Lex.
+- Imagens (símbolos, fórmulas) aparecem como `[imagem]`.
+
+## Actualizar o corpus
+
+```bash
+pip install -r requirements.txt
+python3 ferramentas/eurlex.py nucleo                    # todos os actos da lista curada
+python3 ferramentas/eurlex.py nucleo --so 32016R0679    # só um
+python3 ferramentas/eurlex.py obter 62014CJ0362 --area jurisprudencia --curto "Schrems"
+python3 ferramentas/eurlex.py catalogo                  # catálogo de tudo o que está em vigor
+python3 ferramentas/eurlex.py indice                    # regenerar corpus/INDICE.md
+```
+
+O script usa o Cellar (publications.europa.eu) com 1 s entre pedidos; só recorre ao site
+eur-lex.europa.eu quando o Cellar não tem o texto, e aí respeita os 10 s do robots.txt.

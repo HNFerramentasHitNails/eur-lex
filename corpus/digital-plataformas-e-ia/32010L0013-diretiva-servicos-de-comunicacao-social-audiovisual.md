@@ -1,0 +1,940 @@
+---
+celex: 32010L0013
+nome_curto: Diretiva Serviços de Comunicação Social Audiovisual
+tipo: Diretiva
+titulo: Directiva 2010/13/UE do Parlamento Europeu e do Conselho, de 10 de Março de 2010, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à oferta de serviços de comunicação social audiovisual (Directiva Serviços de Comunicação Social Audiovisual) (Versão codificada) (Texto relevante para efeitos do EEE)
+data_documento: '2010-03-10'
+em_vigor: true
+entrada_em_vigor:
+- '2010-05-05'
+texto: consolidado
+versao_consolidada: 02010L0013-20250208
+versao_aplicavel_desde: '2025-02-08'
+eli: http://data.europa.eu/eli/dir/2010/13/oj
+repertorio:
+- 06.20.20.50 Serviços de lazer
+url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010L0013
+url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02010L0013-20250208
+lingua: pt
+fonte: cellar:application/xhtml+xml
+obtido_em: '2026-10-09'
+---
+
+# Diretiva 32010L0013 — Diretiva Serviços de Comunicação Social Audiovisual
+
+**Título oficial:** Directiva 2010/13/UE do Parlamento Europeu e do Conselho, de 10 de Março de 2010, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à oferta de serviços de comunicação social audiovisual (Directiva Serviços de Comunicação Social Audiovisual) (Versão codificada) (Texto relevante para efeitos do EEE)
+
+**Texto:** versão consolidada aplicável desde 2025-02-08 (02010L0013-20250208).
+
+> Aviso oficial dos textos consolidados: são um instrumento de documentação sem efeito jurídico. Fazem fé apenas os textos publicados no Jornal Oficial da União Europeia.
+
+**Considerandos (preâmbulo):** ficheiro `32010L0013-diretiva-servicos-de-comunicacao-social-audiovisual.considerandos.md`.
+
+**Contexto** (sínteses oficiais, transposição em Portugal, jurisprudência do TJUE): ficheiro `32010L0013-diretiva-servicos-de-comunicacao-social-audiovisual.contexto.md`.
+
+**EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010L0013
+
+## Alterações incorporadas nesta versão
+
+No texto, ▼M1/►M1 marcam disposições alteradas pelo acto M1 (e assim por diante), ▼C1 marca rectificações, ▼A1 actos de adesão e ▼B o texto de base.
+
+- ►M1 DIRETIVA (UE) 2018/1808 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de novembro de 2018 — L 303 — 69 — 28.11.2018 (CELEX 32018L1808)
+- ►M2 REGULAMENTO (UE) 2024/1083 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024 — L 1083 — 1 — 17.4.2024 (CELEX 32024R1083)
+- ►C1 Rectificação, JO L 263, 6.10.2010, p. 15 (2010/13/UE) (CELEX 32010L0013R(01))
+
+## Texto
+
+▼B
+
+## CAPÍTULO I — DEFINIÇÕES
+
+### Artigo 1.º
+
+1. Para efeitos da presente directiva, entende-se por:
+
+▼M1
+
+- a) «Serviço de comunicação social audiovisual»:
+
+  - i) um serviço tal como definido pelos artigos 56.º e 57.º do Tratado sobre o Funcionamento da União Europeia, sendo a principal finalidade do referido serviço ou de uma parte dissociável do mesmo a oferta ao público em geral de programas, sob a responsabilidade editorial de um fornecedor de serviços de comunicação social, destinados a informar, distrair ou educar, através de redes de comunicações eletrónicas, na aceção do artigo 2.º, alínea a), da Diretiva 2002/21/CE; esse serviço de comunicação social audiovisual é constituído por emissões televisivas, tal como definidas na alínea e) do presente número, ou por serviços de comunicação social audiovisual a pedido, tal como definidos na alínea g) do presente número,
+
+  - ii) comunicações comerciais audiovisuais;
+
+▼M1
+
+- a-A) «Serviço de plataforma de partilha de vídeos», um serviço na aceção dos artigos 56.º e 57.º do Tratado sobre o Funcionamento da União Europeia, sendo a principal finalidade do serviço ou de uma parte dissociável do mesmo, ou uma funcionalidade essencial do serviço, a oferta ao público em geral de programas ou de vídeos gerados pelos utilizadores, ou de ambos, em relação aos quais o fornecedor da plataforma de partilha de vídeos não tem responsabilidade editorial, destinados a informar, distrair ou educar, através de redes de comunicações eletrónicas, na aceção do artigo 2.º, alínea a), da Diretiva 2002/21/CE, e cuja organização é determinada pelo fornecedor da plataforma de partilha de vídeos, nomeadamente por meios automáticos ou por algoritmos, em particular através da apresentação, da identificação e da sequenciação;
+
+▼M1
+
+- b) «Programa», um conjunto de imagens em movimento, com ou sem som, que constitui um elemento autónomo, independentemente da sua duração, da grelha de programas ou do catálogo estabelecido por um fornecedor de serviços de comunicação social, incluindo as longas-metragens cinematográficas, os videoclipes, os acontecimentos desportivos, as comédias de costumes (sitcom), os documentários, os programas infantis e as séries televisivas;
+
+▼M1
+
+- b-A) «Vídeo gerado pelos utilizadores», um conjunto de imagens em movimento, com ou sem som, que constitui um elemento autónomo, independentemente da sua duração, e é criado por um utilizador e carregado para uma plataforma de partilha de vídeos por esse utilizador ou por outros utilizadores;
+
+- B-B) «Decisão editorial», uma decisão tomada regularmente para efeitos do exercício da responsabilidade editorial e que está ligada ao funcionamento diário do serviço de comunicação social audiovisual;
+
+▼B
+
+- c) «Responsabilidade editorial», o exercício de um controlo efectivo tanto sobre a selecção de programas como sobre a sua organização, quer sob a forma de grelha de programas, no caso das emissões televisivas, quer sob a forma de catálogo, no caso dos serviços de comunicação social audiovisual a pedido. A responsabilidade editorial não implica necessariamente uma responsabilidade jurídica, nos termos do direito nacional, pelos conteúdos ou serviços fornecidos;
+
+- d) «Fornecedor de serviços de comunicação social», a pessoa singular ou colectiva que tem responsabilidade editorial pela escolha do conteúdo audiovisual do serviço de comunicação social audiovisual e determina o modo como é organizado;
+
+▼M1
+
+- d-A) «Fornecedor de plataformas de partilha de vídeos», uma pessoa singular ou coletiva que presta um serviço de plataforma de partilha de vídeos;
+
+▼B
+
+- e) «Radiodifusão televisiva» ou «emissão televisiva» (ou seja, um serviço de comunicação social audiovisual linear), um serviço de comunicação social audiovisual prestado por um fornecedor de serviços de comunicação social para visionamento simultâneo de programas, ordenados com base numa grelha de programas;
+
+- f) «Operador televisivo», um fornecedor de serviços de comunicação social de emissões televisivas;
+
+- g) «Serviço de comunicação social audiovisual a pedido» (ou seja, um serviço de comunicação social audiovisual não linear), um serviço de comunicação social audiovisual prestado por um fornecedor de serviços de comunicação social para visionamento de programas pelo utilizador, a pedido individual deste, num momento por ele escolhido para o efeito com base num catálogo de programas seleccionados pelo fornecedor do serviço de comunicação social;
+
+▼M1
+
+- h) «Comunicação comercial audiovisual», imagens, com ou sem som, que se destinam a promover, direta ou indiretamente, os produtos, os serviços ou a imagem de uma pessoa singular ou coletiva que exerce uma atividade económica. Estas imagens acompanham um programa ou um vídeo gerado pelos utilizadores, ou estão incluídas neles, a troco de pagamento ou retribuição similar, ou para fins autopromocionais. As formas de comunicação comercial audiovisual incluem, nomeadamente, a publicidade televisiva, o patrocínio, a televenda e a colocação de produto;
+
+▼B
+
+- i) «Publicidade televisiva», qualquer forma de mensagem televisiva difundida a troco de pagamento ou retribuição similar, ou para fins autopromocionais, por uma entidade pública ou privada ou uma pessoa singular, relacionada com uma actividade comercial, industrial, artesanal ou de profissão liberal, com o objectivo de promover o fornecimento de produtos ou serviços, incluindo bens imóveis, direitos e obrigações, a troco de pagamento;
+
+- j) «Comunicação comercial audiovisual oculta», a apresentação oral ou visual de produtos, de serviços, do nome, da marca ou das actividades de um fabricante de produtos ou de um fornecedor de serviços em programas, quando essa apresentação seja feita de forma intencional pelo fornecedor dos serviços de comunicação social com fins publicitários e possa induzir o público em erro quanto à natureza dessa apresentação. Tal apresentação é, em particular, considerada intencional caso seja feita a troco de pagamento ou retribuição similar;
+
+▼M1
+
+- k) «Patrocínio», uma contribuição, feita por uma empresa pública ou privada ou por uma pessoa singular não envolvidas na oferta de serviços de comunicação social audiovisual ou de serviços de plataformas de partilha de vídeos, nem na produção de obras audiovisuais, para o financiamento de serviços de comunicação social audiovisual, de serviços de plataformas de partilha de vídeos, de vídeos gerados pelos utilizadores ou de programas a fim de promover o seu nome, a sua marca, a sua imagem, as suas atividades ou os seus produtos;
+
+▼B
+
+- l) «Televenda», a oferta directa difundida ao público com vista ao fornecimento de produtos ou serviços, incluindo bens imóveis, direitos e obrigações, a troco de pagamento;
+
+▼M1
+
+- m) «Colocação de produto», uma forma de comunicação comercial audiovisual consistente na inclusão de um produto, de um serviço ou da respetiva marca comercial, ou na referência a esse produto, a esse serviço ou a essa marca comercial, num programa ou num vídeo gerado pelos utilizadores, a troco de pagamento ou de retribuição similar;
+
+▼B
+
+- n) «Obras europeias»:
+
+  - i) as obras originárias de Estados-Membros,
+
+  - ii) as obras originárias de Estados terceiros europeus que sejam parte na Convenção Europeia sobre a Televisão Transfronteiras do Conselho da Europa e satisfaçam as condições do n.º 3,
+
+  - iii) as obras co-produzidas no âmbito de acordos referentes ao sector audiovisual celebrados entre a União e países terceiros e que cumpram as condições estabelecidas em cada um desses acordos.
+
+2. O disposto nas subalíneas ii) e iii) da alínea n) do n.º 1 só se aplica caso as obras originárias de Estados-Membros não estejam sujeitas a medidas discriminatórias nos países terceiros em questão.
+
+3. As obras referidas nas subalíneas i) e ii) da alínea n) do n.º 1 são as obras que, realizadas essencialmente com a participação de autores e trabalhadores residentes em um ou mais dos Estados a que se referem essas disposições, satisfaçam uma das três condições seguintes:
+
+- i) serem realizadas por um ou mais produtores estabelecidos em um ou vários desses Estados,
+
+- ii) a produção dessas obras ser supervisionada e efectivamente controlada por um ou mais produtores estabelecidos em um ou vários desses Estados,
+
+- iii) a contribuição dos co-produtores desses Estados para o custo total da co-produção ser maioritária e a co-produção não ser controlada por um ou mais produtores estabelecidos fora desses Estados.
+
+4. As obras que não sejam obras europeias na acepção da alínea n) do n.º 1 mas sejam produzidas ao abrigo de acordos bilaterais de co-produção celebrados entre Estados-Membros e países terceiros são consideradas obras europeias sempre que caiba aos co-produtores da União a parte maioritária do custo total da sua produção e esta não seja controlada por um ou mais produtores estabelecidos fora do território dos Estados-Membros.
+
+## CAPÍTULO II
+
+▼M1
+
+**DISPOSIÇÕES GERAIS APLICÁVEIS AOS SERVIÇOS DE COMUNICAÇÃO SOCIAL AUDIOVISUAL**
+
+▼B
+
+### Artigo 2.º
+
+1. Cada Estado-Membro deve assegurar que todos os serviços de comunicação social audiovisual prestados por fornecedores de serviços de comunicação social sob a sua jurisdição respeitem as regras da ordem jurídica aplicável aos serviços de comunicação social audiovisual destinados ao público nesse Estado-Membro.
+
+2. Para efeitos da presente directiva, os fornecedores de serviços de comunicação social sob a jurisdição de um Estado-Membro são quaisquer dos seguintes:
+
+- a) Os estabelecidos nesse Estado-Membro, nos termos do n.º 3;
+
+- b) Aqueles a que se aplica o n.º 4.
+
+3. Para efeitos da presente directiva, considera-se que um fornecedor de serviços de comunicação social se encontra estabelecido num Estado-Membro nos seguintes casos:
+
+- a) Se o fornecedor do serviço de comunicação social tiver a sua sede social nesse Estado-Membro e as decisões editoriais relativas ao serviço de comunicação social audiovisual forem tomadas nesse Estado-Membro;
+
+▼M1
+
+- b) Se um fornecedor de serviços de comunicação social tiver a sua sede social num Estado-Membro, mas as decisões editoriais relativas ao serviço de comunicação social audiovisual forem tomadas noutro Estado-Membro, considera-se que o fornecedor de serviços de comunicação social se encontra estabelecido no Estado-Membro em que exerce funções uma parte significativa do pessoal envolvido na realização da atividade de fornecimento de serviços de comunicação social audiovisual relacionada com a programação. Se uma parte significativa do pessoal envolvido na realização da atividade de fornecimento de serviços de comunicação social audiovisual relacionada com a programação exercer funções em ambos os Estados-Membros, considera-se que o fornecedor de serviços de comunicação social se encontra estabelecido no Estado-Membro onde se situa a sua sede social. Se uma parte significativa do pessoal envolvido na realização da atividade de fornecimento de serviços de comunicação social audiovisual relacionada com a programação não exercer funções em nenhum desses Estados-Membros, considera-se que o fornecedor de serviços de comunicação social se encontra estabelecido no primeiro Estado-Membro onde iniciou a sua atividade, de acordo com a lei desse Estado-Membro, desde que mantenha uma relação efetiva e estável com a economia desse Estado-Membro;
+
+▼B
+
+- c) Se o fornecedor do serviço de comunicação social tiver a sua sede social num Estado-Membro, mas as decisões relativas ao serviço de comunicação social audiovisual forem tomadas num país terceiro, ou vice-versa, considera-se que esse fornecedor se encontra estabelecido no Estado-Membro em causa, desde que uma parte significativa do pessoal implicado na realização da actividade de prestação do serviço de comunicação social audiovisual nele exerça as suas funções.
+
+4. Considera-se que os fornecedores de serviços de comunicação social não abrangidos pelo disposto no n.º 3 estão sob a jurisdição de um Estado-Membro nos seguintes casos:
+
+- a) Quando utilizam uma ligação ascendente terra-satélite situada nesse Estado-Membro;
+
+- b) Quando, embora não utilizem uma ligação ascendente terra-satélite situada nesse Estado-Membro, utilizam uma capacidade de satélite pertencente a esse Estado-Membro.
+
+5. Caso não seja possível determinar qual o Estado-Membro competente nos termos dos n.ºs 3 e 4 é competente o Estado-Membro em que o fornecedor de serviços de comunicação social estiver estabelecido na acepção dos artigos 49.º a 55.º do Tratado sobre o Funcionamento da União Europeia.
+
+▼M1
+
+5-A.
+
+Os Estados-Membros asseguram que os fornecedores de serviços de comunicação social informem as autoridades ou entidades reguladoras nacionais competentes das alterações que possam afetar a determinação da jurisdição nos termos dos n.ºs 2, 3 e 4.
+
+5-B.
+
+Os Estados-Membros estabelecem uma lista dos fornecedores de serviços de comunicação social sob a sua jurisdição, mantêm-na atualizada, e indicam em quais dos critérios estabelecidos nos n.ºs 2 a 5 se baseia a sua jurisdição. Os Estados-Membros transmitem essa lista, incluindo as suas atualizações, à Comissão.
+
+A Comissão assegura que essas listas sejam disponibilizadas numa base de dados centralizada. Em caso de incoerência entre as listas, a Comissão entra em contacto com os Estados-Membros em causa a fim de encontrar uma solução. A Comissão assegura o acesso das autoridades ou entidades reguladoras nacionais a essa base de dados. A Comissão disponibiliza as informações constantes da base de dados ao público.
+
+5-C.
+
+Sempre que, ao aplicarem o artigo 3.º ou o artigo 4.º, os Estados-Membros em causa não estiverem de acordo sobre qual o Estado-Membro competente, apresentam a questão à Comissão sem demora indevida. A Comissão pode solicitar que o Grupo de Reguladores Europeus dos Serviços de Comunicação Social Audiovisual (ERGA) dê parecer sobre a questão nos termos do artigo 30.º-B, n.º 3, alínea d). O ERGA dá esse parecer no prazo de 15 dias úteis a contar da apresentação do pedido da Comissão. A Comissão mantém o Comité de Contacto, criado pelo artigo 29.º, devidamente informado.
+
+Quando a Comissão adotar uma decisão nos termos do artigo 3.º, n.º 2 ou n.º 3, ou do artigo 4.º, n.º 5, deve determinar também qual é o Estado-Membro competente.
+
+▼B
+
+6. A presente directiva não se aplica aos serviços de comunicação social audiovisual destinados exclusivamente a ser captados em países terceiros e que não sejam captados directa ou indirectamente pelo público de um ou mais Estados-Membros através de equipamento de consumo corrente.
+
+▼M1
+
+### Artigo 3.º
+
+1. Os Estados-Membros asseguram a liberdade de receção e não podem pôr entraves à retransmissão nos seus territórios de serviços de comunicação social audiovisual provenientes de outros Estados-Membros por razões que relevem dos domínios coordenados pela presente diretiva.
+
+2. Os Estados-Membros podem estabelecer, provisoriamente, derrogações do n.º 1 do presente artigo se um serviço de comunicação social audiovisual prestado por um fornecedor de serviços de comunicação social sob a jurisdição de outro Estado-Membro infringir manifesta, séria e gravemente o artigo 6.º, n.º 1, alínea a), ou o artigo 6.º-A, n.º 1, ou se atentar contra a saúde pública ou comportar um risco sério e grave de atentado à saúde pública.
+
+A derrogação referida no primeiro parágrafo está sujeita às seguintes condições:
+
+- a) Durante os 12 meses anteriores, o fornecedor de serviços de comunicação social já incorreu, pelo menos duas vezes, na prática de um ou mais comportamentos descritos no primeiro parágrafo;
+
+- b) O Estado-Membro em causa notificou por escrito o fornecedor de serviços de comunicação social, o Estado-Membro com jurisdição sobre esse fornecedor e a Comissão das alegadas infrações e das medidas proporcionadas que tenciona tomar no caso de tais infrações voltarem a ocorrer;
+
+- c) O Estado-Membro em causa respeitou o direito de defesa do fornecedor de serviços de comunicação social e, em particular, deu-lhe a oportunidade de expressar os seus pontos de vista sobre as alegadas infrações; e
+
+- d) As consultas com o Estado-Membro com jurisdição sobre o fornecedor de serviços de comunicação social e com a Comissão não conduziram a uma solução amigável no prazo de um mês a contar da data da receção, pela Comissão, da notificação referida na alínea b).
+
+No prazo de três meses a contar da data da receção da notificação das medidas tomadas pelo Estado-Membro em causa, e após ter solicitado o parecer do ERGA nos termos do artigo 30.º-B, n.º 3, alínea d), a Comissão toma uma decisão sobre a compatibilidade dessas medidas com o direito da União. A Comissão mantém o Comité de Contacto devidamente informado. Caso decida que essas medidas são incompatíveis com o direito da União, a Comissão exige que o Estado-Membro em causa ponha termo urgentemente às medidas em questão.
+
+3. Os Estados-Membros podem estabelecer, provisoriamente, derrogações do n.º 1 do presente artigo se um serviço de comunicação social audiovisual prestado por um fornecedor de serviços de comunicação social sob a jurisdição de outro Estado-Membro infringir manifesta, séria e gravemente o artigo 6.º, n.º 1, alínea b), ou se atentar contra a segurança pública ou comportar um risco sério e grave de atentado à segurança pública, incluindo a salvaguarda da segurança e da defesa nacionais.
+
+A derrogação a que se refere o primeiro parágrafo está sujeita às seguintes condições:
+
+- a) Durante os 12 meses anteriores, o comportamento a que se refere o primeiro parágrafo ocorreu pelo menos uma vez;
+
+  e
+
+- b) O Estado-Membro em causa notificou por escrito o fornecedor de serviços de comunicação social, o Estado-Membro com jurisdição sobre esse fornecedor e a Comissão da alegada infração e das medidas proporcionadas que tenciona tomar no caso de tais infrações voltarem a ocorrer.
+
+O Estado-Membro em causa respeita os direitos de defesa do fornecedor de serviços de comunicação social em causa e, em particular, dá-lhe a oportunidade de expressar os seus pontos de vista sobre as alegadas infrações.
+
+No prazo de três meses a contar da data da receção da notificação das medidas tomadas pelo Estado-Membro em causa, e após ter solicitado o parecer do ERGA nos termos do artigo 30.º-B, n.º 3, alínea d), a Comissão toma uma decisão sobre a compatibilidade dessas medidas com o direito da União. A Comissão mantém o Comité de Contacto devidamente informado. Caso decida que essas medidas são incompatíveis com o direito da União, a Comissão exige que o Estado-Membro em causa ponha termo urgentemente às medidas em questão.
+
+4. O disposto nos n.ºs 2 e 3 não prejudica a aplicação de procedimentos, medidas ou sanções contra as referidas infrações no Estado-Membro com jurisdição sobre o fornecedor de serviços de comunicação social em causa.
+
+5. Em casos urgentes, e o mais tardar um mês após a alegada infração, os Estados-Membros podem derrogar das condições estabelecidas no n.º 3, alíneas a) e b). Nesses casos, as medidas tomadas são notificadas no mais curto prazo possível à Comissão e ao Estado-Membro a cuja jurisdição o fornecedor de serviços de comunicação social está sujeito, e são indicadas as razões pelas quais o Estado-Membro considera que existe uma situação de urgência. A Comissão examina, no mais curto prazo possível, a compatibilidade das medidas notificadas com o direito da União. Caso conclua que as medidas são incompatíveis com o direito da União, a Comissão exige que o Estado-Membro em causa ponha termo urgentemente a essas medidas.
+
+6. Se a Comissão não dispuser das informações necessárias para tomar uma decisão nos termos do n.º 2 ou do n.º 3, solicita ao Estado-Membro em causa, no prazo de um mês a contar da data da receção da notificação, todas as informações necessárias para tomar essa decisão. O prazo para a tomada da decisão pela Comissão é suspenso até o Estado-Membro em causa ter prestado as referidas informações necessárias. Em todo o caso, a suspensão do prazo não pode exceder um mês.
+
+7. Os Estados-Membros e a Comissão procedem periodicamente ao intercâmbio de experiências e das melhores práticas no que se refere ao procedimento estabelecido no presente artigo no âmbito do Comité de Contacto e do ERGA.
+
+### Artigo 4.º
+
+1. Os Estados-Membros têm a liberdade de exigir que os fornecedores de serviços de comunicação social sob a sua jurisdição cumpram regras mais pormenorizadas ou mais rigorosas nos domínios coordenados pela presente diretiva, desde que essas regras não infrinjam o direito da União.
+
+2. Caso um Estado-Membro:
+
+- a) Tenha exercido a liberdade que lhe é proporcionada pelo n.º 1 de adotar regras mais pormenorizadas ou mais rigorosas de interesse público geral; e
+
+- b) Considere que um fornecedor de serviços de comunicação social sob a jurisdição de outro Estado-Membro fornece um serviço de comunicação social audiovisual dirigido total ou principalmente ao seu território,
+
+pode solicitar que o Estado-Membro competente examine os problemas identificados relativamente ao presente número. Os dois Estados-Membros cooperam leal e rapidamente a fim de encontrar uma solução mutuamente satisfatória.
+
+Após ter recebido um pedido circunstanciado ao abrigo do primeiro parágrafo, o Estado-Membro competente insta o fornecedor de serviços de comunicação social a dar cumprimento às regras de interesse público geral em questão. O Estado-Membro competente informa periodicamente o Estado-Membro requerente das medidas tomadas para resolver os problemas identificados. No prazo de dois meses a contar da receção do pedido, o Estado-Membro competente informa o Estado-Membro requerente e a Comissão dos resultados obtidos e explica as razões por que não foi possível encontrar uma solução.
+
+Qualquer dos dois Estados-Membros pode convidar o Comité de Contacto a analisar a questão em qualquer momento.
+
+3. O Estado-Membro em causa pode adotar medidas adequadas contra o fornecedor de serviços de comunicação social em causa caso:
+
+- a) Considere que os resultados alcançados através da aplicação do n.º 2 não são satisfatórios; e
+
+- b) Tenha aduzido provas que demonstrem que o fornecedor de serviços de comunicação social em causa se estabeleceu no Estado-Membro competente a fim de contornar as regras mais rigorosas, nos domínios coordenados pela presente diretiva, que lhe seriam aplicáveis se estivesse estabelecido no Estado-Membro em causa; essas provas devem permitir determinar de modo razoável a referida evasão, sem necessidade de provar a intenção do fornecedor de serviços de comunicação social de contornar essas regras mais rigorosas.
+
+Essas medidas devem ser objetivamente necessárias, aplicadas de forma não discriminatória e proporcionadas em relação aos objetivos a que se destinam.
+
+4. Os Estados-Membros só podem tomar medidas ao abrigo do n.º 3 se estiverem reunidas as seguintes condições:
+
+- a) O Estado-Membro notificou a Comissão e o Estado-Membro no qual o fornecedor de serviços de comunicação social está estabelecido da sua intenção de tomar tais medidas, apresentando circunstanciadamente os motivos em que baseia a sua avaliação;
+
+- b) O Estado-Membro respeitou os direitos de defesa do fornecedor de serviços de comunicação social em causa e, em particular, deu-lhe a oportunidade de expressar os seus pontos de vista sobre a alegada evasão e sobre as medidas que o Estado-Membro notificante tenciona tomar; e
+
+- c) A Comissão decidiu, após ter solicitado o parecer do ERGA nos termos do artigo 30.º-B, n.º 3, alínea d), que as medidas são compatíveis com o direito da União e, nomeadamente, que as avaliações efetuadas pelo Estado-Membro que tomou as medidas nos termos dos n.ºs 2 e 3 do presente artigo estão corretamente fundamentadas; a Comissão mantém o Comité de Contacto devidamente informado.
+
+5. No prazo de três meses a contar da data da receção da notificação a que se refere o n.º 4, alínea a), a Comissão toma a decisão sobre a compatibilidade dessas medidas com o direito da União. Caso decida que essas medidas são incompatíveis com o direito da União, a Comissão exige que o Estado-Membro em causa se abstenha de tomar as medidas previstas.
+
+Se a Comissão não dispuser das informações necessárias para tomar a decisão nos termos do primeiro parágrafo, solicita ao Estado-Membro em causa, no prazo de um mês a contar da data da receção da notificação, todas as informações necessárias para tomar essa decisão. O prazo para a tomada da decisão pela Comissão é suspenso até o Estado-Membro em causa ter prestado as referidas informações necessárias. Em todo o caso, a suspensão do prazo não pode exceder um mês.
+
+6. Os Estados-Membros asseguram, através dos meios adequados e no âmbito do respetivo direito nacional, o cumprimento efetivo da presente diretiva pelos fornecedores de serviços de comunicação social sob a sua jurisdição.
+
+7. A Diretiva 2000/31/CE é aplicável, salvo disposição em contrário da presente diretiva. Em caso de conflito entre a Diretiva 2000/31/CE e a presente diretiva, prevalece o disposto na presente diretiva, salvo disposição em contrário da presente diretiva.
+
+▼M1
+
+### Artigo 4.º-A
+
+1. Os Estados-Membros incentivam o recurso à corregulação e o fomento da autorregulação através de códigos de conduta adotados a nível nacional nos domínios coordenados pela presente diretiva, na medida do permitido pelos respetivos ordenamentos jurídicos. Esses códigos devem:
+
+- a) Ser concebidos de molde a serem amplamente aceites pelas principais partes interessadas dos Estados-Membros em causa;
+
+- b) Definir de forma clara e inequívoca os seus objetivos;
+
+- c) Assegurar o acompanhamento e a avaliação regulares, transparentes e independentes do cumprimento dos objetivos visados; e
+
+- d) Prever a sua aplicação efetiva, incluindo sanções eficazes e proporcionadas.
+
+2. Os Estados-Membros e a Comissão podem fomentar a autorregulação através de códigos de conduta da União elaborados por fornecedores de serviços de comunicação social, por fornecedores de serviços de plataformas de partilha de vídeos ou por organizações que os representem, se necessário em cooperação com outros setores, como a indústria, o comércio e as associações ou organizações profissionais e de consumidores. Esses códigos são concebidos de molde a serem amplamente aceites pelas principais partes interessadas a nível da União e cumprem o disposto no n.º 1, alíneas b) a d). Os códigos de conduta da União são aplicáveis sem prejuízo dos códigos de conduta nacionais.
+
+Em cooperação com os Estados-Membros, a Comissão facilita a elaboração de códigos de conduta da União, se for caso disso, de acordo com os princípios da subsidiariedade e da proporcionalidade.
+
+Os signatários dos códigos de conduta da União apresentam à Comissão os projetos desses códigos e as respetivas alterações. A Comissão consulta o Comité de Contacto sobre esses projetos de códigos e sobre as respetivas alterações.
+
+A Comissão disponibiliza os códigos de conduta da União ao público e pode dar-lhes a publicidade adequada.
+
+3. Os Estados-Membros têm a liberdade de exigir que os fornecedores de serviços de comunicação social sob a sua jurisdição cumpram regras mais pormenorizadas ou mais rigorosas, em conformidade com a presente diretiva e com o direito da União, inclusive nos casos em que as respetivas autoridades ou entidades reguladoras nacionais independentes concluam que um código ou partes de um código de conduta não são suficientemente eficazes. Os Estados-Membros comunicam essas regras à Comissão sem demora indevida.
+
+▼B
+
+## CAPÍTULO III
+
+▼M1
+
+**DISPOSIÇÕES APLICÁVEIS AOS SERVIÇOS DE COMUNICAÇÃO SOCIAL AUDIOVISUAL**
+
+### Artigo 5.º
+
+1. Cada Estado-Membro assegura que os fornecedores de serviços de comunicação social sob a sua jurisdição disponibilizem aos destinatários de um serviço, através de um acesso fácil, direto e permanente, pelo menos as seguintes informações:
+
+- a) O seu nome;
+
+- b) O endereço geográfico em que se encontram estabelecidos;
+
+- c) Elementos de contacto, incluindo o seu endereço de correio eletrónico ou o seu sítio web, que permitam contactá-los rapidamente, de forma direta e eficaz;
+
+- d) O Estado-Membro com jurisdição sobre o fornecedor e as autoridades ou entidades reguladoras competentes, ou as entidades de supervisão competentes.
+
+2. Os Estados-Membros podem adotar medidas legislativas que disponham que, além das informações enumeradas no n.º 1, os fornecedores de serviços de comunicação social sob a sua jurisdição disponibilizem informações relativas à estrutura da sua propriedade, incluindo os beneficiários efetivos. Essas medidas respeitam os direitos fundamentais em causa, como a vida privada e familiar dos beneficiários efetivos. Essas medidas devem ser necessárias e proporcionadas, e devem ter um objetivo de interesse geral.
+
+### Artigo 6.º
+
+1. Sem prejuízo da sua obrigação de respeitar e proteger a dignidade humana, os Estados-Membros asseguram, através dos meios adequados, que os serviços de comunicação social audiovisual prestados por fornecedores de serviços de comunicação social sob a sua jurisdição não contenham:
+
+- a) Incitamentos à violência ou ao ódio contra grupos de pessoas ou membros desses grupos com base num dos motivos referidos no artigo 21.º da Carta;
+
+- b) Incitamentos públicos à prática de infrações terroristas conforme estabelecido no artigo 5.º da Diretiva (UE) 2017/541.
+
+2. As medidas tomadas para efeitos do presente artigo devem ser necessárias e proporcionadas, e devem respeitar os direitos e observar os princípios consagrados na Carta.
+
+▼M1
+
+### Artigo 6.º-A
+
+1. Os Estados-Membros tomam as medidas adequadas para assegurar que os serviços de comunicação social audiovisual prestados por fornecedores de serviços de comunicação social sob a sua jurisdição, que sejam suscetíveis de prejudicar o desenvolvimento físico, mental ou moral dos menores, só sejam disponibilizados de forma a que, normalmente, estes não os vejam nem os ouçam. Essas medidas podem incluir a escolha da hora de emissão, instrumentos de verificação da idade ou outras medidas técnicas. Essas medidas devem ser proporcionadas em relação aos danos potenciais dos programas.
+
+Os conteúdos mais nocivos, como cenas de violência gratuita e pornografia, devem ser sujeitos a medidas o mais rigorosas possível.
+
+2. Os dados pessoais de menores recolhidos ou gerados pelos fornecedores de serviços de comunicação social nos termos do n.º 1 não podem ser tratados para efeitos comerciais, como o marketing direto, a definição de perfis e a publicidade orientada em função do comportamento.
+
+3. Os Estados-Membros asseguram que os fornecedores de serviços de comunicação social prestem informações suficientes aos telespetadores sobre os conteúdos suscetíveis de prejudicar o desenvolvimento físico, mental ou moral dos menores. Para esse efeito, os fornecedores de serviços de comunicação social utilizam um sistema que descreva a natureza potencialmente nociva dos conteúdos dos serviços de comunicação social audiovisual.
+
+Para efeitos da execução do presente número, os Estados-Membros incentivam o recurso à corregulação, conforme previsto no artigo 4.º-A, n.º 1.
+
+4. A Comissão incentiva os fornecedores de serviços de comunicação social a procederem ao intercâmbio de melhores práticas sobre os códigos de conduta em matéria de corregulação. Os Estados-Membros e a Comissão podem fomentar a autorregulação, para efeitos do presente artigo, através dos códigos de conduta da União a que se refere o artigo 4.º-A, n.º 2.
+
+▼M1
+
+### Artigo 7.º
+
+1. Os Estados-Membros asseguram, sem demora indevida, que os serviços prestados pelos fornecedores de serviços de comunicação social sob a sua jurisdição se tornem contínua e progressivamente mais acessíveis às pessoas com deficiência, tomando para tal medidas proporcionadas.
+
+2. Os Estados-Membros asseguram que os fornecedores de serviços de comunicação social informem regularmente as autoridades ou entidades reguladoras nacionais sobre a execução das medidas a que se refere o n.º 1. Até 19 de dezembro de 2022 e, em seguida, de três em três anos, os Estados-Membros informam a Comissão sobre a execução do n.º 1.
+
+3. Os Estados-Membros incentivam os fornecedores de serviços de comunicação social a elaborarem planos de ação em matéria de acessibilidade destinados a tornar os seus serviços contínua e progressivamente mais acessíveis às pessoas com deficiência. Esses planos de ação são comunicados às autoridades ou entidades reguladoras nacionais.
+
+4. Cada Estado-Membro designa um ponto de contacto em linha único, facilmente acessível, inclusive para as pessoas com deficiência, e disponível ao público, para prestar informações e receber queixas relacionadas com questões de acessibilidade referidas no presente artigo.
+
+5. Os Estados-Membros asseguram que as informações de emergência, incluindo as comunicações e os anúncios públicos em situações de catástrofe natural, comunicadas ao público através de serviços de comunicação social audiovisual, sejam fornecidas de maneira acessível às pessoas com deficiência.
+
+▼M1
+
+### Artigo 7.º-A
+
+Os Estados-Membros podem tomar medidas para assegurar a proeminência adequada dos serviços de comunicação social audiovisual de interesse geral.
+
+### Artigo 7.º-B
+
+Os Estados-Membros tomam medidas adequadas e proporcionadas para assegurar que os serviços de comunicação social audiovisual prestados pelos fornecedores de serviços de comunicação social não sejam ocultados por sobreposições com fins comerciais nem alterados, sem o consentimento explícito dos fornecedores em causa.
+
+Para efeitos do presente artigo, os Estados-Membros determinam as especificidades regulamentares, incluindo as exceções, nomeadamente em relação à salvaguarda dos legítimos interesses dos utilizadores, tendo simultaneamente em conta os legítimos interesses dos fornecedores de serviços de comunicação social que prestaram inicialmente os serviços de comunicação social audiovisual.
+
+▼B
+
+### Artigo 8.º
+
+Os Estados-Membros devem garantir que os fornecedores de serviços de comunicação social sob a sua jurisdição não transmitam obras cinematográficas fora dos períodos acordados com os detentores de direitos.
+
+▼M1
+
+### Artigo 9.º
+
+1. Os Estados-Membros asseguram que as comunicações comerciais audiovisuais oferecidas por fornecedores de serviços de comunicação social sob a sua jurisdição cumpram os seguintes requisitos:
+
+- a) As comunicações comerciais audiovisuais devem ser facilmente reconhecíveis como tal; as comunicações comerciais audiovisuais ocultas são proibidas;
+
+- b) As comunicações comerciais audiovisuais não podem utilizar técnicas subliminares;
+
+- c) As comunicações comerciais audiovisuais não podem:
+
+  - i) comprometer o respeito pela dignidade humana,
+
+  - ii) conter ou promover discriminações com base no sexo, na raça ou origem étnica, na nacionalidade, na religião ou credo, na incapacidade, na idade ou na orientação sexual,
+
+  - iii) incentivar comportamentos prejudiciais à saúde ou à segurança,
+
+  - iv) incentivar comportamentos gravemente prejudiciais à proteção do ambiente;
+
+- d) São proibidas todas as formas de comunicação comercial audiovisual relativas a cigarros e a outros produtos do tabaco, bem como a cigarros eletrónicos e a recargas;
+
+- e) As comunicações comerciais audiovisuais relativas a bebidas alcoólicas não podem ter como público-alvo específico os menores, nem incentivar o consumo imoderado dessas bebidas;
+
+- f) São proibidas as comunicações comerciais audiovisuais relativas a medicamentos e a tratamentos médicos apenas disponíveis mediante receita médica no Estado-Membro sob cuja jurisdição se encontre o fornecedor de serviços de comunicação social;
+
+- g) As comunicações comerciais audiovisuais não podem causar prejuízos físicos, mentais ou morais aos menores; por conseguinte, não podem incitar diretamente os menores a comprarem ou a alugarem produtos ou serviços aproveitando-se da sua inexperiência ou da sua credulidade, não podem incentivá-los diretamente a persuadirem os pais ou outras pessoas a adquirirem produtos ou serviços publicitados, não podem aproveitar-se da confiança especial que os menores depositam nos pais, nos professores ou noutras pessoas, nem podem mostrar, sem motivo justificado, menores em situações perigosas.
+
+2. As comunicações comerciais audiovisuais relativas a bebidas alcoólicas em serviços de comunicação social audiovisual a pedido, com exceção de patrocínios e da colocação de produto, devem cumprir os critérios estabelecidos no artigo 22.º.
+
+3. Os Estados-Membros incentivam o recurso à corregulação e o fomento da autorregulação através de códigos de conduta tal como previsto no artigo 4.º-A, n.º 1, no que respeita a comunicações comerciais audiovisuais inadequadas relativas a bebidas alcoólicas. Esses códigos devem procurar reduzir eficazmente a exposição dos menores a comunicações comerciais audiovisuais respeitantes a bebidas alcoólicas.
+
+4. Os Estados-Membros incentivam o recurso à corregulação e o fomento da autorregulação através de códigos de conduta tal como previsto no artigo 4.º-A, n.º 1, no que respeita a comunicações comerciais audiovisuais inadequadas, que acompanhem programas infantis ou neles estejam incluídas, relativas a alimentos e a bebidas que contenham nutrientes e substâncias com efeitos nutricionais ou fisiológicos, em particular gorduras, ácidos gordos trans, sal ou sódio e açúcares, cuja presença em quantidades excessivas no regime alimentar não seja recomendada.
+
+Esses códigos devem procurar reduzir eficazmente a exposição dos menores a comunicações comerciais audiovisuais respeitantes a esses alimentos e a essas bebidas. Devem procurar igualmente assegurar que essas comunicações comerciais audiovisuais não salientem a qualidade positiva dos aspetos nutricionais desses alimentos e dessas bebidas.
+
+5. Os Estados-Membros e a Comissão podem fomentar a autorregulação, para efeitos do presente artigo, através dos códigos de conduta da União referidos no artigo 4.º-A, n.º 2.
+
+▼B
+
+### Artigo 10.º
+
+1. Os serviços ou programas de comunicação social audiovisual que sejam patrocinados devem respeitar os seguintes requisitos:
+
+- a) Os seus conteúdos e, no caso da radiodifusão televisiva, a sua programação não devem, em circunstância alguma, ser influenciados de um modo que afecte a responsabilidade e a independência editorial do fornecedor do serviço de comunicação social;
+
+- b) Não devem encorajar directamente a compra ou o aluguer de produtos ou serviços, nomeadamente fazendo referências promocionais específicas a esses produtos ou serviços;
+
+- c) Os telespectadores devem ser claramente informados da existência de um acordo de patrocínio. Os programas patrocinados devem ser claramente identificados como tal pelo nome, logótipo e/ou qualquer outro símbolo do patrocinador, como uma referência ao seu ou aos seus produtos ou serviços ou um sinal distintivo a eles referente, de um modo adequado ao programa, no início, durante e/ou no fim do mesmo.
+
+▼M1
+
+2. Os serviços ou programas de comunicação social audiovisual não podem ser patrocinados por empresas cuja principal atividade seja o fabrico ou a venda de cigarros e de outros produtos do tabaco, bem como cigarros eletrónicos e recargas.
+
+▼B
+
+3. O patrocínio de serviços de comunicação social audiovisual ou de programas audiovisuais por empresas cujas actividades incluam o fabrico ou a venda de medicamentos e tratamentos médicos pode promover o nome ou a imagem da empresa, mas não deve promover medicamentos ou tratamentos médicos específicos apenas disponíveis mediante receita médica no Estado-Membro a cuja jurisdição o fornecedor do serviço de comunicação social está sujeito.
+
+▼M1
+
+4. Os noticiários e os programas de atualidade informativa não podem ser patrocinados. Os Estados-Membros podem proibir o patrocínio de programas infantis. Os Estados-Membros podem optar por proibir a apresentação de logotipos de patrocinadores nos programas infantis, nos documentários e nos programas religiosos.
+
+### Artigo 11.º
+
+1. O disposto no presente artigo só é aplicável a programas produzidos após 19 de dezembro de 2009.
+
+2. A colocação de produto é autorizada em todos os serviços de comunicação social audiovisual, exceto em noticiários e em programas de atualidade informativa, em programas relativos a assuntos dos consumidores, em programas religiosos e em programas infantis.
+
+3. Os programas que contenham a colocação de produto cumprem os seguintes requisitos:
+
+- a) Os seus conteúdos e a sua organização numa grelha de programas, no caso da radiodifusão televisiva, ou num catálogo, no caso dos serviços de comunicação social audiovisual a pedido, não podem, em circunstância alguma, ser influenciados de um modo que afete a responsabilidade e a independência editorial do fornecedor de serviços de comunicação social;
+
+- b) Não podem incentivar diretamente a compra ou o aluguer de produtos ou de serviços, nomeadamente fazendo referências promocionais específicas a esses produtos ou serviços;
+
+- c) Não podem dar proeminência indevida ao produto em questão;
+
+- d) Os telespetadores devem ser claramente informados da existência da colocação de produto mediante uma identificação adequada no início e no fim do programa, e aquando do seu recomeço após uma interrupção publicitária, a fim de evitar confusões para o telespetador.
+
+Os Estados-Membros podem dispensar do cumprimento dos requisitos estabelecidos na alínea d), exceto no caso de programas produzidos ou encomendados pelo fornecedor de serviços de comunicação social ou por uma empresa sua associada.
+
+4. Os programas não podem conter, em circunstância alguma, colocação de produto relativa a:
+
+- a) Cigarros e outros produtos do tabaco, bem como cigarros eletrónicos e recargas, ou colocação de produto de empresas cuja principal atividade seja o fabrico ou a venda desses produtos;
+
+- b) Medicamentos ou tratamentos médicos específicos apenas disponíveis mediante receita médica no Estado-Membro a cuja jurisdição o fornecedor do serviço de comunicação social está sujeito.
+
+▼B
+
+## CAPÍTULO IV
+
+▼M1 —————
+
+▼M1
+
+### Artigo 13.º
+
+1. Os Estados-Membros asseguram que os fornecedores de serviços de comunicação social audiovisual a pedido sob a sua jurisdição garantam uma quota de pelo menos 30 % de obras europeias nos seus catálogos e lhes garantam uma posição proeminente.
+
+2. Caso os Estados-Membros exijam que os fornecedores de serviços de comunicação social sob a sua jurisdição contribuam financeiramente para a produção de obras europeias, nomeadamente através de investimentos diretos em conteúdos e de contribuições para fundos nacionais, podem igualmente exigir que os fornecedores de serviços de comunicação social que visem audiências situadas nos seus territórios, mas estejam estabelecidos noutro Estado-Membro, façam essas contribuições financeiras, que devem ser proporcionadas e não discriminatórias.
+
+3. No caso a que se refere o n.º 2, a contribuição financeira baseia-se apenas nos rendimentos auferidos nos Estados-Membros visados. Se o Estado-Membro em que o fornecedor de serviços de comunicação social está estabelecido impuser uma contribuição financeira, deve ter em conta as contribuições financeiras impostas pelos Estados-Membros visados. As contribuições financeiras devem cumprir o direito da União, nomeadamente as regras em matéria de auxílios estatais.
+
+4. Os Estados-Membros informam a Comissão até 19 de dezembro de 2021 e, em seguida, de dois em dois anos, da execução dos n.ºs 1 e 2.
+
+5. Com base nas informações fornecidas pelos Estados-Membros e num estudo independente, a Comissão informa o Parlamento Europeu e o Conselho da aplicação dos n.ºs 1 e 2, tendo em conta a evolução do mercado e das tecnologias e o objetivo da diversidade cultural.
+
+6. A obrigação imposta nos termos do n.º 1, bem como o requisito imposto aos fornecedores de serviços de comunicação social que visem audiências de outros Estados-Membros, estabelecido no n.º 2, não se aplicam aos fornecedores de serviços de comunicação social com um baixo volume de negócios ou com baixas audiências. Os Estados-Membros podem igualmente dispensar essas obrigações ou esses requisitos nos casos em que sejam impraticáveis ou injustificados em razão da natureza ou do tema dos serviços de comunicação social audiovisual.
+
+7. A Comissão emite orientações sobre o cálculo da percentagem de obras europeias a que se refere o n.º 1 e sobre a definição de baixas audiências e de baixo volume de negócios a que se refere o n.º 6, após consultar o Comité de Contacto.
+
+▼B
+
+## CAPÍTULO V — DISPOSIÇÕES RELATIVAS A DIREITOS EXCLUSIVOS E CURTOS RESUMOS NOTICIOSOS NA RADIODIFUSÃO TELEVISIVA
+
+### Artigo 14.º
+
+1. Cada Estado-Membro pode tomar medidas nos termos do direito da União para assegurar que os operadores televisivos sob a sua jurisdição não transmitam com carácter de exclusividade acontecimentos que esse Estado-Membro considere de grande importância para a sociedade, privando assim uma parte considerável do público do Estado-Membro em causa da possibilidade de acompanhar esses acontecimentos, em directo ou em diferido, na televisão de acesso livre. Se tomar essas medidas, o Estado-Membro deve estabelecer uma lista de acontecimentos, nacionais ou não nacionais, que considere de grande importância para a sociedade. Deve fazê-lo de forma clara e transparente, e atempadamente. Ao fazê-lo, o Estado-Membro em causa deve também determinar se esses acontecimentos devem ter uma cobertura ao vivo total ou parcial, ou, se tal for necessário ou adequado por razões objectivas de interesse público, uma cobertura diferida total ou parcial.
+
+2. Os Estados-Membros devem notificar imediatamente a Comissão das medidas tomadas ou a tomar ao abrigo do n.º 1. No prazo de três meses a contar da notificação, a Comissão deve verificar se essas medidas são compatíveis com o direito da União e comunicá-las aos outros Estados-Membros. A Comissão deve pedir o parecer do Comité de Contacto criado pelo artigo 29.º. Deve publicar de imediato as medidas adoptadas no Jornal Oficial da União Europeia e, pelo menos uma vez por ano, a lista consolidada das medidas tomadas pelos Estados-Membros.
+
+3. Os Estados-Membros devem assegurar, através dos meios adequados no âmbito da respectiva legislação, que ►C1 os operadores televisivos sob a sua jurisdição não exerçam direitos exclusivos adquiridos após 30 de Julho de 1997 de forma a que ◄ uma parte considerável do público noutro Estado-Membro fique privada da possibilidade de acompanhar acontecimentos considerados nesse outro Estado-Membro como estando nas condições referidas nos n.ºs 1 e 2, através de uma cobertura em directo total ou parcial ou, sempre que necessário ou adequado por razões objectivas de interesse público, de uma cobertura diferida total ou parcial na televisão de acesso livre, nos termos estabelecidos nesse outro Estado-Membro ao abrigo do n.º 1.
+
+### Artigo 15.º
+
+1. Os Estados-Membros devem assegurar que, para efeitos de curtos resumos noticiosos, qualquer operador televisivo estabelecido na União tenha acesso, em condições justas, razoáveis e não discriminatórias, a acontecimentos de grande interesse para o público transmitidos com carácter de exclusividade por um operador televisivo sob a sua jurisdição.
+
+2. Se outro operador televisivo estabelecido no mesmo Estado-Membro que o operador televisivo que solicita o acesso tiver adquirido direitos exclusivos de transmissão do acontecimento de grande interesse para o público, o acesso deve ser solicitado a esse operador.
+
+3. Os Estados-Membros devem assegurar que tal acesso seja garantido permitindo aos operadores televisivos escolherem livremente curtos extractos a partir do sinal do operador televisivo transmissor, devendo, no mínimo, identificar a fonte, a menos que tal não seja exequível.
+
+4. Em alternativa ao n.º 3, os Estados-Membros podem estabelecer um sistema equivalente que proporcione o acesso numa base justa, razoável e não discriminatória através de outros meios.
+
+5. Os curtos extractos devem ser utilizados exclusivamente em programas de informação geral e só podem ser utilizados em serviços de comunicação social audiovisual a pedido se o mesmo programa for oferecido em diferido pelo mesmo fornecedor de serviços de comunicação social.
+
+6. Sem prejuízo dos n.ºs 1 a 5, os Estados-Membros devem assegurar que, de acordo com as respectivas leis e práticas jurídicas, sejam definidas formas e condições relativas ao fornecimento de curtos extractos, designadamente no que se refere a quaisquer mecanismos compensatórios, à duração máxima dos curtos extractos e aos prazos de transmissão. Caso esteja prevista uma compensação, esta não deve exceder os custos adicionais que resultem directamente do fornecimento de acesso.
+
+## CAPÍTULO VI — PROMOÇÃO DA DISTRIBUIÇÃO E DA PRODUÇÃO DE PROGRAMAS TELEVISIVOS
+
+### Artigo 16.º
+
+1. Sempre que tal se revele exequível e através dos meios adequados, os Estados-Membros velarão por que os organismos de radiodifusão televisiva reservem a obras comunitárias uma percentagem maioritária do seu tempo de antena, excluindo o tempo consagrado aos noticiários, manifestações desportivas, jogos, publicidade, serviços de teletexto e televenda. Essa percentagem, tendo em conta as responsabilidades do organismo de radiodifusão televisiva para com o seu público em matéria de informação, educação, cultura e diversão, deve ser obtida progressivamente com base em critérios adequados.
+
+2. Sempre que não for possível atingir a percentagem definida no n.º 1, o valor a considerar não deve ser inferior à percentagem média registada em 1988 no Estado-Membro em causa.
+
+Todavia, no que se refere à Grécia e a Portugal, o ano de 1988 é substituído pelo de 1990.
+
+3. Os Estados-Membros enviarão à Comissão, de dois em dois anos, com início a partir de 3 de Outubro de 1991, um relatório relativo à aplicação do presente artigo e do artigo 17.º.
+
+Esse relatório compreenderá nomeadamente um levantamento estatístico da realização da percentagem referida no presente artigo e no artigo 17.º relativamente a cada um dos programas de televisão do âmbito da competência do Estado-Membro em causa, as razões pelas quais não tenha sido possível em cada um dos casos atingir essa percentagem, bem como as medidas adoptadas ou previstas para a atingir.
+
+A Comissão levará esses relatórios ao conhecimento dos outros Estados-Membros e do Parlamento Europeu, acompanhados eventualmente de um parecer. A Comissão assegurará a aplicação do presente artigo e do artigo 17.º de acordo com as disposições do Tratado sobre o Funcionamento da União Europeia. No seu parecer, a Comissão pode atender nomeadamente ao progresso realizado em relação aos anos anteriores, à percentagem de obras de primeira difusão na programação, às circunstâncias particulares dos novos organismos de radiodifusão televisiva e da situação específica dos países de fraca capacidade de produção audiovisual ou de área linguística restrita.
+
+### Artigo 17.º
+
+Sempre que tal se revele exequível e através de meios adequados, os Estados-Membros velarão por que os organismos de radiodifusão televisiva reservem pelo menos 10 % do seu tempo de antena, com exclusão do tempo consagrado aos noticiários, manifestações desportivas, jogos, publicidade, serviços de teletexto e televenda, ou em alternativa, à escolha do Estado-Membro, pelo menos 10 % do seu orçamento de programação a obras europeias provenientes de produtores independentes dos organismos de radiodifusão televisiva. Essa percentagem, tendo em conta as responsabilidades dos organismos de radiodifusão televisiva para com o seu público em matéria de informação, educação, cultura e diversão, deve ser obtida progressivamente com base em critérios apropriados. Essa percentagem deve ser atingida reservando-se uma percentagem adequada a obras recentes, isto é, a obras difundidas num lapso de tempo de cinco anos após a sua produção.
+
+### Artigo 18.º
+
+O presente capítulo não se aplica às emissões de televisão de âmbito local que não façam parte de uma rede nacional.
+
+## CAPÍTULO VII — PUBLICIDADE TELEVISIVA E TELEVENDA
+
+### Artigo 19.º
+
+1. A publicidade televisiva e a televenda devem ser facilmente reconhecíveis e distinguir-se do conteúdo editorial. Sem prejuízo da utilização de novas técnicas publicitárias, a publicidade televisiva e a televenda devem ser claramente diferenciadas da restante programação por meios ópticos e/ou acústicos e/ou espaciais.
+
+▼M1
+
+2. Os spots isolados de publicidade televisiva e de televenda são admissíveis em acontecimentos desportivos. Os spots isolados de publicidade televisiva e de televenda, salvo se forem apresentados em transmissões de acontecimentos desportivos, devem constituir exceção.
+
+▼B
+
+### Artigo 20.º
+
+1. Os Estados-Membros devem assegurar que a inserção de publicidade televisiva ou de televenda nos programas não prejudique a integridade dos mesmos, tendo em conta as interrupções naturais e a duração e natureza do programa em causa, nem os direitos dos detentores de direitos.
+
+▼M1
+
+2. A transmissão de filmes realizados para a televisão (excluindo as séries, os folhetins e os documentários), obras cinematográficas e noticiários pode ser interrompida por publicidade televisiva, por televenda, ou por ambas, uma vez por cada período de programação de, pelo menos, 30 minutos. A transmissão de programas infantis pode ser interrompida por publicidade televisiva uma vez em cada período de programação de, pelo menos, 30 minutos, desde que a duração prevista para o programa seja superior a 30 minutos. A transmissão de televendas é proibida durante os programas infantis. Não pode ser inserida publicidade televisiva nem televenda durante a difusão de serviços religiosos.
+
+▼B
+
+### Artigo 21.º
+
+É proibida a televenda de medicamentos sujeitos a autorização de colocação no mercado na acepção da Directiva 2001/83/CE, assim como a televenda de tratamentos médicos.
+
+### Artigo 22.º
+
+A publicidade televisiva e a televenda de bebidas alcoólicas devem obedecer aos seguintes critérios:
+
+- a) Não pode dirigir-se especificamente aos menores e, em particular, apresentar menores a consumir tais bebidas;
+
+- b) Não deve associar o consumo de álcool a uma melhoria do rendimento físico ou à condução de veículos automóveis;
+
+- c) Não deve criar a impressão de que o consumo de álcool favorece o sucesso social ou sexual;
+
+- d) Não deve sugerir que as bebidas alcoólicas são dotadas de propriedades terapêuticas ou têm efeito estimulante, sedativo ou anticonflitual;
+
+- e) Não deve encorajar o consumo imoderado de bebidas alcoólicas ou dar uma imagem negativa da abstinência ou da sobriedade;
+
+- f) Não deve sublinhar como qualidade positiva de uma bebida o seu elevado teor de álcool.
+
+▼M1
+
+### Artigo 23.º
+
+1. A percentagem de tempo consagrado a spots de publicidade televisiva e a spots de televenda no período compreendido entre as 6h00 e as 18h00 não pode exceder 20 % desse período. A percentagem de tempo consagrado a spots de publicidade televisiva e a spots de televenda no período compreendido entre as 18h00 e as 24h00 não pode exceder 20 % desse período.
+
+2. O n.º 1 não se aplica a:
+
+- a) Mensagens do operador televisivo relacionadas com os seus próprios programas e com produtos acessórios deles diretamente derivados, ou com programas e serviços de comunicação social audiovisual de outras entidades pertencentes ao mesmo grupo de radiodifusão;
+
+- b) Anúncios de patrocínio;
+
+- c) Colocação de produto;
+
+- d) Quadros neutros entre o conteúdo editorial e os spots de publicidade televisiva ou de televenda, e entre os vários spots.
+
+▼B
+
+### Artigo 24.º
+
+Os blocos de televenda devem ser claramente identificados como tal por meios visuais e acústicos e devem ter uma duração ininterrupta de, pelo menos, 15 minutos.
+
+### Artigo 25.º
+
+As disposições da presente directiva aplicam-se, com as necessárias adaptações, aos canais de televisão exclusivamente dedicados à publicidade e à televenda, assim como aos canais de televisão exclusivamente dedicados à autopromoção.
+
+O capítulo VI e os artigos 20.º e 23.º não se aplicam a esses canais.
+
+### Artigo 26.º
+
+Sem prejuízo do artigo 4.º, os Estados-Membros podem estabelecer, no respeito do direito da União, condições diferentes das estabelecidas no n.º 2 do artigo 20.º e no artigo 23.º para as emissões televisivas exclusivamente destinadas ao território nacional que não possam ser captadas directa ou indirectamente pelo público num ou em vários outros Estados-Membros.
+
+▼M1 —————
+
+▼B
+
+## CAPÍTULO IX — DIREITO DE RESPOSTA NA RADIODIFUSÃO TELEVISIVA
+
+### Artigo 28.º
+
+1. Sem prejuízo de outras disposições de direito civil, administrativas ou penais adoptadas pelos Estados-Membros, qualquer pessoa singular ou colectiva, independentemente da sua nacionalidade, cujos legítimos direitos, nomeadamente a sua reputação e bom nome, tenham sido lesados na sequência de uma alegação incorrecta feita durante uma emissão televisiva, deve beneficiar do direito de resposta ou de medidas equivalentes. Os Estados-Membros assegurarão que o exercício efectivo do direito de resposta ou de medidas equivalentes não seja dificultado pela imposição de termos ou condições excessivos. A resposta será transmitida num prazo razoável, após justificação do pedido, em momento e forma adequados à emissão a que o pedido se refere.
+
+2. O direito de resposta ou as medidas equivalentes podem ser exercidas em relação a todos os organismos de radiodifusão televisiva sob a jurisdição de um Estado-Membro.
+
+3. Os Estados-Membros adoptarão as disposições necessárias para estabelecer o direito de resposta ou as medidas equivalentes e determinar o processo a seguir para o respectivo exercício. Os Estados-Membros assegurarão nomeadamente que o prazo previsto para o exercício do direito de resposta ou das medidas equivalentes seja suficiente e que as regras desse exercício permitam que o direito de resposta ou as medidas equivalentes possam ser exercidos de forma apropriada por pessoas singulares ou colectivas residentes ou estabelecidas noutros Estados-Membros.
+
+4. O pedido de exercício do direito de resposta ou das medidas equivalentes pode ser rejeitado se a resposta não se justificar em face das condições enunciadas no n.º 1, se implicar um acto punível, se a sua difusão implicar a responsabilidade civil do organismo de radiodifusão televisiva ou se ofender a moral pública e for contrária aos bons costumes.
+
+5. Serão previstos processos que permitam o recurso aos tribunais em caso de litígios relativos ao exercício do direito de resposta ou das medidas equivalentes.
+
+▼M1
+
+## CAPÍTULO IX-A — DISPOSIÇÕES APLICÁVEIS AOS SERVIÇOS DE PLATAFORMAS DE PARTILHA DE VÍDEOS
+
+### Artigo 28.º-A
+
+1. Para efeitos da presente diretiva, os fornecedores de plataformas de partilha de vídeos estabelecidos no território de um Estado-Membro na aceção do artigo 3.º, n.º 1, da Diretiva 2000/31/CE ficam sob a jurisdição desse Estado-Membro.
+
+2. Os fornecedores de plataformas de partilha de vídeos não estabelecidos no território de um Estado-Membro nos termos do n.º 1 são considerados como estabelecidos no território de um Estado-Membro para efeitos da presente diretiva se:
+
+- a) Tiverem uma empresa-mãe ou uma empresa filial estabelecida no território desse Estado-Membro; ou
+
+- b) Fizerem parte de um grupo que inclua outra empresa estabelecida no território desse Estado-Membro.
+
+Para efeitos do presente artigo, entende-se por:
+
+- a) «Empresa-mãe», uma empresa que controla uma ou mais empresas filiais;
+
+- b) «Empresa filial», uma empresa controlada por uma empresa-mãe, incluindo empresas filiais da empresa-mãe de que essa empresa depende em última instância;
+
+- c) «Grupo», uma empresa-mãe, todas as suas empresas filiais e todas as outras empresas que com elas têm vínculos organizativos económicos e jurídicos.
+
+3. Para efeitos da aplicação do n.º 2, se a empresa-mãe, a empresa filial ou as outras empresas do grupo estiverem cada uma delas estabelecidas em Estados-Membros diferentes, considera-se que o fornecedor de plataformas de partilha de vídeos está estabelecido no Estado-Membro onde está estabelecida a empresa-mãe ou, se não existir um tal estabelecimento, no Estado-Membro onde está estabelecida a empresa filial ou, se não existir um tal estabelecimento, no Estado-Membro onde está estabelecida a outra empresa do grupo.
+
+4. Para efeitos da aplicação do n.º 3, se existirem várias empresas filiais e cada uma delas estiver estabelecida num Estado-Membro diferente, considera-se que o fornecedor de plataformas de partilha de vídeos está estabelecido no Estado-Membro onde uma das empresas filiais iniciou a sua atividade, desde que mantenha uma ligação efetiva e estável com a economia desse Estado-Membro.
+
+Se existirem várias outras empresas que façam parte do grupo e cada uma delas estiver estabelecida num Estado-Membro diferente, considera-se que o fornecedor de plataformas de partilha de vídeos está estabelecido no Estado-Membro onde uma dessas empresas iniciou a sua atividade, desde que mantenha uma ligação efetiva e estável com a economia desse Estado-Membro.
+
+5. Para efeitos da presente diretiva, o artigo 3.º e os artigos 12.º a 15.º da Diretiva 2000/31/CE são aplicáveis aos fornecedores de plataformas de partilha de vídeos considerados como estabelecidos num Estado-Membro nos termos do n.º 2 do presente artigo.
+
+6. Os Estados-Membros elaboram uma lista dos fornecedores de plataformas de partilha de vídeos estabelecidos ou considerados como estabelecidos no seu território, mantêm-na atualizada e indicam em qual dos critérios estabelecidos nos n.ºs 1 a 4 se baseia a sua jurisdição. Os Estados-Membros transmitem essa lista, bem como as suas atualizações, à Comissão.
+
+A Comissão assegura que essas listas sejam disponibilizadas numa base de dados centralizada. Em caso de incoerências entre as listas, a Comissão entra em contacto com os Estados-Membros em causa, a fim de encontrar uma solução. A Comissão assegura o acesso das autoridades ou entidades reguladoras nacionais a essa base de dados. A Comissão disponibiliza as informações constantes da base de dados ao público.
+
+7. Sempre que, ao aplicarem o presente artigo, os Estados-Membros em causa não estiverem de acordo sobre qual o Estado-Membro competente, apresentam a questão à Comissão sem demora indevida. A Comissão pode solicitar que o ERGA dê parecer sobre a questão nos termos do artigo 30.º-B, n.º 3, alínea d). O ERGA dá esse parecer no prazo de 15 dias úteis a contar da apresentação do pedido da Comissão. A Comissão mantém o Comité de Contacto devidamente informado.
+
+### Artigo 28.º-B
+
+1. Sem prejuízo do disposto nos artigos 12.º a 15.º da Diretiva 2000/31/CE, os Estados-Membros asseguram que os fornecedores de plataformas de partilha de vídeos sob a sua jurisdição tomem medidas adequadas para proteger:
+
+- a) Os menores contra programas, vídeos gerados pelos utilizadores e comunicações comerciais audiovisuais suscetíveis de prejudicar o seu desenvolvimento físico, mental ou moral, nos termos do artigo 6.º-A, n.º 1;
+
+- b) O público em geral contra programas, vídeos gerados pelos utilizadores e comunicações comerciais audiovisuais que contenham incitamentos à violência ou ao ódio contra grupos de pessoas ou membros desses grupos com base num dos motivos referidos no artigo 21.º da Carta;
+
+- c) O público em geral contra programas, vídeos gerados pelos utilizadores e comunicações comerciais audiovisuais com conteúdos cuja divulgação constitua uma atividade que seja uma infração penal nos termos do direito da União, a saber, o incitamento público à prática de infrações terroristas, tal como disposto no artigo 5.º da Diretiva (UE) 2017/541, as infrações relativas à pornografia infantil, tal como disposto no artigo 5.º, n.º 4, da Diretiva 2011/93/UE do Parlamento Europeu e do Conselho ([^1]), e as infrações de caráter racista e xenófobo, tal como disposto no artigo 1.º da Decisão-Quadro 2008/913/JAI.
+
+2. Os Estados-Membros asseguram que os fornecedores de plataformas de partilha de vídeos sob a sua jurisdição cumpram os requisitos estabelecidos no artigo 9.º, n.º 1, no que respeita às comunicações comerciais audiovisuais por si comercializadas, vendidas ou organizadas.
+
+Os Estados-Membros asseguram que os fornecedores de plataformas de partilha de vídeos sob a sua jurisdição tomem medidas adequadas para cumprir os requisitos estabelecidos no artigo 9.º, n.º 1, no que respeita às comunicações comerciais audiovisuais que não sejam por si promovidas, vendidas ou organizadas, tendo em conta o controlo limitado que essas plataformas de partilha de vídeos exercem sobre as referidas comunicações comerciais audiovisuais.
+
+Os Estados-Membros asseguram que os fornecedores de plataformas de partilha de vídeos informem claramente os utilizadores caso os programas ou os vídeos gerados pelos utilizadores contenham comunicações comerciais audiovisuais, sempre que essas comunicações estiverem declaradas nos termos do n.º 3, terceiro parágrafo, alínea c), ou o fornecedor tiver conhecimento desse facto.
+
+Os Estados-Membros incentivam o recurso à corregulação e o fomento da autorregulação através de códigos de conduta tal como previsto no artigo 4.º-A, n.º 1, a fim de reduzir efetivamente a exposição de crianças a comunicações comerciais audiovisuais relativas a alimentos e a bebidas que contenham nutrientes e substâncias com efeitos nutricionais ou fisiológicos, em particular gorduras, ácidos gordos trans, sal ou sódio e açúcares, cuja presença em quantidades excessivas no regime alimentar não seja recomendada. Esses códigos devem procurar assegurar que as comunicações comerciais audiovisuais não salientem a qualidade positiva dos aspetos nutricionais desses alimentos e dessas bebidas.
+
+3. Para efeitos dos n.ºs 1 e 2, a adequação das medidas é determinada tendo em conta a natureza do conteúdo em causa, os danos que pode causar, as características da categoria de pessoas a proteger e os direitos e os legítimos interesses em questão, incluindo os dos fornecedores de plataformas de partilha de vídeos e dos utilizadores que criaram ou carregaram o conteúdo, bem como o interesse público geral.
+
+Os Estados-Membros asseguram que todos os fornecedores de plataformas de partilha de vídeos sob a sua jurisdição apliquem as referidas medidas. Essas medidas devem ser praticáveis e proporcionadas, tendo em conta a dimensão do serviço de plataforma de partilha de vídeos e a natureza do serviço prestado. Essas medidas não devem dar origem a medidas de controlo ex ante nem a filtragem durante o carregamento de conteúdos que não cumpram o disposto no artigo 15.º da Diretiva 2000/31/CE. Para efeitos de proteção dos menores, disposta no n.º 1, alínea a), do presente artigo, os conteúdos mais nocivos devem ser sujeitos a medidas de controlo do acesso o mais rigorosas possível.
+
+Essas medidas consistem, consoante o caso, em:
+
+- a) Incluir e aplicar, nos termos e condições dos serviços de plataformas de partilha de vídeos, os requisitos referidos no n.º 1;
+
+- b) Incluir e aplicar, nos termos e condições dos serviços de plataformas de partilha de vídeos, os requisitos estabelecidos no artigo 9.º, n.º 1, em relação às comunicações comerciais audiovisuais que não sejam comercializadas, vendidas ou organizadas por fornecedores de plataformas de partilha de vídeos;
+
+- c) Disponibilizar uma funcionalidade que permita aos utilizadores que carregam vídeos gerados pelos utilizadores declarar se esses vídeos contêm comunicações comerciais audiovisuais, na medida em que possam sabê-lo ou se possa esperar razoavelmente que possam sabê-lo;
+
+- d) Criar e utilizar mecanismos transparentes e de fácil utilização que permitam aos utilizadores das plataformas de partilha de vídeos comunicar ou sinalizar ao fornecedor da plataforma de partilha de vídeos em causa os conteúdos a que se refere o n.º 1 disponíveis na sua plataforma;
+
+- e) Criar e utilizar sistemas através dos quais os fornecedores de plataformas de partilha de vídeos expliquem aos utilizadores das plataformas de partilha de vídeos o seguimento dado à comunicação ou à sinalização a que se refere a alínea d);
+
+- f) Criar e utilizar sistemas de verificação da idade dos utilizadores das plataformas de partilha de vídeos no que diz respeito aos conteúdos suscetíveis de prejudicar o desenvolvimento físico, mental ou moral dos menores;
+
+- g) Criar e utilizar sistemas de fácil utilização que permitam aos utilizadores das plataformas de partilha de vídeos classificar os conteúdos a que se refere o n.º 1;
+
+- h) Disponibilizar sistemas de controlo parental que estejam sob o controlo dos utilizadores finais no que diz respeito aos conteúdos suscetíveis de prejudicar o desenvolvimento físico, mental ou moral dos menores;
+
+- i) Criar e utilizar procedimentos transparentes, de fácil utilização e eficazes para o tratamento e a resolução das reclamações apresentadas pelos utilizadores ao fornecedor da plataforma de partilha de vídeos no que respeita à execução das medidas referidas nas alíneas d) a h);
+
+- j) Prever medidas e instrumentos eficazes em matéria de literacia mediática e sensibilizar os utilizadores para essas medidas e instrumentos.
+
+Os dados pessoais de menores recolhidos ou gerados pelos fornecedores de plataformas de partilha de vídeos nos termos do terceiro parágrafo, alíneas f) e h), não podem ser tratados para efeitos comerciais, como o marketing direto, a definição de perfis ou a publicidade orientada em função do comportamento.
+
+4. Para efeitos da execução das medidas a que se referem os n.ºs 1 e 3 do presente artigo, os Estados-Membros devem incentivar o uso da corregulação, tal como previsto no artigo 4.º-A, n.º 1.
+
+5. Os Estados-Membros criam os mecanismos necessários para avaliar a adequação das medidas a que se refere o n.º 3, tomadas pelos fornecedores de plataformas de partilha de vídeos. Os Estados-Membros confiam a avaliação dessas medidas às autoridades ou entidades reguladoras nacionais.
+
+6. Os Estados-Membros podem impor aos fornecedores de plataformas de partilha de vídeos medidas mais pormenorizadas ou mais rigorosas do que as referidas no n.º 3 do presente artigo. Quando adotarem tais medidas, os Estados-Membros devem cumprir os requisitos estabelecidos no direito aplicável da União, tais como os previstos nos artigos 12.º a 15.º da Diretiva 2000/31/CE ou no artigo 25.º da Diretiva 2011/93/UE.
+
+7. Os Estados-Membros asseguram a disponibilidade de mecanismos extrajudiciais de reclamação e de recurso para a resolução de litígios entre os utilizadores e os fornecedores de plataformas de partilha de vídeos relativos à aplicação dos n.ºs 1 e 3. Estes mecanismos devem permitir resolver os litígios de forma imparcial, e não podem privar os utilizadores da proteção jurídica prevista no direito nacional.
+
+8. Os Estados-Membros asseguram que os utilizadores possam invocar em tribunal os seus direitos em relação a um fornecedor de plataformas de partilha de vídeos nos termos dos n.ºs 1 e 3.
+
+9. A Comissão incentiva os fornecedores de plataformas de partilha de vídeos a procederem ao intercâmbio das melhores práticas sobre os códigos de conduta em matéria de corregulação a que se refere o n.º 4.
+
+10. Os Estados-Membros e a Comissão podem fomentar a autorregulação através dos códigos de conduta da União a que se refere o artigo 4.º-A, n.º 2.
+
+▼B
+
+## CAPÍTULO X — COMITÉ DE CONTACTO
+
+### Artigo 29.º
+
+1. Será instituído um comité de contacto, sob a égide da Comissão. Esse comité será composto por representantes das autoridades dos Estados-Membros e presidido por um representante da Comissão, reunindo-se por iniciativa deste ou a pedido de uma delegação de um Estado-Membro.
+
+2. As funções do comité de contacto serão:
+
+- a) Facilitar a aplicação efectiva da presente directiva, através de consulta regular sobre quaisquer problemas que surjam a respeito dessa aplicação, e particularmente da do artigo 2.º, bem como sobre quaisquer outras matérias a propósito das quais seja considerada útil a troca de pontos de vista;
+
+- b) Emitir parecer, por iniciativa própria ou a pedido da Comissão, sobre a aplicação, pelos Estados-Membros, da presente directiva;
+
+- c) Constituir-se num fórum para troca de opiniões sobre os assuntos a tratar nos relatórios a apresentar pelos Estados-Membros, nos termos do n.º 3 do artigo 16.º, e da sua metodologia;
+
+- d) Analisar o resultado das consultas regulares entre a Comissão e os representantes das associações de radiodifusores televisivos, os produtores, consumidores, fabricantes, prestadores de serviços, sindicatos e a comunidade artística;
+
+- e) Facilitar o intercâmbio de informações entre os Estados-Membros e a Comissão sobre a situação e a evolução da regulação no domínio dos serviços de comunicação social audiovisual, tendo em conta a política audiovisual da União e os progressos realizados no domínio técnico;
+
+- f) Analisar as evoluções verificadas no sector relativamente às quais se afigure útil uma troca de pontos de vista.
+
+## CAPÍTULO XI
+
+▼M1
+
+**AUTORIDADES E ENTIDADES REGULADORAS DOS ESTADOS-MEMBROS**
+
+### Artigo 30.º
+
+1. Cada Estado-Membro designa uma ou mais autoridades ou entidades reguladoras nacionais, ou ambas. Os Estados-Membros asseguram que essas autoridades ou entidades sejam juridicamente distintas do governo e funcionalmente independentes dos respetivos governos e de outras entidades públicas ou privadas. Tal não prejudica a possibilidade de os Estados-Membros criarem reguladores responsáveis pela supervisão de diferentes setores.
+
+2. Os Estados-Membros asseguram que as autoridades ou entidades reguladoras nacionais exerçam os seus poderes de forma imparcial e transparente, em conformidade com os objetivos da presente diretiva, nomeadamente em termos de pluralismo dos meios de comunicação social, diversidade cultural e linguística, defesa dos consumidores, acessibilidade, não discriminação, bom funcionamento do mercado interno e promoção de uma concorrência leal.
+
+As autoridades ou entidades reguladoras nacionais não podem procurar obter nem aceitar instruções de outras entidades relativamente ao exercício das atribuições que lhes são cometidas pelo direito nacional que transpõe o direito da União. Tal não impede que sejam sujeitas a supervisão nos termos do direito constitucional nacional.
+
+3. Os Estados-Membros asseguram que as competências e os poderes das autoridades ou entidades reguladoras nacionais, bem como as formas de responsabilização das mesmas, sejam claramente definidos no direito.
+
+4. Os Estados-Membros asseguram que as autoridades ou entidades reguladoras nacionais disponham de recursos financeiros e humanos e de poderes de execução adequados para desempenhar as suas funções de forma eficaz e para contribuir para o trabalho do ERGA. Os Estados-Membros asseguram que as autoridades ou entidades reguladoras nacionais disponham de orçamentos anuais próprios, que são tornados públicos.
+
+5. Os Estados-Membros estabelecem no seu direito nacional as condições e os procedimentos de nomeação e demissão dos dirigentes das autoridades e entidades reguladoras nacionais, ou dos membros do órgão colegial que exercem essas funções, incluindo a duração dos seus mandatos. Os procedimentos devem ser transparentes e não discriminatórios, e devem garantir o necessário grau de independência. O dirigente de uma autoridade ou entidade reguladora nacional, ou os membros do órgão colegial que exercem essas funções no âmbito de uma autoridade ou entidade reguladora nacional, podem ser demitidos se deixarem de satisfizer as condições exigidas para o exercício das suas funções, previamente estabelecidas a nível nacional. As decisões de demissão devem ser devidamente justificadas, sujeitas a notificação prévia e disponibilizadas ao público.
+
+6. Os Estados-Membros asseguram a existência de mecanismos de recurso eficazes a nível nacional. A instância de recurso, que pode ser um tribunal, deve ser independente das partes intervenientes no recurso.
+
+Enquanto se aguarda o resultado de um recurso, as decisões das autoridades ou entidades reguladoras nacionais permanecem em vigor, salvo se forem impostas medidas provisórias nos termos do direito nacional.
+
+▼M1
+
+### Artigo 30.º-A
+
+1. Os Estados-Membros asseguram que as autoridades ou entidades reguladoras nacionais tomem medidas adequadas para trocarem mutuamente, e prestarem à Comissão, as informações necessárias para a aplicação da presente diretiva, em particular dos artigos 2.º, 3.º e 4.º.
+
+2. No contexto do intercâmbio de informações previsto no n.º 1, quando as autoridades ou entidades reguladoras nacionais receberem informações de um fornecedor de serviços de comunicação social sob a sua jurisdição de que prestará um serviço total ou principalmente dirigido ao público de outro Estado-Membro, a autoridade ou entidade reguladora nacional no Estado-Membro competente informa a autoridade ou entidade reguladora nacional do Estado-Membro visado.
+
+3. Se a autoridade ou entidade reguladora de um Estado-Membro cujo território seja visado por um fornecedor de serviços de comunicação social sob a jurisdição de outro Estado-Membro enviar um pedido relativo às atividades desse fornecedor à autoridade ou entidade reguladora do Estado-Membro com jurisdição sobre ele, esta última autoridade ou entidade reguladora faz o possível por dar resposta ao pedido no prazo de dois meses, sem prejuízo de prazos mais rigorosos aplicáveis nos termos da presente diretiva. Sempre que solicitada, a autoridade ou entidade reguladora do Estado-Membro visado presta à autoridade eu entidade reguladora do Estado-Membro competente todas as informações suscetíveis de o ajudar a dar resposta ao pedido.
+
+▼M2 —————
+
+▼B
+
+## CAPÍTULO XII — DISPOSIÇÕES FINAIS
+
+### Artigo 31.º
+
+Nos domínios que não são por ela coordenados, a presente directiva não afecta os direitos e obrigações dos Estados-Membros decorrentes de convenções existentes em matéria de telecomunicações e de radiodifusão televisiva.
+
+### Artigo 32.º
+
+Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva.
+
+▼M1
+
+### Artigo 33.º
+
+A Comissão acompanha a aplicação da presente diretiva pelos Estados-Membros.
+
+Até 19 de dezembro de 2022 e, em seguida, de três em três anos, a Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório sobre a aplicação da presente diretiva.
+
+Até 19 de dezembro de 2026, a Comissão apresenta ao Parlamento Europeu e ao Conselho uma avaliação ex post do impacto da presente diretiva e do seu valor acrescentado, acompanhada, se for caso disso, de propostas para a sua revisão.
+
+A Comissão mantém o Comité de Contacto e o ERGA devidamente informados sobre os trabalhos e as atividades de cada uma das duas instâncias.
+
+A Comissão assegura que as informações recebidas dos Estados-Membros sobre as medidas que estes tenham tomado nos domínios coordenados pela presente diretiva sejam comunicadas ao Comité de Contacto e ao ERGA.
+
+▼M1
+
+### Artigo 33.º-A
+
+1. Os Estados-Membros promovem e tomam medidas para desenvolver as competências de literacia mediática.
+
+2. Até 19 de dezembro de 2022 e, em seguida, de três em três anos, os Estados-Membros apresentam relatórios à Comissão sobre a execução do disposto no n.º 1.
+
+3. Após consultar o Comité de Contacto, a Comissão emite orientações relativas ao âmbito desses relatórios.
+
+▼B
+
+### Artigo 34.º
+
+A Directiva 89/552/CEE, com as alterações que lhe foram introduzidas pelas directivas referidas na parte A do anexo I, é revogada, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional indicados na parte B do anexo I.
+
+As referências à directiva revogada devem entender-se como sendo feitas para a presente directiva, e devem ser lidas de acordo com o quadro de correspondência constante do anexo II.
+
+### Artigo 35.º
+
+A presente directiva entrará em vigor no vigésimo dia a seguir à sua publicação no Jornal Oficial da União Europeia.
+
+### Artigo 36.º
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+## ANEXO I
+
+#### PARTE A
+
+#### Directiva revogada com a lista das sucessivas alterações
+
+#### (referidas no artigo 34.º)
+
+| Directiva 89/552/CEE do Conselho <br> (JO L 298 de 17.10.1989, p. 23). |  |
+|---|---|
+| Directiva 97/36/CE do Parlamento Europeu e do Conselho <br> (JO L 202 de 30.7.1997, p. 60). |  |
+| Directiva 2007/65/CE do Parlamento Europeu e do Conselho <br> (JO L 332 de 18.12.2007, p. 27). | Apenas o artigo 1.º |
+
+#### PARTE B
+
+#### Lista dos prazos de transposição para o direito nacional
+
+#### (referida no Artigo 34.º)
+
+| Directiva | Prazo de transposição |
+|---|---|
+| 89/552/CEE | 3 de Outubro de 1991 |
+| 97/36/CE | 31 de Dezembro de 1998 |
+| 2007/65/CE | 19 de Dezembro de 2009 |
+
+## ANEXO II
+
+**QUADRO DE CORRESPONDÊNCIA**
+
+| Directiva 89/552/CEE | Presente directiva |
+|---|---|
+| Artigo 1.º, frase introdutória | Artigo 1.º, n.º 1, frase introdutória |
+| Artigo 1.º, alínea a), frase introdutória | Artigo 1.º, n.º 1, alínea a), frase introdutória |
+| Artigo 1.º, alínea a), primeiro travessão | Artigo 1.º, n.º 1, alínea a), subalínea i) |
+| Artigo 1.º, alínea a), segundo travessão | Artigo 1.º, n.º 1, alínea a), subalínea ii) |
+| Artigo 1.º, alíneas b) a m) | Artigo 1.º, n.º 1, alíneas b) a m) |
+| Artigo 1.º, alínea n), subalínea i), frase introdutória | Artigo 1.º, n.º 1, alínea n), frase introdutória |
+| Artigo 1.º, alínea n), subalínea i), primeiro travessão | Artigo 1.º, n.º 1, alínea n), subalínea i) |
+| Artigo 1.º, alínea n), subalínea i), segundo travessão | Artigo 1.º, n.º 1, alínea n), subalínea ii) |
+| Artigo 1.º, alínea n), subalínea i), terceiro travessão | Artigo 1.º, n.º 1, alínea n), subalínea iii) |
+| Artigo 1.º, alínea n), subalínea i), quarto travessão | Artigo 1.º, n.º 2 |
+| Artigo 1.º, alínea n), subalínea ii), frase introdutória | Artigo 1.º, n.º 3, frase introdutória |
+| Artigo 1.º, alínea n), subalínea ii), primeiro travessão | Artigo 1.º, n.º 3, subalínea i) |
+| Artigo 1.º, alínea n), subalínea ii), segundo travessão | Artigo 1.º, n.º 3, subalínea ii) |
+| Artigo 1.º, alínea n), subalínea ii), terceiro travessão | Artigo 1.º, n.º 3, subalínea iii) |
+| Artigo 1.º, alínea n), subalínea iii) | Artigo 1.º, n.º 4 |
+| Artigo 2.º | Artigo 2.º |
+| Artigo 2.º-A, n.ºs 1, 2 e 3 | Artigo 3.º, n.ºs 1, 2 e 3 |
+| Artigo 2.º-A, n.º 4, frase introdutória | Artigo 3.º, n.º 4, frase introdutória |
+| Artigo 2.º- A, n.º 4, alínea a) | Artigo 3.º, n.º 4, alínea a) |
+| Artigo 2.º-A, n.º 4, alínea b), frase introdutória | Artigo 3.º, n.º 4, alínea b), frase introdutória |
+| Artigo 2.º-A, n.º 4, alínea b), primeiro travessão | Artigo 3.º, n.º 4, alínea b), subalínea i) |
+| Artigo 2.º-A, n.º 4, alínea b), segundo travessão | Artigo 3.º, n.º 4, alínea b), subalínea ii) |
+| Artigo 2.º-A, n.ºs 5 e 6 | Artigo 3.º, n.ºs 5 e 6 |
+| Artigo 3.º | Artigo 4.º |
+| Artigo 3.ºA | Artigo 5.º |
+| Artigo 3.ºB | Artigo 6.º |
+| Artigo 3.°C | Artigo 7.º |
+| Artigo 3.ºD | Artigo 8.º |
+| Artigo 3.ºE | Artigo 9.º |
+| Artigo 3.ºF | Artigo 10.º |
+| Artigo 3.º-G, n.º 1 | Artigo 11.º, n.º 2 |
+| Artigo 3.º-G, n.º 2, primeiro parágrafo, frase introdutória | Artigo 11.º, n.º 3, primeiro parágrafo, frase introdutória |
+| Artigo 3.º-G, n.º 2, primeiro parágrafo, primeiro travessão | Artigo 11.º, n.º 3, primeiro parágrafo, alínea a) |
+| Artigo 3.º-G, n.º 2, primeiro parágrafo, segundo travessão | Artigo 11.º, n.º 3, primeiro parágrafo, alínea b) |
+| Artigo 3.º-G, n.º 2, segundo, terceiro e quarto parágrafos | Artigo 11.º, n.º 3, segundo, terceiro e quarto parágrafos |
+| Artigo 3.º-G, n.º 3 | Artigo 11.º, n.º 4 |
+| Artigo 3.º-G, n.º 4 | Artigo 11.º, n.º 1 |
+| Artigo 3.ºH | Artigo 12.º |
+| Artigo 3.ºI | Artigo 13.º |
+| Artigo 3.ºJ | Artigo 14.º |
+| Artigo 3.ºK | Artigo 15.º |
+| Artigo 4.º, n.ºs 1, 2 e 3 | Artigo 16.º, n.ºs 1, 2 e 3 |
+| Artigo 4.º, n.º 4 | — |
+| Artigo 5.º | Artigo 17.º |
+| Artigo 9.º | Artigo 18.º |
+| Artigo 10.º | Artigo 19.º |
+| Artigo 11.º | Artigo 20.º |
+| Artigo 14.º | Artigo 21.º |
+| Artigo 15.º | Artigo 22.º |
+| Artigo 18.º | Artigo 23.º |
+| Artigo 18.ºA | Artigo 24.º |
+| Artigo 19.º | Artigo 25.º |
+| Artigo 20.º | Artigo 26.º |
+| Artigo 22.º | Artigo 27.º |
+| Artigo 23.º | Artigo 28.º |
+| Artigo 23.ºA | Artigo 29.º |
+| Artigo 23.ºB | Artigo 30.º |
+| Artigo 24.º | Artigo 31.º |
+| — | Artigo 32.º |
+| Artigo 26.º | Artigo 33.º |
+| — | Artigo 34.º |
+| — | Artigo 35.º |
+| Artigo 27.º | Artigo 36.º |
+| — | Anexo I |
+| — | Anexo II |
+
+[^1]: Diretiva 2011/93/UE do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa à luta contra o abuso sexual e a exploração sexual de crianças e a pornografia infantil, e que substitui a Decisão-Quadro 2004/68/JAI do Conselho (JO L 335 de 17.12.2011, p. 1).

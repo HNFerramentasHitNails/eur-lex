@@ -1,0 +1,819 @@
+---
+celex: 32013D0674
+nome_curto: Orientações relatório de segurança dos cosméticos
+tipo: Decisão
+titulo: '2013/674/UE: Decisão de Execução da Comissão, de 25 de novembro de 2013, relativa a orientações para aplicação do anexo I do Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho relativo aos produtos cosméticos Texto relevante para efeitos do EEE'
+data_documento: '2013-11-25'
+em_vigor: true
+entrada_em_vigor:
+- '2013-12-16'
+texto: original (JO)
+rectificacoes_nao_incorporadas:
+- 32013D0674R(01)
+eli: http://data.europa.eu/eli/dec_impl/2013/674/oj
+repertorio:
+- 13.30.16 Cosméticos
+- 15.20.30 Proteção da saúde e da segurança
+url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32013D0674
+lingua: pt
+fonte: cellar:application/xhtml+xml
+obtido_em: '2026-10-09'
+---
+
+# Decisão 32013D0674 — Orientações relatório de segurança dos cosméticos
+
+**Título oficial:** 2013/674/UE: Decisão de Execução da Comissão, de 25 de novembro de 2013, relativa a orientações para aplicação do anexo I do Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho relativo aos produtos cosméticos Texto relevante para efeitos do EEE
+
+**Texto:** versão original publicada no Jornal Oficial.
+
+**Nota:** há rectificações publicadas no JO que este texto original não incorpora (32013D0674R(01)). Muitas rectificações dizem respeito só a algumas versões linguísticas; não foi verificado se alguma altera o texto português. Confirmar no EUR-Lex antes de citar um passo decisivo.
+
+**Considerandos (preâmbulo):** ficheiro `32013D0674-orientacoes-relatorio-de-seguranca-dos-cosmeticos.considerandos.md`.
+
+**EUR-Lex:** https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32013D0674
+
+## Texto
+
+### Artigo 1.º
+
+As orientações destinadas a permitir às empresas cumprir os requisitos previstos no anexo I do Regulamento (CE) n.º 1223/2009 relativo aos produtos cosméticos são estabelecidas no anexo da presente decisão.
+
+### Artigo 2.º
+
+A presente decisão entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+Feito em Bruxelas, em 25 de novembro de 2013.
+
+Pela Comissão
+
+O Presidente
+
+José Manuel BARROSO
+
+[^1]: JO L 342 de 22.12.2009, p. 59.
+
+## ANEXO
+
+#### ORIENTAÇÕES PARA APLICAÇÃO DO ANEXO I DO REGULAMENTO (CE) N.º 1223/2009 NO QUE RESPEITA AO RELATÓRIO DE SEGURANÇA DOS PRODUTOS COSMÉTICOS
+
+#### 1. INTRODUÇÃO
+
+O artigo 11.º do Regulamento (CE) n.º 1223/2009 prevê que seja elaborado um ficheiro de informações sobre o produto para cada produto cosmético antes da sua colocação no mercado. O ficheiro de informações sobre o produto deve ser atualizado sempre que necessário e mantido facilmente acessível à autoridade competente, em formato eletrónico ou outro, no endereço da pessoa responsável indicada no rótulo, para efeitos de supervisão do mercado, durante um período de dez anos a contar da data em que o último lote do produto cosmético for colocado no mercado.
+
+Do ponto de vista da segurança, o elemento mais importante do ficheiro de informações sobre o produto é o relatório de segurança do produto cosmético referido no artigo 10.º, n.º 1, do regulamento supramencionado. O ficheiro de informações contém ainda uma clara descrição do produto cosmético, uma descrição do processo de fabrico e uma declaração de conformidade com as boas práticas de fabrico, bem como provas dos efeitos alegados e dados relativos aos ensaios em animais [^1].
+
+Sempre que a pessoa responsável por elaborar o relatório de segurança do produto cosmético não seja o fabricante do produto, deve ser-lhe facultado acesso a todos os conhecimentos técnicos e científicos necessários para obter informações fiáveis sobre a segurança do produto cosmético e uma avaliação da segurança adequada para demonstrar que o produto por que é responsável é seguro, na aceção do artigo 3.º do Regulamento (CE) n.º 1223/2009. Em consequência, a pessoa responsável pode ter de recorrer não só ao avaliador da segurança, mas também ao fabricante, aos fornecedores de matérias-primas e a outros técnicos especializados.
+
+A pessoa responsável deve certificar-se, em qualquer circunstância, de que a utilização pretendida do produto cosmético e a exposição sistémica prevista aos diferentes ingredientes de uma formulação final são tidas em conta na avaliação da segurança, de que é utilizada uma análise apropriada de ponderação da suficiência de prova na avaliação da segurança para efeitos de revisão dos dados provenientes de todas as fontes existentes e de que o relatório de segurança do produto cosmético se mantém atualizado, tendo em conta as informações adicionais relevantes surgidas após a colocação do produto no mercado [^2].
+
+A avaliação da segurança do produto cosmético, prevista no anexo I, parte B, do Regulamento (CE) n.º 1223/2009, deve ser realizada por um avaliador da segurança qualificado. A pessoa responsável e o avaliador da segurança devem colaborar estreitamente para garantir que a segurança do produto é convenientemente avaliada e documentada e que a avaliação é mantida atualizada. A pessoa responsável e o avaliador da segurança devem reunir todas as informações necessárias previstas no anexo I, parte A, do Regulamento (CE) n.º 1223/2009.
+
+O relatório de segurança do produto cosmético deve ser elaborado de forma transparente, estar bem fundamentado e ser facilmente compreensível.
+
+O relatório de segurança dos produtos cosméticos é um documento técnico especializado, constituído por diferentes módulos, podendo as informações requeridas na parte A estar armazenadas em diferentes bases de dados. O relatório, que deve conter, no mínimo, todas as informações indicadas no anexo I do Regulamento (CE) n.º 1223/2009, deve apresentar as mesmas rubricas ou rubricas similares para facilidade de referência às autoridades competentes. Contudo, pode ser suficiente fornecer, em cada rubrica, uma referência clara a um documento que contenha as informações e seja facilmente acessível em formato eletrónico ou impresso.
+
+#### 2. ANEXO I DO REGULAMENTO (CE) N.º 1223/2009 — RELATÓRIO DE SEGURANÇA DO PRODUTO COSMÉTICO
+
+Em conformidade com o anexo I do Regulamento (CE) n.º 1223/2009, o relatório de segurança do produto cosmético deve conter, « no mínimo », as informações previstas em cada uma das rubricas das partes A e B.
+
+A parte A destina-se a reunir todas as informações necessárias para a avaliação da segurança do produto, enquanto a parte B estabelece a fundamentação, a partir das informações, para extrair conclusões acerca da segurança do produto.
+
+A estrutura e o conteúdo do relatório de segurança devem refletir os requisitos do anexo I do Regulamento (CE) n.º 1223/2009. Contudo, se o relatório não contiver diretamente as informações necessárias, deve remeter para outra fonte facilmente acessível.
+
+A pessoa responsável deve assegurar que o relatório de segurança do produto cosmético seja mantido atualizado, à luz das informações adicionais relevantes surgidas após a colocação do produto no mercado [^3].
+
+#### 3. PARTE A — INFORMAÇÃO SOBRE A SEGURANÇA DO PRODUTO COSMÉTICO
+
+A parte A do relatório de segurança do produto cosmético destina-se a reunir as informações necessárias para demonstrar a segurança do produto cosmético. As informações devem permitir ao avaliador da segurança identificar e quantificar claramente, com base nos perigos identificados, os riscos que um produto cosmético pode apresentar para a saúde humana. O perigo pode advir, por exemplo, das matérias-primas, do processo de fabrico, da embalagem, das condições de utilização do produto, das especificações microbiológicas, das quantidades utilizadas, do perfil toxicológico das substâncias, etc.
+
+Dado que o anexo I, parte A, do Regulamento (CE) n.º 1223/2009 estipula que as informações enunciadas nas suas rubricas constituem as informações mínimas a fornecer, qualquer discrepância em relação aos requisitos da parte A deve ser justificada.
+
+O anexo I, parte A, do Regulamento (CE) n.º 1223/2009 enumera as informações a fornecer, « no mínimo », para que o avaliador da segurança possa realizar a avaliação da segurança.
+
+Para além das informações mínimas enunciadas no anexo I, parte A, do Regulamento (CE) n.º 1223/2009, o avaliador da segurança pode, sempre que seja pertinente, usar informações adicionais. Por outro lado, o avaliador da segurança ou a pessoa responsável pode considerar, consoante o tipo de produto, que algumas das informações requeridas não são relevantes ou necessárias para avaliar a segurança do produto (por exemplo, o ensaio de eficácia dos conservantes). Nesse caso, a ausência de informações específicas deve ser claramente justificada na parte A, sendo a justificação repetida e validada pelo avaliador da segurança na fundamentação apresentada na parte B. A pessoa responsável deve verificar a presença das informações requeridas ou a justificação da sua ausência.
+
+As informações requeridas na parte A podem ser extraídas de qualquer fonte fiável, nomeadamente dos dados dos fornecedores, de publicações científicas, da experiência adquirida com categorias de produtos similares ou outras, de resultados de estudos sobre o próprio produto ou sobre as substâncias que este contém, de dados disponíveis sobre formulações similares ou de modelos informáticos. O relatório de segurança deve sublinhar a relevância das informações para o produto.
+
+As orientações publicadas pelos comités científicos da União relativas a avaliações de riscos [^4], bem como as recomendações de autoridades nacionais competentes ou organizações profissionais, podem constituir ajudas adicionais úteis.
+
+#### 3.1. Composição qualitativa e quantitativa do produto cosmético
+
+Esta secção do relatório de segurança do produto cosmético visa fornecer a composição qualitativa e quantitativa exata do produto acabado, partindo das matérias-primas. As matérias-primas são substâncias ou misturas utilizadas no fabrico do produto cosmético. Deve ser indicada a função prevista para cada substância.
+
+Deve ser especificada a composição completa do produto, com indicação do nome e da identidade (qualitativa) de cada matéria-prima (nomeadamente, denominação química, INCI, CAS, Einecs/Elincs, quando possível), bem como da respetiva quantidade, com menção do peso em percentagem (quantitativa). Não devem ser utilizados intervalos de referência, a menos que tal possa ser justificado (por exemplo, ajustadores de viscosidade ou de pH). Se o intervalo de referência da concentração for inevitável, as considerações toxicológicas e os cálculos correspondentes devem basear-se no valor de concentração mais elevado. Pode igualmente ser útil indicar o(s) fornecedor(s) das matérias-primas.
+
+Todas as substâncias que entram na composição de misturas comerciais fornecidas como matérias-primas (incluindo conservantes, antioxidantes, quelantes, agentes tamponantes, solventes e outros aditivos adicionados diretamente) devem ser identificados e quantificados na formulação do produto acabado. O mesmo se aplica a todas as substâncias adicionadas indiretamente ao produto, tais como conservantes utilizados para conservar matérias-primas. Deve ser indicada a função prevista para cada substância.
+
+Quando se encontram presentes substâncias quimicamente bem definidas, devem ser fornecidas as quantidades e fórmulas moleculares respetivas, bem como as suas especificações analíticas (grau de pureza, identificação das principais impurezas e métodos de ensaio utilizados).
+
+Caso se encontrem presentes ingredientes complexos, devem ser indicadas a sua natureza e qualidade, bem como uma definição clara da mistura e do(s) material(ais) utilizado(s), a fim de identificar as substâncias quanto à sua composição e efeitos (processos de fabrico e purificação, incluindo as etapas física, química, enzimática, biotecnológica e microbiológica). Devem ser indicados os critérios de pureza e os métodos de ensaio utilizados. Entre os ingredientes complexos contam-se ingredientes de origem mineral, botânica, animal ou biotecnológica. O âmbito das informações necessárias sobre os ingredientes complexos, consoante a sua natureza e origem, é explicitamente enunciado nas Notas de Orientação do Comité Científico da Segurança dos Consumidores (CCSC) [^5].
+
+Quando se encontra presente uma mistura de substâncias quimicamente bem definidas e ingredientes complexos, são igualmente aplicáveis as orientações supramencionadas.
+
+Quando um composto odorífico ou aromático compreendido por uma mistura de fragrâncias (ou aromas) e componentes funcionais com propriedades odoríferas, de intensificação de odores, de proteção de odores ou da mistura se formula e é intencionalmente adicionado a um produto cosmético, para lhe conferir um perfume (ou aroma) ou para dissimular um odor desagradável, a sua identificação deve incluir a designação e o número de código, bem como a identificação do fornecedor. Devem ser fornecidas à pessoa responsável ou ao avaliador da segurança, e incluídas no relatório de segurança, informações qualitativas e quantitativas sobre substâncias reguladas incluídas no composto odorífico ou aromático, bem como quaisquer informações relevantes para a avaliação da segurança.
+
+#### 3.2. Características físico-químicas e estabilidade do produto cosmético
+
+Nesta secção do relatório de segurança do produto cosmético devem ser descritas as relevantes especificações físicas e químicas das substâncias ou misturas utilizadas e do produto cosmético propriamente dito. Estas especificações são cruciais para uma avaliação da segurança adequada, porquanto podem influenciar a segurança de um produto cosmético. Por exemplo, as propriedades físico-químicas, conjugadas com outras informações, podem ajudar o avaliador da segurança a determinar a necessidade de investigar parâmetros toxicológicos relevantes.
+
+Além disso, as características físico-químicas das substâncias ou misturas e dos produtos acabados servem de referência para determinar se os produtos e as matérias-primas podem ser considerados aceitáveis do ponto de vista da qualidade [^6] .
+
+Esta secção do relatório de segurança do produto cosmético prevê igualmente uma avaliação da estabilidade do produto cosmético em condições de armazenagem razoavelmente previsíveis. O objetivo consiste em determinar se a estabilidade do produto cosmético afeta a sua segurança e qualidade, e utilizar essas informações para determinar a sua durabilidade mínima e o período após abertura (PAO).
+
+#### 3.2.1. Características físico-químicas das substâncias ou misturas
+
+Esta descrição deve incluir as propriedades físico-químicas mais relevantes de cada substância e mistura contida no produto; por exemplo, identificação química, forma física, peso molecular, solubilidade, coeficiente de partição, pureza da substância e outros parâmetros relevantes para a caracterização de substâncias e misturas específicas, bem como, no caso dos polímeros, o peso molecular médio e a gama.
+
+Se relevante, a curva granulométrica das substâncias deve ser incluída nas características físico-químicas, em especial para nanomateriais.
+
+Os fabricantes de produtos cosméticos devem certificar-se de que as especificações das matérias-primas são devidamente documentadas pelos fornecedores. Devem ser facultadas as especificações de todas as matérias-primas efetivamente utilizadas no produto. Com base na função, podem ser necessárias especificações adicionais. Por exemplo, no caso dos filtros para radiações ultravioletas, deve ser indicado o espetro de absorção.
+
+O relatório de segurança deve indicar os métodos de referência para todas as descrições de propriedades físico-químicas e especificações (relativas a cada uma das substâncias e misturas contidas no produto).
+
+#### 3.2.2. Características físico-químicas do produto cosmético acabado
+
+Esta descrição deve conter as especificações do produto acabado. Cada especificação deve ser indicada com os limites relevantes, por exemplo, pH entre 5,5 e 6,5.
+
+O relatório de segurança deve indicar os métodos de referência para todas as descrições de propriedades físico-químicas e especificações (relativas a cada uma das substâncias e misturas contidas no produto).
+
+#### 3.2.3. Estabilidade do produto cosmético
+
+Dado que o requisito consiste em avaliar a estabilidade do produto cosmético em condições de armazenagem razoavelmente previsíveis, no caso de a estabilidade depender das condições de armazenagem, devem ser transmitidas informações sobre essas condições ao longo do circuito comercial e, se for importante para o consumidor, essas informações devem constar do rótulo do produto.
+
+Deve ser descrita a metodologia utilizada para determinar a durabilidade mínima do produto. Devem ser referidos eventuais cuidados específicos de conservação.
+
+Devem constar do relatório de segurança todos os dados disponíveis utilizados para justificar a durabilidade mínima indicada. Para determinar a coerência do estudo de estabilidade realizado e verificar a pertinência da data de durabilidade mínima escolhida para o produto, a descrição dos ensaios específicos ao estudo de estabilidade e os resultados desses ensaios devem ser incluídos no relatório de segurança do produto cosmético. Devem ainda ser fornecidos:
+
+- 1) Elementos que provem que a composição do produto utilizado nos ensaios de estabilidade corresponde à do produto efetivamente colocado no mercado;
+
+- 2) Os resultados do estudo de eficácia dos conservantes, por exemplo, o «challenge test», quando aplicável [^7];
+
+- 3) O período após abertura (PAO) [^8] e a correspondente justificação, quando aplicável.
+
+O CCSC recomendou que «devem ser realizados ensaios de estabilidade pertinentes, adaptados ao tipo de produto cosmético e à sua utilização prevista. Para assegurar que nenhum problema de estabilidade é induzido pelo tipo de recipiente e embalagem utilizados, presentemente são realizados ensaios de estabilidade com recipientes inertes e com os recipientes que se destinam a ser utilizados no mercado» [^9].
+
+#### 3.3. Qualidade microbiológica
+
+Esta secção do relatório de segurança do produto cosmético visa determinar as especificações microbiológicas aceitáveis das matérias-primas (substâncias ou misturas) e do produto acabado, do ponto de vista microbiológico. Em conformidade com o anexo I do Regulamento (CE) n.º 1223/2009, deve ser prestada particular atenção às especificações microbiológicas de produtos cosméticos que se destinam a serem utilizados em áreas do corpo sensíveis ou por grupos específicos da população. Acresce que as informações relativas à qualidade microbiológica são fundamentais para justificar a eficácia do sistema de conservação e a durabilidade mínima indicada para o produto cosmético armazenado em condições adequadas e o período após abertura (PAO) [^10] do produto acabado em termos de segurança.
+
+As especificações microbiológicas das matérias-primas (substâncias ou misturas) e do produto cosmético fazem parte da avaliação da segurança. Deve ser prestada particular atenção às especificações microbiológicas dos produtos cosméticos destinados a ser utilizados à volta dos olhos, nas mucosas em geral, na pele lesionada (por exemplo, produtos para cuidados da pele próprios para pele atópica ou irritada), em crianças com menos de três anos, nas pessoas idosas e em pessoas com resposta imunitária comprometida.
+
+#### 3.3.1. Qualidade microbiológica das substâncias e misturas
+
+Os principais parâmetros relativos à qualidade microbiológica são o nível de contaminação original e a possibilidade de crescimento microbiano. Deve ser prestada especial atenção às matérias-primas (substâncias e misturas) mais suscetíveis a crescimento microbiano (por exemplo, misturas à base de água, matérias ricas em proteínas ou matérias-primas de origem animal). Por outro lado, existem matérias-primas que não favorecem o crescimento microbiano, como é o caso dos solventes orgânicos.
+
+#### 3.3.2. Qualidade microbiológica do produto cosmético acabado
+
+No que respeita à suscetibilidade microbiológica, há que distinguir três categorias de produtos:
+
+- 1) Produtos de baixo risco microbiológico (por exemplo, os produtos com um teor de álcool superior a 20 %, os produtos à base de solventes orgânicos ou os produtos com um pH elevado ou baixo), para os quais não é necessário realizar quer o ensaio de eficácia dos conservantes, quer testes de qualidade microbiológica no produto acabado. Deve, contudo, ser fornecida uma justificação científica;
+
+- 2) Produtos de utilização única e produtos que não podem ser abertos (por exemplo, cuja embalagem permite dosear o produto sem que este entre em contacto com o ar), para os quais apenas é necessário realizar testes de qualidade microbiológica no produto acabado. Deve, contudo, ser fornecida uma justificação científica;
+
+- 3) Todos os outros produtos, para os quais é necessário realizar quer o ensaio de eficácia dos conservantes, quer testes de qualidade microbiológica no produto acabado.
+
+As Notas de Orientação do CCSC contêm orientações específicas sobre a qualidade microbiológica do produto acabado (Guidelines on Microbiological Quality of the Finished Product) [^11].
+
+#### 3.4. Impurezas, vestígios, informações sobre o material de embalagem
+
+Esta secção do relatório de segurança do produto cosmético tem por objetivo avaliar se o produto cosmético contém substâncias que não tenham sido intencionalmente adicionadas à formulação e sejam suscetíveis de ter impacto na sua segurança.
+
+As impurezas são substâncias não intencionais presentes nas matérias-primas.
+
+Um vestígio é uma pequena quantidade de uma substância não intencional no produto acabado. Os vestígios devem ser avaliados na perspetiva da segurança do produto acabado. Se estiverem presentes vestígios de substâncias proibidas, devem igualmente ser fornecidas provas da sua inevitabilidade técnica.
+
+Os vestígios podem ter as seguintes origens: impurezas nas matérias-primas/substâncias, processo de fabrico, potencial evolução/interação química e/ou migração de substâncias no produto que podem ocorrer em condições normais de armazenagem e/ou através do contacto com o material de embalagem.
+
+Dada a possibilidade de migração de substâncias da embalagem para a formulação, devem ser tidas em conta as características pertinentes do material de embalagem.
+
+Em conformidade com o anexo I, ponto 4, do Regulamento (CE) n.º 1223/2009, a secção «Impurezas, vestígios, informações sobre o material de embalagem» deve tratar de três questões específicas:
+
+- a) Pureza das substâncias e misturas;
+
+- b) Se estiverem presentes vestígios de substâncias proibidas, provas da sua inevitabilidade técnica;
+
+- c) Características relevantes do material de embalagem, em especial pureza e estabilidade.
+
+Na prática, esses elementos podem ser interpretados do seguinte modo:
+
+- a) Definição precisa de impurezas e vestígios (ver 3.4.1);
+
+- b) Provas da inevitabilidade técnica da presença de substâncias proibidas (ver 3.4.2);
+
+- c) Libertação potencial de substâncias da embalagem ou eventual deterioração do produto em contacto com a embalagem (ver 3.4.3).
+
+Para a análise das impurezas e do material de embalagem, os dados dos fornecedores assumem particular importância, pelo que devem ser preferidos.
+
+#### 3.4.1. Pureza das substâncias e misturas
+
+A presença de substâncias não intencionais, como impurezas e vestígios, pode ter impacto na segurança do produto acabado. O relatório de segurança do produto cosmético deve incluir dados sobre a pureza das matérias-primas (substâncias e misturas) e a identificação das substâncias não intencionais toxicologicamente relevantes, as quais devem ser tidas em conta na avaliação da segurança do produto.
+
+As impurezas são substâncias não intencionais presentes nas matérias-primas.
+
+Um vestígio é uma pequena quantidade de uma substância não intencional no produto acabado.
+
+A presença de vestígios no produto acabado pode ser avaliada de duas formas:
+
+- a) através das especificações/dados técnicos respeitantes a cada matéria-prima, com base no conhecimento do processo de fabrico da matéria-prima (origem da substância, processo de produção, via de síntese, processo de extração, solvente utilizado, etc.);
+
+- b) através de uma análise físico-química de possíveis impurezas em matérias-primas e, se necessário, no produto final (por exemplo, nitrosaminas, que são potencialmente geradas durante ou após o processo de fabrico).
+
+Os vestígios de substâncias proibidas são tratados no ponto 3.4.2 das presentes orientações.
+
+Alguns vestígios têm limites de concentração regulamentares. Relativamente à presença de vestígios de substâncias que não são proibidas e para as quais não existem limites de concentração regulamentares, mas que são suscetíveis de ter impacto na segurança dos consumidores, a avaliação da segurança tem de ser realizada pelo avaliador da segurança.
+
+#### 3.4.2. Provas da inevitabilidade técnica de vestígios de substâncias proibidas
+
+Enquanto o procedimento previsto no ponto 3.4.1 deve ser seguido para todas as impurezas e vestígios conhecidos para avaliar o seu impacto toxicológico, é necessária uma investigação mais aprofundada em relação aos vestígios de substâncias proibidas presentes no produto acabado [^12].
+
+Sempre que tal presença for tecnicamente inevitável, os fabricantes de produtos cosméticos devem apresentar provas da inevitabilidade técnica, ou seja, têm de justificar a presença desses vestígios por todos os meios necessários. A presença de vestígios de substâncias proibidas deve ser mantida a níveis tão baixos quanto razoavelmente possível de acordo com boas práticas de fabrico. Além disso, o avaliador da segurança tem de decidir se os níveis desses vestígios são toxicologicamente aceitáveis e se o produto ainda é seguro.
+
+Especialmente no caso das substâncias genotóxicas e carcinogénicas não sujeitas a limiar [^13], a indústria cosmética deve aperfeiçoar constantemente as suas melhores práticas, a fim de eliminar estas substâncias [princípio ALARA [^14] — As Low As Reasonably Achievable (tão baixo quanto razoavelmente possível)] no produto cosmético acabado. A principal preocupação consiste em assegurar a proteção da saúde humana, em conformidade com o artigo 3.º do Regulamento (CE) n.º 1223/2009.
+
+Os vestígios resultantes da degradação de substâncias que compõem o produto final (questões de estabilidade), devido a problemas de conservação ou de transporte ou ainda à interação de matérias-primas, devem ser evitados através de boas práticas de fabrico ou, eventualmente, da reformulação do produto.
+
+#### 3.4.3. Características relevantes do material de embalagem
+
+Por material de embalagem entende-se o recipiente (ou embalagem primária) que está em contacto direto com a formulação. As características relevantes dos materiais de embalagem que estão em contacto direto com o produto final são importantes para a segurança do produto cosmético. Pode ser útil uma referência ao Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho [^15].
+
+A experiência adquirida com combinações formulações/embalagens similares que já se encontrem no mercado pode fornecer indicações úteis. Frequentemente, os materiais desenvolvidos para embalar alimentos já foram objeto de ensaios, pelo que é possível que estejam disponíveis informações sobre estabilidade e migração. Podem não ser necessários ensaios adicionais. Pode, todavia, ser necessária avaliação adicional no caso de embalagens novas ou renovadas.
+
+A combinação de material de embalagem, formulação do produto cosmético e contacto com o ambiente exterior pode ter impacto na segurança do produto acabado, devido aos seguintes fatores:
+
+- a) interação entre o produto e o material de embalagem;
+
+- b) propriedades de barreira do material de embalagem;
+
+- c) migração de substâncias de/para o material de embalagem.
+
+As informações sobre as características relevantes dos materiais de embalagem em contacto direto com o produto devem permitir estimar os riscos potenciais. As características relevantes podem incluir, por exemplo, as seguintes:
+
+- a) composição do material de embalagem, incluindo substâncias técnicas, como aditivos;
+
+- b) impurezas tecnicamente inevitáveis;
+
+- c) possível migração da embalagem.
+
+Estas informações indicam apenas o perigo. Incumbe ao avaliador da segurança avaliar o risco [^16].
+
+Estudos relativos a interações/adequabilidade entre a formulação e a embalagem permitem testar a migração potencial de pequenas quantidades de substâncias do material da embalagem primária para o produto. Estes ensaios são realizados em condições específicas e relevantes. Não existem, contudo, procedimentos normalizados para os produtos cosméticos. Pode ser realizada uma avaliação adequada com base no conhecimento da formulação e dos materiais da embalagem primária, aliado ao parecer de peritos experientes.
+
+Se a migração depender das condições de armazenagem, as condições de armazenagem corretas devem constar do rótulo do produto. Se a formulação for sensível à luz ou ao ar e poder degradar-se de forma que afete a segurança ou a eficácia do produto, deve ser utilizada uma embalagem adequada.
+
+#### 3.5. Utilização normal e razoavelmente previsível
+
+A secção relativa à utilização normal e razoavelmente previsível é fundamental para o avaliador da segurança poder determinar um cenário de exposição pertinente. A utilização prevista deve ser claramente comunicada aos consumidores, a fim de evitar uma má utilização do produto.
+
+Além disso, as advertências e outras explicações constantes da rotulagem devem ser consistentes com a utilização normal e razoavelmente previsível identificada e a fundamentação que justifica a sua inclusão deve ser apresentada.
+
+Deve ser fornecida uma explicação clara da utilização normal prevista e da utilização razoavelmente previsível. Por exemplo, no caso de um champô, a utilização normal prevista será a aplicação no couro cabeludo; uma utilização (não intencional) razoavelmente previsível seria a aplicação como gel de duche. A ingestão constituiria claramente uma má utilização do produto.
+
+Para este efeito, pode ser útil uma abordagem pragmática. Por exemplo, pode inserir-se uma fotografia da embalagem ou um protótipo da rotulagem no relatório de segurança do produto cosmético para mostrar a apresentação do produto e a sua utilização prevista. Seria igualmente útil estabelecer uma ligação com as advertências e a rotulagem, conforme sublinhado pelo anexo I do Regulamento (CE) n.º 1223/2009, relativo a este ponto.
+
+#### 3.6. Exposição ao produto cosmético
+
+A avaliação da exposição constitui um elemento fundamental da avaliação do risco. Esta secção tem por objetivo quantificar o teor de produto cosmético que entra em contacto com as partes externas do corpo humano ou com os dentes e as mucosas da cavidade oral, no contexto de uma utilização normal ou razoavelmente previsível para cada utilização e frequência de utilização.
+
+A avaliação da exposição ao produto cosmético deve ter em conta os resultados respeitantes à «utilização normal e razoavelmente previsível» do anexo I, secção 5, do Regulamento (CE) n.º 1223/2009, relativamente a um conjunto de elementos enumerados explicitamente na secção 6. Devem igualmente ser tidas em conta, se for caso disso, as vias de exposição secundária.
+
+A descrição das condições concretas de utilização para efeitos da análise da exposição deve ainda ter em conta os seguintes parâmetros:
+
+- a) tipo de produto (por exemplo, não enxaguado, enxaguado);
+
+- b) zona de aplicação (por exemplo, área corporal total, olhos, cavidade bucal);
+
+- c) quantidade por aplicação em caso de utilização normal e razoavelmente previsível, por exemplo, incluindo a eventualidade de um champô ser utilizado como gel de duche;
+
+- d) duração e frequência;
+
+- e) vias de exposição possíveis (previsíveis) (por exemplo, via oral para bâton e pasta dentífrica ou inalação para aerossóis e solventes);
+
+- f) grupo-alvo de utilizadores (por exemplo, crianças com menos de três anos, adultos);
+
+- g) impacto da dimensão das partículas na exposição.
+
+As Notas de Orientação do CCSC fornecem informações úteis sobre cálculos de exposição e contêm tabelas particularmente importantes [^17].
+
+Contudo, dado que as tabelas podem não conter os valores de exposição diária respeitantes a produtos cosméticos específicos, podem ser utilizadas outras formas de cálculo da exposição, sendo possíveis diversas alternativas. Por exemplo, podem ser realizados cálculos com base em dados relativos à superfície da pele ou à experiência do utilizador.
+
+Se os dados disponíveis forem considerados insuficientes, recomenda-se que seja considerado o pior cenário de exposição, tendo em conta as condições de utilização previsíveis.
+
+É conveniente não perder de vista a população-alvo e outras populações igualmente expostas ao produto. Por exemplo, no caso de produtos para uso profissional, o cenário de exposição será diferente para os consumidores-alvo e para os profissionais expostos, em termos de frequência de exposição, duração da exposição e extensão da área de pele exposta, possível exposição por inalação (por exemplo, no caso de champôs, aquando da avaliação do risco para os consumidores, deve ser considerada a exposição do couro cabeludo aproximadamente uma vez por dia, enquanto para os cabeleireiros deve ser considerada a exposição das mãos várias vezes por dia).
+
+#### 3.7. Exposição às substâncias
+
+A avaliação da exposição a cada uma das substâncias contidas no produto cosmético é necessária para avaliar o risco associado a cada substância individual. Esta secção do relatório de segurança do produto cosmético tem por objetivo determinar a quantidade de cada substância que entra em contacto com as partes externas do corpo humano ou com os dentes e as mucosas da cavidade oral, no contexto de uma utilização normal ou razoavelmente previsível para cada utilização.
+
+A exposição a cada uma das substâncias contidas no produto cosmético é calculada a partir da exposição ao produto final e da concentração das substâncias individuais no produto final. É necessário calcular esta exposição para avaliar o risco potencial de cada substância.
+
+A exposição a substâncias individuais é calculada a partir da composição quantitativa do produto. No caso de, durante a utilização do produto, serem geradas ou libertadas substâncias, a exposição deve ser estimada e tida em conta na avaliação da segurança.
+
+As condições de exposição a cada substância individual são determinadas pelas condições para o produto cosmético acabado, nos termos do referido em 3.6.
+
+#### 3.8. Perfil toxicológico das substâncias
+
+Esta secção do relatório de segurança do produto cosmético visa descrever o perigo toxicológico de cada uma das substâncias do produto acabado, determinar a exposição potencial e proceder à caracterização do risco. Estes aspetos assumem crucial importância para a avaliação do risco, porquanto constituem as três etapas cruciais do processo de avaliação do risco [^18] .
+
+Os parâmetros a considerar, bem como os dados necessários, dependem de uma série de fatores, incluindo as vias de exposição, as condições de utilização do produto, as suas características físico-químicas e a possível absorção da substância. A escolha de parâmetros relevantes deve ser da responsabilidade do avaliador da segurança, que deve justificar as suas decisões.
+
+O avaliador da segurança deve assegurar que os dados experimentais cumprem os requisitos do artigo 18.º do Regulamento (CE) n.º 1223/2009 relativos aos ensaios em animais. Estes requisitos estão clarificados na Comunicação da Comissão sobre a proibição da experimentação em animais e a proibição da comercialização e sobre o ponto de situação relativamente aos métodos alternativos no domínio dos cosméticos [^19] .
+
+O anexo I, parte A, ponto 8, do Regulamento (CE) n.º 1223/2009 estabelece os principais requisitos do relatório de segurança do produto cosmético no que respeita ao perfil toxicológico das substâncias.
+
+#### 3.8.1. Considerações de caráter geral sobre o perfil toxicológico no âmbito da avaliação da segurança
+
+Os elementos importantes do perfil toxicológico de cada substância ou mistura devem ser pormenorizadamente descritos na informação sobre a segurança do produto cosmético (parte A) e avaliados como parte da avaliação da segurança (parte B), tendo em conta a situação da exposição, a toxicidade intrínseca (ou perigo) de cada substância e as condições específicas da utilização do produto.
+
+Estudos com seres humanos, estudos com animais ou métodos alternativos aos ensaios em animais ajudam a compreender os riscos para a saúde dos seres humanos expostos a substâncias perigosas. No que respeita aos perfis toxicológicos, são utilizados estudos toxicológicos para identificar os perigos que podem estar associados a um risco para os humanos. É fundamental considerar a qualidade e as limitações dos estudos que foram realizados. A validade de um estudo deve ser tida em conta para determinar a necessidade de novas informações para compreender o risco para a saúde humana [^20]. Os estudos realizados em conformidade com orientações internacionais são os mais úteis, mas, infelizmente, nem todos obedecem a estas normas. Por conseguinte, as limitações destes estudos devem ser tidas em conta na avaliação do perfil toxicológico de cada substância.
+
+O avaliador da segurança deve assegurar que os dados experimentais cumprem os requisitos do artigo 18.º do Regulamento (CE) n.º 1223/2009 relativos aos ensaios em animais. A comunicação da Comissão ao Parlamento Europeu e ao Conselho sobre a proibição da experimentação em animais e a proibição da comercialização e sobre o ponto de situação relativamente aos métodos alternativos no domínio dos cosméticos explicita a forma como a Comissão interpreta esses requisitos [^21].
+
+#### 3.8.2. Perfil toxicológico das substâncias para todos os parâmetros toxicológicos relevantes
+
+O perfil toxicológico de cada substância é determinado pela identificação dos perigos e pela caracterização dose-resposta.
+
+A primeira etapa crucial na elaboração do perfil toxicológico consiste em reunir todas as informações relevantes sobre as propriedades intrínsecas da substância. Essas informações devem incluir o seguinte:
+
+- 1) A informação mais valiosa relativa à toxicidade, tal como, testes de dados efetivos oriundos de estudos in vivo ou in vitro obtidos em conformidade com o Regulamento (CE) n.º 440/2008 da Comissão, de 30 de maio de 2008, que estabelece métodos de ensaio nos termos do Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho relativo ao registo, avaliação, autorização e restrição de substâncias químicas (REACH) [^22], orientações internacionais reconhecidas ou normas (por exemplo, OECD Test Guidelines — orientações da OCDE para ensaios), e realizados em conformidade com os princípios das boas práticas laboratoriais;
+
+- 2) Dados de ensaios existentes que não tenham sido obtidos em conformidade com a mais recente versão adotada/aceite de orientações para ensaios ou com princípios de boas práticas laboratoriais, mas que sejam considerados válidos;
+
+- 3) Dados in vitro ou dados alternativos provenientes de sistemas de ensaio válidos, para serem utilizados como estudo de rastreio para predizer a toxicidade;
+
+- 4) Dados e/ou estudos de investigação com seres humanos. Em geral, não é aceitável realizar estudos toxicológicos em seres humanos para identificação de perigos, no entanto, se existirem dados ou estudos realizados, os mesmos devem ser incluídos na avaliação final;
+
+- 5) Dados (clínicos) sobre seres humanos, incluindo dados de ensaios clínicos e de aplicações noutras indústrias, nomeadamente alimentos e medicamentos;
+
+- 6) Dados obtidos no âmbito da vigilância pós-comercialização;
+
+- 7) Estudos de compatibilidade realizados com voluntários humanos, que apenas devem ser utilizados para confirmar níveis de utilização segura para uma população-alvo relevante [^23];
+
+- 8) Abordagens comparativas por interpolação (Read-across approaches) [^24], baseadas na estrutura química e nas propriedades de substâncias relacionadas, a fim de predizer a toxicidade do ingrediente, no agrupamento de substâncias, e em dados não experimentais provenientes dos resultados do modelo QSAR (relações quantitativas estrutura/atividade).
+
+Com base nos dados obtidos a partir de todas as fontes disponíveis, e tendo em conta a qualidade dos dados, o avaliador da segurança pode avaliar a probabilidade de ocorrência de efeitos adversos nos seres humanos através do método da «ponderação da suficiência de prova» [^25].
+
+Um pré-requisito para uma apropriada avaliação do risco é a disponibilidade de dados adequados. Para apoio adicional sobre esta matéria, podem consultar-se as orientações para a preparação dos dossiês de segurança para apresentação ao Comité Científico da Segurança dos Consumidores (CCSC), definidas pelo próprio Comité nas suas Notas de Orientação. Embora estas Notas de Orientação estejam previstas para substâncias que carecem de autorização, por exemplo, corantes, conservantes e filtros para radiações ultravioleta, ou que suscitam preocupação, os requisitos que estabelecem podem ser úteis para a avaliação da segurança de todas as substâncias utilizadas nos produtos cosméticos. Além disso, uma secção das mais recentes Notas de Orientação é consagrada à avaliação da segurança de produtos cosméticos acabados [^26].
+
+O perfil toxicológico pode incluir uma série de diferentes parâmetros. A decisão final acerca dos parâmetros que são considerados relevantes é tomada pelo avaliador da segurança através de uma avaliação caso a caso, tendo em conta a exposição, a utilização do produto, as características físico-químicas das substâncias, a experiência com as substâncias, etc. [^27]. Se relevante, deve igualmente ser prestada atenção aos efeitos locais (por exemplo, irritação e fototoxicidade). Se um determinado parâmetro for considerado irrelevante, tal facto deve ser justificado.
+
+Os parâmetros que podem ser relevantes para o perfil toxicológico são os seguintes:
+
+- 1) Toxicidade aguda pelas vias de exposição relevantes;
+
+- 2) Irritação e corrosividade;
+
+- 3) Irritação e corrosividade cutâneas;
+
+- 4) Irritação das mucosas (irritação ocular);
+
+- 5) Sensibilização cutânea;
+
+- 6) Absorção dérmica/percutânea;
+
+- 7) Toxicidade de dose repetida (normalmente estudos de 28 ou 90 dias) [^28];
+
+- 8) Mutagenicidade/genotoxicidade;
+
+- 9) Carcinogenicidade;
+
+- 10) Toxicidade para a reprodução;
+
+- 11) Toxicocinética (estudos ADME (absorção, distribuição, metabolismo e excreção));
+
+- 12) Toxicidade fotoinduzida.
+
+Para os parâmetros adequados, devem ser identificadas as concentrações mais relevantes ou as doses sem efeitos adversos observados (NOAEL: No Observed Adverse Effect Level) ou ainda as doses mínimas com efeitos adversos observados (LOAEL: Lowest Observed Adverse Effect Level), a fim de serem utilizados posteriormente no processo de caracterização do risco.
+
+Das orientações específicas sobre parâmetros [^29] elaboradas pela Agência Europeia dos Produtos Químicos (ECHA) para a aplicação do Regulamento (CE) n.º 1907/2006 [^30] relativo ao registo, avaliação, autorização e restrição de substâncias químicas (REACH) constam informações adicionais relativas a dados específicos sobre parâmetros e a respetiva interpretação.
+
+Relativamente a alguns ingredientes cosméticos, nomeadamente de origem mineral, animal, botânica e biotecnológica (ver igualmente substâncias de composição desconhecida ou variável, produtos de reação complexos ou materiais biológicos — substâncias ditas «UVCB» — no âmbito do REACH) [^31], deverão identificar-se exaustivamente indicando a fonte, o processo, os organismos envolvidos, etc., a fim de avaliar o seu perfil toxicológico.
+
+Se certos perigos não puderem ser devidamente abordados, ou se persistirem dúvidas quanto à robustez dos dados, podem ser introduzidos fatores de incerteza adicionais ou pode ser necessário gerar dados adicionais.
+
+#### 3.8.3. Avaliação de todas as vias de absorção significativas
+
+As vias de exposição dérmica, oral e inalatória são potencialmente relevantes para a exposição humana a produtos cosméticos. É fundamental calcular a exposição sistémica para a comparar com o NOAEL aplicável. A relação entre a exposição sistémica e o NOAEL é definida como margem de segurança, que constitui um indicador que permite estabelecer se o produto pode ser considerado seguro ou não (ver igualmente ponto 3.8.4 e seguintes).
+
+A absorção está associada à biodisponibilidade de uma substância e é fundamental para o cálculo da margem de segurança. A exposição sistémica pode ser calculada como:
+
+[imagem: Formula]
+
+A absorção pode ocorrer através de diversas vias externas: dérmica, oral e inalatória.
+
+Se a exposição prevista para o produto cosmético não corresponder à via de exposição indicada nos dados de segurança, deve considerar-se proceder a uma extrapolação via a via.
+
+#### a) Absorção após exposição dérmica
+
+A absorção dérmica [^33] de uma substância contida num produto depende de fatores intrínsecos (por exemplo, logPow (coeficiente de partição), peso molecular) e do seu comportamento no veículo. A absorção dérmica in vivo de uma substância nos seres humanos pode ser estimada com recurso aos dados existentes dos estudos in vivo com animais e dos estudos in vitro realizados com pele animal e humana. Quando não estiverem disponíveis dados de medições e não puder ser determinada uma taxa de absorção com recurso a um método preditivo in silico cientificamente válido ou taxas de absorção por defeito, deve utilizar-se um valor de 100 %, correspondente ao pior cenário para calcular a exposição sistémica [^34]. Caso o peso molecular (MW) seja superior a 500 Da e o coeficiente de partição (Log Pow) inferior a – 1 ou superior a 4, pode ser considerado um valor de 10 % da absorção dérmica.
+
+#### b) Absorção após exposição oral
+
+No caso de uma utilização razoavelmente previsível poder implicar ingestão, a via oral deve ser incluída nos cenários de exposição.
+
+#### c) Absorção após inalação
+
+Relativamente a todas as substâncias utilizadas em aerossol (spray) e para alguns pós, a via de inalação deve ser tida em conta na determinação da exposição sistémica.
+
+Além disso, pode haver ainda a possibilidade de exposição secundária por inalação, no caso de os produtos cosméticos conterem substâncias voláteis suscetíveis de serem inaladas inadvertidamente em caso de utilização direta, por exemplo, tolueno em vernizes para unhas, várias substâncias contidas em geles modeladores para unhas, etc.
+
+#### 3.8.4. Avaliação dos efeitos sistémicos e cálculo da margem de segurança
+
+A avaliação da segurança de um produto no que respeita à toxicidade sistémica depende, em grande medida, dos dados relativos a cada substância, porquanto não haverá dados relativos à toxicidade sistémica do produto cosmético acabado.
+
+Regra geral, a caracterização do risco implica uma avaliação especializada dos potenciais efeitos adversos não quantificáveis, seguida do cálculo de um fator de incerteza ou margem de segurança [^35]. Este cálculo depende da exposição sistémica à substância e dos seus parâmetros toxicológicos.
+
+Em conformidade com o anexo I, parte A, ponto 8, do Regulamento (CE) n.º 1223/2009, os efeitos sistémicos e a margem de segurança devem ser abordados na parte A do relatório de segurança. Por serem obrigatórias, a omissão destas etapas deve ser devidamente justificada. Um exemplo de uma situação em que isto se poderia aplicar seria na presença de uma dose baixa de uma substância num produto cosmético, com níveis de exposições previstos (no pior cenário) inferiores aos valores adequados do limiar de risco toxicológico (TTC) [^36]. Outro exemplo poderia ser a inclusão de substâncias alimentares para os quais é conhecido um nível de ingestão inócua muito mais elevado.
+
+Quando não é possível cumprir o requisito para calcular a margem de segurança, pode ser apropriado, quando se justificar, indicar de outra forma a dose segura para cada substância. Se não estiver disponível um NOAEL, podem ser utilizados outros valores de referência toxicológicos, tais como o NOEL (No Observed Effect Level: nível de dose sem efeitos observados), o LOAEL, o LOEL (Lowest Observed Effect Level: o nível de dose mínima com efeitos observados), para calcular a margem de segurança; a dose de referência (Benchmark dose: BMD) ou a dose virtualmente segura (VSD), utilizadas para qualificar e quantificar um risco noutros domínios, podem ser utilizadas no contexto da avaliação da segurança dos produtos cosméticos, desde que seja estabelecida uma relação com a exposição, através da comparação da exposição aos cosméticos com essas doses de referência.
+
+De outra forma, não é possível demonstrar a segurança de uma dada substância num determinado produto.
+
+De acordo com os procedimentos descritos nas Notas de Orientação do CCSC [^37], a margem de segurança (MoS) de uma via de exposição específica pode ser calculada com recurso à seguinte fórmula:
+
+[imagem: Formula]
+
+em que a dose de exposição sistémica (SED) é obtida pela combinação da exposição externa (mg/kg de peso corporal/dia) com a taxa de absorção (normalmente expressa em % ou em μg/cm^2), frequência e fatores de retenção.
+
+É geralmente aceite que a margem de segurança deve ser, no mínimo, de 100 para que uma substância seja declarada segura para utilização num produto acabado.
+
+Em caso de extrapolação via avia, idealmente deve ser tida em conta a biodisponibilidade respetiva para cada via. A presunção de 100 % de biodisponibilidade oral pode sobrestimar a exposição sistémica num estudo de toxicidade por via oral. Em consequência, na ausência de dados, deve partir-se do pressuposto de que, no máximo, 50 % de uma dose administrada por via oral está disponível sistemicamente. Caso existam elementos que apontem para uma fraca biodisponibilidade oral, por exemplo, se a substância for uma partícula fracamente solúvel, pode ser mais adequado partir do pressuposto de que apenas 10 % da dose administrada está sistemicamente disponível [^38]. Sempre que existam dados relativos à absorção oral, esses dados devem ser incluídos nos cálculos.
+
+O NOAEL escolhido para o cálculo da margem de segurança é obtido em estudos de toxicidade de dose repetida de longa duração (subaguda, subcrónica e/ou ensaios de toxicidade crónica, carcinogenicidade, teratogenicidade, toxicidade para a reprodução, etc.).
+
+O valor a utilizar será o menor NOAEL obtido pelo estudo mais pertinente relativo às condições de utilização da substância, à sensibilidade das espécies, etc.
+
+A partir do perfil toxicológico completo, deve ser determinado um NOAEL para os efeitos sistémicos. Em geral, é selecionado o menor NOAEL aplicável do parâmetro mais importante para calcular a margem de segurança.
+
+O cálculo da margem de segurança com base unicamente em dados relativos à dose letal mediana (LD 50) obtidos em ensaios de toxicidade de dose única (em vez de um NOAEL resultante, no mínimo, de ensaios de toxicidade subaguda) não pode ser utilizado para justificar a segurança da utilização.
+
+Se a ausência de biodisponibilidade puder ser claramente demonstrada, não é necessário realizar o cálculo da margem de segurança. Nestes casos, devem ser igualmente tidos em conta os eventuais efeitos locais na pele ou nas mucosas.
+
+#### 3.8.5. Impacto de determinadas características das substâncias ou do produto no perfil toxicológico
+
+#### a) Dimensão das partículas
+
+A dimensão das partículas e a respetiva curva de distribuição podem ter influência na toxicidade de uma substância. Quando não puder ser excluída a possibilidade de terem impacto na segurança do produto acabado, estes dados devem ser incluídos nas características físico-químicas do produto e tidos em conta na avaliação da segurança. Devem ser seguidos os mais recentes pareceres científicos sobre esta matéria (CCRSERI, CCSC) [^39].
+
+#### b) Impurezas nas substâncias e matérias-primas
+
+As impurezas podem ter um impacto importante na toxicidade geral de qualquer substância. É importante verificar o perfil de impurezas de uma substância para evitar, ou, pelo menos, avaliar, riscos adicionais que advenham das impurezas. Na ausência de dados de segurança resultantes de estudos toxicológicos, o limiar de risco toxicológico (TTC) [^40] pode constituir uma ferramenta vantajosa para avaliar a segurança de determinadas impurezas.
+
+Se forem utilizados estudos de toxicidade para caracterizar o perfil toxicológico de uma substância, deve ser descrito o perfil de pureza e de impurezas da substância utilizada nos estudos toxicológicos. Se os lotes efetivamente utilizados na formulação do produto cosmético não tiverem um perfil de impureza comparável, as diferenças devem ser avaliadas.
+
+#### 3.8.6. O recurso à interpolação (read-across) deve ser fundamentado e justificado
+
+Existem diversas abordagens para a técnica de interpolação. A utilização desta técnica deve ser fundamentada e justificada.
+
+#### 3.8.7. Identificação das fontes de informação
+
+A determinação do perfil toxicológico requer um mínimo de informações sobre a substância a avaliar.
+
+Essas informações podem ser extraídas de estudos toxicológicos. Se existirem dados de estudos em seres humanos, esses dados devem ser tidos em conta.
+
+Outras ferramentas, tais como a relação quantitativa estrutura-atividade (QSAR) ou abordagens por aproximação (bridging), constituem apenas estimativas da toxicidade, e a ponderação da suficiência da prova deve ser fundamentada e justificada.
+
+Devem ser tomadas em consideração as seguintes fontes de dados:
+
+- a) Dados relativos à segurança e à qualidade que podem estar no dossiê dos fornecedores das respetivas matérias-primas que entram da formulação e que o fornecedor deve partilhar com o fabricante do produto cosmético. Este é um elemento importante quando se considera a disponibilidade de dados relevantes para demonstrar a segurança de cada ingrediente cosmético presente na formulação do produto final;
+
+- b) Se existir um parecer do CCSC, deve ser utilizado o NOAEL que figura nesse parecer. O avaliador da segurança deve ter em conta o parecer científico mais atualizado;
+
+- c) Se existir um parecer de outro comité científico oficial, o NOAEL que figura no parecer pode ser utilizado, desde que as conclusões e limitações sejam aplicáveis à utilização prevista (a utilização tida em conta para o cálculo da margem de segurança pode ser diferente). O avaliador da segurança deve ter em conta o parecer científico mais atualizado;
+
+- d) Se não existir qualquer parecer científico, será necessário fornecer informações para caracterizar o perfil toxicológico de cada substância. Os dados podem ser obtidos a partir de diversas bases de dados ou de publicações científicas (ver o apêndice) [^41];
+
+- e) Classificação nos termos do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho [^42];
+
+- f) Estudos realizados ou obtidos pelo fabricante do produto;
+
+- g) Predição in silico (QSAR);
+
+- h) Abordagem por aproximação (bridging);
+
+- i) Podem igualmente ser utilizadas avaliações respeitantes a utilizações não cosméticas da substância [géneros alimentícios, aditivos alimentares, materiais que entram em contacto com os alimentos, biocidas, Registo, Avaliação, Autorização e Restrição de substâncias químicas (REACH)…] para completar as informações sobre o perfil toxicológico da substância;
+
+- j) Se disponível, o CSR (Chemical Safety Report: Relatório de Segurança Química) ou os resumos circunstanciados de estudo apresentados nos termos do Regulamento (CE) n.º 1907/2006 (REACH).
+
+Uma série de substâncias e/ou misturas não foi suficientemente estudada para determinar todos os parâmetros toxicológicos pertinentes. Relativamente a estes parâmetros em falta, ou no caso de a caracterização do risco ser baseada numa abordagem que utiliza dados toxicológicos obtidos para outras substâncias (por exemplo, estruturas similares) ou para utilizações diferentes das cosméticas (alimentos, biocidas, produtos farmacêuticos, etc.), o relatório devem apresentar justificações.
+
+#### 3.9. Efeitos indesejáveis e efeitos indesejáveis graves
+
+Esta secção do relatório de segurança do produto cosmético tem por objetivo monitorizar a segurança do produto após a sua colocação no mercado e, se necessário, tomar medidas corretivas. Para o efeito, a pessoa responsável (em colaboração com os distribuidores) deve criar um sistema para recolher, documentar, estabelecer a relação de causalidade e gerir os efeitos indesejáveis causados pelo produto após a sua utilização na União [^43]. Se os efeitos indesejáveis forem graves, a pessoa responsável (e os distribuidores) devem comunicar à autoridade competente do Estado-Membro onde ocorreu o efeito indesejável grave [^44].
+
+As informações sobre efeitos indesejáveis e efeitos indesejáveis graves devem ser incluídas no relatório de segurança do produto cosmético, ser mantidas atualizadas e ser colocadas à disposição do avaliador da segurança, que pode rever a sua avaliação ou ter em conta essas informações aquando da avaliação de produtos similares.
+
+O relatório de segurança do produto cosmético deve incluir todos os dados disponíveis, incluindo dados estatísticos, sobre efeitos indesejáveis e efeitos indesejáveis graves do produto cosmético ou, sempre que tal for relevante, de outros produtos cosméticos.
+
+Devem constar do relatório de segurança, nomeadamente, informações sobre efeitos indesejáveis que, de acordo com o resultado da avaliação da causalidade, tenham sido considerados como muito provável, provável, possível [^45] ou pouco provável para o produto cosmético em causa.
+
+Nesta parte do relatório de segurança, podem ser incluídos dados relativos a efeitos indesejáveis sob a forma de dados estatísticos, tais como o número e o tipo de efeitos indesejáveis por ano.
+
+As informações sobre efeitos indesejáveis graves que, de acordo com o resultado da avaliação da causalidade, tenham sido considerados como muito provável, provável, possível ou pouco provável para o produto cosmético em causa, devem ser incluídas no relatório de segurança, em conformidade com o anexo I, parte A, secção 9, do Regulamento (CE) n.º 1223/2009, e comunicadas às autoridades nacionais competentes, em conformidade com o artigo 23.º do mesmo regulamento [^46]. Os formulários de comunicação enviados às autoridades competentes devem, pois, ser anexados ao relatório de segurança do produto cosmético.
+
+Deve igualmente ser indicada a reação da pessoa responsável à notificação de efeitos indesejáveis graves, bem como a forma como os efeitos indesejáveis notificados foram tratados. Devem ser descritas as medidas corretivas e preventivas eventualmente tomadas.
+
+As informações sobre efeitos indesejáveis devem ser mantidas atualizadas e regularmente colocadas à disposição do avaliador da segurança [^47], que pode julgar necessário rever a avaliação da segurança, sugerir a introdução de melhorias na formulação ou utilizar as informações na elaboração de relatórios de segurança de produtos similares.
+
+Dados adicionais de cosmetovigilância, tais como efeitos indesejáveis graves resultantes de uma utilização não prevista, podem igualmente fornecer informações úteis, que podem ser tidas em conta pelo avaliador da segurança.
+
+#### 3.10. Informação sobre o produto cosmético
+
+Esta secção do relatório de segurança sobre o produto cosmético permite a inclusão de informações adicionais não abrangidas pelas outras rubricas do anexo I, parte A, do Regulamento (CE) n.º 1223/2009 mas que sejam consideradas relevantes para realizar a avaliação da segurança do produto.
+
+Esta secção do relatório de segurança do produto cosmético deve conter outras informações relevantes, quer relacionadas com o produto ou formulações similares, tais como estudos existentes realizados com voluntários humanos, quer relacionadas com substâncias específicas, tais como resultados, devidamente comprovados e fundamentados, das avaliações de risco realizadas noutras áreas relevantes.
+
+Esta secção pode ser utilizada para mencionar informações sobre substâncias ou misturas igualmente utilizadas noutros tipos de produtos, nomeadamente alimentos e produtos farmacêuticos.
+
+#### 4. ANEXO I, PARTE B, DO REGULAMENTO (CE) N.º 1223/2009 — AVALIAÇÃO DA SEGURANÇA DO PRODUTO COSMÉTICO
+
+A parte B do relatório consiste na avaliação efetiva da segurança do produto. Na sua fundamentação, o avaliador da segurança deve ter em conta todos os perigos identificados para o produto e a exposição ao produto.
+
+A parte B do relatório de segurança do produto cosmético inclui:
+
+- 1) a conclusão da avaliação;
+
+- 2) as advertências e instruções de utilização a inscrever no rótulo;
+
+- 3) a fundamentação;
+
+- 4) as credenciais do avaliador da segurança e a respetiva aprovação final.
+
+#### 4.1. Conclusão da avaliação
+
+A conclusão da avaliação consiste numa declaração sobre a segurança do produto cosmético, relativamente ao requisito de segurança estabelecido pelo artigo 3.º do Regulamento (CE) n.º 1223/2009.
+
+A conclusão deve declarar que o produto é seguro, seguro com restrições ou não é seguro para a saúde humana quando usado em condições de utilização normais ou razoavelmente previsíveis.
+
+Deve ser explicitamente referido o enquadramento jurídico da avaliação, nomeadamente o Regulamento (CE) n.º 1223/2009, relativo aos produtos cosméticos.
+
+Se tiver sido avaliado como não seguro, o produto não pode ser considerado conforme com o Regulamento (CE) n.º 1223/2009 e não pode ser colocado no mercado.
+
+#### 4.2. Advertências e instruções de utilização a inscrever no rótulo
+
+Esta secção do relatório de segurança do produto cosmético tem por objetivo enumerar explicitamente as precauções especiais de utilização, incluindo pelo menos as indicadas nos anexos III a VI do Regulamento (CE) n.º 1223/2009, e eventuais indicações sobre cuidados especiais a tomar em relação aos produtos cosméticos para utilização profissional que devem ser inscritas no rótulo.
+
+Em conformidade com o anexo I do Regulamento (CE) n.º 1223/2009, esta secção deve consistir numa declaração sobre a necessidade de incluir no rótulo qualquer advertência particular ou instrução de utilização, em conformidade com o disposto no artigo 19.º, n.º 1, alínea d).
+
+Incumbe ao avaliador da segurança determinar quais as advertências ou instruções de utilização que, para além das indicadas nos anexos III a VI, devem ser inscritas no rótulo para garantir a utilização segura do produto.
+
+O avaliador da segurança deve decidir o que irá constar do rótulo caso a caso, tendo em conta as obrigações legais decorrentes do artigo 19.º, dos anexos do Regulamento (CE) n.º 1223/2009 e, se for caso disso, de instrumentos como a Recomendação 2006/647/CE da Comissão [^48] (relativa à eficácia e às propriedades reivindicadas dos protetores solares) e outras orientações publicadas pela Comissão, nomeadamente as relativas à rotulagem e sobre o «período após abertura» [^49] e à indicação dos ingredientes no rótulo ao abrigo da Diretiva 76/768/CEE [^50].
+
+#### 4.3. Fundamentação
+
+A fundamentação constitui o núcleo da avaliação da segurança, porquanto o seu objetivo consiste em explicar, com clareza e rigor, de que forma o avaliador da segurança extrai as suas conclusões sobre a segurança do produto cosmético a partir dos dados recolhidos no anexo I, parte A, do Regulamento (CE) n.º 1223/2009.
+
+A avaliação da segurança deve ser realizada caso a caso, para cada produto cosmético individual, e constituir o resultado de uma avaliação especializada dos dados disponíveis. O avaliador da segurança deve certificar-se de que se encontram disponíveis todas as informações necessárias para proceder à avaliação da segurança; deve verificar a relevância dos dados fornecidos sobre o produto a avaliar; e deve justificar a ausência de dados requeridos na parte A, caso considere que os mesmos não são relevantes ou necessários.
+
+Para extrair conclusões sobre a segurança de um produto cosmético, o avaliador da segurança deve avaliar a segurança das substâncias individuais ou misturas presentes na formulação e a segurança do produto acabado. As suas conclusões devem basear-se num conjunto de provas que demonstrem que, em relação a todos os perigos identificados, o produto pode ser considerado seguro para a saúde humana.
+
+O avaliador da segurança pode aceitar, rejeitar ou aceitar em condições específicas a formulação em questão. Um produto que não esteja em conformidade com o Regulamento (CE) n.º 1223/2009 deve ser rejeitado e não pode ser comercializado.
+
+A fundamentação da avaliação da segurança apresenta as considerações que levaram o avaliador da segurança, com base em todas as informações disponíveis relacionadas com a segurança, a extrair uma conclusão global sobre a segurança do produto.
+
+Na sua fundamentação, o avaliador da segurança é obrigado a ter em conta todos os perigos identificados, as condições de exposição previstas e razoavelmente previsíveis das substâncias individuais ou misturas presentes na formulação e do produto cosmético acabado.
+
+Incumbe igualmente ao avaliador da segurança analisar e avaliar a validade/fiabilidade de todas as informações existentes. Através desta análise, o avaliador da segurança fica em condições de decidir se as informações disponíveis são suficientes para proceder à avaliação da segurança ou se são necessárias informações adicionais sobre uma determinada substância ou sobre o produto cosmético acabado.
+
+A fundamentação é baseada nas informações recolhidas na parte A do relatório de segurança do produto cosmético e tem em conta a avaliação da segurança das substâncias e misturas, realizada pelo Comité Científico da Segurança dos Consumidores quando as substâncias constam dos anexos do Regulamento (CE) n.º 1223/2009, por outros comités ou painéis científicos competentes ou pelo próprio avaliador da segurança, assim como a avaliação da segurança do produto cosmético.
+
+#### 4.3.1. Avaliação da segurança de substâncias e/ou misturas
+
+A avaliação da segurança de substâncias e/ou misturas comporta três etapas principais:
+
+- 1) caracterização dos perigos das substâncias e misturas;
+
+- 2) avaliação da exposição local e sistémica (tendo em conta dados relativos à absorção);
+
+- 3) avaliação do risco dos efeitos sistémicos (cálculo da margem de segurança) e avaliação do risco dos efeitos locais (como alergia e irritação cutâneas).
+
+Relativamente aos compostos odoríficos e aromáticos, cuja informação sobre a sua composição é confidencial, o fabricante destas misturas pode fornecer uma avaliação da segurança à pessoa responsável pelo produto cosmético acabado. Tendo em conta a concentração no produto cosmético final e o seu padrão de exposição, a avaliação da segurança do composto odorífico e aromático deve ser elaborada de acordo com os princípios enunciados no anexo I do Regulamento (CE) n.º 1223/2009 e com as presentes orientações. O fornecedor destas misturas deve ainda facultar à pessoa responsável pelo produto cosmético acabado um documento adequado que demonstre a segurança dos compostos odoríficos ou aromáticos.
+
+#### 4.3.2. Avaliação da segurança do produto cosmético
+
+A avaliação da segurança do produto cosmético incide em três aspetos principais:
+
+- 1) Resumo da avaliação de risco baseada nos efeitos locais e sistémicos de todas as substâncias individuais/misturas [^51];
+
+- 2) Avaliação adicional da segurança do produto formulado, que não pode ser avaliado mediante a avaliação separada das substâncias/misturas. Pode tratar-se, por exemplo, da compatibilidade da formulação com a pele, da avaliação de possível combinação de efeitos, por exemplo, a possibilidade de um ingrediente aumentar a taxa de absorção de outro ingrediente, possíveis efeitos que poderiam surgir da interação com material da embalagem, ou possíveis efeitos devidos a reações químicas entre as substâncias individuais/misturas no produto formulado [^52];
+
+- 3) Outros fatores que influenciem a avaliação da segurança, tais como a estabilidade, a qualidade microbiológica, a embalagem e a rotulagem, incluindo as instruções e as precauções de utilização.
+
+A avaliação específica dos produtos cosméticos destinados às crianças com menos de três anos que é exigida nos termos do Regulamento (CE) n.º 1223/2009 deve ter em conta as recomendações específicas constantes das Notas de Orientação do CCSC [^53].
+
+Na avaliação específica requerida nos termos do Regulamento (CE) n.º 1223/2009 para os produtos cosméticos destinados exclusivamente à higiene íntima externa, devem igualmente ser tidas em conta as características específicas do local de aplicação.
+
+O avaliador da segurança pode aceitar, rejeitar ou aceitar em condições específicas a formulação em apreço. Um produto que não esteja em conformidade com o Regulamento (CE) n.º 1223/2009 deve ser rejeitado e não pode ser comercializado. As recomendações formuladas pelo avaliador da segurança em relação à utilização segura do produto devem ser seguidas.
+
+A fim de garantir que o relatório de segurança do produto cosmético é mantido atualizado, conforme previsto no artigo 10.º, n.º 1, alínea c), do Regulamento (CE) n.º 1223/2009, a segurança do produto acabado deve ser reavaliada regularmente.
+
+Sempre que se verifiquem alterações dos requisitos jurídicos (por exemplo, restrições aplicáveis a uma das substâncias incluídas na formulação), deve verificar-se, entre outras coisas (por exemplo, a rotulagem), se a formulação ainda é conforme à legislação e a avaliação da segurança deve ser revista e, se necessário, atualizada.
+
+A avaliação da segurança deve igualmente ser revista e, se necessário, atualizada, se se verificar uma ou mais das seguintes circunstâncias:
+
+- a) forem disponibilizados novas descobertas científicas e dados toxicológicos sobre as substâncias suscetíveis de alterar o resultado da avaliação da segurança existente;
+
+- b) ocorrerem mudanças na formulação ou nas especificações de matérias-primas;
+
+- c) ocorrerem mudanças nas condições de utilização;
+
+- d) for observada uma marcada tendência em termos de natureza, gravidade e frequência de efeitos indesejáveis, tanto em condições de utilização razoavelmente previsíveis como em caso de má utilização [^54].
+
+Devem ser estabelecidos estruturas e processos para assegurar o intercâmbio eficiente das informações relevantes para a atualização do relatório de segurança do produto cosmético entre a pessoa responsável e o avaliador da segurança, e que este último se encontra em posição de intervir sempre que uma atualização se revelar necessária.
+
+#### 4.4. Credenciais do avaliador e aprovação da parte B
+
+O avaliador da segurança deve ser um profissional com os conhecimentos e a proficiência necessários para elaborar uma avaliação da segurança precisa, de acordo com o previsto nos requisitos em matéria de qualificação enunciados no artigo 10.º, n.º 2, do Regulamento (CE) n.º 1223/2009. Esta secção do relatório de segurança do produto cosmético visa assegurar a satisfação deste requisito e a apresentação dos elementos comprovativos necessários.
+
+Nesta secção do relatório de segurança é exigido indicar o nome e o endereço do avaliador da segurança, sendo a mesma datada e assinada pelo avaliador de segurança.
+
+O resultado da avaliação da segurança deve ser assinado, com indicação da data de redação, ou ser emitido com base num documento eletrónico que estabeleça uma clara relação entre o avaliador, a formulação e a data da avaliação. A versão eletrónica deve ser protegida contra abusos por parte de pessoas não autorizadas.
+
+Nos termos do artigo 10.º, n.º 2, do Regulamento (CE) n.º 1223/2009, o avaliador de segurança deve ser «uma pessoa que possua um diploma ou outra prova formal de habilitações adquiridas com a conclusão de um curso universitário teórico e prático, em farmácia, toxicologia, medicina ou disciplina semelhante, ou de um curso reconhecido como equivalente por um Estado-Membro».
+
+Uma pessoa que tenha obtido as suas qualificações num país terceiro pode atuar como avaliador de segurança, desde que tenha concluído «um curso reconhecido como equivalente [a] (um curso universitário teórico e prático, em farmácia, toxicologia, medicina ou disciplina semelhante) por um Estado-Membro».
+
+Deve ser fornecida prova das qualificações do avaliador de segurança (isto é, mediante apresentação de cópia do diploma e, se for caso disso, de prova de equivalência) previstas no artigo 10.º do Regulamento (CE) n.º 1223/2009.
+
+#### Referências
+
+- — ATSDR (2004). Guidance Manual for the assessment of joint toxic action of chemical mixtures. Atlanta, GA: ATSDR, U.S. Department of Health and Human Services, Public Health Service. EFSA (2008) EFSA-Q-2006-160.
+
+- — Bremmer H.J., Prud’homme de Lodder L.C.H., van Engelen J.G.M., Cosmetics Fact Sheet to Assess the Risks for the Consumer, Updated version for ConsExpo 4, RIVM report 320104001/2006 (http://www.rivm.nl/bibliotheek/rapporten/320104001.pdf).
+
+- — Comissão Europeia, Comunicação da Comissão ao Parlamento Europeu e ao Conselho sobre a proibição da experimentação em animais e a proibição da comercialização e sobre o ponto de situação atual relativamente aos métodos alternativos no âmbito dos cosméticos, COM(2013) 135 final.
+
+- — Comissão Europeia, Composition and undesirable effects of cosmetic products to be made easily accessible to the public — practical implementation of Article 7a(1)(h), second subparagraph, of Directive 76/768/EEC (http://ec.europa.eu/consumers/sectors/cosmetics/files/doc/guide_access_info_en.pdf).
+
+- — Comissão Europeia, Serious Undesirable Effects (SUE) Reporting Guidelines, http://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf
+
+- — COSMED, Comment constituer le rapport de sécurité? [Règlement (CE) N.º 1223/2009], Collection: Les guides pratiques des entreprises — Editions 2011-2012.
+
+- — CTFA & COLIPA, Guidelines On Stability Testing Of Cosmetic Products, March 2004.
+
+- — European Chemicals Agency (ECHA), Guidance for identification and naming of substances under REACH and CLP, November 2011.
+
+- — European Chemicals Agency (ECHA), Guidance on information requirements and chemical safety assessment — Chapter R.4: Evaluation of available information, December 2011.
+
+- — European Chemicals Agency (ECHA), Guidance on information requirements and chemical safety assessment — Chapter R.7a: Endpoint specific guidance, May 2008.
+
+- — European Chemicals Agency (ECHA), Guidance on information requirements and chemical safety assessment — Chapter R.7c: Endpoint specific guidance, May 2008.
+
+- — ECHA, «Practical guide 2: How to report weight of evidence», 2010, http://echa.europa.eu/documents/10162/13655/pg_report_weight_of_evidence_en.pdf
+
+- — Greim H. and Snyder R. (eds), Toxicology and Risk Assessment — A comprehensive Introduction. John Wiley & Sons Ltd., 2008.
+
+- — Hall B., Tozer S., Safford B., Coroama M., Steiling W., Leneveu-Duchemin M.C., McNamara C. and Gibney M., European consumer exposure to cosmetic products, a framework for conducting population exposure assessments, Food and Chemical Toxicology, Volume 45, Issue 11, November 2007, Pages 2097-2108.
+
+- — IGHRC 2006, Guidelines on route-to-route extrapolation of toxicity data when assessing health risks of chemicals. The Interdepartmental Group on Health Risks from Chemicals (2006), http://www.silsoe.cranfield.ac.uk/ieh/ighrc/ighrc.html
+
+- — Klimisch H J, Andreae E and Tillmann U, A systematic approach for evaluating the quality of experimental and ecotoxicological data. Regulatory Toxicology and Pharmacology 25 (1997), p.1-5.
+
+- — Kroes R., Renwick A. G., Feron V., Galli C. L., Gibney M., Greim H., Guy R. H., Lhuguenot J. C., van de Sandt J. J. M., Application of the threshold of toxicological concern (TTC) to the safety evaluation of cosmetic ingredients, Food and Chemical Toxicology 45 (2007), 2533-2562.
+
+- — Loretz L.J., Api A.M., Babcock L., Barraj L.M., Burdick J., Cater K.C., Jarrett G., Mann S., Pan Y.H., Re T.A., Renskers K.J., Scrafford C.G., Exposure data for cosmetic products: facial cleanser, hair conditioner, and eye shadow, Food Chem Toxicol. 2008 May; 46(5):1516-24, Epub 2007 Dec 23.
+
+- — Mildau G., Burkhard A., Daphi-Weber J., Große-Damhues J., Jung J., Schuster B., Walther C., Basic Requirements for Safety Assessment of Cosmetic Products, SOFW Journal, 133 6-2007, p. 16-22.
+
+- — Miljøstyrelsen, Guideline on Safety Assessment of Cosmetic Products, Environmental Guidelines No 10 2000.
+
+- — OECD (2007), Guidance on Grouping of Chemicals. Series on Testing and Assessment, No. 80. Paris.
+
+- — OECD (2009), Guidance Document for using the OECD (Q)SAR Application Toolbox to Develop Chemical Categories According to the OECD Guidance on Grouping of Chemicals. Series on Testing and Assessment, No. 102. Paris.
+
+- — Pauwels M., Rogiers V., Human Health Safety Evaluation of Cosmetics in the EU: A Legally Imposed Challenge to Science, Toxicology and Applied Pharmacology, 243 (2010), p. 260-274.
+
+- — SCCS (Scientific Committee on Consumer Safety), Guidance on safety assessment of nanomaterials in cosmetics, SCCS/1484/12.
+
+- — SCCS, The SCCS’s Notes of Guidance for the Testing of Cosmetic Ingredients and their Safety Evaluation, 8^th Revision, SCCS/1501/12.
+
+- — SCCS, SCHER and SCENIHR, Opinion on Use of the Threshold of Toxicological Concern (TTC) Approach for Human Safety Assessment of Chemical Substances with focus on Cosmetics and Consumer Products, SCCP/1171/08.
+
+- — SCCS, SCHER and SCENIHR, Toxicity and Assessment of Chemical Mixtures, 2012.
+
+- — SCENIHR (Scientific Committee on Emerging and Newly Identified Health Risks), Opinion on the scientific basis for the definition of the term «nanomaterial», 8 December 2010.
+
+- — Workshop Report «Assessment of undesirable events in cosmetic market surveillance: Background, description and use of a causality assessment method in cosmetovigilance», Regulatory Toxicology and Pharmacology 58 (2010) 349-353.
+
+[^1]: Artigo 11.º, n.º 2, do Regulamento (CE) n.º 1223/2009.
+
+[^2]: Artigo 10.º, n.º 1, do Regulamento (CE) n.º 1223/2009.
+
+[^3]: Artigo 10.º, n.º 1, alínea c), do Regulamento (CE) n.º 1223/2009.
+
+[^4]: Comité Científico da Segurança dos Consumidores (CCSC), The SCCS’s Notes of Guidance for the Testing of Cosmetic Ingredients and their Safety Evaluation 8^th Revision, SCCS/1501/12, and subsequent updates (Notas de Orientação para testes de ingredientes cosméticos e sua avaliação da segurança), 8.ª revisão, SCCS/1501/12, e subsequentes atualizações.
+
+[^5]: Notas de Orientação do CCSC, pontos 3-6.2, p. 35-36.
+
+[^6]: Este aspeto é importante no contexto das boas práticas de fabrico, sendo explicitamente tratado na norma EN ISO 22716:2007. Mais concretamente, a norma estabelece a correspondência entre os requisitos para a libertação das matérias-primas e do produto acabado.
+
+[^7]: Ver secção 3.3 relativa à qualidade microbiológica.
+
+[^8]: Ver Practical implementation of Article 6(1)(c) of the Cosmetics Directive (Council Directive 76/768/EEC, OJ L 262, 27.9.1976, p. 169): LABELLING OF PRODUCT DURABILITY: «PERIOD OF TIME AFTER OPENING» [Aplicação prática do artigo 6.º, n.º 1, alínea c), da Diretiva Cosméticos (Diretiva 76/768/CEE do Conselho, JO L 262 de 27.9.1976, p. 169) 1: ROTULAGEM RELATIVA À DURABILIDADE DO PRODUTO: PERÍODO DE TEMPO APÓS ABERTURA] http://ec.europa.eu/consumers/sectors/cosmetics/files/doc/wd-04-entr-cos_28_rev_version_adoptee20040419_en.pdf
+
+[^9]: Notas de Orientação do CCSC, pontos 4-3.3, p. 74.
+
+[^10]: A «data de durabilidade mínima» é a data até à qual o produto cosmético, armazenado em condições adequadas, continua a desempenhar a sua função inicial e, em especial, continua a ser seguro; o período após abertura é o período de tempo, após a abertura, durante o qual o produto cosmético é seguro e pode ser utilizado sem causar danos ao consumidor. Ver Practical implementation of Article 6(1)(c) of the Cosmetics Directive (76/768/EEC): LABELLING OF PRODUCT DURABILITY: «PERIOD OF TIME AFTER OPENING» [Aplicação prática do artigo 6.º, n.º 1, alínea c), da Diretiva Cosméticos (76/768/CEE): ROTULAGEM RELATIVA À DURABILIDADE DO PRODUTO: PERÍODO DE TEMPO APÓS ABERTURA].
+
+[^11]: Notas de Orientação do CCSC, ponto 4-4, p. 75-76.
+
+[^12]: O artigo 17.º do Regulamento (CE) n.º 1223/2009 estabelece que apenas é permitida a presença de vestígios de substâncias proibidas se essa presença for tecnicamente inevitável e não tiver impacto na segurança do produto cosmético.
+
+[^13]: As «substâncias genotóxicas e carcinogénicas não sujeitas a limiar» são as substâncias genotóxicas e carcinogénicas sem limiar para os efeitos carcinogénicos-genotóxicos.
+
+[^14]: Opinion of the Scientific Committee on a request from EFSA related to A Harmonised Approach for Risk Assessment of Substances Which are both Genotoxic and Carcinogenic (Parecer emitido pelo Comité Científico a pedido da Autoridade Europeia para a Segurança dos Alimentos sobre Uma abordagem harmonizada da avaliação dos riscos de substâncias que são, simultaneamente, genotóxicas e carcinogénicas), The EFSA Journal (2005) 282, p. 1-31.
+
+[^15]: JO L 338 de 13.11.2004, p. 4.
+
+[^16]: Para avaliar o risco, é necessário considerar o perigo em conjunção com a exposição, o que incumbe ao avaliador da segurança.
+
+[^17]: Notas de Orientação do CCSC, ponto 4, p. 66 et seq.
+
+[^18]: M. Pauwels, V. Rogiers, Human Health Safety Evaluation of Cosmetics in the EU: A Legally Imposed Challenge to Science, Toxicology and Applied Pharmacology, 243 (2010), p. 261.
+
+[^19]: Comunicação da Comissão ao Parlamento Europeu e ao Conselho sobre a proibição da experimentação em animais e a proibição da comercialização, e sobre o ponto de situação relativamente aos métodos alternativos no âmbito dos cosméticos [COM(2013) 135 final].
+
+[^20]: H. J. Klimisch, E. Andreae e U. Tillmann (1997), A systematic approach for evaluating the quality of experimental and ecotoxicological data. (Uma abordagem sistemática para avaliar os dados experimentais e ecotoxicológicos). Regul Toxicol Pharmacol 25:1-5.
+
+[^21]: Ver, nomeadamente, ponto 3.1 da Comunicação.
+
+[^22]: JO L 142 de 31.5.2008, p. 1.
+
+[^23]: Notas de Orientação do CCSC, ponto 3.4.11. Ver igualmente pareceres SCCNFP/0068/98, uma versão anterior das Notas de Orientação, e SCCNFP/0245/99, sobre critérios de base dos protocolos para os ensaios de compatibilidade com a pele de ingredientes ou misturas de ingredientes cosméticos potencialmente irritantes para a pele em voluntários humanos.
+
+[^24]: A abordagem por interpolação constitui uma técnica para colmatar lacunas em matéria de dados, em que as informações relativas a uma ou mais fontes de produtos químicos são utilizadas para realizar uma previsão para um produto químico-alvo que seja considerado de alguma forma similar. Guidance on information requirements and chemical safety assessment Chapter R.4: Evaluation of available information (Orientações sobre requsitos de informação e avaliação de segurança química — Capítulo R. 4: Avaliação da informação disponível), ECHA, dezembro de 2011, p. 12, http://echa.europa.eu/documents/10162/17235/information_requirements_r4_en.pdf
+
+[^25]: Uma definição de ponderação da suficiência de prova é: «o processo que consiste em ponderar os pontos fortes e os pontos fracos de vários elementos da informação para atingir e estabelecer uma conclusão relativa a uma propriedade da substância.», in Guia Prático 2: Como comunicar a ponderação da suficiência de prova, ECHA, 2010, p. 2: http://echa.europa.eu/documents/10162/13655/pg_report_weight_of_evidence_pt.pdf
+
+[^26]: Ver Notas de Orientação do CCSC, secção 3-6, Basic Requirements for Cosmetic Substances Present in Finished Cosmetic Products (Requisitos de base para substâncias cosméticas presentes em produtos cosméticos acabados) (que devem ser avaliados pelas pessoas que são designadas como avaliadores de segurança).
+
+[^27]: As Notas de Orientação do CCSC tratam desta questão no ponto 3-6.1, General toxicological requirements (Requisitos toxicológicos gerais).
+
+[^28]: De acordo com as Notas de Orientação do CCSC (ponto 3-4.5), deve ser conferida prioridade ao nível de efeitos adversos não observados (NOAEL: No Observed Adversed Effect Level), no que respeita à toxicidade subcrónica (estudo de 90 dias). Os resultados relativos à toxicidade subaguda (estudo de 28 dias) apenas devem ser utilizados se esses valores não se encontrarem disponíveis.
+
+[^29]: Guia sobre requisitos de informação e avaliação da segurança química — Capítulo R.7a: Orientações específicas sobre parâmetros, ECHA, maio de 2008 ECHA, Guidance on information requirements and chemical safety assessment — CHAPTER R. 7a: Endpoint specific guidance, May 2008).
+
+[^30]: JO L 396 de 30.12.2006, p. 1.
+
+[^31]: Ver Guia para a identificação e designação de substâncias no âmbito dos Regulamentos REACH e CLP, ECHA, novembro de 2011, p. 29. http://echa.europa.eu/documents/10162/17235/pg_report_weight_of_evidence_pt.pdf
+
+[^32]: Isto é, «a dose sistémica disponível que passa as barreiras físicas importantes (estruturas gastrointestinais, cutâneas ou pulmonares) e que se encontra na corrente sanguínea para subsequente distribuição aos tecidos e órgãos», segundo M. Pauwels, V. Rogiers, op. cit., p. 262.
+
+[^33]: Critérios de base para a avaliação in vitro da absorção dérmica de ingredientes cosméticos (SCCS/1358/10).
+
+[^34]: Notas de Orientação do CCSC, pontos 3-7.2, p. 49.
+
+[^35]: M. Pauwels, V. Rogiers, p. 262.
+
+[^36]: CCSC, CCRSA e CCRSERI, Opinion on Use of the Threshold of Toxicological Concern (TTC) Approach for Human Safety Assessment of Chemical Substances with focus on Cosmetics and Consumer Products [Parecer sobre a utilização da abordagem do limiar de risco toxicológico (TTC) na avaliação da segurança humana das substâncias químicas, em especial sobre os produtos cosméticos e de produtos de consumo], SCCP/1171/08.
+
+[^37]: Notas de Orientação do CCSC, pontos 3-7, p. 46.
+
+[^38]: IGHRC, Guidelines on route-to-route extrapolation of toxicity data when assessing health risks of chemicals (Orientações sobre extrapolação da toxicidade via a via na avaliação dos riscos para a saúde de substâncias químicas). The Interdepartmental Group on Health Risks from Chemicals (2006), http://www.silsoe.cranfield.ac.uk/ieh/ighrc/ighrc.html
+
+[^39]: Ver, por exemplo: CCSC (Comité Científico da Segurança dos Consumidores), Guidance on safety assessment of nanomaterials in cosmetics (Orientações sobre a avaliação da segurança de nanomateriais em cosméticos), SCCS/1484/12; SCENIHR — CCRSERI (Comité Científico dos Riscos para a Saúde Emergentes e Recentemente Identificados), Opinion on the scientific basis for the definition of the term «nanomaterial» (Parecer sobre a base científica para a definição do termo «nanomaterial»), 8 de dezembro de 2010.
+
+[^40]: R. Kroes, A. G. Renwick, V. Feron, C. L. Galli, M. Gibney, H. Greim, R. H. Guy, J. C. Lhuguenot, J.J. M. van de Sandt, Application of the threshold of toxicological concern (TTC) to the safety evaluation of cosmetic ingredients, Food and Chemical Toxicology 45 (2007), p. 2533–2562.
+
+[^41]: Existem diversas bases de dados públicas que contêm dados toxicológicos sobre substâncias utilizadas em cosméticos; essas bases estão enumeradas no apêndice das presentes orientações.
+
+[^42]: JO L 353 de 31.12.2008, p. 1, e sítio de registo ECHA: http://apps.echa.europa.eu/registered/registered-sub.aspx
+
+[^43]: Esta disposição decorre do artigo 23.º do Regulamento (CE) n.º 1223/2009, que prevê a obrigação de as pessoas responsáveis comunicarem efeitos indesejáveis graves às autoridades competentes dos Estados-Membros da União.
+
+[^44]: Artigo 23.º do Regulamento (CE) n.º 1223/2009.
+
+[^45]: Relativamente aos efeitos indesejáveis que são considerados como muito provável ou provavelmente atribuídos ao produto cosmético, é aplicável o artigo 21.º do Regulamento (CE) n.º 1223/2009, «Acesso do público às informações».
+
+[^46]: Comissão Europeia, Serious Undesirable Effects (SUE) Reporting Guidelines (Orientações para a comunicação de efeitos indesejáveis graves), http://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf
+
+[^47]: Trata-se de uma obrigação da pessoa responsável nos termos do artigo 10.º, n.º 1, alínea c), do Regulamento (CE) n.º 1223/2009.
+
+[^48]: JO L 265 de 26.9.2006, p. 39.
+
+[^49]: Disponível em http://ec.europa.eu/consumers/sectors/cosmetics/documents/guidelines/labelling/index_en.htm
+
+[^50]: Disponível em http://ec.europa.eu/consumers/sectors/cosmetics/files/doc/guide_labelling200802_en.pdf
+
+[^51]: Para produtos da mesma gama, em que a única diferença entre produtos consiste no agente corante, e que não tem impacto na segurança, como é o caso dos bâtons e de outros produtos de maquilhagem coloridos, pode ser considerada a elaboração de um relatório de segurança do produto combinado, que terá de ser justificado.
+
+[^52]: CCSC, CCRSA, CCRSERI, Toxicity and Assessment of Chemical Mixtures (Toxicidade e avaliação de misturas químicas), 2012 http://ec.europa.eu/health/scientific_committees/environmental_risks/docs/scher_o_155.pdf
+
+[^53]: Notas de Orientação do CCSC, pontos 3-7.3, p. 51.
+
+[^54]: Comissão Europeia, SUE Reporting Guidelines (Orientações para a comunicação de efeitos indesejáveis graves), http://ec.europa.eu/consumers/sectors/cosmetics/files/pdf/sue_reporting_guidelines_en.pdf
+
+## Apêndice
+
+#### Bases de dados conhecidas que contêm dados toxicológicos sobre substâncias utilizadas em cosméticos
+
+ChemIDPlus Light— http://chem.sis.nlm.nih.gov/chemidplus/chemidlite.jsp
+
+ChemIDPlus Advanced— http://chem.sis.nlm.nih.gov/chemidplus/
+
+Cosmetics Europe Recommendations— https://www.cosmeticseurope.eu/publications-cosmetics-europe-association/recommendations.html
+
+IPCS Inchem— http://www.inchem.org/pages/jecfa.html
+
+PubMed— http://www.ncbi.nlm.nih.gov/pubmed
+
+ToxNet— http://toxnet.nlm.nih.gov/
