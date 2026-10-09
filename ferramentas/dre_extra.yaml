@@ -1,0 +1,13 @@
+# Diplomas portugueses a juntar além das medidas de transposição que o Cellar regista
+# (o Cellar só regista transposição de diretivas; a execução de regulamentos fica de fora).
+# Só entram aqui diplomas cuja relação com o acto da UE está confirmada numa fonte citada.
+
+diplomas:
+  - tipo: Lei
+    numero: 58/2019
+    data: '2019-08-08'
+    relacionado_com: [32016R0679]
+    nota: >-
+      Assegura a execução, na ordem jurídica nacional, do RGPD (Regulamento (UE) 2016/679).
+      Fonte da relação: aviso legal do próprio DRE (diariodarepublica.pt/dr/geral/avisos-legais),
+      consultado em 2026-10-09.

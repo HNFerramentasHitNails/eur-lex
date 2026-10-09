@@ -1,0 +1,347 @@
+---
+diploma: Decreto-Lei n.º 352-A/88
+tipo: Decreto-Lei
+numero: 352-A/1988
+data_publicacao: '1988-10-03'
+sumario: Disciplina a constituição e funcionamento de sociedades ou sucursais de trust off-shore na Zona Franca da Madeira
+texto: consolidado (DRE)
+versao_consolidada_de: '2017-08-21'
+transpoe:
+- 32015L0849
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-885806229
+eli: https://data.dre.pt/eli/dec-lei/352-a/1988/p/cons/20170821/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 352-A/88
+
+**Sumário:** Disciplina a constituição e funcionamento de sociedades ou sucursais de trust off-shore na Zona Franca da Madeira
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2017-08-21. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-885806229
+
+## Texto
+
+Decreto-Lei n.º 352-A/88
+
+de 3 de Outubro
+
+A legislação que criou a Zona Franca da Madeira autorizou, no seu âmbito institucional, o exercício de actividades industriais, comerciais e financeiras por parte das entidades que venham a ser licenciadas para aí operar nos termos regulamentados.
+
+De entre essas entidades avultarão, certamente, aquelas que são oriundas de países com ordenamentos jurídicos diversos do sistema português, designadamente dos países de common law.
+
+Nesse sentido, convirá, de modo a dotar aquela Zona dos imprescindíveis atributos de atracção do investimento estrangeiro e de competitividade nos mercados internacionais, colocar ao dispor daquelas entidades os instrumentos e meios jurídicos a que habitualmente recorrem no exercício da sua actividade e que lhes são facultados noutros centros off-shore.
+
+Encontra-se neste caso o instituto do trust, o qual é uma instituição característica surgida nos países de common law.
+
+São consabidas as diligências levadas a cabo pelos vários países dos dois sistemas jurídicos - da common law e romano-germânico - visando uma convergência assente na estipulação de disposições comuns relativamente à lei aplicável ao trust e ao seu reconhecimento por cada Estado.
+
+O objectivo deste diploma, no entanto, visa, tão-somente, a instituição de trusts apenas destinados a actividades off-shore, ou seja, com base num critério de extraterritorialidade, sem qualquer interferência no ordenamento jurídico interno e exclusivamente protagonizado por pessoas colectivas - as trusts companies - que usufruem do mesmo estatuto.
+
+Ouvidos os órgãos de governo próprio da Região Autónoma da Madeira:
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Definições e conceitos
+
+### Artigo 1.º — Definições
+
+Para efeitos do disposto no presente diploma, entende-se por:
+
+a) Trust ou gestão fiduciária - designação das relações jurídicas resultantes de um acto inter vivos ou mortis causa pelo qual uma pessoa, o settlor, transmite e coloca quaisquer bens - com excepção de bens imóveis localizados em território português - sob o controle e administração de um trustee em proveito de um beneficiary, que pode ser o próprio settlor ou o trustee, ou visando a prossecução de um fim específico;
+
+b) Settlor ou instituidor - pessoa singular ou colectiva que constitui o trust:
+
+c) Trustee ou gestor fiduciário - pessoa colectiva a quem os bens são transmitidos, de modo a ser realizada a vontade do instituidor;
+
+d) Beneficiary ou beneficiário - pessoa singular ou colectiva a favor da qual se constitui o trust;
+
+e) Trust off-shore - trust constituído segundo a lei designada pelo instituidor que admita tal instituto, sendo o instituidor e o beneficiário não residentes em território português e o trustee uma pessoa colectiva autorizada a operar, enquanto tal, no âmbito institucional da Zona Franca da Madeira;
+
+f) Sociedade ou sucursal de trust off-shore - entidade autorizada, através de licenciamento prévio, a exercer a actividade de trust off-shore.
+
+## Capítulo II — Trust off-shore
+
+### Artigo 2.º — Características do trust
+
+1 - O trust reveste-se das características seguintes:
+
+a) Os bens do trust constituem um património separado e não integram o património do trustee;
+
+b) O título relativo aos bens do trust ficará em nome do trustee ou de quem o represente;
+
+c) O trustee fica investido no poder e sujeito à obrigação - da qual deverá prestar contas - de administrar, gerir ou dispor dos bens, nos termos do instrumento do trust e das regras que lhe sejam impostas pela lei que o regula.
+
+2 - A reserva de certas prerrogativas por parte do instituidor ou o exercício de algum direito pelo trustee, enquanto e na qualidade de beneficiário, não é incompatível com a existência do trust.
+
+### Artigo 3.º — Trust off-shore
+
+1 - Um trust constituído ao abrigo de uma legislação que admita o instituto fará parte da actividade desenvolvida no âmbito institucional da Zona Franca da Madeira e, como tal, integrará aquela Zona para todos os efeitos, nos termos dos artigos seguintes.
+
+2 - São reconhecidos os trusts constituídos ao abrigo de lei estrangeira para todos os efeitos da Zona Franca da Madeira.
+
+### Artigo 4.º — Requisitos da inserção institucional
+
+Para efeitos do disposto no artigo anterior, um trust será considerado como actividade off-shore desde que:
+
+a) O instituidor designe a lei que o regula;
+
+b) O instituidor e o beneficiário sejam não residentes em Portugal, podendo, no entanto, ser entidades off-shore devidamente licenciadas para operar no âmbito institucional da Zona Franca da Madeira;
+
+c) O trustee seja uma sociedade ou sucursal autorizada nos termos deste diploma;
+
+d) Os rendimentos a ele afectos não sejam provenientes de fundos locais, com excepção dos resultantes de depósitos feitos nas entidades financeiras off-shore daquela Zona;
+
+e) O trust e os beneficiários não sejam pagos com base em rendimentos locais, com excepção dos originados nas entidades referidas na alínea anterior;
+
+f) Não incida sobre bens imóveis situados em Portugal;
+
+g) O seu fim não seja física ou legalmente impossível, contrário à lei ou indeterminável e contrário à ordem pública ou ofensivo dos bons costumes.
+
+### Artigo 5.º — Lei aplicável
+
+1 - O instituidor, ou quem para o efeito devidamente o represente, designará expressamente a lei que regulamentará o trust, nomeadamente no que toca às questões relativas à validade, interpretação, efeitos e administração.
+
+2 - No instrumento do trust poderá o instituidor reservar o poder de proceder à substituição da lei aplicável ao trust, ou a um dos seus elementos que seja susceptível de ser separado, por uma outra lei de jurisdição diferente, sem prejuízo do disposto no artigo 7.º
+
+### Artigo 6.º — Forma
+
+1 - O acto da constituição do trust está sujeito a forma escrita e tem de ser assinado pelo instituidor ou, em sua representação, pelo trustee.
+
+2 - A assinatura deve ser reconhecida notarialmente.
+
+### Artigo 7.º — Cláusulas obrigatórias
+
+O instrumento do trust deve conter:
+
+a) O nome e identificação do trust;
+
+b) A identificação completa do instituidor, do trustee e do beneficiário, podendo a dos beneficiários ou a de uma categoria deles ser efectuada através da enunciação das circunstâncias que a permitam;
+
+c) A identificação sumária dos trustees ou beneficiários substitutos, se os houver;
+
+d) A identificação e descrição dos bens do trust;
+
+e) A classificação e distribuição dos bens do trust;
+
+f) A declaração expressa da intenção de constituir o trust;
+
+g) A designação expressa da lei que regula o trust;
+
+h) O fim e a modalidade ou tipo de trust;
+
+i) O processo de nomeação, exoneração e remoção do trustee, bem como os requisitos necessários ao exercício das suas funções e à transmissão das mesmas;
+
+j) Os direitos e obrigações dos trustees entre si, em caso de exercício plural;
+
+l) Os poderes do trustee para administrar e dispor dos bens do trust, para os onerar e para adquirir outros bens;
+
+m) Os poderes do trustee para efectuar investimentos e para constituir reservas com os rendimentos do trust;
+
+n) As relações entre o trustee e os beneficiários, incluindo a responsabilidade pessoal do trustee para com estes;
+
+o) A obrigação do trustee de prestar contas da sua gestão;
+
+p) As regras e restrições à acumulação de rendimento no trust, caso as haja;
+
+q) Local da constituição, data e período de duração do trust.
+
+### Artigo 8.º — Regime dos actos
+
+Os actos de constituição, modificação ou extinção do trust, bem como os actos de transmissão, alienação e oneração dos bens a ele sujeitos, beneficiam do regime previsto no n.º 2 do artigo 11.º do Decreto-Lei n.º 165/86, de 26 de Junho.
+
+### Artigo 9.º — Registo
+
+1 - Os atos de constituição, modificação ou extinção do trust estão sujeitos a registo obrigatório.
+
+2 - O registo a que se refere o número anterior deve efetuar-se no prazo de dois meses, contado da data de criação do trust, nos termos de regulamentação a aprovar para o efeito.
+
+> Alterado pelo/a Artigo 10.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
+
+### Artigo 10.º — Elementos do registo
+
+O registo do trust efectua-se tendo por base:
+
+a) O nome e identificação do trust, com indicação do seu objecto;
+
+b) A data da sua criação;
+
+c) O período de duração do trust;
+
+d) A denominação e sede do trustee;
+
+e) A data e natureza dos factos modificativos e extintivos do trust.
+
+### Artigo 11.º — Sigilo e confidencialidade
+
+1 - Estão sujeitos a segredo os nomes do instituidor e dos beneficiários, os quais só podem ser desvendados em execução de decisão judicial.
+
+2 - A violação do disposto no número anterior determina a aplicação das sanções previstas para a violação do segredo bancário.
+
+> Revogado pelo/a Artigo 24.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
+
+### Artigo 12.º — Prestação
+
+1 - Todo o trust está sujeito ao pagamento de um quantitativo pecuniário anual, que deverá ser pago adiantadamente, na data da sua constituição e, nos anos seguintes, no mês de Janeiro, devendo este pagamento ser assegurado pelo trustee.
+
+2 - O montante da contraprestação referida no número anterior será definido em portaria do Governo Regional da Madeira.
+
+## Capítulo III — Sociedades e sucursais de trust off-shore
+
+## Secção I — Constituição
+
+### Artigo 13.º — Constituição e funcionamento
+
+1 - Sem prejuízo do disposto no número seguinte, é permitida, nos termos previstos no presente diploma, a constituição e funcionamento de sociedades, bem como a abertura de sucursais por parte de instituições já existentes que tenham por objecto exclusivo o trust ou gestão fiduciária off-shore.
+
+2 - A actividade de trust ou gestão fiduciária regulada no presente diploma não pode revestir natureza financeira.
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31, em vigor a partir de 1990-09-05
+
+### Artigo 14.º — Inserção institucional
+
+As sociedades e as sucursais que vierem a ser constituídas ao abrigo do presente diploma farão parte integrante da actividade desenvolvida no âmbito institucional da Zona Franca da Madeira e, como tal, integrarão aquela Zona para todos os efeitos.
+
+### Artigo 15.º — Autorização
+
+A constituição e funcionamento das sociedades e sucursais de trust off-shore depende da autorização do Governo Regional da Madeira.
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31, em vigor a partir de 1990-09-05
+
+### Artigo 16.º — Pressupostos da autorização
+
+1 - A autorização terá em atenção o interesse que a concretização do projecto dos requerentes revista para o desenvolvimento da Região Autónoma da Madeira e será concedida de acordo com critérios de conveniência e oportunidade.
+
+2 - Aos requerentes, a outras autoridades públicas ou à concessionária da Zona Franca da Madeira o Governo Regional da Madeira poderá solicitar quaisquer informações adicionais que considere úteis ou necessárias à decisão, nomeadamente as relativas à idoneidade técnica e profissional dos requerentes.
+
+### Artigo 17.º — Caducidade da autorização
+
+A autorização caduca se os requerentes a ela expressamente renunciarem, bem como se a sociedade ou a sucursal não se constituírem no prazo de seis meses ou se não iniciarem a actividade no prazo de doze meses, contados a partir da data da notificação da decisão que a conceder.
+
+### Artigo 18.º — Revogação da autorização
+
+A autorização pode ser revogada pelo Governo Regional da Madeira, cabendo recurso para o Supremo Tribunal Administrativo, nos termos gerais.
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31, em vigor a partir de 1990-09-05
+
+### Artigo 19.º — Regime
+
+Em tudo quanto não contrariar o disposto no presente diploma observar-se-á, em relação às entidades referidas no artigo 13.º, o regime de funcionamento e registo das sociedades e demais entidades licenciadas no âmbito institucional da Zona Franca da Madeira.
+
+### Artigo 20.º — Denominação
+
+A denominação adaptada pelas entidades referidas no n.º 1 do artigo 13.º pode integrar os vocábulos trust, trust company ou trust branch.
+
+## Secção II — Das sociedades
+
+### Artigo 21.º — Forma
+
+1 - As sociedades indicadas no n.º 1 do artigo 13.º constituir-se-ão obrigatoriamente sob a forma de sociedades anónimas.
+
+2 - As respectivas acções serão nominativas numa percentagem não inferior a 51% do capital social.
+
+### Artigo 22.º — Composição accionista
+
+1 - As sociedades poderão constituir-se e subsistir com qualquer número de accionistas, nomeadamente nos termos do n.º 1 do artigo 488.º do Código das Sociedades Comerciais.
+
+2 - Fica sujeita a autorização do Governo Regional da Madeira a alienação de acções nominativas representativas de 5% ou mais do capital das sociedades referidas no n.º 1 do artigo 13.º, devendo, em qualquer caso, ser respeitado o limite constante do n.º 2 do artigo 21.º
+
+### Artigo 23.º — Capital social
+
+O montante do capital social das sociedades será definido pelo Governo Regional, com o limite mínimo de (euro) 99759,58.
+
+> Alterado pelo/a Artigo 27.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31, em vigor a partir de 1990-09-05
+
+### Artigo 24.º — Composição do órgão de fiscalização
+
+1 - As sociedades constituídas ao abrigo deste diploma poderão, independentemente do seu capital social, adoptar no respectivo contrato de sociedade o regime do fiscal único.
+
+2 - O fiscal único terá domicílio, sede ou estabelecimento em território português.
+
+## Secção III — Das sucursais
+
+### Artigo 25.º — Garantia das operações efectuadas
+
+1 - As instituições que sejam autorizadas a proceder à abertura de sucursais de trust off-shore nos termos deste diploma responderão plenamente pelas operações realizadas pelas respectivas sucursais.
+
+2 - A sucursal deverá ser dotada de todos os poderes necessários para, perante o Governo Regional da Madeira ou outras autoridades públicas e terceiros, assegurar uma representação plena, com escolha de domicílio particular para o efeito.
+
+3 - Os poderes referidos no número anterior incluirão obrigatoriamente o de receber citações.
+
+## Secção IV — Do exercício da actividade
+
+### Artigo 26.º — Princípios de gestão
+
+As entidades referidas no artigo 13.º devem exercer as suas funções com o zelo e a diligência típicos de um gestor cauteloso e ordenado.
+
+### Artigo 27.º — Licenças
+
+As entidades referidas no artigo 13.º estarão sujeitas ao pagamento de uma taxa de instalação e de uma taxa anual de funcionamento, nas condições e montante a definir no acto de autorização.
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31, em vigor a partir de 1990-09-05
+
+### Artigo 28.º — Caução
+
+1 - Aquelas entidades prestarão, no monumento da emissão da autorização, uma caução para garantia do exacto e pontual cumprimento das obrigações que assumem.
+
+2 - O Governo Regional da Madeira fixará o valor da caução, mediante proposta da concessionária da Zona Franca da Madeira.
+
+3 - A entidade a cujo favor for prestada a caução poderá recorrer à mesma, independentemente de quaisquer formalidades, nos casos em que as entidades licenciadas não cumpram as suas obrigações.
+
+4 - A caução será prestada por depósito em dinheiro ou mediante garantia bancária ou seguro-caução, conforme escolha daquelas entidades.
+
+5 - A caução ficará à disposição da entidade a cujo favor foi prestada e só pode ser cancelada por declaração desta, comunicada, por escrito, à entidade garante.
+
+6- Nos casos referidos no artigo 25.º, a caução deverá ser prestada em nome da sociedade-mãe.
+
+### Artigo 29.º — Operações autorizadas
+
+1 - Salvo disposição em contrário da lei designada pelo instituidor para regular o trust ou no documento que o formalize, poderão as entidades referidas no artigo 13.º realizar operações de investimento com residentes em território nacional, sob qualquer forma ou modalidade, nos mesmos termos e condições legais em que estes podem realizar tais operações com instituições estabelecidas noutro território cambial.
+
+2 - Nos termos referidos no número anterior, é também autorizada a realização de quaisquer operações com as entidades que operem, devidamente licenciadas, no âmbito institucional da Zona Franca da Madeira.
+
+### Artigo 30.º — Fiscalização de contas
+
+Os relatórios de auditoria, acompanhando o relatório e contas de cada exercício, serão enviados ao Governo Regional da Madeira.
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31, em vigor a partir de 1990-09-05
+
+## Capítulo IV — Disposições finais
+
+### Artigo 31.º — Tributação
+
+O regime fiscal aplicável às entidades referidas no n.º 1 do artigo 13.º regula-se pela legislação relativa à Zona Franca da Madeira.
+
+### Artigo 32.º — Arbitragem
+
+Salvo disposição em contrário da lei designada pelo instituidor para regular o trust, o instrumento que o formalize poderá consignar o recurso à arbitragem, como forma de composição e resolução das questões suscitadas entre o instituidor, o trustee e os beneficiários ou entre o trustee e terceiros.
+
+### Artigo 33.º — Foro supletivo
+
+Na falta de convenção da arbitragem, é competente o foro da comarca do Funchal.
+
+### Artigo 34.º — Segurança Social
+
+Os trabalhadores ao serviço das entidades referidas no artigo 13.º, bem como as respectivas entidades empregadoras, ficam sujeitos ao regime geral de segurança social, de acordo com o previsto na legislação portuguesa sobre a matéria.
+
+Visto e aprovado em Conselho de Ministros de 28 de Julho de 1988. - Aníbal António Cavaco Silva - Lino Dias Miguel - Rui Carlos Alvarez Carp - Joaquim Fernando Nogueira - Licínio Alberto de Almeida Cunha.
+
+Promulgado em 29 de Setembro de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 29 de Setembro de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

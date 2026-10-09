@@ -14,6 +14,6 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
 - Nenhuma medida portuguesa registada no Cellar para esta diretiva.

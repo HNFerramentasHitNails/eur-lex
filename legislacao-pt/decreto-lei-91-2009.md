@@ -1,0 +1,1075 @@
+---
+diploma: Decreto-Lei n.º 91/2009
+tipo: Decreto-Lei
+numero: 91/2009
+data_publicacao: '2009-04-09'
+sumario: Estabelece o regime jurídico de protecção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade e revoga o Decreto-Lei n.º 154/88, de 29 de Abril, e o Decreto-Lei n.º 105/2008, de 25 de Junho
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2026-08-13'
+transpoe:
+- 32019L1158
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2009-603961
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70157403
+eli: https://data.dre.pt/eli/dec-lei/91/2009/p/cons/20260813/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 91/2009
+
+**Sumário:** Estabelece o regime jurídico de protecção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade e revoga o Decreto-Lei n.º 154/88, de 29 de Abril, e o Decreto-Lei n.º 105/2008, de 25 de Junho
+
+**Comunicado à Comissão Europeia como transpondo:** 32019L1158 (Conciliação vida profissional e familiar).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2026-08-13. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70157403
+
+## Texto
+
+de 9 de Abril
+
+O XVII Governo Constitucional reconhece, no seu Programa, o contributo imprescindível das famílias para a coesão, equilíbrio social e o desenvolvimento sustentável do País.
+
+Reconhecendo a importância e a necessidade de criar medidas que contribuam para a criação de condições favoráveis ao aumento da natalidade, por um lado, mas também à melhoria da conciliação da vida familiar e profissional e aos cuidados da primeira infância, o Governo elaborou um conjunto de medidas de alteração do regime de protecção na parentalidade, primeiro no âmbito do Acordo Tripartido para um Novo Sistema de Regulação das Relações Laborais, das Políticas de Emprego e da Protecção Social em Portugal e mais recentemente plasmadas no Código do Trabalho.
+
+Também no III Plano Nacional para a Igualdade - Cidadania e Género (2007-2010) está prevista a adopção de medidas e acções destinadas a combater as desigualdades de género, promover a igualdade entre mulheres e homens bem como a conciliação entre a vida profissional, familiar e pessoal, elegendo-se como prioridade, nomeadamente, a criação de condições de paridade na harmonização das responsabilidades profissionais e familiares.
+
+No âmbito da protecção à parentalidade, que constitui um direito constitucionalmente reconhecido, a segurança social intervém através da atribuição de subsídios de natureza pecuniária que visam a substituição dos rendimentos perdidos por força da situação de incapacidade ou indisponibilidade para o trabalho por motivo de maternidade, paternidade e adopção.
+
+O novo regime de protecção social elege como prioridades o incentivo à natalidade e a igualdade de género através do reforço dos direitos do pai e do incentivo à partilha da licença, ao mesmo tempo que promove a conciliação entre a vida profissional e familiar e melhora os cuidados às crianças na primeira infância através da atribuição de prestações pecuniárias na situação de impedimento para o exercício de actividade profissional.
+
+O presente decreto-lei alarga o esquema de protecção social na parentalidade dos trabalhadores independentes, que passam a beneficiar do subsídio parental exclusivo do pai e do subsídio para assistência a filho com deficiência ou doença crónica.
+
+Por outro lado, por força das sucessivas alterações à lei da maternidade, o regime por adopção tem hoje uma protecção menor do que a prevista para a maternidade, pelo que se impõe, por uma questão de justiça social, o reconhecimento ao instituto da adopção do estatuto que lhe é devido através da equiparação deste regime ao regime de protecção na parentalidade, corrigindo-se assim uma injustiça que se vinha verificando desde há alguns anos a esta parte.
+
+São reforçados os direitos do pai por nascimento de filho, quer no que se refere aos direitos de gozo obrigatório quer no que se refere aos direitos de gozo facultativo, e aumenta-se o período de licença parental no caso de partilha da licença parental por ambos os progenitores, garantindo-se um maior período de acompanhamento da criança nos primeiros tempos de vida e possibilitando-se uma maior partilha e flexibilização dos progenitores na conciliação da vida familiar com a gestão da sua carreira profissional.
+
+Ademais, cria-se a possibilidade de prolongamento da licença parental inicial por mais seis meses adicionais subsidiados pela segurança social. O subsídio parental alargado com a duração de três meses é concedido a um ou a ambos os cônjuges alternadamente, desde que a respectiva licença seja gozada no período imediatamente subsequente à licença parental inicial ou à licença complementar, na modalidade de alargada, pelo outro cônjuge.
+
+Com o objectivo de incentivar a natalidade e melhorar os cuidados às crianças na primeira infância o trabalho a tempo parcial para acompanhamento de filho durante os 12 primeiros anos de vida é contado em dobro para efeitos de atribuições de prestações de segurança social, com o limite da remuneração correspondente ao tempo completo.
+
+No âmbito da assistência a filhos, em caso de doença ou acidente, procede-se ao alargamento das situações passíveis de protecção através da atribuição de subsídio durante o correspondente período de faltas e reforça-se a protecção conferida em caso de filho com deficiência ou doença crónica.
+
+Assim, as faltas para assistência a menor de 12 anos ou, independentemente da idade, no caso de filho com deficiência ou doença crónica, são subsidiadas durante o período máximo de 30 dias por ano civil ou durante todo o período de eventual hospitalização, sendo as faltas para assistência a maiores de 12 anos subsidiadas durante o período máximo de 15 dias também por ano civil, acrescidos de um dia por cada filho além do primeiro.
+
+Reforçam-se os direitos dos avós e promove-se a possibilidade de uma melhor flexibilização da gestão e organização da vida familiar através da criação de um subsídio para as faltas dos avós que, em substituição dos pais, prestam assistência aos netos menores doentes ou, independentemente da idade, com deficiência ou doença crónica.
+
+Aumenta-se em dobro o limite máximo do subsídio para assistência a filho com deficiência ou doença crónica discriminando positivamente as situações em que se verificam necessidades especiais na assistência à família.
+
+São ainda simplificados os meios de prova no sentido de permitir uma maior facilidade ao cidadão em requerer as respectivas prestações, prevendo-se a possibilidade de dispensa de requerimento quando as situações são certificadas através do Certificado de Incapacidade Temporária para o Trabalho, sem prejuízo de se manter a possibilidade de requerimento em papel e online através da segurança social directa. Deixa de ser exigível a comprovação do período de impedimento pelas respectivas entidades empregadoras, excepto na situação de risco específico.
+
+Neste contexto, o presente decreto-lei estabelece o regime de protecção social na parentalidade em adequação à recente alteração do quadro jurídico-laboral, constante do Código do Trabalho, e promove a consolidação jurídica, num único texto normativo, do regime de protecção social do sistema previdencial e do subsistema de solidariedade tendo em vista assegurar uma maior equidade, clareza e facilidade no acesso aos direitos que assistem aos seus destinatários.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foram ouvidos, a título facultativo, os parceiros sociais com assento na Comissão Permanente de Concertação Social.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido na Lei n.º 4/2007, de 16 de Janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objecto e âmbito
+
+O presente decreto-lei define e regulamenta a proteção na parentalidade no âmbito da eventualidade maternidade, paternidade e adoção do sistema previdencial.
+
+> Alterado pelo/a Artigo 51.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 2.º — Protecção na parentalidade no âmbito do sistema previdencial
+
+1 - A protecção prevista no âmbito do sistema previdencial concretiza-se na atribuição de prestações pecuniárias destinadas a compensar a perda de rendimentos de trabalho em consequência da ocorrência da eventualidade.
+
+2 - A protecção estabelecida no âmbito do sistema previdencial abrange as situações de risco clínico durante a gravidez, de interrupção da gravidez, de parentalidade, de adopção, de risco específico, de assistência a filho, em caso de doença ou acidente, de assistência a filho com deficiência ou doença crónica e de assistência a neto determinantes de impedimento temporário para o trabalho.
+
+### Artigo 3.º — Protecção na parentalidade no âmbito do subsistema de solidariedade
+
+1 - A protecção prevista no âmbito do subsistema de solidariedade concretiza-se na atribuição de prestações pecuniárias destinadas a garantir rendimentos substitutivos da ausência ou da perda de rendimentos de trabalho, em situações de carência económica, determinadas pela inexistência ou insuficiência de carreira contributiva em regime de protecção social de enquadramento obrigatório ou no seguro social voluntário que garanta protecção na eventualidade, ou pela exclusão da atribuição dos correspondentes subsídios no âmbito do sistema previdencial.
+
+2 - A protecção estabelecida no âmbito do subsistema de solidariedade abrange as situações de risco clínico durante a gravidez, de interrupção da gravidez, de parentalidade, de adopção e de riscos específicos.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Capítulo II — Protecção no âmbito do sistema previdencial
+
+## Secção I — Âmbito, caracterização dos subsídios e registo de remunerações por equivalência
+
+## Subsecção I — Âmbito pessoal e material
+
+### Artigo 4.º — Âmbito pessoal
+
+1 - A protecção regulada no presente capítulo abrange os beneficiários do sistema previdencial integrados no regime dos trabalhadores por conta de outrem e no regime dos trabalhadores independentes.
+
+2 - Estão igualmente abrangidos pelo disposto no presente capítulo os beneficiários enquadrados no regime do seguro social voluntário desde que o respectivo esquema de protecção social integre a eventualidade.
+
+### Artigo 5.º — Extensão dos direitos atribuídos aos progenitores
+
+1 - A protecção conferida aos progenitores através dos subsídios previstos no presente capítulo é extensiva aos beneficiários do regime geral dos trabalhadores por conta de outrem, adoptantes, tutores, pessoas a quem for deferida a confiança judicial ou administrativa do menor, bem como cônjuges ou pessoas em união de facto com qualquer daqueles ou com o progenitor desde que vivam em comunhão de mesa e habitação com o menor, sempre que, nos termos do Código de Trabalho, lhes seja reconhecido direito às correspondentes faltas, licenças e dispensas.
+
+2 - O previsto no número anterior aplica-se, em igualdade de circunstâncias, aos beneficiários do regime de segurança social dos trabalhadores independentes e do seguro social voluntário.
+
+### Artigo 6.º — Beneficiários em situação de pré-reforma
+
+Os titulares de prestações de pré-reforma têm direito aos subsídios previstos no presente capítulo, desde que exerçam actividade enquadrada em qualquer dos regimes a que se refere o artigo 4.º, sendo os respectivos subsídios calculados com base na remuneração do trabalho efectivamente auferida.
+
+### Artigo 7.º — Âmbito material
+
+1 - A protecção regulada no presente capítulo concretiza-se na atribuição dos seguintes subsídios:
+
+a) Subsídio por risco clínico durante a gravidez;
+
+b) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento;
+
+c) Subsídio por interrupção da gravidez;
+
+d) Subsídio parental;
+
+e) Subsídio parental alargado;
+
+f) Subsídio por adopção;
+
+g) Subsídio por riscos específicos;
+
+h) Subsídio para assistência a filho;
+
+i) Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica;
+
+j) Subsídio para assistência a neto;
+
+k) Subsídio específico por internamento hospitalar do recém-nascido.
+
+2 - A proteção regulada no presente capítulo integra, também, a atribuição de prestações pecuniárias compensatórias de subsídios de férias, de Natal ou outros de natureza análoga.
+
+3 - O direito aos subsídios previstos nas alíneas d) a i) do n.º 1 apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito da mãe ao subsídio parental inicial de 42 dias e do subsídio por riscos específicos durante a amamentação.
+
+4 - A proteção conferida aos trabalhadores independentes não integra as prestações previstas no n.º 2.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20, em vigor a partir de 2023-11-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02, em vigor a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27, em vigor a partir de 2012-07-01
+
+> Nota: Artigo 5.º, Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20 As alterações introduzidas ao presente artigo produzem efeitos com a entrada em vigor do Orçamento do Estado posterior a 20-11-2023.
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 8.º — Articulação com o regime de protecção social no desemprego
+
+1 - A protecção dos beneficiários que estejam a receber prestações de desemprego concretiza-se na atribuição dos seguintes subsídios:
+
+a) Subsídio por risco clínico durante a gravidez;
+
+b) Subsídio por interrupção da gravidez;
+
+c) Subsídio parental;
+
+d) Subsídio por adopção.
+
+e) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento.
+
+2 - A atribuição dos subsídios referidos no número anterior determina a suspensão do pagamento das prestações de desemprego, durante o período de concessão daqueles subsídios, nos termos regulados no respectivo regime jurídico.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20, em vigor a partir de 2023-11-21
+
+> Nota: Artigo 5.º, Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20 As alterações introduzidas ao presente artigo produzem efeitos com a entrada em vigor do Orçamento do Estado posterior a 20-11-2023.
+
+## Subsecção II — Caracterização dos subsídios
+
+### Artigo 9.º — Subsídio por risco clínico durante a gravidez
+
+O subsídio por risco clínico durante a gravidez é concedido nas situações em que se verifique a existência de risco clínico, para a grávida ou para o nascituro, medicamente certificado, impeditivo do exercício de actividade laboral, durante o período de tempo considerado necessário para prevenir o risco.
+
+### Artigo 9.º-A — Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento
+
+1 - O subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto é atribuído nas situações em que a grávida necessite fazer essa deslocação por indisponibilidade ou inexistência de recursos técnicos e humanos na sua ilha de residência, durante o período que for considerado necessário e adequado para esse fim, o que deve constar expressamente de prescrição médica.
+
+2 - O subsídio a que se refere o número anterior é ainda atribuído para acompanhamento da grávida pelo trabalhador cônjuge, que com ela viva em união de facto ou economia comum, ou por seu parente ou afim na linha reta ou no 2.º grau da linha colateral.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20, em vigor a partir de 2023-11-21
+
+> Aditado pelo/a Artigo 7.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 5.º, Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20 As alterações introduzidas ao presente artigo produzem efeitos com a entrada em vigor do Orçamento do Estado posterior a 20-11-2023.
+
+> Nota: Artigo 9.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 10.º — Subsídio por interrupção da gravidez
+
+O subsídio por interrupção da gravidez é concedido nas situações de interrupção de gravidez impeditivas do exercício de actividade laboral, medicamente certificadas, durante um período variável entre 14 e 30 dias.
+
+### Artigo 11.º — Subsídio parental
+
+O subsídio parental é concedido durante o período de impedimento para o exercício da actividade laboral e compreende as seguintes modalidades:
+
+a) Subsídio parental inicial;
+
+b) Subsídio parental inicial exclusivo da mãe;
+
+c) Subsídio parental inicial de um progenitor em caso de impossibilidade do outro;
+
+d) Subsídio parental inicial exclusivo do pai.
+
+### Artigo 12.º — Subsídio parental inicial
+
+1 - O subsídio parental inicial é concedido pelo período até 120 ou 150 dias consecutivos, consoante opção dos progenitores, cujo gozo podem partilhar após o parto, sem prejuízo dos direitos da mãe a que se refere o artigo seguinte.
+
+2 - Os períodos referidos no número anterior são acrescidos de 30 dias consecutivos nas situações de partilha da licença, no caso de cada um dos progenitores gozar, em exclusivo, um período de 30 dias consecutivo, ou dois períodos de 15 dias consecutivos, após o período de gozo de licença parental inicial exclusiva da mãe, correspondente a 42 dias após o parto.
+
+3 - No caso de nascimentos múltiplos, aos períodos previstos nos números anteriores acrescem 30 dias por cada gémeo além do primeiro.
+
+4 - Durante o gozo da licença parental inicial prevista nos n.os 4 e 5 do artigo 40.º do Código do Trabalho, os beneficiários têm direito ao correspondente subsídio parental inicial.
+
+5 - No caso de internamento hospitalar da criança imediatamente após o período recomendado de internamento pós-parto, devido a necessidade de cuidados médicos especiais para a criança, aos períodos previstos nos números anteriores acresce o período de internamento, com o limite máximo de 30 dias.
+
+6 - Nas situações em que o parto ocorra até às 33 semanas inclusive, aos períodos previstos nos n.os 1, 2 e 3 acresce todo o período de internamento da criança, bem como 30 dias após a alta hospitalar.
+
+7 - A concessão do subsídio parental inicial depende de declaração dos beneficiários dos períodos a gozar ou gozados pelos progenitores, de modo exclusivo ou partilhado.
+
+8 - Caso a licença parental inicial não seja partilhada pela mãe e pelo pai, e sem prejuízo dos direitos da mãe a que se refere o artigo seguinte, há lugar à concessão do subsídio parental inicial ao progenitor que o requeira nas situações em que o outro progenitor exerça actividade profissional e não tenha requerido o correspondente subsídio.
+
+9 - Caso não seja apresentada a declaração de partilha, o direito ao subsídio parental inicial é reconhecido à mãe.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 13.º — Subsídio parental inicial exclusivo da mãe
+
+O subsídio parental inicial exclusivo da mãe é concedido por um período facultativo até 30 dias antes do parto e, obrigatoriamente, 42 dias consecutivos após o parto, os quais se integram no período de concessão correspondente ao subsídio parental inicial.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+### Artigo 14.º — Subsídio parental inicial de um progenitor em caso de impossibilidade do outro
+
+1 - O subsídio parental inicial de um progenitor em caso de impossibilidade do outro é concedido até ao limite do período remanescente que corresponda à licença parental inicial não gozada, em caso de:
+
+a) Incapacidade física ou psíquica, medicamente certificada, enquanto se mantiver;
+
+b) Morte.
+
+2 - Apenas há lugar ao período total de concessão previsto no n.º 2 do artigo 12.º caso se verifiquem as condições aí previstas, à data dos factos referidos no número anterior.
+
+3 - Em caso de morte ou incapacidade física ou psíquica de mãe o subsídio parental inicial a gozar pelo pai tem a duração mínima de 30 dias.
+
+4 - Em caso de morte ou incapacidade física ou psíquica de mãe não trabalhadora nos 120 dias a seguir ao parto o pai tem direito ao remanescente do subsídio parental inicial nos termos do n.º 1, com as devidas adaptações, ou do número anterior.
+
+### Artigo 15.º — Subsídio parental inicial exclusivo do pai
+
+1 - O subsídio parental inicial exclusivo do pai é concedido pelos períodos seguintes, sem prejuízo do disposto no n.º 4:
+
+a) 28 dias de gozo obrigatório, seguidos ou interpolados de no mínimo 7 dias, dos quais 7 gozados de modo consecutivo imediatamente após o nascimento e os restantes 21 nos 42 dias seguintes a este;
+
+b) 7 dias de gozo facultativo, seguidos ou interpolados, desde que gozados em simultâneo com o gozo da licença parental inicial por parte da mãe.
+
+2 - No caso de nascimentos múltiplos, aos períodos previstos no número anterior acrescem dois dias por cada gémeo além do primeiro, a gozar imediatamente após os referidos períodos.
+
+3 - A atribuição do subsídio parental inicial exclusivo do pai depende de declaração dos períodos a gozar ou gozados pelo mesmo.
+
+4 - No caso de internamento hospitalar da criança durante o período após o parto, o período da licença referido na alínea a) do n.º 1 é suspenso a pedido do pai, pelo tempo de duração do internamento.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Alterado pelo/a Artigo 3.º do/a Lei n.º 120/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 16.º — Subsídio parental alargado
+
+O subsídio parental alargado é concedido por um período até três meses a qualquer um ou a ambos os progenitores simultânea ou alternadamente, nas situações de exercício de licença parental complementar gozada nos termos previstos nas alíneas a), c) e d) do n.º 1 do artigo 51.º do Código do Trabalho.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+### Artigo 17.º — Subsídio por adopção
+
+1 - O subsídio por adoção é concedido aos candidatos a adotante nas situações de adoção de menor de 15 anos, impeditivas do exercício de atividade laboral, exceto se se tratar de adoção de filho do cônjuge do beneficiário ou da pessoa com quem o beneficiário viva em união de facto e corresponde, com as devidas adaptações, ao subsídio parental inicial, ao subsídio parental inicial exclusivo do pai e ao subsídio parental alargado.
+
+2 - Em caso de incapacidade física ou psíquica, medicamente comprovada, ou de morte do beneficiário candidato a adoptante sem que este tenha esgotado o direito ao subsídio, o cônjuge que seja beneficiário tem direito ao subsídio pelo período remanescente ou a um mínimo de 14 dias, ainda que não seja candidato a adoptante, desde que viva em comunhão de mesa e habitação com o adoptado.
+
+3 - No caso de adoções múltiplas, aos períodos previstos nos números anteriores acrescem 30 dias ou 2 dias, respetivamente, por cada adoção além da primeira.
+
+4 - O disposto no presente artigo aplica-se, com as necessárias adaptações, às famílias de acolhimento.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+### Artigo 18.º — Subsídio por riscos específicos
+
+1 - O subsídio por riscos específicos é concedido nas situações de impedimento para o exercício de actividade laboral determinadas pela existência de risco específico para a beneficiária grávida, puérpera e lactante que desempenhe trabalho nocturno ou esteja exposta a agentes, processos ou condições de trabalho, que constituam risco para a sua segurança e saúde nos termos definidos na lei, durante o período necessário para prevenir o risco e na impossibilidade de o empregador lhe conferir outras tarefas.
+
+2 - No caso de trabalhadoras independentes ou abrangidas pelo seguro social voluntário, a comprovação do risco de desempenho de trabalho nocturno ou de exposição a agente ou processos ou condições de trabalho é efectuada por médico do trabalho ou por instituição ou serviço integrado no Serviço Nacional de Saúde.
+
+### Artigo 19.º — Subsídio para assistência a filho
+
+1 - O subsídio para assistência a filho é concedido, nas situações de impedimento para o exercício de actividade laboral determinadas pela necessidade de prestar assistência inadiável e imprescindível a filhos, em caso de doença ou acidente, medicamente certificadas, nos seguintes termos:
+
+a) Menor de 12 anos ou, independentemente da idade, no caso de filho com deficiência ou doença crónica, um período máximo de 30 dias, seguidos ou interpolados, em cada ano civil ou durante todo o período de eventual hospitalização;
+
+b) Maior de 12 anos, um período máximo de 15 dias, seguidos ou interpolados, em cada ano civil.
+
+2 - Aos períodos referidos no número anterior acresce um dia por cada filho além do primeiro.
+
+3 - A concessão do subsídio para assistência a filho depende de o outro progenitor ter actividade profissional, não exercer o direito ao respectivo subsídio pelo mesmo motivo ou estar impossibilitado de prestar a assistência e, ainda, no caso de filho maior, este se integrar no agregado familiar do beneficiário.
+
+4 - Relevam para o cômputo dos períodos máximos de concessão do subsídio para assistência a filho os períodos de concessão do subsídio para assistência a netos, nos termos da alínea b) do n.º 1 do artigo 21.º
+
+### Artigo 20.º — Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica
+
+1 - O subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, abrangida pelo regime especial de proteção de crianças e jovens com doença oncológica, criado pela Lei n.º 71/2009, de 6 de agosto, é concedido nas situações de impedimento para o exercício de atividade laboral determinadas pela necessidade de lhe prestar assistência, por período até seis meses, prorrogável até ao limite de quatro anos.
+
+2 - Nas situações de necessidade de prolongamento da assistência, confirmada por declaração de médico especialista, comprovativa dessa necessidade, a prorrogação prevista no n.º 1 tem o limite de seis anos.
+
+3 - A concessão do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica depende de:
+
+a) O filho viver em comunhão de mesa e habitação com o beneficiário;
+
+b) O outro progenitor ter actividade profissional e não exercer o direito ao respectivo subsídio pelo mesmo motivo ou estar impossibilitado de prestar a assistência.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 21.º — Subsídio para assistência a neto
+
+1 - O subsídio para assistência a neto concretiza-se nas seguintes modalidades de prestações garantidas durante o período de impedimento para o exercício de actividade laboral:
+
+a) Subsídio para assistência em caso de nascimento de neto, correspondente a um período até 30 dias consecutivos após o nascimento de neto que resida com o beneficiário em comunhão de mesa e habitação e seja filho de adolescente menor de 16 anos;
+
+b) Subsídio para assistência a neto menor ou, independentemente da idade, com deficiência ou doença crónica, pelo período correspondente aos dias de faltas remanescentes não gozados pelos progenitores, nos termos previstos no artigo 19.º, com as devidas adaptações.
+
+2 - A concessão do subsídio para assistência em caso de nascimento de neto depende de declaração dos beneficiários dos períodos a gozar ou gozados pelos avós, de modo exclusivo ou partilhado.
+
+3 - O subsídio para assistência em caso de nascimento de neto, nas situações em que não é partilhado pelos avós, é concedido desde que o outro avô exerça actividade profissional, esteja impossibilitado de prestar assistência e não tenha requerido o correspondente subsídio.
+
+4 - O subsídio para assistência a neto é concedido desde que os progenitores exerçam actividade profissional, estejam impossibilitados de prestar a assistência e não exerçam o direito ao respectivo subsídio pelo mesmo motivo, e, ainda, que nenhum outro familiar do mesmo grau falte pelo mesmo motivo.
+
+### Artigo 21.º-A — Prestação compensatória dos subsídios de férias e de Natal
+
+A atribuição da prestação compensatória dos subsídios de férias, de Natal ou outros de natureza análoga depende de os beneficiários não terem direito ao pagamento daqueles subsídios, no todo ou em parte, pelo respetivo empregador, desde que o impedimento para o trabalho tenha duração igual ou superior a 30 dias consecutivos.
+
+> Aditado pelo/a Artigo 12.º do/a Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27, em vigor a partir de 2012-07-01
+
+## Subsecção III — Registo de remunerações por equivalência
+
+### Artigo 22.º — Registo de remunerações por equivalência à entrada de contribuições
+
+1 - O reconhecimento do direito aos subsídios previstos neste capítulo dá lugar ao registo de remunerações por equivalência à entrada de contribuições durante o respectivo período de concessão, sendo considerado como trabalho efectivamente prestado.
+
+2 - Durante os períodos de trabalho a tempo parcial de trabalhador com responsabilidades familiares, nos termos previstos no artigo 55.º do Código do Trabalho, há lugar a registo adicional de remunerações por equivalência à entrada de contribuições por valor igual ao das remunerações registadas a título de trabalho a tempo parcial efectivamente prestado, com o limite do valor da remuneração média registada a título de trabalho a tempo completo, mediante comunicação do facto, por parte do trabalhador, à instituição de segurança social que o abranja, nos termos a regulamentar em legislação própria.
+
+3 - Os períodos de licença para assistência a filho, previstos no artigo 52.º do Código do Trabalho, são tomados em consideração para a taxa de formação no cálculo das pensões de invalidez e velhice do regime geral de segurança social, mediante comunicação do facto, por parte do trabalhador, à instituição de segurança social que o abranja.
+
+## Secção II — Condições de atribuição
+
+### Artigo 23.º — Disposição geral
+
+1 - O reconhecimento do direito aos subsídios previstos no presente capítulo depende do cumprimento das condições de atribuição à data do facto determinante da proteção, sem prejuízo do disposto no n.º 3.
+
+2 - Considera-se como data do facto determinante da protecção o 1.º dia de impedimento para o trabalho.
+
+3 - A cessação ou suspensão do contrato de trabalho não prejudica o direito à proteção na eventualidade de maternidade, paternidade e adoção desde que se encontrem satisfeitas as condições de atribuição das prestações.
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27, em vigor a partir de 2012-07-01
+
+### Artigo 24.º — Condições comuns
+
+1 - Constituem condições comuns do reconhecimento do direito:
+
+a) O gozo das respectivas licenças, faltas e dispensas não retribuídas nos termos do Código do Trabalho ou de períodos equivalentes;
+
+b) O cumprimento do prazo de garantia.
+
+2 - Para efeitos do disposto na alínea a) do número anterior consideram-se equivalentes os períodos em que não se verifique o gozo das licenças, faltas ou dispensas atentas as características específicas do exercício de actividade profissional, designadamente no caso de actividade independente, ou pela sua inexistência, nas situações de desemprego subsidiado.
+
+3 - A opção pelo subsídio parental inicial por 150 dias prevista no n.º 1 do artigo 12.º bem como o disposto nas disposições constantes nos n.os 2 e 3 do mesmo artigo, no artigo 14.º, na alínea b) do n.º 1 e no n.º 2 do artigo 15.º e no artigo 16.º apenas são aplicáveis em situação de nado vivo.
+
+### Artigo 25.º — Prazo de garantia
+
+1 - O prazo de garantia para atribuição dos subsídios previstos no presente capítulo é de seis meses civis, seguidos ou interpolados, com registo de remunerações, à data do facto determinante da proteção, com exceção do disposto no n.º 4.
+
+2 - A atribuição do subsídio parental inicial exclusivo da mãe após o parto, previsto no artigo 13.º, e do subsídio parental inicial exclusivo do pai, previsto na alínea a) do n.º 1 do artigo 15.º, depende de os beneficiários terem registo de remunerações em pelo menos um dos seis meses imediatamente anteriores ao facto determinante da proteção.
+
+3 - Para efeitos dos números anteriores releva, se necessário, o mês em que ocorre o evento desde que no mesmo se verifique registo de remunerações.
+
+4 - Para efeitos do n.º 1, na ausência de registo de remunerações durante seis meses consecutivos, a contagem do prazo de garantia tem início a partir da data em que ocorra um novo registo de remunerações.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 26.º — Totalização de períodos contributivos
+
+Para efeitos de cumprimento do prazo de garantia para atribuição dos subsídios previstos no presente capítulo são considerados, desde que não se sobreponham, os períodos de registo de remunerações em quaisquer regimes obrigatórios de protecção social, nacionais ou estrangeiros, que assegurem prestações pecuniárias de protecção na eventualidade, incluindo o da função pública.
+
+## Secção III — Montantes dos subsídios
+
+### Artigo 27.º — Determinação dos montantes dos subsídios
+
+O montante diário dos subsídios previstos no presente capítulo é calculado pela aplicação de uma percentagem ao valor da remuneração de referência do beneficiário.
+
+### Artigo 28.º — Remuneração de referência
+
+1 - A remuneração de referência a considerar é definida por R/180, em que R representa o total das remunerações registadas nos primeiros seis meses civis que precedem o segundo mês anterior ao da data do facto determinante da protecção.
+
+2 - Nas situações em que se verifique a totalização de períodos contributivos, se os beneficiários não apresentarem no período de referência previsto no número anterior seis meses com registo de remunerações, a remuneração de referência é definida por R/(30 x n), em que R representa o total das remunerações registadas desde o início do período de referência até ao dia que antecede o facto determinante da proteção e n o número de meses a que as mesmas se reportam.
+
+3 - A fórmula referida no n.º 2 é aplicável nas situações previstas no n.º 2 do artigo 25.º, se os beneficiários não apresentarem no período de referência previsto qualquer registo de remunerações.
+
+4 - Na determinação do total de remunerações registadas não são consideradas as importâncias relativas aos subsídios de férias, de Natal ou outros de natureza análoga.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27, em vigor a partir de 2012-07-01
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 29.º — Montante dos subsídios por risco clínico durante a gravidez, por deslocação a unidade hospitalar fora da ilha de residência da grávida para realização de parto, para acompanhamento e por interrupção da gravidez
+
+O montante diário dos subsídios por risco clínico durante a gravidez, por necessidade de deslocação a unidade hospitalar fora da ilha de residência da grávida para realização de parto, para acompanhamento, e por interrupção da gravidez, é igual a 100 % da remuneração de referência dos beneficiários.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20, em vigor a partir de 2023-11-21
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 5.º, Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20 As alterações introduzidas ao presente artigo produzem efeitos com a entrada em vigor do Orçamento do Estado posterior a 20-11-2023.
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 30.º — Montante do subsídio parental inicial
+
+1 - O montante diário do subsídio parental inicial é o seguinte:
+
+a) No período correspondente à licença de 120 dias, o montante diário é igual a 100 % da remuneração de referência do beneficiário;
+
+b) No caso de opção pelo período de licença de 150 dias, o montante diário é igual a 80 % da remuneração de referência do beneficiário;
+
+c) No caso de opção pelo período de licença de 150 dias nas situações em que cada um dos progenitores goze pelo menos 30 dias consecutivos, ou dois períodos de 15 dias igualmente consecutivos, o montante diário é igual a 100 % da remuneração de referência do beneficiário;
+
+d) No caso de opção pelo período de licença de 180 dias, nas situações em que cada um dos progenitores goze pelo menos 30 dias consecutivos, ou dois períodos de 15 dias igualmente consecutivos, o montante diário é igual a 83 % da remuneração de referência do beneficiário;
+
+e) No caso de opção pelo período de licença de 180 dias, nas situações em que o pai goze pelo menos um período de 60 dias consecutivos, ou dois períodos de 30 dias consecutivos do total de 180 da licença parental inicial, para além da licença parental exclusiva do pai, o montante diário é igual a 90 % da remuneração de referência do beneficiário.
+
+2 - Nas situações em que o progenitor goze a licença nos termos dos n.os 4 e 5 do artigo 40.º do Código do Trabalho, o montante diário do subsídio corresponde a 50 % do montante apurado nos termos do número anterior.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+### Artigo 31.º — Montante do subsídio parental exclusivo do pai
+
+O montante diário do subsídio parental exclusivo do pai é igual a 100 % da remuneração de referência do beneficiário.
+
+### Artigo 32.º — Montante do acréscimo ao valor dos subsídios por nascimentos múltiplos, internamento hospitalar e prematuridade até às 33 semanas
+
+O montante diário dos subsídios devidos nos períodos de acréscimo à licença parental inicial pelo nascimento de gémeos, por internamento hospitalar e por prematuridade até às 33 semanas, previstos nos n.os 3, 5 e 6 do artigo 12.º, é igual a 100 % da remuneração de referência do beneficiário.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 33.º — Montante do subsídio parental alargado
+
+1 - O montante diário do subsídio parental alargado é igual a 30 % da remuneração de referência do beneficiário.
+
+2 - Nas situações previstas no artigo 16.º, caso os progenitores gozem, cada um, a totalidade da licença parental alargada, o montante diário do subsídio é igual a 40 % da remuneração de referência do beneficiário.
+
+3 - Nas situações em que o progenitor goze a licença parental complementar nos termos previstos na alínea c) do n.º 1 do artigo 51.º do Código do Trabalho, o montante diário do subsídio corresponde a 20 % da remuneração de referência do beneficiário.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+### Artigo 34.º — Montante do subsídio por adopção
+
+O montante diário do subsídio por adoção é igual ao previsto em cada uma das alíneas do artigo 30.º, consoante a modalidade a que corresponda, no artigo 31.º em caso de subsídio parental exclusivo do pai, e no artigo 32.º em caso de adoções múltiplas.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+### Artigo 35.º — Montante dos subsídios por riscos específicos e para assistência a filho
+
+O montante diário dos subsídios por riscos específicos e para assistência a filho é igual a 100 % da remuneração de referência do beneficiário.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 36.º — Montante do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica e complementos
+
+1 - O montante diário do subsídio para assistência a filho com deficiência ou doença crónica é igual a 80 % da remuneração de referência do beneficiário, tendo como limite máximo mensal o valor correspondente a três vezes o indexante dos apoios sociais (IAS).
+
+2 - O montante diário do subsídio para assistência a filho com doença oncológica é igual a 100 % da remuneração de referência do beneficiário, tendo como limite máximo mensal o valor correspondente a três vezes o IAS.
+
+3 - As famílias das crianças com doença oncológica abrangidas pelo subsídio a que se refere o n.º 2 e que residam a mais de 100 km do local de tratamento, com frequência superior a uma vez por semana, têm direito a comparticipação mensal de deslocações e alojamento até ao limite máximo de 0,5 vezes o IAS, quando não exista resposta de alojamento temporário.
+
+4 - O transporte do doente e de um cuidador é assegurado quando clinicamente indicado, devendo os hospitais garantir uniformidade de aplicação do regime.
+
+5 - Os termos e condições da concretização do disposto nos números anteriores são definidos por portaria conjunta dos ministérios competentes.
+
+> Alterado pelo/a Artigo 253.º do/a Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30, em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 37.º — Montante do subsídio para assistência a neto
+
+O montante diário do subsídio para assistência a neto é, consoante a modalidade, o seguinte:
+
+a) No caso de subsídio para assistência em caso de nascimento de neto, igual a 100 % da remuneração de referência do beneficiário;
+
+b) No caso de subsídio para assistência a neto, igual a 65 % da remuneração de referência do beneficiário.
+
+### Artigo 37.º-A — Montante da prestação compensatória
+
+O montante da prestação compensatória a conceder ao abrigo do artigo 21.º-A corresponde a 80 % da importância que o beneficiário deixa de receber do respetivo empregador, não podendo, no caso de licença para assistência a filho com deficiência ou doença crónica, ultrapassar duas vezes o valor do IAS.
+
+> Aditado pelo/a Artigo 12.º do/a Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27, em vigor a partir de 2012-07-01
+
+### Artigo 38.º — Montante mínimo
+
+1 - O montante diário mínimo dos subsídios previstos no presente capítulo não pode ser inferior a 80 % de um 30 avos do valor do IAS, sem prejuízo do disposto no número seguinte.
+
+2 - O montante diário mínimo do subsídio parental alargado não pode ser inferior a 40 % de um 30 avos do valor do IAS.
+
+3 - O montante diário mínimo do subsídio parental inicial a tempo parcial corresponde a 50 % do valor calculado nos termos do n.º 1.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+## Secção IV — Duração e acumulação dos subsídios
+
+## Subsecção I — Início e duração dos subsídios
+
+### Artigo 39.º — Início dos subsídios
+
+Os subsídios previstos no presente capítulo têm início no 1.º dia de impedimento para o trabalho a que não corresponda retribuição.
+
+### Artigo 40.º — Período de concessão
+
+Os subsídios previstos no presente capítulo são concedidos:
+
+a) Durante os períodos de duração das faltas, licenças ou dispensas previstas no Código do Trabalho;
+
+b) Durante o período de impedimento para o trabalho no caso de exercício de actividade independente ou de enquadramento no regime do seguro social voluntário;
+
+c) Durante o período de concessão das prestações de desemprego, nos termos do artigo 8.º
+
+### Artigo 41.º — Suspensão do período de concessão dos subsídios
+
+1 - Em caso de doença de beneficiário que esteja a receber subsídios parental, parental alargado, por adopção, para assistência a filho com deficiência ou doença crónica, a prestação é suspensa, mediante comunicação do interessado à instituição de segurança social competente e apresentação de certificação médica.
+
+2 - Em caso de internamento hospitalar do progenitor ou da criança, a concessão do subsídio parental inicial é suspensa, mediante comunicação do interessado e certificação do hospital.
+
+3 - A suspensão da concessão do subsídio parental inicial por internamento da criança, prevista no n.º 2, não abrange as situações previstas nos n.os 5 e 6 do artigo 12.º
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+## Subsecção II — Acumulação dos subsídios
+
+### Artigo 42.º — Inacumulabilidade com rendimentos de trabalho
+
+Os subsídios previstos no presente capítulo não são acumuláveis com rendimento de trabalho, com exceção das seguintes situações:
+
+a) Subsídio parental inicial correspondente ao gozo da licença parental inicial, nos termos previstos nos n.os 4 e 5 do artigo 40.º do Código do Trabalho;
+
+b) Subsídio parental alargado correspondente ao gozo da licença parental alargada, nos termos previstos nas alíneas c) e d) do n.º 1 do artigo 51.º do Código do Trabalho.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05, em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+### Artigo 43.º — Inacumulabilidade com prestações
+
+1 - Os subsídios previstos no presente capítulo não são acumuláveis com prestações emergentes do mesmo facto desde que respeitantes ao mesmo interesse protegido, ainda que atribuídas por outros regimes de protecção social.
+
+2 - Os subsídios previstos no presente capítulo não são acumuláveis com outras prestações compensatórias da perda de retribuição, excepto com pensões de invalidez, velhice e sobrevivência concedidas no âmbito do sistema previdencial ou de outros regimes obrigatórios de protecção social.
+
+3 - Os subsídios previstos no presente capítulo não são acumuláveis com prestações concedidas no âmbito do subsistema de solidariedade, excepto com o rendimento social de inserção e com o complemento solidário para idosos.
+
+4 - Para efeitos do disposto nos números anteriores são tomadas em consideração prestações concedidas por sistemas de segurança social estrangeiros, sem prejuízo do disposto em instrumentos internacionais aplicáveis.
+
+### Artigo 44.º — Acumulação com indemnizações e pensões por riscos profissionais
+
+Os subsídios previstos no presente capítulo são acumuláveis com indemnizações e pensões por doença profissional ou por acidente de trabalho.
+
+## Capítulo III — Protecção no âmbito do subsistema de solidariedade
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Secção I — Âmbito e caracterização dos subsídios sociais
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Subsecção I — Âmbito pessoal e material
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 45.º — Âmbito pessoal
+
+1 - A protecção regulada no presente capítulo abrange os cidadãos nacionais e os cidadãos estrangeiros, refugiados e apátridas não abrangidos por qualquer regime de protecção social de enquadramento obrigatório.
+
+2 - A protecção regulada no presente capítulo abrange, ainda, as pessoas referidas no número anterior abrangidas por regime de protecção social de enquadramento obrigatório ou pelo seguro social voluntário cujo esquema de protecção integre a eventualidade, sem direito às correspondentes prestações.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 46.º — Âmbito material
+
+A protecção regulada no presente capítulo concretiza-se na concessão dos seguintes subsídios:
+
+a) Subsídio social por risco clínico durante a gravidez;
+
+b) Subsídio social por interrupção da gravidez;
+
+c) Subsídio social parental;
+
+d) Subsídio social por adopção;
+
+e) Subsídio social por riscos específicos.
+
+f) Subsídio social por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20, em vigor a partir de 2023-11-21
+
+> Nota: Artigo 5.º, Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20 As alterações introduzidas ao presente artigo produzem efeitos com a entrada em vigor do Orçamento do Estado posterior a 20-11-2023.
+
+### Artigo 47.º — Articulação com o regime de protecção social no desemprego
+
+1 - A protecção dos beneficiários que estejam a receber prestações de desemprego concretiza-se na concessão dos seguintes subsídios:
+
+a) Subsídio social parental;
+
+b) Subsídio social por adopção.
+
+2 - À protecção referida no número anterior é aplicável o disposto no n.º 2 do artigo 8.º
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 48.º — Subsídio social parental
+
+O subsídio social parental compreende as seguintes modalidades:
+
+a) Subsídio social parental inicial;
+
+b) Subsídio social parental inicial exclusivo da mãe;
+
+c) Subsídio social parental inicial a gozar por um progenitor em caso de impossibilidade do outro;
+
+d) Subsídio social parental inicial exclusivo do pai.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Subsecção II — Caracterização dos subsídios sociais
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 49.º — Caracterização dos subsídios sociais
+
+Os subsídios sociais previstos no presente capítulo estão subordinados à caracterização dos correspondentes subsídios atribuídos no âmbito do sistema previdencial, com as devidas adaptações.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Secção II — Condições de atribuição
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 50.º — Disposição geral
+
+1 - O reconhecimento do direito aos subsídios sociais previstos no presente capítulo depende do cumprimento das condições de atribuição à data do facto determinante da protecção.
+
+2 - Entendem-se por factos determinantes da protecção o parto, a ocorrência de risco clínico durante a gravidez, a interrupção da gravidez, o risco específico e a confiança judicial ou administrativa com vista à adopção nos termos da legislação aplicável.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 51.º — Condições comuns
+
+Constituem condições comuns de atribuição dos subsídios sociais previstos no presente capítulo:
+
+a) A residência em território nacional;
+
+b) O preenchimento de condição de recursos.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 52.º — Condição de residência em território nacional
+
+1 - Para efeito de verificação da condição prevista na alínea a) do artigo anterior e sem em prejuízo do estabelecido em instrumento internacional a que Portugal se encontre vinculado ou de legislação especial aplicável, é considerado residente o cidadão nacional que possua domicílio habitual em território nacional, bem como o cidadão estrangeiro, refugiado ou apátrida habilitado com título válido de autorização de residência em território nacional ou em situação equiparada nos termos do número seguinte.
+
+2 - Consideram-se equiparados a residentes os refugiados e apátridas portadores de títulos de protecção temporária válidos, bem como os estrangeiros portadores de títulos válidos de autorização de residência ou de prorrogação de permanência, nos termos e condições a definir em portaria conjunta dos ministros responsáveis pelas áreas da administração interna e do trabalho e da solidariedade social.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 53.º — Condição de recursos
+
+1 - A condição de recursos prevista na alínea b) do artigo 51.º é definida em função dos rendimentos mensais do agregado familiar do requerente que não podem ultrapassar 80 % do IAS, cuja capitação do rendimento é ponderada segundo a escala de equivalência prevista no Decreto-Lei n.º 70/2010, de 16 de Junho.
+
+2 - (Revogado.)
+
+3 - Para efeitos do n.º 1, sem prejuízo do disposto no Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, são considerados os rendimentos mensais mais recentes.
+
+4 - O valor das prestações de desemprego, a suspender nas situações de reconhecimento de direito aos subsídios sociais, não releva para efeitos de apuramento da condição de recursos.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 172.º do/a Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28, em vigor a partir de 2019-06-29
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 70/2010 - Diário da República n.º 115/2010, Série I de 2010-06-16, em vigor a partir de 2010-08-01
+
+### Artigo 54.º — Agregado familiar
+
+1 - Para além do titular do direito às prestações, integram o respectivo agregado familiar as seguintes pessoas que com ele vivam em economia familiar, sem prejuízo do disposto nos números seguintes:
+
+a) Cônjuge ou pessoa em união de facto há mais de dois anos;
+
+b) Parentes e afins, em linha recta e em linha colateral, até ao 2.º grau, decorrentes de relações de direito ou de facto;
+
+c) Adoptantes e adoptados;
+
+d) Tutores e tutelados;
+
+e) Crianças e jovens confiados por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito a qualquer dos elementos do agregado familiar.
+
+2 - Consideram-se em economia familiar as pessoas que vivam em comunhão de mesa e habitação e tenham estabelecido entre si uma vivência comum de entreajuda e partilha de recursos, sem prejuízo do disposto no número seguinte.
+
+3 - A condição de vivência em comunhão de mesa e habitação pode ser dispensada por razões devidamente justificadas.
+
+4 - Os adoptantes restritamente e os tutores do titular do direito às prestações, bem como as pessoas a quem estes sejam confiados por decisão judicial ou administrativa, são equiparados a ascendentes do 1.º grau, para efeitos do disposto no n.º 1.
+
+5 - A situação pessoal e familiar dos membros do agregado familiar relevante para efeitos do disposto no presente decreto-lei é aquela que se verificar à data em que se efectua a declaração da respectiva composição.
+
+6 - As pessoas referidas no número anterior não podem, simultaneamente, fazer parte de agregados familiares distintos, por referência ao mesmo titular do direito a prestações.
+
+7 - As relações de parentesco resultantes de situação de união de facto apenas são consideradas se o forem, igualmente, para efeitos do imposto sobre rendimentos das pessoas singulares (IRS), no âmbito da legislação fiscal.
+
+8 - Não são considerados como elementos do agregado familiar as pessoas que se encontrem em qualquer das seguintes situações:
+
+a) Quando exista vínculo contratual entre as pessoas, designadamente sublocação e hospedagem que implique residência ou habitação comum;
+
+b) Quando exista a obrigação de convivência por prestação de actividade laboral para com alguma das pessoas do agregado familiar;
+
+c) Sempre que a economia familiar esteja relacionada com a prossecução de finalidades transitórias;
+
+d) Quando exerça coacção física ou psicológica ou outra conduta atentatória da autodeterminação individual relativamente a alguma das pessoas inseridas no agregado familiar.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Revogado pelo/a Artigo 21.º do/a Decreto-Lei n.º 70/2010 - Diário da República n.º 115/2010, Série I de 2010-06-16, em vigor a partir de 2010-08-01
+
+### Artigo 55.º — Condição específica dos subsídios sociais por risco clínico em caso de gravidez, por interrupção da gravidez e por riscos específicos
+
+A concessão dos subsídios sociais por risco clínico em caso de gravidez, por interrupção da gravidez e por riscos específicos depende, ainda, do exercício de actividade profissional determinante de enquadramento obrigatório em regime de segurança social ou no seguro social voluntário.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Secção III — Montantes dos subsídios sociais
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 56.º — Montante dos subsídios sociais por risco clínico em caso de gravidez, por deslocação a unidade hospitalar fora da ilha de residência da grávida para realização de parto, para acompanhamento, por interrupção da gravidez e por riscos específicos
+
+O montante diário dos subsídios sociais por risco clínico em caso de gravidez, por necessidade de deslocação a unidade hospitalar fora da ilha de residência da grávida para realização de parto, para acompanhamento, por interrupção da gravidez e por riscos específicos é igual a 80 % de um 30 avos do valor do IAS.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20, em vigor a partir de 2023-11-21.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 5.º, Lei n.º 65/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20 As alterações introduzidas ao presente artigo produzem efeitos com a entrada em vigor do Orçamento do Estado posterior a 20-11-2023.
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 57.º — Montante do subsídio social parental inicial
+
+O montante diário do subsídio social parental inicial é o seguinte:
+
+a) No período de 120 dias, o montante diário é igual a 80 % de um 30 avos do valor do IAS;
+
+b) No caso de opção pelo período de 150 dias, o montante diário é igual a 64 % de um 30 avos do valor do IAS;
+
+c) No caso de opção pelo período de 150 dias nas situações em que cada um dos progenitores goze pelo menos 30 dias consecutivos, ou dois períodos de 15 dias igualmente consecutivos, o montante diário é igual a 80 % de um 30 avos do valor IAS;
+
+d) No caso de opção pelo período de 180 dias, nas situações em que cada um dos progenitores goze pelo menos 30 dias consecutivos, ou dois períodos de 15 dias igualmente consecutivos, o montante diário é igual a 66 % de um 30 avos do valor do IAS.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 58.º — Montante do subsídio social parental inicial exclusivo do pai
+
+O montante diário do subsídio parental inicial exclusivo do pai é igual a 80 % de um 30 avos do valor do IAS.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 59.º — Montante do acréscimo ao valor dos subsídios por nascimentos múltiplos, internamento hospitalar e prematuridade até às 33 semanas
+
+O montante diário dos subsídios devidos nos períodos de acréscimo à licença parental inicial pelo nascimento de gémeos, por internamento hospitalar e por prematuridade até às 33 semanas, previstos nos n.os 3, 4 e 5 do artigo 12.º, é igual a 80 % de um 30 avos do valor do IAS.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 60.º — Montante do subsídio social por adopção
+
+O montante diário do subsídio social por adopção é igual ao que resulta do fixado em cada uma das alíneas do artigo 57.º, consoante a modalidade a que corresponda, e ao valor fixado no artigo anterior no caso de adopções múltiplas.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Secção IV — Duração e acumulação dos subsídios sociais
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Subsecção I — Início e duração dos subsídios sociais
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 61.º — Período de concessão
+
+1 - O período de concessão dos subsídios sociais é igual ao fixado para os correspondentes subsídios no âmbito do sistema previdencial.
+
+2 - Os subsídios sociais são devidos a partir do dia em que ocorre o facto determinante da protecção definido no n.º 2 do artigo 50.º
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Subsecção II — Acumulação dos subsídios sociais
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 62.º — Inacumulabilidade com prestações
+
+1 - Os subsídios sociais não são acumuláveis com prestações compensatórias de perda de retribuição de trabalho, excepto com pensões de sobrevivência, auferidas pelo titular no âmbito do sistema previdencial ou de outros regimes obrigatórios de protecção social.
+
+2 - Os subsídios sociais não são acumuláveis com outras prestações concedidas no âmbito do subsistema de solidariedade, excepto com o rendimento social de inserção e com o complemento solidário para idosos.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Capítulo IV — Deveres dos beneficiários
+
+### Artigo 63.º — Deveres dos titulares do direito aos subsídios
+
+1 - Constitui dever dos beneficiários a comunicação, às instituições gestoras, dos factos determinantes da cessação do direito aos subsídios, relativamente às situações previstas na alínea a) do n.º 1 do artigo 24.º, no prazo de cinco dias úteis subsequentes à data da verificação das mesmas. 2 - O incumprimento dos deveres previstos no número anterior, por acção ou omissão, bem como a utilização de qualquer meio fraudulento de que resulte a concessão indevida dos subsídios, determinam a sua restituição nos termos da legislação aplicável.
+
+> Alterado pelo/a Artigo 51.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Capítulo V — Disposições complementares
+
+## Secção I — Regime sancionatório
+
+### Artigo 64.º — Regime sancionatório
+
+1 - Constitui contraordenação punível com coima de 100 € a 700 € o incumprimento, por ação ou omissão, do dever de comunicação às instituições gestoras dos factos determinantes da cessação do direito aos subsídios, relativamente às situações previstas na alínea a) do n.º 1 do artigo 24.º, no prazo de cinco dias úteis subsequentes à data da verificação dos mesmos, bem como a utilização de qualquer meio fraudulento de que resulte a concessão indevida dos subsídios. 2 - Em tudo o que não esteja especialmente previsto no presente decreto-lei é aplicável o disposto no Decreto-Lei n.º 64/89, de 25 de Fevereiro.
+
+> Alterado pelo/a Artigo 51.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Secção II — Gestão e organização dos processos
+
+### Artigo 65.º — Entidades competentes
+
+A gestão dos subsídios previstos no presente decreto-lei compete, no âmbito das respectivas atribuições:
+
+a) Ao Instituto da Segurança Social, I. P., através dos centros distritais da área de residência dos beneficiários;
+
+b) Às caixas de actividade ou de empresa subsistentes;
+
+c) Aos órgãos competentes das administrações das Regiões Autónomas.
+
+### Artigo 66.º — Requerimento e prazo
+
+1 - A atribuição dos subsídios previstos neste decreto-lei depende da apresentação de requerimento, em formulário de modelo próprio, junto das entidades competentes ou online, no sítio da Internet da segurança social, através do serviço segurança social directa, caso a entidade competente seja o Instituto da Segurança Social, I. P., ou os órgãos competentes das administrações das Regiões Autónomas. 2 - O requerimento deve ser apresentado no prazo de seis meses a contar da data da ocorrência do facto determinante da protecção. 3 - A entrega do requerimento fora do prazo previsto no número anterior nos casos em que a mesma seja efectuada durante o período legal de concessão dos subsídios determina a redução no período de concessão pelo período de tempo respeitante ao atraso verificado. 4 - O requerimento é subscrito pelos titulares do direito, ou, em seu nome, pelos respectivos representantes legais. 5 - A atribuição da prestação compensatória do não pagamento de subsídios de férias, de Natal ou outros de natureza análoga, prevista no n.º 2 do artigo 7.º, depende de requerimento. 6 - O requerimento referido no número anterior deve ser apresentado nas instituições gestoras das prestações no prazo de seis meses contados a partir de 1 de janeiro do ano subsequente àquele em que os subsídios eram devidos, salvo no caso de cessação do contrato de trabalho, situação em que o prazo se inicia a contar da data dessa cessação. 7 - O requerimento deve ser instruído com uma declaração da entidade empregadora, na qual constem a indicação dos quantitativos não pagos e a referência à norma legal ou contratual justificativa do não pagamento. 8 - Nas situações de falecimento do beneficiário que, reunindo as condições legais substantivas para a atribuição da prestação compensatória, não a requereu em vida, os familiares com direito ao subsídio por morte podem requerê-la no prazo estabelecido para a apresentação do respetivo requerimento. 9 - [Revogado].
+
+> Alterado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27, em vigor a partir de 2012-07-01
+
+### Artigo 67.º — Dispensa de requerimento
+
+1 - A apresentação do requerimento é dispensada nas situações em que a certificação médica seja emitida pelos estabelecimentos ou serviços de saúde competentes do Serviço Nacional de Saúde através de formulário próprio para efeitos de atribuição dos seguintes subsídios: a) Subsídio por risco clínico durante a gravidez; b) Subsídio por interrupção da gravidez; c) Subsídio para assistência a filho; d) Subsídio para assistência a neto, na modalidade prevista na alínea b) do artigo 21.º 2 - [Revogado]. 3 - Para efeitos do n.º 1, consideram-se serviços competentes as entidades prestadoras de cuidados de saúde, designadamente centros de saúde e hospitais, com excepção dos serviços de urgência.
+
+> Alterado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+## Secção III — Instrução do processo
+
+### Artigo 68.º — Meios de prova
+
+1 - Os factos determinantes da atribuição dos subsídios, bem como os períodos de impedimento para o trabalho, são declarados no requerimento, o qual, consoante os casos, é acompanhado dos documentos de identificação civil e ou da certificação médica, nas situações em que esta não seja emitida pelos estabelecimentos ou serviços de saúde competentes nos termos dos n.os 1 e 3 do artigo anterior e, ainda, de outros documentos comprovativos previstos no presente decreto-lei.
+
+2 - Nas situações em que o requerimento seja apresentado online, os meios de prova que o instruem podem ser apresentados pela mesma via desde que correctamente digitalizados e integralmente apreensíveis.
+
+3 - Os beneficiários têm o dever de conservar os originais dos meios de prova, pelo prazo de cinco anos, bem como o dever de os apresentar sempre que solicitados pelos serviços competentes.
+
+### Artigo 69.º — Dispensa de apresentação de meios de prova
+
+1 - É dispensada a apresentação dos meios de prova que instruem o requerimento sempre que as entidades gestoras possam, com base nos elementos constantes do requerimento e da certificação médica ou hospitalar, comprovar oficiosamente os requisitos de atribuição dos subsídios.
+
+2 - Os requerentes podem ser dispensados da apresentação dos elementos exigíveis caso esteja salvaguardado o acesso à informação em causa por parte da segurança social, designadamente por efeito de processos de interconexão de dados com outros organismos da Administração Pública.
+
+### Artigo 70.º — Meios de prova do subsídio por risco clínico durante a gravidez e por interrupção da gravidez
+
+A atribuição dos subsídios por risco clínico durante a gravidez e por interrupção da gravidez depende da apresentação de certificação médica que indique o período de impedimento.
+
+### Artigo 71.º — Meios de prova do subsídio parental inicial, parental inicial exclusivo do pai e do subsídio para assistência em caso de nascimento de neto
+
+A atribuição dos subsídios parentais iniciais e do subsídio para assistência em caso de nascimento de neto depende da apresentação de declaração do médico do estabelecimento ou serviço de saúde comprovativa do parto ou de documento de identificação civil do descendente.
+
+### Artigo 71.º-A — Meios de prova do acréscimo à licença parental por internamento hospitalar da criança e por prematuridade até às 33 semanas
+
+Os acréscimos ao período de licença parental por internamento hospitalar da criança e por prematuridade até às 33 semanas, previstos nos n.os 4 e 5 do artigo 12.º, dependem de apresentação de certificação do hospital que comprove o período de internamento da criança.
+
+> Aditado pelo/a Artigo 7.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 9.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 72.º — Meios de prova do subsídio parental inicial por impossibilidade do outro progenitor
+
+A atribuição do subsídio parental inicial por impossibilidade do outro progenitor depende da apresentação de certificação médica da incapacidade física ou psíquica do outro progenitor ou de certidão de óbito.
+
+### Artigo 73.º — Meios de prova do subsídio por adopção
+
+1 - A atribuição do subsídio por adopção depende da apresentação da declaração da confiança administrativa ou judicial do menor adoptado.
+
+2 - Nas situações a que se refere o n.º 2 do artigo 17.º são exigidos os meios de prova previstos no artigo anterior.
+
+### Artigo 74.º — Meios de prova do subsídio por riscos específicos
+
+A atribuição do subsídio por riscos específicos depende da apresentação dos seguintes elementos:
+
+a) Declaração do empregador da impossibilidade de atribuição de outras tarefas à beneficiária grávida, puérpera ou lactante que desempenhe trabalho nocturno ou esteja exposta a agentes ou processos ou condições de trabalho que constituam risco;
+
+b) No caso dos trabalhadores independentes e abrangidos pelo seguro social voluntário a comprovação de desempenho de trabalho nocturno ou de exposição a agente ou processos ou condições de trabalho que constituam risco é efectuada por médico do trabalho ou por instituição ou serviço integrado no Serviço Nacional de Saúde.
+
+### Artigo 75.º — Meios de prova do subsídio para assistência a filho
+
+1 - A atribuição do subsídio para assistência a filho depende da apresentação de certificação médica ou declaração hospitalar.
+
+2 - A certificação médica de deficiência, na situação de filho com deficiência com 12 ou mais anos de idade, é dispensada no caso de estar a ser atribuída uma prestação por deficiência.
+
+3 - A certificação médica de doença crónica, na situação de filho com doença crónica com 12 ou mais anos de idade, apenas é exigível aquando da apresentação do primeiro requerimento.
+
+### Artigo 76.º — Meios de prova do subsídio para assistência a filho com deficiência ou doença crónica
+
+1 - A atribuição do subsídio para assistência a filho com deficiência ou doença crónica depende de apresentação da certificação médica que comprove a necessidade de assistência.
+
+2 - É aplicável à concessão deste subsídio o disposto nos n.os 2 e 3 do artigo anterior.
+
+3 - A prorrogação da concessão do subsídio depende de comunicação do beneficiário de que a licença para assistência a filho com deficiência ou doença crónica se mantém, no prazo de 10 dias úteis antes do termo do período de concessão.
+
+### Artigo 77.º — Meios de prova do subsídio para assistência a neto
+
+A atribuição do subsídio para assistência a neto depende de apresentação de certificação médica com indicação dos períodos de impedimento para o trabalho necessários para garantir a assistência inadiável e imprescindível ao neto.
+
+### Artigo 78.º — Meios de prova dos subsídios sociais
+
+1 - Para além dos meios de prova exigidos para os correspondentes subsídios do sistema previdencial a atribuição dos subsídios sociais depende, ainda, dos seguintes elementos obtidos oficiosamente:
+
+a) Composição do agregado familiar e respectivos rendimentos;
+
+b) Comprovação de residência em território nacional.
+
+2 - Na impossibilidade de obtenção oficiosa dos elementos referidos no número anterior os serviços competentes notificam os beneficiários para efectuarem a respectiva apresentação.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 79.º — Articulações
+
+1 - As instituições gestoras das prestações devem promover a articulação com as entidades e serviços com competência para comprovar os requisitos de que depende a atribuição e manutenção dos subsídios, com vista a assegurar o correcto enquadramento das situações a proteger.
+
+2 - Para os efeitos referidos no número anterior, a comprovação pode ser efectuada por troca de informação, designadamente através da utilização de suporte electrónico.
+
+### Artigo 80.º — Comunicação da atribuição dos subsídios
+
+As instituições gestoras devem comunicar aos titulares do direito as decisões sobre a atribuição dos subsídios de acordo com o disposto no Código do Procedimento Administrativo.
+
+## Secção IV — Pagamento dos subsídios
+
+### Artigo 81.º — Disposição geral
+
+1 - Os subsídios previstos no presente decreto-lei são pagos mensalmente aos titulares do direito ou aos seus representantes legais, salvo se, pela especificidade da sua duração, se justificar o pagamento de uma só vez.
+
+2 - O pagamento do acréscimo devido por nascimento de gémeos, por internamento hospitalar da criança, por prematuridade até às 33 semanas e por adoções múltiplas é reportado aos últimos dias do período de concessão do respetivo subsídio.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04
+
+> Nota: Artigo 6.º, Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04 Entra em vigor com o Orçamento do Estado posterior à sua publicação.
+
+### Artigo 82.º — Prescrição
+
+O direito aos subsídios previstos neste decreto-lei prescreve a favor das instituições gestoras devedoras no prazo de cinco anos contados a partir da data em que a prestação é posta a pagamento com conhecimento do credor.
+
+## Capítulo VI — Disposições transitórias e finais
+
+### Artigo 83.º — Regime subsidiário
+
+Com excepção do disposto no artigo 22.º em tudo o que não esteja especialmente previsto no capítulo iii são aplicáveis, com as devidas adaptações, as disposições constantes do capítulo ii.
+
+> Revogado pelo/a Artigo 62.º do/a Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13, em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+### Artigo 84.º — Execução
+
+1 - Os procedimentos que venham a ser considerados necessários à execução do disposto no presente decreto-lei são aprovados por portaria do ministro responsável pela área do trabalho e da solidariedade social.
+
+2 - Os modelos de formulários de requerimento e de declarações são aprovados por portaria do ministro responsável pela área do trabalho e da solidariedade social.
+
+3 - O modelo de formulário de certificação médica a emitir pelos estabelecimentos ou serviços de saúde é aprovado por portaria conjunta dos ministros responsáveis pelas áreas do trabalho e da solidariedade social e da saúde.
+
+### Artigo 84.º-A — Referências
+
+1 - Para efeitos de aplicação do presente decreto-lei, todas as referências feitas à mãe e ao pai consideram-se efetuadas aos titulares do direito de parentalidade, salvo as que resultem da condição biológica daqueles.
+
+2 - O titular do direito de parentalidade que se enquadre no disposto nas alíneas a) ou b) do n.º 1 do artigo 36.º do Código do Trabalho goza da licença parental exclusiva da mãe, gozando o outro titular do direito de parentalidade da licença exclusiva do pai.
+
+3 - Às situações de adoção por casais do mesmo sexo aplica-se o disposto nos artigos 44.º e 64.º do Código do Trabalho.
+
+> Aditado pelo/a Artigo 7.º do/a Lei n.º 90/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04, em vigor a partir de 2019-10-04
+
+### Artigo 85.º — Norma revogatória
+
+O presente decreto-lei revoga:
+
+a) O Decreto-Lei n.º 154/88, de 29 de Abril, alterado pelos Decretos-Leis n.os 333/95, de 23 de Dezembro, 347/98, de 9 de Novembro, 77/2000, de 9 de Maio, e 77/2005, de 13 de Abril;
+
+b) O Decreto-Lei n.º 105/2008, de 25 de Junho;
+
+c) As disposições do Decreto-Lei n.º 40/89, de 1 de Fevereiro, que disponham sobre a mesma matéria no âmbito do presente decreto-lei.
+
+### Artigo 86.º — Disposição transitória
+
+1 - Enquanto não for publicada a portaria prevista no n.º 3 do artigo 84.º, a concessão dos subsídios por risco clínico e interrupção da gravidez está sujeita a apresentação de requerimento e certificação médica comprovativa do período do impedimento.
+
+2 - Mantêm-se transitoriamente em vigor os n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 154/88, de 29 de Abril, e suas alterações, enquanto não for publicado o regime jurídico de protecção social próprio dos profissionais de espectáculos.
+
+### Artigo 87.º — Produção de efeitos
+
+1 - A atribuição dos subsídios previstos nas alíneas c) do artigo 7.º, nas modalidades correspondentes às alíneas a) a c) do artigo 11.º, e e) do mesmo artigo 7.º, em conformidade com o disposto no presente decreto-lei, é aplicável às situações em que estejam a ser atribuídos os correspondentes subsídios de maternidade, paternidade e adopção ao abrigo da legislação revogada, desde que, no prazo de 30 dias contados a partir do início de vigência deste decreto-lei, seja efectuada a declaração dos períodos a gozar em conformidade com as condições previstas.
+
+2 - O disposto no número anterior é aplicável, com as devidas adaptações, aos subsídios sociais previstos na alínea c) do artigo 46.º, nas modalidades correspondentes às alíneas a) a c) do artigo 48.º, e na alínea d) do mesmo artigo 46.º
+
+3 - Para efeitos de delimitação dos períodos de concessão são tidos em consideração os períodos já subsidiados.
+
+4 - A atribuição do subsídio parental inicial exclusivo do pai pelo período a que se refere a alínea a) do n.º 1 do artigo 15.º e do subsídio social parental inicial exclusivo do pai, por período correspondente, apenas é aplicável nas situações em que o facto determinante do direito ocorra na vigência do presente decreto-lei.
+
+### Artigo 88.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge.
+
+Promulgado em 1 de Abril de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 3 de Abril de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

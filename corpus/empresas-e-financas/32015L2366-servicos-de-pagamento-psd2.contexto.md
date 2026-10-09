@@ -14,10 +14,10 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2025-12-29 — Lei n.º 68/2025, de 19 de dezembro, Diário da República n.º 244/2025, Série I de 2025-12-19, Assegura a execução do Regulamento (UE) 2024/886, no que diz respeito às transferências a crédito imediatas em euros (CELEX 72015L2366PRT_202507330)
-- 2018-11-12 — Decreto-Lei n.º 91/2018 de 12 de novembro - Aprova o novo Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, transpondo a Diretiva (UE) 2015/2366 (CELEX 72015L2366PRT_264945)
+- 2025-12-29 — Lei n.º 68/2025, de 19 de dezembro, Diário da República n.º 244/2025, Série I de 2025-12-19, Assegura a execução do Regulamento (UE) 2024/886, no que diz respeito às transferências a crédito imediatas em euros (CELEX 72015L2366PRT_202507330) → texto: [`legislacao-pt/lei-68-2025.md`](../../legislacao-pt/lei-68-2025.md) (original (DRE))
+- 2018-11-12 — Decreto-Lei n.º 91/2018 de 12 de novembro - Aprova o novo Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, transpondo a Diretiva (UE) 2015/2366 (CELEX 72015L2366PRT_264945) → texto: [`legislacao-pt/decreto-lei-91-2018.md`](../../legislacao-pt/decreto-lei-91-2018.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (5)
 

@@ -14,9 +14,9 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2023-06-19 — Decreto-Lei n.º 47/2023, de 19 de junho, Diário da República n.º 117/2023, Série I de 2023-06-19, páginas 8 - 32, Transpõe a Diretiva (UE) 2019/790, relativa aos direitos de autor e direitos conexos no mercado único digital (CELEX 72019L0790PRT_202303514)
+- 2023-06-19 — Decreto-Lei n.º 47/2023, de 19 de junho, Diário da República n.º 117/2023, Série I de 2023-06-19, páginas 8 - 32, Transpõe a Diretiva (UE) 2019/790, relativa aos direitos de autor e direitos conexos no mercado único digital (CELEX 72019L0790PRT_202303514) → texto: [`legislacao-pt/decreto-lei-47-2023.md`](../../legislacao-pt/decreto-lei-47-2023.md) (original (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (1)
 

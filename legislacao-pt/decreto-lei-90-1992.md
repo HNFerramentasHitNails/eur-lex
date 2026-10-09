@@ -1,0 +1,267 @@
+---
+diploma: Decreto-Lei n.º 90/92
+tipo: Decreto-Lei
+numero: 90/1992
+data_publicacao: '1992-05-21'
+sumario: Regulamenta o funcionamento do Conselho Económico e Social
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2019-05-14'
+transpoe:
+- 32022L2041
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1992-522994
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-114658345
+eli: https://data.dre.pt/eli/dec-lei/90/1992/p/cons/20190514/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 90/92
+
+**Sumário:** Regulamenta o funcionamento do Conselho Económico e Social
+
+**Comunicado à Comissão Europeia como transpondo:** 32022L2041 (Salários mínimos adequados).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2019-05-14. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-114658345
+
+## Texto
+
+Decreto-Lei n.º 90/92
+
+de 21 de Maio
+
+Em cumprimento da estatuição contida no artigo 95.º da Constituição, foi publicada a Lei n.º 108/91, de 17 de Agosto, onde se determinou a natureza e as competências do Conselho Económico e Social.
+
+Essa lei, onde se delinearam também a orgânica e a composição deste órgão constitucional, corporiza um conjunto de regras definidoras da ratio e do modelo organizacional em que assenta o Conselho e que, em última análise, constituem os parâmetros fundamentais que irão balizar a sua actuação futura.
+
+Na esteira da Lei n.º 108/91, de 17 de Agosto, e dando cumprimento ao disposto no seu artigo 15.º, surge o presente diploma, no qual se procede à concretização de algumas das disposições daquela lei, por forma a permitir o efectivo funcionamento do Conselho Económico e Social.
+
+É de sublinhar que na sua elaboração houve a preocupação de, por um lado, remeter para a lei geral matérias já objecto de tradução normativa com pertinente aplicação ao Conselho Económico e Social e, por outro, possibilitar aos órgãos do Conselho, no exercício da autonomia que lhes é reconhecida, a definição das normas que irão regular o seu funcionamento interno.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 108/91, de 17 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Artigo 1.º — Natureza e sede
+
+1 - O Conselho Económico e Social (CES) é o órgão de consulta e concertação no domínio das políticas económica e social e participa na elaboração dos planos de desenvolvimento económico e social.
+
+2 - O CES é dotado de autonomia administrativa.
+
+3 - O CES tem sede própria em Lisboa.
+
+### Artigo 2.º — Direito de iniciativa
+
+1 - No quadro das competências que lhe são cometidas por lei, o CES goza de direito de iniciativa.
+
+2 - As propostas elaboradas nos termos do número anterior carecem de aprovação de dois terços dos membros do plenário do CES.
+
+### Artigo 3.º — Emissão de pareceres
+
+A emissão dos pareceres solicitados ao CES terá lugar nos prazos determinados na lei ou nos seus regulamentos internos.
+
+### Artigo 4.º — Cooperação
+
+O CES pode estabelecer relações de cooperação e firmar acordos de permuta de informação com instituições congéneres de outros países, bem como com organizações internacionais com competência em áreas técnicas de natureza económica e social.
+
+### Artigo 5.º — Regulamentos inernos
+
+1 - Cabe ao plenário do CES definir, sob proposta do seu presidente, o respectivo regulamento de funcionamento, bem como os relativos às comissões especializadas, ao conselho coordenador e ao conselho administrativo.
+
+2 - Compete à Comissão Permanente de Concertação Social (CPCS) aprovar o respectivo regulamento de funcionamento.
+
+3 - Até à publicação dos regulamentos referidos nos números anteriores observar-se-á, com as necessárias adaptações, no funcionamento dos órgãos do CES o regimento interno do Conselho Nacional do Plano e o regulamento interno do Conselho Permanente de Concertação Social, respectivamente.
+
+4 - Os regulamentos referidos nos n.os 1 e 2 são publicados na 2.ª série do Diário da República.
+
+### Artigo 6.º — Funcionamento dos órgãos
+
+1 - Na falta de disposição em contrário, os órgãos colegiais do CES deliberam por maioria simples, tendo o respectivo presidente voto de qualidade.
+
+2 - De todas as reuniões dos órgãos colegiais do CES será lavrada acta, com menção dos membros presentes, da ordem de trabalhos e da matéria relevante da respectiva discussão e votação, nomeadamente todas as declarações de voto produzidas, devendo as actas ser tornadas públicas pelos meios previstos no regulamento.
+
+3 - As reuniões do plenário do CES são públicas no que concerne à fase da votação, a não ser quando o CES se pronuncie a solicitação dos órgãos de soberania.
+
+4 - As reuniões dos restantes órgãos podem também ser públicas relativamente à fase da votação, desde que tal seja deliberado com o voto favorável de, pelo menos, três quartos dos respectivos membros.
+
+5 - O presidente do CES tem assento na CPCS e nos seus grupos de trabalho especializados, podendo usar da palavra e intervir nos debates sempre que o entenda conveniente, sem direito a voto.
+
+### Artigo 7.º — Verificação de poderes
+
+1 - Os representantes das entidades cuja participação no plenário do CES tenha de ser decidida nos termos dos n.os 4 a 7 do artigo 4.º da Lei n.º 108/91, de 17 de Agosto, devem ter a qualidade de presidente, de titular de cargo a este equiparado ou de membro do órgão de direcção nacional das organizações com assento no plenário.
+
+2 - Ao presidente do CES, ouvido o conselho coordenador, cabe verificar a conformidade legal do mandato dos representantes a que se refere o número anterior.
+
+### Artigo 8.º — Recursos
+
+1 - Os representantes cujo mandato seja impugnado podem recorrer para o plenário do CES.
+
+2 - Os recursos referidos no número anterior, bem como os previstos no n.º 7 do artigo 4.º da Lei n.º 108/91, de 17 de Agosto, são apresentados, por escrito, ao presidente do CES no prazo máximo de 15 dias a contar da data em que seja notificada a existência da impugnação, acompanhados da adequada fundamentação.
+
+3 - O recurso é decidido pelo plenário do CES, na primeira sessão subsequente à data do seu recebimento.
+
+### Artigo 9.º — Presidente
+
+1 - Para efeitos de remuneração e de gestão de pessoal é aplicável ao presidente a equiparação contida no n.º 2 do artigo 7.º da Lei n.º 108/91, de 17 de Agosto.
+
+2 - O período correspondente ao mandato do presidente do CES é considerado, para todos os efeitos, na contagem de tempo de serviço.
+
+3 - O presidente do CES beneficia do regime de protecção social aplicável aos funcionários e agentes da Administração Pública, se não estiver abrangido por outro mais favorável, cabendo ao CES a satisfação dos encargos que corresponderiam à entidade patronal, em caso de opção pela manutenção do regime de segurança social por que estivesse abrangido antes do início das suas funções.
+
+### Artigo 10.º — Vice-presidentes
+
+1 - Os vice-presidentes tomam posse perante o presidente do CES.
+
+2 - Os vice-presidentes em quem tenham sido delegadas competências, nos termos da lei, têm direito a uma remuneração de montante a fixar por despacho do Primeiro-Ministro, sob proposta do presidente do CES.
+
+### Artigo 11.º — Direito a transporte, ajudas de custo e senhas de presença
+
+1 - Os membros dos órgãos do CES têm direito a transporte e ajudas de custo, nos termos da legislação aplicável à Administração Pública.
+
+2 - A participação nas reuniões do CES confere aos membros que não aufiram remuneração própria por actividade nele desenvolvida o direito a senhas de presença, em montante e condições a fixar por despacho do Primeiro-Ministro, sob proposta do presidente do CES.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20, em vigor a partir de 1995-05-25
+
+### Artigo 12.º — Secretário-geral
+
+1 - O CES dispõe de um secretário-geral.
+
+2 - Ao secretário-geral, como responsável pelos serviços de apoio técnico e administrativo do CES, compete em especial:
+
+a) Apoiar o funcionamento dos órgãos do CES, preparando para o efeito estudos, pareceres e informações;
+
+b) Manter actualizada a informação sobre a actividades das instituições congéneres do CES na Comunidade Europeia;
+
+c) Tratar e difundir, a nível nacional e internacional, documentação e informação técnica no domínio das suas competências;
+
+d) Assegurar os elementos e operações necessários para preparação das propostas orçamentais, das contas e do relatório de actividades, acompanhando e avaliando a respectiva execução;
+
+e) Informar da legalidade dos actos nos domínios administrativo e financeiro e gerir o património afecto ao CES;
+
+f) Assegurar o expediente relativo ao funcionamento dos órgãos do CES;
+
+g) Exercer quaisquer outras competências que lhe sejam delegadas pelo presidente do CES, bem como as demais previstas nos regulamentos internos.
+
+3 - O secretário-geral é designado pelo presidente do CES, sendo equiparado, para todos os efeitos legais, a director-geral.
+
+### Artigo 13.º — Serviços de apoio técnico e administrativo
+
+O CES dispõe de serviços de apoio técnico e administrativo, regendo-se o respetivo pessoal pelo Regime do Contrato de Trabalho em Funções Públicas.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18, em vigor a partir de 2012-05-23
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20, em vigor a partir de 1995-05-25
+
+### Artigo 14.º — Gabinete do presidente
+
+1 - No desempenho das suas funções, o presidente do CES é apoiado diretamente por um gabinete, constituído por um chefe do gabinete, três adjuntos e um secretário pessoal.
+
+2 - Aos membros do gabinete do presidente do CES é aplicável, com as devidas adaptações, o regime constante dos artigos 7.º a 14.º e 16.º, 18.º e 19.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, que estabelece a natureza, a composição, a orgânica e o regime jurídico a que estão sujeitos os gabinetes dos membros do Governo.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - O presidente do CES pode, mediante despacho, afetar ao seu gabinete um motorista do mapa de pessoal do CES, ao qual se aplica o estatuto dos motoristas dos gabinetes dos membros do Governo.
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 61/2019 - Diário da República n.º 92/2019, Série I de 2019-05-14, em vigor a partir de 2019-05-19, produz efeitos a partir de 2019-06-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18, em vigor a partir de 2012-05-23
+
+### Artigo 15.º — Prestação de funções no CES
+
+Mediante despacho do presidente, podem prestar serviço no CES, em regime de requisição, comissão de serviço ou destacamento, funcionários ou agentes da administração pública central, regional ou local, bem como trabalhadores de empresas privadas ou do sector público, nos termos da legislação aplicável.
+
+> Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18, em vigor a partir de 2012-05-23
+
+### Artigo 16.º — Transição de pessoal
+
+1 - O pessoal provido em lugares do quadro das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, transita para o quadro de pessoal do CES, sem prejuízo do disposto no número seguinte.
+
+2 - Com a publicação da portaria conjunta prevista no n.º 6 do artigo 14.º, transita para o quadro de efectivos interdepartamentais o pessoal que, de harmonia com os critérios gerais estabelecidos na lei para a constituição de excedentes, não possa vir a ocupar vaga no quadro do CES.
+
+3 - A transição referida no n.º 1 será determinada por despacho do presidente do CES e far-se-á de acordo com as seguintes regras:
+
+a) Para a mesma carreira e categoria que o funcionário já possui;
+
+b) Com observância das habilitações legais, para a carreira e categoria que integre as funções que efectivamente o funcionário desempenhe, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carreira para que se processa a transição.
+
+4 - As correspondências determinadas na alínea b) do número anterior fazem-se em função dos índices remuneratórios correspondentes ao escalão 1 da categoria em que o funcionário ou agente se encontra e ao escalão 1 da categoria da nova carreira.
+
+5 - Ao pessoal das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, que, nos termos do disposto na alínea b) do n.º 3, transite para categoria diversa será contado como prestado nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior, desde que haja comprovadamente exercido idênticas funções.
+
+### Artigo 17.º — Situações especiais
+
+1 - Com a entrada em vigor do presente diploma cessam os destacamentos ou requisições do pessoal que nesses regimes preste serviço nas instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto.
+
+2 - O pessoal que, à data da entrada em vigor do presente diploma, se encontre em regime de estágio mantém-se nessa situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri para realização da respectiva avaliação e classificação final.
+
+3 - Os concursos a decorrer à data da entrada em vigor do presente diploma mantêm-se válidos.
+
+### Artigo 18.º — Cessação de funções
+
+1 - As comissões de serviço do pessoal dirigente das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, cessam com a entrada em vigor do presente diploma.
+
+2 - O pessoal afecto ao Gabinete do Presidente do Conselho Nacional do Plano cessa as suas funções na data da tomada de posse do presidente do CES.
+
+### Artigo 19.º — Património dos órgãos extintos
+
+O património das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, é transferido para o CES, com dispensa de quaisquer formalidades, excepto o registo.
+
+### Artigo 20.º — Dotações e encargos orçamentais
+
+1 - O Governo assegurará as dotações orçamentais e os meios necessários à instalação e início do funcionamento do CES.
+
+2 - Enquanto não for dada execução ao disposto no n.º 2 do artigo 14.º da Lei n.º 108/91, de 17 de Agosto, os encargos do CES serão suportados pelos orçamentos das instituições a que se refere o artigo 16.º desse diploma.
+
+### Artigo 20.º-A — Receitas próprias
+
+1 - Constituem receitas do CES, para além das dotações que lhe são atribuídas pelo Orçamento do Estado:
+
+a) As quantias cobradas pelos serviços prestados a entidades públicas ou privadas;
+
+b) O produto da venda de publicações que edite.
+
+c) As quantias recebidas dos organismos financiados nos termos do artigo 19.º do Decreto-Lei n.º 140-D/86, de 14 de Junho, destinadas a suportar os encargos resultantes do disposto no artigo 438.º da Lei n.º 35/2004, de 29 de Julho, na redacção que lhe foi dada pela Lei n.º 9/2006, de 20 de Março.
+
+2 - As receitas previstas no número anterior são utilizadas mediante a inscrição no respectivo orçamento de dotações do CES com compensação em receitas.
+
+> Alterado pelo/a Artigo 45.º do/a Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29, em vigor a partir de 2007-01-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20, em vigor a partir de 1995-05-25
+
+### Artigo 21.º — Membros do Conselho Nacional do Plano e do Conselho Permanente de Concertação Social
+
+1 - Os membros do Conselho Nacional do Plano cessam funções na data da tomada de posse do presidente do Conselho Económico e Social.
+
+2 - Os membros do Conselho Permanente de Concertação Social cessam funções na data da extinção desse Conselho.
+
+Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Manuel de Carvalho Fernando Thomaz - José Albino da Silva Peneda.
+
+Promulgado em 12 de Maio de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 13 de Maio de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 61/2019 - Diário da República n.º 92/2019, Série I de 2019-05-14, em vigor a partir de 2019-05-19, produz efeitos a partir de 2019-06-01

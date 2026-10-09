@@ -14,11 +14,11 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2019-02-01 — Decreto-Lei n.º 24/2019, de 1 de fevereiro, Diário da República n.º 23/2019, Série I de 2019-02-01, páginas 786 - 791, que Estabelece as regras aplicáveis à comunicação eletrónica entre o registo comercial nacional e os registos de outros Estados-Membros da União Europeia, transpondo a Diretiva n.º 2012/17/UE (CELEX 72017L1132PRT_202208278)
-- 1986-12-03 — Decreto-Lei n.º 403/86, de 3 de dezembro, Diário da República n.º 278/1986, Série I de 1986-12-03, páginas 3623 - 3638, Aprova o Código do Registo Comercial (CELEX 72017L1132PRT_202208277)
-- 1986-09-02 — Decreto-Lei n.º 262/86, de 2 de setembro, Diário da República n.º 201/1986, Série I de 1986-09-02, páginas 2293 - 2385, Aprova o Código das Sociedades Comerciais (CELEX 72017L1132PRT_202208276)
+- 2019-02-01 — Decreto-Lei n.º 24/2019, de 1 de fevereiro, Diário da República n.º 23/2019, Série I de 2019-02-01, páginas 786 - 791, que Estabelece as regras aplicáveis à comunicação eletrónica entre o registo comercial nacional e os registos de outros Estados-Membros da União Europeia, transpondo a Diretiva n.º 2012/17/UE (CELEX 72017L1132PRT_202208278) → texto: [`legislacao-pt/decreto-lei-24-2019.md`](../../legislacao-pt/decreto-lei-24-2019.md) (consolidado (DRE))
+- 1986-12-03 — Decreto-Lei n.º 403/86, de 3 de dezembro, Diário da República n.º 278/1986, Série I de 1986-12-03, páginas 3623 - 3638, Aprova o Código do Registo Comercial (CELEX 72017L1132PRT_202208277) → texto: [`legislacao-pt/decreto-lei-403-1986.md`](../../legislacao-pt/decreto-lei-403-1986.md) (consolidado (DRE))
+- 1986-09-02 — Decreto-Lei n.º 262/86, de 2 de setembro, Diário da República n.º 201/1986, Série I de 1986-09-02, páginas 2293 - 2385, Aprova o Código das Sociedades Comerciais (CELEX 72017L1132PRT_202208276) → texto: [`legislacao-pt/decreto-lei-262-1986.md`](../../legislacao-pt/decreto-lei-262-1986.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (1)
 

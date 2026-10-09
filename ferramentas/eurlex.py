@@ -966,12 +966,29 @@ def gerar_contexto(celex, titulo_curto, lingua, hoje, destino):
     if re.match(r"^3\d{4}L", celex):
         ls += ["## Transposição em Portugal", "",
                "Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva "
-               "(mais recentes primeiro). O texto em vigor destas leis está no Diário da República "
-               "(diariodarepublica.pt), não no EUR-Lex.", ""]
+               "(mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da "
+               "República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, "
+               "o texto original (sem alterações posteriores) ou um diploma revogado.", ""]
         if trans:
-            ls += [f"- {t['data']} — {t['titulo']} (CELEX {t['celex']})" for t in trans]
+            pt = legislacao_pt()
+            for t in trans:
+                m = pt["por_celex"].get(t["celex"])
+                ligacao = ""
+                if m and m.get("estado") not in (None, "excluída", "falhou a recolha"):
+                    ligacao = f" → texto: [`legislacao-pt/{m['chave']}.md`](../../legislacao-pt/{m['chave']}.md) ({m['estado']})"
+                elif m and m.get("excluida"):
+                    ligacao = f" → não obtido do DRE: {m['excluida']}"
+                ls.append(f"- {t['data']} — {t['titulo']} (CELEX {t['celex']}){ligacao}")
         else:
             ls.append("- Nenhuma medida portuguesa registada no Cellar para esta diretiva.")
+        ls.append("")
+    relacionados = legislacao_pt()["por_acto"].get(celex, [])
+    if relacionados:
+        ls += ["## Legislação portuguesa relacionada", "",
+               "Diplomas portugueses ligados a este acto por uma fonte citada no próprio ficheiro "
+               "(ex.: lei de execução de um regulamento).", ""]
+        ls += [f"- [{m.get('titulo') or m['chave']}](../../legislacao-pt/{m['chave']}.md) ({m['estado']})"
+               for m in relacionados]
         ls.append("")
     if juris:
         ls += [f"## Jurisprudência do Tribunal de Justiça que interpreta este acto ({len(juris)})", "",
@@ -983,6 +1000,26 @@ def gerar_contexto(celex, titulo_curto, lingua, hoje, destino):
         ls.append("")
     destino.write_text("\n".join(ls), encoding="utf-8")
     return True
+
+
+_LEG_PT = None
+
+
+def legislacao_pt():
+    """Mapa das leis portuguesas obtidas por ferramentas/dre.py (legislacao-pt/medidas.json)."""
+    global _LEG_PT
+    if _LEG_PT is None:
+        f = RAIZ / "legislacao-pt" / "medidas.json"
+        dados = json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+        por_celex, por_acto = {}, {}
+        for m in dados:
+            for c in m.get("celex_medidas") or []:
+                por_celex[c] = m
+            for c in m.get("relacionado_com") or []:
+                if m.get("estado") not in ("excluída", "falhou a recolha"):
+                    por_acto.setdefault(c, []).append(m)
+        _LEG_PT = {"por_celex": por_celex, "por_acto": por_acto}
+    return _LEG_PT
 
 
 def _frontmatter(fm):

@@ -14,7 +14,7 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2019-10-18 — Decreto-Lei n.º 154/2019 de 18 de outubro - Transpõe diretivas sobre espécies hortícolas, organismos prejudiciais aos vegetais e produtos vegetais, organismos geneticamente modificados e atualiza o regime de transposição da diretiva sobre compatibilidade eletromagnética dos equipamentos (CELEX 72014L0030PRT_277940)
-- 2017-03-22 — Estabelece as regras aplicáveis à compatibilidade eletromagnética dos equipamentos, transpondo a Diretiva n.º 2014/30/UE (CELEX 72014L0030PRT_246267)
+- 2019-10-18 — Decreto-Lei n.º 154/2019 de 18 de outubro - Transpõe diretivas sobre espécies hortícolas, organismos prejudiciais aos vegetais e produtos vegetais, organismos geneticamente modificados e atualiza o regime de transposição da diretiva sobre compatibilidade eletromagnética dos equipamentos (CELEX 72014L0030PRT_277940) → texto: [`legislacao-pt/decreto-lei-154-2019.md`](../../legislacao-pt/decreto-lei-154-2019.md) (original (DRE))
+- 2017-03-22 — Estabelece as regras aplicáveis à compatibilidade eletromagnética dos equipamentos, transpondo a Diretiva n.º 2014/30/UE (CELEX 72014L0030PRT_246267) → texto: [`legislacao-pt/decreto-lei-31-2017.md`](../../legislacao-pt/decreto-lei-31-2017.md) (consolidado (DRE))

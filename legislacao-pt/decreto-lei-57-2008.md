@@ -1,0 +1,590 @@
+---
+diploma: Decreto-Lei n.º 57/2008
+tipo: Decreto-Lei
+numero: 57/2008
+data_publicacao: '2008-03-26'
+sumario: Estabelece o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transacção comercial relativa a um bem ou serviço, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os consumidores no mercado interno
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2023-03-03'
+transpoe:
+- 32005L0029
+- 32006L0114
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454075
+eli: https://data.dre.pt/eli/dec-lei/57/2008/p/cons/20230303/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 57/2008
+
+**Sumário:** Estabelece o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transacção comercial relativa a um bem ou serviço, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os consumidores no mercado interno
+
+**Comunicado à Comissão Europeia como transpondo:** 32005L0029 (Práticas comerciais desleais); 32006L0114 (Publicidade enganosa e comparativa).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2023-03-03. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454075
+
+## Texto
+
+O desenvolvimento de práticas comerciais leais é essencial para assegurar a confiança dos consumidores no mercado, para garantir a concorrência e para promover o desenvolvimento de transacções comerciais transfronteiriças.
+
+O presente decreto-lei estabelece uma proibição geral única das práticas comerciais desleais que distorcem o comportamento económico dos consumidores e aplica-se às práticas comerciais desleais, incluindo a publicidade desleal, que prejudicam directamente os interesses económicos dos consumidores e indirectamente os interesses económicos de concorrentes legítimos, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os consumidores no mercado interno, e que altera as Directivas n.os 84/450/CEE, do Conselho, de 10 de Setembro, 97/7/CE, do Parlamento Europeu e do Conselho, de 20 de Maio, 98/27/CE, do Parlamento Europeu e do Conselho, de 19 de Maio, e 2002/65/CE, do Parlamento Europeu e do Conselho, de 23 de Setembro, e o Regulamento (CE) n.º 2006/2004, do Parlamento Europeu e do Conselho, de 27 de Outubro.
+
+Aquela proibição geral aplica-se da mesma forma a práticas comerciais desleais que ocorram antes, durante e após qualquer relação contratual entre um profissional e um consumidor. Esta proibição geral é conjugada com disposições sobre os dois tipos de práticas comerciais desleais mais comuns: as práticas comerciais enganosas e as práticas comerciais agressivas. O carácter leal ou desleal da prática comercial é aferido utilizando-se como referência o consumidor médio.
+
+O presente decreto-lei classifica as práticas enganosas como acções enganosas e omissões enganosas. Em relação às omissões, estabelece um número limitado de elementos essenciais de informação para que, em determinados casos, o consumidor possa tomar uma decisão de transacção esclarecida.
+
+As disposições relativas às práticas comerciais agressivas abrangem as práticas que restringem significativamente a liberdade de escolha do consumidor. Trata-se de práticas que recorrem ao assédio, à coacção, incluindo o recurso à força física, e à influência indevida.
+
+O presente decreto-lei não visa proibir práticas publicitárias que consistam no uso de afirmações claramente exageradas ou afirmações não destinadas a ser interpretadas literalmente.
+
+Procedeu-se à determinação das pessoas ou organizações que têm um interesse legítimo para reagir contra as práticas comerciais desleais, quer perante um tribunal quer perante uma autoridade administrativa competente para decidir relativamente às queixas ou para instaurar os procedimentos legais adequados.
+
+Para efeitos de aplicação do presente decreto-lei, a Autoridade de Segurança Alimentar e Económica ou a entidade reguladora do sector são consideradas autoridades administrativas competentes. Se se tratar de uma prática comercial desleal em matéria de publicidade, a autoridade administrativa competente é a Direcção-Geral do Consumidor. Do mesmo modo, o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários e o Instituto de Seguros de Portugal são considerados autoridades administrativas competentes relativamente às práticas comerciais desleais que ocorram nos respectivos sectores financeiros.
+
+As autoridades administrativas referidas anteriormente podem ordenar medidas cautelares de cessação temporária de uma prática comercial desleal ou determinar a proibição prévia de uma prática comercial desleal iminente.
+
+O presente decreto-lei não é aplicável às disposições relacionadas com a certificação e a indicação do padrão de pureza dos artefactos de metais preciosos e o seu regime é complementar ou residual relativamente a outras disposições sectoriais que regulem estas práticas comerciais, assegurando, por outro lado, a protecção dos consumidores nos casos em que não exista legislação sectorial específica.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foi promovida a audição ao Conselho Nacional do Consumo.
+
+Foram ouvidos, a título facultativo, a Associação Portuguesa para a Defesa do Consumidor, a União Geral de Consumidores, a Federação Nacional das Cooperativas de Consumidores, a Associação dos Consumidores da Região Autónoma dos Açores, a Associação de Consumidores de Média e a Confederação do Comércio e Serviços de Portugal. Foram, ainda, ouvidos o Banco de Portugal, o Instituto de Seguros de Portugal e a Comissão do Mercado de Valores Mobiliários.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Práticas comerciais desleais
+
+### Artigo 1.º — Objecto
+
+1- O presente decreto-lei estabelece o regime jurídico aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transacção comercial relativa a um bem ou serviço, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os consumidores no mercado interno, e que altera as Directivas n.os 84/450/CEE, do Conselho, de 10 de Setembro,97/7/CE, do Parlamento Europeu e do Conselho, de 20 de Maio, 98/27/CE, do Parlamento Europeu e do Conselho, de 19 de Maio, e 2002/65/CE, do Parlamento Europeu e do Conselho, de 23 de Setembro, e o Regulamento (CE) n.º 2006/2004, do Parlamento Europeu e do Conselho, de 27 de Outubro.
+
+2 - O presente decreto-lei é também aplicável às relações entre empresas no que respeita às ações enganosas previstas no n.º 3 do artigo 7.º.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 205/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23, em vigor a partir de 2015-09-24
+
+### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei não prejudica a aplicação de disposições nacionais decorrentes de regras comunitárias que regulem aspectos específicos das práticas comerciais desleais, tais como requisitos de informação e regras relativas ao modo como as informações são apresentadas ao consumidor.
+
+2 - Sem prejuízo do disposto no artigo 14.º, o presente decreto-lei não afecta as disposições relativas à formação, validade ou efeitos dos contratos.
+
+3 - O regime do presente decreto-lei não prejudica a aplicação de regimes mais exigentes relativos à protecção da saúde e da segurança dos bens ou serviços, aos serviços financeiros ou a bens imóveis.
+
+### Artigo 3.º — Definições
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) «Consumidor» qualquer pessoa singular que, nas práticas comerciais abrangidas pelo presente decreto-lei, actue com fins que não se incluam no âmbito da sua actividade comercial, industrial, artesanal ou profissional;
+
+b) «Profissional» qualquer pessoa singular ou colectiva que, no que respeita às práticas comerciais abrangidas pelo presente decreto-lei, actue no âmbito da sua actividade comercial, industrial, artesanal ou profissional e quem actue em nome ou por conta desse profissional;
+
+c) «Produto» qualquer bem ou serviço, incluindo bens imóveis, conteúdos e serviços digitais, bem como direitos e obrigações;
+
+d) «Prática comercial da empresa nas relações com os consumidores, ou, abreviadamente, prática comercial» qualquer acção, omissão, conduta ou afirmação de um profissional, incluindo a publicidade e a promoção comercial, em relação directa com a promoção, a venda ou o fornecimento de um bem ou serviço ao consumidor;
+
+e) «Distorcer substancialmente o comportamento económico dos consumidores» a realização de uma prática comercial que prejudique sensivelmente a aptidão do consumidor para tomar uma decisão esclarecida, conduzindo-o, por conseguinte, a tomar uma decisão de transacção que não teria tomado de outro modo;
+
+f) «Código de conduta» o acordo ou conjunto de normas, não impostas por disposições legislativas, regulamentares ou administrativas, que define o comportamento de profissionais que se comprometem a ficar vinculados por este código no que diz respeito a uma ou várias práticas comerciais ou sectores de actividade específicos;
+
+g) «Titular de um código» qualquer entidade, incluindo um profissional ou grupo de profissionais, responsável pela elaboração e a revisão de um código de conduta e ou o controlo do cumprimento deste código por aqueles que se comprometeram a ficar vinculados por ele;
+
+h) «Diligência profissional» o padrão de competência especializada e de cuidado que se pode razoavelmente esperar de um profissional nas suas relações com os consumidores, avaliado de acordo com a prática honesta de mercado e ou com o princípio geral de boa fé no âmbito da actividade profissional;
+
+i) «Convite a contratar» uma comunicação comercial que indica as características e o preço do produto de uma forma adequada aos meios utilizados pela comunicação comercial, permitindo assim que o consumidor efectue uma aquisição;
+
+j) «Influência indevida» a utilização pelo profissional de uma posição de poder para pressionar o consumidor, mesmo sem recurso ou ameaça de recurso à força física, de forma que limita significativamente a capacidade de o consumidor tomar uma decisão esclarecida;
+
+k) «Decisão de transacção» a decisão tomada por um consumidor sobre a questão de saber se, como e em que condições adquirir, pagar integral ou parcialmente, conservar ou alienar um produto ou exercer outro direito contratual em relação ao produto, independentemente de o consumidor decidir agir ou abster-se de agir;
+
+l) «Profissão regulamentada» a actividade ou o conjunto de actividades profissionais cujo acesso, exercício ou modalidade de exercício se encontram directa ou indirectamente subordinados, por disposições legislativas, regulamentares ou administrativas, à posse de determinadas qualificações profissionais.
+
+m) «Classificação» a importância relativa atribuída aos produtos, tal como apresentados, organizados ou comunicados pelo profissional, independentemente dos meios tecnológicos utilizados para essa apresentação, organização ou comunicação;
+
+n) «Mercado em linha» um serviço com recurso a software, nomeadamente um sítio eletrónico, parte de um sítio eletrónico ou uma aplicação, explorado pelo profissional ou em seu nome, que permita aos consumidores celebrar contratos à distância com outros profissionais ou consumidores.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+### Artigo 4.º — Proibição
+
+São proibidas as práticas comercias desleais.
+
+### Artigo 5.º — Práticas comerciais desleais em geral
+
+1 - É desleal qualquer prática comercial desconforme à diligência profissional, que distorça ou seja susceptível de distorcer de maneira substancial o comportamento económico do consumidor seu destinatário ou que afecte este relativamente a certo bem ou serviço.
+
+2 - O carácter leal ou desleal da prática comercial é aferido utilizando-se como referência o consumidor médio, ou o membro médio de um grupo, quando a prática comercial for destinada a um determinado grupo de consumidores.
+
+### Artigo 6.º — Práticas comerciais desleais em especial
+
+São desleais em especial:
+
+a) As práticas comerciais susceptíveis de distorcer substancialmente o comportamento económico de um único grupo, claramente identificável, de consumidores particularmente vulneráveis, em razão da sua doença mental ou física, idade ou credulidade, à prática comercial ou ao bem ou serviço subjacentes, se o profissional pudesse razoavelmente ter previsto que a sua conduta era susceptível de provocar essa distorção;
+
+b) As práticas comerciais enganosas e as práticas comerciais agressivas referidas nos artigos 7.º, 9.º e 11.º;
+
+c) As práticas comerciais enganosas e as práticas comerciais agressivas referidas, respectivamente, nos artigos 8.º e 12.º, consideradas como tal em qualquer circunstância.
+
+### Artigo 7.º — Acções enganosas
+
+1 - É enganosa a prática comercial que contenha informações falsas ou que, mesmo sendo factualmente correctas, por qualquer razão, nomeadamente a sua apresentação geral, induza ou seja susceptível de induzir em erro o consumidor em relação a um ou mais dos elementos a seguir enumerados e que, em ambos os casos, conduz ou é susceptível de conduzir o consumidor a tomar uma decisão de transacção que este não teria tomado de outro modo:
+
+a) A existência ou a natureza do bem ou serviço;
+
+b) As características principais do bem ou serviço, tais como a sua disponibilidade, as suas vantagens, os riscos que apresenta, a sua execução, a sua composição, os seus acessórios, a prestação de assistência pós-venda e o tratamento das reclamações, o modo e a data de fabrico ou de fornecimento, a entrega, a adequação ao fim a que se destina e as garantias de conformidade, as utilizações, a quantidade, as especificações, a origem geográfica ou comercial ou os resultados que podem ser esperados da sua utilização, ou os resultados e as características substanciais dos testes ou controlos efectuados ao bem ou serviço;
+
+c) O conteúdo e a extensão dos compromissos assumidos pelo profissional, a motivação da prática comercial e a natureza do processo de venda, bem como a utilização de qualquer afirmação ou símbolo indicativos de que o profissional, o bem ou o serviço beneficiam, directa ou indirectamente, de patrocínio ou de apoio;
+
+d) O preço, a forma de cálculo do preço ou a existência de uma vantagem específica relativamente ao preço;
+
+e) A necessidade de prestação de um serviço, de uma peça, da substituição ou da reparação do bem;
+
+f) A natureza, os atributos e os direitos do profissional ou do seu agente, como a sua identidade e o seu património, as suas qualificações, o preenchimento dos requisitos de acesso ao exercício da actividade, o seu estatuto, ou as suas relações, e os seus direitos de propriedade industrial, comercial ou intelectual, ou os prémios e distinções que tenha recebido;
+
+g) Os direitos do consumidor, em particular os direitos de substituição, de reparação, de redução do preço ou de resolução do contrato nos termos do disposto no regime aplicável à conformidade dos bens de consumo, e os riscos a que o consumidor pode estar sujeito.
+
+2 - Atendendo a todas as características e circunstâncias do caso concreto, é enganosa a prática comercial que envolva:
+
+a) Qualquer actividade de promoção comercial relativa a um bem ou serviço, incluindo a publicidade comparativa, que crie confusão com quaisquer bens ou serviços, marcas, designações comerciais e outros sinais distintivos de um concorrente;
+
+b) O incumprimento pelo profissional de compromisso efectivo decorrente do código de conduta a que está vinculado no caso de ter informado, na prática comercial, de que se encontrava vinculado àquele código.
+
+c) Qualquer atividade de promoção comercial de um bem como sendo idêntico a um bem comercializado noutros Estados-Membros, quando esse bem seja significativamente diferente quanto à sua composição ou características, exceto quando justificado por fatores legítimos e objetivos.
+
+3 - Nas relações entre empresas é enganosa a prática comercial que contenha informação falsa ou que, mesmo sendo factualmente correta, por qualquer razão, nomeadamente a sua apresentação geral, induza ou seja suscetível de induzir em erro em relação aos elementos identificados nas alíneas a) a d) e f) do n.º 1.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 205/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23, em vigor a partir de 2015-09-24
+
+### Artigo 8.º — Acções consideradas enganosas em qualquer circunstância
+
+São consideradas enganosas, em qualquer circunstância, as seguintes práticas comerciais:
+
+a) Afirmar ser signatário de um código de conduta, quando não o seja;
+
+b) Exibir uma marca de certificação, uma marca de qualidade ou equivalente sem ter obtido a autorização necessária;
+
+c) Afirmar que um código de conduta foi aprovado por um organismo público ou outra entidade quando tal não corresponda à verdade;
+
+d) Afirmar que um profissional, incluindo as suas práticas comerciais, ou um bem ou serviço foram aprovados, reconhecidos ou autorizados por um organismo público ou privado quando tal não corresponde à verdade ou fazer tal afirmação sem respeitar os termos da aprovação, do reconhecimento ou da autorização;
+
+e) Propor a aquisição de bens ou serviços a um determinado preço sem revelar a existência de quaisquer motivos razoáveis que o profissional possa ter para acreditar que não pode, ele próprio, fornecer ou indicar outro profissional que forneça os bens ou serviços em questão ou equivalentes, àquele preço durante um período e em quantidades razoáveis, tendo em conta o bem ou serviço, o volume da publicidade feita ao mesmo e os preços indicados;
+
+f) Propor a aquisição de bens ou serviços a um determinado preço e, com a intenção de promover um bem ou serviço diferente, recusar posteriormente apresentar aos consumidores o bem ou o serviço publicitado;
+
+g) Propor a aquisição de bens ou serviços a um determinado preço e, com a intenção de promover um bem ou serviço diferente, recusar as encomendas relativas a este bem ou serviço ou a sua entrega ou fornecimento num prazo razoável;
+
+h) Propor a aquisição de bens ou serviços a um determinado preço e, com a intenção de promover um bem ou serviço diferente, apresentar uma amostra defeituosa do produto;
+
+i) Declarar falsamente que o bem ou serviço está disponível apenas durante um período muito limitado ou que só está disponível em condições especiais por um período muito limitado a fim de obter uma decisão imediata e privar os consumidores da oportunidade ou do tempo suficientes para tomarem uma decisão esclarecida;
+
+j) Comprometer-se a fornecer o serviço de assistência pós-venda numa língua, usada para comunicar antes da decisão negocial, que não seja uma das línguas oficiais do Estado membro em que o profissional se encontra estabelecido e posteriormente assegurar este serviço apenas em língua diversa, quando o profissional não anunciou de forma clara esta alteração ao consumidor antes de este se ter vinculado;
+
+k) Declarar que a compra ou venda de um bem ou a prestação de um serviço é lícita ou transmitir essa impressão quando tal não corresponda à verdade;
+
+l) Apresentar como característica distintiva da oferta do profissional direitos do consumidor previstos na lei;
+
+m) Utilizar um conteúdo editado nos meios de comunicação social para promover um bem ou serviço tendo sido o próprio profissional a financiar essa promoção quando tal não for indicado claramente no conteúdo ou resultar de imagens ou sons que o consumidor possa identificar com clareza;
+
+n) Fornecer resultados de pesquisa em resposta a uma consulta em linha do consumidor sem revelar claramente o pagamento de publicidade ou outro pagamento efetuado especificamente para obter uma classificação superior dos produtos nos resultados da pesquisa;
+
+o) Fazer afirmações substancialmente inexactas relativas à natureza e à amplitude do risco para a segurança pessoal do consumidor ou da sua família se o consumidor não adquirir o bem ou assentir na prestação do serviço;
+
+p) Promover um bem ou serviço análogo ao produzido ou oferecido por um fabricante específico de maneira a levar deliberadamente o consumidor a pensar que, embora não seja esse o caso, o bem ou serviço provêm desse mesmo fabricante;
+
+q) (Revogada);
+
+r) Criar, explorar ou promover um sistema de promoção em pirâmide em que o consumidor dá a sua própria contribuição em troca da possibilidade de receber uma contrapartida que decorra essencialmente da entrada de outros consumidores no sistema e não da venda ou do consumo de produtos;
+
+s) Alegar que o profissional está prestes a cessar a sua actividade ou a mudar de instalações quando tal não corresponde à verdade;
+
+t) Alegar que o bem ou serviço pode aumentar as possibilidades de ganhar nos jogos de fortuna ou azar;
+
+u) Alegar falsamente que o bem ou serviço é capaz de curar doenças, disfunções e malformações;
+
+v) Transmitir informações inexactas sobre as condições de mercado ou sobre a possibilidade de encontrar o bem ou serviço com a intenção de induzir o consumidor a adquirir o bem ou a contratar a prestação do serviço em condições menos favoráveis do que as condições normais de mercado;
+
+w) Declarar que se organiza um concurso ou uma promoção com prémio sem entregar os prémios descritos ou um equivalente razoável;
+
+x) Descrever o bem ou serviço como «grátis», «gratuito», «sem encargos» ou equivalente se o consumidor tiver de pagar mais do que o custo indispensável para responder à prática comercial e para ir buscar o bem ou pagar pela sua entrega;
+
+y) Incluir no material de promoção comercial factura ou documento equiparado solicitando o pagamento, dando ao consumidor a impressão de já ter encomendado o bem ou serviço comercializado, quando tal não aconteceu;
+
+z) Alegar falsamente ou dar a impressão de que o profissional não está a agir para fins relacionados com a sua actividade comercial, industrial, artesanal ou profissional ou apresentar-se falsamente como consumidor;
+
+aa) Dar a impressão falsa de que o serviço pós-venda relativo ao bem ou serviço está disponível em Estado membro distinto daquele em que o bem ou serviço é vendido.
+
+bb) Revender bilhetes para eventos aos consumidores se o profissional os tiver adquirido através de meios automatizados para contornar os limites impostos ao número de bilhetes que uma pessoa pode adquirir ou outras regras aplicáveis à sua aquisição;
+
+cc) Declarar que as avaliações de um produto são apresentadas por consumidores que o utilizaram ou adquiriram efetivamente, sem adotar medidas razoáveis e proporcionadas para verificar que essas avaliações são publicadas por esses consumidores;
+
+dd) Apresentar avaliações ou recomendações falsas de consumidores ou instruir uma terceira pessoa singular ou coletiva para apresentar avaliações ou recomendações falsas de consumidores, ou apresentar avaliações do consumidor ou recomendações nas redes sociais distorcidas, a fim de promover os produtos.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 205/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23, em vigor a partir de 2015-09-24
+
+### Artigo 9.º — Omissões enganosas
+
+1 - Tendo em conta todas as suas características e circunstâncias e as limitações do meio de comunicação, é enganosa, e portanto conduz ou é susceptível de conduzir o consumidor a tomar uma decisão de transacção que não teria tomado de outro modo, a prática comercial:
+
+a) Que omite uma informação com requisitos substanciais para uma decisão negocial esclarecida do consumidor;
+
+b) Em que o profissional oculte ou apresente de modo pouco claro, ininteligível ou tardio a informação referida na alínea anterior;
+
+c) Em que o profissional não refere a intenção comercial da prática, se tal não se puder depreender do contexto.
+
+2 - Quando o meio de comunicação utilizado para a prática comercial impuser limitações de espaço ou de tempo, essas limitações e quaisquer medidas tomadas pelo profissional para disponibilizar a informação aos consumidores por outros meios devem ser tomadas em conta para decidir se foi omitida informação.
+
+3 - São considerados substanciais os requisitos de informação exigidos para as comunicações comerciais na legislação nacional decorrentes de regras comunitárias.
+
+4 - Para efeitos do número anterior, consideram-se, nomeadamente, os seguintes atos legislativos, na sua redação atual:
+
+a) Decreto-Lei n.º 138/90, de 26 de Abril, que aprova o regime jurídico relativo à obrigação de exibição dos preços dos bens ou serviços;
+
+b) [Revogada];
+
+c) Decreto-Lei n.º 275/93, de 5 de Agosto, que aprova o regime jurídico relativo ao direito real de habitação periódica sobre as unidades de alojamento integradas em hotéis-apartamentos, aldeamentos turísticos e apartamentos turísticos;
+
+d) [Revogada];
+
+e) [Revogada];
+
+f) Decreto-Lei n.º 486/99, de 13 de Novembro, que aprova o Código dos Valores Mobiliários;
+
+g) [Revogada];
+
+h) [Revogada];
+
+i) Decreto-Lei n.º 7/2004, de 7 de Janeiro, que aprova o regime jurídico do comércio electrónico;
+
+j) Decreto-Lei n.º 52/2006, de 15 de Março, que aprova o regime jurídico relativa ao abuso de informação privilegiada e à manipulação de mercado da publicação e admissão à negociação do prospecto de oferta pública de valores mobiliários;
+
+l) Decreto-Lei n.º 95/2006, de 29 de Maio, que aprova o regime jurídico da comercialização à distância dos serviços financeiros prestados ao consumidor;
+
+m) [Revogada];
+
+n) Decreto-Lei n.º 176/2006, de 30 de Agosto, que aprova o regime jurídico relativo aos medicamentos para uso humano; e
+
+o) Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que transpõe para a ordem jurídica interna a Directiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa aos mercados de instrumentos financeiros.
+
+p) Decreto-Lei n.º 133/2009, de 2 de junho, que estabelece o regime jurídico dos contratos de crédito aos consumidores
+
+q) Decreto-Lei n.º 24/2014, de 14 de fevereiro, que estabelece o regime jurídico relativo aos contratos celebrados à distância e fora do estabelecimento comercial;
+
+r) Lei n.º 16/2015, de 24 de fevereiro, que estabelece o regime jurídico dos organismos de investimento coletivo
+
+s) Lei n.º 147/2015, de 9 de setembro, que aprova o regime jurídico de acesso e exercício da atividade seguradora e resseguradora;
+
+t) Decreto-Lei n.º 17/2018, de 8 de março, que estabelece o regime jurídico de acesso e de exercício da atividade das agências de viagens e turismo;
+
+u) Lei n.º 7/2019, de 16 de janeiro, que estabelece o regime jurídico da distribuição de seguros e resseguros.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+### Artigo 10.º — Proposta contratual ou convite a contratar
+
+No caso de proposta contratual ou de convite a contratar, são consideradas substanciais para efeitos do artigo anterior, se não se puderem depreender do contexto, as informações seguintes:
+
+a) As características principais do bem ou serviço, na medida adequada ao meio e ao bem ou serviço;
+
+b) O endereço geográfico, a identidade do profissional e a sua designação comercial e, se for caso disso, o endereço geográfico, a identidade e a designação comercial do profissional por conta de quem actua;
+
+c) O preço, incluindo impostos e taxas, ou quando, devido à natureza do bem ou serviço, o preço não puder ser razoavelmente calculado de forma antecipada, o modo como o preço é calculado, bem como, se for caso disso, todos os custos suplementares de transporte, de expedição, de entrega e de serviços postais ou, quando estas despesas não puderem ser razoavelmente calculadas de forma antecipada, a indicação de que esses custos suplementares ficam a cargo do consumidor;
+
+d) As modalidades de pagamento, expedição ou execução, caso se afastem das obrigações de diligência profissional;
+
+e) A existência dos direitos de resolução ou de anulação, qualquer que seja a denominação utilizada, sempre que resultem da lei ou de contrato.
+
+f) Para os produtos oferecidos nos mercados em linha, se o terceiro que os oferece é ou não um profissional, com base nas declarações prestadas por esse terceiro ao prestador do mercado em linha.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+### Artigo 10.º-A — Pesquisas e avaliações
+
+1 - Nos casos em que seja possível aos consumidores procurar produtos oferecidos por diferentes profissionais ou por consumidores com base em pesquisas sob a forma de palavra-chave, frase ou outros dados, são consideradas substanciais as informações gerais sobre os principais parâmetros que determinam a classificação dos produtos apresentados ao consumidor em resultado da pesquisa e a importância relativa desses parâmetros em comparação com outros parâmetros.
+
+2 - As informações mencionadas no número anterior devem ser disponibilizadas numa secção específica da interface em linha que seja direta e facilmente acessível a partir da página onde os resultados da pesquisa são apresentados.
+
+3 - O disposto nos números anteriores não se aplica a fornecedores de motores de pesquisa em linha, na aceção do n.º 6 do artigo 2.º do Regulamento (UE) 2019/1150 do Parlamento Europeu e do Conselho, de 20 de junho de 2019.
+
+4 - Caso um profissional disponibilize o acesso a avaliações efetuadas por consumidores, são consideradas substanciais as informações sobre se o profissional garante que as avaliações publicadas são efetuadas por consumidores que efetivamente utilizaram ou adquiriram os produtos e sobre os mecanismos ou ferramentas utilizadas para o efeito.
+
+> Aditado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+### Artigo 11.º — Práticas comerciais agressivas
+
+1 - É agressiva a prática comercial que, devido a assédio, coacção ou influência indevida, limite ou seja susceptível de limitar significativamente a liberdade de escolha ou o comportamento do consumidor em relação a um bem ou serviço e, por conseguinte, conduz ou é susceptível de conduzir o consumidor a tomar uma decisão de transacção que não teria tomado de outro modo.
+
+2 - Para efeito do disposto no número anterior, atende-se ao caso concreto e a todas as suas características e circunstâncias, devendo ser considerados os seguintes aspectos:
+
+a) Momento, local, natureza e persistência da prática comercial;
+
+b) Recurso a linguagem ou comportamento ameaçadores ou injuriosos;
+
+c) Aproveitamento consciente pelo profissional de qualquer infortúnio ou circunstância específica que pela sua gravidade prejudique a capacidade de decisão do consumidor, com o objectivo de influenciar a decisão deste em relação ao bem ou serviço;
+
+d) Qualquer entrave não contratual oneroso ou desproporcionado imposto pelo profissional, quando o consumidor pretenda exercer os seus direitos contratuais, incluindo a resolução do contrato, a troca do bem ou serviço ou a mudança de profissional;
+
+e) Qualquer ameaça de exercício de uma acção judicial que não seja legalmente possível.
+
+### Artigo 12.º — Práticas comerciais consideradas agressivas em qualquer circunstância
+
+São consideradas agressivas, em qualquer circunstância, as seguintes práticas comerciais:
+
+a) Criar a impressão de que o consumidor não pode deixar o estabelecimento sem que antes tenha sido celebrado um contrato;
+
+b) Contactar o consumidor através de visitas ao seu domicílio, ignorando o pedido daquele para que o profissional parta ou não volte, excepto em circunstâncias e na medida em que tal se justifique para o cumprimento de obrigação contratual;
+
+c) Fazer solicitações persistentes e não solicitadas, por telefone, fax, e-mail ou qualquer outro meio de comunicação à distância, excepto em circunstâncias e na medida em que tal se justifique para o cumprimento de obrigação contratual;
+
+d) Obrigar o consumidor, que pretenda solicitar indemnização ao abrigo de uma apólice de seguro, a apresentar documentos que, de acordo com os critérios de razoabilidade, não possam ser considerados relevantes para estabelecer a validade do pedido, ou deixar sistematicamente sem resposta a correspondência pertinente, com o objectivo de dissuadir o consumidor do exercício dos seus direitos contratuais;
+
+e) Incluir em anúncio publicitário uma exortação directa às crianças no sentido de comprarem ou convencerem os pais ou outros adultos a comprar-lhes os bens ou serviços anunciados;
+
+f) Exigir o pagamento imediato ou diferido de bens e serviços ou a devolução ou a guarda de bens fornecidos pelo profissional que o consumidor não tenha solicitado, sem prejuízo do disposto no regime dos contratos celebrados à distância acerca da possibilidade de fornecer o bem ou o serviço de qualidade e preço equivalentes;
+
+g) Informar explicitamente o consumidor de que a sua recusa em comprar o bem ou contratar a prestação do serviço põe em perigo o emprego ou a subsistência do profissional;
+
+h) Transmitir a impressão falsa de que o consumidor já ganhou, vai ganhar ou, mediante a prática de um determinado acto, ganha um prémio ou outra vantagem quando não existe qualquer prémio ou vantagem ou quando a prática de actos para reclamar o prémio ou a vantagem implica, para o consumidor, pagar um montante em dinheiro ou incorrer num custo.
+
+### Artigo 13.º — Envio de bens ou serviços não solicitados
+
+1 - No caso de envio de bens ou serviços não encomendados ou solicitados, que não constitua o cumprimento de qualquer contrato válido, o destinatário desses bens ou serviços não fica obrigado à sua devolução ou pagamento, podendo conservá-los a título gratuito.
+
+2 - A ausência de resposta do destinatário, nos termos do número anterior, não vale como consentimento.
+
+3 - Se, não obstante o disposto nos números anteriores, o destinatário efectuar a devolução do bem, tem direito a ser reembolsado das despesas desta decorrentes no prazo de 30 dias a contar da data em que a tenha efectuado.
+
+> Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 205/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23, em vigor a partir de 2015-09-24
+
+### Artigo 14.º — Direitos do consumidor
+
+1 - O consumidor tem direito à redução adequada do preço ou à resolução do contrato relativamente aos produtos adquiridos por efeito de uma prática comercial desleal.
+
+2 - O consumidor pode exercer qualquer dos direitos referidos no número anterior, salvo se tal se manifestar impossível ou constituir abuso de direito, nos termos gerais.
+
+3 - Sem prejuízo do disposto no n.º 1, o consumidor lesado por efeito de alguma prática comercial desleal, nos termos do presente decreto-lei, é ressarcido nos termos gerais.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+### Artigo 15.º — Responsabilidade civil
+
+O consumidor lesado por efeito de alguma prática comercial desleal proibida nos termos do presente decreto-lei é ressarcido nos termos gerais.
+
+> Revogado pelo/a Artigo 14.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+### Artigo 16.º — Direito de acção
+
+Qualquer pessoa, incluindo os concorrentes que tenham interesse legítimo em opor-se a práticas comerciais desleais proibidas nos termos do presente decreto-lei, pode intentar a acção inibitória prevista na Lei n.º 24/96, de 31 de Julho, com vista a prevenir, corrigir ou fazer cessar tais práticas.
+
+## Capítulo II — Códigos de conduta
+
+### Artigo 17.º — Controlo por titulares de códigos de conduta
+
+1 - Os titulares de códigos de conduta que assegurem uma protecção do consumidor superior à prevista no presente decreto-lei podem controlar as práticas comerciais desleais neste identificadas.
+
+2 - O recurso ao controlo pelos titulares dos códigos não implica nunca a renúncia à acção judicial ou ao controlo administrativo.
+
+### Artigo 18.º — Código de conduta ilegal
+
+O titular de um código de conduta de cujo teor decorra o não cumprimento das disposições do presente decreto-lei está sujeito ao disposto nos artigos 15.º, 16.º, 20.º e 21.º
+
+## Capítulo III — Regime sancionatório
+
+### Artigo 19.º — Autoridades administrativas competentes
+
+1 - A autoridade administrativa competente para ordenar as medidas previstas no artigo seguinte é a Autoridade de Segurança Alimentar e Económica (ASAE), a entidade reguladora do setor no qual ocorra a prática comercial desleal ou a entidade fiscalizadora de mercado setorialmente competente.
+
+2 - O Banco de Portugal, a Comissão do Mercado de Valores Mobiliários e a Autoridade de Supervisão de Seguros e Fundos de Pensões são considerados autoridades administrativas competentes para a aplicação do disposto neste artigo às práticas comerciais desleais que ocorram no âmbito dos respetivos setores financeiros.
+
+3 - Tratando-se de uma prática comercial desleal em matéria de publicidade, a autoridade administrativa competente para aplicar as medidas previstas no artigo seguinte é a Direção-Geral do Consumidor (DGC), que pode solicitar a intervenção da ASAE para a efetiva execução da sua ação, sem prejuízo das competências especificas atribuídas a outras entidad
+
+4 - As autoridades e serviços competentes têm o dever de cooperar com as autoridades administrativas referidas nos números anteriores em tudo o que for necessário para o desempenho das funções resultantes da aplicação do presente decreto-lei.
+
+5 - Os profissionais devem prestar às autoridades administrativas competentes toda a cooperação necessária ao desempenho das suas funções.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10, em vigor a partir de 2022-05-28
+
+### Artigo 20.º — Determinação das medidas cautelares
+
+1 - Sem prejuízo do disposto no artigo 16.º, qualquer pessoa, incluindo os profissionais concorrentes, que detenha um interesse legítimo em opor-se às práticas comerciais desleais proibidas nos termos do presente decreto-lei pode submeter a questão, por qualquer meio ao seu dispor, à autoridade administrativa competente.
+
+2 - A autoridade administrativa pode ordenar medidas cautelares de cessação temporária da prática comercial desleal ou determinar a proibição prévia de uma prática comercial desleal iminente independentemente de culpa ou da prova da ocorrência de um prejuízo real.
+
+3 - A aplicação das medidas cautelares, a que se refere o número anterior, está sujeita a um juízo prévio de previsibilidade da existência dos pressupostos da ocorrência de uma prática comercial desleal.
+
+4 - A adopção das medidas cautelares, a que se refere o n.º 2, deve, sempre que possível, ser precedida da audição do profissional, o qual dispõe, para o efeito, de três dias úteis após ter sido notificado por qualquer meio pela autoridade administrativa competente.
+
+5 - Não há lugar à audição prevista no número anterior quando:
+
+a) A decisão seja urgente;
+
+b) Seja razoavelmente de prever que a diligência possa comprometer a execução ou a utilidade da decisão;
+
+c) O número de interessados a ouvir seja de tal forma elevado que a audiência se torne impraticável, devendo nesse caso proceder-se a consulta pública, quando possível, pela forma mais adequada.
+
+6 - A medida ordenada nos termos do n.º 2 extingue-se no termo do prazo nesta estipulado, caso seja anterior à decisão final proferida pela autoridade administrativa competente no âmbito do respectivo processo de contra-ordenação, ou pelo tribunal competente em sede de recurso.
+
+7 - Da medida adoptada pela autoridade administrativa cabe sempre recurso para o tribunal judicial da área onde ocorreu a prática comercial desleal.
+
+### Artigo 21.º — Contra-ordenações
+
+1 - A violação do disposto nos artigos 4.º a 12.º constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+2 - Se as contraordenações previstas no presente decreto-lei corresponderem a infrações generalizadas ou a infrações generalizadas ao nível da União Europeia, na aceção dos n.os 3) e 4) do artigo 3.º do Regulamento (UE) 2017/2394, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017, relativo à cooperação entre as autoridades nacionais responsáveis pela aplicação da legislação de proteção dos consumidores e que revoga o Regulamento (CE) n.º 2006/2004, o limite máximo das coimas a aplicar no âmbito de ações coordenadas, conforme previsto no artigo 21.º do mesmo regulamento, corresponde a 4 % do volume de negócios anual do infrator nos Estados-Membros em causa, sem prejuízo do número seguinte.
+
+3 - Quando não esteja disponível informação sobre o volume de negócios anual do infrator, o limite máximo da coima a que se refere o número anterior é de 2 000 000 (euro).
+
+4 - Na determinação da coima a aplicar pela prática das contraordenações previstas no presente decreto-lei, o decisor tem em conta, para além do disposto no RJCE ou nos regimes contraordenacionais específicos estabelecidos na legislação sectorialmente aplicável:
+
+a) A natureza, gravidade, dimensão e duração da infração cometida;
+
+b) As medidas eventualmente adotadas pelo infrator para atenuar ou reparar os danos causados aos consumidores;
+
+c) As eventuais infrações cometidas anteriormente pelo infrator em causa;
+
+d) Os benefícios financeiros obtidos ou os prejuízos evitados pelo infrator em virtude da infração cometida, se os dados em causa estiveram disponíveis;
+
+e) Nas situações transfronteiriças, as sanções impostas ao infrator pela mesma infração noutros Estados-Membros, caso a informação sobre essas sanções esteja disponível ao abrigo do mecanismo estabelecido no regulamento referido no n.º 2.
+
+5 - São, ainda, aplicáveis, em função da gravidade da infracção e da culpa do agente, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+d) Publicidade da aplicação das coimas e das sanções acessórias, a expensas do infractor.
+
+6 - As sanções referidas nas alíneas a) a c) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória final.
+
+7 - A negligência é punível nos termos do RJCE.
+
+8 - A fiscalização do cumprimento do disposto no presente decreto-lei, bem como a instrução dos respectivos processos de contra-ordenação, compete à ASAE ou à autoridade administrativa competente em razão da matéria, conforme o disposto no artigo 19.º.
+
+9 - A aplicação das coimas e das sanções acessórias compete à entidade prevista no respetivo regime regulador setorial.
+
+10 - Nos casos em que o respetivo regime regulador setorial não define a entidade competente para a aplicação das coimas e das sanções acessórias, compete ao inspetor-geral da ASAE e, no que respeita a ilícitos em matéria de publicidade, ao diretor-geral da Direção-Geral do Consumidor, a sua aplicação.
+
+11 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos previstos no respetivo regime regulador setorial ou, caso não exista, de acordo com a regra de repartição prevista no RJCE.
+
+> Alterado pelo/a Artigo 5.º do/a Lei n.º 10/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03, em vigor a partir de 2023-04-03
+
+> Alterado pelo/a Artigo 88.º do/a Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29, em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 205/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23, em vigor a partir de 2015-09-24
+
+### Artigo 22.º — Prova
+
+1 - Os tribunais e as autoridades administrativas competentes podem exigir aos profissionais provas de exactidão material dos dados de facto contidos nas práticas comerciais reguladas no presente decreto-lei se, atendendo aos interesses legítimos do profissional e de qualquer outra parte no processo, tal exigência for adequada às circunstâncias do caso.
+
+2 - Os dados consideram-se inexactos se as provas exigidas nos termos do número anterior não forem apresentadas ou se forem consideradas insuficientes pelo tribunal ou pela autoridade administrativa.
+
+## Capítulo IV — Disposições finais
+
+### Artigo 23.º — Alteração ao Código da Publicidade
+
+Os artigos 11.º e 16.º do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 11.º
+
+Publicidade enganosa
+
+1 - É proibida toda a publicidade que seja enganosa nos termos do Decreto-Lei n.º 57/2008, de 26 de Março, relativo às práticas comerciais desleais das empresas nas relações com os consumidores.
+
+2 - No caso previsto no número anterior, pode a entidade competente para a instrução dos respectivos processos de contra-ordenação exigir que o anunciante apresente provas da exactidão material dos dados de facto contidos na publicidade.
+
+3 - Os dados referidos no número anterior presumem-se inexactos se as provas exigidas não forem apresentadas ou forem insuficientes.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+Artigo 16.º
+
+Publicidade comparativa
+
+1 -...
+
+2 -...
+
+a)...
+
+b)...
+
+c)...
+
+d) Não gere confusão no mercado entre os profissionais, entre o anunciante e um concorrente ou entre marcas, designações comerciais, outros sinais distintivos, bens ou serviços do anunciante e os de um concorrente;
+
+e)...
+
+f)...
+
+g)...
+
+h)...
+
+3 -...
+
+4 -...
+
+5 -...»
+
+### Artigo 24.º — Aditamento ao Código da Publicidade
+
+São aditados ao Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, os artigos 42.º e 43.º, com a seguinte redacção:
+
+«Artigo 42.º
+
+Legitimidade de profissionais e concorrentes
+
+Qualquer profissional ou concorrente com interesse legítimo em lutar contra a publicidade enganosa e garantir o cumprimento das disposições em matéria de publicidade comparativa pode suscitar a intervenção da Direcção-Geral do Consumidor para efeitos do disposto no artigo anterior.
+
+Artigo 43.º
+
+Comunicação dirigida exclusivamente a profissionais
+
+O disposto nos artigos 10.º, 11.º e 16.º do presente Código aplica-se apenas à publicidade que não tenha como destinatários os consumidores.»
+
+### Artigo 25.º — Avaliação da execução do decreto-lei
+
+No final do 3.º ano a contar da data da entrada em vigor do presente decreto-lei e bianualmente nos anos subsequentes, a DGC, com base nos dados fornecidos pela ASAE e pelas restantes autoridades administrativas competentes bem como naqueles decorrentes da sua actividade, elabora e apresenta um relatório de avaliação sobre a aplicação e execução do mesmo, devendo remetê-lo ao membro do Governo que tutela a política de defesa do consumidor.
+
+### Artigo 26.º — Regiões Autónomas
+
+O disposto no presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de as competências cometidas a serviços ou organismos da Administração do Estado serem exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências.
+
+### Artigo 27.º — Norma revogatória
+
+São revogados:
+
+a) Os n.os 4 e 5 do artigo 11.º e o artigo 22.º-B do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro;
+
+b) Os artigos 26.º, 27.º, 28.º e 29.º do Decreto-Lei n.º 143/2001, de 26 de Abril.
+
+### Artigo 28.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho - Alberto Bernardes Costa.
+
+Promulgado em 14 de Março de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 17 de Março de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

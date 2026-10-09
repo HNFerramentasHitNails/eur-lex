@@ -14,11 +14,11 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 1999-07-07 — Decreto-lei n° 249/99 de 7 de julho. Diario da Republica, 07/07/1999, n° 156, 4202. SG(99)A/11500. (CELEX 71993L0013PRT_93847)
-- 1995-09-06 — Portaria n. 1093/95 de 06/09/1995. Incumbe o Gabinete de Direito Europeu de organizar e manter actualizado o registo das cláusulas contratuais abusivas. Diário da República I Série B n. 206 de 06/09/1995 Página 5650 (CELEX 71993L0013PRT_93846)
-- 1995-08-31 — Decreto-Lei n. 220/95 de 31/08/1995. Altera o Decreto-Lei n. 446/85, de 25 de Outubro (institui o regime jurídico das cláusulas contratuais gerais). Diário da República I Série A n. 201 de 31/08/1995 Página 5469 (CELEX 71993L0013PRT_93845)
+- 1999-07-07 — Decreto-lei n° 249/99 de 7 de julho. Diario da Republica, 07/07/1999, n° 156, 4202. SG(99)A/11500. (CELEX 71993L0013PRT_93847) → texto: [`legislacao-pt/decreto-lei-249-1999.md`](../../legislacao-pt/decreto-lei-249-1999.md) (original (DRE))
+- 1995-09-06 — Portaria n. 1093/95 de 06/09/1995. Incumbe o Gabinete de Direito Europeu de organizar e manter actualizado o registo das cláusulas contratuais abusivas. Diário da República I Série B n. 206 de 06/09/1995 Página 5650 (CELEX 71993L0013PRT_93846) → texto: [`legislacao-pt/portaria-1093-1995.md`](../../legislacao-pt/portaria-1093-1995.md) (original (DRE))
+- 1995-08-31 — Decreto-Lei n. 220/95 de 31/08/1995. Altera o Decreto-Lei n. 446/85, de 25 de Outubro (institui o regime jurídico das cláusulas contratuais gerais). Diário da República I Série A n. 201 de 31/08/1995 Página 5469 (CELEX 71993L0013PRT_93845) → texto: [`legislacao-pt/decreto-lei-220-1995.md`](../../legislacao-pt/decreto-lei-220-1995.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (205)
 

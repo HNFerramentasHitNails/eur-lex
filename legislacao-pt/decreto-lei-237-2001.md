@@ -1,0 +1,247 @@
+---
+diploma: Decreto-Lei n.º 237/2001
+tipo: Decreto-Lei
+numero: 237/2001
+data_publicacao: '2001-08-30'
+sumario: Dispensa de escritura pública a realização de determinados actos relativos a sociedades (alterando o Código das Sociedades Comerciais, o Código do Notariado e o Decreto-Lei n.º 513-Q/79, de 26 de Dezembro) e confere competência às câmaras de comércio e indústria, bem como aos advogados e solicitadores, para efectuarem reconhecimentos e certificar ou fazer e certificar traduções de documentos
+vigencia_dre: VIGENTE
+texto: original (DRE)
+transpoe:
+- 32015L0849
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2001-631838
+eli: https://data.dre.pt/eli/dec-lei/237/2001/08/30/p/dre/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 237/2001
+
+**Sumário:** Dispensa de escritura pública a realização de determinados actos relativos a sociedades (alterando o Código das Sociedades Comerciais, o Código do Notariado e o Decreto-Lei n.º 513-Q/79, de 26 de Dezembro) e confere competência às câmaras de comércio e indústria, bem como aos advogados e solicitadores, para efectuarem reconhecimentos e certificar ou fazer e certificar traduções de documentos
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão original publicada no DR (o DRE não tem versão consolidada deste diploma): **alterações posteriores não estão incorporadas** — ver "Modificações" na página do DRE.
+
+**DRE:** https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2001-631838
+
+## Texto
+
+Decreto-Lei n.º 237/2001
+
+de 30 de Agosto
+
+Na área da justiça, constitui um objectivo assumido no Programa do XIV Governo Constitucional reduzir o número de actos sujeitos a escritura pública, bem como desburocratizar o sistema de notariado, mediante a simplificação e redução do número de actos que carecem de certificação.
+
+O Decreto-Lei n.º 36/2000, de 14 de Março, marcou o início do processo de simplificação, mediante a dispensa de escritura pública para um conjunto de actos, entre os quais se inclui a dissolução de sociedades, a constituição de sociedades unipessoais por quotas e a constituição do estabelecimento individual de responsabilidade limitada.
+
+Por sua vez, o Decreto-Lei n.º 64-A/2000, de 22 de Abril, consagrou a dispensa de escritura pública relativamente aos arrendamentos sujeitos a registo, aos arrendamentos para o comércio, indústria ou profissão liberal, bem como quanto ao trespasse e à cessão de exploração do estabelecimento comercial.
+
+Orientado pelo mesmo objectivo de redução do número de actos sujeitos a escritura pública e tendo ainda presente o propósito de simplificação da actividade notarial, entende o Governo alterar o Código das Sociedades Comerciais, por forma a abranger:
+
+O penhor de participações sociais;
+
+A transmissão de parte social, nas sociedades em nome colectivo, desde que não detenham bens imóveis;
+
+A unificação de quotas;
+
+A partilha ou divisão de quotas entre contitulares.
+
+Prevê-se ainda que, aquando da celebração do contrato social, o depósito das entradas em dinheiro, já realizadas, possa ser comprovado por declaração dos sócios, sob sua responsabilidade.
+
+Paralelamente, o presente diploma vem permitir que o pacto social constitutivo de sociedades de advogados conste de escrito particular, excepto quando haja entradas de bens imóveis.
+
+Por outro lado, e na prossecução dos objectivos delineados quanto à introdução de formas alternativas de atribuição de valor probatório a documentos, prevê-se que os reconhecimentos com menções especiais e a tradução ou a certificação da tradução de documentos possam ser efectuados pelas câmaras de comércio e indústria, bem como por advogados e solicitadores.
+
+Foram ouvidas as organizações representativas dos trabalhadores dos registos e do notariado, bem como as entidades representativas das associações profissionais, de consumidores, das câmaras de comércio e indústria, subscritoras do protocolo de acção celebrado com o Governo com o objectivo de simplificar e desburocratizar a prática dos actos notariais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Artigo 1.º — Alteração do Código das Sociedades Comerciais
+
+Os artigos 23.º, 182.º, 202.º, 219.º, 221.º e 277.º do Código das Sociedades Comerciais, aprovado pelo Decreto-lei n.º 262/86, de 2 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 23.º
+
+Usufruto e penhor de participações
+
+1 -...
+
+2 -...
+
+3 - O penhor de participações sociais só pode ser constituído dentro das limitações estabelecidas para a transmissão entre vivos de tais participações e deve constar de escrito particular.
+
+4 -...
+
+### Artigo 182.º — Transmissão entre vivos de parte social
+
+1 -...
+
+2 - A transmissão da parte de um sócio efectua-se por escritura pública quando a sociedade tiver bens imóveis.
+
+3 - O disposto nos números anteriores aplica-se à constituição dos direitos reais de gozo sobre a parte do sócio.
+
+4 -...
+
+### Artigo 202.º — Entradas
+
+1 -...
+
+2 -...
+
+3 -...
+
+4 - O depósito exigido pelo número anterior pode ainda ser comprovado por declaração dos sócios, prestada sob sua responsabilidade.
+
+5 - Da conta aberta em nome da sociedade só poderão ser efectuados levantamentos:
+
+a) Depois de o contrato estar definitivamente registado;
+
+b) Depois de outorgada a escritura, caso os sócios autorizem os gerentes a efectuá-los para fins determinados;
+
+c) Para liquidação provocada pela inexistência ou nulidade do contrato ou pela falta de registo.
+
+### Artigo 219.º — Unidade e montante da quota
+
+1 -...
+
+2 -...
+
+3 -...
+
+4 -...
+
+5 - A unificação pode ser efectuada por documento particular e deve ser registada e comunicada à sociedade.
+
+6 -...
+
+7 -...
+
+### Artigo 221.º — Divisão de quotas
+
+1 -...
+
+2 - Os actos que importem divisão de quota devem constar de escritura pública, excepto a partilha ou divisão entre contitulares, que pode constar de documento particular.
+
+3 -...
+
+4 -...
+
+5 -...
+
+6 -...
+
+7 -...
+
+8 -...
+
+### Artigo 277.º — Entradas
+
+1 -...
+
+2 -...
+
+3 -...
+
+4 - O depósito exigido pelo número anterior pode ainda ser comprovado por declaração dos sócios, sob sua responsabilidade.
+
+5 - Da conta aberta em nome da sociedade só poderão ser efectuados levantamentos:
+
+a) Depois de o contrato estar definitivamente registado;
+
+b) Depois de outorgada a escritura, caso os accionistas autorizem os administradores ou directores a efectuá-los para fins determinados;
+
+c) Para liquidação provocada pela inexistência ou nulidade do contrato ou pela falta do registo;
+
+d) Para a restituição prevista nos artigos 279.º, n.º 6, alínea h), e 280.º»
+
+### Artigo 2.º — Alteração do Decreto-Lei n.º 513-Q/79, de 26 de Dezembro
+
+O artigo 3.º do Decreto-Lei n.º 513-Q/79, de 26 de Dezembro, que estabelece o regime das sociedades civis de advogados, passa a ter a seguinte redacção:
+
+«Artigo 3.º
+
+Pacto social e menções obrigatórias
+
+1 - O pacto social constitutivo da sociedade de advogados deve conter obrigatoriamente as seguintes menções:
+
+a) O nome, o domicílio profissional e o número de inscrição na Ordem dos Advogados associados;
+
+b) A razão social;
+
+c) A sede social;
+
+d) O montante do capital social, a natureza e valor das participações que o representam e os respectivos titulares;
+
+e) A declaração da realização total ou parcial do capital;
+
+f) As participações de indústria de cada sócio e respectivos regimes;
+
+g) O modo de repartição dos resultados, distinguindo-se a quota-parte dos mesmos correspondente às participações de capital e a correspondente às participações de indústria;
+
+h) A forma de designação dos órgãos sociais.
+
+2 - O pacto social constitutivo da sociedade deve constar de escrito particular, excepto quando haja entradas de bens imóveis, caso em que deve constar de escritura pública.
+
+3 - O acto constitutivo da sociedade só pode ser realizado depois de aprovado o projecto de pacto social nos termos do artigo anterior.»
+
+### Artigo 3.º — Alteração ao Código do Notariado
+
+O artigo 80.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de Agosto, passa a ter a seguinte redacção:
+
+«Artigo 80.º
+
+Exigência de escritura
+
+1 -...
+
+2 - Devem especialmente celebrar-se por escritura pública:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g)...
+
+h) A divisão e a cessão de participações sociais em sociedades por quotas, bem como noutras sociedades titulares de direitos reais sobre coisas imóveis, com excepção das anónimas;
+
+i)...
+
+j)...»
+
+### Artigo 4.º — Entrada em vigor do artigo 35.º do Código das Sociedades Comerciais
+
+O artigo 35.º do Código das Sociedades Comerciais entra em vigor na data de entrada em vigor do presente diploma.
+
+### Artigo 5.º — Reconhecimentos com menções especiais
+
+1 - As câmaras de comércio e indústria, reconhecidas nos termos do Decreto-Lei n.º 244/92, de 29 de Outubro, os advogados e os solicitadores podem fazer reconhecimentos com menções especiais, por semelhança, nos termos previstos no Código do Notariado.
+
+2 - Podem ainda as entidades referidas no número anterior certificar, ou fazer e certificar, traduções de documentos.
+
+3 - É aplicável, com as necessárias adaptações, o disposto no artigo 2.º do Decreto-Lei n.º 28/2000, de 13 de Março.
+
+### Artigo 6.º — Força probatória
+
+Os reconhecimentos e as traduções efectuados pelas entidades previstas no artigo anterior conferem ao documento a mesma força probatória que teria se tais actos tivessem sido realizados com intervenção notarial.
+
+Visto e aprovado em Conselho de Ministros de 19 de Julho de 2001. - António Manuel de Oliveira Guterres - António Luís Santos Costa.
+
+Promulgado em 17 de Agosto de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 23 de Agosto de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

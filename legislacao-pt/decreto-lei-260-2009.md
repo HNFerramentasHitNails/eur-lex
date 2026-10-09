@@ -1,0 +1,915 @@
+---
+diploma: Decreto-Lei n.º 260/2009
+tipo: Decreto-Lei
+numero: 260/2009
+data_publicacao: '2009-09-25'
+sumario: Regula o regime jurídico do exercício e licenciamento das agências privadas de colocação e das empresas de trabalho temporário
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2023-04-03'
+transpoe:
+- 32003L0088
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2009-490469
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-63511624
+eli: https://data.dre.pt/eli/dec-lei/260/2009/p/cons/20230403/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 260/2009
+
+**Sumário:** Regula o regime jurídico do exercício e licenciamento das agências privadas de colocação e das empresas de trabalho temporário
+
+**Comunicado à Comissão Europeia como transpondo:** 32003L0088 (Tempo de trabalho).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2023-04-03. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-63511624
+
+## Texto
+
+Decreto-Lei n.º 260/2009
+
+de 25 de Setembro
+
+A Convenção n.º 181, de 19 de Junho de 1997, da Organização Internacional do Trabalho (OIT), ratificada pelo Decreto do Presidente da República n.º 13/2001, de 13 de Fevereiro, adoptou um novo enquadramento normativo regulador das agências de emprego privadas.
+
+Com a adopção deste novo instrumento, a Organização Internacional de Trabalho visou alcançar uma melhor adequação às necessidades do mercado de emprego, bem como permitir uma garantia mais eficaz dos direitos sociais dos trabalhadores, sendo a mesma extensível quer às empresas que empregam trabalhadores para os colocar à disposição de utilizadores que orientam a prestação do trabalho, quer às que apenas promovem a aproximação entre a oferta e a procura de emprego, sem se tornarem parte das relações de trabalho que se constituem. As primeiras correspondem no direito português à figura das empresas de trabalho temporário e as segundas à figura das agências privadas de colocação.
+
+No que ao regime jurídico do trabalho temporário se refere, a alteração legislativa introduzida pela Lei n.º 19/2007, de 22 de Maio, passou a satisfazer a regulamentação comunitária sobre a igualdade de tratamento no mercado de trabalho, bem como as prescrições da referida convenção.
+
+Contudo, a estratégia de revisão da legislação laboral definida pelo XVII Governo Constitucional, levada a cabo pela publicação do Livro Branco das Relações Laborais (LBRL), realizado por um grupo de peritos que compuseram a comissão do Livro Branco das Relações Laborais (CLBRL), com a missão de produzir um diagnóstico das necessidades de intervenção legislativa e, posteriormente, com a celebração do Acordo Tripartido para Um Novo Sistema de Regulação das Relações Laborais, das Políticas de Emprego e da Protecção Social em Portugal, celebrado em Julho de 2008, determinou a necessidade de a revisão em causa se reflectir também numa nova sistematização do acervo da legislação laboral.
+
+Assim, na linha das grandes orientações definidas pelos dois instrumentos acima identificados, foi assumida a necessidade de reequacionar a relação entre a matéria a ser integrada no novo código e a que deveria ser regulada em legislação extravagante, na perspectiva de se alcançar uma verdadeira codificação em sentido técnico.
+
+Nesse sentido, e na parte que diz respeito ao regime do trabalho temporário, ficou definido que as suas disposições seriam vertidas para o novo código do trabalho, à excepção daquelas que, em rigor, não são de natureza laboral, designadamente as que se prendem com a constituição, licenciamento e funcionamento das empresas de trabalho temporário.
+
+É neste quadro programático que o presente decreto-lei acolhe as normas do regime jurídico do trabalho temporário referentes à parte procedimental, nomeadamente as que constam do capítulo II, secções I e II, relativas ao exercício e licenciamento da actividade de empresa de trabalho temporário.
+
+Importa, ainda, referir que as normas que o presente decreto-lei prevê referentes ao trabalho temporário não pretendem introduzir uma alteração ao regime actualmente vigente, mas tão-só materializar a orientação política consagrada nos instrumentos anteriormente referenciados.
+
+Por seu turno, e no que às agências privadas de colocação diz respeito, a ratificação por Portugal da Convenção n.º 181, bem como a experiência colhida na vigência do Decreto-Lei n.º 124/89, de 14 de Abril, actualmente em vigor, determinaram a necessidade de rever o seu regime jurídico, de modo a harmonizá-lo com as normas e princípios emanados da Convenção n.º 181, bem como estabelecer uma maior conformidade do mesmo face à actual realidade do mercado de emprego.
+
+As opções tomadas no presente decreto-lei relativas as agências privadas de colocação tiveram em conta aspectos centrais da sua actividade ao nível das condições do seu funcionamento, favorecendo a integração no sector estruturado da economia e evitando a concorrência desleal.
+
+Assim, nesse âmbito, nas secções I a III do capítulo III, relativas ao exercício e licenciamento da actividade de agência, destacam-se os seguintes aspectos inovatórios:
+
+Particular atenção à salvaguarda dos princípios da igualdade de oportunidades, da não discriminação, da protecção de dados pessoais, do respeito pelas normas de trabalho e do reforço da protecção dos candidatos a emprego a deslocar para fora do território nacional;
+
+A consagração do princípio da gratuitidade dos serviços prestados pelas agências privadas de colocação ao candidato a emprego, bem como a delimitação de um conjunto de direitos e deveres aplicável aos mesmos;
+
+A consagração do princípio da gratuitidade conduziu, por sua vez, à dispensa de especificação das modalidades de agência existente no actual regime, consoante prestem serviços gratuitos ou onerosos e o seu fim seja ou não lucrativo;
+
+Para salvaguardar o princípio da gratuitidade, enunciado pela Convenção, não é necessário regular as fontes de financiamento das agências, basta que as mesmas não cobrem aos candidatos a emprego qualquer pagamento pelos serviços prestados;
+
+Ao nível das condições de exercício da actividade, afastou-se o princípio da renovação automática da licença, introduzindo-se um sistema de verificação anual da manutenção dos requisitos, à semelhança do regime que vigora para as empresas de trabalho temporário;
+
+Ainda no que toca ao exercício da actividade, passaram a especificar-se as situações que determinam a suspensão e a revogação da licença e introduziram-se regras específicas relativas às condições de divulgação das ofertas de emprego pelas agências privadas de colocação.
+
+Por fim, do definido pelo presente decreto-lei destacam-se os seguintes aspectos inovatórios aplicáveis quer às empresas de trabalho temporário quer às agências privadas de colocação:
+
+Adopção dos instrumentos de simplificação administrativa que dispensam os cidadãos da sujeição a ónus e encargos desnecessários, sem prejuízo da garantia de rigor, em conformidade com os objectivos do Programa de Simplificação Administrativa e Legislativa, designadamente introduziu-se a faculdade de dispensa de apresentação de certidão comprovativa de situação tributária e contributiva regularizada, nos termos do disposto no Decreto-Lei n.º 114/2007, de 19 de Abril;
+
+Ao nível do regime contra-ordenacional, aplica-se o regime geral do Código do Trabalho às infracções por violação do presente decreto-lei, com excepção do exercício e licenciamento da actividade de agência, cujo regime aplicável é o regime geral das contra-ordenações;
+
+Ainda ao nível do regime contra-ordenacional, procedeu-se à actualização do quadro contra-ordenacional aplicável às agências privadas de colocação e às empresas de trabalho temporário previsto no presente decreto-lei, passando a associar-se a moldura contra-ordenacional a cada uma das disposições normativas.
+
+Importa referir que, nos termos do disposto no n.º 1 do artigo 524.º, da alínea b) do n.º 1 do artigo 527.º e do n.º 1 do artigo 528.º do anterior Código do Trabalho, foi publicado na Separata n.º 1, de 13 de Fevereiro de 2008, do Boletim do Trabalho e Emprego, para apreciação pública, o projecto de decreto-lei que regula o regime jurídico das agências privadas de colocação de candidatos a emprego, que visa revogar o Decreto-Lei n.º 124/89, de 14 de Abril.
+
+Os pareceres emitidos por organizações representativas de trabalhadores e de empregadores foram devidamente ponderados, tendo sido alteradas algumas disposições do presente decreto-lei.
+
+Foi promovida a audição dos órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto-lei regula o exercício e licenciamento da actividade da empresa de trabalho temporário.
+
+2 - O presente decreto-lei regula, ainda, o acesso e exercício da atividade da agência privada de colocação de candidatos a emprego, adiante designada por agência.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 47.º do/a Lei n.º 146/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 2.º — Conceitos
+
+Para efeitos do presente decreto-lei entende-se por:
+
+a) «Agência» a pessoa, singular ou colectiva, não integrada na Administração Pública, que, fazendo a intermediação entre a oferta e a procura de emprego, promove a colocação de candidatos a emprego, sem fazer parte das relações de trabalho que daí decorram, desenvolvendo pelo menos um dos serviços referidos no artigo 14.º;
+
+b) «Candidato a emprego» a pessoa que procura emprego e que reúne os requisitos legais para exercer uma actividade por conta de outrem;
+
+c) «Colocação de candidato a emprego» a promoção do preenchimento de um posto de trabalho na dependência do beneficiário de uma dada actividade económica;
+
+d) «Empresa de trabalho temporário» a pessoa singular ou colectiva cuja actividade consiste na cedência temporária a utilizadores da actividade de trabalhadores que, para esse efeito, admite e retribui;
+
+e) «Entidade contratante» a pessoa singular ou colectiva, com ou sem fins lucrativos, que contrata, sob a sua autoridade e direcção, candidatos a emprego colocados por uma agência;
+
+f) «Local de trabalho» o local contratualmente definido para o exercício das funções para as quais o candidato a emprego foi contratado ou a que deva ter acesso no desempenho das suas funções;
+
+g) «Trabalhador temporário» a pessoa que celebra com uma empresa de trabalho temporário um contrato de trabalho temporário ou um contrato de trabalho por tempo indeterminado para cedência temporária;
+
+h) «Utilizador» a pessoa singular ou colectiva, com ou sem fins lucrativos, que ocupa, sob a sua autoridade e direcção, trabalhadores cedidos por uma empresa de trabalho temporário.
+
+## Capítulo II — Do exercício e licenciamento da actividade de empresa de trabalho temporário
+
+## Secção I — Do exercício da actividade de empresa de trabalho temporário
+
+### Artigo 3.º — Objecto da empresa de trabalho temporário
+
+A empresa de trabalho temporário tem por objecto a actividade de cedência temporária de trabalhadores para ocupação por utilizadores, podendo, ainda, desenvolver actividades de selecção, orientação e formação profissional, consultadoria e gestão de recursos humanos.
+
+### Artigo 4.º — Contratos a celebrar pela empresa de trabalho temporário
+
+1 - O exercício de trabalho temporário depende da celebração pela empresa de trabalho temporário dos seguintes contratos:
+
+a) Contrato de utilização de trabalho temporário com o utilizador;
+
+b) Contrato de trabalho temporário com o trabalhador temporário;
+
+c) Contrato de trabalho por tempo indeterminado para cedência temporária.
+
+2 - É proibido à empresa de trabalho temporário cobrar ao candidato a emprego temporário, directa ou indirectamente, quaisquer importâncias em numerário ou espécie.
+
+3 - Constitui contra-ordenação grave a violação do disposto no número anterior.
+
+## Secção II — Da licença
+
+### Artigo 5.º — Licença para o exercício da actividade de empresa de trabalho temporário
+
+1 - O exercício da actividade de cedência temporária de trabalhadores para ocupação por utilizadores encontra-se sujeito a licença, dependendo a sua concessão da verificação dos seguintes requisitos cumulativos:
+
+a) Idoneidade;
+
+b) Estrutura organizativa adequada;
+
+c) Situação contributiva regularizada perante a administração tributária e a segurança social;
+
+d) Denominação social de pessoa singular ou colectiva com a designação «trabalho temporário»;
+
+e) Cumprimento da obrigação de declaração do beneficiário efetivo, nos termos do Regime Jurídico do Registo Central do Beneficiário Efetivo, aprovado pela Lei n.º 89/2017, de 21 de agosto;
+
+f) Constituição de caução, nos termos do disposto no artigo 7.º
+
+2 - Considera-se verificado o requisito de idoneidade referido na alínea a) do número anterior quando a empresa ou o respetivo sócio, gerente, diretor ou administrador, consoante aplicável:
+
+a) Tiver capacidade para a prática de actos de comércios;
+
+b) Não esteja abrangida pela suspensão ou proibição do exercício da actividade aplicada nos termos do artigo 66.º ou 67.º do Código Penal;
+
+c) Não esteja suspensa ou interdita do exercício da actividade como medida de segurança ou sanção acessória de contra-ordenação;
+
+d) Não faça ou tenha feito parte, enquanto sócio, gerente, director ou administrador, de pessoa colectiva ou singular em período relativamente ao qual existam dívidas aos trabalhadores, administração tributária ou segurança social resultante do exercício de actividades anteriores.
+
+e) Não tenha sido condenado, não faça ou não tenha feito parte da pessoa coletiva que tenha sido condenada, enquanto sócio, gerente, diretor ou administrador, ou, no caso de pessoa singular, o empresário em nome individual que não tenha sido condenado:
+
+i) Por sentença transitada em julgado pela prática dos crimes previstos nos artigos 184.º a 185.º-A da Lei n.º 23/2007, de 4 de julho, e nos artigos 159.º e 160.º do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro;
+
+ii) Por sentença transitada em julgado pela prática de crimes laborais, contributivos e fiscais nos últimos cinco anos;
+
+iii) Na prática de contraordenações laborais muito graves nos últimos dois anos.
+
+3 - A idoneidade é exigida a todos os sócios, gerentes, directores ou administradores da empresa de trabalho temporário ou aos empresários em nome individual, no caso de pessoas singulares.
+
+4 - Considera-se verificado o requisito de estrutura organizativa adequada quando a empresa reúna os seguintes requisitos:
+
+a) Existência de trabalhadores contratados pela empresa em número suficiente e com as competências adequadas para o desenvolvimento da sua atividade, que prestem as suas funções diariamente na empresa, com os seguintes requisitos mínimos:
+
+i) Para exercício de atividade, uma percentagem mínima de trabalhadores com contrato individual de trabalho por tempo indeterminado para cedência temporária, determinado em função do número de trabalhadores temporários nos últimos 12 meses, que se deve manter durante o exercício da atividade da empresa, e que inclui os trabalhadores referidos nas subalíneas seguintes, nos termos e critérios a fixar em decreto regulamentar;
+
+ii) Um diretor técnico, a tempo completo, com habilitação de nível superior e experiência profissional adequada na área dos recursos humanos;
+
+iii) Atendimento diário presencial ao público com, pelo menos, um trabalhador a tempo completo;
+
+iv) Um trabalhador qualificado para assegurar a área financeira e administrativa, incluindo contabilidade organizada segundo a legislação aplicável, salvo se a empresa recorrer a prestação de serviço;
+
+b) Existência de instalações específicas, adequadas ao exercício da atividade e devidamente equipadas para o exercício da atividade, com as seguintes características mínimas:
+
+i) Espaços de trabalho e de atendimento presencial ao público, aferidos por visita prévia às instalações;
+
+ii) Identificação da empresa de trabalho temporário, horário de funcionamento e de atendimento presencial ao público, visíveis do exterior.
+
+5 - Para efeitos da subalínea ii) da alínea a) do número anterior, considera-se experiência profissional adequada para o exercício de funções de diretor técnico dois anos de experiência na área de gestão de recursos humanos.
+
+6 - Constitui contra-ordenação muito grave a violação do disposto no n.º 4.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Nota: Artigo 24.º, Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03 O disposto na subalínea ii) da alínea a) do presente artigo, é aplicável a novas contratações da empresa de trabalho temporário.
+
+### Artigo 6.º — Procedimento de concessão da licença para o exercício da actividade de empresa de trabalho temporário
+
+1 - O interessado apresenta ao serviço público de emprego, por via eletrónica, o requerimento de licença para o exercício da atividade de cedência temporária de trabalhadores para ocupação por utilizadores com indicação das atividades a exercer e instruído com os seguintes documentos:
+
+a) Declaração na qual o requerente indique o seu nome, o número de identificação fiscal, o número do bilhete de identidade ou cartão de cidadão, e o domicílio ou, no caso de pessoa coletiva, a denominação, a sede, o número de identificação de pessoa coletiva, o nome dos titulares dos órgãos sociais e, em ambos os casos, a localização dos estabelecimentos em que exerça a atividade;
+
+b) Certificado atualizado de registo criminal ou o respetivo código de acesso e outros documentos emitidos pelas autoridades competentes comprovativos da idoneidade do requerente e, no caso de pessoa coletiva, dos sócios, gerentes, diretores ou administradores;
+
+c) Certidão comprovativa de que não se encontra abrangido por suspensão ou interdição do exercício de actividade como sanção acessória de contra-ordenação, emitida pelo serviço com competência inspectiva do ministério responsável pela área laboral e pelo serviço com competência inspectiva do ministério responsável pela área da economia;
+
+d) Certidão atualizada do registo comercial da sociedade ou o respetivo código de acesso, no caso de pessoa coletiva;
+
+e) Comprovação dos requisitos da estrutura organizativa adequada para o exercício da actividade ou declaração sob compromisso de honra dos requisitos que satisfaz se a licença for concedida;
+
+f) Declaração em como constituiu caução nos termos do artigo 7.º, se a licença for concedida.
+
+2 - Para comprovar a situação regularizada perante a administração fiscal e a segurança social, relativamente ao exercício de actividades anteriores, independentemente de estas se encontrarem ou não cessadas, o requerente deve prestar consentimento para a consulta pelo serviço público de emprego, nos termos previsto no Decreto-Lei n.º 114/2007, de 19 de Abril, ou na sua falta, apresentação de certidão de situação tributária ou contributiva regularizada.
+
+3 - O requerimento é apreciado pelo serviço público de emprego, que deve elaborar o relatório e formular a proposta de decisão no prazo máximo de 30 dias.
+
+4 - O requerimento é decidido pelo membro do Governo responsável pela área laboral, com faculdade de delegação de competências.
+
+5 - Após a assinatura do despacho para a emissão da licença, o serviço público de emprego notifica o requerente para, no prazo de 30 dias, fazer prova da constituição da caução e existência de estrutura organizativa e instalações adequadas para o exercício da actividade que se tenha comprometido satisfazer.
+
+6 - A licença só é emitida e notificada ao requerente depois da apresentação da prova referida no número anterior.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+### Artigo 7.º — Caução para o exercício da actividade de trabalho temporário
+
+1 - O requerente constitui, a favor do serviço público de emprego, uma caução para o exercício da atividade de trabalho temporário, de valor correspondente a 150 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor.
+
+2 - A caução deve ser anualmente atualizada por referência ao montante da retribuição mínima mensal garantida fixado para cada ano e à dimensão da empresa de trabalho temporário.
+
+3 - Para efeitos do disposto no n.º 2, a dimensão da empresa de trabalho temporário é definida em função do número médio de trabalhadores temporários ao serviço no ano anterior, de acordo com os seguintes escalões:
+
+a) Até 100 trabalhadores, a caução corresponde ao valor equivalente a 150 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+
+b) De 101 a 200 trabalhadores, a caução corresponde ao valor equivalente a 200 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+
+c) De 201 a 300 trabalhadores, a caução corresponde ao valor equivalente a 250 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+
+d) De 301 a 1000 trabalhadores, a caução corresponde ao valor equivalente a 300 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+
+e) De 1001 a 2000 trabalhadores, a caução corresponde ao valor equivalente a 400 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+
+f) Mais de 2000 trabalhadores, a caução corresponde ao valor equivalente a 500 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor.
+
+4 - A atualização referida no n.º 2 deve ser efetuada até ao final do primeiro trimestre de cada ano ou até 30 dias após a publicação do diploma que determine alteração ao valor da retribuição mínima mensal garantida, se posterior.
+
+5 - Para os efeitos previstos nos n.os 2 e 4, a empresa de trabalho temporário comunica, por escrito, ao serviço público de emprego, até 31 de janeiro de cada ano, o número médio de trabalhadores temporários ao serviço no ano anterior.
+
+6 - Caso a empresa de trabalho temporário não proceda à comunicação referida no número anterior, o serviço público de emprego reposiciona a empresa no escalão correspondente, com base nas declarações de remunerações da segurança social.
+
+7 - Sem prejuízo do disposto no artigo 190.º do Código do Trabalho, se no ano anterior se verificarem pagamentos de créditos a trabalhadores através da caução, deve a mesma ser reforçada para o valor correspondente a pelo menos 15 % da massa salarial anual relativa a trabalhadores em cedência temporária naquele ano.
+
+8 - O reforço da caução previsto no número anterior deve ser efetuado por iniciativa da empresa de trabalho temporário até ao final do primeiro trimestre de cada ano.
+
+9 - Para os efeitos previstos nos n.os 7 e 8, a empresa de trabalho temporário comunica, por escrito, ao serviço público de emprego, até 31 de janeiro de cada ano, o valor da massa salarial anual relativa a trabalhadores em cedência temporária naquele ano.
+
+10 - Sempre que se verifiquem pagamentos por conta da caução, o serviço público de emprego notifica a empresa de trabalho temporário para, no prazo de 30 dias, fazer prova da sua reconstituição.
+
+11 - A empresa responsável pelo depósito, garantia bancária na modalidade à primeira solicitação ou contrato de seguro só pode proceder à redução ou cessação da garantia prestada mediante autorização prévia expressa do serviço público de emprego.
+
+12 - Provando a empresa de trabalho temporário, mediante declaração comprovativa, a liquidação dos créditos reclamados previstos no n.º 1 do artigo 191.º do Código do Trabalho e demais encargos com os trabalhadores, cessam os efeitos da caução e esta é devolvida pelo serviço público de emprego.
+
+13 - Para efeitos do presente artigo, o número médio de trabalhadores temporários ao serviço resulta do somatório do número de trabalhadores temporários ao serviço em cada mês dividido por 12 meses.
+
+14 - Para efeitos do número anterior, o número de trabalhadores temporários ao serviço em cada mês corresponde ao somatório do número de trabalhadores temporários ao serviço no início do mês com o número de trabalhadores temporários contratados no decurso do mês.
+
+15 - Constitui contraordenação muito grave a violação do disposto no n.º 1, e contraordenação grave a violação do disposto nos n.os 2, 4, 5 e 7 a 10.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 8.º — Licença e registo para o exercício da actividade de empresa de trabalho temporário
+
+1 - O exercício da actividade de empresa de trabalho temporário está sujeito à emissão de licença, que deve constar de alvará numerado.
+
+2 - O serviço público de emprego mantém actualizado e disponibiliza por via electrónica para acesso público o registo nacional das empresas de trabalho temporário, o qual identifica as empresas licenciadas e aquelas em que ocorra a suspensão da actividade, caducidade ou cessação da licença ou aplicação de sanção acessória, com indicação, face a cada uma, da sua denominação completa, domicílio ou sede social e número de alvará.
+
+3 - O registo referido no número anterior tem carácter público, podendo qualquer interessado pedir certidão das inscrições nele constantes.
+
+4 - Constitui contra-ordenação muito grave a violação do disposto no n.º 1.
+
+### Artigo 9.º — Deveres da empresa de trabalho temporário
+
+1 - O interessado apresenta ao serviço público de emprego, por via eletrónica, o requerimento de licença para o exercício da atividade de cedência temporária de trabalhadores para ocupação por utilizadores com indicação das atividades a exercer e instruído com os seguintes documentos:
+
+a) Domicílio ou sede e localização dos estabelecimentos de exercício da actividade;
+
+b) Identificação dos administradores, sócios, gerentes ou membros da direcção;
+
+c) Objecto da respectiva actividade, bem como a sua suspensão ou cessação por iniciativa própria.
+
+d) Comprovativo da declaração do beneficiário efetivo ou respetivo código de acesso;
+
+e) Contactos telefónicos e de endereço eletrónico.
+
+2 - A empresa de trabalho temporário deve ainda:
+
+a) Incluir em todos os contratos, correspondência, publicações, anúncios e de modo geral em toda a sua actividade externa o número e a data do alvará de licença para o exercício da respectiva actividade;
+
+b) Identificar, no sistema de informação da segurança social, as entidades utilizadoras, bem como os trabalhadores temporários colocados, no momento da cedência do trabalhador à empresa utilizadora de trabalho temporário;
+
+c) Comunicar ao serviço competente pelos assuntos consulares e comunidades portuguesas do ministério responsável pela área dos negócios estrangeiros, por via electrónica, até aos dias 15 de Janeiro e 15 de Julho, a relação dos trabalhadores cedidos para prestar serviço no estrangeiro no semestre anterior, com indicação do nome, sexo, idade, número de beneficiário da segurança social, início e duração do contrato, local de trabalho, actividade de trabalho, actividade contratada, retribuição base, datas de saída e entrada no território nacional, bem como identificação, classificação da actividade económica (CAE) e localidade e país de execução do contrato.
+
+3 - O serviço público de emprego semestralmente envia, por via electrónica, ao serviço competente do ministério responsável pela área da economia a informação relevante para as suas atribuições obtida nos termos da alínea b) do número anterior.
+
+4 - A empresa de trabalho temporário deve assegurar o cumprimento das obrigações legais respeitantes à proteção de dados pessoais, de acordo com o Regulamento (EU) 2016/679 do Parlamento e do Conselho, de 27 de abril, a Lei n.º 58/2019, de 8 de agosto, e o Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.
+
+5 - Constitui contra-ordenação grave a violação do disposto no n.º 1 e nas alíneas b) e c) do n.º 2 e contra-ordenação leve a violação do disposto na alínea a) do n.º 2.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+### Artigo 10.º — Deveres para utilização de trabalhadores no estrangeiro
+
+1 - Sem prejuízo da prestação de caução referida no n.º 1 do artigo 7.º, a empresa de trabalho temporário que celebra contratos para utilização de trabalhadores no estrangeiro deve:
+
+a) Constituir, a favor do serviço público de emprego, uma caução específica no valor de 10 % das retribuições correspondentes à duração previsível dos contratos e no mínimo de dois meses de retribuição ou no valor das retribuições, se o contrato durar menos de dois meses, acrescido do custo das viagens de repatriamento;
+
+b) Garantir aos trabalhadores prestações médicas, medicamentosas e hospitalares sempre que aqueles não beneficiem das mesmas prestações no país de acolhimento, através de seguro que garanta o pagamento de despesas de valor pelo menos igual a seis meses de retribuição;
+
+c) Assegurar o repatriamento dos trabalhadores, findo o trabalho objecto do contrato, verificando-se a cessação do contrato de trabalho ou, ainda, no caso de falta de pagamento pontual da retribuição.
+
+2 - A caução prevista na alínea a) do número anterior não é exigível se, nos 36 meses anteriores ou, relativamente a empresas de trabalho temporário constituídas há menos tempo, desde o início da sua actividade, não tiver havido pagamentos de créditos a trabalhadores através da caução referida no n.º 1 do artigo 7.º
+
+3 - A empresa de trabalho temporário deve, ainda, comunicar com cinco dias de antecedência ao serviço com competência inspectiva do ministério responsável pela área laboral a identidade dos trabalhadores a ceder para o estrangeiro, o utilizador, o local de trabalho, o início e o termo previsíveis da deslocação, bem como a constituição da caução e a garantia das prestações, nos termos das alíneas a) e b) do n.º 1.
+
+4 - O disposto nos n.os 10 a 12 do artigo 7.º, bem como no artigo 190.º e no n.º 1 do artigo 191.º do Código do Trabalho é aplicável à caução referida na alínea a) do n.º 1.
+
+5 - Se a empresa de trabalho temporário não assegurar o repatriamento nas situações referidas na alínea c) do n.º 1, a pedido dos trabalhadores, o serviço público de emprego procede ao pagamento das despesas de repatriamento por conta da caução.
+
+6 - O disposto no artigo 191.º do Código do Trabalho é aplicável à caução referida na alínea a) do n.º 1 sempre que estejam em causa pagamentos de retribuição.
+
+7 - A empresa de trabalho temporário tem direito de regresso contra o trabalhador relativamente às despesas de repatriamento se ocorrer despedimento por facto imputável ao trabalhador, denúncia sem aviso prévio ou abandono do trabalho.
+
+8 - O serviço com competência inspectiva do ministério responsável pela área laboral deve comunicar imediatamente ao serviço público de emprego a informação obtida nos termos do disposto no n.º 3.
+
+9 - Constitui contra-ordenação grave a violação do disposto no n.º 1 e contra-ordenação leve a violação do disposto no n.º 3.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 11.º — Verificação da manutenção dos requisitos para o exercício da actividade de empresa de trabalho temporário
+
+1 - O serviço público de emprego suspende, durante dois meses, a licença de exercício de atividade de cedência temporária de trabalhadores para utilização de terceiros utilizadores sempre que se verifique o incumprimento do previsto nos n.os 1 ou 2 do artigo anterior.
+
+2 - Para efeitos da verificação da existência de uma estrutura organizativa adequada, a empresa de trabalho temporário tem de ter um número de trabalhadores a tempo completo que corresponda, no mínimo, a 1 % do número médio de trabalhadores temporários contratados no ano anterior ou, quando este número for superior a 5000, 50 trabalhadores a tempo completo.
+
+3 - Caso o serviço público de emprego não notifique a empresa de trabalho temporário, no prazo previsto no n.º 1, consideram-se cumpridos os requisitos previstos no artigo 5.º
+
+4 - Sem prejuízo do disposto no número anterior, o serviço público de emprego pode, a todo o tempo, controlar o cumprimento dos requisitos da licença.
+
+5 - Constitui contra-ordenação grave a violação do disposto no n.os 1 e 2.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Nota: Artigo 32.º, Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03 mantém em vigor o n.º 2 do presente artigo, até à entrada em vigor do decreto regulamentar previsto na subalínea i) da alínea a) do n.º 4 do artigo 5.º do referido decreto-lei.
+
+### Artigo 12.º — Suspensão ou cessação da licença
+
+1 - O serviço público de emprego suspende, durante dois meses, a licença de exercício de atividade de cedência temporária de trabalhadores para utilização de terceiros utilizadores sempre que se verifique o incumprimento do previsto nos n.os 1 ou 2 do artigo anterior.
+
+2 - A empresa de trabalho temporário é equiparada, em caso de exercício de actividade durante o período de suspensão da licença, a empresa não licenciada.
+
+3 - A suspensão referida no número anterior termina se a empresa de trabalho temporário, antes de decorrido o prazo previsto no n.º 1, fizer prova do cumprimento dos requisitos em falta.
+
+4 - O membro do Governo responsável pela área laboral revoga, sob proposta do serviço público de emprego, a licença de exercício de actividade da empresa de trabalho temporário, sempre que não seja feita prova, durante o prazo previsto no n.º 1, dos requisitos cuja ausência originou a suspensão.
+
+5 - A licença caduca se a empresa de trabalho temporário suspender o exercício da actividade durante 12 meses, por motivo diverso da proibição ou interdição do exercício da actividade.
+
+6 - O titular da licença está obrigado à devolução do respectivo alvará ao serviço público de emprego, sempre que haja lugar a alteração do seu termo ou a mesma cesse.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+### Artigo 13.º — Segurança social e seguro de acidente de trabalho
+
+1 - Os trabalhadores temporários são abrangidos pelo regime geral da segurança social dos trabalhadores por conta de outrem, competindo à empresa de trabalho temporário o cumprimento das respectivas obrigações legais.
+
+2 - Nas situações a que se refere o artigo 10.º deve ser entregue pela empresa de trabalho temporário uma cópia do contrato de trabalho temporário no serviço competente do ministério responsável pela área da segurança social.
+
+3 - A empresa de trabalho temporário é obrigada a transferir a responsabilidade pela indemnização devida por acidente de trabalho para empresas legalmente autorizadas a realizar este seguro.
+
+4 - Constitui contra-ordenação muito grave a violação do disposto no n.º 3 e contra-ordenação leve a violação do disposto no n.º 2.
+
+5 - O utilizador, bem como os respetivos gerentes, administradores ou diretores, assim como as sociedades que com aquele se encontrem em relação de participações recíprocas, de domínio ou de grupo, são solidariamente responsáveis pelo incumprimento, por parte da empresa de trabalho temporário, dos encargos e obrigações legais relativas aos trabalhadores, bem como pelo pagamento das respetivas coimas.
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 28/2016 - Diário da República n.º 161/2016, Série I de 2016-08-23, em vigor a partir de 2016-09-22
+
+## Capítulo III — Do acesso e exercício à atividade de agência
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+## Secção I — Do exercício da actividade de agência
+
+### Artigo 14.º — Objecto da agência
+
+1 - Para efeitos do presente decreto-lei, a agência tem por objecto um ou mais dos seguintes serviços:
+
+a) Recepção das ofertas de emprego;
+
+b) Inscrição de candidatos a emprego;
+
+c) Colocação de candidatos a emprego;
+
+d) Selecção, orientação ou formação profissional, desde que desenvolvida com vista à colocação do candidato a emprego.
+
+2 - A agência pode ainda promover a empregabilidade de candidatos a emprego através do apoio à procura activa de emprego ou auto-emprego.
+
+3 - Para efeitos do disposto nos números anteriores, deve a agência realizar por si os serviços que constituem o seu objecto, sem recorrer a subcontratação de terceiros.
+
+4 - A violação do disposto no número anterior constitui contraordenação muito grave, punível com coima de (euro) 2800 a (euro) 6000 ou (euro) 12 000, consoante se trate de pessoa singular ou pessoa coletiva.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 15.º — Incompatibilidades
+
+1 - É vedado à agência o exercício da actividade de empresa de trabalho temporário.
+
+2 - É vedado à agência ter como sócio, membro dos corpos sociais ou responsável técnico, em regime de trabalho por conta de outrem ou a outro título, pessoa individual ou colectiva que tenha vínculo a empresas de trabalho temporário.
+
+3 - Constitui contra-ordenação grave a violação do disposto no presente artigo punível com coima de (euro) 600 a (euro) 1300 ou (euro) 2000, consoante se trate de pessoa singular ou pessoa colectiva.
+
+> Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+## Secção II — Do acesso à atividade de agência
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 16.º — Mera comunicação prévia
+
+1 - O exercício da atividade de agência está sujeito a mera comunicação prévia perante o serviço público de emprego, tal como definida na alínea b) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de julho, com indicação do nome ou denominação social, domicílio ou sede e estabelecimento principal em território nacional, número de identificação fiscal ou número de identificação de pessoa coletiva e número de registo comercial ou indicação do código de acesso a certidão permanente de registo comercial, caso existam.
+
+2 - Sem prejuízo do disposto na alínea d) do artigo 5.º do Decreto-Lei n.º 92/2010, de 26 de julho, a agência estabelecida em território nacional deve juntar à mera comunicação prévia documentos que comprovem:
+
+a) A idoneidade e o comprovativo da declaração do beneficiário efetivo ou o respetivo código de acesso, nos termos das alíneas a) e e) do n.º 1 e dos n.os 2 e 3 do artigo 5.º;
+
+b) A situação contributiva regularizada perante a administração tributária e a segurança social;
+
+c) A constituição da caução destinada a garantir a responsabilidade da agência pelo repatriamento do candidato a emprego, em caso de incumprimento do contrato de trabalho ou da promessa de contrato de trabalho, nos termos do n.º 3 do artigo 27.º, caso tenha optado por constituí-la, nos termos do artigo 18.º
+
+d) A existência de uma estrutura organizativa adequada.
+
+3 - Considera-se verificado o requisito de estrutura organizativa adequada quando a agência reúna os seguintes requisitos:
+
+a) Existência de trabalhadores contratados pela empresa em número suficiente e com as competências adequadas para o desenvolvimento da sua atividade, que prestem as suas funções diariamente na empresa, com os seguintes requisitos mínimos:
+
+i) Um trabalhador, a tempo completo, que assegure o atendimento diário ao público;
+
+ii) Um trabalhador qualificado para assegurar a contabilidade organizada segundo a legislação aplicável, salvo se a empresa recorrer a prestação de serviço;
+
+b) Existência de instalações específicas, adequadas ao exercício da atividade e devidamente equipadas para o exercício da atividade, com as seguintes características mínimas:
+
+i) Espaços de trabalho e de atendimento presencial ao público;
+
+ii) Identificação da agência, horário de funcionamento e de atendimento presencial ao público, visíveis do exterior.
+
+4 - A comunicação prévia de agência não estabelecida em território nacional que neste preste serviços ocasionais e esporádicos nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 92/2010, de 26 de julho, deve ser acompanhada de documento que comprove a existência de garantia financeira equivalente à referida na alínea c) do número anterior, caso a agência dela disponha.
+
+5 - As agências que prestem serviços nos termos referidos no número anterior ficam sujeitas ao disposto no n.º 3 do artigo 14.º e nos artigos 23.º a 28.º-A.
+
+6 - A comunicação referida nos n.os 1, 2 e 4 é efetuada ao serviço público de emprego através do balcão único eletrónico dos serviços e é válida para todo o território nacional.
+
+7 - Constitui contraordenação muito grave a não apresentação da comunicação nos termos dos n.os 1, 2 ou 4, punível com coima de 2800 (euro) a 6000 (euro) ou 12 000 (euro), consoante se trate de pessoa singular ou pessoa coletiva.
+
+8 - Constitui contraordenação muito grave a prestação de serviços em território nacional de colocação de candidatos a emprego por agências que não possuam idoneidade, não tenham a situação contributiva regularizada perante a administração tributária e a segurança social nacionais ou não possuam uma estrutura organizativa adequada, ou, no caso das agências não estabelecidas em Portugal, segundo a legislação do Estado-Membro de origem, punível com coima de 2800 (euro) a 6000 (euro) ou 12 000 (euro), consoante se trate de pessoa singular ou pessoa coletiva.
+
+9 - A condenação no pagamento da coima prevista no número anterior por ausência de situação contributiva regularizada perante a administração tributária ou a segurança social nacionais não pode ter lugar na pendência do processo de autorização do pagamento em prestações da dívida em causa.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 17.º — Procedimento de concessão da licença para o exercício da actividade de agência
+
+1 - O pedido de concessão da licença é apresentado, sob a forma de requerimento, nomeadamente por via electrónica, a qualquer unidade orgânica local do serviço público de emprego com indicação das actividades a exercer nos termos do disposto no artigo 14.º
+
+2 - Ao requerimento de licença para o exercício da actividade de agência aplica-se o disposto nas alíneas a) a f) do n.º 1 e no n.º 2 do artigo 6.º
+
+3 - A comprovação do requisito de estrutura organizativa adequada para o exercício da actividade, referido no n.º 3 do artigo anterior, é realizada mediante:
+
+a) Apreciação do curriculum vitæ e certificado de habilitações do director técnico;
+
+b) Verificação da adequação das instalações através de visita técnica, realizada pelo serviço público de emprego.
+
+4 - O requerente deve, ainda, juntar ao requerimento uma declaração de que constitui caução nos termos do artigo 18.º, caso a licença venha a ser concedida.
+
+5 - O pedido de concessão da licença para o exercício da actividade de agência é apreciado pelo serviço público de emprego, que deve elaborar o relatório e formular a proposta de decisão no prazo máximo de 30 dias.
+
+6 - Para efeitos do número anterior, o serviço público de emprego pode solicitar, por uma vez, aos interessados a apresentação dos elementos suplementares que fundamentadamente considere necessários à boa apreciação do pedido.
+
+7 - A concessão de licença é decidida pelo membro do Governo responsável pela área laboral, com faculdade de delegação de competências, no prazo de 60 dias a contar da data de entrada do requerimento.
+
+8 - Após a assinatura do despacho para a emissão da licença, o serviço público de emprego notifica o requerente para, no prazo de 15 dias, fazer prova da constituição da caução.
+
+9 - A licença só é emitida e notificada ao requerente depois da apresentação da prova referida no número anterior.
+
+> Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 18.º — Caução para o exercício da actividade de agência
+
+1 - A agência estabelecida em território nacional pode constituir, a favor do serviço público de emprego, uma caução para o exercício da atividade, de valor mínimo correspondente a 13 vezes o valor da retribuição mínima mensal garantida, a qual pode ser prestada por depósito, garantia bancária na modalidade à primeira solicitação ou contrato de seguro.
+
+2 - A constituição da caução referida no número anterior destina-se a garantir a responsabilidade da agência pelo repatriamento do candidato a emprego, nos termos previstos no n.º 3 do artigo 27.º
+
+3 - A caução deve ser anualmente actualizada por referência ao valor da retribuição mínima mensal garantida fixado para cada ano.
+
+4 - Sempre que se verifiquem pagamentos por conta da caução, aplica-se o disposto no n.º 10 do artigo 7.º
+
+5 - A actualização referida no n.º 3 deve ser efectuada até 31 de Janeiro de cada ano ou até 30 dias após a publicação do diploma de revisão da retribuição mínima mensal garantida, se posterior.
+
+6 - Por solicitação da agência, o serviço público de emprego liberta o valor da caução, deduzido o que tenha pago por sua conta.
+
+7 - A agência não estabelecida em Portugal que aqui preste serviços ocasionais e esporádicos, em regime de livre prestação de serviços, pode constituir garantia financeira da sua responsabilidade pelo repatriamento do candidato a emprego, em conformidade com o disposto no n.º 3 do artigo 27.º, através da prestação de caução prevista no presente artigo, ou por seguro, garantia ou instrumento financeiro equivalente, nos termos do disposto nos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+8 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 19.º — Informação sobre o exercício de atividade de agência
+
+1 - (Revogado).
+
+2 - O serviço público de emprego mantém atualizado e disponibiliza por via eletrónica para acesso público o registo nacional das agências, o qual contém a identificação das agências privadas de colocação de candidatos a emprego, estabelecidas em território nacional ou não estabelecidas em território nacional que nele prestem serviços ocasionais e esporádicos, incluindo o número de identificação fiscal ou número de identificação de pessoa coletiva, o domicílio, sede ou estabelecimento principal, a indicação de eventual suspensão, interdição ou cessação de atividade e, caso seja aplicável, informação sobre a constituição de caução para o repatriamento de candidato a emprego, ou de instrumento financeiro equivalente, no caso de agências não estabelecidas.
+
+3 - O registo referido no número anterior tem carácter público, podendo qualquer interessado pedir certidão das inscrições nele constantes.
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 20.º — Verificação da manutenção dos requisitos para o exercício da actividade de agência
+
+1 - A agência deve fazer prova junto do serviço público de emprego, até ao dia 31 de Janeiro de cada ano, do cumprimento dos requisitos previstos no artigo 16.º, relativamente ao ano anterior.
+
+2 - Cumprido o prazo estipulado no número anterior e caso o serviço público de emprego não notifique a agência, consideram-se cumpridos os requisitos previstos no artigo 16.º
+
+3 - Constitui contra-ordenação grave a violação do disposto no n.º 1 punível com coima de (euro) 600 a (euro) 1300 ou (euro) 2000, consoante se trate de pessoa singular ou pessoa colectiva.
+
+> Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 21.º — Suspensão da licença para o exercício da actividade de agência
+
+1 - O serviço público de emprego suspende durante dois meses a licença de exercício da actividade da agência sempre que se verifique o incumprimento do previsto no n.º 1 do artigo anterior.
+
+2 - A suspensão referida no número anterior termina se a agência, antes de decorrido o prazo previsto, fizer prova do cumprimento dos requisitos em falta.
+
+3 - A agência é equiparada, em caso de exercício de actividade durante o período de suspensão da licença, a empresa não licenciada.
+
+> Revogado pelo/a Artigo 6.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 22.º — Exercício ilegal e interdição temporária da atividade
+
+1 - O serviço com competência inspetiva do ministério responsável pela área laboral interdita temporariamente, nos termos do regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, o exercício de atividade da agência sempre que se verifique a sua ilegalidade por violação do disposto no n.º 3 do artigo 14.º, no n.º 8 do artigo 16.º, na alínea f) do n.º 1 do artigo 23.º, no n.º 1 do artigo 26.º e no n.º 1 do artigo 28.º
+
+2 - A condenação na sanção acessória prevista no número anterior por ausência de situação contributiva regularizada perante a administração tributária ou a segurança social nacionais não pode ter lugar na pendência do processo de autorização do pagamento em prestações da dívida em causa.
+
+3 - A interdição é comunicada ao serviço público de emprego no prazo de 10 dias a contar da decisão final de aplicação da sanção.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+## Secção III — Da relação da intermediação laboral
+
+### Artigo 23.º — Requisitos gerais
+
+1 - No âmbito da sua actividade, a agência deve:
+
+a) Sempre que fizer uso de oferta de emprego publicitada pelos serviços públicos de emprego, informar desse facto a entidade contratante e o candidato a emprego interessados;
+
+b) Actuar segundo o princípio da igualdade de oportunidades no acesso ao emprego, não podendo praticar qualquer discriminação, directa ou indirecta, baseada, nomeadamente, na ascendência, idade, sexo, orientação sexual, maternidade, paternidade, estado civil, situação familiar, património genético, capacidade de trabalho reduzida, deficiência ou doença crónica, nacionalidade, origem étnica, religião, convicções políticas, religiosas ou filiação sindical;
+
+c) Actuar segundo o princípio da proporcionalidade entre as informações pedidas aos candidatos a emprego e as necessidades e características da relação laboral oferecida;
+
+d) Assegurar a protecção de dados pessoais dos candidatos a emprego, de acordo com a legislação aplicável;
+
+e) Assegurar que a relação laboral oferecida consiste no exercício de funções ou tarefas susceptíveis de poderem ser desempenhadas pelo candidato a emprego, atendendo nomeadamente às suas aptidões físicas, habilitações escolares e formação profissional;
+
+f) Assegurar a gratuitidade dos serviços prestados ao candidato a emprego não lhe cobrando, direta ou indiretamente, quaisquer importâncias em numerário ou em espécie, incluindo, no caso dos marítimos, os custos de vistos necessários à prestação de trabalho, os quais devem ficar a cargo do armador;
+
+g) Respeitar as normas sobre idade mínima de admissão para prestar trabalho e escolaridade obrigatória na inscrição e colocação de candidatos a emprego.
+
+h) No caso de recrutamento e colocação de marítimos, verificar que os mesmos são detentores da qualificação e certificação profissionais exigidas e que os contratos de trabalho respeitam a legislação e as convenções coletivas aplicáveis.
+
+2 - Sem prejuízo do disposto na alínea f) do número anterior, cabe aos marítimos assumir os custos derivados da obtenção do certificado médico, dos certificados profissionais ou outra documentação necessária ao exercício da atividade a bordo.
+
+3 - As agências cujo objeto principal é o recrutamento e colocação de marítimos devem implementar um sistema de gestão de qualidade.
+
+4 - Constitui contraordenação muito grave a violação do disposto nas alíneas b) e g) do n.º 1, punível com coima de (euro) 2800 a (euro) 6000 ou (euro) 12 000, consoante se trate de pessoa singular ou pessoa coletiva.
+
+5 - Constitui contraordenação grave a violação do disposto nas alíneas a), e) e f) do n.º 1, punível com coima de (euro) 1200 a (euro) 2600 ou (euro) 4000, consoante se trate de pessoa singular ou pessoa coletiva.
+
+6 - Constitui contraordenação leve a violação do disposto nas alíneas c) e d) do n.º 1, punível com coima de (euro) 300 a (euro) 600 ou (euro) 1200, consoante se trate de pessoa singular ou pessoa coletiva.
+
+> Alterado pelo/a Artigo 47.º do/a Lei n.º 146/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 24.º — Deveres da agência
+
+1 - A agência deve comunicar ao serviço público de emprego através do balcão único eletrónico dos serviços, as seguintes informações:
+
+a) A alteração do domicílio, sede ou estabelecimento principal em Portugal, e dos contactos telefónicos e de correio eletrónico no prazo de 15 dias;
+
+b) A cessação da atividade em território nacional, quando neste estabelecida, ou no Estado membro de origem, quando opere a essa data em território nacional nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 92/2010, de 26 de julho, no prazo de 15 dias;
+
+c) As listagens com dados sobre a atividade desenvolvida no ano anterior, com a indicação do número de candidatos a emprego inscritos, das ofertas de emprego recebidas e das colocações efetuadas, por profissões e setores de atividade económica, até ao dia 15 de janeiro;
+
+d) A constituição e a extinção da caução ou do instrumento financeiro equivalente, previstos no artigo 18.º
+
+2 - A agência deve ainda comunicar, por via eletrónica, ao serviço competente pelos assuntos consulares e comunidades portuguesas do ministério responsável pela área dos negócios estrangeiros, no caso de colocação no estrangeiro, no prazo mínimo de 15 dias antes da saída do território nacional, com as necessárias adaptações no caso de colocação de marítimos:
+
+a) A identificação do candidato a emprego;
+
+b) A identificação da entidade contratante;
+
+c) O local de trabalho;
+
+d) O início e termo previsíveis da colocação.
+
+3 - O serviço competente pelos assuntos consulares e comunidades portuguesas do ministério responsável pela área dos negócios estrangeiros envia ao serviço com competência inspetiva do ministério responsável pela área laboral e ao serviço público de emprego a informação obtida nos termos do número anterior.
+
+4 - A agência deve acautelar que o cidadão nacional de país terceiro candidato a emprego em território nacional, com exceção do marítimo, é detentor do título de autorização de residência em Portugal, ou outro título que lhe permita o exercício da atividade laboral, nos termos definidos na legislação aplicável.
+
+5 - A agência que proceda ao recrutamento e colocação de marítimos a bordo deve:
+
+a) Constituir um seguro, a regular por portaria dos membros do Governo responsáveis pelas áreas das finanças e laboral, que garanta o pagamento de indemnização dos prejuízos patrimoniais causados aos marítimos pelo incumprimento das obrigações da agência ou do armador;
+
+b) Possuir um registo atualizado de todos os marítimos recrutados ou colocados por seu intermédio, para efeitos de inspeção por parte da autoridade competente;
+
+c) Possuir um sistema de avaliação de queixas relativas às suas atividades, devendo dar conhecimento do respetivo resultado à autoridade competente.
+
+6 - Constitui contraordenação grave a violação do disposto, nos n.os 1, 2, 4 e 5, punível com coima de (euro) 1200 a (euro) 2600 ou (euro) 4000, consoante se trate de pessoa singular ou pessoa coletiva.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 47.º do/a Lei n.º 146/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 25.º — Direitos e deveres do candidato
+
+1 - O candidato a emprego tem o direito de ser informado, por escrito, sobre:
+
+a) Os métodos e técnicas de recrutamento aos quais se deve submeter e as regras relativas à confidencialidade dos resultados obtidos;
+
+b) O carácter obrigatório ou facultativo das respostas aos testes ou questionários, bem como das consequências da falta de resposta;
+
+c) As pessoas ou empresas destinatárias das informações prestadas, no termo dos processos de recrutamento, mediante pedido do candidato a emprego;
+
+d) Receber informação sobre a negociação colectiva aplicável ao sector da entidade contratante.
+
+2 - O candidatos a emprego tem ainda o direito de:
+
+a) Ser informado por escrito pela agência sobre os direitos que tem no âmbito do presente decreto-lei, assim como no âmbito da relação laboral oferecida;
+
+b) Aceder e rectificar as informações prestadas nos processos de colocação;
+
+c) Recusar responder a questionários ou testes que não se relacionem com as aptidões profissionais ou que se relacionem com a sua vida privada;
+
+d) Receber um documento comprovativo da sua inscrição como candidato a emprego na agência.
+
+e) Ser informado sobre a eventual existência de caução ou de instrumento financeiro equivalente, previstos no artigo 18.º, com a finalidade de garantir o repatriamento referido no n.º 3 do artigo 27.
+
+3 - O candidato a emprego está obrigado a responder e a prestar informações de acordo com o princípio da boa fé.
+
+4 - Constitui contraordenação grave a violação do disposto no n.º 2, punível com coima de (euro) 1200 a (euro) 2600 ou (euro) 4000, consoante se trate de pessoa singular ou pessoa coletiva.
+
+5 - Constitui contraordenação leve a violação do disposto no n.º 1, punível com coima de (euro) 300 a (euro) 600 ou (euro) 1200, consoante se trate de pessoa singular ou pessoa coletiva.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 26.º — Ofertas de emprego
+
+1 - O conteúdo dos anúncios e outras formas de publicitação de ofertas de emprego emitidos pela agência devem:
+
+a) Respeitar o princípio da veracidade, não deformando os elementos que caracterizam a relação laboral oferecida;
+
+b) Ser redigido ou formulado em português;
+
+c) Respeitar os requisitos gerais enunciados no artigo 23.º;
+
+d) Identificar a agência emitente nos termos definidos no presente decreto-lei.
+
+e) Referir a eventual existência de caução ou de instrumento financeiro equivalente, previstos no artigo 18.º, com a finalidade de garantir o repatriamento referido no n.º 3 do artigo 27.º
+
+2 - (Revogado).
+
+3 - A entidade responsável pelo meio de comunicação que publicita as ofertas de emprego tem o dever de exigir e publicar a identificação do anunciante.
+
+4 - No caso de as ofertas de emprego serem difundidas sem identificação do emitente, o serviço com competência inspectiva do ministério responsável pela área laboral pode obter, mediante notificação simples dirigida à entidade responsável pelo meio de comunicação que veicula o anúncio, a sua identificação.
+
+5 - No contrato, a celebrar por escrito entre a agência e a entidade contratante, sujeito à lei portuguesa, deve ser feita expressa menção aos elementos que caracterizam a relação laboral oferecida por esta entidade, nomeadamente a categoria profissional, a remuneração mensal, o período normal de trabalho, o horário de trabalho, o local de trabalho, as condições de alojamento e o acesso a cuidados de saúde, bem como a outras condições de trabalho divulgadas na oferta de emprego.
+
+6 - Constitui contraordenação grave a violação do disposto no n.º 1, punível com coima de (euro) 1200 a (euro) 2600 ou (euro) 4000, consoante se trate de pessoa singular ou pessoa coletiva.
+
+7 - Em caso de incumprimento do previsto na alínea a) do n.º 1, as agências privadas de colocação são subsidiariamente responsáveis pelos créditos laborais devidos e não pagos de trabalhadores por estas selecionados, nos seis meses subsequentes à colocação.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 27.º — Colocação de candidatos
+
+1 - No exercício da actividade de colocação deve a agência actuar de acordo com o princípio da boa fé, abstendo-se de efectuar colocações que não garantam boas condições de trabalho, tanto do ponto de vista físico como moral, assegurando nomeadamente que a entidade contratante:
+
+a) Cumpra as prescrições legais e convencionais vigentes relativas à segurança e saúde no trabalho;
+
+b) Tenha a situação contributiva regularizada perante a segurança social e administração tributária;
+
+c) Respeite os direitos de liberdade sindical e de negociação colectiva.
+
+d) Proponha ao candidato a emprego as condições de trabalho divulgadas na oferta de emprego.
+
+2 - Sem prejuízo do disposto no número anterior, na actividade de colocação de candidato a emprego fora do território nacional, deve a agência acautelar que o candidato a emprego tenha, no país de destino:
+
+a) Acesso a prestações médicas, medicamentosas e hospitalares, nas mesmas condições que teria no território nacional;
+
+b) Alojamento adequado.
+
+3 - Em caso de incumprimento do contrato de trabalho ou promessa de contrato de trabalho por causa não imputável ao candidato a emprego, deve a agência assegurar, nas colocações de candidato a emprego fora do território nacional, o seu repatriamento, até seis meses após a colocação.
+
+4 - Na situação prevista no número anterior, a entidade que, em substituição da agência, suportar as despesas associadas ao repatriamento do trabalhador goza de direito de regresso sobre aquela.
+
+5 - Constitui contraordenação muito grave a violação do disposto no presente artigo, punível com coima de 2800 (euro) a 6000 (euro) ou 12 000 (euro), consoante se trate de pessoa singular ou pessoa coletiva.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 28.º — Dever de informação
+
+1 - Sem prejuízo do disposto no artigo 20.º do Decreto-Lei n.º 92/2010, de 26 de julho, a agência tem o dever de informar por escrito o candidato a emprego sobre os aspetos relevantes da colocação, designadamente sobre os direitos que decorrem do presente decreto-lei e, bem assim, informação relevante sobre a relação laboral oferecida, esclarecendo expressamente no caso de colocações no estrangeiro:
+
+a) As condições de acesso, no país de destino, a prestações médicas, medicamentosas e hospitalares e a alojamento adequado, referindo se a entidade contratante garante esse acesso, no âmbito do contrato de trabalho ou promessa de contrato de trabalho;
+
+b) A aplicabilidade e o processo de repatriamento da responsabilidade da agência;
+
+c) A existência de caução ou de instrumento financeiro equivalente para o cumprimento da obrigação referida na alínea anterior.
+
+2 - O disposto no número anterior aplica-se a todas as agências a operar em território nacional, independentemente do direito escolhido pelas partes para reger os contratos em causa.
+
+3 - A agência que proceda ao recrutamento e colocação de marítimos a bordo deve:
+
+a) Informar os candidatos a emprego antes da celebração dos contratos de trabalho sobre direitos e deveres decorrentes dos mesmos;
+
+b) Providenciar no sentido de que o marítimo deve dispor de tempo suficiente para analisar o contrato de trabalho e aconselhar-se sobre o seu conteúdo de modo a estar devidamente informado sobre o mesmo antes de o assinar, bem como que o contrato está conforme com a legislação e as convenções coletivas aplicáveis e que é celebrado por escrito, em dois exemplares, ficando um para cada parte.
+
+4 - Constitui contraordenação grave a violação do disposto no presente artigo, punível com coima de (euro) 1200 a (euro) 2600 ou (euro) 4000, consoante se trate de pessoa singular ou pessoa coletiva.
+
+> Alterado pelo/a Artigo 47.º do/a Lei n.º 146/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 28.º-A — Responsabilidade penal e civil por não repatriamento
+
+1 - Quem promover a colocação de candidato a emprego no estrangeiro e estando legalmente obrigado a assegurar o repatriamento daquele o não faça, sujeitando-o a perigo para a vida, a perigo de grave ofensa para o corpo ou a saúde ou a situação desumana ou degradante, é punido com pena de prisão de 1 a 5 anos.
+
+2 - Se os perigos ou as situações previstos no número anterior forem criados por negligência o agente é punido com pena de prisão até 3 anos.
+
+3 - Se dos factos previstos nos números anteriores resultar ofensa à integridade física grave o agente é punido:
+
+a) Com pena de prisão de 2 a 8 anos no caso do n.º 1;
+
+b) Com pena de prisão de 1 a 5 anos no caso do n.º 2.
+
+4 - Se dos factos previstos nos n.os 1 e 2 resultar a morte o agente é punido:
+
+a) Com pena de prisão de 3 a 10 anos no caso do n.º 1;
+
+b) Com pena de prisão de 2 a 8 anos no caso do n.º 2.
+
+5 - À responsabilidade criminal pela prática do crime previsto nos números anteriores acresce a responsabilidade civil pelo pagamento de todas as despesas inerentes à estada em país estrangeiro e repatriamento do candidato a emprego.
+
+6 - As pessoas coletivas e entidades equiparadas são responsáveis, nos termos gerais, pelo crime previsto no presente artigo.
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 28.º-B — Responsabilidade contraordenacional por intermediação laboral ilegal
+
+Constitui contraordenação muito grave, imputável ao empregador e à agência privada de colocação, o recrutamento e colocação de trabalhadores por intermédio de agência que não tenha cumprido o disposto nos n.os 1, 2 ou 4 do artigo 16.º, punível com coima de 2800 (euro) a 6000 (euro) ou 12 000 (euro), consoante se trate de pessoa singular ou pessoa coletiva.
+
+> Aditado pelo/a Artigo 19.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+## Capítulo IV — Do controlo do exercício da actividade
+
+### Artigo 29.º — Competência para inspecção
+
+1 - A fiscalização do cumprimento do disposto no presente decreto-lei e a instrução dos respectivos processos contra-ordenacionais competem:
+
+a) Ao serviço com competência inspectiva do ministério responsável pela área laboral no âmbito do exercício da actividade das agências e empresas de trabalho temporário e, quanto a estas, no âmbito das relações de trabalho e condições de trabalho;
+
+b) Ao serviço com competência inspectiva do ministério responsável pela área da economia relativamente à violação de regras da concorrência.
+
+2 - Para efeitos da alínea b) do número anterior, o serviço público de emprego e o serviço com competência inspectiva do ministério responsável pela área laboral devem comunicar ao serviço com competência inspectiva do ministério responsável pela área da economia todas as situações de que tenham conhecimento que evidenciem violação das regras da concorrência.
+
+3 - Na fiscalização a agências que procedem ao recrutamento e colocação de marítimos a bordo, a autoridade competente é acompanhada, sempre que possível, por um inspetor da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos.
+
+> Alterado pelo/a Artigo 47.º do/a Lei n.º 146/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09, em vigor a partir de 2015-11-01
+
+## Capítulo V — Penas acessórias
+
+> Aditado pelo/a Artigo 21.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+### Artigo 29.º-A — Proibição do exercício de atividade em empresa de trabalho temporário ou agência privada de colocação
+
+Proibição do exercício de atividade em empresa de trabalho temporário ou agência privada de colocação
+
+Pode ser condenado na proibição de exercício de atividade, no âmbito de empresa de trabalho temporário ou agência privada de colocação, incluindo de sócio, administrador ou trabalhador, por um período de entre 2 a 10 anos e atenta a concreta gravidade do facto e a sua conexão com a função exercida pelo agente, quem for punido:
+
+a) Pelos crimes previstos no presente decreto-lei;
+
+b) Pelos crimes previstos nos artigos 82.º, 83.º, 316.º, 407.º, 459.º, 543.º, 545.º e 547.º do Código do Trabalho;
+
+c) Pelos crimes previstos nos artigos 159.º e 160.º do Código Penal;
+
+d) Pelos crimes previstos nos artigos 183.º, 184.º, 185.º e 185.º-A da Lei n.º 23/2007, de 4 de julho.
+
+> Aditado pelo/a Artigo 19.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+## Capítulo VI — Disposições complementares, transitórias e finais
+
+> Alterado pelo/a Artigo 21.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03
+
+### Artigo 29.º-B — Responsabilidade penal
+
+O regime sancionatório constante do presente decreto-lei não prejudica eventual responsabilidade em matéria penal, prevista nos termos da lei.
+
+> Aditado pelo/a Artigo 19.º do/a Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03, em vigor a partir de 2023-05-01
+
+### Artigo 30.º — Eliminação de certidões
+
+O serviço público de emprego deve tomar as medidas necessárias à eliminação da exigência de entrega das certidões previstas no presente decreto-lei, de modo a substituí-la pela consulta direta à informação pretendida junto das respetivas entidades e, sempre que necessário, mediante prévio consentimento do seu titular.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 30.º-A — Reconhecimento mútuo
+
+Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos neste diploma e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em Portugal ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 30.º-B — Balcão único eletrónico dos serviços
+
+1 - Todas as comunicações e notificações, ou em geral quaisquer declarações relacionadas com a atividade das agências e realizadas no âmbito de procedimentos regulados no presente decreto-lei, devem ser efetuadas através do balcão único eletrónico dos serviços, acessível através do sítio na Internet do serviço público de emprego.
+
+2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em apreço pode ser feita por remessa pelo correio, sob registo e com aviso de receção, por telecópia ou por mensagem de correio eletrónico.
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 30.º-C — Cooperação administrativa
+
+As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a serviços de agências cujos prestadores sejam provenientes de outro Estado membro, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 31.º — Regime das contra-ordenações
+
+1 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, aplica-se às infrações por violação do presente decreto-lei, com exceção das infrações por violação dos requisitos de acesso e exercício da atividade de agência, às quais se aplica o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
+
+2 - O processamento das contraordenações laborais segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro.
+
+3 - A tentativa e a negligência são puníveis, sendo, nesse caso, reduzido para metade os limites mínimos e máximos.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 32.º — Sanções acessórias
+
+1 - Para além das sanções acessórias previstas no Código do Trabalho, o exercício da actividade de cedência de trabalhadores temporários a utilizadores sem licença ou com licença suspensa é ainda punível com ordem de encerramento do estabelecimento onde a actividade é exercida até à regularização da situação, juntamente com a coima.
+
+2 - As sanções acessórias referidas no número anterior são averbadas no registo referido no artigo 8.º
+
+### Artigo 33.º — Regime transitório de regularização
+
+1 - As agências que se encontrem já a exercer a actividade privada de colocação devem adaptar-se às disposições previstas no presente decreto-lei, no prazo máximo de 90 dias, a contar da data da sua entrada em vigor.
+
+2 - O incumprimento do disposto no número anterior determina a cessação da actividade.
+
+### Artigo 34.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respectivas administrações regionais autónomas com atribuições e competências no âmbito do presente decreto-lei, sem prejuízo das atribuições das entidades de âmbito nacional.
+
+2 - As meras comunicações prévias referidas no artigo 16.º são válidas para todo o território nacional, independentemente de serem dirigidas ao serviço público de emprego do continente ou aos serviços e organismos competentes de uma região autónoma.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 5/2014 - Diário da República n.º 30/2014, Série I de 2014-02-12, em vigor a partir de 2014-03-13
+
+### Artigo 35.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 124/89, de 14 de Abril, e a Lei n.º 19/2007, de 22 de Maio, na parte não revogada pela Lei n.º 7/2009, de 12 de Fevereiro, que aprovou o novo Código do Trabalho.
+
+### Artigo 36.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
+
+Promulgado em 2 de Setembro de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 3 de Setembro de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

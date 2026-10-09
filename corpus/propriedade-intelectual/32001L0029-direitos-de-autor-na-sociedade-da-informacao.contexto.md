@@ -14,9 +14,9 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2004-08-24 — Assembleia da República - Transpõe para a ordem jurídica nacional a Directiva n.º 2001/29/CE, do Parlamento Europeu e do Conselho, de 22 de Maio, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na sociedade de informação (quinta alteração ao Código do Direito de Autor e dos Direitos Conexos e primeira alteração à Lei n.º 62/98, de 1 de Setembro) (CELEX 72001L0029PRT_30555)
+- 2004-08-24 — Assembleia da República - Transpõe para a ordem jurídica nacional a Directiva n.º 2001/29/CE, do Parlamento Europeu e do Conselho, de 22 de Maio, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na sociedade de informação (quinta alteração ao Código do Direito de Autor e dos Direitos Conexos e primeira alteração à Lei n.º 62/98, de 1 de Setembro) (CELEX 72001L0029PRT_30555) → texto: [`legislacao-pt/lei-50-2004.md`](../../legislacao-pt/lei-50-2004.md) (original (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (90)
 

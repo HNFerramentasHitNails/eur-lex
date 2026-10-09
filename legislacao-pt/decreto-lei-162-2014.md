@@ -1,0 +1,907 @@
+---
+diploma: Decreto-Lei n.º 162/2014
+tipo: Decreto-Lei
+numero: 162/2014
+data_publicacao: '2014-10-31'
+sumario: No uso da autorização legislativa concedida pela Lei n.º 44/2014, de 11 de julho, aprova um novo Código Fiscal do Investimento e procede à revisão dos regimes de benefícios fiscais ao investimento produtivo, e respetiva regulamentação
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2026-08-21'
+transpoe:
+- 32015L0849
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-59423292
+eli: https://data.dre.pt/eli/dec-lei/162/2014/p/cons/20260821/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 162/2014
+
+**Sumário:** No uso da autorização legislativa concedida pela Lei n.º 44/2014, de 11 de julho, aprova um novo Código Fiscal do Investimento e procede à revisão dos regimes de benefícios fiscais ao investimento produtivo, e respetiva regulamentação
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2026-08-21. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-59423292
+
+## Texto
+
+A promoção da competitividade e do investimento tem sido uma prioridade do Governo desde o início da legislatura.
+
+Nesta matéria, durante o ano de 2013, foram adotadas iniciativas da maior relevância, nomeadamente o pacote para o investimento e a Reforma do Imposto sobre o Rendimento das Pessoas Coletivas (IRC).
+
+No âmbito do pacote para o investimento foi aprovado um conjunto significativo de medidas que contribuíram, de forma decisiva, para promoção do investimento e da competitividade. Entre essas medidas destaca-se a criação do Crédito Fiscal Extraordinário ao Investimento para permitir reforçar o investimento privado em 2013.
+
+Por outro lado, no âmbito da Reforma do IRC, reduziu-se a taxa nominal de IRC em dois pontos percentuais e simplificou-se o imposto, diminuindo os custos de cumprimento e aumentando a competitividade do sistema fiscal.
+
+Na sequência da reforma do IRC e com o objetivo de intensificar o apoio ao investimento, favorecendo o crescimento sustentável, a criação de emprego, e contribuindo para o reforço da estrutura de capital das empresas, o Governo propõe-se agora promover a revisão global dos regimes de benefícios ao investimento e à capitalização.
+
+Neste contexto, o Governo considerou premente a revisão do Código Fiscal do Investimento de modo a, por um lado, adaptá-lo ao novo quadro legislativo europeu aplicável aos auxílios estatais para o período 2014-2020 e, por outro lado, reforçar os diversos regimes de benefícios fiscais ao investimento, em particular no que se refere a investimentos que proporcionem a criação ou manutenção de postos de trabalho e se localizem em regiões menos favorecidas.
+
+Assim, e no que se refere aos benefícios fiscais contratuais, é aumentado o limite máximo do crédito de imposto em sede de IRC, sendo aumentadas as majorações previstas para investimentos realizados em regiões com um poder de compra per capita significativamente inferior à média nacional, que proporcionem a criação ou a manutenção de postos de trabalho ou que contribuam para a inovação tecnológica ou para a proteção do ambiente.
+
+Por outro lado, relativamente ao Regime Fiscal de Apoio ao Investimento, é também aumentado o limite do crédito de imposto em sede de IRC, sendo ainda alargado o período máximo de isenção de Imposto Municipal sobre Imóveis, bem como o âmbito de aplicação da isenção de Imposto do Selo, incentivando o empreendedorismo, a inovação e favorecendo a criação de empresas com estruturas de capital saudáveis.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 44/2014, de 11 de julho, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova um novo Código Fiscal do Investimento e procede à revisão dos regimes de benefícios fiscais ao investimento produtivo, e respetiva regulamentação, tendo em vista a promoção da competitividade da economia portuguesa e a manutenção de um contexto fiscal favorável ao investimento, à criação de emprego e ao reforço dos capitais próprios das empresas.
+
+### Artigo 2.º — Aprovação do novo Código Fiscal do Investimento
+
+É aprovado, em anexo ao presente decreto-lei, que dele faz parte integrante, o novo Código Fiscal do Investimento.
+
+### Artigo 3.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas
+
+O artigo 92.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, passa a ter a seguinte redação:
+
+«Artigo 92.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) O regime de dedução por lucros retidos e reinvestidos (DLRR), previsto no Código Fiscal do Investimento;
+
+g) O regime de remuneração convencional do capital social previsto no artigo 41.º-A do Estatuto dos Benefícios Fiscais.»
+
+### Artigo 4.º — Aditamento ao Estatuto dos Benefícios Fiscais
+
+É aditado ao Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, o artigo 41.º-A, com a seguinte redação:
+
+«Artigo 41.º-A
+
+Remuneração convencional do capital social
+
+1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português, pode ser deduzida uma importância correspondente à remuneração convencional do capital social, calculada mediante a aplicação da taxa de 5 % ao montante das entradas realizadas, por entregas em dinheiro, pelos sócios, no âmbito da constituição de sociedade ou do aumento do capital social, desde que:
+
+a) A sociedade beneficiária seja qualificada como micro, pequena ou média empresa, de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho;
+
+b) Os sócios que participem na constituição da sociedade ou no aumento do capital social sejam exclusivamente pessoas singulares, sociedades de capital de risco ou investidores de capital de risco;
+
+c) O seu lucro tributável não seja determinado por métodos indiretos.
+
+2 - A dedução a que se refere o número anterior:
+
+a) Aplica-se exclusivamente às entradas, no âmbito da constituição de sociedades ou do aumento do capital social da sociedade beneficiária;
+
+b) É efetuada no apuramento do lucro tributável relativo ao período de tributação em que ocorram as mencionadas entradas e nos três períodos de tributação seguintes.
+
+3 - O benefício fiscal previsto no presente artigo está sujeito às regras europeias aplicáveis em matéria de auxílios de minimis.»
+
+### Artigo 5.º — Alterações sistemáticas
+
+O capítulo VI da parte II do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, composto pelo artigo 41.º-A, passa a ter por epígrafe «Benefícios fiscais à capitalização das empresas».
+
+### Artigo 6.º — Disposições finais e transitórias
+
+1 - O disposto no capítulo II do novo Código Fiscal do Investimento, aprovado em anexo ao presente decreto-lei, aplica-se aos projetos de investimento cujas candidaturas sejam apresentadas a partir de 1 de julho de 2014, inclusive, mantendo-se relativamente aos contratos anteriores os regimes legais ao abrigo dos quais os mesmos foram celebrados.
+
+2 - Os restantes regimes fiscais previstos no novo Código Fiscal do Investimento aprovado em anexo ao presente decreto-lei, são aplicáveis aos períodos de tributação iniciados em ou após 1 de janeiro de 2014.
+
+3 - Sem prejuízo do disposto no número anterior, no período de tributação que se inicie em ou após 1 de janeiro de 2014, para efeitos do apuramento do limite máximo dos benefícios fiscais concedidos no âmbito do Regime Fiscal de Apoio ao Investimento, são aplicáveis, relativamente aos investimentos relevantes realizados entre o início do período de tributação e 30 de junho de 2014, as regras previstas no artigo 32.º do Código Fiscal do Investimento, aprovado pelo Decreto-Lei n.º 249/2009, de 23 de setembro, alterado pela Lei n.º 20/2012, de 14 de maio, pelo Decreto-Lei n.º 82/2013, de 17 de junho, e pela Lei n.º 83-C/2013, de 31 de dezembro.
+
+4 - O sentido dado pelo presente diploma às normas constantes do n.º 1 do artigo 13.º, n.º 1 do artigo 24.º e artigo 42.º do novo Código Fiscal do Investimento aplica-se aos benefícios fiscais concedidos ao abrigo do Código Fiscal do Investimento, aprovado pelo Decreto-Lei n.º 249/2009, de 23 de setembro, alterado pela Lei n.º 20/2012, de 14 de maio, pelo Decreto-Lei n.º 82/2013, de 17 de junho, e pela Lei n.º 83-C/2013, de 31 de dezembro.
+
+### Artigo 7.º — Norma revogatória
+
+São revogados:
+
+a) O artigo 9.º da Lei n.º 2/2014, de 16 de janeiro;
+
+b) Os artigos 41.º e 66.º-C a 66.º-L do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho;
+
+c) O Código Fiscal do Investimento, aprovado pelo Decreto-Lei n.º 249/2009, de 23 de setembro, alterado pela Lei n.º 20/2012, de 14 de maio, pelo Decreto-Lei n.º 82/2013, de 17 de junho, e pela Lei n.º 83-C/2013, de 31 de dezembro.
+
+Visto e aprovado em Conselho de Ministros de 18 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 28 de outubro de 2014.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 29 de outubro de 2014.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — (a que se refere o artigo 2.º)
+
+CÓDIGO FISCAL DO INVESTIMENTO
+
+## Capítulo I — Objeto
+
+### Artigo 1.º — Objeto
+
+1 - O Código Fiscal do Investimento, doravante designado por Código, estabelece:
+
+a) O regime de benefícios fiscais contratuais ao investimento produtivo;
+
+b) O Regime Fiscal de Apoio ao Investimento (RFAI);
+
+c) O sistema de incentivos fiscais em investigação e desenvolvimento empresarial II (SIFIDE II); e
+
+d) O regime de dedução por lucros retidos e reinvestidos (DLRR).
+
+2 - O regime de benefícios fiscais contratuais ao investimento produtivo e o RFAI constituem regimes de auxílios com finalidade regional aprovados nos termos do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado, publicado no Jornal Oficial da União Europeia, n.º L 187, de 26 de junho de 2014, e alterado pelo Regulamento (UE) 2021/1237, da Comissão, de 23 de julho de 2021, publicado no Jornal Oficial da União Europeia, n.º L 270/39, de 29 de julho de 2014 (adiante Regulamento Geral de Isenção por Categoria ou RGIC).
+
+3 - O DLRR constitui um regime de incentivos fiscais ao investimento em favor de micro, pequenas e médias empresas aprovado nos termos do RGIC.
+
+> Alterado pelo/a Artigo 306.º do/a Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27, em vigor a partir de 2022-06-28, produz efeitos a partir de 2022-01-01
+
+## Capítulo II — Benefícios fiscais contratuais ao investimento produtivo
+
+## Secção I — Âmbito de aplicação
+
+### Artigo 2.º — Âmbito objetivo
+
+1 - Até 31 de dezembro de 2027, podem ser concedidos benefícios fiscais, em regime contratual, com um período de vigência até 10 anos a contar da conclusão do projeto de investimento, aos projetos de investimento, tal como são caracterizados no presente capítulo, cujas aplicações relevantes sejam de montante igual ou superior a 3 000 000 (euro).
+
+2 - Os projetos de investimento referidos no número anterior devem ter o seu objeto compreendido, nomeadamente, nas seguintes atividades económicas, respeitando o âmbito setorial de aplicação das orientações relativas aos auxílios com finalidade regional para o período 2022-2027 (OAR), publicadas no Jornal Oficial da União Europeia, n.º C 153/1, de 29 de abril de 2021, e no RGIC:
+
+a) Indústria extrativa e indústria transformadora;
+
+b) Turismo, incluindo as atividades com interesse para o turismo;
+
+c) Atividades e serviços informáticos e conexos;
+
+d) Atividades agrícolas, aquícolas, piscícolas, agropecuárias e florestais;
+
+e) Atividades de investigação e desenvolvimento e de alta intensidade tecnológica;
+
+f) Tecnologias da informação e produção de audiovisual e multimédia;
+
+g) Defesa, ambiente, energia e telecomunicações;
+
+h) Atividades de centros de serviços partilhados.
+
+3 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia são definidos os códigos de atividade económica (CAE) correspondentes às atividades referidas no número anterior.
+
+> Alterado pelo/a Artigo 306.º do/a Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27, em vigor a partir de 2022-06-28, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 21/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20, em vigor a partir de 2021-04-21
+
+## Secção II — Condições de elegibilidade
+
+### Artigo 3.º — Condições subjetivas
+
+1 - Os projetos de investimento são elegíveis quando:
+
+a) Os promotores possuam capacidade técnica e de gestão;
+
+b) Os promotores demonstrem uma situação financeira equilibrada, determinada nos termos do número seguinte;
+
+c) Os promotores disponham de contabilidade regularmente organizada de acordo com as disposições legais em vigor e que seja adequada às análises requeridas para a apreciação e o acompanhamento do projeto e permita autonomizar os efeitos do mesmo;
+
+d) O lucro tributável dos promotores não seja determinado por métodos indiretos de avaliação;
+
+e) A contribuição financeira dos promotores, a partir dos seus recursos próprios ou mediante financiamento externo que assuma uma forma isenta de qualquer apoio público, corresponda, pelo menos, a 25 % dos custos elegíveis;
+
+f) As empresas beneficiárias não sejam consideradas empresas em dificuldade nos termos das orientações relativas aos auxílios estatais de emergência e à reestruturação concedidos a empresas não financeiras em dificuldade, publicada no Jornal Oficial da União Europeia, n.º C 249, de 31 de julho de 2014;
+
+g) Os promotores apresentem a situação fiscal e contributiva regularizada;
+
+h) Os promotores não estejam sujeitos a uma injunção de recuperação na sequência de uma decisão da Comissão que declare um auxílio ilegal e incompatível com o mercado interno.
+
+2 - Para efeitos do disposto na alínea b) do número anterior, considera-se que a situação financeira é equilibrada quando a autonomia financeira, medida pelo rácio entre o capital próprio e o total do ativo líquido, seja igual ou superior a 0,2.
+
+3 - Para efeitos do disposto no número anterior, podem ser considerados capitais próprios os montantes de suprimentos ou empréstimos de sócios, desde que os mesmos venham a ser incluídos no capital social antes da assinatura do contrato referido no artigo 16.º
+
+### Artigo 4.º — Condições objetivas
+
+1 - Podem ter acesso a benefícios fiscais contratuais ao investimento produtivo os projetos de investimento inicial, cuja realização não se tenha iniciado antes da candidatura prevista no artigo 15.º que demonstrem ter viabilidade técnica, económica e financeira, proporcionem a criação ou manutenção de postos de trabalho e que preencham, pelo menos, uma das seguintes condições:
+
+a) Sejam relevantes para o desenvolvimento estratégico da economia nacional;
+
+b) Sejam relevantes para a redução das assimetrias regionais;
+
+c) Contribuam para impulsionar a inovação tecnológica e a investigação científica nacional, para a melhoria do ambiente ou para o reforço da competitividade e da eficiência produtiva.
+
+2 - Consideram-se projetos de investimento inicial os investimentos relacionados com a criação de um novo estabelecimento, o aumento da capacidade de um estabelecimento já existente, a diversificação da produção de um estabelecimento no que se refere a produtos não fabricados anteriormente nesse estabelecimento, ou uma alteração fundamental do processo global de produção de um estabelecimento existente.
+
+3 - Para efeitos do disposto no presente regime, considera-se que o início da realização de um projeto de investimento se reporta à data da primeira fatura emitida às empresas promotoras, relativa a débitos efetuados pelos fornecedores no âmbito do projeto, com exceção da aquisição de terrenos e trabalhos preparatórios como a obtenção de licenças e a realização de estudos prévios, bem como os adiantamentos para sinalização, relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição.
+
+4 - Nas regiões elegíveis para auxílios nos termos da alínea c) do n.º 3 do artigo 107.º do Tratado sobre o Funcionamento da União Europeia, constantes da tabela do artigo 43.º, no caso de empresas que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, apenas podem beneficiar do regime dos benefícios fiscais contratuais ao investimento produtivo os projetos de investimento que respeitem a investimentos em novos ativos tangíveis e intangíveis relacionados com a criação de um novo estabelecimento, ou com a diversificação da atividade de um estabelecimento, na condição de a nova atividade não ser a mesma ou uma atividade semelhante à anteriormente exercida no estabelecimento.
+
+5 - O Conselho de Ministros pode aprovar, sob proposta do Conselho previsto no artigo 14.º, a concessão de benefícios fiscais em regime contratual a projetos de investimento que não preencham as condições previstas na parte final do número anterior, desde que respeitem as regras comunitárias aplicáveis aos auxílios ad hoc.
+
+### Artigo 5.º — Efeito de incentivo
+
+Constitui condição de elegibilidade a demonstração do efeito de incentivo dos benefícios fiscais, a efetuar através de formulário a aprovar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+### Artigo 6.º — Obrigações dos promotores
+
+1 - Além das condições previstas nos artigos anteriores, os promotores ficam sujeitos às seguintes obrigações:
+
+a) Disponibilizar todos os elementos que lhe forem solicitados pelas entidades competentes para efeitos de acompanhamento, controlo e fiscalização do projeto de investimento, nos prazos por estas estabelecidos;
+
+b) Comunicar às entidades competentes qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto, a sua realização pontual, bem como as obrigações decorrentes do contrato previsto no artigo 16.º;
+
+c) Cumprir atempadamente as obrigações legais a que estejam vinculados, designadamente as tributárias e contributivas;
+
+d) Manter as condições legais necessárias ao exercício da respetiva atividade, nomeadamente quanto à sua situação em matéria de licenciamento;
+
+e) Manter a atividade económica e os investimentos na região por um período mínimo de três anos a contar da data da conclusão do projeto de investimento, no caso de micro, pequenas e médias empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, ou cinco anos, nos restantes casos, exceto quando se tratar de substituição de equipamento obsoleto em razão de evolução tecnológica rápida, e desde que a atividade económica seja mantida na região durante o período necessário para completar aqueles prazos;
+
+f) Manter uma situação financeira equilibrada determinada nos termos do n.º 2 do artigo 3.º durante a vigência do contrato.
+
+2 - Nos casos em que o promotor pretenda obter benefícios fiscais em sede de imposto municipal sobre imóveis (IMI) e ou de imposto municipal sobre as transmissões onerosas de bens imóveis (IMT), a atribuição destes benefícios fica condicionada à respetiva aceitação pelo órgão municipal competente nos termos da Lei n.º 169/99, de 18 de setembro, alterada pelas Leis n.os 5-A/2002, de 11 de janeiro, e 67/2007, de 31 de dezembro, pela Lei Orgânica n.º 1/2011, de 20 de novembro, e pela Lei n.º 75/2013, de 12 de setembro, e demais legislação aplicável.
+
+3 - A prova da aceitação referida no número anterior é feita através da junção ao processo de uma declaração de aceitação dos benefícios em causa, emitida pelo órgão municipal competente.
+
+4 - O não cumprimento da obrigação prevista na alínea e) do n.º 1 determina a perda total dos benefícios fiscais concedido nos termos do presente Código e ainda a obrigação de, no prazo de 30 dias a contar da data da respetiva notificação e independentemente do tempo entretanto decorrido desde a data da verificação dos respetivos factos geradores de imposto, pagar nos termos da lei as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios nos termos da lei geral tributária (LGT), aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, havendo lugar a procedimento executivo, verificando-se a falta de pagamento até ao termo daquele prazo de 30 dias.
+
+5 - Os beneficiários dos regimes previstos no presente capítulo devem evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 8.º, mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao período de tributação em que se efetua a dedução, na contabilidade dos sujeitos passivos de imposto sobre o rendimento das pessoas coletivas (IRC).
+
+### Artigo 7.º — Notificação à Comissão Europeia
+
+Nos termos da legislação europeia, é notificada à Comissão Europeia a concessão de benefícios fiscais que preencham as condições definidas nessa legislação, designadamente aqueles em que o montante ajustado dos auxílios ultrapasse o limiar de notificação previsto nas OAR.
+
+> Alterado pelo/a Artigo 306.º do/a Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27, em vigor a partir de 2022-06-28, produz efeitos a partir de 2022-01-01
+
+## Secção III — Benefícios
+
+### Artigo 8.º — Benefícios fiscais
+
+1 - Aos projetos de investimento previstos nos artigos anteriores podem ser concedidos, cumulativamente, os seguintes benefícios fiscais:
+
+a) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 10 % e 25 % das aplicações relevantes do projeto de investimento efetivamente realizadas, a deduzir ao montante da coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC;
+
+b) Isenção ou redução de IMI, durante a vigência do contrato, relativamente aos prédios utilizados pelo promotor no âmbito do projeto de investimento;
+
+c) Isenção ou redução de IMT, relativamente às aquisições de prédios incluídas no plano de investimento e realizadas durante o período de investimento;
+
+d) Isenção de Imposto do Selo, relativamente a todos os atos ou contratos necessários à realização do projeto de investimento.
+
+e) Aplicação de taxa especial, nos termos da alínea b) do n.º 1 do artigo 58.º-A do Estatuto dos Benefícios Fiscais, aos trabalhadores que ocupem postos de trabalho qualificados no âmbito do contrato referido no artigo 16.º
+
+2 - A dedução prevista na alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que foram realizadas as aplicações relevantes, podendo ainda essa dedução ser utilizada, nas mesmas condições, na liquidação dos períodos de tributação até ao termo da vigência do contrato referido no artigo 16.º, quando não o tenha sido integralmente efetuada naquele período de tributação.
+
+3 - A dedução prevista na alínea a) do n.º 1 tem os seguintes limites:
+
+a) No caso de criação de empresas, a dedução anual pode corresponder ao total da coleta apurada em cada período de tributação;
+
+b) No caso de projetos em sociedades já existentes, a dedução máxima anual não pode exceder o maior valor entre 25 % do total do benefício fiscal concedido ou 50 % da coleta apurada em cada período de tributação.
+
+4 - A comprovação da isenção do imposto previsto na alínea b) do n.º 1 é efetuada mediante a apresentação do contrato referido no artigo 16.º à entidade competente para a respetiva liquidação, não dependendo de qualquer outra formalidade.
+
+5 - As isenções dos impostos previstos nas alíneas c) e d) do n.º 1 são comprovadas mediante apresentação do contrato referido no artigo 16.º à entidade competente pela respetiva liquidação, no momento da realização do ato sobre o qual essas isenções incidem.
+
+6 - O disposto nos n.os 4 e 5 deve estar devidamente documentado e justificado no processo de documentação fiscal previsto no artigo 130.º do Código do IRC.
+
+> Alterado pelo/a Artigo 264.º do/a Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29, em vigor a partir de 2024-01-01
+
+### Artigo 9.º — Critérios de determinação dos benefícios fiscais
+
+1 - O benefício fiscal a conceder aos projetos de investimento corresponde a 10 % das aplicações relevantes do projeto efetivamente realizadas.
+
+2 - A percentagem estabelecida no número anterior pode ser majorada da seguinte forma:
+
+a) Até 12 %, em função do índice per capita de poder de compra da região em que se localize o projeto, de acordo com os seguintes escalões:
+
+i) Em 8 %, caso o projeto se localize numa região NUTS 2 que, à data de apresentação da candidatura, não apresente um índice per capita de poder de compra superior a 90 % da média nacional nos dois últimos apuramentos anuais publicados pelo Instituto Nacional de Estatística, I. P. (INE, I. P.); ou
+
+ii) Em 10 %, caso o projeto se localize numa região NUTS 3 que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 90 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P.; ou
+
+iii) Em 12 %, caso o projeto se localize num concelho que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 80 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P.;
+
+b) Até 8 %, caso o projeto proporcione a criação de postos de trabalho ou a sua manutenção até ao final da vigência do contrato referido no artigo 20.º de acordo com os oito escalões seguintes:
+
+1 % - (igual ou maior que) 50 postos de trabalho;
+
+2 % - (igual ou maior que) 100 postos de trabalho;
+
+3 % - (igual ou maior que) 150 postos de trabalho;
+
+4 % - (igual ou maior que) 200 postos de trabalho;
+
+5 % - (igual ou maior que) 250 postos de trabalho;
+
+6 % - (igual ou maior que) 300 postos de trabalho;
+
+7 % - (igual ou maior que) 400 postos de trabalho;
+
+8 % - (igual ou maior que) 500 postos de trabalho;
+
+c) Até 6 %, em caso de excecional contributo do projeto para as condições enunciadas no n.º 1 do artigo 4.º
+
+3 - No caso de ao projeto ser reconhecida relevância excecional para a economia nacional, pode ser atribuída, através de resolução do Conselho de Ministros, uma majoração até 5 %.
+
+4 - As percentagens de majoração previstas nos números anteriores podem ser atribuídas cumulativamente, respeitando o limite total de 25 % das aplicações relevantes.
+
+5 - O benefício fiscal total corresponde à quantia resultante da aplicação das percentagens referidas neste artigo ao valor das aplicações relevantes efetivamente realizadas.
+
+> Alterado pelo/a Artigo 301.º do/a Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31, em vigor a partir de 2019-01-01
+
+### Artigo 10.º — Limites máximos aplicáveis
+
+1 - Os benefícios fiscais concedidos ao abrigo do presente capítulo devem respeitar os limites máximos aplicáveis aos auxílios com finalidade regional em vigor na região na qual o investimento seja efetuado, nos termos do artigo 43.º
+
+2 - Caso os projetos de investimento beneficiem de outros auxílios de Estado, o cálculo dos limites referidos no número anterior deve ter em consideração o montante total dos auxílios de Estado com finalidade regional concedidos ao investimento ou projeto de investimento em questão, proveniente de todas as fontes, assim como outras regras de cumulação previstas na legislação comunitária.
+
+### Artigo 11.º — Aplicações relevantes
+
+1 - Consideram-se aplicações relevantes, para efeitos de cálculo dos benefícios fiscais, as despesas associadas aos projetos de investimento e relativas a:
+
+a) Ativos fixos tangíveis afetos à realização do projeto, com exceção de:
+
+i) Terrenos que não se incluam em projetos do setor da indústria extrativa, destinados à exploração de concessões minerais, águas de mesa e medicinais, pedreiras, barreiras e areeiros;
+
+ii) Edifícios e outras construções não diretamente ligados ao processo produtivo ou às atividades administrativas essenciais;
+
+iii) Viaturas ligeiras ou mistas;
+
+iv) Outro material de transporte no valor que ultrapasse 20 % do total das aplicações relevantes;
+
+v) Mobiliário e artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;
+
+vi) Equipamentos sociais;
+
+vii) Outros bens de investimento que não sejam afetos à exploração da empresa, salvo equipamentos produtivos destinados à utilização, para fins económicos, dos resíduos resultantes do processo de transformação produtiva ou de consumo em Portugal, desde que de reconhecido interesse industrial e ambiental;
+
+b) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.
+
+c) Custos salariais estimados decorrentes da criação de postos de trabalho, quando digam respeito a pessoal com habilitações literárias do nível 7 ou do nível 8 do Quadro Nacional de Qualificações, em virtude do investimento inicial em causa, calculados ao longo de um período de dois anos, conforme previsto na alínea b) do n.º 4 e no n.º 9 do artigo 14.º do Regulamento Geral de Isenção por Categoria, entendendo-se que estes representam o custo total suportado pelas empresas beneficiárias em relação àqueles postos de trabalho criados, incluindo o salário bruto antes de impostos, as contribuições obrigatórias para a segurança social, o seguro de acidentes de trabalho, os encargos com a guarda de crianças e ascendentes, bem como outros encargos de origem legal ou advenientes de regulamentação coletiva de trabalho;
+
+d) Uma combinação das alíneas a), b) e c) que não exceda o montante de a), b) ou c), consoante o que for mais elevado.
+
+2 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, as despesas de investimento a que se refere a alínea b) do número anterior não podem exceder 50 % das aplicações relevantes.
+
+3 - Os ativos previstos na alínea a) do número anterior podem ser adquiridos em regime de locação financeira, nos termos definidos na alínea b) do parágrafo 6 do artigo 14.º do RGIC, desde que seja exercida a opção de compra prevista no respetivo contrato durante o período de vigência do contrato de concessão de benefícios fiscais.
+
+4 - Para efeitos do disposto nos números anteriores, excluem-se da noção de aplicações relevantes as relativas a equipamentos usados e investimento de substituição.
+
+5 - As aplicações relevantes previstas na alínea a) do n.º 1 e no n.º 2 devem ser contabilizadas no ativo fixo das empresas promotoras dos projetos de investimento, devendo estes bens permanecer no ativo da empresa durante o período de vigência do contrato de concessão de benefícios fiscais, exceto se a respetiva alienação for autorizada mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia, respeitados os limites previstos no n.º 5 do artigo 14.º do RGIC.
+
+6 - São elegíveis os adiantamentos relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição, desde que realizados há menos de um antes da data de candidatura a benefícios fiscais.
+
+7 - São elegíveis as despesas relativas aos estudos diretamente relacionados com o projeto de investimento, contabilizadas como ativo intangível, desde que realizados há menos de um ano antes da data de candidatura a benefícios fiscais.
+
+8 - No caso de as aplicações relevantes tidas em conta para efeitos de cálculo dos benefícios fiscais incluírem as despesas a que se refere a alínea c) do n.º 1, devem ser preenchidas as seguintes condições:
+
+a) O projeto de investimento deve conduzir a um aumento líquido do número de trabalhadores da entidade beneficiária, em comparação com a média dos 12 meses anteriores, ou seja, durante a vigência do contrato de concessão de benefícios fiscais, qualquer perda de postos de trabalho deve ser deduzida do número aparente de postos de trabalho criados nesse período;
+
+b) Cada posto de trabalho deve ser preenchido no prazo de três anos após a conclusão dos trabalhos;
+
+c) Cada posto de trabalho criado através do investimento deve ser mantido durante um período mínimo de cinco anos, a contar da data em que a vaga foi preenchida pela primeira vez.
+
+9 - O prazo previsto na alínea c) do número anterior é de três anos caso o sujeito passivo se qualifique como micro, pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
+
+> Alterado pelo/a Artigo 264.º do/a Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29, em vigor a partir de 2024-01-01
+
+> Retificado pelo/a Declaração de Retificação n.º 49/2014 - Diário da República n.º 232/2014, Série I de 2014-12-01
+
+### Artigo 12.º — Simplificação de procedimentos aduaneiros
+
+1 - Os promotores dos projetos de investimento produtivo beneficiam de dispensa de prestação de garantia dos direitos de importação e demais imposições eventualmente devidos pelas mercadorias não comunitárias sujeitas aos regimes de entreposto aduaneiro, aperfeiçoamento ativo em sistema suspensivo e destino especial, durante o período de vigência do contrato ou até à sua resolução, nos termos previstos, respetivamente, nos artigos 16.º e 20.º
+
+2 - Os promotores que pretendam requerer o estatuto de operador económico autorizado para simplificações aduaneiras, devem formular o respetivo pedido junto da Autoridade Tributária e Aduaneira (AT), o qual é apreciado e decidido no prazo de 50 dias contados a partir da respetiva apresentação.
+
+3 - A contagem do prazo referido no número anterior é suspensa quando forem requeridos esclarecimentos adicionais, os quais devem ser apresentados no prazo de 30 dias, findo o qual, na ausência de resposta imputável ao promotor, se considera haver desistência do pedido.
+
+### Artigo 13.º — Exclusividade dos benefícios fiscais
+
+1 - Sem prejuízo do disposto no número seguinte, os benefícios fiscais contratuais relativos às aplicações relevantes do projeto discriminadas no respetivo contrato não são cumuláveis, com quaisquer outros benefícios fiscais da mesma natureza relativamente às mesmas aplicações relevantes, incluindo os benefícios fiscais de natureza não contratual, previstos neste ou noutros diplomas legais.
+
+2 - Os benefícios fiscais contratuais previstos nos artigos anteriores são cumuláveis com a DLRR, desde, e na medida em que, não sejam ultrapassados os limites máximos aplicáveis previstos no artigo 10.º
+
+3 - As despesas com pessoal com habilitações literárias mínimas do nível 7 do Quadro Nacional de Qualificações não são cumuláveis para efeitos dos benefícios fiscais previstos no presente Código, sendo consideradas aplicações relevantes pela ordem indicada:
+
+a) Nos termos do artigo 11.º, se o sujeito passivo usufruir de benefícios desta natureza;
+
+b) Nos termos do artigo 22.º, se o sujeito passivo usufruir de benefícios desta natureza;
+
+c) Nos termos do artigo 37.º, se o sujeito passivo usufruir de benefícios desta natureza.
+
+> Alterado pelo/a Artigo 264.º do/a Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29, em vigor a partir de 2024-01-01
+
+## Secção IV — Procedimento
+
+### Artigo 14.º — Conselho de Coordenação dos Incentivos Fiscais ao Investimento
+
+1 - O Conselho de Coordenação dos Incentivos Fiscais ao Investimento, abreviadamente designado por Conselho, tem as seguintes competências, no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo:
+
+a) Acompanhamento da aplicação das disposições relativas a este tipo de benefícios;
+
+b) Verificação do cumprimento das condições de acesso e de elegibilidade dos projetos de investimento;
+
+c) Pronúncia sobre o interesse dos projetos de investimento quanto aos objetivos visados pelos benefícios fiscais;
+
+d) Avaliação das aplicações relevantes;
+
+e) Avaliação do enquadramento dos projetos de investimento, não estando vinculado a quaisquer medições prefixadas de mérito, para além do disposto no presente Código;
+
+f) Análise do processo e remessa da proposta para aprovação nos termos do artigo 16.º;
+
+g) Emissão de parecer quanto à matéria relativa aos benefícios fiscais;
+
+h) Verificação do cumprimento pelos promotores dos contratos de concessão de benefícios fiscais ao investimento.
+
+2 - O Conselho é presidido por um representante do Ministério das Finanças e integra:
+
+a) Um representante da Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.);
+
+b) Um representante do IAPMEI, I. P. - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.);
+
+c) Dois representantes da AT.
+
+3 - Os membros do Conselho referidos no número anterior são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+4 - O exercício de funções no Conselho nesta disposição não confere aos nomeados quaisquer abonos ou remunerações.
+
+### Artigo 15.º — Candidatura e apreciação dos processos
+
+1 - Os promotores dos projetos de investimento devem apresentar, devidamente caracterizado e fundamentado, o processo de candidatura aos benefícios fiscais junto das seguintes entidades:
+
+a) AICEP, E. P. E., quando os projetos de investimento se enquadrem no regime contratual de investimento previsto no Decreto-Lei n.º 203/2003, de 10 de setembro;
+
+b) IAPMEI, I. P., nos restantes casos.
+
+2 - As candidaturas são apresentadas por via eletrónica.
+
+3 - Sempre que os projetos de investimento tenham implicações sectoriais que o justifiquem, devem ser consultadas as entidades públicas ou privadas competentes, que se pronunciam no prazo de 10 dias úteis.
+
+4 - A entidade referida no n.º 1 pode, no decurso da fase de verificação das candidaturas, solicitar aos promotores dos projetos de investimento esclarecimentos complementares, os quais devem ser apresentados no prazo de 10 dias úteis, sob pena de se considerar haver desistência do procedimento.
+
+5 - A entidade referida no n.º 1 submete o processo devidamente instruído, por via eletrónica, acompanhado do respetivo parecer técnico, ao Conselho, no prazo de 40 dias úteis contados a partir da data da apresentação da candidatura, que é suspenso nos casos previstos nos n.os 3 e 4.
+
+6 - O Conselho pronuncia-se no prazo de 60 dias úteis a contar da data de submissão do processo nos termos referidos no número anterior.
+
+7 - O Conselho pode solicitar esclarecimentos adicionais às entidades referidas no n.º 1, caso em que o prazo previsto no número anterior se suspende.
+
+### Artigo 16.º — Contrato de concessão dos benefícios fiscais
+
+1 - A concessão dos benefícios fiscais é objeto de contrato, aprovado por resolução do Conselho de Ministros, do qual constam, designadamente, os objetivos e as metas a cumprir pelo promotor e os benefícios fiscais concedidos, e que tem um período de vigência até 10 anos a contar da conclusão do projeto de investimento.
+
+2 - Os contratos de concessão dos benefícios fiscais são celebrados pelas entidades previstas no n.º 1 do artigo anterior na qualidade de representante do Estado Português.
+
+3 - Os aditamentos aos contratos de concessão de benefícios fiscais, dos quais não resulte um aumento dos benefícios ou da intensidade do apoio, são aprovados através de despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+4 - A aprovação dos contratos ou de aditamentos aos contratos, nos termos dos números anteriores, deve ocorrer no prazo de 60 dias úteis a contar da data da pronúncia prevista no n.º 6 do artigo anterior.
+
+### Artigo 17.º — Fiscalização e acompanhamento
+
+1 - Sem prejuízo das competências próprias da AT em matéria de fiscalização e acompanhamento, a verificação do cumprimento, pelos promotores, dos contratos de concessão de benefícios fiscais ao investimento, compete ao Conselho previsto no artigo 14.º
+
+2 - Para efeitos do cumprimento do disposto no artigo 7.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, a AICEP, E. P. E., e o IAPMEI, I. P., enviam anualmente ao Conselho os relatórios de verificação do cumprimento dos objetivos previstos nos contratos de concessão de benefícios fiscais.
+
+### Artigo 18.º — Direito de audição
+
+1 - Caso verifique alguma situação suscetível de conduzir à resolução do contrato, nos termos do disposto no artigo 20.º, o Conselho comunica à entidade beneficiária dos benefícios fiscais a sua intenção de propor a resolução do contrato, podendo esta responder, querendo, no prazo de 30 dias.
+
+2 - Analisada a resposta à comunicação, ou decorrido o prazo para a sua emissão, o Conselho emite um parecer fundamentado, no prazo de 60 dias, no qual propõe, se for o caso, a resolução do contrato de concessão de benefícios fiscais.
+
+### Artigo 19.º — Renegociação
+
+1 - O contrato pode ser objeto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que as partes fundaram a sua vontade de contratar.
+
+2 - Qualquer alteração contratual decorrente da renegociação referida no número anterior é submetida a aprovação nos termos dos artigos 15.º e 16.º
+
+### Artigo 20.º — Resolução do contrato
+
+1 - A resolução do contrato é declarada por resolução do Conselho de Ministros nos seguintes casos:
+
+a) Não cumprimento dos objetivos e obrigações estabelecidos no contrato, nos prazos aí fixados, por facto imputável ao promotor;
+
+b) Não cumprimento atempado das obrigações fiscais e contributivas por parte do promotor;
+
+c) Prestação de informações falsas sobre a situação do promotor ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento dos projetos.
+
+2 - Para efeitos da verificação da causa de resolução prevista na alínea a) do número anterior, deve ter-se em atenção o grau de cumprimento dos objetivos contratuais (GCC) acordado contratualmente.
+
+### Artigo 21.º — Efeitos da resolução do contrato
+
+1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data de aprovação do mesmo, e ainda a obrigação de, no prazo de 30 dias a contar da respetiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respetivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios, nos termos do artigo 35.º da LGT.
+
+2 - Na falta de pagamento dentro do prazo de 30 dias, referido no número anterior, há lugar a procedimento executivo.
+
+## Capítulo III — Regime fiscal de apoio ao investimento
+
+### Artigo 22.º — Âmbito de aplicação e definições
+
+1 - O RFAI é aplicável aos sujeitos passivos de IRC que exerçam uma atividade nos setores especificamente previstos no n.º 2 do artigo 2.º, tendo em consideração os códigos de atividade definidos na portaria prevista no n.º 3 do referido artigo, com exceção das atividades excluídas do âmbito sectorial de aplicação das OAR e do RGIC.
+
+2 - Para efeitos do disposto no presente regime, consideram-se aplicações relevantes os investimentos nos seguintes ativos, desde que afetos à exploração da empresa:
+
+a) Ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:
+
+i) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em investimentos na indústria extrativa;
+
+ii) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo se forem instalações fabris ou afetos a atividades turísticas, de produção de audiovisual ou administrativas;
+
+iii) Viaturas ligeiras de passageiros ou mistas;
+
+iv) Mobiliário e artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;
+
+v) Equipamentos sociais;
+
+vi) Outros bens de investimento que não estejam afetos à exploração da empresa;
+
+b) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.
+
+c) Custos salariais decorrentes da criação de postos de trabalho de pessoal com habilitações literárias do nível 7 ou do nível 8 do Quadro Nacional de Qualificações.
+
+3 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação 2003/361/CE da Comissão, de 6 de maio de 2003, as aplicações relevantes a que se referem as alíneas b) e c) do número anterior não podem exceder 50 % das aplicações relevantes.
+
+4 - Podem beneficiar dos incentivos fiscais previstos no presente capítulo os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:
+
+a) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;
+
+b) O seu lucro tributável não seja determinado por métodos indiretos;
+
+c) Mantenham na empresa e na região durante um período mínimo de três anos a contar da data dos investimentos, no caso de micro, pequenas e médias empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, ou cinco anos nos restantes casos, os bens objeto do investimento ou, quando inferior, durante o respetivo período mínimo de vida útil, determinado nos termos do Decreto Regulamentar n.º 25/2009, de 14 de setembro, alterado pelas Leis n.os 64-B/2011, de 30 de dezembro, e 2/2014, de 16 de janeiro, ou até ao período em que se verifique o respetivo abate físico, desmantelamento, abandono ou inutilização, observadas as regras previstas no artigo 31.º-B do Código do IRC;
+
+d) Não sejam devedores ao Estado e à segurança social de quaisquer contribuições, impostos ou quotizações ou tenham o pagamento dos seus débitos devidamente assegurado;
+
+e) Não sejam consideradas empresas em dificuldade nos termos da comunicação da Comissão - Orientações relativas aos auxílios estatais de emergência e à reestruturação concedidos a empresas não financeiras em dificuldade, publicada no Jornal Oficial da União Europeia, n.º C 249, de 31 de julho de 2014;
+
+f) Efetuem investimento relevante que proporcione a criação de postos de trabalho e a sua manutenção até ao final do período mínimo de manutenção dos bens objeto de investimento, nos termos da alínea c).
+
+5 - Considera-se investimento realizado o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e ativos intangíveis e o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso, bem como os custos salariais incorridos com a criação dos postos de trabalho nos termos da alínea c) do n.º 2, aqui se incluindo o salário bruto antes de impostos, as contribuições obrigatórias para a segurança social, o seguro de acidentes de trabalho, os encargos com a guarda de crianças e ascendentes e outros encargos de origem legal ou decorrentes de regulamentação coletiva de trabalho.
+
+6 - Para efeitos do disposto no número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso transitado de períodos anteriores, exceto se forem adiantamentos.
+
+7 - Nas regiões elegíveis para auxílios nos termos da alínea c) do n.º 3 do artigo 107.º do Tratado sobre o Funcionamento da União Europeia, constantes da tabela do artigo 43.º, no caso de empresas que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação 2003/361/CE da Comissão, de 6 de maio de 2003, apenas podem beneficiar do RFAI os investimentos que respeitem a uma nova atividade económica, ou seja, a um investimento em ativos fixos tangíveis, ativos intangíveis e a criação de postos de trabalho nos termos da alínea c) do n.º 2, relacionados com a criação de um novo estabelecimento, ou com a diversificação da atividade de um estabelecimento, na condição de a nova atividade não ser a mesma ou uma atividade semelhante à anteriormente exercida no estabelecimento.
+
+> Alterado pelo/a Artigo 264.º do/a Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29, em vigor a partir de 2024-01-01
+
+> Retificado pelo/a Declaração de Retificação n.º 49/2014 - Diário da República n.º 232/2014, Série I de 2014-12-01
+
+### Artigo 23.º — Benefícios fiscais
+
+1 - Aos sujeitos passivos de IRC previstos no n.º 1 do artigo anterior, são concedidos os seguintes benefícios fiscais:
+
+a) Dedução à coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, das seguintes importâncias das aplicações relevantes:
+
+1) No caso de investimentos realizados em regiões elegíveis nos termos da alínea a) do n.º 3 do artigo 107.º do Tratado de Funcionamento da União Europeia constantes da tabela prevista no n.º 1 do artigo 43.º:
+
+i) 30 % das aplicações relevantes, relativamente ao investimento realizado até ao montante de 15 000 000 (euro);
+
+ii) 10 % das aplicações relevantes, relativamente à parte do investimento realizado que exceda o montante de 15 000 000 (euro);
+
+2) No caso de investimentos em regiões elegíveis nos termos da alínea c) do n.º 3 do artigo 107.º do Tratado de Funcionamento da União Europeia constantes da tabela prevista no n.º 1 do artigo 43.º, 10 % das aplicações relevantes;
+
+b) Isenção ou redução de IMI, por um período até 10 anos a contar do ano de aquisição ou construção do imóvel, relativamente aos prédios utilizados pelo promotor no âmbito dos investimentos que constituam aplicações relevantes, nos termos do artigo 22.º;
+
+c) Isenção ou redução de IMT relativamente às aquisições de prédios que constituam aplicações relevantes nos termos do artigo 22.º;
+
+d) Isenção de Imposto do Selo relativamente às aquisições de prédios que constituam aplicações relevantes nos termos do artigo 22.º
+
+2 - A dedução a que se refere a alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que sejam realizadas as aplicações relevantes, com os seguintes limites:
+
+a) No caso de investimentos realizados no período de tributação do início de atividade e nos dois períodos de tributação seguintes, exceto quando a empresa resultar de cisão, até à concorrência do total da coleta do IRC apurada em cada um desses períodos de tributação;
+
+b) Nos restantes casos, até à concorrência de 50 % da coleta do IRC apurada em cada período de tributação.
+
+3 - Quando a dedução referida no número anterior não possa ser efetuada integralmente por insuficiência de coleta, a importância ainda não deduzida pode sê-lo nas liquidações dos 10 períodos de tributação seguintes, até à concorrência da coleta de IRC apurada em cada um dos períodos de tributação, no caso de investimentos abrangidos pela alínea a) do número anterior ou com o limite previsto na alínea b) do mesmo número, nos casos aí previstos.
+
+4 - Para efeitos do disposto nas alíneas b) e c) do n.º 1, as isenções ou reduções aí previstas são condicionadas ao reconhecimento, pela competente assembleia municipal, do interesse do investimento para a região.
+
+5 - Os benefícios fiscais previstos nos números anteriores devem respeitar os limites máximos aplicáveis aos auxílios com finalidade regional em vigor na região na qual o investimento seja efetuado, nos termos do artigo 43.º
+
+6 - Caso os investimentos beneficiem de outros auxílios de Estado, o cálculo dos limites referidos no número anterior deve ter em consideração o montante total dos auxílios de Estado com finalidade regional concedidos ao investimento em questão, proveniente de todas as fontes.
+
+7 - Para efeitos do disposto no número anterior, os sujeitos passivos ficam sujeitos aos procedimentos especiais de controlo do montante dos auxílios de Estado com finalidade regional concedidos ao investimento, nos termos a definir por portaria do membro do Governo responsável pelas áreas das finanças e da economia.
+
+> Alterado pelo/a Artigo 253.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 301.º do/a Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31, em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 243.º do/a Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28, em vigor a partir de 2017-01-01
+
+### Artigo 23.º-A — Benefícios fiscais municipais
+
+1 - Para além dos benefícios fiscais previstos nas alíneas b) e c) do n.º 1 do artigo 23.º, os órgãos municipais podem conceder isenções totais ou parciais de IMI e ou IMT para apoio a investimento realizado na área do município.
+
+2 - A concessão de benefícios fiscais municipais é feita nos termos previstos no n.º 2 do artigo 16.º da Lei n.º 73/2013, de 3 de setembro.
+
+3 - Aos benefícios fiscais concedidos nos termos dos números anteriores não é aplicável a limitação prevista na subalínea i) da alínea a) do n.º 2 do artigo 22.º
+
+> Aditado pelo/a Artigo 195.º do/a Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30, em vigor a partir de 2016-03-31
+
+### Artigo 24.º — Exclusividade dos benefícios fiscais
+
+1 - Sem prejuízo do disposto no número seguinte, o RFAI não é cumulável com quaisquer benefícios fiscais da mesma natureza, incluindo os benefícios fiscais de natureza contratual, relativamente às mesmas aplicações relevantes, previstos neste ou noutros diplomas legais.
+
+2 - O RFAI é cumulável com a DLRR, desde, e na medida em que, não sejam ultrapassados os limites máximos aplicáveis previstos nos n.os 5 e 6 do artigo anterior.
+
+> Retificado pelo/a Declaração de Retificação n.º 49/2014 - Diário da República n.º 232/2014, Série I de 2014-12-01
+
+### Artigo 25.º — Obrigações acessórias
+
+1 - A dedução prevista na alínea a) do n.º 1 do artigo 23.º, é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente as aplicações relevantes, o respetivo montante e outros elementos considerados relevantes.
+
+2 - Do processo de documentação fiscal relativo ao exercício da dedução deve ainda constar documento que evidencie o cálculo do benefício fiscal, bem como documentos comprovativos das condições de elegibilidade previstas no artigo 22.º
+
+3 - Nos termos da legislação europeia, é notificada à Comissão Europeia a concessão de benefícios fiscais que preencham as condições definidas nessa legislação, designadamente aqueles em que o montante ajustado dos auxílios ultrapasse o limiar de notificação previsto nas OAR.
+
+4 - Os procedimentos de controlo da verificação das condições para a aplicação do regime de benefícios fiscais previsto no presente capítulo são definidos por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+> Alterado pelo/a Artigo 306.º do/a Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27, em vigor a partir de 2022-06-28, produz efeitos a partir de 2022-01-01
+
+### Artigo 26.º — Incumprimento
+
+Em caso de incumprimento do disposto na alínea c) do n.º 4 do artigo 22.º, é adicionado ao IRC relativo ao período de tributação em que o sujeito passivo alienou os bens objeto do investimento o imposto que deixou de ser liquidado em virtude do presente regime, acrescido dos correspondentes juros compensatórios majorados em 10 pontos percentuais.
+
+## Capítulo IV — Dedução por lucros retidos e reinvestidos
+
+### Artigo 27.º — Objeto
+
+A DLRR constitui um regime de incentivos fiscais ao investimento em favor de micro, pequenas e médias empresas nos termos do RGIC.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+### Artigo 28.º — Âmbito de aplicação subjetivo
+
+Podem beneficiar da DLRR os sujeitos passivos de IRC residentes em território português, bem como os sujeitos passivos não residentes com estabelecimento estável neste território, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, que preencham, cumulativamente, as seguintes condições:
+
+a) Sejam micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003;
+
+b) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;
+
+c) O seu lucro tributável não seja determinado por métodos indiretos;
+
+d) Tenham a situação fiscal e contributiva regularizada.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+### Artigo 29.º — Dedução por lucros retidos e reinvestidos
+
+1 - Os sujeitos passivos referidos no artigo anterior podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2014, até 10 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de quatro anos contado a partir do final do período de tributação a que correspondam os lucros retidos.
+
+2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de 12 000 000 (euro), por sujeito passivo.
+
+3 - A dedução prevista no número anterior é feita, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, até à concorrência de 25 % da coleta do IRC.
+
+4 - No caso dos sujeitos passivos que sejam micro e pequenas empresas, tal como definidas na Recomendação 2003/361/CE, da Comissão, de 6 de maio de 2003, a dedução prevista no n.º 2, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, é feita até à concorrência de 50 % da coleta do IRC.
+
+5 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:
+
+a) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;
+
+b) É feita até 25 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada período de tributação, o limite de 25 % da coleta que seria apurada pela sociedade que realizou as aplicações relevantes caso não se aplicasse o regime especial de tributação de grupos de sociedades.
+
+6 - A dedução prevista no n.º 1 abrange as situações em que durante o período de tributação se encontram reunidos os requisitos previstos na legislação comercial para adiantamento por conta de lucros, não podendo essa dedução ser superior àquela que seria obtida com base no lucro apurado no final desse período de tributação.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 301.º do/a Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31, em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 284.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+### Artigo 30.º — Aplicações relevantes
+
+1 - Consideram-se aplicações relevantes, para efeitos do presente regime, os ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:
+
+a) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projetos de indústria extrativa;
+
+b) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo quando afetos a atividades produtivas ou administrativas;
+
+c) Viaturas ligeiras de passageiros ou mistas, salvo quando afetas à exploração de serviço público de transportes ou destinadas a serem alugadas no exercício da atividade normal do sujeito passivo, barcos de recreio e aeronaves de turismo;
+
+d) Artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;
+
+e) Ativos afetos a atividades no âmbito de acordos de concessão ou de parceria público-privada celebrados com entidades do setor público.
+
+2 - Consideram-se ainda aplicações relevantes, para efeitos do presente regime, os ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, know-how ou conhecimentos técnicos não protegidos por patente, desde que cumpridos cumulativamente os seguintes requisitos:
+
+a) Estejam sujeitos a amortizações ou depreciações para efeitos fiscais;
+
+b) Não sejam adquiridos a entidades com as quais existam relações especiais nos termos do n.º 4 do artigo 63.º do Código do IRC.
+
+3 - Considera-se investimento realizado em aplicações relevantes o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis ou ativos intangíveis e bem assim o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso.
+
+4 - Para efeitos do disposto nos números anteriores, não se consideram as adições de ativos que resultem de transferências de investimentos em curso.
+
+5 - No caso de ativos adquiridos em regime de locação financeira, a dedução a que se refere o n.º 1 do artigo anterior é condicionada ao exercício da opção de compra pelo sujeito passivo no prazo de sete anos contado da data da aquisição.
+
+6 - As aplicações relevantes em que seja concretizado o reinvestimento dos lucros retidos devem ser detidas e contabilizadas de acordo com as regras que determinaram a sua elegibilidade, por um período mínimo de cinco anos.
+
+7 - Quando ocorra a transmissão onerosa dos ativos em que seja concretizado o reinvestimento dos lucros retidos antes de decorrido o prazo previsto no número anterior, o sujeito passivo deve reinvestir, no mesmo período de tributação ou no período de tributação seguinte, o respetivo valor de realização em aplicações relevantes nos termos do presente artigo, os quais devem ser detidos, pelo menos, pelo período necessário para completar aquele prazo.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 284.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+> Nota: Artigo 360.º, Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31 As alterações dos prazos previstos no n.º 1 do artigo 29.º e no n.º 5 do artigo 30.º do CFI, são aplicáveis aos prazos em curso no primeiro dia do período de tributação relativo a 2020.
+
+### Artigo 31.º — Não cumulação
+
+1 - Sem prejuízo do disposto no número seguinte, a DLRR não é cumulável, relativamente às mesmas aplicações relevantes elegíveis, com quaisquer outros benefícios fiscais ao investimento da mesma natureza.
+
+2 - A DLRR é cumulável com o regime de benefícios contratuais e com o RFAI, nos termos e condições previstos nos artigos 13.º e 25.º, respetivamente.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+### Artigo 32.º — Reserva especial por lucros retidos e reinvestidos
+
+1 - Os sujeitos passivos que beneficiem da DLRR devem proceder à constituição, no balanço, de reserva especial correspondente ao montante dos lucros retidos e reinvestidos.
+
+2 - A reserva especial a que se refere o número anterior não pode ser utilizada para distribuição aos sócios antes do fim do quinto exercício posterior ao da sua constituição, sem prejuízo dos demais requisitos legais exigíveis.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+### Artigo 33.º — Outras obrigações acessórias
+
+1 - A dedução prevista no artigo 29.º é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente o montante dos lucros retidos e reinvestidos, as aplicações relevantes objeto de reinvestimento, o respetivo montante e outros elementos considerados relevantes.
+
+2 - A contabilidade dos sujeitos passivos de IRC beneficiários da DLRR deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 29.º, mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao exercício em que se efetua a dedução.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+### Artigo 34.º — Incumprimento
+
+Sem prejuízo do disposto no Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 15 de junho:
+
+a) A não concretização da totalidade do investimento nos termos previstos no artigo 30.º até ao termo do prazo de três anos previsto no n.º 1 do artigo 29.º implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente ao montante dos lucros não reinvestidos, ao qual é adicionado o montante de imposto a pagar relativo ao terceiro período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
+
+b) O incumprimento do disposto nos n.os 5, 6 ou 7 do artigo 30.º implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente aos ativos relativamente aos quais não seja exercida a opção de compra ou que sejam transmitidos antes de decorrido o prazo de cinco anos, o qual é adicionado ao montante de imposto a pagar relativo ao período em que se verifiquem esses factos, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
+
+c) A não constituição da reserva especial, nos termos do n.º 1 do artigo 32.º, implica a devolução do montante de imposto que deixou de ser liquidado, ao qual é adicionado o montante de imposto a pagar relativo ao terceiro período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
+
+d) O incumprimento do disposto no n.º 2 do artigo 32.º implica a devolução do montante de imposto que deixou de ser liquidado correspondente à parte da reserva que seja utilizada para distribuição aos sócios, ao qual é adicionado o montante de imposto a pagar relativo ao terceiro período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais.
+
+> Revogado pelo/a Artigo 281.º do/a Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 284.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+## Capítulo V — Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
+
+### Artigo 35.º — Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
+
+O SIFIDE II, a vigorar nos períodos de tributação de 2014 a 2026, processa-se nos termos dos artigos seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 170/2026 - Diário da República n.º 162/2026, Série I de 2026-08-21, em vigor a partir de 2026-08-22.
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+### Artigo 36.º — Definições
+
+Para efeitos do disposto no SIFIDE II, consideram-se:
+
+a) «Despesas de investigação», as realizadas pelo sujeito passivo de IRC com vista à aquisição de novos conhecimentos científicos ou técnicos;
+
+b) «Despesas de desenvolvimento», as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico.
+
+### Artigo 37.º — Aplicações relevantes
+
+1 - Consideram-se dedutíveis as seguintes categorias de despesas, desde que se refiram a atividades de investigação e desenvolvimento, tal como definidas no artigo anterior: a) Aquisições de ativos fixos tangíveis, à exceção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e na proporção da sua afetação à realização de atividades de investigação e desenvolvimento; b) Despesas com pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações, diretamente envolvido em tarefas de investigação e desenvolvimento; c) Despesas com a participação de dirigentes e quadros na gestão de instituições de investigação e desenvolvimento; d) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações diretamente envolvido em tarefas de investigação e desenvolvimento contabilizadas a título de remunerações, ordenados ou salários, respeitantes ao exercício; e) Despesas relativas à contratação de atividades de investigação e desenvolvimento junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida nos termos do artigo 37.º-A; f) Participação no capital de instituições de investigação e desenvolvimento, conforme definidas no Decreto-Lei n.º 63/2019, de 16 de maio, na sua redação atual, que estabelece o regime jurídico das instituições que se dedicam à investigação e desenvolvimento, ou em diploma que o venha a substituir; g) Custos com registo e manutenção de patentes; h) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de atividades de investigação e desenvolvimento; i) Despesas com auditorias à investigação e desenvolvimento; j) Despesas com ações de demonstração que decorram de projetos de investigação e desenvolvimento apoiados. 2 - Sem prejuízo do previsto na alínea e) do número anterior, não são consideradas quaisquer despesas incorridas no âmbito de projetos realizados exclusivamente por conta de terceiros, nomeadamente através de contratos e prestação de serviços de investigação e desenvolvimento. 3 - [Revogado.] 4 - As despesas referidas na alínea j) do n.º 1 apenas são elegíveis quando tenham sido previamente comunicadas à entidade referida no n.º 1 do artigo 40.º 5 - As despesas referidas na alínea b) do n.º 1, quando digam respeito a pessoal com habilitações literárias mínimas do nível 8 do Quadro Nacional de Qualificações, são consideradas em 120 % do seu quantitativo. 6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 120 %. 7 - (Revogado.); 8 - (Revogado.); 9 - [Revogado.] 10 - O disposto na alínea f) do n.º 1 não é aplicável às operações realizadas entre entidades com relações especiais nos termos do artigo 63.º do Código do IRC. 11 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 170/2026 - Diário da República n.º 162/2026, Série I de 2026-08-21, em vigor a partir de 2026-08-22.
+
+> Alterado pelo/a Artigo 10.º do/a Lei n.º 21/2023 - Diário da República n.º 101/2023, Série I de 2023-05-25, em vigor a partir de 2023-05-26, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 402.º do/a Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 301.º do/a Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31, em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 284.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 243.º do/a Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28, em vigor a partir de 2017-01-01
+
+> Nota: Artigo 12.º, Lei n.º 21/2023 - Diário da República n.º 101/2023, Série I de 2023-05-25 Aos investimentos elegíveis ao abrigo da alínea f) do n.º 1 do presente artigo, anteriores à data de entrada em vigor da Lei n.º 75-B/2020, de 31 de dezembro, são aplicáveis os prazos previstos na alínea c) do n.º 7 do artigo 38.º, na redação da presente lei, devendo estes ser contados desde a data de produção de efeitos da presente lei.
+
+### Artigo 37.º-A — Reconhecimento da idoneidade e do caráter de investigação e desenvolvimento das entidades
+
+1 - Cabe à Agência para a Investigação e Inovação, E. P. E., o reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento a que se refere a alínea e) do n.º 1 do artigo 37.º 2 - O reconhecimento da idoneidade da entidade, nos termos previstos no número anterior, é válido até ao segundo ou décimo segundo exercício seguinte àquele em que tenha sido requerido, em função do respetivo grau de maturidade organizacional em matéria de investigação e desenvolvimento, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia. 3 - O reconhecimento da idoneidade da entidade com a duração correspondente ao segundo exercício seguinte àquele em que tenha sido requerido só pode ser concedido uma única vez a cada entidade. 4 - As entidades cuja idoneidade tenha sido reconhecida há mais de oito anos são objeto de uma reavaliação oficiosa, por parte da entidade referida no n.º 1, destinada a verificar a manutenção dos pressupostos que determinaram o reconhecimento. 5 - Caso tais pressupostos se mantenham, o reconhecimento permanece válido até ao termo do respetivo prazo, caso contrário, o reconhecimento cessa, sendo a entidade cuja idoneidade se avalia ouvida previamente à cessação. 6 - A cessação do reconhecimento da idoneidade referida no número anterior, bem como o termo do prazo de validade do reconhecimento concedido com a duração correspondente ao segundo exercício seguinte àquele em que tenha sido requerido, não obsta a que a entidade apresente novo pedido, nos termos do presente artigo, ficando a consideração das despesas enquadráveis na categoria prevista na alínea e) do n.º 1 do artigo 37.º dependente do novo reconhecimento. 7 - Os sujeitos passivos de IRC apenas poderão incluir nas suas candidaturas despesas enquadráveis na categoria prevista na alínea e) do n.º 1 do artigo 37.º quando o pedido aí referido tenha sido apresentado em data anterior à celebração do primeiro contrato com a entidade em causa, devendo desse facto fazer menção na sua candidatura. 8 - A consideração das despesas referidas no número anterior ficará condicionada à emissão da declaração de reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento. 9 - (Revogado). 10 - (Revogado). 11 - O reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento previsto no presente artigo é regulado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 170/2026 - Diário da República n.º 162/2026, Série I de 2026-08-21, em vigor a partir de 2026-08-22.
+
+> Alterado pelo/a Artigo 10.º do/a Lei n.º 21/2023 - Diário da República n.º 101/2023, Série I de 2023-05-25, em vigor a partir de 2023-05-26, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 301.º do/a Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31, em vigor a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 285.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+### Artigo 38.º — Âmbito da dedução
+
+1 - Os sujeitos passivos de IRC residentes em território português que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante da coleta do IRC apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2014 e 31 de dezembro de 2026, numa dupla percentagem: a) Taxa de base - 32,5 % das despesas realizadas naquele período; b) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de (euro) 1 500 000,00. 2 - Para os sujeitos passivos de IRC que se enquadrem na categoria das micro, pequenas ou médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, que ainda não completaram dois exercícios e que não beneficiaram da taxa incremental fixada na alínea b) do número anterior, aplica-se uma majoração de 15 % à taxa base fixada na alínea a) do número anterior. 3 - A dedução a que se refere o presente artigo: a) Efetua-se, nos termos do artigo 90.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no n.º 1; b) Quando seja aplicável o regime especial de tributação dos grupos de sociedades, a taxa incremental e o limite previstos na alínea b) do n.º 1 e a majoração prevista no número anterior, aplicam-se ao acréscimo da soma das despesas das sociedades que integram o grupo. 4 - As despesas que, por insuficiência de coleta, não possam ser deduzidas no período em que foram realizadas podem ser deduzidas até ao décimo segundo período seguinte. 5 - Para efeitos do disposto nos números anteriores, quando no ano de início de fruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano. 6 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais. 7 - [Revogado.] 8 - [Revogado.] 9 - O disposto na alínea b) do n.º 1 não é aplicável às despesas previstas na alínea f) do n.º 1 do artigo 37.º 10 - Os sujeitos passivos de IRC não podem beneficiar da dedução a que se refere o n.º 1, quando estejam em causa aplicações relevantes no âmbito de atividades de investigação e desenvolvimento financiadas, direta ou indiretamente, por fundos de investimento no âmbito do SIFIDE II ou através de outros apoios públicos provenientes de fundos nacionais ou internacionais. 11 - Para efeitos do disposto no número anterior, as entidades participantes devem, até ao final do mês seguinte ao da entrega da declaração a que se refere o artigo 120.º do Código do IRC, informar, no caso de participação no capital de instituições de investigação e desenvolvimento, as empresas participadas, de que beneficiam do SIFIDE II relativamente ao montante aplicado nos termos da alínea f) do n.º 1 do artigo 37.º 12 - A ausência da comunicação referida no número anterior determina a impossibilidade de dedução dos montantes aplicados nos termos da alínea f) do n.º 1 do artigo 37.º
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 170/2026 - Diário da República n.º 162/2026, Série I de 2026-08-21, em vigor a partir de 2026-08-22.
+
+> Alterado pelo/a Artigo 10.º do/a Lei n.º 21/2023 - Diário da República n.º 101/2023, Série I de 2023-05-25, em vigor a partir de 2023-05-26, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 402.º do/a Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Retificado pelo/a Declaração de Retificação n.º 49/2014 - Diário da República n.º 232/2014, Série I de 2014-12-01
+
+> Nota: Artigo 7.º, Decreto-Lei n.º 170/2026 - Diário da República n.º 162/2026, Série I de 2026-08-21 O disposto n.º 3 do presente artigo, na redação conferida pelo Decreto-Lei n.º 170/2026, de 21 de agosto, aplica-se aos períodos de tributação que se iniciem em ou após 1 de janeiro de 2026.
+
+### Artigo 39.º — Condições
+
+Apenas podem beneficiar da dedução a que se refere o artigo anterior os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:
+
+a) O seu lucro tributável não seja determinado por métodos indiretos;
+
+b) Não sejam devedores ao Estado e à segurança social de quaisquer contribuições, impostos ou quotizações, ou tenham o seu pagamento devidamente assegurado.
+
+### Artigo 40.º — Obrigações acessórias
+
+1 - A dedução a que se refere o artigo 38.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou prova da apresentação do pedido de emissão dessa declaração, de que as atividades exercidas ou a exercer correspondem efetivamente a ações de investigação ou desenvolvimento, dos respetivos montantes envolvidos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida pela Agência para a Investigação e Inovação, E. P. E., no âmbito do sistema de incentivos fiscais em investigação e desenvolvimento empresarial, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 130.º do Código do IRC. 2 - No processo de documentação fiscal do sujeito passivo deve igualmente constar documento que evidencie o cálculo do benefício fiscal, bem como documento comprovativo de que se encontra preenchida a condição referida na alínea b) do artigo anterior. 3 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo devem submeter as candidaturas até ao final do 5.º mês do ano seguinte ao do exercício, não sendo aceites candidaturas referentes a anos anteriores a esse período de tributação. 4 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo devem disponibilizar atempadamente as informações solicitadas pela entidade referida no n.º 1 e aceitar submeter-se às auditorias tecnológicas que vierem a ser determinadas, de modo a aferir o cumprimento das condições da concessão do incentivo, qualquer que seja a sua natureza. 5 - A Agência para a Investigação e Inovação, E. P. E., comunica, por via eletrónica, à AT, até ao fim do mês de fevereiro de cada ano, a identificação dos beneficiários e do montante das despesas consideradas elegíveis reportadas ao ano anterior ao da comunicação, discriminando os beneficiários e o montante das despesas majoradas nos termos do n.º 6 do artigo 37.º, com projetos validados pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.), nos termos do n.º 8. 6 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo podem ser submetidas a uma auditoria tecnológica pela entidade referida no n.º 1. 7 - A declaração comprovativa prevista no n.º 1 constitui uma decisão administrativa para efeitos do disposto no n.º 3 do artigo 122.º do Código do IRC. 8 - Para efeitos de aplicação da majoração prevista no n.º 6 do artigo 37.º: a) As entidades interessadas devem apresentar à Agência para a Investigação e Inovação, E. P. E., a sua candidatura com os elementos que permitam verificar que a despesa a certificar respeita a projetos de conceção ecológica de produtos, incluindo reconhecimentos ou certificações já existentes que atestem essa natureza; b) A Agência para a Investigação e Inovação, E. P. E., remete à APA, I. P., nos 15 dias úteis após o termo do prazo para submissão das candidaturas, os elementos a que se refere a alínea anterior, para que esta possa emitir parecer vinculativo; c) A APA, I. P., comunica à Agência para a Investigação e Inovação, E. P. E., o teor do seu parecer vinculativo até 15 de novembro. 9 - (Revogado). 10 - (Revogado). 11 - As entidades beneficiadas pelo SIFIDE comprometem-se a comunicar anualmente, no prazo de dois meses após o encerramento de cada exercício, à Agência para a Investigação e Inovação, E. P. E., através de mapa de indicadores a disponibilizar por esta, os resultados das atividades apoiadas pelo incentivo fiscal concedido, durante os cinco anos seguintes à aprovação do mesmo. 12 - [Revogado.] 13 - [Revogado.] 14 - A Agência para a Investigação e Inovação, E. P. E., pode, nos termos do n.º 4, solicitar às entidades interessadas a apresentação de declaração emitida por contabilista certificado que ateste a existência das despesas apresentadas, a sua regularidade contabilística e o respetivo pagamento, bem como que confirme que as mesmas não foram financiadas, direta ou indiretamente, por fundos de investimento no âmbito do SIFIDE II ou através de outros apoios públicos provenientes de fundos nacionais ou internacionais. 15 - Sem prejuízo do disposto no número anterior, compete exclusivamente à Agência para a Investigação e Inovação, E. P. E., proceder à validação das aplicações relevantes previstas no n.º 1 do artigo 37.º, não podendo ser atribuída aos contabilistas certificados qualquer responsabilidade, declarativa ou outra, sobre a correspondência das despesas com investigação e desenvolvimento ou inovação produtiva. 16 - A Agência para a Investigação e Inovação, E. P. E., elabora anualmente um relatório com indicadores de execução financeira, intensidade de investigação e desenvolvimento das empresas, produtividade setorial, participação em programas europeus e evolução das exportações de maior valor acrescentado, o qual é publicado durante o primeiro semestre do ano subsequente àquele a que respeita.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 170/2026 - Diário da República n.º 162/2026, Série I de 2026-08-21, em vigor a partir de 2026-08-22.
+
+> Alterado pelo/a Artigo 402.º do/a Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 359.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 301.º do/a Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31, em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 284.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 243.º do/a Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28, em vigor a partir de 2017-01-01
+
+### Artigo 41.º — Obrigações contabilísticas
+
+A contabilidade dos sujeitos passivos de IRC beneficiários deste regime deve dar expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 38.º mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao exercício em que se efetua a dedução.
+
+### Artigo 42.º — Exclusividade do benefício
+
+A dedução a que se refere o artigo 38.º não é cumulável, relativamente às mesmas despesas, com benefícios fiscais da mesma natureza, incluindo os benefícios fiscais de natureza contratual, previstos neste ou noutros diplomas legais.
+
+## Capítulo VI — Limites máximos aplicáveis aos auxílios estatais com finalidade regional
+
+### Artigo 43.º — Limites máximos aplicáveis aos auxílios estatais com finalidade regional
+
+1 - Em conformidade com o mapa nacional de auxílios estatais com finalidade regional para o período de 1 de janeiro de 2022 a 31 de dezembro de 2027, aprovado pela Comissão Europeia em 8 de fevereiro de 2022, os limites máximos aplicáveis aos benefícios fiscais concedidos às empresas no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo e do RFAI são os seguintes:
+
+(ver documento original)
+
+2 - Os limites previstos no número anterior são majorados em 10 pontos percentuais para as médias empresas e em 20 pontos percentuais para as micro e pequenas empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, exceto quanto a projetos de investimento cujas aplicações relevantes excedam (euro) 50 000 000,00.
+
+3 - No caso de projetos de investimento cujas aplicações relevantes excedam 50 000 000 (euro), independentemente da dimensão da empresa, os limites previstos no n.º 1 estão sujeitos ao ajustamento em conformidade com o n.º 3 do ponto 19 das OAR.
+
+> Alterado pelo/a Artigo 306.º do/a Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27, em vigor a partir de 2022-06-28, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 21/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20, em vigor a partir de 2021-04-21

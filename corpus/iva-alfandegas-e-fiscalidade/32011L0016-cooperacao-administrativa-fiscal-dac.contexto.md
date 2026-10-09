@@ -14,10 +14,10 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2013-05-10 — Decreto-Lei n.º 61/2013. D.R. n.º 90, Série I de 2013-05-10 Ministério das Finanças No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, transpõe a Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa no domínio da fiscalidade e que revoga a Diretiva n.º 77/799/CEE, do Conselho, de 19 de dezembro de 1977 (CELEX 72011L0016PRT_204058)
-- 2013-05-10 — DECRETO-LEI N.º 61/2013 - DIÁRIO DA REPÚBLICA N.º 90/2013, SÉRIE I DE 2013-05-10 Ato da Série I Ministério das Finanças No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, transpõe a Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa no domínio da fiscalidade e que revoga a Diretiva n.º 77/799/CEE, do Conselho, de 19 de dezembro de 1977 (CELEX 72011L0016PRT_223480)
+- 2013-05-10 — Decreto-Lei n.º 61/2013. D.R. n.º 90, Série I de 2013-05-10 Ministério das Finanças No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, transpõe a Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa no domínio da fiscalidade e que revoga a Diretiva n.º 77/799/CEE, do Conselho, de 19 de dezembro de 1977 (CELEX 72011L0016PRT_204058) → texto: [`legislacao-pt/decreto-lei-61-2013.md`](../../legislacao-pt/decreto-lei-61-2013.md) (consolidado (DRE))
+- 2013-05-10 — DECRETO-LEI N.º 61/2013 - DIÁRIO DA REPÚBLICA N.º 90/2013, SÉRIE I DE 2013-05-10 Ato da Série I Ministério das Finanças No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, transpõe a Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa no domínio da fiscalidade e que revoga a Diretiva n.º 77/799/CEE, do Conselho, de 19 de dezembro de 1977 (CELEX 72011L0016PRT_223480) → texto: [`legislacao-pt/decreto-lei-61-2013.md`](../../legislacao-pt/decreto-lei-61-2013.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (5)
 

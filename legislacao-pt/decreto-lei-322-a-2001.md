@@ -1,0 +1,2289 @@
+---
+diploma: Decreto-Lei n.º 322-A/2001
+tipo: Decreto-Lei
+numero: 322-A/2001
+data_publicacao: '2001-12-14'
+sumario: Aprova o Regulamento Emolumentar dos Registos e Notariado
+texto: consolidado (DRE)
+versao_consolidada_de: '2026-08-19'
+transpoe:
+- 32015L0849
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34475775
+eli: https://data.dre.pt/eli/dec-lei/322-a/2001/p/cons/20260819/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-09'
+---
+
+# Decreto-Lei n.º 322-A/2001
+
+**Sumário:** Aprova o Regulamento Emolumentar dos Registos e Notariado
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2026-08-19. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34475775
+
+## Texto
+
+A reforma da tributação emolumentar corporizada na criação do Regulamento Emolumentar dos Registos e Notariado foi regida pelos objectivos de simplificação e codificação dos emolumentos dos registos e notariado, construção de um sistema de gestão da receita emolumentar e adaptação da tributação emolumentar à jurisprudência do Tribunal de Justiça das Comunidades Europeias relativa à directiva sobre reunião de capitais.
+
+O novo ambiente globalizado regido por padrões de eficiência na acção dos agentes obriga que o Estado proceda a uma redução dos padrões de complexidade do tráfego jurídico, sob pena da inviabilização dos esforços dos sujeitos de aumentar os seus padrões de competitividade. Esse esforço constitui uma verdadeira obrigação dos entes públicos perante os administrados, quer revistam uma natureza comercial quer consistam em simples cidadãos individualmente considerados.
+
+O presente Regulamento Emolumentar, ao corporizar uma verdadeira codificação nesta matéria, vem ao encontro das preocupações de simplificação e sistematização, tornando mais transparente o regime emolumentar dos registos e notariado, que passa a revestir a natureza de decreto-lei. O aumento da dignidade do instrumento legislativo de suporte possibilita uma maior transparência e publicidade na aplicação do regime, essencial para a boa aceitação do tributo pelos administrados e para a parificação da tributação emolumentar em relação às restantes taxas existentes no ordenamento jurídico nacional.
+
+O movimento de codificação que foi efectuado permitiu, pela primeira vez, a construção de uma verdadeira lógica sistemática entre os diferentes tipos de tributação, bem como coerência interna intrínseca. Até hoje, os diferentes tipos emolumentares, no seguimento de uma lógica corporativa ancestral e que fundamentou o aparecimento da função no Norte da Europa, evoluíam lado a lado, porém, sem uma coerência intrínseca, essencial para um correcto desempenho da função, que só é justificada se analisada e aplicada de uma forma compreensiva e coordenada.
+
+Esse esforço de codificação justifica a aprovação de um único regulamento emolumentar abarcando todos os regimes anteriormente tratados de uma forma desconexa e autónoma.
+
+O Regulamento Emolumentar dos Registos e Notariado foi organizado em três capítulos.
+
+O primeiro capítulo contém os princípios e normas gerais de interpretação aplicáveis a todas as rubricas subsequentes. É absolutamente inovador e introduz um elevado grau de coerência na aplicação de todos os tipos de tributação subsequentes. Salientam-se os seguintes aspectos:
+
+i) Definição do âmbito de incidência subjectiva - refere-se que estão sujeitos a tributação emolumentar o Estado, as Regiões Autónomas, as autarquias locais, os fundos e serviços autónomos e as entidades que integrem o sector empresarial do Estado, das Regiões Autónomas e das autarquias locais, bem como as pessoas singulares ou colectivas de direito privado, independentemente da forma jurídica de que se revistam. Assim, todas as situações de privilégio não justificadas terminaram, numa lógica de eficiência acrescida, no exercício da actividade pública;
+
+ii) Estabelecimento de uma norma de proporcionalidade - sendo a função notarial e registral assente numa base prestacional, constitui elemento essencial na construção de todo o edifício tributário o estabelecimento de uma regra de proporcionalidade. Nestes termos, a tributação emolumentar constituirá a retribuição dos actos praticados e será calculada com base no custo efectivo do serviço prestado, tendo em consideração a natureza dos actos, a sua complexidade e o valor da sua utilidade económico-social;
+
+iii) Reforma do sistema de isenções e reduções emolumentares - tendo em consideração a situação de total descontrolo e indisciplina ao nível das isenções, fruto de anos de legislação extravagante que previa situações de privilégio de uma forma não sistemática e, por vezes, com justificação duvidosa, atentando, de uma forma gravíssima, o princípio da igualdade. Perante esta situação de facto, prevê-se na actual proposta a revogação de todas as isenções ou reduções anteriormente previstas, com excepção das isenções ou reduções de carácter estrutural, e propõe-se o sistema de inclusão de todas as novas isenções no diploma, de forma a melhorar o controlo e a sua aplicação.
+
+O segundo capítulo vem estabelecer as normas gerais de aplicação, bem como regular, em termos substanciais, os diferentes tipos de actividade notarial e registral, tendo em consideração as suas especialidades e lógica próprias. Apesar de se ter efectuado um enorme esforço de uniformização de procedimentos e de conceitos, não foi possível, ainda, atingir o movimento de uniformização desejável. Porém, tal será possível através da prática de aplicação do novo Regulamento, que, pela primeira vez, foi construído numa lógica de corpo único, e não como portaria retalhada e totalmente segmentada.
+
+Por sua vez, o terceiro capítulo contém o tabelamento dos actos. Foi dividido em secções, considerando os diversos tipos tributários. Assim, a primeira secção diz respeito ao registo civil e nacionalidade, a segunda ao notariado, a terceira ao registo predial, a quarta ao registo comercial, a quinta ao Registo Nacional de Pessoas Colectivas, a sexta ao registo de navios, a sétima ao registo de automóveis, a oitava a identificação civil, e, depois, mais duas outras secções residuais, relativas aos emolumentos comuns, e a décima às isenções, tendo esta última por escopo a codificação de todas as isenções futuras, sendo o local próprio para a sua inclusão ao longo do tempo.
+
+Os tipos tributários presentes neste terceiro capítulo resultam de um enorme esforço de simplificação das rubricas e de criação de novas formas de tributação adaptadas às novas realidades. Tendo como base o trabalho desenvolvido pelo conselho técnico, ressalta, em termos essenciais, a nova consistência lógica impressa no sistema de tributação, que só por isso o torna mais transparente e eficiente.
+
+Uma das principais dificuldades na elaboração do novo Regulamento Emolumentar baseou-se na inexistência de uma informação sistemática relativamente ao montante de receita de cada um dos tipos tributários. De facto, os únicos elementos disponíveis resultavam do cruzamento das estatísticas dos registos e notariado do Gabinete de Política Legislativa do Ministério da Justiça (que contém apenas o número de actos numa discriminação excessivamente agregada) com os reportes de receita efectuados pelos cartórios e registos ao Instituto de Gestão Financeira e Patrimonial da Justiça (em termos líquidos e totalmente agregados). Só após um esforço de consolidação total de todos os reportes, expurgando-se os elementos distorcivos presentes, se conseguiu uma visão mais ou menos próxima do produto de cada uma das rubricas.
+
+Foi então possível desenvolver o trabalho de apuramento do custo efectivo de cada acto notarial e registral, base de construção de nova tabela, de acordo com o princípio de proporcionalidade.
+
+Ora, o presente Regulamento Emolumentar foi organizado numericamente (v. capítulo III) de forma a permitir uma avaliação on time da proveniência dos fluxos de receita, o que possibilitará, pela primeira vez, uma verdadeira gestão do tributo.
+
+Este novo sistema permitirá, pois, a actualização atempada dos montantes das taxas previstos, garantindo a proporcionalidade da tributação pela sistemática e permanente actualização dos tipos de receita relativamente aos fluxos de despesa verificados ano a ano, bem como a avaliação da receita cessante derivada da existência de isenções ou reduções emolumentares.
+
+A adaptação da tributação emolumentar à jurisprudência do Tribunal de Justiça das Comunidades Europeias (TJCE) relativa à Directiva n.º 65/335/CEE, sobre reunião de capitais, foi o motivo que despoletou todo este esforço de reforma. Porém, como se pode verificar pelo que foi referido anteriormente, o resultado desta reforma ultrapassou em muito este intuito inicial.
+
+Ora, no presente Regulamento Emolumentar não se referem quaisquer taxas proporcionais, atentatórias, segundo o TJCE, do carácter remuneratório do tributo, e todas as taxas específicas foram calculadas de acordo com os critérios objectivos sucessivamente emanados pelo Tribunal na sua jurisprudência recente. Não se prevê, igualmente, qualquer elemento de solidariedade entre empresas ou quaisquer outros sujeitos passivos, baseando-se os escalões existentes simplesmente em reduções de taxas de remuneração de determinados serviços, que ficam assim abaixo do custo, tendo em consideração a reduzida capacidade contributiva de alguns sujeitos. Nestes termos, a solidariedade entre sujeitos não é alcançada pela oneração em excesso dos sujeitos que revelam superior capacidade tributária mas pela redução da imposição aos que revelam menos capacidade, sem compensação em qualquer oneração suplementar dos restantes.
+
+Finalmente, tendo em consideração a existência de um núcleo básico de elementos de cidadania, não fazia sentido que o Estado viesse a tributar situações que, aí contidas, decorriam de actos não voluntários.
+
+Esta tributação existente até agora fundava-se, pois, numa postura errada de tributação de funções que se inserem no fundamento básico prestacional por parte do Estado, onde, em tese, nem sequer existe um serviço público susceptível de remuneração, tanto mais que os actos revestem um carácter não voluntário, encontrando-se o sujeito numa posição de mera sujeição de que o Estado não se pode aproveitar, sob pena de negação de todos os princípios subjacentes ao Estado social de direito.
+
+Dessa forma, foi efectuada a opção de total gratuitidade relativamente aos actos do registo civil que revestem um carácter não voluntário. Esse encargo é, pois, sustentado, na íntegra, pelo Estado, não sendo sequer repercutido nos outros tipos tributários.
+
+Finalmente, tendo em consideração que o princípio básico adoptado é o princípio da correspondência ao custo efectivo e tendo em consideração o processo de informatização dos registos e notariado em curso, que será concluído no final de 2002, prevê-se que o presente Regulamento Emolumentar será sujeito a uma revisão bianual em função das variações da despesa efectiva decorrentes de análises de custos.
+
+Assim:
+
+No uso da autorização legislativa concedida ao Governo pelo n.º 2 do artigo 10.º da Lei n.º 85/2001, de 4 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+> Alterado pelo/a Artigo 28.º do/a Decreto-Lei n.º 178-A/2005 - Diário da República n.º 208/2005, Suplemento n.º 1, Série I-A de 2005-10-28, em vigor a partir de 2005-10-31
+
+> Alterado pelo/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Alterado pelo/a Decreto-Lei n.º 199/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-08-23
+
+> Alterado pelo/a Artigo 13.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+> Alterado pelo/a Declaração de Rectificação n.º 11-I/2003 - Diário da República n.º 226/2003, Suplemento n.º 1, Série I-A de 2003-09-30, em vigor a partir de 2003-08-22
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 76.º do/a Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30, em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 315/2002 - Diário da República n.º 299/2002, Série I-A de 2002-12-27, em vigor a partir de 2002-09-01
+
+### Artigo 1.º — Aprovação do Regulamento Emolumentar dos Registos e Notariado
+
+É aprovado o Regulamento Emolumentar dos Registos e Notariado, que faz parte integrante do presente decreto-lei.
+
+### Artigo 2.º — Norma revogatória
+
+1 - São revogados:
+
+a) O Decreto-Lei n.º 171/91, de 10 de Maio;
+
+b) A Portaria n.º 996/98, de 25 de Novembro, excepto nas disposições relativas aos emolumentos pessoais e respectivas regras de distribuição;
+
+c) A Portaria n.º 709/2000, de 4 de Setembro;
+
+d) A Portaria n.º 942/93, de 27 de Setembro;
+
+e) Os artigos 300.º e 301.º do Código do Registo Civil;
+
+f) O artigo 20.º da Lei n.º 37/81, de 3 de Outubro (Lei da Nacionalidade);
+
+g) O n.º 1 do artigo 191.º do Código do Notariado;
+
+h) Os n.os 1 e 2 do artigo 152.º do Código do Registo Predial;
+
+i) O artigo 45.º da Lei n.º 33/99, de 18 de Maio (Lei de Identificação Civil);
+
+j) O n.º 3 do artigo 164.º do Código do Notariado.
+
+2 - São ainda revogadas todas as outras normas que prevejam isenções ou reduções emolumentares relativamente a actos praticados nos serviços dos registos e do notariado, com excepção das previstas no Decreto-Lei n.º 404/90, de 21 de Dezembro.
+
+3 - O disposto no número anterior não abrange as isenções ou reduções emolumentares de que beneficiam os actos inseridos:
+
+a) No regime das contas poupança-habitação;
+
+b) No regime da Zona Franca da Madeira e Santa Maria;
+
+c) Nos processos especiais de recuperação de empresas;
+
+d) Nas operações de emparcelamento.
+
+4 - Para efeitos do disposto no artigo 4.º do Regulamento Emolumentar, aprovado pelo presente diploma, considera-se que as isenções e reduções previstas no número anterior têm carácter estrutural.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 40.º do/a Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30, em vigor a partir de 2003-01-01
+
+### Artigo 3.º — Identificação civil
+
+As normas respeitantes à identificação civil são aplicadas independentemente da integração dos serviços de identificação civil no registo civil.
+
+### Artigo 4.º — Emolumentos pessoais
+
+Para efeitos do disposto no n.º 1 do artigo 9.º do Regulamento Emolumentar dos Registos e Notariado, são mantidas em vigor as normas sobre emolumentos pessoais, bem como as regras relativas à sua distribuição, constantes das anteriores tabelas emolumentares, aplicáveis com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 5.º — Revisão
+
+1 - O Regulamento Emolumentar será sujeito a uma revisão bianual em função das variações da despesa efectiva decorrentes de análises de custos.
+
+2 - O valor das taxas e emolumentos, incluindo os comuns, aplicáveis aos actos de registo civil e de nacionalidade, de identificação civil, do notariado, do registo nacional de pessoas colectivas e de registo predial, comercial, de navios e de automóveis é fixado por portaria do membro do Governo responsável pela área da Justiça, atendendo ao princípio da proporcionalidade.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+### Artigo 6.º — Entrada em vigor
+
+O presente diploma entra em vigor em 1 de Janeiro de 2002.
+
+> Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 7.º — Isenções e reduções emolumentares
+
+1 - As isenções ou reduções emolumentares que venham a ser criadas após a entrada em vigor do Regulamento Emolumentar deverão ser inseridas no seu artigo 28.º
+
+2 - Sempre que sobre o mesmo facto incida mais de uma redução emolumentar é aplicável a que for mais favorável.
+
+3 - Mediante protocolo com o IRN, I. P., podem ser estabelecidos montantes e formas de pagamento específicos para pedidos de certidão.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 8.º — Actos gratuitos
+
+1 - São gratuitas as certidões, fotocópias, informações e outros documentos de caráter probatório, bem como o acesso e consultas a bases de dados, solicitadas pela Direção-Geral dos Impostos, por entidades judiciais, bem como por entidades que prossigam fins de investigação criminal. 2 - É gratuito o acesso às bases de dados registrais e de identificação civil por parte das pessoas colectivas públicas que integrem o sistema estatístico nacional, com a finalidade de recolha de informação estatística. 3 - (Revogado.) 4 - É gratuito o acesso pela Comissão da Liberdade Religiosa à base de dados do registo de pessoas colectivas religiosas, efectuado nos termos previstos no respectivo regime. 5 - É gratuito o acesso pela autoridade eclesiástica proponente à base de dados do registo de pessoas jurídicas canónicas. 6 - É gratuito o reconhecimento presencial de assinatura efetuado em declarações ou requerimentos para fins de atribuição da nacionalidade portuguesa. 7 - É gratuito o acesso pela Comissão de Proteção às Vítimas de Crimes às bases de dados de registos, para os efeitos previstos no artigo 13.º da Lei n.º 104/2009, de 14 de setembro.
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19, em vigor a partir de 2026-08-24.
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 19/2015 - Diário da República n.º 23/2015, Série I de 2015-02-03, em vigor a partir de 2015-06-04
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22, produz efeitos a partir de 2009-03-31
+
+> Alterado pelo/a Artigo 32.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 10.º do/a Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28, em vigor a partir de 2007-09-29
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 237-A/2006 - Diário da República n.º 239/2006, 1º Suplemento, Série I de 2006-12-14, em vigor a partir de 2006-12-13
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 9.º — Aplicação da lei no tempo
+
+1 - O Regulamento Emolumentar aplica-se a todos os actos requeridos após a sua entrada em vigor.
+
+2 - Para efeitos do número anterior, nos casos de pedidos de actos apresentados por intermédio dos notários, nos termos do Decreto-Lei n.º 267/93, de 31 de Julho, é considerado pedido formal do interessado o apresentado pelo notário no serviço competente.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - António Luís Santos Costa - Eduardo Guimarães de Oliveira Fernandes.
+
+Promulgado em 28 de Novembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Novembro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — REGULAMENTO EMOLUMENTAR DOS REGISTOS E NOTARIADO
+
+## Capítulo I — Princípios e normas gerais de interpretação
+
+### Artigo 1.º — Tributação emolumentar
+
+1 - Os actos praticados nos serviços dos registos e do notariado estão sujeitos a tributação emolumentar, nos termos fixados na tabela anexa, sem prejuízo dos casos de gratuitidade, isenção ou redução previstos no presente diploma.
+
+2 - As isenções e reduções emolumentares estabelecidas na lei não abrangem a participação emolumentar e os emolumentos pessoais devidos aos conservadores, notários e oficiais dos registos e do notariado pela sua intervenção nos actos.
+
+### Artigo 2.º — Incidência subjectiva
+
+Estão sujeitos a tributação emolumentar todas as pessoas singulares, bem como todas as pessoas coletivas, independentemente da natureza ou forma jurídica que revistam, designadamente o Estado, as Regiões Autónomas, as autarquias locais, os fundos e serviços autónomos e as entidades que integrem o sector empresarial do Estado, das Regiões Autónomas e das autarquias locais.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+### Artigo 3.º — Proporcionalidade
+
+A tributação emolumentar constitui a retribuição dos actos praticados e é calculada com base no custo efectivo do serviço prestado, tendo em consideração a natureza dos actos e a sua complexidade.
+
+### Artigo 4.º — Isenções e reduções emolumentares
+
+As normas que prevêem isenções ou reduções emolumentares vigoram por um período de quatro anos, se não tiverem previsto outro mais curto, salvo quando, tendo em consideração a sua natureza, lhes seja atribuído um carácter estrutural.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 5.º — Interpretação e integração de lacunas
+
+1 - As disposições tabelares não admitem interpretação extensiva nem integração analógica.
+
+2 - Em caso de dúvida sobre o emolumento devido, cobrar-se-á sempre o menor.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 6.º — Publicidade
+
+As tabelas emolumentares devem ser afixadas nos serviços em local visível e acessível à generalidade dos utentes.
+
+## Capítulo II
+
+## Secção I — Normas gerais de aplicação
+
+### Artigo 7.º — Actos com valor representado em moeda sem curso legal
+
+Sempre que o acto seja representado em moeda sem curso legal em Portugal, os emolumentos são calculados segundo o último câmbio oficial publicado à data da feitura do acto.
+
+### Artigo 8.º — Preparos
+
+1 - Os conservadores e notários podem exigir, a título de preparo, o pagamento antecipado do custo provável dos actos a praticar nos respectivos serviços.
+
+2 - Os emolumentos e taxas devidos por actos de registo e procedimentos realizados nos balcões criados ao abrigo do n.º 5 do artigo 26.º do Decreto-Lei n.º 116/2008, de 4 de Julho, são facturados de forma agrupada no final de cada operação especial de registo.
+
+> Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22, produz efeitos a partir de 2009-03-31
+
+### Artigo 9.º — Emolumentos pessoais e outros encargos
+
+1 - Para além dos emolumentos devidos pela prática dos actos, os conservadores e notários podem ainda cobrar emolumentos pessoais destinados a remunerar o seu estudo e preparação, em função do grau de complexidade, bem como a realização dos actos fora das instalações do serviço ou fora das horas regulamentares.
+
+2 - Aos encargos previstos no número anterior acresce o reembolso das despesas comprovadamente efectuadas pelos funcionários, imprescindíveis à prática dos actos, com excepção das despesas de correio e de outras a definir por despacho do director-geral dos Registos e do Notariado.
+
+3 - Os encargos referidos nos números anteriores que sejam eventualmente devidos pela prática de actos previstos neste decreto-lei são pagos pelo Instituto dos Registos e do Notariado (IRN, I. P.)
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 29.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28, em vigor a partir de 2007-09-29
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção II — Actos de registo civil e da nacionalidade
+
+### Artigo 10.º — Actos gratuitos
+
+1 - São gratuitos os seguintes actos e processos:
+
+a) Assento de nascimento ocorrido em território português ou em unidade de saúde no estrangeiro, ao abrigo de protocolo celebrado com o Estado Português;
+
+b) Assento de declaração de maternidade ou de perfilhação;
+
+c) Assento de casamento civil ou católico urgente;
+
+d) Assento de óbito ou depósito do certificado médico de morte fetal;
+
+e) (Revogada.)
+
+f) Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira;
+
+g) Declaração, atributiva da nacionalidade portuguesa, para inscrição de nascimento ocorrido no estrangeiro, ou declaração para fins de atribuição da referida nacionalidade, desde que referentes a menor;
+
+h) Assento de nascimento ocorrido no estrangeiro, atributivo da nacionalidade portuguesa, ou registo de atribuição da referida nacionalidade, desde que referentes a menor;
+
+i) Declaração para aquisição da nacionalidade, nos termos dos artigos 30.º e 31.º da Lei n.º 37/81, de 3 de Outubro;
+
+j) Registo da declaração para aquisição da nacionalidade, nos termos dos artigos referidos na alínea anterior, e registos oficiosos lavrados nos termos do artigo 33.º da Lei n.º 37/81, de 3 de Outubro, bem como os procedimentos e documentos necessários para uns e outros;
+
+l) Assento de transcrição de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português;
+
+m) Assento de transcrição ou integração de actos de registo lavrados pelos órgãos especiais do registo civil;
+
+n) Registo previsto no n.º 1 do artigo 1.º de Decreto-Lei n.º 249/77, de 14 de Junho, bem como os documentos e processos a ele respeitantes;
+
+o) Assentos de factos obrigatoriamente sujeitos a registo requeridos pelas autoridades judiciais, quando os respectivos encargos não puderem ser cobrados em regra de custas;
+
+p) Reconstituição de acto ou processo;
+
+q) Processo de impedimento do casamento;
+
+r) Processo de sanação da anulabilidade do casamento por falta de testemunhas;
+
+s) Certidões a que se referem o n.º 2 do artigo 189.º, a alínea g) do n.º 1 do artigo 210.º-F, os n.os 5 a 7 do artigo 215.º e a alínea e) do n.º 1 do artigo 272.º-B do Código do Registo Civil;
+
+t) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no Código do Registo Civil, no Regulamento da Nacionalidade Portuguesa e em legislação avulsa aplicável ao registo civil e da nacionalidade e que não devam entrar em regra de custas;
+
+u) Certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais;
+
+v) (Revogada.)
+
+x) Certidões requeridas para instrução de processo de adopção;
+
+z) Certidões requeridas pelos tribunais, sinistrados ou seus familiares para instrução de processo emergente de acidente de trabalho;
+
+aa) Assentos, certidões ou quaisquer outros actos ou documentos que tenham de ser renovados, substituídos ou rectificados, em consequência de os anteriores se mostrarem afectados de vício, irregularidade ou deficiência imputáveis aos serviços;
+
+ab) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março.
+
+ac) Procedimento de aquisição de nacionalidade a quem foi identificado como português por erro imputável à administração.
+
+ad) Procedimento de mudança da menção do sexo no registo civil e da consequente alteração de nome próprio.
+
+2 - São, ainda, gratuitos os actos de registo e os documentos necessários à instrução dos processos de atribuição do estatuto de igualdade luso-brasileiro contido no Tratado de Amizade, Cooperação e Consulta, de 22 de Abril de 2000.
+
+3 - Beneficiam ainda de gratuitidade dos actos de registo civil ou de nacionalidade, dos processos e declarações que lhes respeitem, dos documentos necessários e processos relativos ao suprimento destes, bem como das certidões requeridas para quaisquer fins, os indivíduos que provem a sua insuficiência económica pelos seguintes meios:
+
+a) Documento emitido pela competente autoridade administrativa;
+
+b) Declaração passada por instituição pública de assistência social onde o indivíduo se encontre internado.
+
+4 - Para efeitos do disposto no número anterior, nos actos, processos e procedimentos requeridos por mais de uma pessoa em que apenas um dos requerentes beneficie de gratuitidade, é devido pelo requerente não beneficiário o pagamento de metade do emolumento previsto para o acto ou processo.
+
+> Alterado pelo/a Artigo 400.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28, em vigor a partir de 2007-09-29
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 237-A/2006 - Diário da República n.º 239/2006, 1º Suplemento, Série I de 2006-12-14, em vigor a partir de 2006-12-13
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção III — Actos notariais
+
+### Artigo 11.º — Unidade e pluralidade de actos
+
+1 - Quando uma escritura contiver mais de um acto, cobram-se por inteiro os emolumentos devidos por cada um deles.
+
+2 - Há pluralidade de actos sempre que a denominação correspondente a cada um dos negócios jurídicos cumulados for diferente, ou quando os respectivos sujeitos activos e passivos não forem os mesmos.
+
+3 - Não são considerados novos actos:
+
+a) As intervenções, aquiescências e renúncias de terceiro, necessárias à plenitude dos efeitos jurídicos ou à perfeição do acto a que respeitem;
+
+b) As garantias entre os mesmos sujeitos;
+
+c) As garantias a obrigações constituídas por sociedades, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico prestadas pelos sócios e pelos membros dos agrupamentos no mesmo instrumento em que a dívida tenha sido contraída.
+
+4 - Contar-se-ão como um só acto:
+
+a) A venda e a cessão onerosa entre os mesmos sujeitos;
+
+b) O arrendamento e o aluguer, bem como o contrato misto de locação e de parceria, entre os mesmos sujeitos e pelo mesmo prazo;
+
+c) A dissolução de sociedades e a liquidação ou partilha do respectivo património;
+
+d) A aquiescência recíproca entre os cônjuges ou a aquiescência conjunta do marido e mulher, para actos lavrados ou a lavrar noutro instrumento;
+
+e) A outorga de poderes de representação ou o seu substabelecimento por marido e mulher, contanto que o representante seja o mesmo;
+
+f) As diversas garantias de terceiros a obrigações entre os mesmos sujeitos prestadas no título em que estas são constituídas, sem prejuízo do disposto na alínea c) do número anterior;
+
+g) As diversas garantias a obrigações entre os mesmos sujeitos em título posterior àquele em que estas foram constituídas.
+
+h) As partilhas de heranças em que sejam autores marido e mulher;
+
+i) As diversas notificações para efeitos do artigo 99.º do Código do Notariado, quando efectuadas no mesmo local.
+
+5 - O disposto nos números anteriores é igualmente aplicável aos instrumentos avulsos que contenham mais de um acto.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 12.º — Actos gratuitos
+
+1 - São gratuitos os seguintes actos:
+
+a) Rectificação resultante de erro imputável ao notário ou de inexactidão proveniente de deficiência de título emitido pelos serviços dos registos e notariado;
+
+b) Sanação e revalidação de actos notariais.
+
+c) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março.
+
+2 - São igualmente gratuitas as certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção IV — Actos de registo predial
+
+### Artigo 13.º — Acto único relativo a diversos prédios
+
+São considerados como um acto único, para efeitos emolumentares, as inscrições ou os averbamentos a inscrições lavradas em fichas diversas para o registo do mesmo facto.
+
+### Artigo 14.º — Actos gratuitos
+
+1 - São gratuitos os seguintes actos de registo:
+
+a) Averbamentos à descrição de alterações toponímicas, matriciais e de outros factos não dependentes da vontade dos interessados, cujo registo seja imposto pela lei;
+
+b) Averbamentos a que se referem os artigos 98.º, n.º 3, e 101.º, n.os 4 e 5, do Código do Registo Predial;
+
+c) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;
+
+d) Averbamentos de actualização dos registos por efeito da redenominação automática dos valores monetários;
+
+e) Averbamentos do acto declarativo de utilidade pública, nos casos de expropriação de bens destinados a integrar o domínio público do Estado, quando requeridos por entidades públicas.
+
+f) (Revogado.)
+
+g) A inscrição e respetivos averbamentos relativos à intimação municipal para a execução de obras coercivas ou de demolição pelo proprietário de prédio urbano ou fração autónoma, bem como ao arrendamento forçado efetuado ao abrigo do Regime Jurídico da Urbanização e Edificação ou do Regime Jurídico da Reabilitação Urbana.
+
+2 - São ainda gratuitos os seguintes actos:
+
+a) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
+
+b) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
+
+c) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;
+
+d) A recusa e a desistência de atos de registo quando o facto já se encontrar registado.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21, em vigor a partir de 2019-06-20
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção V — Actos de registo comercial
+
+### Artigo 15.º — Actos gratuitos
+
+1 - São gratuitos os seguintes actos:
+
+a) Averbamentos a que se refere o artigo 69.º, n.º 4, do Código do Registo Comercial;
+
+b) Averbamentos a que se referem o n.º 4 do artigo 65.º e o artigo 112.º do Código do Registo Comercial;
+
+c) Averbamentos de actualização dos registos por efeito da redenominação automática dos valores monetários.
+
+d) Inscrição de cancelamento da matrícula;
+
+e) Averbamento de declaração de perda do direito ao uso de firma ou denominação.
+
+f) Averbamentos de actualização da sede, de situação de estabelecimento principal e de outras inscrições, quanto à residência ou sede dos sujeitos que nelas figuram, quando a actualização respeite a alterações toponímicas não dependentes da vontade dos interessados;
+
+g) Os registos realizados oficiosamente nos termos dos n.os 1, 2 e 4 do artigo 67.º-A, dos n.os 1, 2, 4 e 5 do artigo 67.º-C e do n.º 2 do artigo 67.º-D do Código do Registo Comercial;
+
+h) (Revogada.)
+
+i) Os registos realizados oficiosamente nos termos do artigo 10.º-A e do n.º 4 do artigo 67.º do Código do Registo Comercial.
+
+2 - São ainda gratuitos os seguintes actos:
+
+a) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
+
+b) Rectificação dos actos de registo de alteração de firma ou denominação efectuados na sequência da emissão de novo certificado de admissibilidade de firma ou denominação determinado por aprovação indevida dos serviços ou assim considerada por decisão judicial;
+
+c) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
+
+d) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+> Alterado pelo/a Artigo 14.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 20/2008 - Diário da República n.º 22/2008, Série I de 2008-01-31, em vigor a partir de 2008-02-01
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção VI — Actos de registo de navios
+
+### Artigo 16.º — Actos gratuitos
+
+São gratuitos os seguintes actos:
+
+a) Averbamentos de actualização dos registos por efeito da redenominação automática dos valores monetários;
+
+b) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
+
+c) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
+
+d) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;
+
+e) (Revogada.)
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção VII — Actos de Registo Nacional de Pessoas Colectivas
+
+> Rectificado pelo/a Declaração de Rectificação n.º 11-I/2003 - Diário da República n.º 226/2003, Suplemento n.º 1, Série I-A de 2003-09-30, em vigor a partir de 2003-09-22
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 16.º-A — Actos gratuitos
+
+São gratuitos os seguintes actos:
+
+a) Actualização dos registos por efeito da redenominação automática dos valores monetários;
+
+b) Rectificação de actos de registo ou documentos resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
+
+c) Emissão de novo certificado de admissibilidade de firma ou denominação determinada por aprovação indevida dos serviços ou assim considerada por decisão judicial;
+
+d) Alteração do código de actividade económica (CAE);
+
+e) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
+
+f) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
+
+g) A inscrição oficiosa, no registo de pessoas jurídicas canónicas, das pessoas coletivas religiosas inscritas no ficheiro central de pessoas coletivas, em data anterior à entrada em vigor do Decreto-Lei n.º 19/2015, de 3 de fevereiro.
+
+> Alterado pelo/a Artigo 14.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção VIII — Actos de Registo de Automóveis
+
+> Rectificado pelo/a Declaração de Rectificação n.º 11-I/2003 - Diário da República n.º 226/2003, Suplemento n.º 1, Série I-A de 2003-09-30, em vigor a partir de 2003-09-22
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 16.º-B — Actos gratuitos
+
+1 - São gratuitos os seguintes actos:
+
+a) Cancelamento dos ónus ou encargos que caducam nos termos do n.º 2 do artigo 824.º do Código Civil, na sequência de transmissão em processo de execução ou de insolvência;
+
+b) Cancelamento oficioso do registo de propriedade, em virtude de cancelamento da matrícula;
+
+c) Actualização dos registos, por efeito da redenominação automática dos valores monetários.
+
+d) Averbamentos de actualização das inscrições, quanto à residência ou sede dos sujeitos que nelas figuram, quando a actualização respeite a alterações toponímicas não dependentes da vontade dos interessados.
+
+e) (Revogada.)
+
+f) A recusa e a desistência de atos de registo quando o facto já se encontrar registado;
+
+g) A desistência de ato que beneficie de gratuitidade ou de isenção emolumentar.
+
+2 - São ainda gratuitos os seguintes actos:
+
+a) Rectificação de actos de registo ou documentos resultante de inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
+
+b) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
+
+c) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 111/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 20/2008 - Diário da República n.º 22/2008, Série I de 2008-01-31, em vigor a partir de 2008-02-01
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção IX — Actos de identificação civil
+
+### Artigo 17.º — Actos gratuitos
+
+São gratuitos os seguintes actos:
+
+a) (Revogado.)
+
+b) A emissão do bilhete de identidade quando o requerente comprove insuficiência económica ou se encontre internado em instituição de assistência ou de beneficência;
+
+c) (Eliminada).
+
+d) Rectificação de actos de registo ou documentos resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado.
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Capítulo III — Tabelamento dos actos
+
+## Secção I — Registo civil e nacionalidade
+
+### Artigo 18.º — Emolumentos do registo civil e de nacionalidade
+
+... Em euros
+
+1 - Assento de transcrição de qualquer ato lavrado nos termos do n.º 4 do artigo 6.º do Código do Registo Civil - (euro) 180.
+
+2 - Nacionalidade:
+
+2.1 - Atribuição:
+
+2.1.1 - Procedimento de inscrição de nascimento ocorrido no estrangeiro ou de atribuição da nacionalidade portuguesa referentes a maior, incluindo os autos de redução a escrito das declarações verbais prestadas para esse efeito, os respectivos registos e documentos oficiosamente obtidos - (euro) 175.
+
+2.2 - Aquisição:
+
+2.2.1 - Procedimento de aquisição da nacionalidade por efeito da vontade, por adoção ou por naturalização referentes a maiores, incluindo o auto de redução a escrito das declarações verbais prestadas para esse efeito, o respetivo registo e documentos oficiosamente obtidos - (euro) 250;
+
+2.2.2 - Procedimento de aquisição da nacionalidade por efeito da vontade ou por naturalização referentes a incapaz, incluindo o auto de redução a escrito das declarações verbais prestadas para esse efeito, o respetivo registo e documentos oficiosamente obtidos - (euro) 200;
+
+2.3 - Perda:
+
+2.3.1 - Procedimento de perda da nacionalidade, incluindo a redução a escrito da declaração verbal prestada para esse efeito, o respetivo registo e documentos oficiosamente obtidos - (euro) 150;
+
+2.3.2 - Processo e registo de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora do horário de funcionamento dos serviços ou em sábado, domingo ou dia feriado com o transporte assegurado pelos interessados ou com acordo estabelecido com os interessados relativamente às despesas de transporte - (euro) 200;
+
+2.4 - Em caso de indeferimento liminar, os emolumentos previstos nos números anteriores são devidos na sua totalidade.
+
+3.1 - Processo e registo de casamento - (euro) 120;
+
+3.2 - Processo e registo de casamento não urgente
+
+celebrado, a pedido das partes, fora da conservatória
+
+ou nesta, mas fora do horário de funcionamento dos
+
+serviços ou em sábado, domingo ou dia feriado com o transporte assegurado pelos interessados ou com acordo
+
+estabelecido com os interessados relativamente às despesas
+
+de transporte — € 200;
+
+3.3 - (Revogado.)
+
+3.4 - Os emolumentos previstos nos números anteriores incluem, consoante os casos:
+
+a) A organização do processo de casamento;
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) A declaração de consentimento para casamento de menores;
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) Os certificados previstos nos artigos 146.º e 163.º do Código do Registo Civil;
+
+h) O assento de casamento ou o assento de transcrição de casamento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português.
+
+3.4.1 - Processo de suprimento da certidão de registo para efeitos de casamento, por cada - (euro) 100;
+
+3.4.2 - Processo de dispensa de impedimentos matrimoniais - (euro) 60;
+
+3.4.3 - Processo de suprimento de autorização para casamento de menores - (euro) 60;
+
+3.5 - Os emolumentos previstos nos n.os 3.1 e 3.2 são devidos à conservatória organizadora do processo de casamento, ainda que um ou mais dos restantes atos previstos no número anterior sejam promovidos ou efetuados noutras conservatórias.
+
+4 - Convenções antenupciais, a sua alteração ou revogação, se for convencionado um dos regimes tipo previstos no Código Civil - (euro) 100.
+
+§ 1.º (Revogado.)
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+§ 2.º (Revogado.)
+
+4.1 - Convenções antenupciais, a sua alteração ou revogação, se for convencionado um regime atípico de bens - (euro) 160;
+
+4.2 - Pelo registo da convenção ou da sua alteração efetuada perante entidade diversa de conservatória do registo civil - (euro) 30.
+
+5 - Processos de justificação judicial e administrativa, quando requeridos pelos interessados - (euro) 100;
+
+5.1 - Retificações por simples despacho de irregularidades ou deficiências não imputáveis aos serviços - (euro) 40.
+
+6 - Processos especiais e procedimentos perante o conservador:
+
+6.1 - Processos de divórcio e de separação de pessoas e bens por mútuo consentimento - (euro) 280.
+
+§ 1.º O emolumento previsto neste número inclui:
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) A autorização de uso de apelidos do ex-cônjuge.
+
+§ 2.º (Revogado.)
+
+§ 3.º (Revogado.)
+
+6.2 - Processos de divórcio e de separação de pessoas e bens integrando a partilha e o registo do património conjugal - (euro) 625;
+
+6.2.1 - Partilha e registo do património conjugal - (euro) 375;
+
+6.2.2 - O emolumento devido pelos processos previstos nos n.os 6.2 e 6.2.1 inclui todos os registos de bens móveis ou participações sociais, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:
+
+a) Pelo eventual registo de aquisição de bens imóveis a favor do outro partilhante - (euro) 125;
+
+b) Por cada bem, além do primeiro, adjudicado a cada partilhante, (euro) 30 por imóvel, quota ou participação social, (euro) 20 por cada bem móvel, ou (euro) 15 tratando-se de bem a que se refere o n.º 1.6 do artigo 25.º do presente Regulamento, até ao limite de (euro) 30 000.
+
+6.2.3 - Pela retificação ao documento que titule o procedimento de erro não imputável aos serviços - (euro) 100;
+
+6.3 - Procedimento de conversão de separação em divórcio ou acordo de reconciliação - (euro) 100;
+
+6.4 - Processo de alteração de nome - (euro) 200.
+
+6.5 - Procedimento de privação do direito ao uso de apelidos do outro cônjuge - (euro) 75;
+
+6.6 - Procedimento de autorização de uso de apelidos do ex-cônjuge, em virtude de divórcio - (euro) 75;
+
+6.7 - Procedimento de atribuição de alimentos a filhos maiores ou emancipados - (euro) 120;
+
+6.8 - Procedimento de atribuição de casa de morada de família - (euro) 120;
+
+6.9 - Procedimento de alteração de acordos - (euro) 100.
+
+§ 1.º (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+§ 2.º (Revogado.)
+
+6.10 - Procedimento simplificado de sucessão hereditária:
+
+6.10.1 - Habilitação de herdeiros - (euro) 150;
+
+6.10.2 - Habilitação de herdeiros e registo dos bens integrados em herança indivisa ou de transmissão de bens - (euro) 375;
+
+6.10.3 - Habilitação de herdeiros e partilha e registo dos bens partilhados - (euro) 425;
+
+6.10.4 - Pela partilha e registo dos bens partilhados - (euro) 375;
+
+6.10.5 - O valor fixado para o processo previsto no n.º 6.10.2 inclui todos os registos de bens imóveis, móveis ou participações sociais e a ele acresce por cada bem, além do primeiro, (euro) 30 por imóvel, quota ou participação social, (euro) 20 por cada bem móvel, ou (euro) 15 tratando-se de bem a que se refere o n.º 1.6 do artigo 25.º do presente Regulamento, até ao limite de (euro) 30 000.
+
+6.10.5.1 - O emolumento devido pelos processos previstos nos n.os 6.10.3 e 6.10.4 inclui todos os registos de bens móveis ou participações sociais, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:
+
+6.10.5.1 - O emolumento devido pelos processos previstos nos n.os 6.10.3 e 6.10.4, inclui todos os registos a que haja lugar dos bens móveis ou participações sociais sujeitos a registo, independentemente do seu número, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:
+
+a) Por cada registo de aquisição de bens imóveis - (euro)125;
+
+b) Por cada bem, além do primeiro, adjudicado a cada partilhante (euro) 30 por imóvel, quota ou participação social, (euro) 20 por cada bem móvel, ou (euro) 15 tratando-se de bem a que se refere o artigo 25.º, n.º 1.6, do presente Regulamento, até ao limite de (euro) 30 000;
+
+6.10.5.2 - Aos emolumentos previstos nos n.os 6.10.1 a 6.10.4, acresce (euro) 50 quando o procedimento titule as habilitações de herdeiros de marido e mulher, ou a partilha das respetivas heranças;
+
+6.10.6 - (Revogado.)
+
+6.10.7 - (Revogado.)
+
+6.10.8 - Pela retificação ao documento que titule o procedimento de erro não imputável aos serviços - (euro) 100;
+
+6.11 - Processo de suprimento de certidão de registo quando requerido ao abrigo do artigo 270.º do Código do Registo Civil - (euro) 100;
+
+6.12 - (Revogado).
+
+6.13 - Pela desistência ou não conclusão de atos, processos e procedimentos previstos no presente artigo, por motivos imputáveis às partes é devido metade do emolumento previsto;
+
+6.14 - Por cada consulta efetuada a bases de dados dos registos no âmbito dos processos previstos nos n.os 6.1, 6.2, 6.2.1 e 6.10 é devido valor igual ao valor mais baixo previsto para a emissão de certidão online, ou em papel caso aquela não exista, relativa a cada espécie de registo;
+
+6.14.1 - O valor previsto nos termos do número anterior é devido ainda que o prédio não esteja descrito;
+
+6.14.2 - O disposto nos números anteriores só é aplicável se inexistir código de acesso válido a certidão permanente e não for apresentada pelos interessados a correspondente certidão em suporte de papel e determina a entrega de chave de acesso à certidão permanente ou a correspondente certidão em suporte de papel.
+
+7 - Certidões, certificados e fotocópias:
+
+7.1 - Certidões:
+
+7.1.1 - Certidão de registo - (euro) 20;
+
+7.1.1.1 - Certidão de documento ou de processos, até 10 páginas - (euro) 30;
+
+7.1.1.1.1 - Por cada página a mais, (euro) 1, até ao limite de (euro) 150;
+
+7.1.2 - Certidão para fins de abono de família ou segurança social - (euro) 10.
+
+§ único. As certidões referidas neste número devem mencionar o fim a que se destinam, único para que podem ser utilizadas.
+
+7.1.3 - Certidão negativa de registo - (euro) 25;
+
+7.1.4 - (Revogado.)
+
+7.2 - Certificado de nacionalidade - (euro) 35;
+
+7.3 - Fotocópia não certificada, por cada página ou fracção - (euro) 1.
+
+7.4 - Pela emissão de certificado relativo a processo ou procedimento não concluído por motivo imputável às partes - (euro) 50;
+
+7.5 - [Revogado];
+
+8 - (Revogado.)
+
+9 - Consulta de nome - (euro) 50;
+
+9.1 - Consulta de nome que envolva a emissão de parecer onomástico - (euro) 75.
+
+10 - Registo central de escrituras e testamentos:
+
+10.1 - Transcrição de escritura ou testamento outorgado no estrangeiro - (euro) 45;
+
+10.2 - Boletim de informação ou certidão referente à existência de escritura ou testamento - (euro) 25.
+
+11 - Os emolumentos devidos pela prática dos atos previstos neste artigo integram os emolumentos pessoais eventualmente devidos, a pagar pelo IRN, I. P.
+
+12 - [Revogado];
+
+c) (Revogado.)
+
+13 - Acesso eletrónico e informação para fins de investigação científica, genealógica e de dados estatísticos, bem como para quaisquer outros legalmente admissíveis.
+
+13.1 - Acesso à base de dados do registo civil ou da identificação civil:
+
+13.1.1 - Pelo acesso electrónico mensal, com assinatura obrigatoriamente feita por período mínimo de um ano - (euro) 250;
+
+13.1.2 - Pelo acesso electrónico para fins de investigação científica ou genealógica, por cada período de três horas de consulta - (euro) 20;
+
+13.1.3 - Pelo acesso à informação em suporte de papel para fins de investigação científica ou genealógica, por cada hora de consulta - (euro) 10;
+
+13.2 - Acesso à base de dados do registo civil ou da identificação civil, sem identificação de pessoas e para fins estatísticos:
+
+13.2.1 - Pelo acesso a informação disponível a nível nacional - (euro) 100;
+
+13.2.2 - Pelo acesso a informação disponível a nível concelhio - (euro) 30;
+
+13. 3 - Prestação de informação para fins de investigação científica e de dados estatísticos ou outros legalmente admissíveis, que requeira acesso à base de dados do registo civil ou da identificação civil:
+
+13.3.1 - O emolumento devido pela prestação de informação para fins de investigação científica ou de estatística que requeira um tratamento informático especial é o correspondente ao custo efectivo do serviço, acrescido de 10 % desse montante.
+
+13.3.2 - Pela prestação de informação para outros fins legalmente admissíveis:
+
+13.3.2.1 - Relativa a cada pessoa - (euro) 0,10;
+
+13.3.2.2 - Por listagem fornecida pelo IRN, I. P., semestralmente - (euro) 100;
+
+13.3.2.3 - Por listagem fornecida pelo IRN, I. P., anualmente - (euro) 200;
+
+13.4 - [Revogado];
+
+13.5 - [Revogado];
+
+> Alterado pelo/a Artigo 400.º do/a Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31, em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 85/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03, em vigor a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Retificado pelo/a Declaração de Retificação n.º 65/2012 - Diário da República n.º 222/2012, Série I de 2012-11-16, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28, em vigor a partir de 2007-09-29
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 237-A/2006 - Diário da República n.º 239/2006, 1º Suplemento, Série I de 2006-12-14, em vigor a partir de 2006-12-13
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 18.º-A — Emolumentos do Certificado Sucessório Europeu
+
+1 - Pelo pedido de emissão do certificado sucessório europeu - (euro) 200;
+
+1.1 - Pela desistência ou não conclusão do procedimento para emissão do certificado sucessório europeu, por motivos imputáveis ao requerente é devido metade do emolumento previsto.
+
+1.2 - Pela retificação, modificação ou revogação do certificado por erro não imputável aos serviços, e respetivo averbamento - (euro) 100;
+
+1.3 - Pela emissão de documento relativo à desistência ou indeferimento do pedido de certificado sucessório europeu, por motivo imputável às partes - (euro) 50;
+
+1.4 - Por cada consulta efetuada a bases de dados registais ou de testamentos no âmbito da emissão do certificado é devido valor igual ao valor mais baixo previsto para a emissão de certidão online, ou em papel caso aquela não exista, relativa a cada espécie de registo;
+
+1.5 - O valor previsto no número anterior é devido ainda que o prédio não esteja descrito;
+
+1.6 - O disposto nos números anteriores só é aplicável se inexistir código de acesso válido a certidão permanente e não for apresentada pelos interessados a correspondente certidão em suporte papel e determina a entrega da chave de acesso à certidão permanente ou a correspondente certidão em suporte de papel.
+
+2 - Cópias autenticadas:
+
+2.1 - Por cada cópia autenticada ou sua revalidação - (euro) 35;
+
+2.2 - A primeira cópia autenticada emitida após a feitura dos atos previstos nos n.os 1 e 1.2 é gratuita.
+
+3 - Os emolumentos previstos no presente artigo têm um valor único, incluindo os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.
+
+> Aditado pelo/a Artigo 25.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-09-18
+
+### Artigo 19.º — Destino da receita emolumentar
+
+1 - [Revogado].
+
+2 - Em cada procedimento de aquisição da nacionalidade em que a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), preste informações, dos emolumentos cobrados pertencem à AIMA, I. P., (euro) 20.
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02, em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 237-A/2006 - Diário da República n.º 239/2006, 1º Suplemento, Série I de 2006-12-14, em vigor a partir de 2006-12-13
+
+## Secção II — Notariado
+
+### Artigo 20.º — Emolumentos do notariado
+
+... Em euros
+
+1 - Escrituras, testamentos e instrumentos avulsos, com excepção dos de protesto de títulos de crédito:
+
+1.1 - Por cada acto titulado em escritura ou instrumento avulso que legalmente a substitua:
+
+1.1.1 - Compra e venda de imóveis, dação em cumprimento e permuta... 175
+
+1.1.2 - Doação, proposta de doação e aceitação de doação... 175
+
+1.1.3 - Constituição de propriedade horizontal ou alteração do seu título constitutivo... 208
+
+1.1.4 - Constituição do direito de superfície e do direito real de habitação periódica, bem como de alteração dos respectivos títulos constitutivos... 208
+
+1.1.5 - Locação financeira... 130
+
+1.1.6 - Hipoteca ou fiança... 122
+
+1.1.7 - Mútuo ou abertura de crédito... 142
+
+1.1.8 - Reforço de hipoteca... 100
+
+1.1.9 - Quitação de dívida... 100
+
+1.1.10 - Habilitação... 146
+
+1.1.10.1 - Por cada habilitação a mais titulada na mesma escritura... 73
+
+1.1.11 - Partilha... 232
+
+1.1.12 - Conferência de bens doados... 155
+
+1.1.13 - Divisão... 155
+
+1.1.14 - Revogação de testamento... 90
+
+1.1.15 - Justificação... 155
+
+1.1.16 - Constituição de sociedades comerciais e sociedades civis sob a forma comercial... 77
+
+1.1.17 - Aumento do capital social... 84
+
+1.1.18 - Reduções de capital para cobertura de prejuízos... 85
+
+1.1.19 - Outras alterações ao contrato de sociedade, com ou sem aumento ou redução do capital social... 167
+
+1.1.20 - Fusão, cisão ou transformação... 167
+
+1.1.21 - Dissolução... 77
+
+1.1.22 - Declarativas que apenas reproduzam o pacto social em vigor... 150
+
+1.1.23 - Outras... 110
+
+1.2 - Aos emolumentos previstos nos n.os 1.1.2 e 1.1.11 acresce (euro) 50 por cada um dos bens descritos, no máximo de (euro) 800.
+
+1.3 - Pelo distrate, resolução ou revogação de actos notariais será devido um emolumento correspondente a 80% do emolumento do respectivo acto, quando outro não estiver expressamente previsto.
+
+1.4 - Por cada testamento público, testamento internacional, instrumento de aprovação ou de abertura de testamento cerrado... 150
+
+1.5 - Por quaisquer outros instrumentos avulsos, com excepção dos de protesto de títulos de crédito... 37
+
+1.6 - Pelo registo na Conservatória dos Registos Centrais de cada escritura, testamento público, testamento internacional, instrumento de aprovação, de depósito e abertura de testamento cerrado... 9
+
+2 - Instrumentos de protesto de títulos de crédito e levantamento dos títulos:
+
+2.1 - Por cada instrumento de protesto de títulos de crédito... 9
+
+2.2 - Pelo levantamento de cada título antes de protestado... 9
+
+3 - Por cada notificação de titular inscrito efectuada nos termos do artigo 99.º do Código do Notariado... 45
+
+4 - Certidões, certificados, extractos para publicação e informações escritas:
+
+4.1 - Por cada certidão ou certificado, com excepção do de exactidão de tradução (euro) 22.
+
+4.1.1 - (Revogado.)
+
+4.1.2 - (Revogado.)
+
+4.2 - Pela primeira certidão emitida após a celebração de qualquer testamento ou escritura e fornecida, dentro do prazo legal, ao testador ou, nos restantes casos, ao interessado a quem for cobrado o recibo da conta do acto nos termos do artigo 195.º do Código do Notariado, independentemente do número de páginas... 5
+
+4.3 - (Revogado.)
+
+4.4 - Os emolumentos previstos nos números anteriores são acrescidos em 50% se for requerida urgência para os respectivos actos.
+
+4.5 - Por cada extracto para publicação... 23
+
+4.6 - Por cada página ou fracção de fotocópia não certificada... 0,50
+
+4.7 - Pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título... 9
+
+5 - (Revogado.)
+
+6 - Registo de documentos - por cada registo lavrado no livro a que se refere a alínea f) do n.º 1 do artigo 7.º do Código do Notariado... 29
+
+7 - Actos não realizados:
+
+7.1 - Pelos actos requisitados que não sejam outorgados por motivos imputáveis às partes será devido um emolumento correspondente a 80% do emolumento do respectivo acto.
+
+7.2 - Tratando-se, porém, de escrituras de partilha, doação, proposta de doação ou de aceitação de doação, ao emolumento previsto no número anterior acresce o emolumento previsto no n.º 1.2 reduzido a metade.
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+> Nota: Artigo 36.º, Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04 Entram em vigor no dia 1 de janeiro de 2009 as disposições que permitem e regulam a realização, por documento particular autenticado, dos actos que importem reconhecimento, constituição, aquisição, modificação, divisão ou extinção dos direitos de propriedade, usufruto, uso e habitação, superfície ou servidão sobre coisas imóveis ou outros equivalentes, nomeadamente: os n.os 2.2, 2.4, 2.6, 2.10 e 2.13 do artigo 21.º do Regulamento Emolumentar dos Registos e do Notariado.
+
+## Secção III — Registo predial
+
+### Artigo 21.º — Emolumentos do registo predial
+
+... Em euros
+
+1 - Os emolumentos previstos neste artigo incluem:
+
+a) A abertura de descrições bem como os averbamentos à descrição que devam ser realizados oficiosamente ou na dependência de um pedido de registo;
+
+b) Os averbamentos de conversão em definitivos de registos lavrados como provisórios por natureza, nos termos do n.º 1 do artigo 92.º do Código do Registo Predial; e
+
+c) Os emolumentos pessoais, quando devidos.
+
+1.1 - Acrescem à conta do acto de que dependem, designadamente:
+
+a) Os emolumentos devidos em função do número de prédios abrangidos pelo facto;
+
+b) Os emolumentos devidos por actos de realização oficiosa sujeitos a tributação; e
+
+c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo da obrigação de registar.
+
+1.2 - O facto que respeite a diversos prédios é cobrado por inteiro relativamente ao primeiro, acrescido de (euro) 50 por cada prédio a mais, até ao limite de (euro) 30 000, com exceção dos atos de anexação a que se refere a verba 2.17 e do ónus de não fracionamento referido na verba 2.18, casos em que o acréscimo é devido apenas a partir do terceiro prédio.
+
+1.3 - (Revogado.)
+
+1.4 - (Revogado.)
+
+2 - São devidos pelo registo:
+
+2.1 - De aquisição e de uma ou mais hipotecas, pedidas no mesmo momento - (euro) 500;
+
+2.2 - (Revogado.)
+
+2.3 - (Revogado.)
+
+2.4 - (Revogado.)
+
+2.5 - (Revogado.)
+
+2.6 - (Revogado.)
+
+2.7 - De declaração de insolvência, penhora, arresto, arrolamento ou de providências cautelares não especificadas - (euro) 100;
+
+2.8 - (Revogado.)
+
+2.9 - (Revogado.)
+
+2.10 - (Revogado.)
+
+2.11 - (Revogado.)
+
+2.12 - De outros factos registados por inscrição ou por averbamento previsto no n.º 1 do artigo 101.º do Código do Registo Predial - (euro) 250;
+
+2.13 - (Revogado.)
+
+2.14 - (Revogado.)
+
+2.15 - Ao emolumento previsto para o registo dos factos que determinem a constituição da propriedade horizontal, do direito real de habitação periódica, de empreendimentos turísticos e de operações de transformação fundiária, acresce (euro) 25 por cada descrição subordinada, unidade, lote ou parcela, até ao limite previsto no n.º 1.2;
+
+2.16 - O registo de aquisição com base em habilitação de herdeiros, partilha de herança ou do património conjugal, que abranja vários prédios é cobrado por inteiro quanto ao primeiro prédio, acrescido de (euro) 30 por cada prédio a mais, até ao limite previsto no n.º 1.2;
+
+2.16.1 - O disposto no número anterior é aplicável aos averbamentos de transmissão do direito de algum ou alguns dos titulares da inscrição de bens integrados em herança indivisa;
+
+2.16.2 - Pelos registos de aquisição com base em partilha da herança ou do património conjugal, desde que pedidos todos conjuntamente no mesmo momento, é devido o emolumento previsto no n.º 2.12, e a ele acresce:
+
+a) Por cada registo de aquisição, além do primeiro - (euro) 125;
+
+b) Por cada prédio a mais, além do primeiro, adjudicado a cada partilhante - (euro) 30;
+
+2.17 - Pelo acto de transformação fundiária lavrado com base em declaração do interessado que tenha por fim a anexação ou desanexação - (euro) 250.
+
+2.18 - De ónus de não fracionamento e de condicionamento da construção - (euro) 125.
+
+3 - Averbamentos:
+
+3.1 - Por cada averbamento à descrição de factos que não sejam lavrados na dependência de pedido de registo ou que não devam ser de lavrar oficiosamente - (euro) 60;
+
+3.2 - Averbamento à inscrição - (euro) 100.
+
+3.2.1 - O emolumento previsto na verba anterior é reduzido a metade nos averbamentos de realização oficiosa e nos averbamentos de factos extintivos;
+
+3.2.2 - Ao emolumento previsto para os atos de alteração ou de modificação dos factos a que se refere a verba do n.º 2.15, lavrados por inscrição ou por averbamento previsto no n.º 1 do artigo 101.º do Código do Registo Predial, acresce (euro) 25 por cada descrição subordinada, unidade, lote ou parcela, criada ou alterada, até ao limite previsto no n.º 1.2;
+
+3.2.3 - O disposto no número anterior não tem aplicação no caso de mera reprodução de inscrições ou de averbamentos ou de simples menção de cotas de referência.
+
+4 - Processo de justificação, incluindo todos os actos de registo realizados em consequência do mesmo:
+
+4.1 - Pelo processo - (euro) 400;
+
+4.2 - Pela dedução de oposição - (euro) 100.
+
+4.3 - Se o processo abranger mais do que um prédio, acresce (euro) 50 por cada prédio a mais, até ao limite previsto no n.º 1.2;
+
+4.4 - Se o processo tiver em vista apenas o cancelamento de ónus ou encargos - (euro) 250;
+
+4.5 - No caso de indeferimento liminar do pedido é devolvida a quantia cobrada, com excepção de valor igual ao da recusa.
+
+5 - Processo de rectificação incluindo todos os actos de registo realizados em consequência do mesmo:
+
+5.1 - Pelo processo - (euro) 250;
+
+5.2 - Pela dedução de oposição - (euro) 100.
+
+5.3 - Se a retificação abranger mais do que um prédio, acresce (euro) 50 por cada prédio a mais, até ao limite previsto no n.º 1.2;
+
+5.4 - No caso de indeferimento liminar do pedido é devolvida a quantia cobrada, com excepção de valor igual ao da recusa;
+
+5.5 - Pela rectificação efectuada ao abrigo dos artigos 124.º e 125.º do Código do Registo Predial, são devidos os emolumentos correspondentes aos actos de registo realizados em consequência do mesmo.
+
+6 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
+
+7 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+
+8 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+
+9 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+
+10 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+
+11 - Pela desistência - (euro) 20.
+
+11.1 - Pela desistência de processo de justificação ou de retificação que não seja de efetuar ao abrigo dos artigos 124.º e 125.º do Código do Registo Predial - (euro) 100.
+
+12 - Pela recusa, exceto nos casos abrangidos pelo n.º 8 do artigo 73.º do Código do Registo Predial - (euro) 50.
+
+12.1 - Se o emolumento devido pelo ato de registo for inferior ao emolumento previsto no número anterior, pela recusa é devido o emolumento correspondente ao ato.
+
+13 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2, 3, 7 ou 8 do artigo 73.º do Código do Registo Predial - (euro) 30.
+
+14 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)
+
+15 - [Revogado].
+
+16 - (Revogado.)
+
+17 - (Revogado.)
+
+18 - Depósito de documentos no sítio do registo predial www.predialonline.mj.pt:
+
+18.1 - De documentos particulares autenticados que titulam atos sujeitos a registo predial nos termos do artigo 24.º do Decreto-Lei n.º 116/2008, de 4 de julho, incluindo os documentos que os instruam - (euro) 20;
+
+18.2 - De documentos de que conste o consentimento do credor ao cancelamento do registo de hipoteca - (euro) 20;
+
+18.3 - De documentos depositados posteriormente a associar a um depósito anterior - (euro) 15.
+
+19 - Renovação de código de acesso que permita a consulta dos documentos referidos no número anterior:
+
+19.1 - Pedido efetuado através do endereço www.predialonline.mj.pt - (euro) 5;
+
+19.2 - Pedido verbalmente num serviço de registo com competência para a prática de atos de registo predial - (euro) 10.
+
+20 - [Revogado].
+
+21 - Pelo procedimento extraordinário de regularização da situação jurídico-registral dos bens do Estado, dos institutos públicos, das regiões autónomas e das autarquias locais - (euro) 550,00.
+
+22 - Procedimento especial de justificação, incluindo todos os atos de registo realizados em consequência do mesmo:
+
+22.1 - Pelo processo - 200 €;
+
+22.2 - Pela dedução de oposição - 100 €.
+
+22.3 - Se o processo abranger mais do que um prédio, acresce 50 € por cada prédio a mais, até ao limite previsto no n.º 1.2.
+
+22.4 - No caso de indeferimento liminar do pedido é devolvida a quantia cobrada, com exceção de valor igual ao da recusa.
+
+23 - Procedimento especial de registo, incluindo todos os atos de registo realizados em consequência do mesmo:
+
+23.1 - Pelo processo - 250 €.
+
+23.2 - Se o processo abranger mais do que um prédio, acresce 50 € por cada prédio a mais, até ao limite previsto no n.º 1.2.
+
+23.3 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do procedimento especial de registo - 30 €.
+
+23.4 - No caso de o procedimento ser declarado findo é devolvida a quantia cobrada, com exceção de valor igual ao da recusa.
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15, em vigor a partir de 2026-04-16.
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 51/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25, em vigor a partir de 2017-05-30
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2011-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 23.º do/a Decreto-Lei n.º 263-A/2007 - Diário da República n.º 140/2007, 1º Suplemento, Série I de 2007-07-23, em vigor a partir de 2007-07-24
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Rectificado pelo/a Declaração de Rectificação n.º 11-I/2003 - Diário da República n.º 226/2003, Suplemento n.º 1, Série I-A de 2003-09-30, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção IV — Registo comercial
+
+### Artigo 22.º — Emolumentos do registo comercial
+
+1 - Os emolumentos previstos neste artigo são devidos pelo pedido de registo e têm um valor único, incluindo os montantes relativos aos actos subsequentes de inscrição no ficheiro central de pessoas colectivas e de publicação obrigatória, bem como os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.
+
+2 - Inscrições e averbamentos previstos no n.º 1 do artigo 69.º do Código do Registo Comercial:
+
+2.1 - Constituição de pessoas coletivas - (euro) 360;
+
+2.2 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+
+2.3 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+
+2.4 - Alterações ao contrato de sociedade (euro) 200;
+
+2.4.1 - Alterações com aumento ou redução de capital - (euro) 225;
+
+2.5 - Fusão, cisão ou transformação:
+
+2.5.1 - Pelo depósito do projeto de fusão, cisão ou transformação - (euro) 120;
+
+2.5.2 - Pela inscrição da fusão, da cisão ou da transformação - (euro) 225;
+
+2.6 - Dissolução - (euro) 200;
+
+2.7 - Designação ou recondução dos órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, nos termos do n.º 2 do artigo 262.º do Código das Sociedades Comerciais, e de gestores judiciais - (euro) 175;
+
+2.8 - Registo de acções - (euro) 130;
+
+2.9 - Criação de representação permanente, incluindo a simultânea nomeação dos respectivos representantes - (euro) 200;
+
+2.10 - Outras inscrições e averbamentos previstos no n.º 1 do artigo 69.º do Código do Registo Comercial - (euro) 200;
+
+2.11 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes factos.
+
+2.12 - [Revogado]
+
+3 - Registo efectuado por simples depósito, com excepção do registo de prestação de contas (euro) 100.
+
+4 - Averbamento a inscrição - (euro) 80;
+
+4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de representantes, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;
+
+4.2 - (Revogado.)
+
+4.3 - (Revogado.)
+
+5 - Justificação:
+
+5.1 - Processo de justificação - (euro) 200;
+
+5.2 - Processo simplificado de justificação - (euro) 150.
+
+6 - Pela rectificação efectuada ao abrigo dos artigos 85.º e 86.º do Código do Registo Comercial são devidos os emolumentos correspondentes aos actos de registo realizados em consequência do mesmo, até ao limite de (euro) 250.
+
+6.1 - Pela rectificação efectuada fora dos casos previstos no número anterior, incluindo todos os actos de registo realizados em consequência da mesma - (euro) 250;
+
+6.2 - No caso de indeferimento liminar do pedido é devolvida a quantia cobrada, com excepção de valor igual ao da recusa;
+
+6.3 - Pela dedução de oposição - (euro) 100.
+
+7 - Procedimento administrativo de dissolução de entidades comerciais:
+
+7.1 - Pela tramitação e decisão do procedimento, incluindo todos os registos - (euro) 350;
+
+7.2 - Se o procedimento for de instauração oficiosa, o emolumento previsto no número anterior é agravado em 50%.
+
+8 - Procedimento administrativo de liquidação de entidades comerciais:
+
+8.1 - Pela tramitação e decisão do procedimento, incluindo todos os registos - (euro) 350;
+
+8.2 - Se o procedimento for de instauração oficiosa, o emolumento previsto no número anterior é agravado em 50%.
+
+9 - Procedimento especial de extinção imediata de entidades comerciais:
+
+Pela decisão do procedimento, incluindo o registo - (euro) 300.
+
+10 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
+
+11 - Pela desistência - (euro) 20.
+
+12 - Pela recusa, excepto no caso abrangido pelo n.º 6 do artigo 52.º do Código do Registo Comercial - (euro) 50.
+
+13 - Certidões, fotocópias, informações escritas e certificados:
+
+13.1 - Requisição e emissão de certidão negativa - (euro) 20;
+
+13.2 - Requisição e emissão de certidão ou fotocópia de actos de registo - (euro) 30;
+
+13.3 - Pela confirmação do conteúdo da certidão ou fotocópia - (euro) 10;
+
+13.4 - Pela assinatura do serviço previsto no n.º 5 do artigo 75.º do Código do Registo Comercial:
+
+13.4.1 - Assinatura por um ano - (euro) 25;
+
+13.4.2 - Assinatura por dois anos - (euro) 40;
+
+13.4.3 - Assinatura por três anos - (euro) 60;
+
+13.4.4 - Assinatura por quatro anos - (euro) 70;
+
+13.5 - Requisição e emissão de certidão ou fotocópia de documentos, até 10 páginas - (euro) 30;
+
+13.5.1 - Por cada página a mais, (euro) 1, até ao limite de (euro) 150.
+
+13.6 - Requisição e emissão de certidão ou fotocópia do acto constitutivo e dos estatutos de associação constituída ao abrigo do regime de constituição imediata de associações - (euro) 15;
+
+13.7 - Informação dada por escrito... 11
+
+13.8 - Fotocópia não certificada, por cada página - (euro) 1;
+
+13.9 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
+
+13.10 - Pela disponibilização da informação não certificada no Portal Europeu da Justiça Eletrónica, através do sistema de interconexão dos registos comerciais:
+
+13.10.1 - Relativa a informação contida na matrícula - (euro) 5
+
+13.10.2 - Relativa ao pacto social atualizado - (euro) 8
+
+13.10.3 - Relativa às contas anuais - (euro) 5
+
+13.10.4 - Relativa a quaisquer outros factos registados ou documentos arquivados - (euro) 10.
+
+14 - Nomeação de auditores e de revisores oficiais de contas, por cada nomeação... 120
+
+15 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
+
+16 - Procedimentos de destituição e de nomeação de liquidatários, requeridos ao abrigo dos n.os 3 e 4 do artigo 151.º do Código das Sociedades Comerciais - (euro) 150.
+
+17 - Pela emissão dos certificados previstos nos artigos 36.º-A, 74.º-A, 74.º-B ou 74.º-C do Código do Registo Comercial - (euro) 250.
+
+18 - Procedimento de notificação a que se refere o artigo 36.º-B do Código do Registo Comercial - (euro) 150.
+
+19 - Pela solicitação do registo por depósito junto da conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial - (euro) 150.
+
+20 - Pela oposição da sociedade ao registo por depósito a promover pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial - (euro) 150.
+
+21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3 ou 5 do Código do Registo Comercial - 30 (euro).
+
+22 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
+
+23 - [Revogado].
+
+24 -[Revogado].
+
+25 -(Revogado.)
+
+26 - [Revogado].
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+> Alterado pelo/a Artigo 10.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Alterado pelo/a Artigo 14.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Rectificado pelo/a Declaração de Retificação n.º 65/2012 - Diário da República n.º 222/2012, Série I de 2012-11-16, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 73/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16, em vigor a partir de 2008-04-17
+
+> Alterado pelo/a Artigo 23.º do/a Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24, em vigor a partir de 2007-10-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção V — Registo Nacional de Pessoas Colectivas
+
+### Artigo 23.º — Emolumentos do Registo Nacional de Pessoas Colectivas
+
+... Em euros
+
+1 - (Revogado.)
+
+2 - Certificados de admissibilidade de firma ou denominação:
+
+2.1 - Pelo pedido de emissão do certificado - (euro) 75;
+
+2.2 - Pela urgência na emissão de certificado de admissibilidade de firma ou denominação é devido o
+
+valor do emolumento correspondente ao acto;
+
+2.3 - Invalidação da emissão do certificado - (euro) 15;
+
+2.4 - A desistência do pedido de emissão do certificado não dá lugar à restituição dos emolumentos
+
+cobrados.
+
+2.5 - O indeferimento do pedido de emissão do certificado não dá lugar à restituição dos emolumentos
+
+cobrados.
+
+2.6 - No caso previsto no número anterior o emolumento pago pode ser transferido, uma única vez,
+
+para o novo pedido do mesmo requerente a apresentar no prazo máximo de 10 dias úteis.
+
+2.7 - Pela comunicação de nome comercial - (euro) 60.
+
+3 - Inscrição no ficheiro central de pessoas coletivas:
+
+3.1 - De entidades sujeitas a registo comercial - (euro) 20;
+
+3.2 - De entidades não sujeitas a registo comercial, bem como de identificação, para efeitos fiscais, de
+
+pessoas coletivas estrangeiras que não exerçam habitualmente atividade em Portugal, sua alteração ou
+
+cancelamento - (euro) 50.
+
+4 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
+
+5 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
+
+6 - Registo de pessoas coletivas religiosas e de pessoas jurídicas canónicas:
+
+6.1 - Inscrição - (euro) 60;
+
+6.2 - Averbamento de cancelamento - (euro) 40;
+
+6.3 - Outros averbamentos à inscrição - (euro) 25;
+
+6.4 - Pela desistência do pedido de inscrição - (euro) 60;
+
+6.5 - Pela urgência na realização do registo é devido o valor do emolumento correspondente ao ato.
+
+6.6 - Aos emolumentos previstos nos números anteriores acresce o emolumento previsto no n.º 3.1, quando se mostre devido.
+
+7 - Certidões e cópias de registo informático e de documentos:
+
+7.1 - Requisição e emissão de certidão ou cópia de registo informático e de documentos - (euro) 10.
+
+7.2 - Emissão de certidão ou cópia de registo informático e de documentos quando requeridas por pessoas colectivas religiosas - (euro) 5.
+
+7.3 - (Revogado.)
+
+7.4 - (Revogado.)
+
+7.5 - Informação dada por escrito relativamente a registos e documentos... 5,50
+
+8 - Acesso às bases de dados:
+
+8.1 - Acesso eletrónico, cópias totais ou parciais e informação para fins de investigação estatística da base de dados do ficheiro central de pessoas coletivas (FCPC), do registo de pessoas coletivas religiosas (RPCR) e do registo de pessoas jurídicas canónicas (RPJC).
+
+8.1.1 - Consulta em linha:
+
+8.1.1.1 - Pela consulta em linha à base de dados do FCPC - assinatura mensal de (euro) 600, que inclui até 100 acessos úteis;
+
+8.1.1.2 - (Revogado.)
+
+8.1.1.3 - (Revogado.)
+
+8.1.1.4 - (Revogado.)
+
+8.2 - Cópias do FCPC e da base de dados do RPCR:
+
+8.2.1 - Por cada cópia total do ficheiro... 10000
+
+8.2.2 - Por cada actualização mensal dos movimentos... 600
+
+8.2.3 - Cópia parcial em suporte eletrónico da base de dados do FCPC, do RPCR ou do RPJC:
+
+8.2.3.1 - Até 1000 registos... 1000
+
+8.2.3.2 - (Revogado.)
+
+8.3 - Por cada cópia parcial em suporte de papel (conteúdo integral ou parcial do registo):
+
+8.3.1 - Até 1000 registos... 1500
+
+8.3.2 - Por cada adicional de 1000 registos ou fracção... 750
+
+8.4 - Por cada informação estatística disponível do FCPC, do RPCR ou do RPJC:
+
+8.4.1 - A nível nacional... 500
+
+8.4.2 - A nível concelhio... 150
+
+9 -(Revogado.)
+
+10 -(Revogado.)
+
+> Alterado pelo/a Artigo 29.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 19/2015 - Diário da República n.º 23/2015, Série I de 2015-02-03, em vigor a partir de 2015-06-04
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 17.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 23.º do/a Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24, em vigor a partir de 2007-10-31
+
+> Rectificado pelo/a Declaração de Rectificação n.º 11-I/2003 - Diário da República n.º 226/2003, Suplemento n.º 1, Série I-A de 2003-09-30, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção VI — Registo de navios
+
+### Artigo 24.º — Emolumentos do registo de navios
+
+... Em euros
+
+1 - Matrículas:
+
+1.1 - Por cada matrícula de navio - (euro) 50.
+
+2 - Inscrições e averbamentos:
+
+2.1 - Inscrições - (euro) 150;
+
+2.2 - Inscrições de hipoteca, consignação de rendimentos, penhora, arresto, arrolamento, providências cautelares não especificadas e locação financeira - (euro) 100;
+
+2.3 - Por cada inscrição de aquisição anterior à daquele que se apresente a requerer o registo em seu nome - (euro) 80;
+
+2.4 - Por cada inscrição transcrita em consequência de mudança de capitania ou delegação marítima - (euro) 60;
+
+2.5 - Pelo facto previsto na alínea f) do artigo 89.º do Decreto-Lei n.º 42 645, de 14 de Novembro de 1959 - (euro) 60;
+
+2.6 - O facto que respeite a diversos navios é cobrado por inteiro relativamente ao primeiro, acrescido de 50 % do valor do emolumento previsto para o registo, por cada navio a mais, até ao limite de (euro) 5000.
+
+3 - Averbamentos às inscrições:
+
+3.1 - Averbamento de cancelamento - (euro) 80;
+
+3.2 - Averbamento à inscrição não especialmente previsto - (euro) 50.
+
+4 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
+
+5 - Desistência do pedido de registo... 20
+
+6 - Recusa de registo - (euro) 50.
+
+7 - Certidões, fotocópias, informações escritas e certificados:
+
+7.1 - Requisição e emissão de certidão negativa - (euro) 20;
+
+7.2 - Requisição e emissão de certidão ou fotocópia de actos de registo:
+
+7.2.1 - Respeitante a um só navio - (euro) 20;
+
+7.2.2 - Por cada navio a mais - (euro) 10;
+
+7.3 - Requisição e emissão de certidão ou fotocópia de documentos:
+
+7.3.1 - Até nove páginas - (euro) 20;
+
+7.3.2 - A partir da 10.ª página, por cada página a mais... 1
+
+7.4 - Pela confirmação do conteúdo da certidão ou fotocópia é devido emolumento da respectiva emissão reduzido a metade.
+
+7.5 - Informação por escrito:
+
+7.5.1 - Em relação a um navio... 11
+
+7.5.2 - Por cada navio a mais, até ao máximo de (euro) 800... 11
+
+7.6 - Fotocópia não certificada, por cada página - (euro) 1;
+
+7.7 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
+
+8 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 73.º, n.os 2, 3 ou 7, do Código do Registo Predial - 30 (euro).
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Rectificado pelo/a Declaração de Rectificação n.º 11-I/2003 - Diário da República n.º 226/2003, Suplemento n.º 1, Série I-A de 2003-09-30, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção VII — Registo de automóveis
+
+### Artigo 25.º — Emolumentos do registo de automóveis
+
+... Em euros
+
+1 - Registos:
+
+1.1 - Pelo registo inicial relativo a veículo com primeira matrícula atribuída nos 60 dias anteriores - (euro) 55;
+
+1.2 - Por cada registo subsequente - (euro) 65;
+
+1.3 - Tratando-se de registo de propriedade adquirida por revenda efetuada por entidade comercial que tenha por atividade principal a compra e venda de veículos para revenda, nos 180 dias posteriores à aquisição da propriedade por tal entidade - (euro) 30;
+
+1.4 - O emolumento previsto no número anterior é devido pela entidade comercial nele referida, sendo devido a esta última, por parte do adquirente da propriedade em virtude da revenda, o valor do emolumento pago pela entidade comercial, pelo registo de propriedade a seu favor, nos termos do n.º 1.2;
+
+1.5 - Tratando-se de registo de alteração de nome, firma, residência ou sede - (euro) 35;
+
+1.6 - Por cada registo relativo a ciclomotor ou motociclo, triciclo ou quadriciclo com cilindrada não superior a 50 cm3:
+
+1.6.1 - Tratando-se de registo inicial relativo a veículo com primeira matrícula atribuída nos 60 dias anteriores - (euro) 20;
+
+1.6.2 - Tratando-se de registo subsequente - (euro) 30;
+
+1.7 - Pela reserva de propriedade ou pelo seu cancelamento são devidos 50/prct. dos emolumentos previstos nos n.os 1.2, 1.3 e 1.6.2, respetivamente;
+
+1.8 - Se o registo for requerido fora de prazo, é devido valor igual ao do emolumento;
+
+1.9 - Se o registo respeitar a diversos veículos, acresce, por cada veículo depois do primeiro, 50 % do valor do emolumento previsto para o registo.
+
+1.10 - Pela desistência - (euro) 20;
+
+1.11 - Pela recusa - (euro) 25;
+
+1.11.1 - Se o emolumento previsto para o ato de registo requerido for inferior ao valor previsto nos n.os 1.10 e 1.11, pela desistência ou pela recusa é devido o emolumento correspondente ao ato;
+
+1.12 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2 e 3 do artigo 42.º-A do Decreto n.º 55/75, de 12 de fevereiro - (euro) 10.
+
+1.13 - No emolumento do ato principal está incluído o do registo de afetação do veículo ao regime de aluguer sem condutor, do registo do ónus de tributação residual e de intransmissibilidade, ou do registo de utilizador não proprietário, consoante o caso, quando tais atos devam ser realizados oficiosamente na dependência daquele.
+
+2 - Certidões, fotocópias, certificados de matrícula, informações:
+
+2.1 - Pela requisição e emissão de certidão ou fotocópia acrescida da certificação de outro facto - (euro) 17;
+
+2.2 - Pela confirmação do conteúdo de certidão ou fotocópia é devido o emolumento da respectiva emissão, reduzido a metade.
+
+2.3 - Pela emissão de segunda via de certificado de matrícula ou pela sua substituição... 30
+
+2.4 - Por cada informação dada por escrito relativa:
+
+2.4.1 - Ao actual proprietário inscrito do veículo e aos encargos que o oneram - (euro) 5;
+
+2.4.2 - A proprietários anteriores - (euro) 7.
+
+3 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
+
+4 - Intermediação:
+
+4.1 - Por cada remessa de requerimentos e documentos... 5...
+
+5 - Acesso electrónico, cópias parciais e mapas para fins de investigação científica e estatística.
+
+5.1 - Informação típica disponibilizada pelos serviços para fins de investigação científica ou estatística fornecida em suporte papel:
+
+5.1.1 - Relativa a cada conjunto de 500 000 matrículas, ou parte - (euro) 100;
+
+5.1.2 - (Revogado.)
+
+5.2 - Informação típica disponibilizada pelos serviços para fins de investigação científica ou estatística fornecida em suporte electrónico:
+
+5.2.1 - Relativa a cada conjunto de 500 000 matrículas, ou parte - (euro) 50;
+
+5.2.2 - (Revogado.)
+
+5.3 - Acesso electrónico à informação:
+
+5.3.1 - Por assinatura mensal, obrigatoriamente feita pelo período mínimo de seis meses - (euro) 150;
+
+5.3.2 - Acresce em cada período mensal, por cada acesso:
+
+5.3.2.1 - Até 1000 acessos - (euro) 1;
+
+5.3.2.2 - De 1001 até 5000 acessos - (euro) 0,90;
+
+5.3.2.3 - De 5001 até 50 000 acessos - (euro) 0,80;
+
+5.3.2.4 - De 50 001 até 100 000 acessos - (euro) 0,50;
+
+5.3.2.5. - Acima de 100 000 acessos - (euro) 0,30;
+
+5.3.3 - (Revogado.)
+
+5.4 - Cópias parciais da base de dados, de conteúdo total ou parcial da situação jurídica de cada veículo, fornecida em suporte electrónico:
+
+5.4.1 - Por cada conjunto de 500 matrículas ou parte - (euro) 300;
+
+5.4.2 - (Revogado.)
+
+5.5 - Cópia parcial da base de dados, de conteúdo total ou parcial da situação jurídica de cada veículo, fornecida em suporte papel:
+
+5.5.1 - Por cada conjunto de 500 matrículas ou parte - (euro) 2000;
+
+5.5.2 - (Revogado.)
+
+5.6 - O emolumento devido pela prestação de informação para fins de investigação científica ou de estatística que requeira um tratamento informático especial é o correspondente ao custo efectivo do serviço, acrescido de 10 % desse montante;
+
+5.7 - (Revogado.)
+
+5.8 - (Revogado.).
+
+6 - Pelo processo de justificação - (euro) 100.
+
+7 - Pela instrução e decisão de processo especial de rectificação... 125
+
+8 - Os emolumentos previstos neste artigo têm um valor único, incluindo os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.
+
+9 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12 - (Revogado.)
+
+12.1 - (Revogado.)
+
+13 - (Revogado.)
+
+14 - Os montantes pecuniários a pagar em resultado da aplicação de reduções emolumentares previstas nesta tabela devem ser arredondados, por excesso ou por defeito, para a unidade decimal mais próxima. Caso os montantes pecuniários a pagar resultem num valor exatamente intermédio, o montante deve ser arredondado por excesso.
+
+14.1 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 111/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16
+
+> Alterado pelo/a Artigo 29.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 20/2008 - Diário da República n.º 22/2008, Série I de 2008-01-31, em vigor a partir de 2008-02-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 85/2006 - Diário da República n.º 99/2006, Série I-A de 2006-05-23, em vigor a partir de 2006-05-24
+
+> Alterado pelo/a Artigo 15.º do/a Decreto-Lei n.º 178-A/2005 - Diário da República n.º 208/2005, Suplemento n.º 1, Série I-A de 2005-10-28, em vigor a partir de 2005-10-31
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção VIII — Identificação civil
+
+### Artigo 26.º — Emolumentos da identificação civil
+
+... Em euros
+
+1 - Pela emissão de cada bilhete de identidade... 3
+
+2 - Certidões e informações:
+
+2.1 - Por cada certidão... 15
+
+2.2 - Por cada informação... 8
+
+3 - Pela realização de serviço externo, para além das despesas de transporte.
+
+> Revogado pelo/a Artigo 18.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+## Secção IX — Emolumentos diversos
+
+### Artigo 27.º — Emolumentos comuns
+
+... Em euros
+
+1 - Serviço de telecópia:
+
+1.1 - Pela utilização do serviço de telecópia nos serviços dos registos e do notariado, para emissão de documentos, são cobrados os seguintes emolumentos:
+
+1.1.1 - (Revogado.)
+
+1.1.2 - Por qualquer outro documento que contenha até sete folhas, incluindo as do pedido e resposta e uma eventual folha de certificação ou encerramento:
+
+1.1.2.1 - No continente e Regiões Autónomas... 5
+
+1.1.2.2 - Em relação aos serviços consulares portugueses na Europa... 20
+
+1.1.2.3 - Em relação aos serviços consulares portugueses fora da Europa... 50
+
+1.1.3 - Por cada folha a mais, nos casos previstos nos n.os 1.1.2.1 a 1.1.2.3 acrescem respectivamente (euro) 0,50, (euro) 2,50 e (euro) 7,50.
+
+1.2 - O pedido a que se refere o n.º 1.1.2 pode substituir o modelo legal da requisição de certidão a que haja lugar, desde que dele constem os elementos nesta contidos.
+
+1.3 - Se o pedido não for satisfeito por culpa dos serviços, o utente é reembolsado das quantias entregues.
+
+2 - (Revogado.)
+
+3 - Regimes especiais de constituição imediata de sociedades, associações e cooperativas e de constituição online de sociedades:
+
+3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 360.
+
+3.2 - Pela prática dos atos compreendidos no regime especial de constituição imediata de associações - (euro) 300;
+
+3.3 - Pela prática dos atos compreendidos no regime especial de constituição imediata de cooperativas - 360 euros
+
+3.4 - Os emolumentos previstos nos n.os 3.1, 3.2 e 3.3 têm um valor único, incluem a aprovação de denominação no posto de atendimento e, nos casos dos n.os 3.1 e 3.3, incluem o custo da publicação obrigatória e dos atos de registo comercial efetuados.
+
+3.5 - Do emolumento previsto nos n.os 3.1, 3.2 e 3.3, deduzido da taxa devida pela publicação a que se refere o n.º 3.4, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Coletivas (RNPC).
+
+3.6 - Pela prática dos atos compreendidos no regime especial de constituição online de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou ato constitutivo de modelo aprovado - (euro) 220;
+
+3.7 - Pela prática dos atos compreendidos no regime especial de constituição online de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou ato constitutivo elaborado pelos interessados - (euro) 360;
+
+3.8 - Os emolumentos previstos nos n.os 3.6 e 3.7 têm um valor único e incluem o custo da aprovação eletrónica e automática da firma, nos termos do artigo 50.º-A do Decreto-Lei n.º 129/98, de 13 de maio, bem como a publicação obrigatória do registo.
+
+4 - Regime especial de criação imediata de representações permanentes:
+
+4.1 - Pela prática dos atos compreendidos no regime especial de criação imediata de representações permanentes - (euro) 200;
+
+4.2 - O emolumento previsto no número anterior tem um valor único e inclui o custo da publicação obrigatória do registo.
+
+5 - Impugnação:
+
+5.1 - Por cada processo de recurso hierárquico - 175 (euro)
+
+5.1.1 - Por cada processo de recurso hierárquico de conta ou de recusa de passagem de certidão - 120 (euro)
+
+5.2 - Em caso de procedência do recurso, há lugar à devolução dos emolumentos previstos nos números anteriores;
+
+5.3 - Em caso de provimento parcial do recurso o emolumento previsto no n.º 5.1 é reduzido a metade, sendo devolvido na sua totalidade o emolumento previsto no n.º 5.1.1;
+
+5.4 - A retificação oficiosa da conta com base nos fundamentos invocados em recurso hierárquico findo por falta de verificação dos respetivos pressupostos, dá lugar à devolução do emolumento previsto no n.º 5.1.1;
+
+6 - Por cada certificado emitido nos termos do artigo 133.º do Regulamento dos Serviços dos Registos e do Notariado... 50
+
+7 - Reconhecimentos e termos de autenticação:
+
+7.1 - Pelo reconhecimento de cada assinatura e de letra e assinatura - (euro) 12;
+
+7.2 - Pelo reconhecimento que contenha, a pedido dos interessados, menção de qualquer circunstância especial - (euro) 16,50;
+
+7.3 - Por cada termo de autenticação de documentos não abrangidos pelo n.º 7.7, com um só interveniente - (euro) 24;
+
+7.4 - Por cada interveniente a mais - (euro) 6,50;
+
+7.5 - Por cada termo de autenticação de procuração com um só mandante e mandatário - (euro) 20;
+
+7.6 - Por cada mandante ou mandatário adicional - (euro) 10;
+
+7.7 - Por cada termo de autenticação de documentos particulares que titulem atos sujeitos a registo predial nos termos do artigo 24.º do Decreto-Lei n.º 116/2008, de 4 de Julho - (euro) 175;
+
+7.7.1 - Por cada interveniente para além do primeiro - (euro) 10;
+
+7.7.2 - Por cada ato ou negócio jurídico a mais além do primeiro, acresce - (euro) 50;
+
+7.7.3 - Por cada prédio a mais além do primeiro, acresce - (euro) 25.
+
+8 - Traduções e certificados:
+
+8.1 - Pelo certificado de exatidão da tradução de cada documento realizada por tradutor ajuramentado - (euro) 25;
+
+8.2 - Pela tradução de documentos, por cada página - (euro) 20;
+
+8.3 - [Revogado].
+
+9 - Fotocópias e respetiva conferência, públicas-formas e certificação da conformidade de documentos eletrónicos com os documentos originais:
+
+9.1 - Por cada pública - forma, conferência de fotocópia ou fotocópia e respetiva conferência, até quatro páginas, inclusive - (euro) 18;
+
+9.2 - A partir da 5.ª página, por cada página a mais, (euro) 1, até ao limite de (euro) 150;
+
+9.3 - Por cada certificação da conformidade de documentos eletrónicos com os documentos originais e respetiva digitalização - (euro) 17.
+
+10 - Operações especiais de registos (SIR - Soluções Integradas de Registo):
+
+10.1 - A instrução dos procedimentos de operações especiais de registos que determine a solicitação
+
+aos interessados de documentos que não possam ser obtidos através do acesso directo às bases de
+
+dados dos registos, dá lugar à cobrança do emolumento previsto para o suprimento de deficiências;
+
+10.2 - A identificação dos bens sobre os quais incidem os actos ou procedimentos, mediante consulta,
+
+a pedido dos interessados, das bases de dados dos registos, dá lugar à cobrança dos emolumentos
+
+previstos para as fotocópias não certificadas;
+
+10.3 - Sem prejuízo do disposto nos números anteriores, os emolumentos e taxas devidos por actos de
+
+registo e procedimento realizados ao abrigo do n.º 5 do artigo 26.º do Decreto-Lei n.º 116/2008, de 4
+
+de Julho, são facturados de forma agrupada no final de cada operação especial de registo.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 54/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 17.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 73/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16, em vigor a partir de 2008-04-17
+
+> Alterado pelo/a Artigo 23.º do/a Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24, em vigor a partir de 2007-10-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+### Artigo 27.º-A — Procedimento especial de transmissão, oneração e registo de imóveis
+
+1 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, independentemente do
+
+número de atos de registo, com ou sem marcação prévia - (euro) 700.
+
+1.1 - Pelo procedimento que titule atos de permuta com constituição de uma ou mais hipotecas,
+
+acresce ao emolumento previsto no número anterior (euro) 225.
+
+2 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação
+
+prévia, se apenas for registado um facto - (euro) 375.
+
+3 - Pelo procedimento especial de que resulte a constituição da propriedade horizontal acresce ao
+
+emolumento que se mostre devido nos termos dos números anteriores, (euro) 25 por cada descrição
+
+subordinada, até ao limite de (euro) 30 000.
+
+3.1 - Pelo procedimento especial de que resulte a modificação do título constitutivo da propriedade
+
+horizontal acresce ao emolumento previsto nos termos dos n.os 1 e 2, (euro) 25 por cada descrição
+
+subordinada, criada ou alterada, até ao limite de (euro) 30 000;
+
+3.2 - O disposto no número anterior não tem aplicação no caso de mera reprodução de inscrições ou
+
+de averbamentos ou de simples menção de cotas de referência.
+
+4 - Pela desistência ou não conclusão do procedimento por motivos imputáveis às partes é devido um
+
+terço do emolumento previsto.
+
+5 - Por cada consulta efetuada a bases de dados registais no âmbito dos processos previstos no
+
+presente artigo é devido valor igual ao valor mais baixo previsto para a emissão de certidão online, ou
+
+em papel caso aquela não exista, relativa a cada espécie de registo.
+
+5.1 - O disposto no número anterior só é aplicável se inexistir código de acesso válido a certidão
+
+permanente e não for apresentada pelos interessados a correspondente certidão em suporte de papel e
+
+determina a entrega de chave de acesso à certidão permanente ou a correspondente certidão em
+
+suporte de papel.
+
+6 - Pela emissão de certificado relativo a procedimento não concluído por motivo imputável às partes -
+
+(euro) 50.
+
+7 - Pelo procedimento que abranja mais de um imóvel, acresce ao valor fixado nos termos dos
+
+números anteriores por cada prédio a mais, até ao limite de (euro) 30 000 - (euro) 50.
+
+7.1 - No caso de procedimento que titule atos de permuta, o acréscimo previsto no número anterior conta-se apenas a partir do terceiro prédio.
+
+8 - Pelo documento de retificação a título elaborado no âmbito do procedimento, por erro não
+
+imputável aos serviços - (euro) 50.
+
+9 - Por cada averbamento ao documento que titule o negócio jurídico, incluindo rectificações não
+
+imputáveis aos serviços - (euro) 50.
+
+10 - Os emolumentos previstos neste artigo têm um valor único, incluindo os montantes a pagar a
+
+título de emolumentos pessoais, quando estes sejam devidos.
+
+11 - [Revogado].
+
+> Alterado pelo/a Artigo 24.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Rectificado pelo/a Declaração de Retificação n.º 65/2012 - Diário da República n.º 222/2012, Série I de 2012-11-16, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 24.º do/a Decreto-Lei n.º 263-A/2007 - Diário da República n.º 140/2007, 1º Suplemento, Série I de 2007-07-23, em vigor a partir de 2007-07-24
+
+### Artigo 27.º-B — Emolumentos do Registo Central do Beneficiário Efetivo
+
+1 - Pela emissão de certidão referente a informação constante do Registo Central do Beneficiário Efetivo - (euro) 20.
+
+2 - Pela declaração de retificação, prevista no n.º 2 do artigo 26.º da Lei n.º 89/2017, de 21 de agosto, por erro não imputável aos serviços - 50 (euro).
+
+3 - Pelo preenchimento eletrónico assistido da declaração do beneficiário efetivo - 15 (euro).
+
+4 - (Revogado.)
+
+5 - O emolumento devido pela disponibilização da informação constante do Registo Central do Beneficiário Efetivo que requeira um tratamento informático especial, designadamente de desenvolvimento ou de manutenção de mecanismos de interoperabilidade entre o sistema de informação de suporte ao Registo Central do Beneficiário Efetivo e os sistemas de informação das autoridades competentes, é o correspondente ao custo efetivo do serviço.
+
+> Alterado pelo/a Artigo 17.º do/a Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31, em vigor a partir de 2020-09-01, produz efeitos a partir de 2017-11-19
+
+> Aditado pelo/a Artigo 14.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
+
+### Artigo 27.º-C — Emolumentos do registo de fundações
+
+1 - Pelo registo do reconhecimento da fundação - (euro) 300.
+
+2 - Pelo registo de abertura de representação permanente de fundação estrangeira - (euro) 180.
+
+3 - Por qualquer outro ato de registo sobre fundações ou representações permanentes de fundação estrangeira - (euro) 150.
+
+4 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao ato.
+
+5 - Pelo suprimento oficioso de deficiências nos termos dos n.os 2, 3 e 5 do artigo 52.º do Código do Registo Comercial - (euro) 30.
+
+6 - Pela desistência do pedido de registo - (euro) 20.
+
+7 - Pela recusa do registo - (euro) 50.
+
+8 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50 % do emolumento correspondente a cada um dos restantes factos.
+
+9 - Os emolumentos previstos no presente artigo têm um valor único e incluem os montantes relativos aos atos subsequentes de inscrição no Ficheiro Central de Pessoas Coletivas e de publicação obrigatória, quando a estes houver lugar, bem como os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.
+
+10 - São aplicáveis às fundações as taxas estabelecidas no presente Regulamento para os procedimentos, certidões, informações e acesso a base de dados, e demais atos de registo comercial, na medida em que se trate de ato análogo.
+
+11 - São ainda gratuitos os registos efetuados com base em comunicação oficiosa da Secretaria-Geral da Presidência do Conselho de Ministros a que se referem as alíneas a), no que toca ao registo do pedido de reconhecimento bem como da recusa do reconhecimento, e b) e f) do artigo 2.º do Regime do Registo de Fundações, aprovado em anexo ao Decreto-Lei n.º 157/2019, de 22 de outubro.
+
+> Aditado pelo/a Artigo 8.º do/a Decreto-Lei n.º 157/2019 - Diário da República n.º 203/2019, Série I de 2019-10-22, em vigor a partir de 2020-01-01
+
+## Secção X — Isenções ou reduções emolumentares
+
+### Artigo 28.º — Isenções ou reduções emolumentares
+
+1 - Os emolumentos devidos pela celebração da escritura pública de compra e venda, de doação e de partilha mortis causa de imóveis rústicos são reduzidos em função do valor do acto, nos seguintes termos:
+
+1.1 - Até (euro) 5000 - em três quartos;
+
+1.2 - Acima de (euro) 5000 e até (euro) 10000 - em dois terços;
+
+1.3 - Acima de (euro) 10000 e até (euro) 15000 - em metade;
+
+1.4 - Acima de (euro) 15000 e até (euro) 25000 - em um terço;
+
+1.5 - Acima de (euro) 25000 e até (euro) 35000 - em um quarto;
+
+1.6 - Acima de (euro) 35000 e até (euro) 80000 - em um oitavo.
+
+2 - Os emolumentos devidos pela emissão de certidões destinadas a instruir as escrituras de doação e partilha mortis causa referidas no número anterior beneficiam de uma redução correspondente a metade do respectivo valor.
+
+3 - As certidões que beneficiem da redução emolumentar prevista no número anterior devem mencionar o fim a que se destinam, único para que podem ser utilizadas.
+
+4 - Os benefícios previstos no n.º 1 do presente artigo são aplicáveis à aquisição por compra e venda de imóvel para habitação própria e permanente.
+
+5 - Às aquisições realizadas ao abrigo do regime de conta poupança-habitação aplica-se a redução emolumentar prevista no n.º 1, se esta for mais favorável do que a prevista naquele regime.
+
+6 - A transmissão isolada de partes indivisas de imóveis urbanos, efectuadas nos termos e condições constantes dos n.os 1 e 4, goza das reduções emolumentares aí previstas, se pelo acto de aquisição o adquirente concentrar na sua esfera jurídica a totalidade do direito de propriedade do imóvel.
+
+7 - Goza igualmente do benefício previsto no n.º 1 a aquisição simultânea e pelo mesmo sujeito, da sua propriedade e do usufruto de imóveis urbanos para habitação própria e permanente, titulada nos termos atrás descritos.
+
+8 - Para efeitos do disposto no n.º 1, considera-se como valor do acto o preço global ou o valor total atribuído aos imóveis ou a soma dos seus valores patrimoniais, se superior.
+
+9 - São, também, isentos dos emolumentos de urgência, os actos lavrados ao abrigo de regimes de urgência legal, incluindo os que por virtude de uma relação de dependência devam ser lavrados previamente àquele.
+
+10 - Os emolumentos devidos pelo acesso e fornecimento, nos termos da lei, de cópias parciais de registo em suporte magnético ou em suporte de papel, resultantes da consulta em linha à base de dados do registo de automóveis quando requerida e efectuada pelas câmaras municipais ou entidades administrativas municipais, no exercício exclusivo de competências no âmbito da regulação e fiscalização do cumprimento das disposições do Código da Estrada e legislação complementar, são reduzidos, de acordo com o número de eleitores dos respectivos municípios, nos termos seguintes:
+
+10.1 - Municípios com 10000 ou menos eleitores - em metade;
+
+10.2 - Municípios com mais de 10000 e menos de 50000 eleitores - em um terço;
+
+10.3 - Municípios com mais de 50000 e menos de 100000 eleitores - em um quarto.
+
+11 - (Revogado.)
+
+12 – (Revogado.)
+
+13 – (Revogado.)
+
+14 - (Revogado.)
+
+15 - (Revogado.)
+
+16 - (Revogado.)
+
+17 - (Revogado.)
+
+18 - Estão isentos de tributação emolumentar os actos notariais e de registo exigidos para execução de providências integradoras ou decorrentes de plano de insolvência judicialmente homologado que visem o saneamento da empresa, através da recuperação do seu titular ou da sua transmissão, total ou parcial, a outra ou outras entidades.
+
+19 - (Revogado.)
+
+20 - (Revogado.)
+
+21 - O emolumento devido pela prática dos actos compreendidos no regime especial de constituição imediata de associações de estudantes é reduzido em (euro) 100, não sendo devida participação emolumentar pela referida redução.
+
+22 - (Revogado.)
+
+23 - (Revogado.)
+
+24 - (Revogado.)
+
+25 - Os emolumentos devidos por atos de registo previstos nos artigos 22.º e 25.º, quando promovidos por via eletrónica, são reduzidos em 15 %, quanto a todas as verbas que os compõem.
+
+26 - Os emolumentos devidos por atos de registo predial previstos nos n.os 2.1 e 2.12 do artigo 21.º, quando promovidos por via eletrónica, são reduzidos em 10 %, quando não sejam requeridos, nem devam ser efetuados como provisórios, nos termos da alínea g), h), i) e j) do n.º 1 do artigo 92.º do Código do Registo Predial.
+
+27 - Os emolumentos devidos por atos de registo predial previstos nos n.os 2.7, 2.16.2, 2.17 e 3 do artigo 21.º, quando promovidos por via eletrónica, são reduzidos em 10 %.
+
+28 - O registo por depósito promovido pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial, não está sujeito ao pagamento do emolumento previsto no n.º 3 do artigo 22.º
+
+29 - (Revogado.)
+
+30 - (Revogado.)
+
+31 - As certidões e outros documentos de carácter probatório requeridos para fins eleitorais, bem como os reconhecimentos de assinaturas e outros actos respeitantes a documentos destinados a apresentação para os mesmos fins estão isentos de emolumentos.
+
+32 - Pelo acesso em linha por parte das entidades responsáveis pelas bases de dados do dispositivo electrónico de matrícula às bases de dados do registo automóvel, o montante decorrente do n.º 5.3.2.5 do artigo 25.º terá um limite mensal fixado por despacho do membro do Governo responsável pela área da Justiça.
+
+33 - Os emolumentos previstos nos n.os 2.1, 2.12, 2.16.2, 2.17, 3, 4, 5, 12, 22 e 23 do artigo 21.º, bem como o emolumento previsto nos n.os 7.7, 7.7.1, 7.7.2 e 7.7.3 do artigo 27.º, são reduzidos em 65 % quando o facto respeite apenas a prédios rústicos de valor inferior a 10 000 €.
+
+33.1 - Os emolumentos devidos pelo procedimento especial de transmissão, oneração e registo previstos no artigo 27.º-A, n.os 1 e 2, são reduzidos em 50 % quando respeitem apenas a prédios rústicos de valor inferior a (euro) 10 000.
+
+33.1.1 - Os emolumentos devidos pelos procedimentos previstos no artigo 18.º, n.os 6.2, 6.2.1, 6.2.2, 6.10.2, 6.10.3, 6.10.4 e 6.10.5.1, são reduzidos em 50 % quando respeitem apenas a prédios rústicos de valor inferior a (euro) 10 000.
+
+33.2 - Para efeitos do disposto nos números anteriores, o valor do prédio é o do seu valor patrimonial, o valor declarado ou aquele que as partes lhe atribuírem se for superior.
+
+34 - Os emolumentos devidos pela realização de atos de registo de factos relativos a prédio rústico ou misto a disponibilizar, ou disponibilizado, na bolsa de terras ou no banco de terras, e relacionados com a finalidade dessa disponibilização, são reduzidos em 75 %.
+
+35 - Os emolumentos devidos pela realização de atos de registo de factos relativos a prédios rústicos destinados à exploração florestal, adquiridos por entidades de gestão florestal (EGF) reconhecidas, ou por associados destas, que afetem, no prazo de seis meses, esses prédios à gestão dessa EGF, são reduzidos em 75 %.
+
+36 - A redução prevista no número anterior é igualmente aplicável às unidades de gestão florestal (UGF) reconhecidas, ou por associados destas, desde que seja promovida a afetação dos prédios rústicos à gestão dessa UGF, no prazo aí previsto.
+
+37 - É isento de emolumentos:
+
+a) O registo da primeira aquisição, por transmissão a título oneroso, de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente, cujo valor tributável, nos termos do n.º 1 do artigo 12.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de novembro, na sua redação atual (CIMT), não exceda o valor máximo do 4.º escalão da tabela prevista na alínea a) do n.º 1 do artigo 17.º do CIMT, que seja efetuado a favor de sujeitos que tenham idade igual ou inferior a 35 anos à data da transmissão, e que, no ano da transmissão, não sejam considerados dependentes para efeitos do artigo 13.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro, na sua redação atual;
+
+b) O registo de hipoteca voluntária para garantia de mútuo concedido para a aquisição a que se refere a alínea anterior.
+
+38 - Não beneficiam da isenção prevista nas alíneas a) e b) do número anterior os sujeitos que sejam titulares de direito de propriedade, ou de figura parcelar desse direito, sobre prédio urbano ou fração autónoma de prédio urbano com fim habitacional, à data da transmissão ou nos três anos anteriores.
+
+39 - Quando os pressupostos das isenções a que se referem as alíneas a) e b) do n.º 37 se verificarem apenas relativamente a algum ou alguns dos adquirentes, os emolumentos devidos pelos registos de aquisição e de hipoteca são reduzidos proporcionalmente.
+
+40 - Se, para a situação prevista na alínea a) do n.º 37, for utilizado o procedimento especial de transmissão, oneração e registo de imóveis previsto nos n.os 1 e 2 do artigo 27.º-A, os emolumentos devidos pelo procedimento são reduzidos em:
+
+a) € 225, se apenas for registado um facto;
+
+b) € 450, se for registado mais do que um facto.
+
+41 - Quando forem vários os adquirentes e os pressupostos da redução previstos no n.º 40 não se verificarem relativamente a todos eles, os emolumentos devidos pelo procedimento são reduzidos em:
+
+a) € 112,50, se apenas for registado um facto;
+
+b) € 225, se for registado mais do que um facto.
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15, em vigor a partir de 2026-04-16.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 48-D/2024 - Diário da República n.º 147/2024, Suplemento, Série I de 2024-07-31, em vigor a partir de 2024-08-01, produz efeitos a partir de 2024-08-01
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 110/2017 - Diário da República n.º 240/2017, Série I de 2017-12-15, em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Lei n.º 63/2012 - Diário da República n.º 238/2012, Série I de 2012-12-10, em vigor a partir de 2012-12-15
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02, em vigor a partir de 2010-10-01
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 20.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28, em vigor a partir de 2007-09-29
+
+> Alterado pelo/a Artigo 23.º do/a Lei n.º 40/2007 - Diário da República n.º 163/2007, Série I de 2007-08-24, em vigor a partir de 2007-10-31
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 85/2006 - Diário da República n.º 99/2006, Série I-A de 2006-05-23, em vigor a partir de 2006-05-24
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Rectificado pelo/a Declaração de Rectificação n.º 89/2005 - Diário da República n.º 247/2005, Série I-A de 2005-12-27, em vigor a partir de 2005-10-31
+
+> Alterado pelo/a Artigo 15.º do/a Decreto-Lei n.º 178-A/2005 - Diário da República n.º 208/2005, Suplemento n.º 1, Série I-A de 2005-10-28, em vigor a partir de 2005-10-31
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 199/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-08-23
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+> Rectificado pelo/a Declaração de Rectificação n.º 11-I/2003 - Diário da República n.º 226/2003, Suplemento n.º 1, Série I-A de 2003-09-30, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 315/2002 - Diário da República n.º 299/2002, Série I-A de 2002-12-27, em vigor a partir de 2002-09-01
+
+> Nota: Artigo 25.º, Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28 O disposto nos n.os 21 e 25 do artigo 28.º do Regulamento Emolumentar dos Registos e do Notariado, entra em vigor, respectivamente, no dia 31 de outubro e no dia 1 de outubro de 2007.

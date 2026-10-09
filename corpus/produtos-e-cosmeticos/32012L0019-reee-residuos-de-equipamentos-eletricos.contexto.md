@@ -14,9 +14,9 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2014-05-07 — Decreto-Lei n.º 67/2014. D.R. n.º 87, Série I de 2014-05-07 Ministério do Ambiente, Ordenamento do Território e Energia Aprova o regime jurídico da gestão de resíduos de equipamentos elétricos e eletrónicos, transpondo a Diretiva n.º 2012/19/UE, do Parlamento Europeu e do Conselho, de 4 de julho de 2012 (CELEX 72012L0019PRT_215715)
+- 2014-05-07 — Decreto-Lei n.º 67/2014. D.R. n.º 87, Série I de 2014-05-07 Ministério do Ambiente, Ordenamento do Território e Energia Aprova o regime jurídico da gestão de resíduos de equipamentos elétricos e eletrónicos, transpondo a Diretiva n.º 2012/19/UE, do Parlamento Europeu e do Conselho, de 4 de julho de 2012 (CELEX 72012L0019PRT_215715) → texto: [`legislacao-pt/decreto-lei-67-2014.md`](../../legislacao-pt/decreto-lei-67-2014.md) (revogado (texto não incluído))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (1)
 
