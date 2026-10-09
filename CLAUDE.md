@@ -11,7 +11,11 @@ Responde sempre em português de Portugal.
 
 | Caminho | O que tem |
 |---|---|
-| `corpus/INDICE.md` | **Começa aqui.** Lista de todos os actos descarregados por área, com versão e tamanho. |
+| `corpus/INDICE.md` | **Começa aqui.** Os 86 actos curados por área (com considerandos, sínteses, transposição e jurisprudência). |
+| `ue/<tipo>/<ano>/<CELEX>.md` | **Texto integral de toda a legislação da UE em vigor** (≈64 mil actos) e dos actos já publicados que entram em vigor no futuro. Tipos: `regulamentos`, `diretivas`, `decisoes`, `tratados`, `acordos-internacionais`, `recomendacoes`, `concentracoes`, … Versão consolidada mais recente já aplicável, ou o original do JO. |
+| `ue/<…>/<CELEX>.futuro.md` | Versão consolidada já publicada que só se aplica numa data futura (indicada no ficheiro). |
+| `ue/INDICE.tsv` | Uma linha por acto de `ue/`: `celex`, `estado` (em vigor / futuro), `texto` (consolidado, original, PDF, outra língua, sem texto), data da versão, versão futura, tamanho, ficheiro. |
+| `ue/ALTERACOES.md` | Registo das actualizações automáticas (actos novos, novas versões, removidos por deixarem de vigorar). |
 | `corpus/<area>/<CELEX>-<nome>.md` | Texto do acto: versão consolidada mais recente já aplicável (ou o original do JO se não houver consolidação). Artigos como `### Artigo 6.º — Título`; capítulos, secções e anexos como `## …`. |
 | `corpus/<area>/<…>.considerandos.md` | Preâmbulo (considerandos) do texto original. Os considerandos não são normas, mas explicam a intenção do legislador e o Tribunal de Justiça usa-os para interpretar. |
 | `corpus/<area>/<…>.contexto.md` | Sínteses oficiais, **medidas portuguesas de transposição** (só diretivas) e lista de acórdãos do Tribunal de Justiça que interpretam o acto. |
@@ -35,12 +39,13 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
 
 ## Como responder a uma pergunta
 
-1. Identifica o acto no `corpus/INDICE.md`. Se não estiver lá, procura no catálogo
-   (`grep -i "palavra" catalogo/legislacao-em-vigor.tsv | cut -f1,2,3,6`, ou por área com
-   o código de `catalogo/repertorio.md`) e, se for preciso o texto, descarrega-o:
+1. Identifica o acto. Primeiro em `corpus/INDICE.md` (86 actos curados, mais completos).
+   Se não estiver lá, procura no catálogo (`grep -i "palavra" catalogo/legislacao-em-vigor.tsv
+   | cut -f1,2,3,6`, ou por área com o código de `catalogo/repertorio.md`) e lê o texto em
+   `ue/` (o caminho está em `ue/INDICE.tsv`). Para pesquisar no texto de toda a legislação,
+   usa `rg` (ripgrep) em `ue/` — são cerca de 1,5 GB, `grep -r` é lento.
+   Se um acto do catálogo não estiver em `ue/`, descarrega-o:
    `python3 ferramentas/eurlex.py obter <CELEX> --area <area> --curto "<nome>"`.
-   Não concluas que "não há regra" só porque o corpus não a tem: o corpus tem 86 actos
-   de um universo de 64 mil.
 2. Vai ao artigo concreto (`grep -n "^### Artigo 6.º" corpus/dados-e-privacidade/32016R0679-rgpd.md`)
    e lê-o inteiro, incluindo definições (normalmente no artigo 2.º, 3.º ou 4.º) e exceções.
    Usa os considerandos para a interpretação e o `.contexto.md` para a jurisprudência.
@@ -92,6 +97,27 @@ colocação de produtos no mercado), diz claramente que é uma leitura do texto 
 e que a aplicação ao caso concreto, sobretudo onde entra lei nacional, deve ser validada
 por um profissional.
 
+## Particularidades de `ue/`
+
+- Ficheiros com `texto: … — em eng/fra/deu`: o Cellar não tem versão portuguesa (típico das
+  decisões sobre concentrações, só na língua do processo). Diz ao utilizador que leste o
+  texto noutra língua.
+- `texto: … — PDF`: texto extraído de PDF; quebras de linha e tabelas podem estar
+  desalinhadas.
+- `texto: sem texto no Cellar …`: só metadados. Nos artigos isolados dos Tratados (CELEX
+  como `12010E355`), lê a versão consolidada do Tratado respectivo.
+- `estado: futuro`: o acto já foi publicado mas ainda não está em vigor (`entrada_em_vigor`).
+- Os ficheiros de `ue/` não têm considerandos separados nem contexto: nos textos originais o
+  preâmbulo vem na secção `## Preâmbulo`; nos consolidados não existe (está no JO).
+
+## Actualização automática
+
+`.github/workflows/actualizar.yml` corre às segundas-feiras: refaz o catálogo, descarrega os
+actos novos ou com nova versão consolidada, remove de `ue/` os que deixaram de vigorar,
+actualiza as leis portuguesas e o corpus curado, e faz commit. O que mudou fica em
+`ue/ALTERACOES.md`. Antes de responder sobre algo muito recente, vê a data do último commit
+ou o `obtido_em` do ficheiro.
+
 ## Convenções do texto convertido
 
 - `▼B`, `▼M1`, `►M1 … ◄`, `▼C1`: marcas do EUR-Lex nos consolidados. `B` = texto de base,
@@ -117,6 +143,8 @@ python3 ferramentas/eurlex.py obter 62014CJ0362 --area jurisprudencia --curto "S
 python3 ferramentas/eurlex.py catalogo                  # catálogo de tudo o que está em vigor
 python3 ferramentas/eurlex.py indice                    # regenerar corpus/INDICE.md
 python3 ferramentas/dre.py tudo                         # leis portuguesas (precisa de Node + Playwright)
+python3 ferramentas/completo.py listas && python3 ferramentas/completo.py descarregar && python3 ferramentas/completo.py converter   # tudo em vigor
+python3 ferramentas/completo.py actualizar              # só o que é novo ou mudou
 ```
 
 Para juntar uma lei portuguesa que não seja de transposição (ex.: execução de um

@@ -11,6 +11,9 @@ está em lei portuguesa que não está aqui. Ver "O que não está aqui".
 
 ## O que está aqui
 
+- **`ue/`** — o texto integral de **toda a legislação da UE em vigor** (64 273 actos) e dos
+  actos já publicados que entram em vigor no futuro, actualizado todas as semanas. Ver
+  "Toda a legislação em vigor e a futura".
 - **`corpus/`** — o texto completo de 86 actos escolhidos por serem os que um negócio
   digital, de comércio electrónico ou de produtos encontra na prática: tratados e Carta,
   RGPD e dados, IA e plataformas (Regulamento IA, DSA, DMA…), consumo e vendas online,
@@ -46,31 +49,36 @@ está em lei portuguesa que não está aqui. Ver "O que não está aqui".
 - **`CLAUDE.md`** — instruções para o Claude: como pesquisar, como citar e que limites
   assinalar nas respostas.
 
-## Porque não está "todo o EUR-Lex"
+## Toda a legislação em vigor e a futura
 
-O EUR-Lex tem cerca de 1 milhão de documentos (contagem de obras com número CELEX no
-Cellar em 2026-10-09), cada um em até 24 línguas: legislação revogada, propostas,
-trabalhos preparatórios, jurisprudência, perguntas parlamentares, Jornal Oficial série C…
-Só a legislação derivada marcada como em vigor são ~47 000 actos, muitos deles decisões
-sobre casos concretos (uma concentração de empresas, um auxílio a uma empresa, uma quota
-de pesca).
+A pasta **`ue/`** tem o texto integral, em português, de todos os actos que o Cellar marca
+como em vigor (64 273 em 2026-10-09: tratados, acordos internacionais, regulamentos,
+diretivas, decisões, recomendações…) e dos 52 já publicados que só entram em vigor depois
+dessa data. Para cada acto: a versão consolidada mais recente já aplicável ou, se não houver,
+o texto original do Jornal Oficial; e, quando já existe, a versão consolidada futura
+(`<CELEX>.futuro.md`). Quando o Cellar não tem o acto em português (sobretudo decisões
+sobre concentrações de empresas, publicadas só na língua do processo), usa-se o inglês, o
+francês ou o alemão, e o ficheiro di-lo. Mapa completo em `ue/INDICE.tsv`.
 
-Pôr tudo num repositório não ajuda o Claude a responder melhor — torna a pesquisa mais
-lenta e mais ruidosa. Por isso a opção foi:
-
-1. texto integral para o que é relevante para projectos de negócio (o núcleo);
-2. catálogo completo do que está em vigor, para descobrir o resto;
-3. ferramenta para descarregar qualquer outro acto quando for preciso.
+**Actualização automática:** `.github/workflows/actualizar.yml` corre todas as
+segundas-feiras no GitHub Actions. Junta os actos novos, substitui os que têm nova versão
+consolidada, retira os que deixaram de vigorar, actualiza as leis portuguesas e o corpus
+curado, e regista o que mudou em `ue/ALTERACOES.md`. Pode ser lançada à mão em Actions →
+"Actualizar legislação" → Run workflow, ou desligada no mesmo sítio.
 
 ## O que não está aqui
+
+- Legislação já revogada, propostas e trabalhos preparatórios, Jornal Oficial série C,
+  perguntas parlamentares (o EUR-Lex tem ~1 milhão de documentos; aqui está o que vigora).
+- Texto integral da jurisprudência do Tribunal de Justiça (só a lista por acto, no corpus
+  curado; cada acórdão descarrega-se a pedido).
 
 - Lei portuguesa que não seja de transposição das diretivas do corpus (ex.: Código do IVA,
   Código das Sociedades Comerciais, leis de execução de regulamentos — exceto as listadas
   em `ferramentas/dre_extra.yaml`). Diplomas regionais (Açores/Madeira) também não.
 - Orientações e decisões de autoridades (Comissão, CEPD, CNPD, ASAE, AT, Infarmed…).
 - Normas técnicas (EN, ISO), que não são publicadas no EUR-Lex.
-- Texto integral da jurisprudência (só a lista; descarrega-se a pedido).
-- Outras línguas além do português (o script aceita `--lingua en`).
+- Outras línguas, salvo quando o acto não existe em português (o script aceita `--lingua en`).
 
 ## Como usar
 

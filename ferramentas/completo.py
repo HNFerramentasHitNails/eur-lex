@@ -306,13 +306,23 @@ def _corpo(texto, formato):
     return eurlex.analisar(texto)
 
 
-def converter_um(a, rel_corpus):
+def _linha_existente(a, destino):
+    fm = eurlex.ler_frontmatter(destino)
+    return {"celex": a["celex"], "ficheiro": str(destino.relative_to(RAIZ)), "estado": a["estado"],
+            "texto": fm.get("texto", ""), "versao": fm.get("versao_aplicavel_desde") or "",
+            "futuro": (fm.get("versao_futura") or "").split("(")[-1].rstrip(")") if fm.get("versao_futura") else "",
+            "kb": destino.stat().st_size // 1024}
+
+
+def converter_um(a, rel_corpus, so_novos=False):
     c = _cache(a["celex"])
     if not c.exists():
         return None
+    destino = SAIDA / pasta(a["celex"]) / f"{nome_ficheiro(a['celex'])}.md"
+    if so_novos and destino.exists() and destino.stat().st_mtime >= c.stat().st_mtime:
+        return _linha_existente(a, destino)
     with gzip.open(c, "rt", encoding="utf-8") as fh:
         reg = json.load(fh)
-    destino = SAIDA / pasta(a["celex"]) / f"{nome_ficheiro(a['celex'])}.md"
     destino.parent.mkdir(parents=True, exist_ok=True)
     if "texto" not in reg:
         estado = "sem texto no Cellar (PT, EN, FR, DE)"
@@ -402,13 +412,14 @@ def mapa_corpus():
     return res
 
 
-def cmd_converter(fios=4, so=None):
+def cmd_converter(fios=4, so=None, so_novos=False):
     actos = json.loads(LISTA.read_text(encoding="utf-8"))
     corpus = mapa_corpus()
     alvo = [a for a in actos.values() if not so or a["celex"] in so]
     linhas = []
     with cf.ProcessPoolExecutor(max_workers=fios) as ex:
-        for r in ex.map(converter_um, alvo, [corpus.get(a["celex"]) for a in alvo], chunksize=50):
+        for r in ex.map(converter_um, alvo, [corpus.get(a["celex"]) for a in alvo], [so_novos] * len(alvo),
+                        chunksize=50):
             if r:
                 linhas.append(r)
     # Índice: substitui as linhas convertidas agora e mantém as restantes.
@@ -483,13 +494,14 @@ def main():
     ap.add_argument("--fios", type=int, default=8)
     ap.add_argument("--limite", type=int)
     ap.add_argument("--so", nargs="*")
+    ap.add_argument("--so-novos", action="store_true", help="converter: saltar ficheiros já actualizados")
     a = ap.parse_args()
     if a.passo == "listas":
         cmd_listas()
     elif a.passo == "descarregar":
         print(cmd_descarregar(a.fios, set(a.so) if a.so else None, a.limite))
     elif a.passo == "converter":
-        print(f"{len(cmd_converter(min(a.fios, 4), set(a.so) if a.so else None))} ficheiros")
+        print(f"{len(cmd_converter(min(a.fios, 4), set(a.so) if a.so else None, a.so_novos))} ficheiros")
     elif a.passo == "actualizar":
         cmd_actualizar(a.fios)
 
