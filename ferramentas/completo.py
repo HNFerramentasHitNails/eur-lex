@@ -187,51 +187,164 @@ def _paginar(consulta, passo=10000):
         desloc += passo
 
 
+NAO_CONFIRMADO = "em vigor (por confirmar)"
+REMOVIDOS = CACHE / "removidos.json"  # actos que saem de ue/ nesta actualização e porquê
+
+
+def _marca(v):
+    return {"1": True, "true": True, "0": False, "false": False}.get(str(v).lower())
+
+
+def estado_cellar(celexes, lote=80):
+    """Marca 'em vigor', datas de fim de validade e de entrada em vigor, por CELEX (em linhas)."""
+    res = {}
+    celexes = sorted(celexes)
+    for i in range(0, len(celexes), lote):
+        valores = " ".join(eurlex._lit(c) for c in celexes[i:i + lote])
+        for l in eurlex.sparql(eurlex.PREFIXOS + f"""
+SELECT ?celex ?marca (STR(?f) AS ?fim) (STR(?eif) AS ?entrada) WHERE {{
+  VALUES ?c {{ {valores} }}
+  ?w cdm:resource_legal_id_celex ?c . BIND(STR(?c) AS ?celex)
+  OPTIONAL {{ ?w cdm:resource_legal_in-force ?marca }}
+  OPTIONAL {{ ?w cdm:resource_legal_date_end-of-validity ?f }}
+  OPTIONAL {{ ?w cdm:resource_legal_date_entry-into-force ?eif }}
+}}"""):
+            r = res.setdefault(l["celex"], {"marca": None, "fim": set(), "entrada": set()})
+            if l.get("marca") is not None:
+                r["marca"] = _marca(l["marca"])
+            if l.get("fim"):
+                r["fim"].add(l["fim"][:10])
+            if l.get("entrada"):
+                r["entrada"].add(l["entrada"][:10])
+    return res
+
+
+def prova_cessacao(info, hoje, recente):
+    """Motivo para dar um acto como já não estando em vigor, ou None se não houver prova. No sector
+    3, 99,4 % dos actos marcados como não estando em vigor têm data de fim de validade (medido no
+    Cellar em 2026-10-10: 75 668 de 76 144). A marca sozinha não chega: o Cellar marca 'false'
+    actos que entram em vigor nesse dia (ex.: 32026D2204)."""
+    if not info:
+        return None
+    fins = sorted(f for f in info["fim"] if f <= hoje)
+    if fins:
+        return f"fim de validade a {fins[0]}"
+    if info["marca"] is False and (not info["entrada"] or min(info["entrada"]) < recente):
+        return "marcado no Cellar como não estando em vigor" + \
+            (f" (entrada em vigor a {min(info['entrada'])})" if info["entrada"] else "")
+    return None
+
+
 def cmd_listas():
-    hoje = dt.date.today().isoformat()
+    hoje_d = dt.date.today()
+    hoje, recente = hoje_d.isoformat(), (hoje_d - dt.timedelta(days=365)).isoformat()
     actos = {}
     with open(eurlex.CATALOGO / "legislacao-em-vigor.tsv", encoding="utf-8", newline="") as fh:
         for l in csv.DictReader(fh, delimiter="\t"):
             actos[l["celex"]] = {"celex": l["celex"], "titulo": l["titulo"], "data": l["data"], "tipo": l["tipo"],
                                  "repertorio": l["repertorio"], "eli": l["eli"], "estado": "em vigor"}
-    # Actos já publicados que só entram em vigor depois de hoje.
-    futuros = eurlex.sparql(eurlex.PREFIXOS + f"""
-SELECT ?celex (MIN(?eif) AS ?entrada) (SAMPLE(?t) AS ?title) (SAMPLE(?dd) AS ?date) WHERE {{
+
+    # Actos publicados que o Cellar não marca como em vigor, cuja validade não terminou e com alguma
+    # data de entrada em vigor no último ano ou no futuro. As datas vêm em linhas e o mínimo é
+    # calculado aqui (o MIN/MAX do Cellar dá datas de outros actos). Classificação:
+    # - todas as datas depois de hoje → "futuro";
+    # - a primeira já passou → "em vigor (por confirmar)": o Cellar demora dias a marcá-los, e
+    #   regista as datas de aplicação diferida como datas de entrada em vigor (ex.: 32026L0806,
+    #   em vigor desde 2026-05, com pontos aplicáveis em 2028, que aparecia como "futuro").
+    linhas = eurlex.sparql(eurlex.PREFIXOS + f"""
+SELECT ?celex (STR(?eif) AS ?entrada) ?t ?dd WHERE {{
   ?w cdm:resource_legal_id_celex ?celex ; cdm:resource_legal_date_entry-into-force ?eif .
-  FILTER(?eif > "{hoje}"^^xsd:date)
   FILTER(REGEX(STR(?celex), "^[1234]"))
   FILTER NOT EXISTS {{ ?w cdm:resource_legal_in-force "true"^^xsd:boolean }}
+  FILTER NOT EXISTS {{ ?w cdm:resource_legal_date_end-of-validity ?fim . FILTER(?fim <= "{hoje}"^^xsd:date) }}
+  FILTER EXISTS {{ ?w cdm:resource_legal_date_entry-into-force ?e2 . FILTER(?e2 >= "{recente}"^^xsd:date) }}
   OPTIONAL {{ ?w cdm:work_date_document ?dd }}
-  OPTIONAL {{ ?e cdm:expression_belongs_to_work ?w ;
+  OPTIONAL {{ ?x cdm:expression_belongs_to_work ?w ;
                cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/POR> ;
                cdm:expression_title ?t }}
-}} GROUP BY ?celex""")
-    for l in futuros:
-        c = l["celex"]
-        if c not in actos:
-            actos[c] = {"celex": c, "titulo": eurlex.limpar_titulo(l.get("title", "")), "data": l.get("date", "")[:10],
-                        "tipo": eurlex.nome_tipo(c), "repertorio": "", "eli": "", "estado": "futuro",
-                        "entrada_em_vigor": l["entrada"][:10]}
-    # Versões consolidadas, por acto de base. Uma consulta por ano (de uma só vez o servidor falha).
-    linhas = []
-    for ano in range(1950, dt.date.today().year + 6):
-        linhas += eurlex.sparql(eurlex.PREFIXOS + f"""
-SELECT ?base ?cc ?d WHERE {{
-  ?c cdm:act_consolidated_based_on_resource_legal ?w ; cdm:act_consolidated_date ?d ; cdm:resource_legal_id_celex ?cc .
-  ?w cdm:resource_legal_id_celex ?base .
-  FILTER(?d >= "{ano}-01-01"^^xsd:date && ?d < "{ano + 1}-01-01"^^xsd:date)
 }}""")
+    nao_marcados = {}
     for l in linhas:
-        a = actos.get(l["base"])
+        n = nao_marcados.setdefault(l["celex"], {"datas": set(), "titulo": "", "data": ""})
+        n["datas"].add(l["entrada"][:10])
+        n["titulo"] = n["titulo"] or l.get("t", "")
+        n["data"] = n["data"] or (l.get("dd") or "")[:10]
+    for c, n in nao_marcados.items():
+        if c in actos:
+            continue
+        datas = sorted(n["datas"])
+        futuras = [d for d in datas if d > hoje]
+        if datas[0] > hoje:
+            estado, nota = "futuro", None
+        elif datas[0] >= recente or futuras:
+            estado = NAO_CONFIRMADO
+            nota = (f"entrou em vigor a {datas[0]} (data registada no Cellar), mas o Cellar ainda não o marca "
+                    "como em vigor." + (f" Algumas disposições só se aplicam a partir de {', '.join(futuras)}."
+                                        if futuras else ""))
+        else:
+            continue
+        actos[c] = {"celex": c, "titulo": eurlex.limpar_titulo(n["titulo"]), "data": n["data"],
+                    "tipo": eurlex.nome_tipo(c), "repertorio": "", "eli": "", "estado": estado,
+                    "entrada_em_vigor": datas[0]}
+        if nota:
+            actos[c]["nota_estado"] = nota
+
+    # Actos que estavam em ue/ e não vêm em nenhuma das listas: só saem com prova de que deixaram de
+    # vigorar. Sem prova, ficam como "em vigor (por confirmar)" (antes eram apagados: em 2026-10-10
+    # saíram assim 6 actos que entravam em vigor nesse dia e o Cellar ainda não tinha marcado).
+    anteriores = {}
+    if INDICE.exists():
+        with open(INDICE, encoding="utf-8", newline="") as fh:
+            anteriores = {l["celex"]: l["ficheiro"] for l in csv.DictReader(fh, delimiter="\t")}
+    conhecidos = {nome_ficheiro(c) for c in anteriores}
+    for f in SAIDA.glob("*/*/*.md"):
+        base = re.sub(r"\.parte-\d+$", "", f.name[:-3]).removesuffix(".futuro")
+        if base not in conhecidos and f.name == base + ".md":
+            c = eurlex.ler_frontmatter(f).get("celex")
+            if c:
+                anteriores[c] = str(f.relative_to(RAIZ))
+    saidos = [c for c in anteriores if c not in actos]
+    info = estado_cellar(saidos) if saidos else {}
+    removidos = {}
+    for c in saidos:
+        prova = prova_cessacao(info.get(c), hoje, recente)
+        if prova:
+            removidos[c] = prova
+            continue
+        fich = RAIZ / anteriores[c]
+        fm = eurlex.ler_frontmatter(fich) if fich.exists() else {}
+        i = info.get(c)
+        if i is None:
+            nota = "não foi encontrado no Cellar nesta actualização; mantido até haver confirmação."
+        elif i["marca"]:
+            nota = None
+        else:
+            nota = ("o Cellar não o marca como em vigor, mas também não indica fim de validade nem outra prova "
+                    "de que deixou de vigorar; mantido até haver confirmação.")
+        actos[c] = {"celex": c, "titulo": fm.get("titulo") or "", "data": str(fm.get("data_documento") or ""),
+                    "tipo": fm.get("tipo") or eurlex.nome_tipo(c), "repertorio": str(fm.get("repertorio") or ""),
+                    "eli": str(fm.get("eli") or ""), "estado": NAO_CONFIRMADO if nota else "em vigor"}
+        if i and i["entrada"]:
+            actos[c]["entrada_em_vigor"] = min(i["entrada"])
+        if nota:
+            actos[c]["nota_estado"] = nota
+
+    # Versões consolidadas, por acto de base (em linhas; ver eurlex.versoes_consolidadas_todas).
+    versoes = eurlex.versoes_consolidadas_todas()
+    for base, cc, d in versoes:
+        a = actos.get(base)
         if a is not None:
-            a.setdefault("versoes", []).append([l["cc"], l["d"][:10]])
+            a.setdefault("versoes", []).append([cc, d])
     for a in actos.values():
         a["versoes"] = sorted({tuple(v) for v in a.get("versoes", [])}, key=lambda v: v[1], reverse=True)
     CACHE.mkdir(parents=True, exist_ok=True)
     LISTA.write_text(json.dumps(actos, ensure_ascii=False), encoding="utf-8")
+    REMOVIDOS.write_text(json.dumps(removidos, ensure_ascii=False, indent=0), encoding="utf-8")
     n_fut = sum(1 for a in actos.values() if a["estado"] == "futuro")
+    n_conf = sum(1 for a in actos.values() if a["estado"] == NAO_CONFIRMADO)
     n_cons = sum(1 for a in actos.values() if a["versoes"])
-    print(f"{len(actos)} actos ({n_fut} futuros); {n_cons} com versões consolidadas; {len(linhas)} versões")
+    print(f"{len(actos)} actos ({n_fut} futuros, {n_conf} em vigor por confirmar no Cellar); "
+          f"{n_cons} com versões consolidadas; {len(versoes)} versões; {len(removidos)} deixam de estar em vigor")
     return actos
 
 
@@ -408,6 +521,7 @@ def converter_um(a, rel_corpus, so_novos=False):
         "data_documento": a.get("data"),
         "estado": a["estado"],
         "entrada_em_vigor": a.get("entrada_em_vigor"),
+        "nota_estado": a.get("nota_estado"),
         "texto": estado,
         "versao_consolidada": reg.get("versao"),
         "versao_aplicavel_desde": reg.get("versao_data"),
@@ -423,6 +537,9 @@ def converter_um(a, rel_corpus, so_novos=False):
     ls = [f"# {a.get('titulo') or a['celex']}", ""]
     if a["estado"] == "futuro":
         ls += [f"**Ainda não está em vigor:** entrada em vigor prevista a {a.get('entrada_em_vigor')}.", ""]
+    elif a["estado"] == NAO_CONFIRMADO:
+        nota = a.get("nota_estado") or ""
+        ls += [f"**Em vigor, por confirmar:** {nota[:1].upper() + nota[1:]} Confirmar no EUR-Lex.", ""]
     if reg.get("versao"):
         ls += [f"**Texto:** versão consolidada aplicável desde {reg.get('versao_data')} ({reg['versao']}). "
                "Instrumento de documentação sem efeito jurídico; fazem fé os textos do Jornal Oficial.", ""]
@@ -558,14 +675,17 @@ def cmd_converter(fios=4, so=None, so_novos=False):
 
 
 def remover_obsoletos():
-    """Apaga de ue/ os ficheiros de actos que deixaram de estar na lista (deixaram de vigorar)."""
+    """Apaga de ue/ os ficheiros de actos que não estão na lista. cmd_listas só deixa sair da lista
+    os actos com prova de que deixaram de vigorar (motivo em REMOVIDOS)."""
     actos = json.loads(LISTA.read_text(encoding="utf-8"))
+    motivos = {nome_ficheiro(c): m for c, m in json.loads(REMOVIDOS.read_text(encoding="utf-8")).items()} \
+        if REMOVIDOS.exists() else {}
     validos = {nome_ficheiro(c) for c in actos}
     removidos = []
     for f in SAIDA.glob("*/*/*.md"):
         base = re.sub(r"\.parte-\d+$", "", f.name[:-3]).removesuffix(".futuro")
         if base not in validos:
-            removidos.append(str(f.relative_to(RAIZ)))
+            removidos.append(f"{f.relative_to(RAIZ)} ({motivos.get(base, 'fora da lista')})")
             f.unlink()
     return removidos
 

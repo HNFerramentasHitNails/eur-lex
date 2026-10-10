@@ -103,7 +103,8 @@ Cita a lei portuguesa como regra aplicável e a diretiva como origem. Se o fiche
    ou `versao_consolidada_de`) e ficheiro:linhas.
 3. **Suposições** que fizeste e o que mudaria se fossem outras.
 4. **O que não verificaste** (lei nacional não incluída, orientações das autoridades, versões
-   futuras, rectificações) — ver "Limites" no `CLAUDE.md`.
+   futuras, rectificações) — ver "Limites" no `CLAUDE.md`. Se o ficheiro tiver
+   `estado: futuro` ou `estado: em vigor (por confirmar)`, di-lo e indica a `nota_estado`.
 5. Se houver coimas, contratos, declarações fiscais ou colocação de produtos no mercado: diz que
    é uma leitura do texto legal e que o caso concreto deve ser validado por um profissional.
 

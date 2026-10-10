@@ -35,8 +35,8 @@ aplicável (no máximo 3 perguntas) e vai directo aos artigos.
 | `corpus/INDICE.md` | Os 86 actos curados por área (com considerandos, sínteses, transposição e jurisprudência). |
 | `ue/<tipo>/<ano>/<CELEX>.md` | **Texto integral de toda a legislação da UE em vigor** (≈64 mil actos) e dos actos já publicados que entram em vigor no futuro. Tipos: `regulamentos`, `diretivas`, `decisoes`, `tratados`, `acordos-internacionais`, `recomendacoes`, `concentracoes`, … Versão consolidada mais recente já aplicável, ou o original do JO. |
 | `ue/<…>/<CELEX>.futuro.md` | Versão consolidada já publicada que só se aplica numa data futura (indicada no ficheiro). |
-| `ue/INDICE.tsv` | Uma linha por acto de `ue/`: `celex`, `estado` (em vigor / futuro), `texto` (consolidado, original, PDF, outra língua, sem texto), data da versão, versão futura, tamanho, ficheiro. |
-| `ue/ALTERACOES.md` | Registo das actualizações automáticas (actos novos, novas versões, removidos por deixarem de vigorar). |
+| `ue/INDICE.tsv` | Uma linha por acto de `ue/`: `celex`, `estado` (em vigor / em vigor (por confirmar) / futuro), `texto` (consolidado, original, PDF, outra língua, sem texto), data da versão, versão futura, tamanho, ficheiro, `assinatura` (uso interno da actualização). |
+| `ue/ALTERACOES.md` | Registo das actualizações automáticas (actos novos, novas versões, removidos e com que prova) e o resultado da verificação automática de cada semana (avisos e problemas graves). |
 | `corpus/<area>/<CELEX>-<nome>.md` | Texto do acto: versão consolidada mais recente já aplicável (ou o original do JO se não houver consolidação). Artigos como `### Artigo 6.º — Título`; capítulos, secções e anexos como `## …`. |
 | `corpus/<area>/<…>.considerandos.md` | Preâmbulo (considerandos) do texto original. Os considerandos não são normas, mas explicam a intenção do legislador e o Tribunal de Justiça usa-os para interpretar. |
 | `corpus/<area>/<…>.contexto.md` | Sínteses oficiais, **medidas portuguesas de transposição** (só diretivas) e lista de acórdãos do Tribunal de Justiça que interpretam o acto. |
@@ -128,15 +128,22 @@ por um profissional.
 - `texto: sem texto no Cellar …`: só metadados. Nos artigos isolados dos Tratados (CELEX
   como `12010E355`), lê a versão consolidada do Tratado respectivo.
 - `estado: futuro`: o acto já foi publicado mas ainda não está em vigor (`entrada_em_vigor`).
+- `estado: em vigor (por confirmar)`: pela data de entrada em vigor registada no Cellar já está em
+  vigor, mas o Cellar ainda não o marca como tal (costuma demorar uns dias), ou deixou de o marcar
+  sem indicar fim de validade. O motivo está em `nota_estado`. Diz ao utilizador que o estado
+  deve ser confirmado no EUR-Lex. Atenção: o Cellar regista datas de aplicação diferida como datas
+  de entrada em vigor; a nota indica as disposições que só se aplicam mais tarde.
 - Os ficheiros de `ue/` não têm considerandos separados nem contexto: nos textos originais o
   preâmbulo vem na secção `## Preâmbulo`; nos consolidados não existe (está no JO).
 
 ## Actualização automática
 
 `.github/workflows/actualizar.yml` corre às segundas-feiras: refaz o catálogo, descarrega os
-actos novos ou com nova versão consolidada, remove de `ue/` os que deixaram de vigorar,
-actualiza as leis portuguesas e o corpus curado, e faz commit. O que mudou fica em
-`ue/ALTERACOES.md`. Antes de responder sobre algo muito recente, vê a data do último commit
+actos novos ou com nova versão consolidada, remove de `ue/` os que deixaram de vigorar (só com
+prova: data de fim de validade passada, ou marca "não em vigor" com mais de um ano), actualiza as
+leis portuguesas e o corpus curado, verifica a coerência dos dados (`ferramentas/verificar.py`) e
+faz commit. O que mudou e o resultado da verificação ficam em `ue/ALTERACOES.md`; se a
+verificação encontrar problemas graves, a execução falha no GitHub. Antes de responder sobre algo muito recente, vê a data do último commit
 ou o `obtido_em` do ficheiro.
 
 ## Convenções do texto convertido
@@ -167,6 +174,7 @@ python3 ferramentas/dre.py tudo                         # leis portuguesas (prec
 python3 ferramentas/completo.py listas && python3 ferramentas/completo.py descarregar && python3 ferramentas/completo.py converter   # tudo em vigor
 python3 ferramentas/completo.py actualizar              # só o que é novo ou mudou
 python3 ferramentas/indexar.py                          # índices (indice/, INDICE.md)
+python3 ferramentas/verificar.py                        # verificação de coerência (resultado em ue/ALTERACOES.md)
 python3 ferramentas/procurar.py construir               # índice de texto local (.cache/, não vai para o git)
 ```
 

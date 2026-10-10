@@ -312,7 +312,8 @@ def escrever_entrada(actos, curado):
     ls = [
         "# Índice — por onde começar", "",
         f"Gerado por `python3 ferramentas/indexar.py` em {dt.date.today().isoformat()}. "
-        f"{len(actos)} actos da UE ({est.get('em vigor', 0)} em vigor, {est.get('futuro', 0)} futuros), "
+        f"{len(actos)} actos da UE ({est.get('em vigor', 0)} em vigor, {est.get('em vigor (por confirmar)', 0)} em vigor por "
+        f"confirmar no Cellar, {est.get('futuro', 0)} futuros), "
         f"{len(curado)} no corpus curado, leis portuguesas de transposição em `legislacao-pt/`.", "",
         "## Para gastar poucos tokens", "",
         "1. **Não abras ficheiros inteiros.** Um regulamento pode ter 50 000+ tokens; um artigo tem 200–2 000.",

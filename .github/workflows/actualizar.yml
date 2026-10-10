@@ -72,6 +72,12 @@ jobs:
         continue-on-error: true
         run: python3 ferramentas/indexar.py
 
+      # Confronta os dados entre si (índice vs ficheiros, remoções e a sua prova, futuros com data
+      # passada, catálogo vs versões, títulos) e regista o resultado em ue/ALTERACOES.md.
+      - name: Verificação
+        continue-on-error: true
+        run: python3 ferramentas/verificar.py
+
       - name: Commit e push
         run: |
           git config user.name "github-actions[bot]"
@@ -85,3 +91,8 @@ jobs:
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
+
+      # Depois do commit (o que foi actualizado fica gravado): se a verificação encontrou problemas
+      # graves, o job falha e o GitHub avisa por email quem gere o repositório.
+      - name: Falhar se a verificação encontrou problemas graves
+        run: python3 ferramentas/verificar.py --falhar-se-grave

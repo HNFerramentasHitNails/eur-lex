@@ -203,6 +203,32 @@ SELECT DISTINCT ?cc ?d WHERE {{
     return [(l["cc"], l["d"][:10]) for l in linhas]
 
 
+def versoes_consolidadas_todas():
+    """[acto de base, versão consolidada, data] de todas as versões consolidadas do Cellar, em
+    linhas, uma consulta por ano (de uma só vez o servidor falha). Sem MIN/MAX: nas consultas que
+    agrupam vários actos, o SPARQL do Cellar devolve nesses agregados datas de outros actos (ex.:
+    TFUE "consolidado até 2026-07-28", quando a versão mais recente é de 2025-03-15). Fica em
+    .cache/ durante o dia, para o catálogo e completo.py não repetirem as consultas."""
+    cache = RAIZ / ".cache" / "versoes-consolidadas.json"
+    hoje = dt.date.today().isoformat()
+    if cache.exists():
+        guardado = json.loads(cache.read_text(encoding="utf-8"))
+        if guardado.get("data") == hoje:
+            return guardado["linhas"]
+    linhas = []
+    for ano in range(1950, dt.date.today().year + 6):
+        for l in sparql(PREFIXOS + f"""
+SELECT ?base ?cc ?d WHERE {{
+  ?c cdm:act_consolidated_based_on_resource_legal ?w ; cdm:act_consolidated_date ?d ; cdm:resource_legal_id_celex ?cc .
+  ?w cdm:resource_legal_id_celex ?base .
+  FILTER(?d >= "{ano}-01-01"^^xsd:date && ?d < "{ano + 1}-01-01"^^xsd:date)
+}}"""):
+            linhas.append([l["base"], l["cc"], l["d"][:10]])
+    cache.parent.mkdir(exist_ok=True)
+    cache.write_text(json.dumps({"data": hoje, "linhas": linhas}), encoding="utf-8")
+    return linhas
+
+
 def actos_consolidados(cc):
     """CELEX dos actos que uma versão consolidada integra (o acto de base, alterações, rectificações)."""
     linhas = sparql(PREFIXOS + f"""
@@ -1117,13 +1143,11 @@ SELECT ?celex ?date ?eli (SAMPLE(?t) AS ?title) (GROUP_CONCAT(DISTINCT ?dc; sepa
                 }
             if linhas:
                 print(f"  {pref}: {len(linhas)}", file=sys.stderr)
-    # versão consolidada mais recente de cada acto
-    cons = sparql(PREFIXOS + """
-SELECT ?celex (MAX(?d) AS ?ultima) (COUNT(?c) AS ?n) WHERE {
-  ?c cdm:act_consolidated_based_on_resource_legal ?w ; cdm:act_consolidated_date ?d .
-  ?w cdm:resource_legal_in-force "true"^^xsd:boolean ; cdm:resource_legal_id_celex ?celex .
-} GROUP BY ?celex""")
-    ultima = {l["celex"]: l["ultima"][:10] for l in cons}
+    # versão consolidada mais recente de cada acto (máximo calculado aqui, não no Cellar)
+    ultima = {}
+    for base, _cc, d in versoes_consolidadas_todas():
+        if d > ultima.get(base, ""):
+            ultima[base] = d
 
     campos = ["celex", "data", "tipo", "consolidado_ate", "repertorio", "titulo", "eli", "url"]
     with open(CATALOGO / "legislacao-em-vigor.tsv", "w", encoding="utf-8", newline="") as fh:
