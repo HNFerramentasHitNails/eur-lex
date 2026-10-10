@@ -1,7 +1,7 @@
 ---
 celex: 32010L0013
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32010L0013 — Diretiva Serviços de Comunicação Social Audiovisual — contexto

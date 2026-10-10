@@ -1,7 +1,7 @@
 ---
 celex: 32023L2225
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32023L2225 — Crédito aos consumidores — contexto

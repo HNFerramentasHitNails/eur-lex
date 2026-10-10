@@ -4,7 +4,7 @@ nome_curto: Ato Europeu da Acessibilidade
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32019L0882
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32019L0882 — Ato Europeu da Acessibilidade — considerandos

@@ -11,7 +11,7 @@ transpoe:
 url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1991-404105
 eli: https://data.dre.pt/eli/dec-lei/323/1991/08/29/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 323/91

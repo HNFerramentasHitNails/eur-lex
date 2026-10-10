@@ -11,7 +11,7 @@ transpoe:
 url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031
 eli: https://data.dre.pt/eli/dec-lei/70/2004/03/25/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 70/2004

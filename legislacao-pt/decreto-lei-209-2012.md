@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-34582575
 eli: https://data.dre.pt/eli/dec-lei/209/2012/p/cons/20121116/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 209/2012

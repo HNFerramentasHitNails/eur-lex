@@ -1,7 +1,7 @@
 ---
 celex: 32019L1158
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32019L1158 — Conciliação vida profissional e familiar — contexto

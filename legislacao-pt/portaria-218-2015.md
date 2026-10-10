@@ -11,7 +11,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-872276457
 eli: https://data.dre.pt/eli/port/218/2015/p/cons/20150921/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Portaria n.º 218/2015

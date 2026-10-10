@@ -12,7 +12,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2000-302962
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-167651736
 eli: https://data.dre.pt/eli/dec-lei/110/2000/06/30/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 110/2000

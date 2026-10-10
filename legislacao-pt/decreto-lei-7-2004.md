@@ -14,7 +14,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2004-240775
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-73199154
 eli: https://data.dre.pt/eli/dec-lei/7/2004/p/cons/20260415/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 7/2004

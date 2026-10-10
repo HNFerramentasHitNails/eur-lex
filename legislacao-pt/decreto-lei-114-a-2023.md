@@ -10,7 +10,7 @@ transpoe:
 url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-a-2023-225265456
 eli: https://data.dre.pt/eli/dec-lei/114-a/2023/12/05/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 114-A/2023

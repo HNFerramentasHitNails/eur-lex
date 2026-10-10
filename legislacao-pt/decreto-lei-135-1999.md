@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-107547988
 eli: https://data.dre.pt/eli/dec-lei/135/1999/p/cons/20240207/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 135/99

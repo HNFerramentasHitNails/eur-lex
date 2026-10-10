@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R0720
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02022R0720-20240211
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32022R0720 — Acordos verticais (distribuição)

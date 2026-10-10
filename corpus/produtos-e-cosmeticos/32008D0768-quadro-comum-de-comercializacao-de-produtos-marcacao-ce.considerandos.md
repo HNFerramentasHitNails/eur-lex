@@ -4,7 +4,7 @@ nome_curto: Quadro comum de comercialização de produtos (marcação CE)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32008D0768
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decisão 32008D0768 — Quadro comum de comercialização de produtos (marcação CE) — considerandos

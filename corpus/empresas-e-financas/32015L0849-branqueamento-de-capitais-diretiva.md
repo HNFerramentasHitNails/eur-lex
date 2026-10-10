@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015L0849
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02015L0849-20241230
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32015L0849 — Branqueamento de capitais (diretiva)

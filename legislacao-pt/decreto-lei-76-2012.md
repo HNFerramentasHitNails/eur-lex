@@ -12,7 +12,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2012-553929
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-116145705
 eli: https://data.dre.pt/eli/dec-lei/76/2012/p/cons/20260316/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 76/2012

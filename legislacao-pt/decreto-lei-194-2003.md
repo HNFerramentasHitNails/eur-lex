@@ -11,7 +11,7 @@ transpoe:
 url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2003-655966
 eli: https://data.dre.pt/eli/dec-lei/194/2003/08/23/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 194/2003

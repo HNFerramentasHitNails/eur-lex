@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/portaria/220-2015-69866634
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-70481425
 eli: https://data.dre.pt/eli/port/220/2015/p/cons/20250217/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Portaria n.º 220/2015

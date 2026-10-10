@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012L0019
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02012L0019-20240408
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32012L0019 — REEE (resíduos de equipamentos elétricos)

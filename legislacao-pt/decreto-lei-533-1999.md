@@ -11,7 +11,7 @@ transpoe:
 url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1999-632723
 eli: https://data.dre.pt/eli/dec-lei/533/1999/12/11/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 533/99

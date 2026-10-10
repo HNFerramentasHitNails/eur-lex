@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-73045620
 eli: https://data.dre.pt/eli/dec-lei/10/2015/p/cons/20230324/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 10/2015

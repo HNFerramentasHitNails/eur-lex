@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-67110669
 eli: https://data.dre.pt/eli/dec-lei/66/2015/p/cons/20200331/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 66/2015

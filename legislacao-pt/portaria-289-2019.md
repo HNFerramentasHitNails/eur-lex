@@ -10,7 +10,7 @@ transpoe:
 url_dre: https://diariodarepublica.pt/dr/detalhe/portaria/289-2019-124457187
 eli: https://data.dre.pt/eli/port/289/2019/09/05/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Portaria n.º 289/2019

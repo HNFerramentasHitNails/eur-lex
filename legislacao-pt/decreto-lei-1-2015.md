@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-66756775
 eli: https://data.dre.pt/eli/dec-lei/1/2015/p/cons/20180802/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 1/2015

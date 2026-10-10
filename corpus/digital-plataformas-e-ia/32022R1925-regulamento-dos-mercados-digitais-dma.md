@@ -21,7 +21,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32022R1925
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02022R1925-20221012
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32022R1925 — Regulamento dos Mercados Digitais (DMA)

@@ -1,7 +1,7 @@
 ---
 celex: 32011L0065
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32011L0065 — RoHS (substâncias perigosas em EEE) — contexto

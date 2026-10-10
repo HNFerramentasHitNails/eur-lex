@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34482475
 eli: https://data.dre.pt/eli/dec-lei/125/2006/p/cons/20240403/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 125/2006

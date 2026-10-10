@@ -1,7 +1,7 @@
 ---
 celex: 32024L2853
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32024L2853 — Responsabilidade por produtos defeituosos (nova) — contexto

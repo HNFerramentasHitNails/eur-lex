@@ -1,7 +1,7 @@
 ---
 celex: 32018R0302
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32018R0302 — Regulamento Bloqueio Geográfico — contexto

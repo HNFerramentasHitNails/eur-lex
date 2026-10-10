@@ -12,7 +12,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-34444675
 eli: https://data.dre.pt/eli/dec-lei/403/1986/p/cons/20240403/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 403/86

@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-891753493
 eli: https://data.dre.pt/eli/dec-lei/86-a/2016/p/cons/20260526/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 86-A/2016

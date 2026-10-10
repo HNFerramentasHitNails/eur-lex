@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-117279941
 eli: https://data.dre.pt/eli/dec-lei/110/2018/p/cons/20260925/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 110/2018

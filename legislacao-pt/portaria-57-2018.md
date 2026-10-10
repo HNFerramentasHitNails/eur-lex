@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/portaria/57-2018-114766031
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-114946609
 eli: https://data.dre.pt/eli/port/57/2018/p/cons/20231025/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Portaria n.º 57/2018

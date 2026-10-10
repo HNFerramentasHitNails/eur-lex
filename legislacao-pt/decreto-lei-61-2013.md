@@ -13,14 +13,14 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2013-261156
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-119552364
 eli: https://data.dre.pt/eli/dec-lei/61/2013/p/cons/20260603/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 61/2013
 
 **Sumário:** No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, transpõe a Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa no domínio da fiscalidade e que revoga a Diretiva n.º 77/799/CEE, do Conselho, de 19 de dezembro de 1977
 
-**Comunicado à Comissão Europeia como transpondo:** 32011L0016 (Cooperação administrativa fiscal (DAC).
+**Comunicado à Comissão Europeia como transpondo:** 32011L0016 (Cooperação administrativa fiscal (DAC, inclui DAC7 plataformas)).
 
 **Texto:** versão consolidada do DRE, última alteração considerada em 2026-06-03. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
 

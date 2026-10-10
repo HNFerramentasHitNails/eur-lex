@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2013-257001
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-108043706
 eli: https://data.dre.pt/eli/dec-lei/14/2013/p/cons/20200831/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 14/2013

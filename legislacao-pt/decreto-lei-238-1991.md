@@ -12,7 +12,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1991-649958
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-34566775
 eli: https://data.dre.pt/eli/dec-lei/238/1991/p/cons/20090713/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 238/91

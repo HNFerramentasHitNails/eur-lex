@@ -12,7 +12,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2017-106509196
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-106881846
 eli: https://data.dre.pt/eli/dec-lei/22/2017/p/cons/20180619/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 22/2017

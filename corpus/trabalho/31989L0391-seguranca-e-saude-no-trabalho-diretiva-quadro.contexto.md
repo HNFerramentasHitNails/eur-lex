@@ -1,7 +1,7 @@
 ---
 celex: 31989L0391
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 31989L0391 — Segurança e saúde no trabalho (diretiva-quadro) — contexto

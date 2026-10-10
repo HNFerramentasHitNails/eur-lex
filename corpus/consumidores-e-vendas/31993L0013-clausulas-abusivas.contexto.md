@@ -1,7 +1,7 @@
 ---
 celex: 31993L0013
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 31993L0013 — Cláusulas abusivas — contexto

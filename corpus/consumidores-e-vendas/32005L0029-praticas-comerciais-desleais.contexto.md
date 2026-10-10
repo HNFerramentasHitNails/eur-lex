@@ -1,7 +1,7 @@
 ---
 celex: 32005L0029
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32005L0029 — Práticas comerciais desleais — contexto

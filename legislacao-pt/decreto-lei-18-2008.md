@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34455475
 eli: https://data.dre.pt/eli/dec-lei/18/2008/p/cons/20260904/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 18/2008

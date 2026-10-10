@@ -18,7 +18,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:31989L0391
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:01989L0391-20081211
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 31989L0391 — Segurança e saúde no trabalho (diretiva-quadro)

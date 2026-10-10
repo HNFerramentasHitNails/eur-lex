@@ -1,7 +1,7 @@
 ---
 celex: 32022R2554
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32022R2554 — Resiliência operacional digital (DORA) — contexto

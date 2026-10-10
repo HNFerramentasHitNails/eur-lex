@@ -12,7 +12,7 @@ transpoe:
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34436475
 eli: https://data.dre.pt/eli/dec-lei/446/1985/p/cons/20231226/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 446/85

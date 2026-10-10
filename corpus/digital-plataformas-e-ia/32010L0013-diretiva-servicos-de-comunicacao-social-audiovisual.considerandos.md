@@ -4,7 +4,7 @@ nome_curto: Diretiva Serviços de Comunicação Social Audiovisual
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010L0013
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32010L0013 — Diretiva Serviços de Comunicação Social Audiovisual — considerandos

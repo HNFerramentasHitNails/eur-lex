@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32020L1828
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02020L1828-20260802
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32020L1828 — Ações coletivas

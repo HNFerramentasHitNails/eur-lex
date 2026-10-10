@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-107687493
 eli: https://data.dre.pt/eli/dec-lei/276/2007/p/cons/20211209/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 276/2007

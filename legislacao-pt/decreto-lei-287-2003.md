@@ -15,7 +15,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34499575
 eli: https://data.dre.pt/eli/dec-lei/287/2003/p/cons/20260520/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 287/2003

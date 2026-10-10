@@ -11,7 +11,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2015-70361622
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-73218964
 eli: https://data.dre.pt/eli/dec-lei/205/2015/09/23/p/dre/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 205/2015

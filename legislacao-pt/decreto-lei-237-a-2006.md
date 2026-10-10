@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-2006-216911
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34442175
 eli: https://data.dre.pt/eli/dec-lei/237-a/2006/p/cons/20250723/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 237-A/2006

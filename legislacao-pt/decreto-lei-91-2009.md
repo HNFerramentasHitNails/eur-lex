@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2009-603961
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70157403
 eli: https://data.dre.pt/eli/dec-lei/91/2009/p/cons/20260813/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 91/2009

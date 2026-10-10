@@ -1,7 +1,7 @@
 ---
 celex: 32001L0029
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32001L0029 — Direitos de autor na sociedade da informação — contexto

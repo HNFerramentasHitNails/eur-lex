@@ -1,7 +1,7 @@
 ---
 celex: 32002L0058
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32002L0058 — Diretiva ePrivacy (cookies e comunicações eletrónicas) — contexto

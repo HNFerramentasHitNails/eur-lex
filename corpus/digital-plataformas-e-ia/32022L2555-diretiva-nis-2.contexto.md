@@ -1,7 +1,7 @@
 ---
 celex: 32022L2555
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32022L2555 — Diretiva NIS 2 — contexto

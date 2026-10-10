@@ -4,7 +4,7 @@ nome_curto: Crédito aos consumidores
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023L2225
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32023L2225 — Crédito aos consumidores — considerandos

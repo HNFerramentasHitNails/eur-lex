@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2014-572450
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-73222992
 eli: https://data.dre.pt/eli/dec-lei/24/2014/p/cons/20230303/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 24/2014

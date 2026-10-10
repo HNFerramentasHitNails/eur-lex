@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34526475
 eli: https://data.dre.pt/eli/dec-lei/129/1998/p/cons/20190923/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 129/98

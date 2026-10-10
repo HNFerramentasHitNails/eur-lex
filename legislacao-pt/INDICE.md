@@ -93,7 +93,7 @@ Estado: 123 original (DRE); 110 consolidado (DRE); 61 excluída; 19 revogado (te
 
 - [Decreto-Lei n.º 62/2013](decreto-lei-62-2013.md) — original (DRE) — Estabelece medidas contra os atrasos no pagamento de transações comerciais, e transpõe a Diretiva n.º 2011/7/UE, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011
 
-## [32011L0016](../corpus/iva-alfandegas-e-fiscalidade/) Cooperação administrativa fiscal (DAC
+## [32011L0016](../corpus/iva-alfandegas-e-fiscalidade/) Cooperação administrativa fiscal (DAC, inclui DAC7 plataformas)
 
 - [Decreto-Lei n.º 61/2013](decreto-lei-61-2013.md) — consolidado (DRE), consolidado a 2026-06-03 — No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, transpõe a Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa
 

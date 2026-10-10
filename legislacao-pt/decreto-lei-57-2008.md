@@ -14,7 +14,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454075
 eli: https://data.dre.pt/eli/dec-lei/57/2008/p/cons/20230303/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 57/2008

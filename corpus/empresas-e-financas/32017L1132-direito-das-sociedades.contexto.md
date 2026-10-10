@@ -1,7 +1,7 @@
 ---
 celex: 32017L1132
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32017L1132 — Direito das sociedades — contexto

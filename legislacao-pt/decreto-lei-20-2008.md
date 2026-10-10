@@ -13,7 +13,7 @@ url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2008-248220
 url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34455575
 eli: https://data.dre.pt/eli/dec-lei/20/2008/p/cons/20090521/pt/html
 fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decreto-Lei n.º 20/2008
