@@ -81,5 +81,7 @@ jobs:
             echo "Sem alterações."
           else
             git commit -m "Actualização automática da legislação ($(date -u +%Y-%m-%d))"
-            git push
+            # Se entretanto alguém fez push para o ramo, junta primeiro esses commits.
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi

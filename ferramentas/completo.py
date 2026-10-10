@@ -243,6 +243,23 @@ def _cache(celex):
     return CACHE / "html" / pasta(celex) / f"{nome_ficheiro(celex)}.json.gz"
 
 
+def assinatura(a, hoje):
+    """O que se pretende obter para o acto hoje (haja ou não texto em português): a versão
+    consolidada aplicável mais recente, a futura e o estado. Muda quando há uma versão nova."""
+    vig, fut = plano(a, hoje)
+    return f"{vig[0][0] if vig else ''}|{fut[0] if fut else ''}|{a['estado']}"
+
+
+def assinatura_fm(fm):
+    """A mesma assinatura, reconstruída a partir do frontmatter de um ficheiro de ue/ (para
+    ficheiros gerados antes de a assinatura ser guardada). Se a versão futura não tinha texto
+    em português, não ficou registada: a assinatura não coincide e o acto volta a ser obtido."""
+    sem_pt = fm.get("consolidacoes_sem_texto_pt") or []
+    vig = sem_pt[0].split(" ")[0] if sem_pt else (fm.get("versao_consolidada") or "")
+    fut = (fm.get("versao_futura") or "").split(" ")[0]
+    return f"{vig}|{fut}|{fm.get('estado', '')}"
+
+
 def plano(a, hoje):
     """Versões a obter: a consolidada mais recente já aplicável (ou o original) e, se houver,
     a versão consolidada futura mais recente."""
@@ -256,7 +273,7 @@ def descarregar_um(a, hoje):
     if destino.exists():
         return "cache"
     vig, fut = plano(a, hoje)
-    reg = {"celex": a["celex"], "obtido_em": hoje}
+    reg = {"celex": a["celex"], "obtido_em": hoje, "assinatura": assinatura(a, hoje)}
     for cc, d in vig:
         html, fmt = conteudo(cc)
         if html:
@@ -360,7 +377,7 @@ def _linha_existente(a, destino):
     return {"celex": a["celex"], "ficheiro": str(destino.relative_to(RAIZ)), "estado": a["estado"],
             "texto": fm.get("texto", ""), "versao": fm.get("versao_aplicavel_desde") or "",
             "futuro": (fm.get("versao_futura") or "").split("(")[-1].rstrip(")") if fm.get("versao_futura") else "",
-            "kb": destino.stat().st_size // 1024}
+            "kb": destino.stat().st_size // 1024, "assinatura": assinatura_fm(fm)}
 
 
 def converter_um(a, rel_corpus, so_novos=False):
@@ -453,7 +470,7 @@ def converter_um(a, rel_corpus, so_novos=False):
         fut.unlink()
     return {"celex": a["celex"], "ficheiro": str(destino.relative_to(RAIZ)), "estado": a["estado"], "texto": estado,
             "versao": reg.get("versao_data") or "", "futuro": reg.get("futuro_data") or "",
-            "kb": destino.stat().st_size // 1024}
+            "kb": destino.stat().st_size // 1024, "assinatura": reg.get("assinatura") or assinatura_fm(fm)}
 
 
 def escrever_em_partes(destino, texto):
@@ -529,7 +546,7 @@ def cmd_converter(fios=4, so=None, so_novos=False):
     for l in linhas:
         antigas[l["celex"]] = l
     validos = set(actos)
-    campos = ["celex", "estado", "texto", "versao", "futuro", "kb", "ficheiro"]
+    campos = ["celex", "estado", "texto", "versao", "futuro", "kb", "ficheiro", "assinatura"]
     SAIDA.mkdir(exist_ok=True)
     with open(INDICE, "w", encoding="utf-8", newline="") as fh:
         w = csv.writer(fh, delimiter="\t", lineterminator="\n")
@@ -564,11 +581,14 @@ def cmd_actualizar(fios=6):
     hoje = dt.date.today().isoformat()
     mudados = []
     for c, a in actos.items():
-        vig, fut = plano(a, hoje)
-        esperado = vig[0][1] if vig else ""
+        # Compara o que se pretendia obter da última vez com o que se pretende hoje (não a versão
+        # obtida: quando a consolidação mais recente não tem texto em português usa-se outra, e
+        # comparar datas fazia voltar a descarregar esses actos todas as semanas).
         ant = anterior.get(c)
-        if ant is None or ant["versao"] != esperado or ant["futuro"] != (fut[1] if fut else "") \
-                or ant["estado"] != a["estado"]:
+        antes = (ant or {}).get("assinatura")
+        if ant and not antes and (RAIZ / ant["ficheiro"]).exists():
+            antes = assinatura_fm(eurlex.ler_frontmatter(RAIZ / ant["ficheiro"]))
+        if ant is None or antes != assinatura(a, hoje):
             mudados.append(c)
             cache = _cache(c)
             if cache.exists():
