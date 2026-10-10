@@ -9,6 +9,28 @@ portuguesas que transpõem as diretivas do corpus; a maior parte das outras obri
 dia-a-dia de uma empresa em Portugal (impostos, segurança social, licenças, taxas de IVA)
 está em lei portuguesa que não está aqui. Ver "O que não está aqui".
 
+## Consulta rápida (para IAs e pessoas)
+
+Ler um regulamento inteiro custa dezenas de milhares de tokens; o artigo que responde custa
+algumas centenas. Por isso o repositório tem índices e uma ferramenta que vai directa ao
+artigo:
+
+```bash
+python3 ferramentas/procurar.py actos rgpd                       # → 32016R0679 · RGPD · 99 art. · ≈52 000 tokens
+python3 ferramentas/procurar.py artigos 32011L0083 retratação    # → Artigo 9.º — Direito de retractação [≈735 tokens]
+python3 ferramentas/procurar.py ler 32011L0083 9                 # só esse artigo
+python3 ferramentas/procurar.py texto "prazo para devolver compra online"   # artigos mais relevantes
+python3 ferramentas/procurar.py pt 32011L0083                    # lei portuguesa: Decreto-Lei n.º 24/2014
+```
+
+- [`INDICE.md`](INDICE.md) — ponto de entrada: como navegar, áreas, actos curados.
+- `indice/` — uma linha por acto (nome popular, temas, descritores EuroVoc, tamanho em
+  tokens), actos por área, e o sumário de cada acto com as linhas de cada artigo.
+- `.claude/skills/consultar-legislacao/` — skill para o Claude: faz ao utilizador só as
+  perguntas que mudam a lei aplicável (no máximo 3) e depois consulta os artigos certos.
+- A pesquisa por relevância (`procurar.py texto`) usa um índice local construído na 1.ª vez
+  (`.cache/procurar.sqlite`, fora do git).
+
 ## O que está aqui
 
 - **`ue/`** — o texto integral de **toda a legislação da UE em vigor** (64 273 actos) e dos

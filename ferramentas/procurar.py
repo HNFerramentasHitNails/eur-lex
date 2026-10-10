@@ -266,9 +266,19 @@ def cmd_texto(consulta, n=10, fonte=None, tipo=None):
     sql = ("SELECT m.celex, m.unidade, m.epigrafe, m.ficheiro, m.ini, m.fim, m.tokens, m.fonte, "
            "bm25(u, 4.0, 1.0) AS r FROM u JOIN meta m ON m.id = u.rowid WHERE u MATCH ? "
            + ("AND " + " AND ".join(filtros) if filtros else "") + " ORDER BY r LIMIT ?")
-    args.append(n * 3)
+    args.append(n * 5)
+    def peso(fich, fnt):
+        """Reordenação leve: legislação de aplicação geral à frente de acordos e casos concretos."""
+        w = 1.3 if fnt in ("corpus", "pt") else 1.0
+        if "/regulamentos/" in fich or "/diretivas/" in fich:
+            w *= 1.15
+        if "/acordos-internacionais/" in fich or "/concentracoes/" in fich or "/pesc/" in fich:
+            w *= 0.75
+        return w
+
+    linhas = sorted(con.execute(sql, args), key=lambda x: x[8] * peso(x[3], x[7]))  # bm25: menor = melhor
     vistos, saida = set(), []
-    for celex, unidade, epi, fich, ini, fim, tok, fnt, r in con.execute(sql, args):
+    for celex, unidade, epi, fich, ini, fim, tok, fnt, r in linhas:
         chave = (celex, unidade)
         if chave in vistos:  # o mesmo artigo no corpus curado e em ue/: fica o primeiro
             continue
