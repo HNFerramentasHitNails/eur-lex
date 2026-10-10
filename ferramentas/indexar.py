@@ -279,6 +279,8 @@ def escrever_temas(actos, rotulos):
     por_cod = collections.defaultdict(list)
     for a in actos:
         for cod in set(a["repertorio"].split()):
+            if not re.fullmatch(r"\d\d(\.\d\d)*", cod):
+                continue  # códigos fora do repertório numérico (raros)
             nivel3 = ".".join(cod.split(".")[:3])
             por_cod[nivel3].append(a)
     caps = sorted({c.split(".")[0] for c in por_cod})

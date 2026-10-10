@@ -34,7 +34,10 @@ há posso pode podem devo deve devem preciso precisa qualquer cada the of and to
 
 
 def norm(t):
+    """Minúsculas, sem acentos e com a grafia anterior ao Acordo Ortográfico unificada
+    (retractação/retratação, excepção/exceção, adoptar/adotar), igual na pesquisa e no índice."""
     t = unicodedata.normalize("NFKD", t or "").encode("ascii", "ignore").decode().lower()
+    t = re.sub(r"c(?=[tc])|p(?=[tc])", "", t)
     return re.sub(r"[^a-z0-9/.\-]+", " ", t).strip()
 
 
@@ -70,8 +73,11 @@ def cmd_actos(consulta, n=15, tipo=None):
         if not encontrados:
             continue
         pont *= (encontrados / len(ts)) ** 2  # privilegia actos que têm todas as palavras
-        pont += 3 if a["curado"] else 0
-        pont += 1 if a["tipo"] in ("Regulamento", "Diretiva") else 0
+        pont += 6 if a["curado"] else 0
+        pont += 3 if a["nome"] else 0  # actos com nome popular são os principais
+        pont += 2 if a["tipo"] in ("Regulamento", "Diretiva") else 0
+        pont -= 2 if re.search(r"\bque altera\b|\balterando\b", a["titulo"]) else 0
+        pont -= 1 if a["tipo"] == "Decisão sobre concentração" else 0
         res.append((pont, a))
     res.sort(key=lambda x: (-x[0], x[1]["data"]), reverse=False)
     for _, a in res[:n]:
@@ -181,7 +187,6 @@ LIMITE_UNIDADE = 200_000  # caracteres indexados por unidade (anexos gigantes)
 
 
 def cmd_construir():
-    import indexar
     BD.parent.mkdir(parents=True, exist_ok=True)
     if BD.exists():
         BD.unlink()
@@ -207,7 +212,7 @@ def cmd_construir():
             n += 1
             lote_m.append((n, u["celex"], u["unidade"], u["epigrafe"], fich, int(u["linha_ini"]),
                            int(u["linha_fim"]), int(u["tokens"]), fonte))
-            lote_u.append((n, u["unidade"] + " " + u["epigrafe"], texto))
+            lote_u.append((n, norm(u["unidade"] + " " + u["epigrafe"]), norm(texto)))
         con.executemany("INSERT INTO meta VALUES (?,?,?,?,?,?,?,?,?)", lote_m)
         con.executemany("INSERT INTO u(rowid, epigrafe, texto) VALUES (?,?,?)", lote_u)
         con.commit()
@@ -221,7 +226,7 @@ def cmd_construir():
                     (n, a["celex"], "texto", a["nome"] or a["titulo"][:100], a["ficheiro"], 1,
                      t.count("\n") + 1, int(a["tokens"]), "ue"))
         con.execute("INSERT INTO u(rowid, epigrafe, texto) VALUES (?,?,?)",
-                    (n, a["nome"] + " " + a["titulo"], t[:LIMITE_UNIDADE]))
+                    (n, norm(a["nome"] + " " + a["titulo"]), norm(t[:LIMITE_UNIDADE])))
     con.commit()
     con.execute("INSERT INTO u(u) VALUES('optimize')")
     con.commit()
@@ -279,6 +284,8 @@ def cmd_texto(consulta, n=10, fonte=None, tipo=None):
 
 
 def main():
+    import signal
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # permitir `| head` sem erro
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("comando", choices=["actos", "artigos", "ler", "texto", "pt", "construir"])
     ap.add_argument("args", nargs="*")

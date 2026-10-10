@@ -94,7 +94,7 @@ areas:
       - {celex: 32011R0282, curto: Regulamento de Execução IVA}
       - {celex: 32010R0904, curto: Cooperação administrativa IVA (OSS)}
       - {celex: 32014L0055, curto: Faturação eletrónica nos contratos públicos}
-      - {celex: 32011L0016, curto: Cooperação administrativa fiscal (DAC, inclui DAC7 plataformas)}
+      - {celex: 32011L0016, curto: "Cooperação administrativa fiscal (DAC, inclui DAC7 plataformas)"}
       - {celex: 32013R0952, curto: Código Aduaneiro da União}
 
   empresas-e-financas:

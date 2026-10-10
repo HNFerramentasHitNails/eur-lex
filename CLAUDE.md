@@ -7,11 +7,32 @@ que cumpram o direito da UE.
 
 Responde sempre em português de Portugal.
 
+## Antes de tudo: gastar poucos tokens
+
+**Começa por `INDICE.md`** (curto) e usa `ferramentas/procurar.py` em vez de abrir ficheiros.
+Um regulamento inteiro pode ter 50 000+ tokens; o artigo que responde, 200–2 000.
+
+```bash
+python3 ferramentas/procurar.py actos <palavras>        # que acto? (nome popular, n.º, temas, EuroVoc)
+python3 ferramentas/procurar.py artigos <CELEX> [palavra] # sumário: artigo — epígrafe [linhas, ≈tokens]
+python3 ferramentas/procurar.py ler <CELEX> <n.º>         # só esse artigo
+python3 ferramentas/procurar.py texto "<pergunta>"        # artigos mais relevantes em toda a legislação
+python3 ferramentas/procurar.py pt <CELEX da diretiva>    # lei portuguesa que a transpõe
+```
+
+Para perguntas de negócio ("posso…", "tenho de…", "que regras…") segue a skill
+`.claude/skills/consultar-legislacao/SKILL.md`: pergunta ao utilizador só o que muda a lei
+aplicável (no máximo 3 perguntas) e vai directo aos artigos.
+
 ## Onde está cada coisa
 
 | Caminho | O que tem |
 |---|---|
-| `corpus/INDICE.md` | **Começa aqui.** Os 86 actos curados por área (com considerandos, sínteses, transposição e jurisprudência). |
+| `INDICE.md` | **Começa aqui.** Como navegar, áreas do repertório, actos curados. |
+| `indice/actos.tsv` | Uma linha por acto: nome popular, título, tipo, data, estado, temas, descritores EuroVoc, n.º de artigos, tokens, ficheiro, versão curada, leis PT. |
+| `indice/temas/<cap>.md`, `indice/eurovoc.tsv` | Actos por área do repertório oficial; descritor temático EuroVoc → actos. |
+| `indice/artigos/…/*.tsv` | Sumário de cada acto (artigo/anexo, epígrafe, linhas, tokens). `rg -i 'epígrafe' indice/artigos` encontra artigos pelo título em toda a legislação. |
+| `corpus/INDICE.md` | Os 86 actos curados por área (com considerandos, sínteses, transposição e jurisprudência). |
 | `ue/<tipo>/<ano>/<CELEX>.md` | **Texto integral de toda a legislação da UE em vigor** (≈64 mil actos) e dos actos já publicados que entram em vigor no futuro. Tipos: `regulamentos`, `diretivas`, `decisoes`, `tratados`, `acordos-internacionais`, `recomendacoes`, `concentracoes`, … Versão consolidada mais recente já aplicável, ou o original do JO. |
 | `ue/<…>/<CELEX>.futuro.md` | Versão consolidada já publicada que só se aplica numa data futura (indicada no ficheiro). |
 | `ue/INDICE.tsv` | Uma linha por acto de `ue/`: `celex`, `estado` (em vigor / futuro), `texto` (consolidado, original, PDF, outra língua, sem texto), data da versão, versão futura, tamanho, ficheiro. |
@@ -145,6 +166,8 @@ python3 ferramentas/eurlex.py indice                    # regenerar corpus/INDIC
 python3 ferramentas/dre.py tudo                         # leis portuguesas (precisa de Node + Playwright)
 python3 ferramentas/completo.py listas && python3 ferramentas/completo.py descarregar && python3 ferramentas/completo.py converter   # tudo em vigor
 python3 ferramentas/completo.py actualizar              # só o que é novo ou mudou
+python3 ferramentas/indexar.py                          # índices (indice/, INDICE.md)
+python3 ferramentas/procurar.py construir               # índice de texto local (.cache/, não vai para o git)
 ```
 
 Para juntar uma lei portuguesa que não seja de transposição (ex.: execução de um

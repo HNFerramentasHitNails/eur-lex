@@ -1,0 +1,904 @@
+celex	unidade	epigrafe	linha_ini	linha_fim	tokens	ficheiro
+11992E/TXT	Preâmbulo		17	51	433	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 1.º		119	211	1397	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 5.º		213	271	1300	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 8.º.		275	309	861	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 9.º		315	319	149	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 10.º		321	329	340	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 11.º		331	337	67	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 12.º		341	343	59	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 13.º		345	349	155	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 14.º		351	381	654	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 15.º		383	389	164	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 16.º		391	393	43	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 17.º		395	405	308	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 18.º		409	411	100	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 19.º		413	435	441	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 20.º		437	443	196	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 21.º		445	449	186	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 22.º		451	455	150	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 23.º		457	471	395	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 24.º		473	475	57	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 25.º		477	489	442	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 26.º		491	495	126	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 27.º		497	499	78	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 28.º		501	503	47	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 29.º		505	519	213	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 30.º		521	523	47	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 31.º		525	529	147	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 32.º		531	535	106	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 33.º		537	561	838	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 34.º		563	567	92	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 35.º		569	573	96	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 36.º		575	577	160	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 37.º		579	595	533	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 38.º		599	607	250	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 39.º		609	629	268	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 40.º		631	651	344	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 41.º		653	659	105	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 42.º		661	669	144	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 43.º		671	687	554	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 44.º		689	717	838	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 45.º		719	745	748	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 46.º		747	751	178	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 47.º		753	755	68	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 48.º		763	779	296	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 49.º		781	791	351	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 50.º		793	795	30	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 51.º		797	807	160	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 52.º		809	813	205	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 53.º		815	817	53	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 54.º		819	843	751	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 55.º		845	849	90	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 56.º		851	865	507	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 58.º		867	875	141	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 59.º		877	881	136	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 60.º		883	897	190	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 61.º		899	903	82	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 62.º		905	907	62	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 63.º		909	917	275	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 64.º		919	923	90	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 65.º		925	927	66	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 66.º		929	935	42	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 67.º		937	941	144	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 68.º		943	949	226	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 69.º		951	953	80	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 70.º		955	961	345	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 71.º		963	969	161	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 72.º		971	973	70	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 73.º		975	1041	1894	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 74.º		1045	1063	382	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 76.º		1065	1067	116	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 77.º		1069	1071	56	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 78.º		1073	1075	46	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 79.º		1077	1087	309	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 80.º		1089	1097	240	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 81.º		1099	1105	111	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 82.º		1107	1109	75	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 83.º		1111	1113	78	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 84.º		1115	1121	100	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 85.º		1131	1159	470	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 86.º		1161	1173	238	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 87.º		1175	1191	346	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 88.º		1193	1195	104	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 89.º		1197	1201	200	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 90.º		1203	1209	232	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 91.º		1213	1219	228	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 92.º		1223	1245	574	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 93.º		1247	1267	639	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 95.º		1269	1275	160	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 96.º		1277	1279	58	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 97.º		1281	1285	144	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 98.º		1287	1301	358	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 100.º-A		1303	1317	487	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 100.º-B		1319	1347	760	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 101.º		1349	1353	170	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 102.º		1355	1359	218	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 103.º.		1371	1395	858	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 104.º.		1397	1401	208	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 104.º	o.-A	1403	1475	1786	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 105.º.		1477	1503	522	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 105.º	o.-A	1505	1509	184	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 106.º.		1511	1523	266	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 107.º.		1525	1527	165	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 108.º.		1529	1553	400	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 109.º.		1555	1663	2572	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 109.º	o.-F	1665	1841	4466	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 110.º		1845	1849	126	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 111.º	(revogado)	1851	1851	8	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 112.º		1853	1873	563	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 114.º	(revogado)	1875	1883	271	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 116.º	(revogado)	1885	1885	8	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 117.º		1893	1897	121	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 118.º		1899	1919	240	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 118.º-A		1921	1929	262	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 118.º-B		1931	1933	49	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 119.º		1935	1945	204	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 120.º		1947	1949	29	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 121.º		1951	1953	77	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 122.º		1955	1967	212	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 124.º		1969	1981	138	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 126.º		1983	2007	424	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 127.º.		2009	2027	362	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 128.º.		2031	2053	370	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 129.º.		2057	2073	364	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º.		2125	2145	390	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-B		2155	2161	376	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-C		2163	2171	319	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-E		2173	2181	129	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-F		2183	2189	294	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-G		2191	2233	702	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-K		2235	2239	104	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-L		2241	2243	81	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-M		2245	2249	104	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-N		2251	2267	268	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-Q	(revogado)	2269	2269	8	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-R		2273	2327	1050	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 130.º-T		2329	2331	66	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 131.º		2375	2381	215	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 132.º		2383	2395	295	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 133.º		2397	2409	468	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 134.º		2411	2413	98	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 135.º		2415	2417	97	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 136.º		2419	2423	129	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 136.º-A		2425	2427	63	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 138.º		2443	2521	1315	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 139.º	O Parlamento Europeu realiza uma sessão anual, reunindo-se por direito próprio na segunda terça-feira de Março. (60*)	2523	2525	66	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 140.º		2527	2535	114	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 141.º		2537	2541	46	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 142.º		2543	2547	52	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 143.º		2549	2551	32	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 144.º		2553	2557	197	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 145.º		2561	2579	354	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 147.º		2581	2583	33	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 148.º		2585	2621	213	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 149.º	(revogado)	2623	2623	8	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 150.º		2625	2637	144	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 152.º		2639	2641	50	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 153.º		2643	2645	31	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 154.º		2647	2649	90	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 155.º		2653	2663	166	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 156.º		2665	2667	44	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 157.º		2669	2707	938	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 160.º		2709	2715	84	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 162.º		2717	2721	94	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 163.º	As deliberações da Comissão são tomadas por maioria do número de membros previsto no artigo 157°	2723	2725	58	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 164.º		2729	2741	227	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 166.º		2743	2749	136	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 167.º		2751	2761	215	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 168.º		2763	2777	437	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 169.º		2779	2783	104	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 170.º		2785	2821	909	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 174.º		2823	2859	633	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 178.º	O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação dos danos referidos no segundo parágrafo do artígo 215°	2861	2861	40	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 179.º		2863	2877	417	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 181.º		2879	2881	55	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 182.º		2883	2885	54	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 183.º		2887	2893	166	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 185.º		2895	2897	55	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 186.º		2899	2901	32	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 187.º	Os acórdãos do Tribunal de Justiça tém força executíva, nos termos do artigo 192°	2903	2903	25	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 188.º		2905	2911	99	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 192.º		3067	3079	236	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 193.º		3081	3119	246	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 195.º		3121	3135	212	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 197.º		3137	3237	1334	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 200.º	(revogado)	3249	3259	225	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 202.º		3261	3269	215	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 203.º		3271	3333	1728	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 204.º		3335	3365	1008	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 206.º-A	(revogado)	3367	3367	8	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 207.º	O orçamento será elaborado na unidade de conta fixada em conformidade com a regulamentação adoptada por força do artigo 209°	3369	3377	227	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 208.º		3379	3399	514	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 210.º		3403	3405	15	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 211.º		3407	3409	74	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 212.º	(Artigo revogado pelo n° 2 do artigo 24° do Tratado de fusão)	3411	3417	186	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 213.º		3419	3421	63	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 214.º		3423	3435	268	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 216.º		3437	3439	30	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 217.º		3441	3443	50	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 218.º	(Artigo revogado pelo segundo parágrafo da artigo 28° do Tratado de fusão)	3445	3449	111	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 219.º		3451	3453	51	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 220.º		3455	3465	198	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 221.º		3467	3469	100	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 222.º		3471	3473	25	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 223.º		3475	3485	235	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 224.º		3487	3489	134	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 225.º		3491	3495	155	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 226.º		3497	3567	1752	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 229.º		3569	3573	76	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 230.º		3575	3581	72	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 232.º		3583	3587	121	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 233.º		3589	3591	83	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 234.º		3593	3599	265	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 235.º		3601	3603	98	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 236.º	(revogado)	3605	3605	8	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 237.º	(revogado)	3607	3611	65	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 239.º		3613	3615	36	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 240.º		3617	3621	22	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 241.º		3623	3625	30	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 242.º		3627	3629	43	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 243.º		3631	3633	70	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 244.º		3635	3643	148	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 245.º		3645	3649	88	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 246.º		3651	3661	232	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 247.º		3663	3667	156	ue/tratados/1992/11992E_TXT.md
+11992E/TXT	Artigo 248.º		3669	3875	1733	ue/tratados/1992/11992E_TXT.md
+11992E000	Preâmbulo		17	49	430	ue/tratados/1992/11992E000.md
+11992E001	Artigo 1.º		19	21	28	ue/tratados/1992/11992E001.md
+11992E002	Artigo 2.º		19	21	153	ue/tratados/1992/11992E002.md
+11992E003	Artigo 3.º		19	61	487	ue/tratados/1992/11992E003.md
+11992E004	Artigo 4.º		19	35	110	ue/tratados/1992/11992E004.md
+11992E005	Artigo 5.º		19	23	108	ue/tratados/1992/11992E005.md
+11992E006	Artigo 6.º.		19	23	80	ue/tratados/1992/11992E006.md
+11992E007	Artigo 7.º.		19	47	716	ue/tratados/1992/11992E007.md
+11992E008	Artigo 8.º.		19	25	60	ue/tratados/1992/11992E008.md
+11992E009	Artigo 9.º		19	23	149	ue/tratados/1992/11992E009.md
+11992E010	Artigo 10.º		19	27	341	ue/tratados/1992/11992E010.md
+11992E011	Artigo 11.º		19	21	59	ue/tratados/1992/11992E011.md
+11992E012	Artigo 12.º		19	21	59	ue/tratados/1992/11992E012.md
+11992E013	Artigo 13.º		19	23	155	ue/tratados/1992/11992E013.md
+11992E014	Artigo 14.º		19	49	654	ue/tratados/1992/11992E014.md
+11992E015	Artigo 15.º		19	25	164	ue/tratados/1992/11992E015.md
+11992E016	Artigo 16.º		19	21	43	ue/tratados/1992/11992E016.md
+11992E017	Artigo 17.º		19	29	308	ue/tratados/1992/11992E017.md
+11992E018	Artigo 18.º		19	21	100	ue/tratados/1992/11992E018.md
+11992E019	Artigo 19.º		19	41	441	ue/tratados/1992/11992E019.md
+11992E020	Artigo 20.º		19	25	196	ue/tratados/1992/11992E020.md
+11992E021	Artigo 21.º		19	23	186	ue/tratados/1992/11992E021.md
+11992E022	Artigo 22.º		19	23	150	ue/tratados/1992/11992E022.md
+11992E023	Artigo 23.º		19	33	396	ue/tratados/1992/11992E023.md
+11992E024	Artigo 24.º		19	21	57	ue/tratados/1992/11992E024.md
+11992E025	Artigo 25.º		19	31	442	ue/tratados/1992/11992E025.md
+11992E026	Artigo 26.º		19	23	126	ue/tratados/1992/11992E026.md
+11992E027	Artigo 27.º		19	21	78	ue/tratados/1992/11992E027.md
+11992E028	Artigo 28.º		19	21	47	ue/tratados/1992/11992E028.md
+11992E029	Artigo 29.º		19	29	193	ue/tratados/1992/11992E029.md
+11992E030	Artigo 30.º		19	21	47	ue/tratados/1992/11992E030.md
+11992E031	Artigo 31.º		19	23	147	ue/tratados/1992/11992E031.md
+11992E032	Artigo 32.º		19	23	106	ue/tratados/1992/11992E032.md
+11992E033	Artigo 33.º		19	43	838	ue/tratados/1992/11992E033.md
+11992E034	Artigo 34.º		19	23	92	ue/tratados/1992/11992E034.md
+11992E035	Artigo 35.º		19	23	96	ue/tratados/1992/11992E035.md
+11992E036	Artigo 36.º		19	21	160	ue/tratados/1992/11992E036.md
+11992E037	Artigo 37.º		19	35	533	ue/tratados/1992/11992E037.md
+11992E038	Artigo 38.º		19	27	250	ue/tratados/1992/11992E038.md
+11992E039	Artigo 39.º		19	39	268	ue/tratados/1992/11992E039.md
+11992E040	Artigo 40.º		19	39	344	ue/tratados/1992/11992E040.md
+11992E041	Artigo 41.º		19	25	105	ue/tratados/1992/11992E041.md
+11992E042	Artigo 42.º		19	27	144	ue/tratados/1992/11992E042.md
+11992E043	Artigo 43.º		19	35	554	ue/tratados/1992/11992E043.md
+11992E044	Artigo 44.º		19	47	839	ue/tratados/1992/11992E044.md
+11992E045	Artigo 45.º		19	45	748	ue/tratados/1992/11992E045.md
+11992E046	Artigo 46.º		19	23	178	ue/tratados/1992/11992E046.md
+11992E047	Artigo 47.º		19	21	68	ue/tratados/1992/11992E047.md
+11992E048	Artigo 48.º		19	35	296	ue/tratados/1992/11992E048.md
+11992E049	Artigo 49.º		19	29	352	ue/tratados/1992/11992E049.md
+11992E050	Artigo 50.º		19	21	30	ue/tratados/1992/11992E050.md
+11992E051	Artigo 51.º		19	25	150	ue/tratados/1992/11992E051.md
+11992E052	Artigo 52.º		19	23	205	ue/tratados/1992/11992E052.md
+11992E053	Artigo 53.º		19	21	53	ue/tratados/1992/11992E053.md
+11992E054	Artigo 54.º		19	43	751	ue/tratados/1992/11992E054.md
+11992E055	Artigo 55.º		19	23	90	ue/tratados/1992/11992E055.md
+11992E056	Artigo 56.º		19	23	207	ue/tratados/1992/11992E056.md
+11992E057	Artigo 57.º		19	25	299	ue/tratados/1992/11992E057.md
+11992E058	Artigo 58.º		19	23	134	ue/tratados/1992/11992E058.md
+11992E059	Artigo 59.º		19	23	136	ue/tratados/1992/11992E059.md
+11992E060	Artigo 60.º		19	33	190	ue/tratados/1992/11992E060.md
+11992E061	Artigo 61.º		19	23	82	ue/tratados/1992/11992E061.md
+11992E062	Artigo 62.º		19	21	62	ue/tratados/1992/11992E062.md
+11992E063	Artigo 63.º		19	27	275	ue/tratados/1992/11992E063.md
+11992E064	Artigo 64.º		19	23	90	ue/tratados/1992/11992E064.md
+11992E065	Artigo 65.º		19	21	66	ue/tratados/1992/11992E065.md
+11992E066	Artigo 66.º		19	21	30	ue/tratados/1992/11992E066.md
+11992E067	Artigo 67.º		19	23	144	ue/tratados/1992/11992E067.md
+11992E068	Artigo 68.º		19	25	226	ue/tratados/1992/11992E068.md
+11992E069	Artigo 69.º		19	21	80	ue/tratados/1992/11992E069.md
+11992E070	Artigo 70.º		19	25	345	ue/tratados/1992/11992E070.md
+11992E071	Artigo 71.º		19	25	161	ue/tratados/1992/11992E071.md
+11992E072	Artigo 72.º		19	21	70	ue/tratados/1992/11992E072.md
+11992E073	Artigo 73.º		19	25	230	ue/tratados/1992/11992E073.md
+11992E074	Artigo 74.º		19	21	46	ue/tratados/1992/11992E074.md
+11992E075	Artigo 75.º		19	33	336	ue/tratados/1992/11992E075.md
+11992E076	Artigo 76.º		19	21	116	ue/tratados/1992/11992E076.md
+11992E077	Artigo 77.º		19	21	56	ue/tratados/1992/11992E077.md
+11992E078	Artigo 78.º		19	21	46	ue/tratados/1992/11992E078.md
+11992E079	Artigo 79.º		19	29	309	ue/tratados/1992/11992E079.md
+11992E080	Artigo 80.º		19	27	240	ue/tratados/1992/11992E080.md
+11992E081	Artigo 81.º		19	25	111	ue/tratados/1992/11992E081.md
+11992E082	Artigo 82.º		19	21	75	ue/tratados/1992/11992E082.md
+11992E083	Artigo 83.º		19	21	78	ue/tratados/1992/11992E083.md
+11992E084	Artigo 84.º		19	25	100	ue/tratados/1992/11992E084.md
+11992E085	Artigo 85.º		19	47	470	ue/tratados/1992/11992E085.md
+11992E086	Artigo 86.º		19	31	238	ue/tratados/1992/11992E086.md
+11992E087	Artigo 87.º		19	35	346	ue/tratados/1992/11992E087.md
+11992E088	Artigo 88.º		19	21	104	ue/tratados/1992/11992E088.md
+11992E089	Artigo 89.º		19	23	200	ue/tratados/1992/11992E089.md
+11992E090	Artigo 90.º		19	25	232	ue/tratados/1992/11992E090.md
+11992E091	Artigo 91.º		19	25	228	ue/tratados/1992/11992E091.md
+11992E092	Artigo 92.º		19	41	575	ue/tratados/1992/11992E092.md
+11992E093	Artigo 93.º		19	31	542	ue/tratados/1992/11992E093.md
+11992E094	Artigo 94.º		19	21	88	ue/tratados/1992/11992E094.md
+11992E095	Artigo 95.º		19	25	160	ue/tratados/1992/11992E095.md
+11992E096	Artigo 96.º		19	21	58	ue/tratados/1992/11992E096.md
+11992E097	Artigo 97.º		19	23	144	ue/tratados/1992/11992E097.md
+11992E098	Artigo 98.º		19	21	131	ue/tratados/1992/11992E098.md
+11992E099	Artigo 99.º		19	21	124	ue/tratados/1992/11992E099.md
+11992E100	Artigo 100.º		19	21	90	ue/tratados/1992/11992E100.md
+11992E100A	Artigo 100.º-A		19	33	488	ue/tratados/1992/11992E100A.md
+11992E100B	Artigo 100.º-B		19	27	190	ue/tratados/1992/11992E100B.md
+11992E101	Artigo 101.º		19	23	170	ue/tratados/1992/11992E101.md
+11992E102	Artigo 102.º		19	23	218	ue/tratados/1992/11992E102.md
+11992E103	Artigo 103.º.		19	37	655	ue/tratados/1992/11992E103.md
+11992E104	Artigo 104.º.		19	23	208	ue/tratados/1992/11992E104.md
+11992E105	Artigo 105.º.		19	45	522	ue/tratados/1992/11992E105.md
+11992E106	Artigo 106.º.		19	31	266	ue/tratados/1992/11992E106.md
+11992E107	Artigo 107.º.		19	21	165	ue/tratados/1992/11992E107.md
+11992E108	Artigo 108.º.		19	21	66	ue/tratados/1992/11992E108.md
+11992E109	Artigo 109.º.		19	31	680	ue/tratados/1992/11992E109.md
+11992E110	Artigo 110.º		19	23	126	ue/tratados/1992/11992E110.md
+11992E112	Artigo 112.º		19	25	294	ue/tratados/1992/11992E112.md
+11992E113	Artigo 113.º		19	31	268	ue/tratados/1992/11992E113.md
+11992E115	Artigo 115.º		19	25	263	ue/tratados/1992/11992E115.md
+11992E117	Artigo 117.º		19	23	121	ue/tratados/1992/11992E117.md
+11992E118	Artigo 118.º		19	39	241	ue/tratados/1992/11992E118.md
+11992E118A	Artigo 118.º-A		19	27	262	ue/tratados/1992/11992E118A.md
+11992E118B	Artigo 118.º-B		19	21	49	ue/tratados/1992/11992E118B.md
+11992E119	Artigo 119.º		19	29	204	ue/tratados/1992/11992E119.md
+11992E120	Artigo 120.º		19	21	29	ue/tratados/1992/11992E120.md
+11992E121	Artigo 121.º		19	21	77	ue/tratados/1992/11992E121.md
+11992E122	Artigo 122.º		19	23	73	ue/tratados/1992/11992E122.md
+11992E123	Artigo 123.º		19	21	130	ue/tratados/1992/11992E123.md
+11992E124	Artigo 124.º		19	23	66	ue/tratados/1992/11992E124.md
+11992E125	Artigo 125.º		19	21	53	ue/tratados/1992/11992E125.md
+11992E126	Artigo 126.º		19	43	425	ue/tratados/1992/11992E126.md
+11992E127	Artigo 127.º.		19	37	362	ue/tratados/1992/11992E127.md
+11992E128	Artigo 128.º.		19	41	370	ue/tratados/1992/11992E128.md
+11992E129	Artigo 129.º.		19	35	364	ue/tratados/1992/11992E129.md
+11992E130	Artigo 130.º.		19	37	390	ue/tratados/1992/11992E130.md
+11992E130B	Artigo 130.º-B		19	25	376	ue/tratados/1992/11992E130B.md
+11992E130C	Artigo 130.º-C		19	21	81	ue/tratados/1992/11992E130C.md
+11992E130E	Artigo 130.º-E		19	23	112	ue/tratados/1992/11992E130E.md
+11992E130F	Artigo 130.º-F		19	25	294	ue/tratados/1992/11992E130F.md
+11992E130G	Artigo 130.º-G		19	29	187	ue/tratados/1992/11992E130G.md
+11992E130K	Artigo 130.º-K		19	23	104	ue/tratados/1992/11992E130K.md
+11992E130L	Artigo 130.º-L		19	21	81	ue/tratados/1992/11992E130L.md
+11992E130M	Artigo 130.º-M		19	23	104	ue/tratados/1992/11992E130M.md
+11992E130N	Artigo 130.º-N		19	21	53	ue/tratados/1992/11992E130N.md
+11992E130R	Artigo 130.º-R		19	47	521	ue/tratados/1992/11992E130R.md
+11992E130T	Artigo 130.º-T		19	21	66	ue/tratados/1992/11992E130T.md
+11992E131	Artigo 131.º		19	25	215	ue/tratados/1992/11992E131.md
+11992E132	Artigo 132.º		19	31	295	ue/tratados/1992/11992E132.md
+11992E133	Artigo 133.º		19	31	469	ue/tratados/1992/11992E133.md
+11992E134	Artigo 134.º		19	21	98	ue/tratados/1992/11992E134.md
+11992E135	Artigo 135.º		19	21	97	ue/tratados/1992/11992E135.md
+11992E136	Artigo 136.º		19	23	129	ue/tratados/1992/11992E136.md
+11992E136BIS	Artigo 136.º-A		19	21	63	ue/tratados/1992/11992E136BIS.md
+11992E137	Artigo 137.º		19	21	44	ue/tratados/1992/11992E137.md
+11992E138	Artigo 138.º		19	59	278	ue/tratados/1992/11992E138.md
+11992E139	Artigo 139.º	O Parlamento Europeu realiza uma sessão anual, reunindo-se por direito próprio na segunda terça-feira de Março. (52)()	19	21	67	ue/tratados/1992/11992E139.md
+11992E140	Artigo 140.º		19	27	114	ue/tratados/1992/11992E140.md
+11992E141	Artigo 141.º		19	23	46	ue/tratados/1992/11992E141.md
+11992E142	Artigo 142.º		19	23	52	ue/tratados/1992/11992E142.md
+11992E143	Artigo 143.º		19	21	32	ue/tratados/1992/11992E143.md
+11992E144	Artigo 144.º		19	23	197	ue/tratados/1992/11992E144.md
+11992E145	Artigo 145.º		19	27	192	ue/tratados/1992/11992E145.md
+11992E146	Artigo 146.º		19	27	161	ue/tratados/1992/11992E146.md
+11992E147	Artigo 147.º		19	21	33	ue/tratados/1992/11992E147.md
+11992E148	Artigo 148.º		19	55	213	ue/tratados/1992/11992E148.md
+11992E150	Artigo 150.º		19	21	30	ue/tratados/1992/11992E150.md
+11992E151	Artigo 151.º.		19	27	113	ue/tratados/1992/11992E151.md
+11992E152	Artigo 152.º		19	21	50	ue/tratados/1992/11992E152.md
+11992E153	Artigo 153.º		19	21	31	ue/tratados/1992/11992E153.md
+11992E154	Artigo 154.º		19	21	90	ue/tratados/1992/11992E154.md
+11992E155	Artigo 155.º		19	29	166	ue/tratados/1992/11992E155.md
+11992E156	Artigo 156.º		19	21	44	ue/tratados/1992/11992E156.md
+11992E157	Artigo 157.º		19	31	425	ue/tratados/1992/11992E157.md
+11992E158	Artigo 158.º.		19	33	306	ue/tratados/1992/11992E158.md
+11992E159	Artigo 159.º.		19	27	206	ue/tratados/1992/11992E159.md
+11992E160	Artigo 160.º		19	21	59	ue/tratados/1992/11992E160.md
+11992E161	Artigo 161.º		19	21	24	ue/tratados/1992/11992E161.md
+11992E162	Artigo 162.º		19	23	94	ue/tratados/1992/11992E162.md
+11992E163	Artigo 163.º	As deliberações da Comissão são tomadas por maioria do número de membros previsto no artigo 157o	19	21	58	ue/tratados/1992/11992E163.md
+11992E164	Artigo 164.º		19	21	30	ue/tratados/1992/11992E164.md
+11992E165	Artigo 165.º		19	27	196	ue/tratados/1992/11992E165.md
+11992E166	Artigo 166.º		19	25	136	ue/tratados/1992/11992E166.md
+11992E167	Artigo 167.º		19	29	215	ue/tratados/1992/11992E167.md
+11992E168	Artigo 168.º		19	21	24	ue/tratados/1992/11992E168.md
+11992E169	Artigo 169.º		19	23	104	ue/tratados/1992/11992E169.md
+11992E170	Artigo 170.º		19	27	196	ue/tratados/1992/11992E170.md
+11992E171	Artigo 171.º		19	29	302	ue/tratados/1992/11992E171.md
+11992E172	Artigo 172.º		19	21	65	ue/tratados/1992/11992E172.md
+11992E173	Artigo 173.º.		19	29	344	ue/tratados/1992/11992E173.md
+11992E174	Artigo 174.º		19	23	71	ue/tratados/1992/11992E174.md
+11992E175	Artigo 175.º		19	27	238	ue/tratados/1992/11992E175.md
+11992E176	Artigo 176.º		19	25	94	ue/tratados/1992/11992E176.md
+11992E177	Artigo 177.º		19	31	227	ue/tratados/1992/11992E177.md
+11992E178	Artigo 178.º	O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação dos danos referidos no segundo parágrafo do artígo 215o	19	19	40	ue/tratados/1992/11992E178.md
+11992E179	Artigo 179.º		19	21	60	ue/tratados/1992/11992E179.md
+11992E180	Artigo 180.º		19	29	356	ue/tratados/1992/11992E180.md
+11992E181	Artigo 181.º		19	21	55	ue/tratados/1992/11992E181.md
+11992E182	Artigo 182.º		19	21	54	ue/tratados/1992/11992E182.md
+11992E183	Artigo 183.º		19	21	59	ue/tratados/1992/11992E183.md
+11992E184	Artigo 184.º		19	21	106	ue/tratados/1992/11992E184.md
+11992E185	Artigo 185.º		19	21	55	ue/tratados/1992/11992E185.md
+11992E186	Artigo 186.º		19	21	32	ue/tratados/1992/11992E186.md
+11992E187	Artigo 187.º	Os acórdãos do Tribunal de Justiça tém força executíva, nos termos do artigo 192o	19	19	25	ue/tratados/1992/11992E187.md
+11992E188	Artigo 188.º		19	25	99	ue/tratados/1992/11992E188.md
+11992E189	Artigo 189.º		19	29	174	ue/tratados/1992/11992E189.md
+11992E190	Artigo 190.º.		19	21	75	ue/tratados/1992/11992E190.md
+11992E191	Artigo 191.º.		19	25	198	ue/tratados/1992/11992E191.md
+11992E192	Artigo 192.º		19	27	226	ue/tratados/1992/11992E192.md
+11992E193	Artigo 193.º		19	23	82	ue/tratados/1992/11992E193.md
+11992E194	Artigo 194.º		19	51	164	ue/tratados/1992/11992E194.md
+11992E195	Artigo 195.º		19	25	139	ue/tratados/1992/11992E195.md
+11992E196	Artigo 196.º		19	25	72	ue/tratados/1992/11992E196.md
+11992E197	Artigo 197.º		19	29	206	ue/tratados/1992/11992E197.md
+11992E198	Artigo 198.º		19	25	190	ue/tratados/1992/11992E198.md
+11992E199	Artigo 199.º		19	25	166	ue/tratados/1992/11992E199.md
+11992E201	Artigo 201.º.		19	23	100	ue/tratados/1992/11992E201.md
+11992E202	Artigo 202.º		19	27	215	ue/tratados/1992/11992E202.md
+11992E203	Artigo 203.º		19	81	1728	ue/tratados/1992/11992E203.md
+11992E204	Artigo 204.º		19	27	402	ue/tratados/1992/11992E204.md
+11992E205	Artigo 205.º		19	25	152	ue/tratados/1992/11992E205.md
+11992E206	Artigo 206.º.		19	27	385	ue/tratados/1992/11992E206.md
+11992E206BIS	Artigo 206.º-A	(revogado)	19	19	8	ue/tratados/1992/11992E206BIS.md
+11992E207	Artigo 207.º	O orçamento será elaborado na unidade de conta fixada em conformidade com a regulamentação adoptada por força do artigo 209o	19	27	228	ue/tratados/1992/11992E207.md
+11992E208	Artigo 208.º		19	23	188	ue/tratados/1992/11992E208.md
+11992E209	Artigo 209.º		19	27	182	ue/tratados/1992/11992E209.md
+11992E210	Artigo 210.º		19	21	15	ue/tratados/1992/11992E210.md
+11992E211	Artigo 211.º		19	21	74	ue/tratados/1992/11992E211.md
+11992E212	Artigo 212.º	(Artigo revogado pelo no 2 do artigo 24o do Tratado de fusão)	19	25	186	ue/tratados/1992/11992E212.md
+11992E213	Artigo 213.º		19	21	63	ue/tratados/1992/11992E213.md
+11992E214	Artigo 214.º		19	21	101	ue/tratados/1992/11992E214.md
+11992E215	Artigo 215.º		19	27	166	ue/tratados/1992/11992E215.md
+11992E216	Artigo 216.º		19	21	30	ue/tratados/1992/11992E216.md
+11992E217	Artigo 217.º		19	21	50	ue/tratados/1992/11992E217.md
+11992E218	Artigo 218.º	(Artigo revogado pelo segundo parágrafo da artigo 28o do Tratado de fusão)	19	23	110	ue/tratados/1992/11992E218.md
+11992E219	Artigo 219.º		19	21	51	ue/tratados/1992/11992E219.md
+11992E220	Artigo 220.º		19	29	198	ue/tratados/1992/11992E220.md
+11992E221	Artigo 221.º		19	21	100	ue/tratados/1992/11992E221.md
+11992E222	Artigo 222.º		19	21	25	ue/tratados/1992/11992E222.md
+11992E223	Artigo 223.º		19	29	235	ue/tratados/1992/11992E223.md
+11992E224	Artigo 224.º		19	21	134	ue/tratados/1992/11992E224.md
+11992E225	Artigo 225.º		19	23	155	ue/tratados/1992/11992E225.md
+11992E226	Artigo 226.º		19	25	242	ue/tratados/1992/11992E226.md
+11992E227	Artigo 227.º		19	55	602	ue/tratados/1992/11992E227.md
+11992E228	Artigo 228.º.		19	39	798	ue/tratados/1992/11992E228.md
+11992E229	Artigo 229.º		19	23	76	ue/tratados/1992/11992E229.md
+11992E230	Artigo 230.º		19	21	26	ue/tratados/1992/11992E230.md
+11992E231	Artigo 231.º		19	21	45	ue/tratados/1992/11992E231.md
+11992E232	Artigo 232.º		19	23	121	ue/tratados/1992/11992E232.md
+11992E233	Artigo 233.º		19	21	83	ue/tratados/1992/11992E233.md
+11992E234	Artigo 234.º		19	25	265	ue/tratados/1992/11992E234.md
+11992E235	Artigo 235.º		19	21	98	ue/tratados/1992/11992E235.md
+11992E238	Artigo 238.º		19	21	56	ue/tratados/1992/11992E238.md
+11992E239	Artigo 239.º		19	21	36	ue/tratados/1992/11992E239.md
+11992E240	Artigo 240.º		19	21	15	ue/tratados/1992/11992E240.md
+11992E241	Artigo 241.º		19	21	30	ue/tratados/1992/11992E241.md
+11992E242	Artigo 242.º		19	21	43	ue/tratados/1992/11992E242.md
+11992E243	Artigo 243.º		19	21	70	ue/tratados/1992/11992E243.md
+11992E244	Artigo 244.º		19	27	148	ue/tratados/1992/11992E244.md
+11992E245	Artigo 245.º		19	23	88	ue/tratados/1992/11992E245.md
+11992E246	Artigo 246.º		19	27	228	ue/tratados/1992/11992E246.md
+11992E247	Artigo 247.º		19	23	156	ue/tratados/1992/11992E247.md
+11992E248	Artigo 248.º		19	37	165	ue/tratados/1992/11992E248.md
+11992M/APS/01	Artigo 1.º		19	21	147	ue/tratados/1992/11992M_APS_01.md
+11992M/APS/02	Artigo 2.º		19	55	690	ue/tratados/1992/11992M_APS_02.md
+11992M/APS/03	Artigo 3.º		19	27	234	ue/tratados/1992/11992M_APS_03.md
+11992M/APS/04	Artigo 4.º		19	25	173	ue/tratados/1992/11992M_APS_04.md
+11992M/APS/05	Artigo 5.º		19	21	73	ue/tratados/1992/11992M_APS_05.md
+11992M/APS/06	Artigo 6.º		19	31	252	ue/tratados/1992/11992M_APS_06.md
+11992M/APS/07	Artigo 7.º		19	23	97	ue/tratados/1992/11992M_APS_07.md
+11992M/PRO/CC/01	Artigo 1.º		19	21	148	ue/tratados/1992/11992M_PRO_CC_01.md
+11992M/PRO/CC/02	Artigo 2.º		19	21	96	ue/tratados/1992/11992M_PRO_CC_02.md
+11992M/PRO/CC/03	Artigo 3.º		19	21	149	ue/tratados/1992/11992M_PRO_CC_03.md
+11992M/PRO/CC/04	Artigo 4.º		19	21	150	ue/tratados/1992/11992M_PRO_CC_04.md
+11992M/PRO/CC/05	Artigo 5.º		19	21	30	ue/tratados/1992/11992M_PRO_CC_05.md
+11992M/PRO/CC/06	Artigo 6.º		19	21	102	ue/tratados/1992/11992M_PRO_CC_06.md
+11992M/PRO/DE/01	Artigo 1.º		19	25	80	ue/tratados/1992/11992M_PRO_DE_01.md
+11992M/PRO/DE/02	Artigo 2.º		19	29	193	ue/tratados/1992/11992M_PRO_DE_02.md
+11992M/PRO/DE/03	Artigo 3.º		19	21	150	ue/tratados/1992/11992M_PRO_DE_03.md
+11992M/PRO/DE/04	Artigo 4.º		19	21	30	ue/tratados/1992/11992M_PRO_DE_04.md
+11992M/PRO/IME/01	Artigo 1.º	Constituição e denominação	19	25	185	ue/tratados/1992/11992M_PRO_IME_01.md
+11992M/PRO/IME/02	Artigo 2.º	Objectivos	19	27	132	ue/tratados/1992/11992M_PRO_IME_02.md
+11992M/PRO/IME/03	Artigo 3.º	Princípios gerais	19	23	102	ue/tratados/1992/11992M_PRO_IME_03.md
+11992M/PRO/IME/04	Artigo 4.º	Principais atribuições	19	53	529	ue/tratados/1992/11992M_PRO_IME_04.md
+11992M/PRO/IME/05	Artigo 5.º	Funções consultivas	19	29	338	ue/tratados/1992/11992M_PRO_IME_05.md
+11992M/PRO/IME/06	Artigo 6.º	Funções operacionais e técnicas	19	33	575	ue/tratados/1992/11992M_PRO_IME_06.md
+11992M/PRO/IME/07	Artigo 7.º	Outras atribuições	19	23	192	ue/tratados/1992/11992M_PRO_IME_07.md
+11992M/PRO/IME/08	Artigo 8.º	Independência	19	21	166	ue/tratados/1992/11992M_PRO_IME_08.md
+11992M/PRO/IME/09	Artigo 9.º	Administração	19	43	570	ue/tratados/1992/11992M_PRO_IME_09.md
+11992M/PRO/IME/10	Artigo 10.º	Reuniões de Conselho do IME e processo de votação	19	29	237	ue/tratados/1992/11992M_PRO_IME_10.md
+11992M/PRO/IME/11	Artigo 11.º	Cooperação interinstitucional e obrigação de apresentar relatórios	19	29	235	ue/tratados/1992/11992M_PRO_IME_11.md
+11992M/PRO/IME/12	Artigo 12.º	Moeda utilizada	19	21	20	ue/tratados/1992/11992M_PRO_IME_12.md
+11992M/PRO/IME/13	Artigo 13.º		19	21	56	ue/tratados/1992/11992M_PRO_IME_13.md
+11992M/PRO/IME/14	Artigo 14.º	Capacidade jurídica	19	21	92	ue/tratados/1992/11992M_PRO_IME_14.md
+11992M/PRO/IME/15	Artigo 15.º	Actos jurídicos	19	33	198	ue/tratados/1992/11992M_PRO_IME_15.md
+11992M/PRO/IME/16	Artigo 16.º	Recursos financeiros	19	25	262	ue/tratados/1992/11992M_PRO_IME_16.md
+11992M/PRO/IME/17	Artigo 17.º	Contas anuais e auditoria	19	37	337	ue/tratados/1992/11992M_PRO_IME_17.md
+11992M/PRO/IME/18	Artigo 18.º	Pessoal	19	23	72	ue/tratados/1992/11992M_PRO_IME_18.md
+11992M/PRO/IME/19	Artigo 19.º	Fiscalização jurisdicional e assuntos afins	19	29	240	ue/tratados/1992/11992M_PRO_IME_19.md
+11992M/PRO/IME/20	Artigo 20.º	Segredo profissional	19	23	102	ue/tratados/1992/11992M_PRO_IME_20.md
+11992M/PRO/IME/21	Artigo 21.º	Privilégios e imunidades	19	21	90	ue/tratados/1992/11992M_PRO_IME_21.md
+11992M/PRO/IME/22	Artigo 22.º	Forma de obrigar o IME	19	21	66	ue/tratados/1992/11992M_PRO_IME_22.md
+11992M/PRO/IME/23	Artigo 23.º	Liquidação do IME	19	33	357	ue/tratados/1992/11992M_PRO_IME_23.md
+11992M/PRO/SEBC/01	Artigo 1.º	O Sistema Europeu de Bancos Centrais	19	23	144	ue/tratados/1992/11992M_PRO_SEBC_01.md
+11992M/PRO/SEBC/02	Artigo 2.º	Objectivos	19	21	162	ue/tratados/1992/11992M_PRO_SEBC_02.md
+11992M/PRO/SEBC/03	Artigo 3.º	Atribuições	19	33	240	ue/tratados/1992/11992M_PRO_SEBC_03.md
+11992M/PRO/SEBC/04	Artigo 4.º	Funções consultivas	19	29	149	ue/tratados/1992/11992M_PRO_SEBC_04.md
+11992M/PRO/SEBC/05	Artigo 5.º	Compilação de informação estatística	19	27	261	ue/tratados/1992/11992M_PRO_SEBC_05.md
+11992M/PRO/SEBC/06	Artigo 6.º	Cooperação internacional	19	25	109	ue/tratados/1992/11992M_PRO_SEBC_06.md
+11992M/PRO/SEBC/07	Artigo 7.º	Independência	19	21	184	ue/tratados/1992/11992M_PRO_SEBC_07.md
+11992M/PRO/SEBC/08	Artigo 8.º	Princípio geral	19	21	21	ue/tratados/1992/11992M_PRO_SEBC_08.md
+11992M/PRO/SEBC/09	Artigo 9.º	O Banco Central Europeu	19	25	206	ue/tratados/1992/11992M_PRO_SEBC_09.md
+11992M/PRO/SEBC/10	Artigo 10.º	O Conselho do BCE	19	33	506	ue/tratados/1992/11992M_PRO_SEBC_10.md
+11992M/PRO/SEBC/11	Artigo 11.º	A Comissão Executiva	19	39	602	ue/tratados/1992/11992M_PRO_SEBC_11.md
+11992M/PRO/SEBC/12	Artigo 12.º	Responsabilidades dos órgãos de decisão	19	33	363	ue/tratados/1992/11992M_PRO_SEBC_12.md
+11992M/PRO/SEBC/13	Artigo 13.º	O Presidente	19	23	71	ue/tratados/1992/11992M_PRO_SEBC_13.md
+11992M/PRO/SEBC/14	Artigo 14.º	Bancos centrais nacionais	19	29	464	ue/tratados/1992/11992M_PRO_SEBC_14.md
+11992M/PRO/SEBC/15	Artigo 15.º	Obrigação de apresentar relatórios	19	27	167	ue/tratados/1992/11992M_PRO_SEBC_15.md
+11992M/PRO/SEBC/16	Artigo 16.º	Notas de banco	19	23	126	ue/tratados/1992/11992M_PRO_SEBC_16.md
+11992M/PRO/SEBC/17	Artigo 17.º	Contas no BCE e nos bancos centrais nacionais	19	21	85	ue/tratados/1992/11992M_PRO_SEBC_17.md
+11992M/PRO/SEBC/18	Artigo 18.º	Operações de «open market» e de crédito	19	27	222	ue/tratados/1992/11992M_PRO_SEBC_18.md
+11992M/PRO/SEBC/19	Artigo 19.º	Reservas mínimas	19	23	207	ue/tratados/1992/11992M_PRO_SEBC_19.md
+11992M/PRO/SEBC/20	Artigo 20.º	Outros instrumentos de controlo monetário	19	23	102	ue/tratados/1992/11992M_PRO_SEBC_20.md
+11992M/PRO/SEBC/21	Artigo 21.º	Operações com entidades do sector público	19	25	252	ue/tratados/1992/11992M_PRO_SEBC_21.md
+11992M/PRO/SEBC/22	Artigo 22.º	Sistemas de compensação e de pagamentos	19	21	74	ue/tratados/1992/11992M_PRO_SEBC_22.md
+11992M/PRO/SEBC/23	Artigo 23.º	Operações externas	19	29	178	ue/tratados/1992/11992M_PRO_SEBC_23.md
+11992M/PRO/SEBC/24	Artigo 24.º	Outras operações	19	21	53	ue/tratados/1992/11992M_PRO_SEBC_24.md
+11992M/PRO/SEBC/25	Artigo 25.º	Supervisão prudencial	19	23	161	ue/tratados/1992/11992M_PRO_SEBC_25.md
+11992M/PRO/SEBC/26	Artigo 26.º	Contas anuais	19	27	196	ue/tratados/1992/11992M_PRO_SEBC_26.md
+11992M/PRO/SEBC/27	Artigo 27.º	Auditoria	19	23	134	ue/tratados/1992/11992M_PRO_SEBC_27.md
+11992M/PRO/SEBC/28	Artigo 28.º	Capital do BCE	19	29	305	ue/tratados/1992/11992M_PRO_SEBC_28.md
+11992M/PRO/SEBC/29	Artigo 29.º	Tabela de repartição para subscrição de capital	19	33	336	ue/tratados/1992/11992M_PRO_SEBC_29.md
+11992M/PRO/SEBC/30	Artigo 30.º	Transferência de activos de reserva para o BCE	19	31	348	ue/tratados/1992/11992M_PRO_SEBC_30.md
+11992M/PRO/SEBC/31	Artigo 31.º	Activos de reserva detidos pelos bancos centrais nacionais	19	25	205	ue/tratados/1992/11992M_PRO_SEBC_31.md
+11992M/PRO/SEBC/32	Artigo 32.º	Distribuição dos proveitos monetários dos bancos centrais nacionais	19	35	632	ue/tratados/1992/11992M_PRO_SEBC_32.md
+11992M/PRO/SEBC/33	Artigo 33.º	Distribuição dos lucros e perdas líquidos do BCE	19	27	201	ue/tratados/1992/11992M_PRO_SEBC_33.md
+11992M/PRO/SEBC/34	Artigo 34.º	Actos jurídicos	19	39	315	ue/tratados/1992/11992M_PRO_SEBC_34.md
+11992M/PRO/SEBC/35	Artigo 35.º	Fiscalização jurisdicional e assuntos afins	19	31	425	ue/tratados/1992/11992M_PRO_SEBC_35.md
+11992M/PRO/SEBC/36	Artigo 36.º	Pessoal	19	23	80	ue/tratados/1992/11992M_PRO_SEBC_36.md
+11992M/PRO/SEBC/37	Artigo 37.º		19	21	56	ue/tratados/1992/11992M_PRO_SEBC_37.md
+11992M/PRO/SEBC/38	Artigo 38.º	Segredo profissional	19	23	109	ue/tratados/1992/11992M_PRO_SEBC_38.md
+11992M/PRO/SEBC/39	Artigo 39.º	Forma de obrigar o BCE	19	21	70	ue/tratados/1992/11992M_PRO_SEBC_39.md
+11992M/PRO/SEBC/40	Artigo 40.º	Privilégios e imunidades	19	21	90	ue/tratados/1992/11992M_PRO_SEBC_40.md
+11992M/PRO/SEBC/41	Artigo 41.º	Procedimento de alteração simplificado	19	23	173	ue/tratados/1992/11992M_PRO_SEBC_41.md
+11992M/PRO/SEBC/42	Artigo 42.º	Legislação complementar	19	21	130	ue/tratados/1992/11992M_PRO_SEBC_42.md
+11992M/PRO/SEBC/43	Artigo 43.º	Disposições gerais	19	31	381	ue/tratados/1992/11992M_PRO_SEBC_43.md
+11992M/PRO/SEBC/44	Artigo 44.º	Atribuições transitórias do BCE	19	23	83	ue/tratados/1992/11992M_PRO_SEBC_44.md
+11992M/PRO/SEBC/45	Artigo 45.º	Conselho Geral do BCE	19	25	134	ue/tratados/1992/11992M_PRO_SEBC_45.md
+11992M/PRO/SEBC/46	Artigo 46.º	Regulamento Interno do Conselho Geral	19	29	127	ue/tratados/1992/11992M_PRO_SEBC_46.md
+11992M/PRO/SEBC/47	Artigo 47.º	Funções do Conselho Geral	19	41	278	ue/tratados/1992/11992M_PRO_SEBC_47.md
+11992M/PRO/SEBC/48	Artigo 48.º	Disposições transitórias relativas ao capital do BCE	19	21	172	ue/tratados/1992/11992M_PRO_SEBC_48.md
+11992M/PRO/SEBC/49	Artigo 49.º	Realização diferida do capital, das reservas e das provisões do BCE	19	23	362	ue/tratados/1992/11992M_PRO_SEBC_49.md
+11992M/PRO/SEBC/50	Artigo 50.º	Nomeação inicial dos membros da Comissão Executiva	19	21	197	ue/tratados/1992/11992M_PRO_SEBC_50.md
+11992M/PRO/SEBC/51	Artigo 51.º	Derrogação do artigo 32o	19	23	173	ue/tratados/1992/11992M_PRO_SEBC_51.md
+11992M/PRO/SEBC/52	Artigo 52.º	Câmbio de notas de banco denominadas em moedas da Comunidade	19	21	88	ue/tratados/1992/11992M_PRO_SEBC_52.md
+11992M/PRO/SEBC/53	Artigo 53.º	Aplicabilidade das disposições transitórias	19	21	50	ue/tratados/1992/11992M_PRO_SEBC_53.md
+11992M/TXT	Preâmbulo		17	69	712	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 4.º-B		359	373	156	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º		375	381	60	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º-A		383	387	134	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º-B		389	393	316	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º-C		395	397	120	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º-D		399	403	60	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º-E		405	451	924	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 73.º-B		453	457	91	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 73.º-C		459	463	326	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 73.º-D		465	475	282	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 73.º-E		477	479	83	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 73.º-F		481	483	121	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 73.º-G		485	491	247	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 73.º-H		493	595	2048	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 102.º-A		597	599	128	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 103.º		601	619	653	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 103.º-A		621	625	205	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 104.º		627	631	207	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 104.º-A		633	637	149	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 104.º-B		639	643	245	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 104.º-C		645	705	1390	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 105.º		707	733	520	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 105.º-A		735	739	182	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 106.º		741	753	267	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 107.º		755	757	165	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 108.º		759	761	66	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 108.º-A		763	783	332	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º		785	801	688	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-A		803	813	195	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-B		815	825	239	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-C		827	859	903	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-D		861	867	116	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-E		869	889	415	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-F		891	949	1108	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-G		951	955	53	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-H		957	977	575	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-I		979	987	265	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-J		989	1021	948	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-K		1023	1037	718	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-L		1039	1055	649	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 109.º-M		1057	1127	1138	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 126.º		1129	1153	424	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 127.º		1155	1179	376	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 128.º		1181	1209	392	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 129.º		1211	1227	363	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 129.º-A		1231	1241	214	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 129.º-B		1245	1249	206	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 129.º-C		1251	1265	419	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 129.º-D		1267	1273	150	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º		1277	1295	389	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-A		1299	1303	95	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-B		1305	1311	376	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-C		1313	1315	81	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-D		1317	1321	238	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-E		1323	1327	112	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-F		1333	1339	294	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-G		1341	1351	187	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-H		1353	1357	101	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-I		1359	1375	352	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-J		1377	1383	63	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-K		1385	1389	104	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-L		1391	1393	81	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-M		1395	1399	104	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-N		1401	1403	53	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-O		1405	1409	127	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-P		1411	1413	88	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-R		1417	1445	521	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-S		1447	1471	528	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-T		1473	1475	66	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-U		1479	1491	217	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-V		1493	1495	50	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-W		1497	1503	155	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-X		1505	1509	136	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º-Y		1511	1535	390	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 138.º-B		1537	1541	146	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 138.º-C		1543	1549	180	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 138.º-D		1551	1553	99	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 138.º-E		1555	1617	1105	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 157.º		1619	1633	425	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 158.º		1635	1649	306	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 159.º		1651	1659	205	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 160.º		1661	1663	59	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 161.º		1665	1667	24	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 162.º		1669	1673	94	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 163.º	As deliberações da Comissão são tomadas por maioria do número de membros previsto no artigo 157°	1675	1799	2542	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 188.º-A		1801	1803	21	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 188.º-B		1805	1835	741	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 188.º-C		1837	1883	932	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 189.º-B		1885	1913	1112	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 189.º-C		1915	2017	1319	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 198.º-A		2019	2051	200	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 198.º-B		2053	2059	94	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 198.º-C		2061	2077	280	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 198.º-D		2079	2085	63	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 198.º-E		2087	2261	3246	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 10.º		2305	2319	306	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 11.º		2321	2323	24	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 12.º		2325	2333	205	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 12.º-A		2335	2337	60	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 13.º	As deliberações da Comissão são tomadas por maioria do número de membros previsto no artigo 9°	2339	2369	389	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 20.º-B		2371	2377	180	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 20.º-C		2379	2381	99	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 20.º-D		2383	2425	1074	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 27.º-A	O Conselho reúne-se por convocação do seu Presidente, por iniciativa deste, de um dos seus membros, ou da Comissão.»	2427	2433	134	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 30.º		2435	2485	1122	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 45.º-A		2487	2489	20	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 45.º-B		2491	2521	744	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 45.º-C		2523	2599	1739	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 107.º-B		2633	2639	179	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 107.º-C		2641	2643	99	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 107.º-D		2645	2681	910	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 117.º	O Conselho reúne-se por convocação do seu Presidente, por iniciativa deste, de um dos seus membros, ou da Comissão.»	2683	2707	307	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 126.º		2709	2723	425	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 127.º		2725	2739	306	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 128.º		2741	2749	204	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 129.º		2751	2753	60	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 130.º		2755	2757	24	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 131.º		2759	2763	92	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 132.º	As deliberações da Comissão são tomadas por maioria do número de membros previsto no artigo 126°	2765	2827	1359	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 160.º-A		2829	2831	21	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 160.º-B		2833	2863	744	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 160.º-C		2865	3027	2507	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 1.º	O Sistema Europeu de Bancos Centrais	3445	3449	144	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 2.º	Objectivos	3453	3455	162	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 3.º	Atribuições	3457	3471	240	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 4.º	Funções consultivas	3473	3483	149	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 5.º	Compilação de informação estatística	3485	3493	261	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 6.º	Cooperação internacional	3495	3501	109	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 7.º	Independência	3505	3507	184	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º	Princípio geral	3509	3511	21	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 9.º	O Banco Central Europeu	3513	3519	206	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 10.º	O Conselho do BCE	3521	3535	506	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 11.º	A Comissão Executiva	3537	3557	602	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 12.º	Responsabilidades dos órgãos de decisão	3559	3573	363	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 13.º	O Presidente	3575	3579	71	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 14.º	Bancos centrais nacionais	3581	3591	464	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 15.º	Obrigação de apresentar relatórios	3593	3601	167	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 16.º	Notas de banco	3603	3607	126	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 17.º	Contas no BCE e nos bancos centrais nacionais	3611	3613	85	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 18.º	Operações de «open market» e de crédito	3615	3623	222	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 19.º	Reservas mínimas	3625	3629	207	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 20.º	Outros instrumentos de controlo monetário	3631	3635	102	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 21.º	Operações com entidades do sector público	3637	3643	252	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 22.º	Sistemas de compensação e de pagamentos	3645	3647	74	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 23.º	Operações externas	3649	3659	178	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 24.º	Outras operações	3661	3663	53	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 25.º	Supervisão prudencial	3667	3671	161	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 26.º	Contas anuais	3675	3683	196	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 27.º	Auditoria	3685	3689	134	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 28.º	Capital do BCE	3691	3701	305	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 29.º	Tabela de repartição para subscrição de capital	3703	3717	336	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 30.º	Transferência de activos de reserva para o BCE	3719	3731	348	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 31.º	Activos de reserva detidos pelos bancos centrais nacionais	3733	3739	205	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 32.º	Distribuição dos proveitos monetários dos bancos centrais nacionais	3741	3757	632	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 33.º	Distribuição dos lucros e perdas líquidos do BCE	3759	3767	201	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 34.º	Actos jurídicos	3771	3791	315	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 35.º	Fiscalização jurisdicional e assuntos afins	3793	3805	425	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 36.º	Pessoal	3807	3811	80	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 37.º		3813	3815	56	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 38.º	Segredo profissional	3817	3821	109	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 39.º	Forma de obrigar o BCE	3823	3825	70	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 40.º	Privilégios e imunidades	3827	3829	90	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 41.º	Procedimento de alteração simplificado	3833	3837	173	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 42.º	Legislação complementar	3839	3841	130	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 43.º	Disposições gerais	3845	3857	381	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 44.º	Atribuições transitórias do BCE	3859	3863	83	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 45.º	Conselho Geral do BCE	3865	3871	134	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 46.º	Regulamento Interno do Conselho Geral	3873	3883	127	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 47.º	Funções do Conselho Geral	3885	3907	278	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 48.º	Disposições transitórias relativas ao capital do BCE	3909	3911	172	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 49.º	Realização diferida do capital, das reservas e das provisões do BCE	3913	3917	362	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 50.º	Nomeação inicial dos membros da Comissão Executiva	3919	3921	197	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 51.º	Derrogação do artigo 32°	3923	3927	173	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 52.º	Câmbio de notas de banco denominadas em moedas da Comunidade	3929	3931	88	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 53.º	Aplicabilidade das disposições transitórias	3933	3943	114	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 1.º	Constituição e denominação	3945	3951	184	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 2.º	Objectivos	3953	3961	132	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 3.º	Princípios gerais	3963	3967	102	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 4.º	Principais atribuições	3969	4003	529	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 5.º	Funções consultivas	4005	4015	338	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 6.º	Funções operacionais e técnicas	4017	4031	575	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 7.º	Outras atribuições	4033	4037	192	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 8.º	Independência	4039	4041	166	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 9.º	Administração	4043	4067	570	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 10.º	Reuniões de Conselho do IME e processo de votação	4069	4079	237	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 11.º	Cooperação interinstitucional e obrigação de apresentar relatórios	4081	4091	235	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 12.º	Moeda utilizada	4093	4095	20	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 13.º		4097	4099	56	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 14.º	Capacidade jurídica	4101	4103	92	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 15.º	Actos jurídicos	4105	4119	198	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 16.º	Recursos financeiros	4121	4127	262	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 17.º	Contas anuais e auditoria	4129	4147	337	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 18.º	Pessoal	4149	4153	72	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 19.º	Fiscalização jurisdicional e assuntos afins	4155	4165	240	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 20.º	Segredo profissional	4167	4171	102	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 21.º	Privilégios e imunidades	4173	4175	90	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 22.º	Forma de obrigar o IME	4177	4179	66	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 23.º	Liquidação do IME	4181	4203	438	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 1.º		4205	4211	80	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 2.º		4213	4223	193	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 3.º		4225	4227	150	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 4.º		4229	4239	149	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 1.º		4241	4243	148	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 2.º		4245	4247	96	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 3.º		4249	4251	149	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 4.º		4253	4255	150	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 5.º		4257	4259	30	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 6.º		4261	4429	3706	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 1.º		4431	4433	147	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 2.º		4435	4471	689	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 3.º		4473	4481	234	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 4.º		4483	4489	173	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 5.º		4491	4493	73	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 6.º		4495	4507	252	ue/tratados/1992/11992M_TXT.md
+11992M/TXT	Artigo 7.º		4509	5043	10446	ue/tratados/1992/11992M_TXT.md
+11992M000	Preâmbulo		17	69	712	ue/tratados/1992/11992M000.md
+11992MG/B7	Artigo 4.º-B		24	26	47	ue/tratados/1992/11992MG_B7.md
+11992MG/C	Artigo 8.º		24	30	60	ue/tratados/1992/11992MG_C.md
+11992MG/C	Artigo 8.º-A		32	36	134	ue/tratados/1992/11992MG_C.md
+11992MG/C	Artigo 8.º-B		38	42	316	ue/tratados/1992/11992MG_C.md
+11992MG/C	Artigo 8.º-C		44	46	120	ue/tratados/1992/11992MG_C.md
+11992MG/C	Artigo 8.º-D		48	52	60	ue/tratados/1992/11992MG_C.md
+11992MG/C	Artigo 8.º-E		54	58	170	ue/tratados/1992/11992MG_C.md
+11992MG/D15	Artigo 73.º-B		24	28	91	ue/tratados/1992/11992MG_D15.md
+11992MG/D15	Artigo 73.º-C		30	34	326	ue/tratados/1992/11992MG_D15.md
+11992MG/D15	Artigo 73.º-D		36	46	282	ue/tratados/1992/11992MG_D15.md
+11992MG/D15	Artigo 73.º-E		48	50	83	ue/tratados/1992/11992MG_D15.md
+11992MG/D15	Artigo 73.º-F		52	54	121	ue/tratados/1992/11992MG_D15.md
+11992MG/D15	Artigo 73.º-G		56	62	247	ue/tratados/1992/11992MG_D15.md
+11992MG/D15	Artigo 73.º-H		64	78	468	ue/tratados/1992/11992MG_D15.md
+11992MG/D25	Artigo 102.º-A		28	30	128	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 103.º		32	50	653	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 103.º-A		52	56	205	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 104.º		58	62	207	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 104.º-A		64	68	149	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 104.º-B		70	74	245	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 104.º-C		76	136	1390	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 105.º		138	164	520	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 105.º-A		166	170	182	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 106.º		172	184	267	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 107.º		186	188	165	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 108.º		190	192	66	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 108.º-A		194	214	332	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º		216	232	688	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-A		234	244	195	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-B		246	256	239	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-C		258	290	904	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-D		292	298	116	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-E		300	320	415	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-F		322	380	1108	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-G		382	386	53	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-H		388	408	575	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-I		410	418	265	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-J		420	452	948	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-K		454	468	718	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-L		470	486	649	ue/tratados/1992/11992MG_D25.md
+11992MG/D25	Artigo 109.º-M		488	492	134	ue/tratados/1992/11992MG_D25.md
+11992MG/D36	Artigo 126.º		24	48	424	ue/tratados/1992/11992MG_D36.md
+11992MG/D36	Artigo 127.º		50	68	362	ue/tratados/1992/11992MG_D36.md
+11992MG/D37	Artigo 128.º		24	46	369	ue/tratados/1992/11992MG_D37.md
+11992MG/D38	Artigo 129.º		24	40	363	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 129.º-A		44	54	214	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 129.º-B		58	62	206	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 129.º-C		64	78	420	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 129.º-D		80	86	150	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º		90	108	389	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-A		112	116	95	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-B		118	124	376	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-C		126	128	81	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-D		130	134	238	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-E		136	140	112	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-F		146	152	294	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-G		154	164	187	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-H		166	170	102	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-I		172	188	352	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-J		190	196	63	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-K		198	202	104	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-L		204	206	81	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-M		208	212	104	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-N		214	216	53	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-O		218	222	127	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-P		224	226	88	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-R		230	258	521	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-S		260	284	528	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-T		286	288	66	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-U		292	304	217	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-V		306	308	50	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-W		310	316	155	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-X		318	322	136	ue/tratados/1992/11992MG_D38.md
+11992MG/D38	Artigo 130.º-Y		324	330	141	ue/tratados/1992/11992MG_D38.md
+11992MG/E41	Artigo 138.º-B		24	28	146	ue/tratados/1992/11992MG_E41.md
+11992MG/E41	Artigo 138.º-C		30	36	180	ue/tratados/1992/11992MG_E41.md
+11992MG/E41	Artigo 138.º-D		38	40	99	ue/tratados/1992/11992MG_E41.md
+11992MG/E41	Artigo 138.º-E		42	56	547	ue/tratados/1992/11992MG_E41.md
+11992MG/E48	Artigo 157.º		24	38	426	ue/tratados/1992/11992MG_E48.md
+11992MG/E48	Artigo 158.º		40	54	306	ue/tratados/1992/11992MG_E48.md
+11992MG/E48	Artigo 159.º		56	64	205	ue/tratados/1992/11992MG_E48.md
+11992MG/E48	Artigo 160.º		66	68	59	ue/tratados/1992/11992MG_E48.md
+11992MG/E48	Artigo 161.º		70	72	24	ue/tratados/1992/11992MG_E48.md
+11992MG/E48	Artigo 162.º		74	78	94	ue/tratados/1992/11992MG_E48.md
+11992MG/E48	Artigo 163.º	As deliberações da Comissão são tomadas por maioria do número de membros previsto no artigo 157o	80	82	58	ue/tratados/1992/11992MG_E48.md
+11992MG/E59	Artigo 188.º-A		24	26	21	ue/tratados/1992/11992MG_E59.md
+11992MG/E59	Artigo 188.º-B		28	58	741	ue/tratados/1992/11992MG_E59.md
+11992MG/E59	Artigo 188.º-C		60	84	625	ue/tratados/1992/11992MG_E59.md
+11992MG/E61	Artigo 189.º-B		26	54	1112	ue/tratados/1992/11992MG_E61.md
+11992MG/E61	Artigo 189.º-C		56	80	541	ue/tratados/1992/11992MG_E61.md
+11992MG/E67	Artigo 198.º-A		24	56	200	ue/tratados/1992/11992MG_E67.md
+11992MG/E67	Artigo 198.º-B		58	64	94	ue/tratados/1992/11992MG_E67.md
+11992MG/E67	Artigo 198.º-C		66	76	260	ue/tratados/1992/11992MG_E67.md
+11992MG/E68	Artigo 198.º-D		24	30	63	ue/tratados/1992/11992MG_E68.md
+11992MG/E68	Artigo 198.º-E		32	42	304	ue/tratados/1992/11992MG_E68.md
+11992MI/14	Artigo 160.º-A		24	26	21	ue/tratados/1992/11992MI_14.md
+11992MI/14	Artigo 160.º-B		28	58	744	ue/tratados/1992/11992MI_14.md
+11992MI/14	Artigo 160.º-C		60	84	631	ue/tratados/1992/11992MI_14.md
+11992MI/2	Artigo 107.º-B		24	30	179	ue/tratados/1992/11992MI_2.md
+11992MI/2	Artigo 107.º-C		32	34	99	ue/tratados/1992/11992MI_2.md
+11992MI/2	Artigo 107.º-D		36	50	550	ue/tratados/1992/11992MI_2.md
+11992MI/5	Artigo 117.º	O Conselho reúne-se por convocação do seu Presidente, por iniciativa deste, de um dos seus membros, ou da Comissão.»	30	30	34	ue/tratados/1992/11992MI_5.md
+11992MI/8	Artigo 126.º		24	38	425	ue/tratados/1992/11992MI_8.md
+11992MI/8	Artigo 127.º		40	54	306	ue/tratados/1992/11992MI_8.md
+11992MI/8	Artigo 128.º		56	64	204	ue/tratados/1992/11992MI_8.md
+11992MI/8	Artigo 129.º		66	68	60	ue/tratados/1992/11992MI_8.md
+11992MI/8	Artigo 130.º		70	72	24	ue/tratados/1992/11992MI_8.md
+11992MI/8	Artigo 131.º		74	78	92	ue/tratados/1992/11992MI_8.md
+11992MI/8	Artigo 132.º	As deliberações da Comissão são tomadas por maioria do número de membros previsto no artigo 126o	80	82	58	ue/tratados/1992/11992MI_8.md
