@@ -62,7 +62,7 @@ python3 ferramentas/procurar.py pt 32011L0083                    # lei portugues
   estão no índice). A lista é a que Portugal comunicou: pode não incluir a lei em vigor
   mais recente sobre o tema.
 - **`catalogo/`** — índice de **toda** a legislação da UE marcada como em vigor no Cellar:
-  64 273 actos em 2026-10-09 (7 393 de tratados, 9 132 acordos internacionais, 16 244
+  64 273 actos em 2026-10-10 (7 393 de tratados, 9 132 acordos internacionais, 16 244
   regulamentos, 1 305 diretivas, 17 490 decisões, 9 512 decisões sobre concentrações e
   outros), com título em PT, data, área do repertório oficial e ligação. Serve para saber
   o que existe e ir buscar o que faltar.
@@ -74,9 +74,10 @@ python3 ferramentas/procurar.py pt 32011L0083                    # lei portugues
 ## Toda a legislação em vigor e a futura
 
 A pasta **`ue/`** tem o texto integral, em português, de todos os actos que o Cellar marca
-como em vigor (64 273 em 2026-10-09: tratados, acordos internacionais, regulamentos,
-diretivas, decisões, recomendações…) e dos 52 já publicados que só entram em vigor depois
-dessa data. Para cada acto: a versão consolidada mais recente já aplicável ou, se não houver,
+como em vigor (64 273 em 2026-10-10: tratados, acordos internacionais, regulamentos,
+diretivas, decisões, recomendações…), dos 44 já publicados que só entram em vigor depois
+dessa data e de 7 que, pelas datas do Cellar, já entraram em vigor mas que o Cellar ainda não
+marca como tal (`estado: em vigor (por confirmar)`, com o motivo no ficheiro). Para cada acto: a versão consolidada mais recente já aplicável ou, se não houver,
 o texto original do Jornal Oficial; e, quando já existe, a versão consolidada futura
 (`<CELEX>.futuro.md`). Quando o Cellar não tem o acto em português (sobretudo decisões
 sobre concentrações de empresas, publicadas só na língua do processo), usa-se o inglês, o
@@ -84,8 +85,10 @@ francês ou o alemão, e o ficheiro di-lo. Mapa completo em `ue/INDICE.tsv`.
 
 **Actualização automática:** `.github/workflows/actualizar.yml` corre todas as
 segundas-feiras no GitHub Actions. Junta os actos novos, substitui os que têm nova versão
-consolidada, retira os que deixaram de vigorar, actualiza as leis portuguesas e o corpus
-curado, e regista o que mudou em `ue/ALTERACOES.md`. Pode ser lançada à mão em Actions →
+consolidada, retira os que deixaram de vigorar (só com prova: data de fim de validade passada
+no Cellar), actualiza as leis portuguesas e o corpus curado, verifica a coerência dos dados e
+regista o que mudou e o resultado da verificação em `ue/ALTERACOES.md`. Se a verificação
+encontrar problemas graves, a execução aparece como falhada no GitHub. Pode ser lançada à mão em Actions →
 "Actualizar legislação" → Run workflow, ou desligada no mesmo sítio.
 
 ## O que não está aqui

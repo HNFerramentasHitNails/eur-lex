@@ -1,6 +1,6 @@
 # Índice — por onde começar
 
-Gerado por `python3 ferramentas/indexar.py` em 2026-10-10. 64319 actos da UE (64273 em vigor, 46 futuros), 86 no corpus curado, leis portuguesas de transposição em `legislacao-pt/`.
+Gerado por `python3 ferramentas/indexar.py` em 2026-10-10. 64324 actos da UE (64273 em vigor, 7 em vigor por confirmar no Cellar, 44 futuros), 86 no corpus curado, leis portuguesas de transposição em `legislacao-pt/`.
 
 ## Para gastar poucos tokens
 
@@ -135,4 +135,4 @@ Gerado por `python3 ferramentas/indexar.py` em 2026-10-10. 64319 actos da UE (64
 - `12016M/TXT` TUE — `corpus/tratados/12016M_TXT-tue.md`
 - `12016P/TXT` Carta dos Direitos Fundamentais — `corpus/tratados/12016P_TXT-carta-dos-direitos-fundamentais.md`
 
-Tipos de acto: Decisão 17500; Regulamento 16278; Decisão sobre concentração 9512; Acordo internacional 9132; Tratado 7393; Diretiva 1306; Outro acto 868; Acto complementar 710; Recomendação 545; Parecer 382; Acto interno de instituição ou órgão 154; Orientação (BCE) 130; Ação ou posição comum (PESC) 118; Resolução 104; Orçamento 73; Decisão-quadro 54; Decisão CECA 52; Recomendação CECA 8.
+Tipos de acto: Decisão 17501; Regulamento 16282; Decisão sobre concentração 9512; Acordo internacional 9132; Tratado 7393; Diretiva 1306; Outro acto 868; Acto complementar 710; Recomendação 545; Parecer 382; Acto interno de instituição ou órgão 154; Orientação (BCE) 130; Ação ou posição comum (PESC) 118; Resolução 104; Orçamento 73; Decisão-quadro 54; Decisão CECA 52; Recomendação CECA 8.

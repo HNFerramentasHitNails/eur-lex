@@ -43,7 +43,7 @@ aplicável (no máximo 3 perguntas) e vai directo aos artigos.
 | `corpus/_sinteses/<id>.md` | Sínteses oficiais da UE em linguagem simples (não são texto legal). |
 | `legislacao-pt/INDICE.md` | Leis portuguesas que transpõem as diretivas do corpus, agrupadas por diretiva, com o estado de cada uma (consolidado, original, revogado, não obtido e porquê). |
 | `legislacao-pt/<tipo>-<numero>-<ano>.md` | Texto do diploma português obtido no Diário da República Eletrónico: versão consolidada do DRE quando existe (com a origem de cada alteração em linhas `> Alterado pelo/a …`), senão o texto original publicado. Diplomas revogados ficam só com metadados. |
-| `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-09 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
+| `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-10 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
 | `catalogo/repertorio.md` | Árvore de áreas do repertório oficial do EUR-Lex, com contagens. |
 | `ferramentas/eurlex.py` | Script que descarrega e converte. `ferramentas/nucleo.yaml` é a lista curada. |
 

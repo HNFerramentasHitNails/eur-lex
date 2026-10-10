@@ -509,3 +509,26 @@
   - removido: ue/regulamentos/2026/32026R2262.md
   - removido: ue/regulamentos/2026/32026R2245.md
   - removido: ue/regulamentos/2026/32026R2269.md
+
+## 2026-10-10
+
+- 7 actos novos ou com nova versão consolidada
+- 1 ficheiros removidos (actos que deixaram de estar em vigor)
+  - actualizado: 32026D2204
+  - actualizado: 32026D2261
+  - actualizado: 32026L0806
+  - actualizado: 32026R2245
+  - actualizado: 32026R2262
+  - actualizado: 32026R2269
+  - actualizado: 32026R2287
+  - removido: ue/decisoes/2025/32025D0895.md (fim de validade a 2026-06-15)
+
+### Verificação automática (2026-10-10)
+
+- **Aviso:** 1 actos 'em vigor (por confirmar)' há mais de 30 dias sem o Cellar os marcar: 32026L0806
+- OK: 64324 actos em ue/INDICE.tsv, todos com ficheiro, e nenhum ficheiro sem linha
+- OK: número de actos: 64319 no último commit, 64324 agora
+- OK: 1 actos saem por já não estarem em vigor, todos com prova: 32025D0895 (fim de validade a 2026-06-15)
+- OK: 7 actos em vigor por confirmar no Cellar: 32026D2204, 32026D2261, 32026L0806, 32026R2245, 32026R2262, 32026R2269, 32026R2287
+- OK: consolidado_ate do catálogo coincide com as versões consolidadas em todos os actos
+- OK: 15 títulos de regulamentos/diretivas/decisões desde 2015 sem o número do acto (limite 50): 32015D1890, 32019D0485, 32019D1355, 32019D1721, 32019D2174
