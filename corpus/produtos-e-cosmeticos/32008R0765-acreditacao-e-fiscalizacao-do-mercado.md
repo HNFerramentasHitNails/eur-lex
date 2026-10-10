@@ -18,7 +18,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32008R0765
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02008R0765-20210716
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32008R0765 — Acreditação e fiscalização do mercado

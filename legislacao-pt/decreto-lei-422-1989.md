@@ -1,0 +1,1913 @@
+---
+diploma: Decreto-Lei n.º 422/89
+tipo: Decreto-Lei
+numero: 422/1989
+data_publicacao: '1989-12-02'
+sumario: Reformula a Lei do Jogo
+texto: consolidado (DRE)
+versao_consolidada_de: '2021-01-29'
+transpoe:
+- 32015L0849
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-67109378
+eli: https://data.dre.pt/eli/dec-lei/422/1989/p/cons/20210129/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 422/89
+
+**Sumário:** Reformula a Lei do Jogo
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2021-01-29. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-67109378
+
+## Texto
+
+Decreto-Lei n.º 422/89
+
+de 2 de Dezembro
+
+A disciplina actual do jogo consagra algumas soluções que carecem ser adaptadas às alterações de natureza sócio-económica verificadas nos últimos anos e, fundamentalmente, à função turística que o jogo é chamado a desempenhar, designadamente como factor favorável à criação e ao desenvolvimento de áreas turísticas.
+
+Daí que a presente legislação, de interesse e ordem pública, dadas as respectivas incidências sociais, administrativas, penais e tributárias, haja sido reformulada com vista a instaurar um sistema mais adequado de regulamentação e de controlo da actividade, sem deixar de acautelar a defesa dos direitos constituídos e das legítimas expectativas das actuais concessionárias da exploração de jogos de fortuna ou azar.
+
+Como principais inovações, acentua-se a responsabilidade das concessionárias pela legalidade e regularidade da exploração e prática do jogo concessionado e melhoram-se as condições para uma exploração rentável, factor que beneficia, designadamente, a animação e equipamento turístico das regiões, bem como a respectiva promoção nos mercados interno e externo.
+
+Opera-se uma liberalização, de acordo com os princípios constitucionais, nos condicionamentos a que se sujeitam os acessos às salas de jogos de fortuna ou azar, mas, por outro lado, ao acentuar-se o princípio da reserva de admissão, visa-se melhorar o nível de frequência das salas de jogos e das restantes dependências dos casinos.
+
+Continua a proibir-se a efectivação de empréstimos nas salas de jogos e em qualquer outras dependências ou anexos dos casinos e, quanto às operações sobre cheques nacionais, alarga-se o período em que se permite a sua inutilização, quando aceites nas salas de jogos.
+
+A execução das obrigações das concessionárias permanece sujeita à fiscalização da Inspecção-Geral de Jogos, mantendo-se na mesma Inspecção-Geral, quanto ao imposto especial de jogo e às receitas proporcionadas pelos cartões e bilhetes de acesso às salas de jogos de fortuna ou azar, a competência que assiste à Direcção-Geral das Contribuições e Impostos no que respeita aos restantes impostos.
+
+Não obstante o presente diploma legal conter um reduzido número de normas de natureza laboral, foi a totalidade do seu projecto submetida a apreciação pública, nos termos da Lei n.º 14/89, de 30 de Junho, mediante publicação no Boletim do Trabalho e Emprego, de 14 de Agosto de 1989.
+
+Receberam-se contributos das associações sindicais e patronais interessadas, para além de outras entidades.
+
+A ponderação das sugestões apresentadas conduziu à reformulação de diversos preceitos do projecto posto à discussão pública.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira e a Associação Nacional dos Municípios Portugueses.
+
+Assim:
+
+No uso da autorização legislativa concedida pelos artigos 1.º e 2.º da Lei n.º 14/89, de 30 de Junho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Jogos de fortuna ou azar
+
+Jogos de fortuna ou azar são aqueles cujo resultado é contingente por assentar exclusiva ou fundamentalmente na sorte.
+
+### Artigo 2.º — Tutela
+
+A tutela dos jogos de fortuna ou azar compete ao membro do Governo responsável pelo sector do turismo.
+
+### Artigo 3.º — Zonas de jogo
+
+1 - A exploração e a prática dos jogos de fortuna ou azar só são permitidas nos casinos existentes em zonas de jogo permanente ou temporário criadas por decreto-lei ou, fora daqueles, nos casos excepcionados nos artigos 6.º a 8.º
+
+2 - Para efeitos de exploração e prática de jogos de fortuna ou azar, haverá zonas de jogo nos Açores, no Algarve, em Espinho, no Estoril, na Figueira da Foz, no Funchal, em Porto Santo, na Póvoa de Varzim, em Tróia e em Vidago-Pedras Salgadas.
+
+3 - A distância mínima de protecção concorrencial entre casinos de zonas de jogo será estabelecida, caso a caso, no decreto regulamentar que determinar as condições de adjudicação de cada concessão.
+
+4 - Mediante autorização do membro do Governo da tutela, ouvida a Inspecção-Geral de Jogos, poderão as concessionárias das zonas de jogo optar pela exploração do jogo do bingo em salas com os requisitos regulamentares, em regime igual ao dos casinos, mas fora destes, desde que sejam situadas na área do município em que estes se achem localizados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 4.º — Tipos de jogos de fortuna ou azar
+
+1 - Nos casinos é autorizada a exploração, nomeadamente, dos seguintes tipos de jogos de fortuna ou azar:
+
+a) Jogos bancados em bancas simples ou duplas: bacará ponto e banca, banca francesa, boule, cussec, écarté bancado, roleta francesa e roleta americana com um zero;
+
+b) Jogos bancados em bancas simples: black jack/21, chukluck e trinta e quarenta;
+
+c) Jogos bancados em bancas duplas: bacará de banca limitada e craps;
+
+d) Jogo bancado: keno;
+
+e) Jogos não bancados: bacará chemin de fer, bacará de banca aberta, écarté e bingo;
+
+f) Jogos em máquinas pagando directamente prémios em fichas ou moedas;
+
+g) Jogos em máquinas que, não pagando directamente prémios em fichas ou moedas, desenvolvam temas próprios dos jogos de fortuna ou azar ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte.
+
+2 - É permitido às concessionárias adoptar indiferentemente bancas simples ou duplas para a prática de qualquer dos jogos bancados referidos na alínea a) do n.º 1 deste artigo.
+
+3 - Compete ao membro do Governo da tutela autorizar a exploração de novos tipos de jogos de fortuna ou azar, a requerimento das concessionárias e após parecer da Inspecção-Geral de Jogos.
+
+### Artigo 5.º — Regras dos jogos
+
+As regras de execução para a prática dos jogos de fortuna ou azar serão aprovadas por portaria do membro do Governo da tutela, mediante proposta da Inspecção-Geral de Jogos, ouvidas as concessionárias.
+
+### Artigo 6.º — Exploração de jogos em navios ou aeronaves
+
+1 - O membro do Governo responsável pela área do turismo poderá autorizar, por tempo determinado, ouvidas a Inspecção-Geral de Jogos e a Direcção-Geral do Turismo, a exploração e prática de quaisquer jogos de fortuna ou azar a bordo de aeronaves ou navios registados em Portugal, quando fora do território nacional.
+
+2 - A exploração a que se refere o número anterior só pode ser concedida às empresas proprietárias ou afretadoras dos navios ou aeronaves nacionais ou a empresas concessionárias das zonas de jogo, com autorização daquelas.
+
+3 - A exploração e a prática dos jogos de fortuna ou azar que sejam autorizadas nos termos do presente artigo obedecem às regras estabelecidas para a sua realização em casinos, fixando o membro do Governo da tutela por portaria as condições específicas a que devem obedecer.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 7.º — Exploração fora dos casinos de jogos não bancados e de máquinas de jogo
+
+1 - Por ocasião de manifestações de relevante interesse turístico, ouvidas a Inspecção-Geral de Jogos e a Direcção-Geral de Turismo, pode o membro do Governo da tutela autorizar a exploração e a prática fora dos casinos de jogos não bancados.
+
+2 - Em localidades em que a actividade turística for predominante pode o membro do Governo da tutela, ouvidas a Inspecção-Geral de Jogos e a Direcção-Geral do Turismo, autorizar a exploração e a prática do jogo em máquinas de fortuna ou azar em estabelecimentos hoteleiros ou complementares, com características e dimensão que forem fixadas por decreto regulamentar.
+
+3 - As autorizações referidas nos números anteriores só podem ser concedidas à concessionária da zona de jogo cujo casino, em linha recta, se situar mais perto do local onde tiver lugar a exploração, independentemente do estabelecido no n.º 3 do artigo 3.º
+
+4 - A exploração e a prática dos jogos nas condições indicadas nos números anteriores obedecem às regras estabelecidas para a sua realização em casinos, fixando-se em portaria as condições específicas a que devem obedecer.
+
+### Artigo 8.º — Jogo do bingo
+
+Fora das áreas dos municípios em que se localizem os casinos e dos que com estes confinem, a exploração e a prática do jogo do bingo podem também efectuar-se em salas próprias, nos termos da legislação especial aplicável.
+
+## Capítulo II — Das concessões
+
+### Artigo 9.º — Regime de concessão
+
+1 - O direito de explorar jogos de fortuna ou azar é reservado ao Estado.
+
+2 - A exploração de jogos de fortuna ou azar pode ser atribuída mediante concessão a pessoas coletivas privadas, constituídas sob a forma de sociedades anónimas, ou equivalente, com sede num Estado-Membro da União Europeia, ou num Estado signatário do Acordo sobre o Espaço Económico Europeu que esteja vinculado à cooperação administrativa no domínio da fiscalidade e do combate à fraude e ao branqueamento de capitais, desde que, no caso de sociedades estrangeiras, tenham sucursal em Portugal.
+
+3 - O disposto no número anterior não é aplicável nos casos previstos no artigo 6.º.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
+
+### Artigo 10.º — Procedimento concursal
+
+A concessão da exploração de jogos de fortuna ou azar nos casinos das zonas de jogo é atribuída mediante concurso público ou concurso limitado por prévia qualificação, nos termos dos artigos seguintes e, supletivamente, do disposto na parte II do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
+
+### Artigo 11.º — Tramitação do procedimento
+
+1 - As decisões de contratar, de aprovação das peças procedimentais, de qualificação dos candidatos, quando aplicável, de adjudicação e de aprovação da minuta dos contratos de concessão e a outorga dos mesmos cabe ao membro do Governo responsável pela área do turismo.
+
+2 - A decisão de aprovação das peças procedimentais é precedida de parecer por parte do membro do Governo responsável pela área das finanças.
+
+3 - As demais decisões no âmbito do procedimento de formação dos contratos de concessão podem ser delegadas na comissão de jogos do Instituto de Turismo de Portugal, I.P..
+
+4 - As peças procedimentais devem definir, nomeadamente:
+
+a) O prazo da concessão e a possibilidade da sua prorrogação;
+
+b) O critério de qualificação dos candidatos, quando aplicável;
+
+c) A localização do casino onde se exerce a atividade do jogo e o acervo dos bens afetos à concessão;
+
+d) O critério de adjudicação das propostas;
+
+e) As contrapartidas financeiras mínimas e ou de natureza não pecuniária devidas como contraprestação pela concessão da exploração de jogos de fortuna ou azar, bem como o modo de pagamento das mesmas;
+
+f) O montante das cauções a prestar pelos concorrentes e o modo de prestação das mesmas.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
+
+### Artigo 12.º — Publicação do contrato de concessão
+
+1 - O contrato de concessão e a sua prorrogação são publicados em Diário da República.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
+
+### Artigo 13.º — Prorrogação do prazo
+
+Tendo em conta o interesse público, o prazo de concessão pode ser prorrogado por iniciativa do Governo ou a pedido fundamentado das concessionárias que tenham cumprido as suas obrigações, estabelecendo-se as condições da prorrogação em decreto-lei.
+
+> Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
+
+### Artigo 14.º — Alteração de circunstâncias
+
+1 - Quando alguma das obrigações contratuais das concessionárias não possa ser cumprida ou seja aconselhável para o desenvolvimento turístico a execução de realizações não previstas, pode o membro do Governo da tutela impor ou admitir a respectiva substituição ou alteração, em termos de equivalência de valor.
+
+2 - As alterações dos contratos de concessão, nos termos do número anterior, quando impostas pelo membro do Governo da tutela, não podem agravar nem reduzir os valores das obrigações inicialmente assumidas pelas concessionárias e, quando pedidos por estas, não podem reduzi-los.
+
+### Artigo 15.º — Cessão da posição contratual
+
+1 - A transferência para terceiros da exploração do jogo e das demais actividades que constituem obrigações contratuais pode ser permitida mediante autorização:
+
+a) Do Conselho de Ministros, quanto à exploração do jogo;
+
+b) Do membro do Governo da tutela, quanto às demais actividades que constituem obrigações contratuais.
+
+2 - A cessão de posição contratual sem observância do disposto no número anterior é nula.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 16.º — Obrigações de índole turística
+
+1 - Sem prejuízo de outras obrigações constantes do presente diploma, de legislação complementar e dos respectivos contratos de concessão, as concessionárias obrigam-se a:
+
+a) Fazer funcionar normalmente todas as dependências dos casinos e anexos para os fins a que se destinam ou sejam autorizados;
+
+b) Fazer executar regularmente no casino, nas dependências para tal destinadas, programas de animação de bom nível artístico;
+
+c) Promover e organizar manifestações turísticas, culturais e desportivas, colaborar nas iniciativas oficiais de idêntica natureza que tiverem por objecto fomentar o turismo na respectiva zona de jogo e subsidiar ou realizar, ouvido, através da Inspecção-Geral de Jogos, o ICEP - Investimentos, Comércio e Turismo de Portugal, a promoção da zona de jogo no estrangeiro.
+
+2 - Para cumprimento das obrigações previstas nas alíneas b) e c) do número anterior, a concessionária deverá afectar uma verba não inferior a 3% das receitas brutas do jogo apuradas no ano anterior ou, no primeiro ano das concessões, no ano em causa, não podendo a verba afecta ao cumprimento das obrigações previstas em cada uma daquelas alíneas ser inferior a 1% de tais receitas.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 17.º — Capitais próprios
+
+1 - Os capitais próprios das sociedades concessionárias não podem ser inferiores a 30% do ativo total líquido, devendo elevar-se a 40% deste a partir do sexto ano posterior à celebração do contrato de concessão, sem prejuízo do respetivo capital social mínimo poder ser fixado, para cada uma delas, nas peças procedimentais a que se refere o artigo 11.º.
+
+2 - Pelo menos 60% do capital social é representado por ações que permitam ao emitente, a todo o tempo, conhecer a identidade dos respetivos titulares, sendo obrigatória a comunicação à entidade de controlo, inspeção e regulação, pelas sociedades concessionárias, de todos os atos ou negócios que impliquem a aquisição, transmissão ou oneração destas ações, no prazo de
+
+30 dias a contar da data em que a sociedade tenha tomado conhecimento do ato ou negócio em causa.
+
+3 - A aquisição, a qualquer título, da propriedade ou posse de acções que representem mais de 10% do capital ou de que resulte, directa ou indirectamente, alteração do domínio das concessionárias por outrem, pessoa singular ou colectiva, carece de autorização do membro do Governo responsável pela área do turismo, sob pena de os respectivos adquirentes não poderem exercer os respectivos direitos sociais.
+
+4 - Se o adquirente das acções for pessoa colectiva, poderá a autorização condicionar a transmissão à sujeição da entidade adquirente ao regime do presente artigo.
+
+5 - As peças procedimentais a que se refere o artigo 11.º podem impedir ou limitar a participação, direta ou indireta, no capital social de uma concessionária por parte de outra concessionária ou concessionárias, sendo nulas as aquisições que violem o disposto naquelas peças.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 64/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29, em vigor a partir de 2015-05-04
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 18.º — Utilidade pública e utilidade turística
+
+1 - A celebração do contrato de concessão confere utilidade pública aos empreendimentos nele previstos para efeitos de expropriação com carácter de urgência de todos os bens necessários à sua execução, incluindo os direitos a eles inerentes.
+
+2 - Respeitadas que sejam as formalidades exigidas pela lei geral sobre expropriações por utilidade pública, o Governo poderá autorizar, a solicitação da concessionária, a posse administrativa dos bens a expropriar.
+
+3 - Os empreendimentos turísticos previstos nos contratos de concessão podem beneficiar dos incentivos previstos na lei geral, nos respectivos termos, nomeadamente do instituto de utilidade turística.
+
+## Capítulo III — Dos bens afectos às concessões
+
+> Alterado pelo/a Declaração - Diário da República n.º 299/1989, 1º Suplemento, Série I de 1989-12-30, em vigor a partir de 1990-01-01
+
+### Artigo 19.º — Bens do Estado
+
+1 - A adjudicação definitiva implica a transferência temporária para a concessionária da fruição de todos os bens propriedade do Estado afectos à concessão.
+
+2 - As concessionárias devem assegurar a perfeita conservação ou substituição dos bens do Estado afectos à concessão, conforme instruções da Inspecção-Geral de Jogos.
+
+### Artigo 20.º — Auto de entrega
+
+A transferência referida no artigo anterior constará de auto de entrega, feito em quadruplicado, compreendendo a relação de todos os bens do Estado abrangidos, assinado por representantes da Direcção-Geral do Património do Estado, da Inspecção-Geral de Jogos e da concessionária.
+
+### Artigo 21.º — Inventário dos bens afectos às concessões
+
+1 - Todos os bens pertencentes ao Estado ou para ele reversíveis no termo da concessão constarão de inventário, elaborado em quadruplicado, sendo um exemplar para a Direcção-Geral do Património do Estado, dois para a Inspecção-Geral de Jogos e outro para a concessionária.
+
+2 - O inventário deve ser actualizado de dois em dois anos, promovendo-se, a partir do final do ano em que haja de proceder-se à actualização e até ao fim do 1.º semestre do ano seguinte, a elaboração dos mapas correspondentes às alterações verificadas.
+
+### Artigo 22.º — Substituição de bens móveis
+
+1 - Os bens móveis propriedade do Estado ou para ele reversíveis afectos a uma concessão que, mediante acordo da Inspecção-Geral de Jogos, sejam substituídos por outros para os mesmos fins pela concessionária ficam a pertencer a esta.
+
+2 - Os bens móveis propriedade do Estado ou para ele reversíveis que a Inspecção-Geral de Jogos e a concessionária reconheçam não serem necessários são entregues à Direcção-Geral do Património do Estado.
+
+### Artigo 23.º — Bens reversíveis para o Estado
+
+1 - São reversíveis para o Estado, no termo da concessão:
+
+a) Os bens como tal considerados no contrato de concessão;
+
+b) Os bens adquiridos pelas concessionárias no decurso das concessões e que sejam utilizados para fazer funcionar, nos termos legal e contratualmente estabelecidos, quaisquer dependências dos casinos e seus anexos, que sejam propriedade do Estado ou para ele reversíveis;
+
+c) As benfeitorias feitas em bens do Estado ou para ele reversíveis;
+
+d) O material e utensílios de jogo.
+
+2 - É nula a constituição de quaisquer ónus ou encargos sobre os bens reversíveis para o Estado.
+
+3 - No termo da concessão, ainda que em resultado da rescisão da mesma, todos os bens referidos na alínea b) do n.º 1 revertem para o Estado, mesmo quando postos ao serviço normal da exploração através de contratos de aluguer ou de quaisquer outros donde conste cláusula de reserva de propriedade.
+
+4 - Nos contratos a que se refere o número anterior deverá fazer-se menção de que os bens locados ou cedidos, a qualquer outro título, à concessionária revertem para o Estado no termo da concessão, sob pena de nulidade.
+
+5 - A reversão para o Estado dos bens e das benfeitorias a que se refere a alínea c) do n.º 1 não confere às concessionárias qualquer direito de indemnização.
+
+6 - O material e utensílios de jogo, quando julgados pela Inspecção-Geral de Jogos impróprios para utilização, serão postos fora de uso ou destruídos, salvo se exportados pela concessionária, com observância do disposto no artigo 68.º
+
+7 - O material e utensílios de jogo, se postos fora de uso, terão o destino previsto no n.º 2 do artigo anterior; se destruídos, será elaborado o respectivo auto pela Inspecção-Geral de Jogos e vendidos os materiais resultantes, revertendo o respectivo valor para o Fundo de Turismo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 24.º — Benfeitorias
+
+As benfeitorias que, a qualquer título, sejam feitas em bens do Estado ou para ele reversíveis não conferem à concessionária direito a qualquer indemnização.
+
+### Artigo 25.º — Contrapartidas pelo uso de bens do Estado
+
+1 - As concessionárias devem remunerar o Estado pela utilização de bens deste, nos termos do respectivo contrato.
+
+2 - Os valores pecuniários das remunerações referidas no número anterior serão actualizados anualmente, de acordo com o índice médio de preços no consumidor para o continente, excluída a habitação, publicado pelo Instituto Nacional de Estatística.
+
+3 - As remunerações relativas a bens do Estado, que passam a ter utilização diversa da contratada, devem ser revistas por acordo entre o membro do Governo da tutela e a concessionária, ouvida a Inspecção-Geral de Jogos.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 299/1989, 1º Suplemento, Série I de 1989-12-30, em vigor a partir de 1990-01-01
+
+### Artigo 26.º — Pagamento das contrapartidas
+
+1 - O pagamento das contrapartidas pecuniárias referidas no artigo anterior será efectuado pela concessionária em prestações semestrais, até ao dia 15 dos meses de Janeiro e de Julho de cada ano, na tesouraria da Fazenda Pública territorialmente competente, mediante guia emitida pela Inspecção-Geral de Jogos e por esta enviada à respectiva repartição de finanças.
+
+2 - No ano em que se iniciar a exploração apenas são exigíveis à concessionária os duodécimos das contrapartidas pecuniárias contratualmente estabelecidas correspondentes aos meses posteriores ao do início da exploração.
+
+3 - Terminados os prazos para pagamento à boca do cofre, a repartição de finanças devolverá à Inspecção-Geral deJogos dois exemplares da guia por esta emitida, com a nota de pagamento averbada, ou, no caso de incumprimento, com informação nesse sentido.
+
+4 - Para execução são competentes os tribunais tributários, sendo título executivo certidão extraída pela Inspecção-Geral de Jogos das guias não pagas nos prazos referidos no n.º 1.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 299/1989, 1º Suplemento, Série I de 1989-12-30, em vigor a partir de 1990-01-01
+
+## Capítulo IV — Dos casinos
+
+## Secção I — Disposições gerais
+
+### Artigo 27.º — Casinos
+
+1 - Os casinos são estabelecimentos que o Estado afecta à prática e exploração de jogos de fortuna ou azar e actividades complementares, em regime de concessão, nas condições estabelecidas no presente diploma, e que visam, fundamentalmente, assegurar a honestidade do jogo, a concentração e comodidade dos jogadores e proporcionar uma oferta turística de alta qualidade.
+
+2 - Os casinos integram o domínio privado do Estado ou, quando assim não suceda, são para ele reversíveis, no termo da concessão, sempre que tal seja determinado por decreto-lei ou pelo decreto regulamentar a que se refere o artigo 11.º
+
+3 - Sem prejuízo do disposto nos n.os 1 e 2, o decreto regulamentar a que se refere o artigo 11.º, ao determinar a abertura do concurso, poderá autorizar a instalação de casinos em empreendimentos turísticos.
+
+4 - A concessionária poderá instalar meios de animação nos casinos, nos termos legais.
+
+5 - Os casinos devem satisfazer os requisitos de funcionalidade, conforto e comodidade próprios de um estabelecimento turístico de categoria superior e serão dotados de mobiliário, equipamento e utensilagem cuja qualidade e estado de funcionamento devem manter-se continuamente adequados às exigências das explorações e serviços respectivos.
+
+6 - A execução, nos casinos, de quaisquer obras que não sejam de simples conservação carece de autorização, a conceder pela Inspecção-Geral de Jogos, ouvida a Comissão de Apreciação de Projectos de Obras (CAPO).
+
+7 - É vedada a utilização da palavra «casino», só ou em associação com outros vocábulos, na denominação de quaisquer pessoas colectivas ou como nome de quaisquer outros estabelecimentos ou edifícios que não sejam os referidos neste artigo, com excepção das associações empresariais e profissionais específicas do sector.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 28.º — Períodos de funcionamento e de abertura
+
+1 - Os casinos devem funcionar, normalmente, em todos os dias do ano ou em seis meses consecutivos, consoante se trate de zona de jogo permanente ou temporário, podendo estes períodos ser reduzidos até metade, mediante autorização do Governo.
+
+2 - Sem prejuízo do disposto no presente diploma e demais legislação aplicável, podem as concessionárias estabelecer o período de abertura ao público dos casinos e das actividades neles integradas.
+
+3 - A direcção do casino deverá comunicar ao serviço de inspecção, com três dias de antecedência, qualquer alteração ao período de abertura que esteja a ser praticado.
+
+### Artigo 29.º — Reserva do direito de acesso aos casinos
+
+1 - As concessionárias podem cobrar bilhetes de entrada nos casinos, cujo preço não deverá exceder um montante máximo a fixar anualmente pela Inspecção-Geral de Jogos.
+
+2 - O acesso aos casinos é reservado, devendo as concessionárias não permitir a frequência de indivíduos que, designadamente:
+
+a) A partir das 22 horas, sejam menores de 14 anos, excepto quando maiores de 10 anos, desde que acompanhados pelo respectivo encarregado de educação;
+
+b) Não manifestem a intenção de utilizar ou consumir os serviços neles prestados;
+
+c) Se recusem, sem causa legítima, a pagar os serviços utilizados ou consumidos;
+
+d) Possam causar cenas de violência, distúrbios do ambiente ou causar estragos;
+
+e) Possam incomodar os demais utentes do casino com o seu comportamento e apresentação;
+
+f) Sejam acompanhados por animais, exerçam a venda ambulante ou prestem serviços.
+
+3 - Nos casos previstos nas alíneas b) a f) do número anterior e ainda quando existirem indícios, reputados suficientes, de ser inconveniente a presença de um frequentador, a concessionária deve vedar-lhe o acesso ao casino, esclarecendo-o de que pode reclamar perante a Inspecção-Geral de Jogos.
+
+4 - Sempre que um director do casino exerça o dever que lhe é imposto pelo número anterior, deve informar imediatamente da sua decisão o serviço de inspecção, indicando os factos em que se baseia, sem prejuízo de efectuar a comunicação por escrito no prazo de vinte e quatro horas.
+
+5 - No caso de o frequentador não se conformar com a decisão da concessionária, pode, no prazo máximo de 10 dias a contar da decisão, requerer a notificação dos respectivos fundamentos à Inspecção-Geral de Jogos, devendo o pedido ser satisfeito no prazo de 10 dias.
+
+6 - A partir da data da notificação a que se refere o número anterior, o frequentador dispõe de 10 dias para reclamar para a Inspecção-Geral de Jogos, indicando os motivos justificativos da reclamação, bem como as testemunhas que possam ser ouvidas sobre os factos.
+
+7 - A reclamação não tem efeitos suspensivos.
+
+8 - Independentemente de reclamação do interessado, a decisão da concessionária carece de confirmação da Inspecção-Geral de Jogos, que para o efeito desenvolverá as averiguações consideradas convenientes.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 30.º — Utilização das instalações dos casinos
+
+1 - Durante o horário de abertura dos casinos as concessionárias podem reservar o acesso a certas dependências ou anexos daqueles ou dar-lhes utilização diferente da prevista, devendo, para o efeito, solicitar autorização à Inspecção-Geral de Jogos, a qual só poderá recusá-la quando considerar que a mesma afecta o regular funcionamento do estabelecimento e a comodidade dos frequentadores.
+
+2 - Mediante comunicação ao serviço de inspecção, com antecedência de três dias, poderão as concessionárias, fora do horário de abertura dos casinos, dar às respectivas dependências ou anexos utilização diferente daquela para que estão destinadas.
+
+3 - As concessionárias podem afectar dependências dos casinos ou seus anexos a actividades de carácter comercial ou industrial, devendo, para o efeito, solicitar autorização à Inspecção-Geral de Jogos, a qual, ouvido o Conselho Consultivo de Jogos, só poderá recusá-la quando repute tais actividades incompatíveis com a natureza turística e lúdica daqueles estabelecimentos.
+
+4 - As autorizações a que se referem os n.os 1 e 3 consideram-se tacitamente concedidas quando a Inspecção-Geral de Jogos não se pronunciar negativamente no prazo de 10 dias, no caso do primeiro, e de 20 dias, no caso do último.
+
+5 - As concessionárias só poderão ceder a terceiros as dependências a que se refere o n.º 3 a título de mera ocupação com carácter precário.
+
+6 - Da recusa da autorização a que se refere o n.º 3 cabe recurso para o membro do Governo responsável pela área do turismo.
+
+7 - Para manifestações de reconhecido interesse público pode a Inspecção-Geral de Jogos requisitar a utilização de dependências ou anexos dos casinos, fora do seu horário de abertura, mediante justa compensação dos inerentes encargos da concessionária.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 31.º — Suspensão do funcionamento
+
+Quando circunstâncias excepcionais o justifiquem, o membro do Governo da tutela pode ordenar ou autorizar a suspensão por período determinado do funcionamento das salas de jogo e de outras dependências ou anexos dos casinos.
+
+## Secção II — Das salas de jogos
+
+### Artigo 32.º — Salas de jogos
+
+1 - Os jogos de fortuna ou azar são explorados em salas especialmente concebidas para a respectiva prática e actividades inerentes.
+
+2 - A Inspecção-Geral de Jogos poderá autorizar:
+
+a) A existência de salas reservadas a determinados jogos e jogadores;
+
+b) A instalação de salas mistas, com jogos tradicionais e máquinas, em termos a definir, no tocante ao tipo de jogos a praticar e à relação entre o número de máquinas e de mesas de jogo a instalar, em regulamento daquela Inspecção;
+
+c) A instalação de máquinas nas salas de jogos tradicionais.
+
+3 - Noutros locais dos casinos que tenham acesso reservado a maiores de 18 anos poderão ser exploradas máquinas de jogo de fortuna ou de azar e o Keno.
+
+4 - Os compartimentos da zona de serviço das salas de jogos e respectivos acessos são interditos aos frequentadores.
+
+5 - Nas salas de jogo, quando possível, devem ser delimitadas zonas reservadas a não fumadores.
+
+6 - Da recusa da autorização a que se referem as alíneas b) e c) do n.º 2 cabe recurso para o membro do Governo responsável pela área do turismo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 33.º — Avisos
+
+1 - À entrada das salas de jogos serão afixados os avisos a seguir indicados, em caracteres legíveis:
+
+a) Indicando o período de abertura ao público das referidas salas;
+
+b) Inserindo a tabela de preços dos cartões de acesso às mesmas salas, no caso das salas de jogos tradicionais e das salas mistas;
+
+c) Transcrevendo as disposições dos artigos 36.º, 37.º, 39.º e 41.º do presente diploma.
+
+2 - Junto ou sobre cada mesa de jogo será igualmente afixado aviso onde se indique o número da mesa, o capital em giro inicial, o mínimo de aposta e o seu máximo, em cada uma das diferentes marcações possíveis.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 34.º — Livre acesso
+
+1 - Sendo-lhes vedada a prática do jogo, directamente ou por interposta pessoa, é livre a entrada nas salas de jogos:
+
+a) Dos titulares dos órgãos de soberania, bem como dos ministros da República para as regiões autónomas;
+
+b) Dos titulares dos órgãos de governo das regiões autónomas;
+
+c) (Revogada.)
+
+d) Dos presidentes da assembleia municipal e da câmara municipal do município em que se localize a sala de jogo;
+
+e) Dos membros dos corpos sociais das empresas concessionárias e da direcção do casino, bem como dos convidados dos administradores das concessionárias, quando acompanhados por estes.
+
+2 - Quando no desempanho das sus funções, podem também entrar nas salas de jogos, ficando-lhes vedado a prática do jogo, directamente ou por interposta pessoa:
+
+a) Os magistrados do Ministério Público, as autoridades policiais e seus agentes, os funcionários autorizados do Ministério dos Negócios Estrangeiros e dos serviços oficiais do turismo, os inspectores da Inspecção de Crédito do Banco de Portugal e os agentes e inspectores da Inspecção-Geral do Trabalho;
+
+b) Os membros das direcções das associações representativas das empresas concessionárias e dos empregados das salas de jogos e, nas salas de jogos do respectivo casino, os delegados sindicais e membros das comissões de trabalhadores.
+
+3 - O inspector-geral de Jogos e os inspectores da Inspecção-Geral de Jogos podem autorizar, em circunstâncias especiais, o acesso às salas de jogos de pessoas às quais não esteja vedado, nos termos dos artigos seguintes, sem observância das formalidades neles prescritas, não lhes sendo, todavia, permitido jogar, directamente ou por interposta pessoa.
+
+4 - Compete à Inspecção-Geral de Jogos autorizar o director do serviço de jogos a usar da faculdade prevista no número precedente.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30, em vigor a partir de 2011-12-01
+
+### Artigo 35.º — Acesso às salas de jogos tradicionais
+
+1 - O acesso às salas de jogos tradicionais é sujeito à obtenção de cartão ou documento equivalente, podendo a concessionária cobrar um preço pela emissão daquele cartão, cujo valor, único para cada tipo de cartão, deve ser comunicado à Inspecção-Geral de Jogos com oito dias de antecedência.
+
+2 - As operações de emissão, autenticação, controlo e obliteração dos cartões referidos no n.º 1 e o seu processamento deverão ser feitos por processos automáticos.
+
+3 - Quando a instalação, manutenção e programação do equipamento necessário às operações referidas no número anterior não sejam contratualmente exigíveis às concessionárias, poderão as despesas ser suportadas pelo orçamento da Inspecção-Geral de Jogos.
+
+4 - Os frequentadores das salas a que se refere o n.º 1 conservarão em seu poder, enquanto nelas se encontrarem, o cartão ou documento que exibiram para o acesso.
+
+5 - No acto de emissão do cartão, e integrando o preço deste, as empresas concessionárias cobrarão o imposto do selo devido e elaborarão o respectivo registo, que será conferido no dia seguinte pelo serviço de inspecção.
+
+6 - O imposto do selo cobrado em cada mês será entregue pelas concessionárias na tesouraria da Fazenda Pública competente até ao dia 15 do mês seguinte ao da cobrança, mediante guia, em triplicado, processada pela Inspecção-Geral de Jogos, à qual será remetido o triplicado, depois de averbado o pagamento, nos três dias posteriores a esse pagamento.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 36.º — Restrições de acesso
+
+1 - O acesso às salas de jogos de fortuna ou azar é reservado, devendo o director do serviço de jogos ou a Inspecção-Geral de Jogos recusar a emissão de cartões de entrada ou o acesso aos indivíduos cuja presença nessas salas considerem inconveniente, designadamente nos casos do n.º 2 do artigo 29.º
+
+2 - Independentemente do disposto no número anterior, é vedada a entrada nas salas de jogos, designadamente, aos indivíduos:
+
+a) Menores de 18 anos;
+
+b) Incapazes, maiores acompanhados dependentes de representação ou de autorização prévia para a prática de atos patrimoniais e insolventes cuja insolvência seja qualificada como culposa;
+
+c) Membros das forças armadas e das corporações paramilitares, de qualquer nacionalidade, quando se apresentem fardados;
+
+d) Empregados das concessionárias que prestam serviço em salas de jogos, quando não em serviço;
+
+e) Portadores de armas, engenhos ou matérias explosivas e de quaisquer aparelhos de registo e transmissão de dados, de imagem ou de som.
+
+> Alterado pelo/a Artigo 19.º do/a Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14, em vigor a partir de 2019-02-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 37.º — Expulsão e restrição de acesso às salas de jogos
+
+1 - Todo aquele que for encontrado numa sala de jogos em infracção às disposições legais, ou quando seja inconveniente a sua presença, será mandado retirar pelos inspectores da Inspecção-Geral de Jogos ou pelo director do serviço de jogos, sendo a recusa de saída considerada crime de desobediência qualificada, no caso de a ordem ser dada ou confirmada pelos referidos inspectores.
+
+2 - Nos casos previstos no número anterior e ainda quando existirem indícios, reputados suficientes, de ser inconveniente a presença de um frequentador nas salas de jogos, a concessionária deve vedar-lhe o acesso àquelas salas, esclarecendo-o de que pode reclamar perante a Inspecção-Geral de Jogos.
+
+3 - Sempre que o director do serviço de jogos exerça o dever que lhe é imposto pelo número anterior, deve informar imediatamente da sua decisão o serviço de inspecção, indicando os factos em que se baseia, sem prejuízo de efectuar a comunicação por escrito no prazo de vinte e quatro horas.
+
+4 - É aplicável à expulsão e à restrição de acesso às salas de jogos, previstas neste artigo, o disposto nos n.os 5 a 8 do artigo 29.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 38.º — Proibição de acesso
+
+1 - Por sua iniciativa, ou a pedido justificado das concessionárias, ou ainda dos próprios interessados, o inespector-geral de Jogos pode proibir o acesso às salas de jogos a quaisquer indivíduos, nos termos do presente diploma, por períodos não superiores a cinco anos.
+
+2 - Quando a proibição for meramente preventiva ou cautelar, não excederá dois anos e fundamentar-se-á em indícios reputados suficientes de ser inconveniente a presença dos frequentadores nas salas de jogos.
+
+3 - Das decisões tomadas pelo inspector-geral de Jogos ao abrigo do disposto nos números anteriores e nos artigos 36.º e 37.º cabe recurso para o membro do Governo responsável pela área do turismo, nos termos da lei geral.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 39.º — Documentos de identificação
+
+A prova dos elementos de identificação necessários à emissão de cartões de acesso às salas de jogos tradicionais poderá ser feita por qualquer dos documentos seguintes:
+
+a) Em relação a residentes no território português, por:
+
+i) Bilhete de identidade;
+
+ii) Passaporte;
+
+iii) Bilhete de identidade militar;
+
+iv) Autorização de residência;
+
+v) Carta de condução;
+
+vi) Cartão diplomático;
+
+b) Em relação a não residentes no território português, qualquer documento oficial de identificação, passado pelas autoridades portuguesas ou do país onde residem, desde que dele conste, para além do nome do titular, a idade, a fotografia, a assinatura e o país de residência.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 40.º — Cartões de acesso às salas de jogos tradicionais
+
+1 - Os cartões de acesso às salas de jogos tradicionais são de modelos A e B.
+
+2.(Revogado.)
+
+3 - O prazo de validade dos cartões modelo A é o correspondente ao período compreendido entre a data da emissão e 31 de Dezembro do ano respectivo, sendo sempre referido a 3, 6, 9 ou 12 meses.
+
+4 - O prazo de validade dos cartões modelo B é de 1, 8 ou 30 dias.
+
+5 - Os cartões a que se referem os números anteriores podem incluir fotografia e assinatura do respectivo titular.
+
+6 - Salvo no caso de cartões válidos por um dia, poderão ser emitidas, uma única vez, 2.as vias dos cartões modelos A e B, quando solicitadas com fundamento na inutilização ou perda dos cartões.
+
+7 - Os cartões a que se referem os números anteriores são de modelo e da cor que, sob proposta da respectiva concessionária, forem determinados pela Inspecção-Geral de Jogos para cada casino, devendo, quando necessário, ser autenticados pelo respectivo serviço de inspecção.
+
+8 - A Inspecção-Geral de Jogos definirá as regras a que deve obedecer a constituição dos ficheiros das salas de jogos tradicionais.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 41.º — Controlo de acesso às salas de jogos
+
+1 - As concessionárias manterão, durante todo o tempo em que estiverem abertas as salas de jogos tradicionais, um serviço, devidamente apetrechado e dotado de pessoal competente, destinado à identificação dos indivíduos que as pretendam frequentar e à fiscalização das respectivas entradas.
+
+2 - Os porteiros das salas a que se refere o número anterior devem solicitar aos frequentadores a apresentação do cartão de acesso, por forma bem visível, e ainda, quando os não conheçam e o respectivo cartão não inclua a fotografia do titular, a exibição do documento que haja servido de base à emissão.
+
+3 - A entrada e permanência nas salas mistas, de máquinas e de bingo, e nas salas de jogo do keno é condicionada à posse de um dos documentos de identificação previstos no artigo 39.º, devendo os porteiros de tais salas solicitar a exibição do mesmo, quando a aparência do frequentador for de molde a suscitar dúvidas sobre o cumprimento do requisito constante da alínea a) do n.º 2 do artigo 36.º
+
+4 - O acesso às salas de máquinas é ainda condicionado à observância da lotação máxima fixada para essas salas pela Inspecção-Geral de Jogos, sob proposta da concessionária e ouvida a CAPO.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 42.º — Cartões de aceso às salas de máquinas
+
+1 - O acesso às salas privativas de máquinas automáticas faz-se mediante a aquisição de cartões modelos E e F.
+
+2 - O prazo de validade dos cartões modelo E é o correspondente ao período compreendido entre a data da emissão e 31 de Dezembro do respectivo ano, sendo sempre referido a 3, 6, 9 ou 12 meses.
+
+3 - Os cartões modelo F são válidos para uma única entrada.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 43.º — Segundas vias
+
+Poderão ser emitidas segundas vias dos cartões modelos A, B e E, quando solicitadas com fundamento na sua inutilização ou perda.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 44.º — Cartões de acesso às salas de jogo do bingo
+
+O acesso às salas de jogo do bingo faz-se mediante a aquisição de cartões modelos G e H, nos termos de legislação própria.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 45.º — Cartões modelos A, B, C e D
+
+Os cartões modelos A, B, C e D conferem aos seus titulares o direito de entrada nas salas privativas de máquinas automáticas e de jogo do bingo do casino.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 46.º — Aprovação de modelos e ficheiros de frequentadores
+
+1 - Os cartões referidos nos artigos anteriores são do modelo e da cor que forem determinados pela Inspecção-Geral de Jogos para cada casino, devendo ser autenticados pelo serviço de inspecção, quando necessário.
+
+2 - A Inspecção-Geral de Jogos definirá as regas a que deve obedecer a constituição dos ficheiros dos frequentadores das salas de jogos.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 47.º — Documentos de identificação
+
+A prova dos elementos de identificação necessários à emissão de cartões de acesso às salas de jogos de fortuna ou de azar poderá ser feita por qualquer dos documentos seguintes:
+
+1) Em relação a cidadãos nacionais residentes em Portugal, por:
+
+a) Bilhete de identidade;
+
+b) Passaporte;
+
+c) Bilhete de identidade militar;
+
+2) Em relação aos estrangeiros ou apátridas residentes em Portugal, por:
+
+a) Autorização de residência;
+
+b) Certidão de nacionalidade;
+
+c) Cartão diplomático;
+
+d) Passaporte, quando dele conste a residência em Portugal;
+
+e) Bilhete de identidade para estrangeiros;
+
+3) Em relação a residentes no estrangeiro, bilhete de identidade de cidadão nacional ou qualquer documento que seja suficiente para entrar em Portugal, passado pelas autoridades portuguesas ou do país onde residem, do qual conste tal residência.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 48.º — Serviço de identificação
+
+As empresas concessionárias manterão durante todo o tempo de abertura ao público dos casinos, junto à entradas das salas onde se pratiquem jogos de fortuna ou de azar, serviço, devidamente apetrechado e dotado com pessoal competente, destinado à identificação dos indivíduos que as pretendam frequentar e à fiscalização das respectivas entradas.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 49.º — Apresentação de cartões de acesso
+
+Os porteiros das salas de jogos devem sempre exigir aos frequentadores a apresentação do cartão de acesso, por forma bem visível, solicitando-lhes também, quando os não conheçam, a exibição do documento que haja servido de base à respectiva emissão.
+
+> Revogado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 50.º — Período de abertura das salas de jogos
+
+1 - As salas de jogos estão abertas ao público até doze horas por dia, num período compreendido entre as 15 horas de cada dia e as 6 horas do dia seguinte, a definir pela concessionária, a qual, para o efeito, deverá comunicar à Inspecção-Geral de Jogos o horário escolhido com 60 dias de antecedência
+
+2 - A direcção do casino pode solicitar à Inspecção-Geral de Jogos, com antecedência mínima de 15 dias, autorização para alargar o período de abertura máximo referido no n.º 1 quando no decurso do período de alargamento se pretendam praticar apenas jogos não bancados.
+
+3 - A Inspecção-Geral de Jogos, quando conceda a autorização prevista no número anterior, determinará os serviços inerentes às salas de jogos que devem permanecer em funcionamento.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 51.º — Encerramento das salas de jogos
+
+1 - As salas de jogos só poderão ser encerradas antes do horário que esteja em vigor, mediante prévia comunicação ao serviço de inspecção, nos seguintes casos:
+
+a) Quando não haja jogadores na sala;
+
+b) Quando num período de 10 minutos nenhum dos jogadores presentes haja feito qualquer aposta.
+
+2 - Ao atingir-se a hora determinada para encerramento das salas de jogos, far-se-á ouvir um sinal sonoro, após o qual só poderá ser anunciada mais uma única jogada.
+
+3 - Nas salas de máquinas, o sinal sonoro será feito ouvir cinco minutos antes da hora determinada para o encerramento.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 52.º — Equipamento de vigilância e controlo
+
+1 - Compete à Inspecção-Geral de Jogos autorizar a utilização de equipamentos electrónicos de vigilância e controlo nas salas de jogos dos casinos, como medida de protecção e segurança de pessoas e bens.
+
+2 - Quando a instalação do equipamento referido no número anterior não seja contratualmente exigível às concessionárias, será a mesma feita por conta do orçamento da Inspecção-Geral de Jogos.
+
+3 - Sem prejuízo do disposto nos números anteriores, não é permitido nas salas de jogos, durante o período de abertura ao público destas, fazer uso dos instrumentos e aparelhos a que se refere a alínea e) do n.º 2 do artigo 36.º
+
+4 - As gravações de imagem ou som feitas através do equipamento de vigilância e controlo previsto neste artigo destinam-se exclusivamente à fiscalização das salas de jogos, seus acessos e instalações de apoio, sendo proibida a sua utilização para fins diferentes e obrigatória a sua destruição pela concessionária no prazo de 30 dias, salvo quando, por conterem matéria em investigação ou susceptível de o ser, se devam manter por mais tempo, circunstância em que serão imediatamente entregues ao serviço de inspecção da Inspecção-Geral de Jogos, acompanhadas de relatório sucinto sobre os factos que motivaram a retenção, só podendo ser utilizadas nos termos da legislação penal e do processo penal.
+
+5 - Sem prejuízo do disposto no número anterior, o serviço de inspecção pode visionar as gravações de imagem ou de som efectuadas pela concessionária quando o entenda conveniente.
+
+6 - As concessionárias devem criar um quadro de, pelo menos, três operadores obrigados ao sigilo profissional previsto no artigo 81.º e devidamente habilitados para proceder a todas as operações do sistema, por forma a assegurar uma fiscalização eficaz e regular dos sectores vigiados.
+
+7 - Nos locais que se encontrem sob vigilância é obrigatória a afixação, em local bem visível, de um aviso com os seguintes dizeres: 'Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagens e som'.
+
+8 - No tratamento e circulação dos dados recolhidos através dos sistemas de vigilância deve ser respeitado o disposto na Lei n.º 67/98, de 26 de Outubro.
+
+> Alterado pelo/a Lei n.º 28/2004 - Diário da República n.º 166/2004, Série I-A de 2004-07-16, em vigor a partir de 2004-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+## Capítulo V — Da prática dos jogos nos casinos
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 53.º — Esquemas de abertura de jogos
+
+1 - Antes da abertura das salas de jogos, a concessionária deve comunicar à Inspecção-Geral de Jogos o número de bancas e de máquinas ou de grupos de máquinas a funcionar, bem como o respectivo capital inicial, nos jogos em que ele deva existir, sempre que pretenda alterar aquele número ou o valor desse capital.
+
+2 - Não será liquidado imposto em relação às bancas ou máquinas abertas tempestivamente, nos termos do número anterior, cujo capital em giro inicial não chegue a ser utilizado por falta de jogadores até ao termo da partida.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 54.º — Abertura suplementar de jogos
+
+Sempre que os jogadores presentes nas salas de jogos não tenham condições de comodidade indispensáveis à prática do jogo, o director do serviço de jogos deve providenciar para que sejam abertas à exploração as necessárias salas, bancas e máquinas ou grupos de máquinas, dando imediato conhecimento dessa abertura ao serviço de inspecção no casino.
+
+### Artigo 55.º — Imposição de abertura de jogos
+
+1 - Verificando-se o condicionalismo referido no artigo anterior, e no caso de o director do serviço de jogos não promover a abertura conveniente, compete ao serviço de inspecção determiná-la por escrito, o que deve fazer sempre que isso lhe pareça necessário.
+
+2 - A determinação para a abertura à exploração de salas, bancas, máquinas ou grupos de máquinas referirá o número considerado indispensável no momento para garantir a comodidade dos jogadores.
+
+3 - Consideram-se abrangidas pelo disposto no n.º 2 do artigo 53.º as bancas e máquinas que os jogadores não utilizem até ao termo da partida.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 56.º — Reforços
+
+1 - O capital em giro inicial estabelecido para a abertura das bancas poderá ser acrescido com os reforços necessários ao seu funcionamento.
+
+2 - Os reforços a que este artigo se refere, de valor igual ao do capital em giro inicial das bancas a que se destinam, devem, antes de entrar em circulação, ser estendidos sobre a mesa e contados pelo pagador, que anunciará, em voz alta, o valor respectivo.
+
+3 - Cada banca terá uma caderneta de reforços, com o número que lhe corresponde, com original e duplicado, onde serão lançados os reforços que nela se efectuem, devendo o duplicado ser destacado do livro e ficar sobre a banca.
+
+4 - A efectivação de reforços só é obrigatória se o valor das fichas existentes na banca for insuficiente para pagamento integral das importâncias que os jogadores hajam ganho.
+
+5 - As bancas cujo encerramento haja sido motivado por insuficiência de capital não poderão voltar a funcionar no decurso da sessão, ainda que o director do serviço de jogos se proponha reforçá-las.
+
+### Artigo 57.º — Composição das mesas de jogo
+
+O capital em giro inicial de cada banca deve ser constituído por uma colecção de fichas de vários valores, em quantidade tal que torne dispensável, tanto quanto possível, a realização de trocos com a caixa vendedora durante o seu funcionamento.
+
+### Artigo 58.º — Máximos e mínimos de aposta
+
+1 - As concessionárias fixam os valores mínimos e máximos das apostas.
+
+2 - Sem prejuízo do disposto no número anterior, os valores máximos das apostas nos jogos bancados são fixados em função do capital em giro inicial, não podendo, porém, aqueles exceder, relativamente a cada uma das marcações que seja possível efectuar, por cada jogador, importância da qual resulte que o valor do prémio, acrescido do valor da aposta, exceda 5,5% do capital em giro inicial da respectiva banca.
+
+3 - Nas salas mistas, os valores mínimos de aposta não podem exceder o quíntuplo do valor mais elevado das apostas simples praticadas na sala de máquinas, aprovado pela Inspecção-Geral de Jogos.
+
+4 - No jogo do black-jack/21, a duplicação da importância apostada, permitida quando os valores das duas primeiras cartas totalizem 9, 10 ou 11, não é limitada pelo disposto na parte final do n.º 2.
+
+5 - A Inspecção-Geral de Jogos pode autorizar a exploração de jogos bancados cujas regras prevejam, em substituição dos máximos de aposta individuais e por chance previstos no n.º 2, a fixação do montante máximo de prémios a suportar pelo capital da banca em cada golpe.
+
+6 - As concessionárias deverão comunicar à Inspecção-Geral de Jogos, com oito dias de antecedência, os valores que vierem a estabelecer ao abrigo do disposto no n.º 1.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 59.º — Obrigatoriedade de utilização de dinheiro em espécie
+
+1 - Os jogos só podem praticar-se com a utilização efectiva de moeda com curso legal no território português.
+
+2 - O dinheiro pode ser substituído por símbolos convencionais que o representem, de acordo com as regras dos jogos, nomeadamente por fichas ou cartões.
+
+3 - Às concessionárias compete, sob a autorização da Inspecção-Geral de Jogos, emitir e lançar em circulação as fichas que se tornem necessárias para o funcionamento dos jogos, cabendo-lhes garantir o respectivo reembolso.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 60.º — Empréstimos
+
+1 - Nas salas de jogos ou em outras dependências ou anexos dos casinos é proibido fazer empréstimos em dinheiro ou por qualquer outro meio.
+
+2 - Não são consideradas empréstimos as importâncias reunidas por jogadores que, de acordo com os usos, constituam um fundo comum destinado a ser posto em jogo por um deles.
+
+### Artigo 61.º — Caixa vendedora
+
+1 - A troca do dinheiro por fichas deve efectuar-se em caixa a esse fim destinada - caixa vendedora -, por intermédio de ficheiros volantes, dotados de um valor em fichas previamente fixado pelo director do serviço de jogos e comunicado ao serviço de inspecção, ou nas mesas de jogo, com observância, neste último caso, de regulamento a aprovar, para o efeito, pela Inspecção-Geral de Jogos.
+
+2 - Sempre que se torne necessário, os ficheiros volantes poderão efectuar na caixa vendedora onde a sua dotação foi constituída a troca do dinheiro que tenham realizado.
+
+3 - É obrigatória a existência de conta corrente entre a caixa vendedora e os ficheiros volantes que nela se tenham abastecido.
+
+4 - Em todas as salas de jogos dos casinos podem ainda ser utilizados cartões bancários, correndo por conta do jogador os encargos bancários efectivos da operação, bem como ordens de pagamento nominativas (vouchers), em termos a afixar pela concessionária junto da caixa compradora, que deverão ser comunicados à Inspecção-Geral de Jogos com a antecedência de oito dias.
+
+5 - Em todas as salas de jogos poderá também funcionar equipamento que permita a movimentação por meios automáticos das contas bancárias dos jogadores.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 62.º — Troca de fichas por cheques
+
+1 - As concessionárias podem manter nas salas de jogos um serviço destinado à troca de fichas por cheques, nominativos ou ao portador, sacados sobre contas de pessoas singulares para cujo movimento seja bastante a assinatura do frequentador ou sacados por concessionária, devendo efectuar no respectivo livro de registo, no acto, a correspondente inscrição.
+
+2 - Os cheques trocados devem apresentar-se preenchidos e corresponder, cada um, a uma única entrega de fichas de valor igual ao do cheque.
+
+3 - Os cheques referidos nos números anteriores, cuja aceitação não é obrigatória, podem, quando não sacados por concessionária, ser inutilizados na partida em que foram aceites, por forma a não poderem ser de novo utilizados, devendo as concessionárias, no acto, efectuar no livro de registo o correspondente averbamento.
+
+4 - As concessionárias são obrigadas a apresentar em instituição bancária no prazo de oito dias os cheques não inutilizados, devendo efectuar no respectivo livro de registo o correspondente averbamento e arquivar os documentos bancários comprovativos do seu crédito em conta ou pagamento.
+
+5 - Se os cheques forem devolvidos por falta de provisão, anotar-se-á esse facto no livro de registo, somente então se seguindo o uso pela concessionária dos meios legais para efectuar a cobrança.
+
+6 - Todas as operações de registo previstas nos n.os 1 a 5 deste artigo e no n.º 5 do artigo anterior, bem como todos os documentos comprovativos, serão conferidos pelos inspectores do serviço de inspecção no casino.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 63.º — Operações cambiais
+
+1 - É permitida a instalação nos casinos de um serviço da concessionária destinado à realização das operações cambiais a que aludem os n.os 1 e 3 do artigo 15.º do Decreto-Lei n.º 13/90, de 8 de Janeiro, quando as mesmas se destinem à liquidação da compra, por frequentadores, de fichas para jogar,
+
+2 - As concessionárias que pretendam fazer uso da faculdade prevista no número anterior deverão comunicá-lo à Inspecção-Geral de Jogos com 10 dias de antecedência.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 64.º — Caixa compradora
+
+1 - Nas salas de jogos haverá uma caixa compradora de fichas, destinada à troca por dinheiro das fichas na posse dos jogadores, das que hajam sido por estes dadas, a título de gratificação, aos empregados das mesmas salas e daquelas que se destinarem à assistência.
+
+2 - As concessionárias podem trocar por cheques seus as fichas na posse dos jogadores ou com elas inutilizar cheques destes.
+
+3 - A caixa compradora deve ter sempre em confre, no início de cada sessão, a importância que for determinada pela Inspecção-Geral de Jogos, ouvidas as concessionárias e tendo em conta o movimento dos casinos.
+
+4 - A Inspecção-Geral de Jogos pode autorizar que parte da importância referida no número anterior se encontre em depósito bancário imediatamente mobilizável.
+
+5 - Na caixa compradora poderá ainda funcionar o serviço destinado à realização de operações cambiais a que alude o artigo anterior.
+
+### Artigo 65.º — Caixa única
+
+A Inspecção-Geral de Jogos pode autorizar que as operações previstas para as caixas compradora e vendedora sejam feitas numa única caixa quando as condições das salas de jogos o permitam sem inconvenientes.
+
+### Artigo 66.º — Importâncias destinadas à assistência
+
+1 - As importâncias ou fichas encontradas no chão, deixadas sobre as mesas ou abandonadas no decurso da partida e cujo dono não seja possível determinar serão logo entregues ao director do serviço de jogos, devendo os valores correspondentes ser entregues à misericórdia local, ou, na falta desta, à mais próxima, até ao dia 15 de cada mês, em relação aos valores referentes ao mês anterior, mediante depósito bancário.
+
+2 - Igual destino será dado às importâncias das paradas em divergência quando, não sendo possível identificar o verdadeiro dono, os litigantes não cheguem a acordo até ao momento de se iniciar o golpe seguinte.
+
+3 - O montante das paradas abandonadas é constituído pela importância da aposta inicial, acrescida dos ganhos acumulados até ao momento em que, ao procurar individualizar-se o seu dono, se conclua que, efectivamente, aquelas importâncias estão abandonadas.
+
+4 - Caso o legítimo proprietário de alguma das importâncias ou fichas a que alude o n.º 1 se faça reconhecer e prove o seu direito até ao fim da partida, deverão as mesmas ser-lhe entregues.
+
+5 - O disposto neste artigo é aplicável a situações idênticas que se verifiquem nas salas privativas de máquinas e de jogo do bingo.
+
+6 - Diariamente, e em relação ao dia anterior, o director do serviço de jogos enviará ao serviço de inspecção no casino mapa donde constem:
+
+a) As importâncias encontradas no chão;
+
+b) O valor das fichas abandonadas, com a indicação do respectivo local;
+
+c) A importância das paradas que não foram pagas por divergência verificada entre os jogadores, com a indicação da respectiva banca.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 67.º — Utilização de material de jogo
+
+1 - Só é permitida a utilização de material e utensílios para a prática dos jogos de fortuna ou azar nas salas de jogos e nas salas de treino autorizadas pela Inspecção-Geral de Jogos.
+
+2 - O material e utensílios referidos no número anterior devem estar sempre acondicionados por forma a não poderem ser utilizados indevidamente.
+
+### Artigo 68.º — Material de jogo
+
+O fabrico, a exportação, a importação, a venda e o transporte de material e utensílios caracterizadamente destinados à exploração de jogos de fortuna ou azar carecem de autorização da Inspecção-Geral de Jogos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+## Capítulo VI — Das pessoas afectas à exploração e à prática dos jogos em casinos
+
+## Secção I — Dos órgãos das concessionárias e das direcções dos casinos
+
+### Artigo 69.º — Constituição dos órgãos sociais
+
+Os órgãos sociais das concessionárias e subconcessionárias devem ser maioritariamente constituídos por pessoas de nacionalidade portuguesa, sem prejuízo do disposto em normas constantes de convenções internacionais de que Portugal seja parte.
+
+> Revogado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 70.º — Incapacidades
+
+Não pode fazer parte dos corpos sociais das concessionárias, das direcções dos casinos ou exercer a função de director do serviço de jogos quem tenha sido condenado por crime doloso com pena de prisão superior a seis meses ou tenha violado o disposto nos artigos 60.º e 108.º a 115.º
+
+### Artigo 71.º — Representação da concessionária
+
+1 - A administração da concessionária é, para todos os efeitos, a representante legal desta nas suas relações com a Inspecção-Geral de Jogos ou com o serviço de inspecção, considerando-se as notificações ou comunicações feitas a qualquer dos seus membros como feitas à própria administração.
+
+2 - Na ausência ou impedimento da administração, a direcção do casino assume, através de qualquer dos seus membros e nos termos do número anterior, a representação legal da concessionária.
+
+3 -(Revogado).
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 72.º — Direcção do casino
+
+1 - Os casinos são geridos por uma direcção constituída por, pelo menos, dois dos administradores da concessionária, um dos quais presidirá.
+
+2 - Quando a mesma concessão compreenda a exploração de vários casinos, os administradores da concessionária podem integrar as direcções de mais de um deles.
+
+3 - As funções de membro da direcção do casino não podem ser delegadas ou mandatadas, devendo ser desempenhadas pessoalmente, tendo-se como praticados por este órgão directivo os actos praticados por qualquer dos seus membros.
+
+### Artigo 73.º — Competências da direcção do casino
+
+À direcção do casino compete:
+
+a) Manter em bom estado de conservação todos os bens afectos à exploração;
+
+b) Notificar os empregados que prestem serviço nas salas de jogos dos regulamentos emitidos pela Inspecção-Geral de Jogos ao abrigo do artigo 95.º, quando tais regulamentos, directa ou indirectamente, lhes digam respeito;
+
+c) Até final de cada mês, em relação ao mês seguinte, enviar ao serviço de inspecção no casino o programa completo das manifestações, a que se refere a alínea c) do n.º 1 do artigo 16.º;
+
+d) Anualmente, até ao dia 15 de Janeiro, enviar ao serviço de inspecção no casino relação nominal, por categorias, do pessoal dos quadros a que alude o artigo 78.º, bem com dos restantes empregados que prestam serviço nas salas de jogos, a qual será actualizada logo que se verifiquem quaisquer alterações;
+
+e) Anualmente, e no prazo máximo de 15 dias após a data da realização da respectiva assembleia geral, enviar à Inspecção-Geral de Jogos um exemplar do relatório e das respectivas contas, bem como nota discriminativa da constituição dos corpos gerentes e da direcção do casino, com indicação do administrador que haja sido designado director do serviço de jogos;
+
+f) Participar à Inspecção-Geral de Jogos as infracções ao presente diploma e legislação complementar cometidas por empregados e frequentadores;
+
+g) Prestar todos os esclarecimentos que lhe forem solicitados pelo serviço de inspecção.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 74.º — Adjuntos da direcção do casino
+
+1 - As direcções dos casinos poderão designar como seus adjuntos, com competências sectoriais determinadas, os empregados superiores das concessionárias que julguem necessários, devendo comunicar à Inspecção-Geral de Jogos as designações que efectuarem com oito dias de antecedência em relação à data do início das funções.
+
+2 - Os adjuntos das direcções dos casinos não têm legitimidade para representar as concessionárias nas relações destas com a Inspecção-Geral de Jogos, salvo o director do serviço de jogos, ou um substituto deste, e na ausência dos membros da direcção.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 75.º — Director do serviço de jogos
+
+1 - As salas de jogos são dirigidas por um membro da direcção do casino ou, precedendo autorização do membro do Governo da tutela, por um adjunto da direcção, nomeado nos termos do artigo anterior, para dirigir o serviço de jogos.
+
+2 - O director do serviço de jogos, quando não administrador da concessionária, não pode desempenhar, cumulativamente, outras funções executivas nem funções cujo exercício incumba, nos termos deste diploma, a qualquer categoria do pessoal dos quadros das salas de jogos, salvo em casos de força maior.
+
+3 - Às nomeações dos substitutos do director do serviço de jogos aplica-se o disposto no n.º 1.
+
+4 - O director do serviço de jogos, ou um seu substituto, deve permanecer no casino durante o período de funcionamento das salas de jogos e aquando das operações de contagem das receitas dos jogos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 76.º — Competências do director do serviço de jogos
+
+1 - Compete ao director do serviço de jogos:
+
+a) Dirigir e controlar as salas de jogos do casino, tomando as decisões relativas à marcha das várias operações, de acordo com as normas técnicas dos jogos;
+
+b) Assegurar o correcto funcionamento de todos os equipamentos de jogo, instalações e serviços das salas de jogos;
+
+c) Assegurar a exacta escrituração da contabilidade especial do jogo.
+
+2 - Constituem obrigações do director do serviço de jogos, designadamente:
+
+a) Informar, por escrito, o serviço de inspecção no casino sobre qualquer alteração à hora de abertura das salas de jogos, nos termos previstos no n.º 1 do artigo 50.º;
+
+b) Prestar aos funcionários do serviço de inspecção as informações e esclarecimentos que por estes lhe sejam solicitados, facultando-lhes prontamente os livros e documentos da contabilidade especial do jogo;
+
+c) Velar pelo rigoroso cumprimento, por parte dos empregados das salas de jogos, dos deveres que este diploma e legislação complementar lhes impõem;
+
+d) Manter a disciplina nas salas de jogos e zelar pelo seu bom nível social e turístico;
+
+e) Zelar pela disciplina e cumprimento dos condicionamentos legais impostos para o funcionamento das salas de treino.
+
+3 - É ainda obrigação do director do serviço de jogos remeter ao serviço de inspecção no casino:
+
+a) Diariamente, um mapa com indicação dos jogos bancados e máquinas que funcionaram na véspera, dos respectivos números, do capital em giro inicial e dos reforços efectuados em cada uma, dos lucros ou prejuízos verificados, do número de mesas dos jogos não bancados e das respectivas receitas que hajam sido cobradas dos pontos, dos montantes das gratificações destinadas ao pessoal e das importâncias entregues à assistência local;
+
+b) Diariamente, uma relação nominativa dos indivíduos a quem tenham sido concedidos cartões de acesso às salas de jogos, com indicação do número de ordem desses cartões;
+
+c) Até ao segundo dia de cada mês, e em relação aos mês anterior, uma mapa donde constem os elementos indicados na alínea a) do n.º 3.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+## Secção II — Do pessoal das salas de jogos
+
+### Artigo 77.º — Pessoal dos quadros das salas de jogos
+
+1 - As profissões e categorias do pessoal dos quadros das salas de jogos, bem como os respectivos conteúdos funcionais, são os constantes da regulamentação em vigor, sem prejuízo da possibilidade da sua modificação ou adaptação, com respeito das disposições legais relativas à aprovação da legislação laboral.
+
+2 - As modificações ou adaptações operadas, nos termos do número anterior, nas profissões, categorias ou conteúdos funcionais serão acompanhadas da definição de equivalência com as actualmente existentes, sempre que isso seja exigido para aplicação de regras ou métodos de valoração.
+
+3 - As concessionárias devem dotar os quadros de pessoal das salas de jogos por forma a assegurar o regular funcionamento de todos os serviços, nos termos legal e contratualmente definidos.
+
+4 - Sempre que a Inspecção-Geral de Jogos considere que o disposto no número anterior não está a ser cumprido, deverá notificar a respectiva concessionária para, no prazo de 15 dias, alterar o quadro de pessoal, nos termos determinados por aquela inspecção, ou fazer prova de que o funcionamento dos serviços está a ser efectuado nos termos legal e contratualmente definidos.
+
+5 - A Inspecção-Geral de Jogos quando, após a diligência a que se refere o número anterior, considere violado o disposto no n.º 3, fixará um prazo de 15 dias para que o quadro de pessoal seja alterado, nos termos previstos no primeiro daqueles números.
+
+6 - A nenhum empregado das empresas concessionárias, ainda que prestando serviço fora das salas de jogos, poderá ser atribuída a designação de inspector ou subinspector, acompanhada ou não de qualquer qualificativo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 78.º — Condições de recrutamento e de acesso na carreira de empregado de banca
+
+As condições de recrutamento e de acesso nos quadros de pessoal das salas de jogos são aprovadas mediante decreto regulamentar.
+
+### Artigo 79.º — Gratificações
+
+1 - Aos empregados dos quadros das salas de jogos é permitido aceitar as gratificações que, espontaneamente, lhes sejam dadas pelos frequentadores.
+
+2 - Logo após o recebimento as gratificações são obrigatoriamente introduzidas em caixas de modelo próprio, existentes nas salas de jogos, sendo proibida a sua percepção individual por qualquer dos trabalhadores a que se refere o número anterior.
+
+3 - As regras de distribuição da parte das gratificações destinadas aos empregados com direito à sua percepção são fixadas por portaria do membro do Governo responsável pelo sector do turismo, ouvidos os representantes dos trabalhadores.
+
+4 - Nas regras de distribuição pode determinar-se que uma percentagem das gratificações, a definir pelo Ministro do Emprego e da Segurança Social, não superior a 15%, reverta para o Fundo Especial de Segurança Social dos Profissionais da Banca dos Casinos ou para outros fundos a constituir, ouvidos os representantes dos trabalhadores.
+
+### Artigo 80.º — Outros empregados que prestam serviço nas salas de jogos
+
+1 - Sem que façam parte dos quadros das salas de jogos, a solicitação das concessionárias, poderá a Inspecção-Geral de Jogos autorizar a admissão nas mesmas salas de outros empregados, sejam ou não da concessionária, que ali assegurem a execução de tarefas necessárias.
+
+2 - A Inspecção-Geral de Jogos poderá revogar a autorização concedida ao abrigo do número anterior quando se torne inconveniente a presença daquele pessoal nas referidas salas.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 81.º — Segredo profissional
+
+Todos os empregados que prestam serviço nas salas de jogos devem guardar segredo de informações que detenham por via do exercício das suas funções, excepto quanto a autoridades judiciais ou a inspectores da Inspecção-Geral de Jogos, no exercício das respectivas competências, com observância dos limites impostos pela Constituição da República Portuguesa e pelo regime aplicável ao contrato individual de trabalho.
+
+### Artigo 82.º — Deveres dos empregados que prestam serviço nas salas de jogos
+
+Todos os empregados que prestam serviço nas salas de jogos são especialmente obrigados a:
+
+a) Cumprir e fazer cumprir, na parte que lhes respeita, as disposições legais e os regulamentos emitidos pela Inspecção-Geral de Jogos relativos à exploração e à prática do jogo e ao exercício da sua profissão que lhes forem notificados nos termos previstos na alínea b) do artigo 73.º;
+
+b) Exercer as suas funções com zelo, diligência e correcção, usando de urbanidade para com os frequentadores, superiores hierárquicos, funcionários do serviço de inspecção e colegas;
+
+c) Cuidar da sua boa apresentação pessoal e usar, quando em serviço, o trajo aprovado pela concessionária, o qual, com excepção de um pequeno bolso exterior de peito, não poderá ter quaisquer bolsos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 83.º — Actividades proibidas aos empregados que prestam serviço nas salas de jogos
+
+1 - A todos os empregados que prestam serviço nas salas de jogos é proibido:
+
+a) Tomar parte no jogo, directamente ou por interposta pessoa;
+
+b) Fazer empréstimos nas salas de jogos ou em outras dependências ou anexos dos casinos;
+
+c) Ter em seu poder fichas de modelo em uso nos casinos para a prática de jogos e dinheiro ou símbolos convencionais que o representem cuja proveniência ou utilização não possam ser justificadas pelo normal funcionamento do jogo;
+
+d) Ter participação, directa ou indirecta, nas receitas do jogo;
+
+e) Solicitar gratificações ou manifestar o propósito de as obter.
+
+2 - Para os efeitos do disposto na alínea d) do número anterior, não se considera participação nas receitas do jogo a atribuição de retribuição variável em função das receitas brutas do jogo apuradas pela respectiva entidade patronal.
+
+3 - Além dos previstos no artigo 52.º, as concessionárias podem utilizar quaisquer outros meios para fiscalizar o cumprimento do disposto no n.º 1.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+## Capítulo VII — Do regime fiscal
+
+### Artigo 84.º — Imposto especial de jogo
+
+1 - As empresas concessionárias ficam obrigadas ao pagamento de um imposto especial pelo exercício da actividade do jogo, o qual será liquidado e cobrado nos termos das disposições seguintes.
+
+2 - Não será exigível qualquer outra tributação, geral ou local, relativa ao exercício da actividade referida no número anterior ou de quaisquer outras a que as empresas concessionárias estejam obrigadas nos termos dos contratos de concessão e pelo período em que estes se mantenham em vigor.
+
+3 - Do imposto especial de jogo, 77,5 % constituem receita do Fundo de Turismo que, da importância recebida, aplica um montante igual a 20 % da totalidade do imposto especial de jogo na área dos municípios em que se localizem os casinos na realização de obras de interesse para o turismo, nos termos estabelecidos no capítulo x, e 2,5 % constituem receita do Fundo de Fomento Cultural.
+
+4 - Dos 77,5 % que constituem receita do Instituto do Turismo de Portugal, I. P., e dos 20 % que constituem receita do Orçamento Geral do Estado, nos termos previstos no número anterior, são afetos 2,8 % como receita do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, resultando assim desta afetação 75,70 % do imposto especial de jogo como receita do Instituto do Turismo de Portugal, I. P., e 19 % como receita do Orçamento Geral do Estado.
+
+5 - A receita do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos prevista no número anterior tem como limite anual absoluto o montante de (euro) 3 500 000, pelo que sempre que a percentagem de 2,8 % do imposto especial de jogo corresponda a um valor superior a (euro) 3 500 000, esse quantitativo superior remanescente passa a ser recebido pelo Instituto do Turismo de Portugal, I. P., e pelo Orçamento Geral do Estado, nas proporções de 80 % e 20 %, respetivamente.
+
+6 - O exercício por parte das empresas concessionárias de quaisquer actividades não abrangidas pelos n.os 1 e 2 fica sujeito ao regime tributário geral.
+
+> Alterado pelo/a Artigo 306.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 154.º do/a Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31, em vigor a partir de 2009-01-01
+
+### Artigo 85.º — Jogos bancados
+
+O imposto sobre os jogos bancados será liquidado em função de duas parcelas, respectivamente:
+
+1) A primeira constará de uma percentagem sobre o capital em giro inicial, fixada da seguinte forma:
+
+a) Bancas simples:
+
+Estoril - 0,75%;
+
+Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 0,1 % no 1.º quinquénio, 0,15 % no 2.º quinquénio, 0,2 % no 3.º quinquénio, 0,25 % nos 4.º e 5.º quinquénios e 0,55 % nos demais quinquénios;
+
+Restantes zonas - 0,55%;
+
+b) Bancas duplas:
+
+Estoril - 1,2%;
+
+Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 0,15 % no 1.º quinquénio, 0,25 % no 2.º quinquénio, 0,3 % no 3.º quinquénio, 0,35 % nos 4.º e 5.º quinquénios e 0,9 % nos demais quinquénios;
+
+Restantes zonas - 0,9%;
+
+2) A segunda parcela constará de uma percentagem sobre os lucros brutos das bancas, fixada da seguinte forma, qualquer que seja o modelo das bancas:
+
+Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 10 % no 1.º quinquénio, 12,5 % no 2.º quinquénio, 15 % no 3.º quinquénio e 20 % nos demais quinquénios;
+
+Restantes zonas - 20%;
+
+3) Ao jogo do Keno é aplicável o regime tributário fixado para o jogo do bingo;
+
+4) Independentemente do capital em giro inicial necessário à normal exploração dos jogos a que alude o n.º 4 do artigo 58.º, a Inspecção-Geral de Jogos fixa, anualmente, de harmonia com as respectivas características e as circunstâncias que se verifiquem nas explorações, o montante do referido capital a considerar para efeitos tributários, sendo aplicáveis as bases estabelecidas para os jogos bancados praticados em bancas simples.
+
+> Alterado pelo/a Artigo 246.º do/a Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28, em vigor a partir de 2017-01-01
+
+### Artigo 86.º — Jogos não bancados
+
+1 - Sobre os jogos não bancados o imposto é constituído por uma percentagem incidente sobre a receita cobrada dos pontos, fixada da seguinte forma:
+
+Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 5 %, 6 % e 7,5 % sobre a receita cobrada dos pontos, respetivamente, para o 1.º, 2.º e 3.º quinquénios, 10 % nos 4.º e 5.º quinquénios e 20 % nos demais quinquénios;
+
+2 - Sobre as receitas do jogo do bingo incidem as seguintes percentagens:
+
+Importâncias até 150000 contos anuais - as percentagens indicadas no n.º 1;
+
+Importâncias entre 150000 contos e 250000 contos anuais - o dobro das percentagens indicadas no n.º 1;
+
+Importâncias superiores a 250000 contos anuais - o triplo das percentagens indicadas no n.º 1.
+
+3 - As importâncias referidas no número anterior encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1988 e serão actualizadas com efeitos a partir de 1 de Março de cada ano, tendo em conta o índice médio de preços no consumidor no continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se para a dezena de contos imediatamente inferior.
+
+> Alterado pelo/a Artigo 246.º do/a Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28, em vigor a partir de 2017-01-01
+
+### Artigo 87.º — Bases do imposto
+
+1 - As percentagens previstas nos artigos anteriores para cálculo do imposto a pagar pelas concessionárias incidem sobre as importâncias obtidas pela seguinte forma:
+
+A) Jogos bancados:
+
+a) Quanto ao capital em giro inicial, o utilizado no mês anterior, constante dos respectivos registos;
+
+b) Quanto ao lucro bruto das bancas, pela aplicação das seguintes percentagens sobre o capital em giro inicial a que se refere a alínea a):
+
+Bancas simples:
+
+Algarve - 10%;
+
+Espinho - 21%;
+
+Estoril - 21%;
+
+Figueira da Foz - 21%;
+
+Funchal - 3%;
+
+Tróia - 1%;
+
+Vidago-Pedras Salgadas - 1%;
+
+Porto Santo - 1%;
+
+Póvoa de Varzim - 21%;
+
+Açores - 3 %.
+
+Bancas duplas:
+
+Algarve - 15%;
+
+Espinho - 35%;
+
+Estoril - 35%;
+
+Figueira da Foz - 35%;
+
+Funchal - 4,5%;
+
+Tróia - 2,5%;
+
+Vidago-Pedras Salgadas - 2,5%;
+
+Porto Santo - 2,5%;
+
+Póvoa de Varzim - 35%;
+
+Açores - 4,5 %.
+
+B) Jogos não bancados - quanto ao apuramento da receita cobrada dos pontos, proceder-se-á pela forma seguinte:
+
+Em cada mesa de jogo o produto da percentagem que constitui receita da empresa concessionária é obrigatoriamente anunciado em voz alta pelo pagador e só será lançado na caixa nela existente para esse fim depois de destacado de cadernetas fornecidas pela Inspecção-Geral de Jogos e inutilizados bilhetes que perfaçam importância igual à anunciada;
+
+Diariamente, por sessão e em relação a cada mesa de jogo, serão registados em livro próprio, por espécies, o número das cadernetas, a quantidade dos bilhetes inutilizados e a totalidade das importâncias correspondentes;
+
+O somatório das importâncias apuradas pela forma indicada em cada mesa de jogo é o lucro dos jogos não bancados e deve corresponder à totalidade das importâncias lançadas nas caixas respectivas;
+
+Sempre que o julge conveniente, o serviço de inspecção no casino poderá determinar que a abertura das aludidas caixas e a contagem das importâncias nelas contidas só se façam na sua presença;
+
+C) Máquinas automáticas - as máquinas automáticas ficam sujeitas ao regime dos jogos bancados, com as seguintes especialidades:
+
+a) São-lhes aplicadas as bases fixadas para os jogos praticados em bancas simples;
+
+b) A Inspecção-Geral de Jogos fixa anualmente, de harmonia com as respectivas características e as circunstâncias que se verifiquem nas explorações, o capital que deve considerar-se, para efeitos tributários, como capital em giro inicial;
+
+c) O capital a qual se refere a alínea anterior é fixado em relação a cada máquina oferecida à exploração ou, a solicitação da concessionária, por grupos de máquinas, sendo, nesta última hipótese, o imposto devido em relação ao referido capital, ainda que não funcionem todas as máquinas do grupo respectivo.
+
+2 - Quando a Inspecção-Geral de Jogos o julge necessário, o registo das quantias que constituem receita da concessionária nos jogos não bancados será feito em máquinas de modelo a aprovar pela Inspecção-Geral de Jogos, dispensando-se, neste caso, a utilização de cadernetas.
+
+> Alterado pelo/a Artigo 246.º do/a Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28, em vigor a partir de 2017-01-01
+
+### Artigo 88.º — Prazo de cobrança
+
+O imposto especial do jogo é pago, em relação a cada mês, até ao dia 15 do mês seguinte na tesouraria da Fazenda Pública do município respectivo, mediante guia emitida pela Inspecção-Geral de Jogos, a enviar à repartição de finanças competente.
+
+### Artigo 89.º — Avença
+
+1 - As concessionárias podem avençar-se para o pagamento do imposto especial de jogo.
+
+2 - Requerido à Inspecção-Geral de Jogos, que informará o pedido, o regime de avença será estabelecido, revisto quanto ao quantitativo ou prorrogado por novos períodos, compreendidos nos limites estabelecidos no número seguinte, mediante despacho conjunto dos membros do Governo com tutela na administração fiscal e no sector do turismo.
+
+3 - A avença não poderá ser estabelecida por período inferior a 6 meses ou superior a 24, quando se trate de zonas de jogo permanente, e inferior a seis meses ou superior a 12, quando se trate de zonas de jogo temporário.
+
+4 - A liquidação do imposto segundo o regime de avença, aceite pela concessionária, terá início no mês seguinte àquele em que se verifique a aceitação.
+
+### Artigo 90.º — Fiscalização
+
+É atribuída à Inspecção-Geral de Jogos a competência para fiscalizar o imposto especial de jogo, as receitas proporcionadas pelos cartões e bilhetes de acesso, bem como pelas actividades a que as empresas concessionárias estejam obrigadas nos termos dos contratos de concessão.
+
+### Artigo 91.º — Contencioso
+
+À cobrança coerciva do imposto especial de jogo aplica-se o regime prescrito no Código de Processo Tributário..
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19
+
+### Artigo 92.º — Sisa e contribuição autárquica
+
+Ficam isentas de sisa as aquisições dos prédios indispensáveis ao cumprimento das obrigações contratuais assumidas pelas concessionárias, não sendo devida a contribuição autárquica pelos que estejam afectos às concessões.
+
+### Artigo 93.º — Alvarás e licenças municipais
+
+Não são devidas pelas concessionárias quaisquer taxas por alvarás e licenças municipais relativas às obrigações contratuais.
+
+### Artigo 94.º — Informações
+
+Deve a Inspecção-Geral de Jogos informar a Direcção-Geral das Contribuições e Impostos ou as câmaras municipais, consoante os casos:
+
+a) De quais os prédios que, nos termos referidos no artigo 92.º, foram adquiridos ou construídos e afectados ao cumprimento das obrigações contratuais;
+
+b) De quais as actividades obrigatoriamente exercidas nos termos do contrato de concessão.
+
+## Capítulo VIII — Da inspecção e das garantias
+
+## Secção I — Da inspecção
+
+### Artigo 95.º — Princípio geral
+
+1 - A exploração e a prática de jogos de fortuna ou azar e a execução das obrigações das concessionárias ficam sujeitas à inspecção tutelar do Estado, exercida pela Inspecção-Geral de Jogos e pelas demais entidades a quem a lei atribua competência neste domínio.
+
+2 - As normas relativas à exploração e prática do jogo são de interesse e ordem pública, devendo a Inspecção-Geral de Jogos aprovar os regulamentos necessários à exploração e prática daquele no respeito dessas normas.
+
+3 - A emissão dos regulamentos a que se refere o número anterior será precedida de consulta às concessionárias, devendo a Inspecção-Geral de Jogos, para o efeito, enviar àquelas o texto integral do projecto, fixando-se-lhes um prazo, não inferior a 10 dias, para se pronunciarem por escrito.
+
+4 - Sem prejuízo das competências específicas atribuídas por lei a outras entidades e com observância da legislação substantiva e processual aplicável, a competência inspectiva e fiscalizadora da Inspecção-Geral de Jogos abrange a apreciação e o sancionamento das infracções administrativas das concessionárias, das contra-ordenações praticadas pelos trabalhadores que prestam serviço nas salas de jogos e pelos frequentadores destas, bem como a aplicação de medidas preventivas e cautelares de inibição de acesso às salas de jogo, nos termos da lei geral, nomeadamente do presente diploma.
+
+5 - Compete ao membro do Governo responsável pela área do turismo, sob proposta da Inspecção-Geral de Jogos, fixar o prazo de cumprimento das obrigações legais e contratuais das concessionárias, quando aquele prazo não se encontre estabelecido na lei ou no contrato.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 96.º — Funções de inspecção
+
+1 - As funções de inspecção da Inspecção-Geral de Jogos compreendem a fiscalização de:
+
+a) O cumprimento das obrigações assumidas pelas concessionárias e, bem assim, das que a lei impõe aos seus empregados e aos frequentadores das salas de jogos de fortuna ou azar;
+
+b) O funcionamento das salas de jogos;
+
+c) O material e utensílios destinados aos jogos;
+
+d) A prática dos jogos;
+
+e) A contabilidade especial do jogo e a escrita comercial das concessionárias relativa às actividades afectas à concessão e em tudo o que for necessário, nomeadamente para averiguar do cumprimento do disposto no n.º 2 do artigo 16.º e no n.º 1 do artigo 17.º;
+
+f) O cumprimento das obrigações tributárias.
+
+2 - O exercício das competências previstas nas alíneas a) a d) do número anterior, quando implique a presença de inspectores no interior das salas, deve efectuar-se, na medida do possível, de forma discreta, sem prejuízo desnecessário do normal desenrolar do jogo e da comodidade dos jogadores.
+
+3 - As competências atribuídas pelo n.º 1 à Inspecção-Geral de Jogos, no que respeita à escrita comercial das concessionárias, às obrigações tributárias destas e ao cumprimento do que a lei impõe aos empregados das mesmas, serão exercidas sem prejuízo das competências da Direcção-Geral das Contribuições e Impostos nesses domínios.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 97.º — Serviço de inspecção nos casinos
+
+1 - O serviço de inspecção em cada casino será permanente e está a cargo de inspectores da Inspecção-Geral de Jogos destacados para o efeito.
+
+2 - O serviço referido no número anterior é dotado de instalações privativas dentro do próprio casino.
+
+### Artigo 98.º — Consulta de documentos
+
+1 - As concessionárias da exploração de zonas de jogo devem manter à disposição dos inspectores da Inspecção-Geral de Jogos todos os livros e documentos da sua escrituração comercial e facultar-lhes os demais elementos e informações relativos às obrigações contratuais que lhes sejam solicitados.
+
+2 - Na ausência ou impedimento de administradores e de directores dos casinos, os inspectores da Inspecção-Geral de Jogos podem efectuar as diligências urgentes e necessárias para obter, em tempo útil, os elementos referidos no número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 99.º — Livros e impressos
+
+1 - Sem prejuízo do disposto na lei geral, as concessionárias são obrigadas a possuir e manter escriturados em dia os livros e impressos da contabilidade especial do jogo, de modelos a aprovar pela Inspecção-Geral de Jogos.
+
+2 - Os livros, com folhas numeradas, terão termos de abertura e de encerramento, assinados por inspectores da Inspecção-Geral de Jogos, e cada operação será neles registada no momento da respectiva realização.
+
+3 - Os impressos, depois de numerados, serão autenticados pelo serviço de inspecção.
+
+4 - Os livros, impressos e demais suportes documentais previstos no presente diploma poderão ser substituídos por registos informáticos, em termos a fixar pela Inspecção-Geral de Jogos, ouvidas as concessionárias.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 100.º — Autos de notícia
+
+Os autos de notícia levantados pelos inspectores da Inspecção-Geral de Jogos por infracções previstas neste diploma e diplomas complementares têm o valor juridicamente atribuído aos autos levantados por autoridade policial.
+
+### Artigo 101.º — Fiscalização de obras e melhoramentos em bens incluídos nas concessões
+
+Sem prejuízo das competências específicas de outras entidades, o membro do Governo da tutela poderá solicitar ao Ministro das Obras Públicas, Transportes e Comunicações a designação de entidade que fiscalize as obras e melhoramentos efectuados pelas concessionárias em bens incluídos nas concessões.
+
+## Secção II — Das garantias
+
+### Artigo 102.º — Caução
+
+1 - Quando seja devida caução, deve a mesma ser prestada através de depósito, constituído na Caixa Geral de Depósitos, de montante equivalente à obrigação a garantir, à ordem do inspector-geral de Jogos.
+
+2 - O depósito referido no número anterior pode ser substituído por garantias bancárias ou seguros-caução, mobilizáveis em termos equivalentes.
+
+### Artigo 103.º — Utilização da caução
+
+1 - Quando se verifique o incumprimento da obrigação garantida, o inspector-geral de Jogos submeterá a decisão do membro do Governo responsável pela área do turismo uma proposta de utilização da caução referida no artigo anterior.
+
+2 - As cauções que as concessionárias venham a perder por força do disposto no número anterior revertem para o Fundo de Turismo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 104.º — Renovação, reforço e actualização de cauções
+
+1 - As cauções que, por quaisquer causas, se tornem insuficientes devem ser reforçadas pela entidade obrigada no prazo de 60 dias contados da data da notificação da Inspecção-Geral de Jogos para o efeito.
+
+2 - As cauções que respeitem a obrigações de execução parcelar ou por fases serão alteradas, mediante iniciativa da Inspecção-Geral de Jogos, à medida que se verificar o cumprimento das respectivas parcelas ou fases.
+
+3 - Os valores das cauções serão actualizados anualmente, tomando em conta a evolução do índice médio de preços no consumidor para o continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística.
+
+### Artigo 105.º — Cauções a prestar
+
+1 - As concessionárias prestarão as seguintes cauções:
+
+a) De montante igual aos valores mensais prováveis do imposto especial sobre o jogo e da participação nos encargos com o funcionamento da Inspecção-Geral de Jogos;
+
+b) De montante igual a 50% do valor dos investimentos previstos, a título de contrapartida, para cada ano da concessão;
+
+c) No penúltimo ano do termo da concessão, de montante a fixar pelo Ministério das Finanças, ouvida a Inspecção-Geral de Jogos, para garantir a entrega ao Estado, em perfeito estado de conservação, dos edifícios e seus anexos, propriedade deste ou para ele reversíveis e respectivo mobiliário, equipamento e utensilagem.
+
+2 - As cauções a que alude a alínea b) do n.º 1 serão prestadas até final do ano anterior àquele a que respeitam, sendo a relativa ao primeiro ano da concessão apresentada no acto da assinatura do contrato.
+
+3 - Por despacho do Ministro das Finanças e do membro do Governo responsável pela área do turismo, poderá, sob proposta da Inspecção-Geral de Jogos, ser exigida, a todo o tempo, a prestação da caução a que se refere a alínea c) do n.º 1, por período nunca inferior a dois anos, sempre que o estado de conservação dos bens do Estado, ou para este reversíveis no termo da concessão, não satisfaça o imposto pela obrigação cominada nessa mesma alínea.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 106.º — Seguro dos bens
+
+1 - As concessionárias devem segurar contra o risco de incêndio os edifícios e outros bens que pertençam ao Estado ou que para este sejam reversíveis.
+
+2 - O valor seguro não deve ser inferior ao mencionado no inventário próprio, destinado à Direcção-Geral do Património do Estado, e será actualizado, com as alterações decorrentes de iniciativas das concessionárias, com o acordo da Inspecção-Geral de Jogos ou por esta determinadas.
+
+3 - As indemnizações serão pagas pelas seguradoras à Inspecção-Geral de Jogos, que as entregará às concessionárias à medida em que os bens forem sendo substituídos.
+
+### Artigo 107.º — Títulos executivos
+
+Os autos ou certidões da Inspecção-Geral de jogos relativos à falta de cumprimento de obrigações pecuniárias no âmbito deste diploma e dos contratos de concessão são títulos executivos e a sua cobrança coerciva será feita pelos tribunais tributários.
+
+## Capítulo IX — Ilícitos e sanções
+
+## Secção I — Dos crimes
+
+### Artigo 108.º — Exploração ilícita de jogo
+
+1 - Quem, por qualquer forma, fizer a exploração de jogos de fortuna ou azar fora dos locais legalmente autorizados será punido com prisão até 2 anos e multa até 200 dias.
+
+2 - Será punido com a pena prevista no número anterior quem for encarregado da direcção do jogo, mesmo que não a exerça habitualmente, bem como os administradores, directores, gerentes, empregados e agentes da entidade exploradora.
+
+### Artigo 109.º — Agravação de penas
+
+As penas por exploração ilícita de jogo são agravadas de um terço quando no local sejam encontradas pessoas menores de 18 anos.
+
+### Artigo 110.º — Prática ilícita de jogo
+
+Quem for encontrado a praticar jogo de fortuna ou azar fora dos locais legalmente autorizados será punido com prisão até 6 meses e multa até 50 dias.
+
+### Artigo 111.º — Presença em local de jogo ilícito
+
+Quem for encontrado em local de jogo ilícito e por causa deste será punido com a pena prevista no artigo anterior, reduzida a metade.
+
+### Artigo 112.º — Coacção à prática de jogo
+
+Aquele que usar de sugestão, ameaça ou violência para constranger outrem a jogar ou para dele obter meios para a prática do jogo, ou o ponha na impossibilidade de resistir, será punido com pena correspondente ao crime de extorsão.
+
+### Artigo 113.º — Jogo fraudulento
+
+1 - Quem explorar ou praticar o jogo ou assegurar a sorte através de erro, engano ou utilização de qualquer equipamento será punido com pena correspondente à do crime de burla agravada.
+
+2 - A viciação ou falsificação de fichas e a sua utilização serão punidas com pena correspondente à do crime de moeda falsa.
+
+### Artigo 114.º — Usura para jogo
+
+Quem, com intenção de alcançar um benefício patrimonial para si ou para outrem, faculte a uma pessoa dinheiro ou qualquer outro meio para jogar será punido com pena correspondente à do crime de usura.
+
+### Artigo 115.º — Material de jogo
+
+Quem, sem autorização da Inspecção-Geral de Jogos, fabricar, publicitar, importar, transportar, transaccionar, expuser ou divulgar material e utensílios que sejam caracterizadamente destinados à prática dos jogos de fortuna ou azar será punido com prisão até 2 anos e multa até 200 dias.
+
+### Artigo 116.º — Apreensão de material de jogo
+
+O material e utensílios de jogo serão apreendidos quando sejam cometidos crimes previstos nesta secção e destruídos, a mandado do tribunal, pela autoridade apreensora, que lavrará o competente auto de destruição.
+
+### Artigo 117.º — Apreensão de dinheiro ou valores
+
+Todo o dinheiro e valores destinados ao jogo, bem como os móveis do local em que sejam cometidos os crimes previstos nesta secção, serão apreendidos e declarados pelo tribunal perdidos a favor do Fundo de Turismo.
+
+## Secção II — Violação de deveres das concessionárias
+
+### Artigo 118.º — Responsabilidade administrativa e contra-ordenacional
+
+1 - O incumprimento pelas concessionárias, ainda que sem culpa, das obrigações legal e contratualmente estabelecidas constitui infracção administrativa, punida com multa e rescisão do contrato, nos termos dos artigos seguintes.
+
+2 - O disposto no número anterior é aplicável às concessionárias quando as infracções sejam cometidas por empregados ou agentes destas.
+
+3 - As responsabilidades das concessionárias não prejudicam a responsabilidade penal ou contra-ordenacional dos respectivos empregados ou agentes pelas infracções cometidas.
+
+4 - Pelo pagamento das multas são responsáveis as empresas concessionárias e, subsidiariamente, quando aquelas relevem de factos ocorridos no período da respectiva gerência, os administradores ou directores de tais sociedades, ainda que dissolvidas.
+
+5 - Sem prejuízo do disposto no número anterior, não haverá lugar a responsabilidade dos administradores ou directores quando estes provem que não lhes é imputável nem a infracção cometida nem a insuficiência do património da sociedade para o pagamento da multa.
+
+6 - As concessionárias são subsidiariamente responsáveis pelas coimas aplicadas aos respectivos empregados nos termos dos artigos 138.º e seguintes.
+
+7 - Quando a responsabilidade das concessionárias for imputada a título de negligência, os valores mínimos e máximos das multas a aplicar serão reduzidos a dois terços dos valores estabelecidos nos artigos 121.º e seguintes, não podendo, em caso algum, exceder o montante previsto na alínea b) do n.º 3 do artigo 17.º do Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 356/89, de 17 de Outubro.
+
+8 - Quando a responsabilidade das concessionárias não se funde na culpa destas, os valores mínimos e máximos das multas a aplicar serão reduzidos a metade dos valores estabelecidos nos artigos 121.º e seguintes.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 119.º — Casos de rescisão ou de suspensão do funcionamento do casino
+
+Constituem comportamentos susceptíveis de determinar a rescisão dos contratos de concessão ou o encerramento dos casinos até seis meses, nomeadamente:
+
+a) A sonegação de receitas dos jogos;
+
+b) A inobservância do disposto no artigo 17.º quanto ao capital social e aos capitais próprios em geral;
+
+c) A não constituição ou integração dos depósitos ou garantias a que as concessionárias se encontrem obrigadas;
+
+d) O decurso de mais de 180 dias, nos casos previstos na alínea c) do artigo 122.º;
+
+e) A cessão, abandono ou deficiente exploração do jogo ou de actividades essenciais que constituam obrigações contratuais;
+
+f) A violação reiterada da legislação do jogo;
+
+g) A inexecução continuada das obrigações contratuais assumidas pela concessionária;
+
+h) A constituição em mora da concessionária, por dívidas ao Estado, relativas a contribuições ou impostos ou à segurança social.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 120.º — Rescisão dos contratos de concessão ou encerramento temporário dos casinos
+
+1 - A rescisão dos contratos de concessão ou o encerramento temporário dos casinos são decididos por resolução do Conselho de Ministros.
+
+2 - Rescindidos os contratos, o Estado fica imediatamente investido na propriedade dos bens reversíveis e na posse dos seus bens afectos à concessão, sem direito por parte da concessionária a qualquer indemnização.
+
+3 - Em casos de rescisão, a resolução do Conselho de Ministros poderá determinar as condições em que será prosseguida, a título transitório, a exploração da concessão.
+
+4 - Em caso de suspensão do funcionamento do casino, mantêm-se todas as obrigações das concessionárias, designadamente as decorrentes das relações laborais.
+
+### Artigo 121.º — Violação das regras relativas aos capitais próprios
+
+Constitui infracção, punível com multa até 5000000$00:
+
+a) A violação do disposto no n.º 1 do artigo 17.º;
+
+b) A permissão de exercício de direitos sociais por parte de accionistas que hajam adquirido acções sem observância do disposto no n.º 3 do artigo 17.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 122.º — Violação das obrigações de investimento
+
+As concessionárias que violarem as obrigações de investimento, salvo casos de força maior, ficam sujeitas:
+
+a) Pela falta de apresentação, em devido prazo, dos estudos, esbocetos, anteprojectos e projectos respeitantes a obras de construção ou de beneficiação previstas nos respectivos contratos de concessão, a multa até 2500000$00, por cada infracção;
+
+b) Pela inexecução das obras referidas na alínea anterior nos prazos estabelecidos nos contratos de concessão ou fixados pelo membro do Governo responsável pela área do turismo, a multa até 5000000$00;
+
+c) Por cada dia em que forem excedidos os prazos referidos nas alíneas anteriores e até ao limite de 180 dias, a multa até 50000$00, sem prejuízo da aplicação das multas previstas nessas alíneas.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 123.º — Entraves à fiscalização do Estado
+
+As concessionárias que impedirem ou dificultarem a acção fiscalizadora do Estado ficam sujeitas:
+
+a) Pela inexistência ou inexactidão dos livros e impressos referidos no artigo 99.º, a multa até 5000000$00;
+
+b) Pela não exibição dos livros e impressos referidos na alínea anterior, aquando da respectiva solicitação, a multa até 2500000$00;
+
+c) Pelo não cumprimento das formalidades previstas nos n.os 2 e 3 do artigo 99.º, a multa até 500000$00.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 124.º — Violação das regras referentes à exploração dos jogos
+
+1 - As concessionárias que violem as regras dos jogos ou outras referentes à exploração e à prática do jogo ficam sujeitas a multa até 5000000$00.
+
+2 - As concessionárias que violem o dever de confidencialidade previsto no n.º 4 do artigo 52.º ficam sujeitas a multa até 2500000$00.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 125.º — Responsabilidade por acessos irregulares
+
+As entradas irregulares nas salas de jogos fazem incorrer a concessionária em multa até 250000$00, por cada entrada.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 126.º — Emissão irregular de cartões de acesso às salas de jogos tradicionais
+
+A emissão de cartões de acesso às salas de jogos tradicionais a favor de quem não satisfaça os requisitos legais, faz incorrer a concessionária em multa até (euro) 1500, por cada cartão.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 127.º — Empréstimos
+
+A realização de empréstimos nos casinos ou seus anexos, quando praticados por membro dos corpos sociais, empregados e agentes das concessionárias, faz incorrer estas em multa de valor correspondente ao dobro da importância mutuada, com um mínimo de 500000$00.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 128.º — Aceitação de cheques e operações cambiais
+
+As concessionárias que violem o disposto nos artigos 62.º e 63.º incorrem em multa até 2500000$00, por cada infracção.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 129.º — Ausência do director do serviço de jogos
+
+Durante o período de funcionamento das salas de jogos e aquando das operações de contagem das receitas dos jogos, a ausência do casino do director do serviço de jogos, ou de um substituto, quando em funções, sem motivo previamente comunicado ao serviço de inspecção faz incorrer a concessionária em multa até 400000$00, por cada dia.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 130.º — Outras infracções
+
+1 - Constitui infracção, punível com multa até 2000000$00:
+
+a) A violação do disposto no artigo 16.º;
+
+b) A violação do disposto nos n.os 4 a 6 do artigo 27.º;
+
+c) A realização das afectações previstas nos n.os 1 e 3 do artigo 30.º, quando as mesmas não hajam sido autorizadas pela Inspecção-Geral de Jogos;
+
+d) A exploração de jogos nos termos previstos no n.º 2 do artigo 32.º, quando não autorizada pela Inspecção-Geral de Jogos;
+
+e) A violação do disposto no n.º 1 do artigo 50.º;
+
+f) A violação do disposto nos n.os 1, 4 e 6 do artigo 52.º;
+
+g) O incumprimento de obrigações estabelecidas no artigo 73.º;
+
+h) A violação do disposto no n.º 3 do artigo 77.º, quando reconhecida nos termos previstos no n.º 5 desse artigo.
+
+2 - A violação pelas concessionárias de normas constantes do presente diploma que não se encontrem sancionadas nos preceitos anteriores, dos regulamentos emitidos pela Inspecção-Geral de Jogos, nos termos do n.º 2 do artigo 95.º, bem como a inobservância de prazos fixados para o cumprimento de obrigações legais e contratuais, é passível de multa até 600000$00, por cada infracção.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 131.º — Destino das multas
+
+Sobre as multas estabelecidas nesta secção não incidem quaisquer adicionais e o respectivo produto reverte para o Fundo de Turismo.
+
+### Artigo 132.º — Fixação de novo prazo
+
+1 - Sempre que as multas previstas nos artigos anteriores derivem da inobservância de quaisquer prazos, o membro do Governo responsável pela área do turismo, após a aplicação daquelas, fixará novo prazo, tendo em conta as circunstâncias de cada caso.
+
+2 - O prazo da prorrogação prevista no número anterior não poderá exceder o prazo originariamente estabelecido.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 133.º — Aplicação de multas e recursos
+
+As multas são aplicadas pelo inspector-geral de Jogos, ouvido o Conselho Consultivo de Jogos, com recurso para o membro do Governo da tutela.
+
+### Artigo 134.º — Pagamento voluntário
+
+As multas podem ser pagas voluntariamente no prazo de 30 dias a contar da data da respectiva notificação ou, tendo havido recurso hierárquico, dentro dos 30 dias posteriores à notificação da correspondente decisão, se esta não der provimento ao recurso.
+
+### Artigo 135.º — Cobrança coerciva das multas
+
+Na falta de pagamento voluntário das multas, a cobrança coerciva compete aos tribunais tributários, com base em certidão expedida pela Inspecção-Geral de Jogos.
+
+### Artigo 136.º — Utilização da caução
+
+1 - Independentemente das multas previstas, o incumprimento de obrigações de execução parcelar determina a utilização da caução, referida na alínea b) do n.º 1 do artigo 105.º, respeitante à parte não realizada do investimento.
+
+2 - Não estando assegurada por caução a realização total das obrigações abrangidas pelo número anterior, as concessionárias ficam obrigadas à constituição de uma nova caução ou ao reforço da anterior, até ao montante considerado necessário para efectivação dos empreendimentos.
+
+### Artigo 137.º — Prescrição
+
+É de cinco anos o prazo de prescrição das infracções abrangidas por esta secção.
+
+## Secção III — Contra-ordenações praticadas pelos empregados das concessionárias
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 138.º — Incumprimento de normas relativas à exploração e prática do jogo
+
+1 - Quem violar o disposto na alínea a) do artigo 82.º será punido com coima mínima de 30000$00 e máxima de 300000$00 e interdição do exercício da profissão até 120 dias.
+
+2 - A negligência e a tentativa são puníveis.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 139.º — Violação de outros deveres
+
+Quem violar o disposto nas alíneas b) e c) do artigo 82.º será punido com coima mínima de 10000$00 e máxima de 100000$00 e interdição do exercício da profissão até 90 dias, no caso da alínea b), ou até 60 dias, no caso da alínea c).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 140.º — Participação no jogo ou nas receitas do jogo
+
+1 - Quem violar o disposto nas alíneas a) e d) do artigo 83.º será punido com coima mínima de 50000$00 e máxima de 500000$00 e interdição do exercício da profissão até um ano.
+
+2 - A tentativa é punível.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 141.º — Empréstimos
+
+1 - Quem violar o disposto na alínea b) do artigo 83.º será punido com coima mínima de 50000$00 e máxima de 500000$00 e interdição do exercício da profissão até dois anos.
+
+2 - A negligência e a tentativa são puníveis.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 142.º — Posse ilegal de valores e solicitação de gratificações
+
+1 - Quem violar o disposto nas alíneas c) e e) do artigo 83.º será punido com coima mínima de 10000$00 e máxima de 100000$00 e interdição do exercício da profissão até 180 dias.
+
+2 - A negligência e a tentativa são puníveis.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 143.º — Sanções
+
+1 - Além da coima aplicável, a prática das contra-ordenações previstas nos artigos anteriores pode implicar a interdição temporária do exercício da profissão, como sanção acessória.
+
+2 - A aplicação da coima e a interdição temporária do exercício da profissão serão feitas pelo inspector-geral de Jogos, ouvido o Conselho Consultivo de Jogos, competindo aos inspectores da Inspecção-Geral de Jogos instruir os respectivos processos.
+
+3 - A decisão do inspector-geral de Jogos que aplica a coima é susceptível de impugnação judicial.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+## Secção IV — Contra-ordenações praticadas pelos frequentadores das salas de jogos
+
+### Artigo 144.º — Violação das regras dos jogos
+
+1 - Quem, na prática de uma modalidade de jogo, não observar as respectivas regras será punido com coima mínima de 50000$00 e máxima de 500000$00 e proibição de entrada nas salas de jogos até dois anos.
+
+2 - A tentativa é punível.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 145.º — Violação da privacidade
+
+1 - Quem, por qualquer forma, violar o disposto no n.º 3 do artigo 52.º será punido com coima mínima de 20000$00 e máxima de 100000$00 e proibição de entrada nas salas de jogos até dois anos.
+
+2 - A tentativa é punível.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 146.º — Irregularidades no acesso às salas de jogos
+
+1 - Quem entrar nas salas de jogos tradicionais sem cartão, com cartão que lhe não pertença ou cuja validade haja terminado ou depois de determinada a proibição da sua entrada nas mesmas salas e ainda quem, dentro daquelas salas, não o exibir, quando instado por inspector da Inspecção-Geral de Jogos, será punido com coima mínima de (euro) 300 e máxima de (euro) 1300 e proibição de entrada nas salas de jogos até dois anos.
+
+2 - Em igual coima incorrerá aquele que apresentar cartão que não lhe pertença, com vista a obter acesso, bem como o titular do documento exibido, salvo, quanto a este, se provar não ter havido da sua parte culpa ou dolo.
+
+3 - Quem entrar nas salas mistas, de máquinas ou do jogo do bingo sem estar munido de um dos documentos de identificação previstos no artigo 39.º será punido com coima mínima de (euro) 150 e máxima de (euro) 650 e proibição de entrada nas salas de jogos até um ano.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 147.º — Empréstimos
+
+1 - Quem conceder empréstimos nos casinos e seus anexos será punido com coima mínima de 50000$00 e máxima de 500000$00, perda da quantia mutuada e interdição de acesso às salas de jogos até dois anos.
+
+2 - A tentativa e a negligência são puníveis.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 148.º — Actos perturbadores da partida
+
+Quem praticar actos que perturbem o desenrolar normal da partida será punido com coima mínima de 50000$00 e máxima de 500000$00 e proibição de entrada nas salas de jogos até um ano.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 149.º — Sanções
+
+1 - Além da coima aplicável, a prática de contra-ordenações previstas nos artigos anteriores pode implicar a proibição de entrada nas salas de jogos de fortuna ou azar como sanção acessória.
+
+2 - A aplicação da coima e a interdição de entrada nas salas de jogos serão feitas pelo inspector-geral de Jogos, ouvido o Conselho Consultivo de Jogos, competindo aos inspectores da Inspecção-Geral de Jogos instruir os respectivos processos.
+
+3 - A decisão do inspector-geral de Jogos que aplica a coima é susceptível de impugnação judicial.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 150.º — Destino das coimas
+
+Com exceção das coimas previstas no capítulo xi, o produto das coimas previstas no presente diploma reverte para o Instituto do Turismo de Portugal, I. P.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27, em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+## Capítulo X — Planos de obras das zonas de jogo
+
+### Artigo 151.º — Comissão
+
+1 - O estudo e elaboração dos planos de obras a que se refere o n.º 3 do artigo 84.º compete, em cada uma das zonas de jogo, a uma comissão nomeada mediante portaria do membro do Governo da tutela.
+
+2 - Aos membros da comissão a que alude o número anterior poderá ser abonada, por cada reunião realizada fora das horas normais de serviço, a importância que for determinada por despacho conjunto do membro do Governo da tutela e do Ministro das Finanças, a satisfazer pelo orçamento da Inspecção-Geral de Jogos.
+
+### Artigo 152.º — Competência
+
+1 - À comissão compete:
+
+a) Elaborar os planos de obras e melhoramentos;
+
+b) Emitir parecer sobre os estudos e projectos das obras e melhoramentos integrados nos planos;
+
+c) Pronunciar-se sobre os contratos relativos a prestação de serviço para a elaboração de quaisquer estudos ou projectos;
+
+d) Acompanhar a execução dos planos;
+
+e) Propor as entidades a quem caberá a responsabilidade de execução das obras a realizar, quando não seja assegurada pelo Fundo de Turismo.
+
+2 - O Fundo de Turismo, através das verbas consignadas aos planos de obras de cada zona, fará os pagamentos às entidades que superintendam na realização das obras, ou directamente aos respectivos credores, nas condições que forem estabelecidas no despacho que os aprovar.
+
+### Artigo 153.º — Elementos dos planos
+
+Os planos devem conter, pelo menos, os seguintes elementos:
+
+a) Justificação, sob o ponto de vista do interesse para o turismo, das obras e melhoramentos programados;
+
+b) Prioridades a ter em conta na sua execução;
+
+c) Prazos prováveis de realização de cada uma das obras;
+
+d) Mapa discriminativo das receitas previstas e sua utilização provável em cada um dos anos;
+
+e) Outras formas de financiamento previstas.
+
+### Artigo 154.º — Aprovação
+
+Os planos de obras e melhoramentos são submetidos à aprovação do membro do Governo da tutela, que, por despacho, determinará também a forma e prazos de utilização das verbas que lhes são consignadas.
+
+### Artigo 155.º — Não utilização de verbas
+
+Consideram-se perdidas a favor do Fundo de Turismo as verbas que não forem utilizadas nos prazos e condições estabelecidos nos termos do artigo anterior, excepto quando o incumprimento for aceite como justificado pelo membro do Governo da tutela.
+
+### Artigo 156.º — Colaboração e assistência
+
+As comissões podem corresponder-se com os diversos serviços do Estado e solicitar-lhes a colaboração e assistência consideradas necessárias para a elaboração dos planos.
+
+### Artigo 157.º — Expediente
+
+O expediente das comissões corre pelos organismos a que pertençam os respectivos presidentes.
+
+### Artigo 158.º — Fiscalização
+
+1 - Compete ao Fundo de Turismo fiscalizar a execução das obras e melhoramentos previstos nos planos cuja execução não esteja a seu cargo.
+
+2 - Quando a especialidade das obras incluídas nos planos o exija, o membro do Governo da tutela poderá solicitar ao Ministro das Obras Públicas, Transportes e Comunicações a designação de técnicos, em representação de departamentos deste Ministério, para integrar as comissões ou colaborar na fiscalização da execução das obras constantes dos planos aprovados, sem prejuízo das competências específicas atribuídas por lei a outras entidades.
+
+## Capítulo XI — Das modalidades afins dos jogos de fortuna ou azar e outras formas de jogo
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1999-01-01
+
+### Artigo 159.º — Modalidades afins do jogo de fortuna ou azar e outras formas de jogo
+
+1 - Modalidades afins dos jogos de fortuna ou azar são as operações oferecidas ao público em que a esperança de ganho reside conjuntamente na sorte e perícia do jogador, ou somente na sorte, e que atribuem como prémios coisas com valor económico predeterminado à partida.
+
+2 - São abrangidos pelo disposto no número anterior, nomeadamente, rifas, tômbolas, sorteios, concursos publicitários, concursos de conhecimentos e passatempos.
+
+3 - Sempre que qualquer modalidade afim do jogo de fortuna ou azar ou outras formas de jogo atinjam tal incremento público que ponham em perigo os bons costumes, ou esteja em causa a honestidade dos respetivos resultados, o membro do Governo responsável pela área governativa da administração interna ou o presidente da câmara municipal do município em cujo território se realize e quando a este se circunscreva tomará as medidas convenientes à proteção dos interesses ofendidos, reprimindo ou restringindo a exploração e prática de tais modalidades.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27, em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 160.º — Condicionantes
+
+1 - A exploração de modalidades afins do jogo de fortuna ou azar e outras formas de jogo referidas no artigo anterior fica dependente de autorização:
+
+a) Do presidente da respetiva câmara municipal, quando circunscritos à área territorial do município;
+
+b) Do presidente da câmara municipal da situação da residência ou da sede da entidade que procede à exploração das modalidades afins de jogos de fortuna ou azar e outras formas de jogo, quando não circunscritos à área territorial do município.
+
+2 - Quando haja emissão de bilhetes, a autorização será sempre condicionada à aplicação do correspondente lucro líquido a fins de assistência ou outros de interesse público, bem como à proibição das respectivas operações em estabelecimentos onde se vendam bilhetes das lotarias ou se aceitem boletins de apostas mútuas da Misericórida de Lisboa.
+
+3 - O presidente da câmara fixa as condições que tiver por convenientes para a exploração da modalidade afim de jogo de fortuna ou azar, as quais devem constar da autorização concedida, e determina o respetivo regime de auditoria.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27, em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 161.º — Proibições
+
+1 - Não é permitida a exploração de qualquer modalidade afim do jogo de fortuna ou azar e outras formas de jogo referidas no artigo 159.º por entidades com fins lucrativos, salvo os concursos de conhecimentos, passatempos ou outros, organizados por jornais, revistas, emissoras de rádio ou de televisão, e os concursos publicitários de promoção de bens ou serviços.
+
+2 - Os concursos excepcionados no número anterior não poderão ocasionar qualquer dispêndio para o jogador que não seja o do custo normal de serviços públicos de correios e de telecomunicações, sem qualquer valor acrescentado, ou do custo do jornal ou revista, com comprovada publicação periódica há mais de um ano, cuja expansão se pretende promover, ou ainda do custo de aquisição dos produtos ou serviços que se pretende reclamar.
+
+3 - As modalidades afins do jogo de fortuna ou azar e outras formas de jogo referidas no artigo 159.º não podem desenvolver temas característicos dos jogos de fortuna ou azar, nomeadamente o póquer, frutos, campainhas, roleta, dados, bingo, lotaria de números ou instantânea, totobola e totoloto, nem substituir por dinheiro ou fichas os prémios atribuídos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 162.º — Jogos de perícia e aparelhos de venda de produtos
+
+1 - Não é permitida a exploração de quaisquer máquinas cujos resultados dependam exclusiva ou fundamentalmente da perícia do jogador e que atribuam prémios em dinheiro, fichas ou coisas com valor económico, mesmo que diminuto, salvo o prolongamento gratuito da utilização da máquina face à pontuação obtida, regendo-se as máquinas de diversão por legislação específica.
+
+2 - Os aparelhos destinados à venda de produtos, nos quais a importância despendida deve corresponder ao valor comercial desses produtos, não podem, por qualquer processo e com ou sem acréscimo de preço, atribuir prémios em dinheiro, fichas ou coisas com valor económico.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 163.º — Contra-ordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação ao disposto nos artigos 160.º a 162.º
+
+2 - (Revogado.)
+
+3 - Os aparelhos e utensílios utilizados na prática das contraordenações a que se refere o n.º 1, bem como as importâncias obtidas por via da prática de tais infrações, podem ser apreendidos, a título de sanção acessória, desde que verificados os pressupostos previstos no RJCE.
+
+4 - Poderá ser determinada, como sanção acessória, a interdição, até seis meses, do exercício de quaisquer actividades nos estabelecimentos em que se hajam promovido ou realizado operações relativas a modalidades afins do jogo de fortuna ou azar e a outras formas de jogo a que se refere o artigo 159.º
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29, em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27, em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 164.º — Competência
+
+1 - O presidente da câmara municipal pode delegar, com faculdade de subdelegação, a competência que lhe é atribuída pelos artigos 159.º a 162.º
+
+2 - Compete às entidades autuantes a instrução dos processos de contraordenação e aplicação de coimas e respetivas sanções acessórias, sendo o Serviço de Regulação e Inspeção de Jogos, o serviço técnico consultivo e pericial destas entidades.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27, em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30, em vigor a partir de 2011-12-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 164.º-A — Coimas
+
+O produto das coimas previstas no presente capítulo reverte em:
+
+a) 60 % para a entidade instrutora;
+
+b) 40 % para a entidade autuante.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 98/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27, em vigor a partir de 2018-12-02, produz efeitos a partir de 2019-01-01
+
+## Capítulo XII — Disposições transitórias e finais
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 165.º — Norma transitória
+
+Até à publicação dos diplomas regulamentares previstos permanecem em vigor os correspondentes dispositivos legais aplicáveis.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 166.º — Aplicação nas Regiões Autónomas
+
+O disposto neste diploma aplica-se nas Regiões Autónomas, sem prejuízo das competências transferidas em matéria de jogo para os respectivos órgãos de governo próprio e da legislação que venha a ser criada em cada uma das Regiões Autónomas.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 40/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-18
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+### Artigo 167.º — Entrada em vigor
+
+O presente diploma entra em vigor em 1 de Janeiro de 1990.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 10/95 - Diário da República n.º 16/1995, Série I-A de 1995-01-19, em vigor a partir de 1990-01-01
+
+Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda - Lícinio Alberto de Almeida Cunha.
+
+Promulgado em 17 de Novembro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 17 de Novembro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

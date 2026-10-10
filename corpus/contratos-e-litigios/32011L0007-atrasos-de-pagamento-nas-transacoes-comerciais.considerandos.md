@@ -4,7 +4,7 @@ nome_curto: Atrasos de pagamento nas transações comerciais
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32011L0007
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32011L0007 — Atrasos de pagamento nas transações comerciais — considerandos

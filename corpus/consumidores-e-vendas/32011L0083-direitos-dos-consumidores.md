@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32011L0083
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02011L0083-20260927
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32011L0083 — Direitos dos consumidores

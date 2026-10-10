@@ -19,7 +19,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32007R0861
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02007R0861-20250501
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32007R0861 — Processo europeu de ações de pequeno montante

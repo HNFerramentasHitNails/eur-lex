@@ -4,7 +4,7 @@ nome_curto: Regulamento IA
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024R1689
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32024R1689 — Regulamento IA — considerandos

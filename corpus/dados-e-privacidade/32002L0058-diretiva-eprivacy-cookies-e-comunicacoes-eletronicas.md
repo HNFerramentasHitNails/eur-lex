@@ -18,7 +18,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32002L0058
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02002L0058-20091219
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32002L0058 — Diretiva ePrivacy (cookies e comunicações eletrónicas)

@@ -4,7 +4,7 @@ nome_curto: RoHS (substâncias perigosas em EEE)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32011L0065
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32011L0065 — RoHS (substâncias perigosas em EEE) — considerandos

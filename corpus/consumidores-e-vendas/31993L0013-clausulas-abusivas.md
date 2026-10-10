@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:31993L0013
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:01993L0013-20220528
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 31993L0013 — Cláusulas abusivas

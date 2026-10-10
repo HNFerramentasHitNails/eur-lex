@@ -1,0 +1,615 @@
+---
+diploma: Decreto-Lei n.º 125/2006
+tipo: Decreto-Lei
+numero: 125/2006
+data_publicacao: '2006-06-29'
+sumario: Cria a «empresa on-line», através de um regime especial de constituição on-line de sociedades comerciais e civis sob forma comercial, e cria a «marca na hora», alterando o regime do Registo Nacional de Pessoas Colectivas, o Regulamento Emolumentar dos Registos e do Notariado, o Decreto-Lei n.º 8-B/2002, de 15 de Janeiro, e o Decreto-Lei n.º 111/2005, de 8 de Julho
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2024-04-03'
+transpoe:
+- 32015L0849
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34482475
+eli: https://data.dre.pt/eli/dec-lei/125/2006/p/cons/20240403/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 125/2006
+
+**Sumário:** Cria a «empresa on-line», através de um regime especial de constituição on-line de sociedades comerciais e civis sob forma comercial, e cria a «marca na hora», alterando o regime do Registo Nacional de Pessoas Colectivas, o Regulamento Emolumentar dos Registos e do Notariado, o Decreto-Lei n.º 8-B/2002, de 15 de Janeiro, e o Decreto-Lei n.º 111/2005, de 8 de Julho
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2024-04-03. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34482475
+
+## Texto
+
+O presente decreto-lei estabelece um meio de criação de empresas através da Internet, introduzindo no nosso ordenamento jurídico uma via inovadora para a constituição de sociedades comerciais e civis sob forma comercial.
+
+Visa-se, com esta iniciativa, continuar a simplificar procedimentos de acordo com o Programa SIMPLEX, contribuir para o desenvolvimento do Plano Tecnológico e reduzir significativamente os custos de contexto, melhorando as condições para investir e criar riqueza e emprego em Portugal.
+
+O regime adoptado para a criação de sociedades comerciais e civis sob a forma comercial através da Internet pode ser utilizado por qualquer interessado. Tanto pessoas singulares como pessoas colectivas, representadas pelo respectivos responsáveis para as vincular, passam a poder criar sociedades por esta via, desde que utilizando um meio de certificação electrónica adequado.
+
+Trata-se, pois, de um método de criação de sociedades comerciais com um ponto de ligação óbvio ao projecto do Cartão do Cidadão. É que, com a emissão de um cartão de identificação para o cidadão que contenha um meio de certificação electrónico da identidade, a utilização de assinaturas electrónicas pelas pessoas singulares é seguramente democratizada e, consequentemente, também promovida a utilização das funcionalidades e meios - como a criação de sociedades comerciais através da Internet - que dependam de um reconhecimento electrónico da identificação.
+
+Além daqueles que sejam directamente interessados na constituição da sociedade comercial através da Internet, também os advogados, os solicitadores e os notários podem constituí-las, certificando a identidade, a capacidade, os poderes de representação e a vontade dos interessados, sempre com utilização de um meio de validação electrónico da sua identidade.
+
+O regime adoptado pretende ser flexível, tendo o interessado ou o seu representante um alargado conjunto de opções em matéria de escolha da firma e do pacto social da sociedade comercial que pretende constituir.
+
+Assim, quanto ao processo de escolha da firma, estão disponíveis três possibilidades: a opção por uma firma pré-aprovada e registada a favor do Estado, como na «empresa na hora», a obtenção de uma firma admissível escolhida pelos interessados por via exclusivamente electrónica e o envio de um certificado de admissibilidade da firma previamente obtido através de um meio não electrónico.
+
+Quanto ao pacto social ou acto constitutivo da sociedade comercial ou da sociedade civil sob a forma comercial, é oferecida uma dupla opção: a escolha de um pacto social ou acto constitutivo de modelo aprovado por despacho do director-geral dos Registos e do Notariado ou a apresentação do pedido com envio de pacto ou acto constitutivo elaborado e submetido pelos interessados.
+
+Igualmente se prevê a possibilidade de o cumprimento das obrigações fiscais relativas ao início da actividade da sociedade constituída ser efectuado por via exclusivamente electrónica.
+
+Além disto, pretende-se que este processo de constituição de sociedades comerciais através da Internet seja rápido e barato. Prevê-se, por isso, que o registo da sociedade constituída se realize imediatamente, ou no prazo máximo de dois dias úteis, consoante os interessados optem por pacto ou acto constitutivo de modelo aprovado ou por submeter pacto ou acto constitutivo por si elaborado. O custo da constituição de sociedades por via electrónica é, igualmente, mais baixo que o preço da sua criação pela via tradicional.
+
+Ainda é merecedora de especial referência a circunstância de este regime de constituição de sociedades comerciais pela Internet ser dotado de importantes e relevantes mecanismos de segurança e controlo, consubstanciados, por exemplo, em comunicações electrónicas obrigatórias para as entidades responsáveis pelo cumprimento das obrigações fiscais, da segurança social e dos deveres de natureza laboral da sociedade comercial criada.
+
+Finalmente, aproveita-se para adoptar o mecanismo legal que permite a concretização do projecto «marca na hora», que visa a possibilidade de obtenção, no momento da constituição de uma «empresa na hora», de uma marca pré-aprovada e pré-registada em nome do Estado, equivalente à firma escolhida.
+
+Foram promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Câmara dos Técnicos Oficiais de Contas.
+
+Foi ouvida a Ordem dos Notários.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Regime especial de constituição on-line de sociedades
+
+### Artigo 1.º — Objecto
+
+É criado um regime especial de constituição online de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima, com ou sem a simultânea aquisição, pelas sociedades, de marca registada, através de sítio na Internet, regulado por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 16.º do/a Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26, em vigor a partir de 2007-09-27
+
+### Artigo 2.º — Âmbito
+
+O regime previsto no presente decreto-lei não é aplicável:
+
+a) Às sociedades cujo capital seja realizado com recurso a entradas em espécie em que, para a transmissão dos bens com que os sócios entram para a sociedade, seja exigida forma mais solene do que a forma escrita;
+
+b) Às sociedades anónimas europeias.
+
+### Artigo 3.º — Competência
+
+1 - O procedimento de constituição de sociedades ao abrigo do regime a que se refere o artigo 1.º é da competência do Registo Nacional de Pessoas Coletivas (RNPC) e das demais conservatórias do registo comercial que sejam determinadas por despacho do presidente do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 4.º — Interessados
+
+Podem recorrer ao regime previsto no presente decreto-lei pessoas singulares e pessoas colectivas.
+
+### Artigo 5.º — Procedimento
+
+1 - Efetuam-se mediante prévia autenticação eletrónica segura no sítio na Internet a que se refere o artigo 1.º, nos termos a definir por portaria do membro do Governo responsável pela área da justiça, os seguintes atos:
+
+a) A indicação dos dados e a autorização para a sua partilha para efeitos de preenchimento do pacto social ou do ato constitutivo da sociedade;
+
+b) A entrega de documentos;
+
+c) A aceitação da designação para o cargo de gerente ou administrador e a declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir da ocupação do cargo, quando não for efetuada no pacto social ou no ato constitutivo da sociedade.
+
+2 - (Revogado.)
+
+3 - Caso intervenha mais de um interessado na constituição da sociedade, cada interessado deve aceder ao processo de constituição online, para os efeitos previstos no n.º 1, designadamente para aposição da assinatura eletrónica no pacto social ou ato constitutivo da sociedade que subscreve, na sequência de notificação eletrónica desencadeada pelo requerente e automaticamente gerada pelo sistema de informação.
+
+4 - (Revogado.)
+
+5 - Para efeitos do disposto no n.º 3, o requerente fornece o nome, número de identificação civil e endereço eletrónico dos interessados.
+
+6 - Com exceção da subscrição do pacto social ou do ato constitutivo e das declarações referidas na alínea c) do n.º 1, que têm de ser efetuadas no sítio na Internet a que se refere o artigo 1.º, os documentos entregues no processo de constituição online de sociedades podem ser assinados através de assinatura eletrónica qualificada ou autógrafa.
+
+7 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de constituição online de sociedades, os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel, com exceção do pacto social ou do ato constitutivo.
+
+8 - Os interessados podem formular, através do sítio na Internet, pedidos de registo relativos a factos posteriores à constituição da sociedade, nos termos previstos no Código do Registo Comercial e respetiva regulamentação.
+
+9 - Os meios de autenticação eletrónica segura previstos no n.º 1 integram pelo menos:
+
+a) A utilização de certificado digital qualificado, através de cartão de cidadão ou de Chave Móvel Digital;
+
+b) A utilização de certificado digital que comprove a qualidade profissional do utilizador, no caso de advogados, solicitadores e notários; e
+
+c) A utilização de meios de identificação eletrónica emitidos noutros Estados-Membros, desde que reconhecidos para efeitos de autenticação transfronteiriça, nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 6.º — Pedido on-line
+
+1 - Os interessados na constituição da sociedade formulam o seu pedido online praticando, entre outros que se mostrem necessários, os seguintes actos:
+
+a) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, pela aprovação electrónica e automática da firma nos termos do artigo 50.º-A do regime do RNPC ou pela verificação da admissibilidade e aprovação de firma;
+
+b) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação de firma constante de certificado de admissibilidade de firma previamente obtido;
+
+c) Opção por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., ou por envio do pacto ou do ato constitutivo por si elaborado;
+
+d) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;
+
+e) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo de constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º ou, nos casos e termos em que a lei o permite, que as respectivas entradas em dinheiro são entregues nos cofres da sociedade, até ao final do primeiro exercício económico;
+
+f) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.
+
+2 - Nas situações previstas na primeira parte da alínea a) do número anterior, os interessados podem completar a composição da firma com qualquer expressão alusiva ao objecto social que optem por inserir entre a expressão de fantasia escolhida e os aditamentos legalmente impostos.
+
+3 - Se se tiver requerido a verificação e aprovação de firma nos termos da parte final da alínea a) do n.º 1, o pedido deve ser apreciado no prazo máximo de um dia útil, sendo aprovada a primeira das firmas requeridas que for viável.
+
+4 - Se for esse o caso, os interessados devem ainda enviar através do sítio na Internet, entre outros que se mostrem necessários, os seguintes documentos:
+
+a) Documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto;
+
+b) Autorizações especiais que sejam necessárias para a constituição da sociedade;
+
+c) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.
+
+d) Declaração de aceitação dos gerentes ou administradores das sociedades por quotas ou anónimas, respetivamente, e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo, quando não constem do pacto ou do ato constitutivo a que se refere a alínea c) do n.º 1.
+
+5 - Uma vez iniciado o procedimento ou aprovada a firma nos termos da parte final da alínea a) do n.º 1, o pedido online deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.
+
+6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de constituição online de sociedades os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel.
+
+7 - Os interessados podem formular, através do sítio na Internet, pedidos de registo relativos a factos posteriores à constituição da sociedade, devendo enviar os documentos que comprovem os factos a registar.
+
+> Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07, em vigor a partir de 2011-04-06
+
+> Alterado pelo/a Artigo 36.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 16.º do/a Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26, em vigor a partir de 2007-09-27
+
+### Artigo 7.º — Intervenção de advogados, solicitadores e notários
+
+1 - Sem prejuízo do disposto nos n.os 5 e 6, os advogados, os solicitadores e os notários que se autentiquem através de meios de autenticação eletrónica segura, previstos na alínea b) do n.º 9 do artigo 5.º, podem:
+
+a) Desencadear as notificações eletrónicas a que se refere o n.º 3 do artigo 5.º para os efeitos aí previstos; ou
+
+b) Enviar, através do sítio na Internet, o pacto social ou o ato constitutivo da sociedade, bem como as declarações referidas na alínea c) do n.º 1 do artigo 5.º, assinados pelos seus subscritores, eletronicamente ou de forma autógrafa.
+
+2 - Quando o pacto social ou o ato constitutivo da sociedade seja assinado de forma autógrafa, os advogados, os solicitadores ou os notários devem igualmente enviar o reconhecimento presencial das assinaturas dos subscritores do pacto social ou do ato constitutivo da sociedade, no qual se certifique a sua identidade e, se for o caso, a sua capacidade e os seus poderes de representação.
+
+3 - A apresentação de reconhecimento nos termos dos números anteriores por advogado ou solicitador dispensa o registo em sistema informático previsto no n.º 3 do artigo 38.º do Decreto-Lei n.º 76-A/2006, de 29 de março, na sua redação atual.
+
+4 - (Revogado.)
+
+5 - O advogado ou solicitador que se autentique nos termos do n.º 1 pode agir, no exercício de mandato, em representação dos interessados, na subscrição do pacto social ou do ato constitutivo da sociedade, mediante apresentação de procuração com poderes especiais para o ato, caso em que deve assinar, eletronicamente ou de forma autógrafa sem necessidade de reconhecimento, o pacto social ou o ato constitutivo da sociedade.
+
+6 - O notário que se autentique nos termos do n.º 1 pode subscrever o pacto social ou o ato constitutivo da sociedade, devendo assiná-lo eletronicamente ou de forma autógrafa, sem necessidade de reconhecimento, desde que declare que o ato tenha sido requerido pelos interessados e corresponde à vontade destes.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 8.º — Representação dos interessados na subscrição do pacto ou do acto constitutivo da sociedade
+
+No caso da intervenção prevista no artigo anterior, os advogados e os solicitadores não podem agir como representantes dos interessados na subscrição do pacto ou do acto constitutivo da sociedade.
+
+> Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+### Artigo 9.º — Intervenção dos notários
+
+1 - Os interessados podem solicitar aos notários, que disponham dos meios de certificação de acordo com a portaria referida no n.º 1 do artigo 5.º, que a constituição de sociedade seja realizada através do procedimento previsto no presente decreto-lei.
+
+2 - Para esse efeito, os notários reconhecem presencialmente as assinaturas dos subscritores do pacto ou do acto constitutivo certificando a sua identidade e, se for esse o caso, a sua capacidade e os seus poderes de representação e, ainda, que os mesmos manifestaram a sua vontade em constituir a sociedade.
+
+3 - O disposto no n.º 4 do artigo 7.º é aplicável aos notários, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 15.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 10.º — Validação do pedido
+
+1 - O pedido de constituição online da sociedade só é considerado validamente apresentado após a emissão pelo sistema de informação de um comprovativo eletrónico, que indique a data e a hora da submissão do pedido, por referência à hora do meridiano de Greenwich, indicada pelo acrónimo UTC (Coordinated Universal Time).
+
+2 - A não conclusão do procedimento de constituição de sociedade por facto imputável ao interessado determina a caducidade do direito ao uso da firma afecta à sociedade a constituir nos termos da primeira parte da alínea a) do n.º 1 do artigo 6.º
+
+> Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 11.º — Prazos do procedimento
+
+1 - (Revogado.)
+
+2 - O serviço competente convida o requerente a enviar, através do sítio na Internet e no prazo de cinco dias, os documentos em falta, quando não seja possível suprir oficiosamente as informações que deles devam constar.
+
+3 - Se os interessados tiverem optado por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., e não se mostre necessária a entrega de autorizações especiais para a constituição da sociedade, o serviço competente procede ao registo e às diligências subsequentes no prazo de cinco dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues os documentos previstos na portaria a que se refere o n.º 1 do artigo 5.º
+
+4 - Nas restantes situações, o serviço competente procede ao registo e às diligências subsequentes no prazo de 10 dias a contar da confirmação do pagamento efetuado pelos interessados e desde que tenham sido entregues todos os documentos necessários.
+
+5 - Caso não seja possível efetuar o registo nos prazos a que se referem os números anteriores, o serviço competente notifica o requerente por via eletrónica dos motivos do atraso.
+
+6 - (Revogado.)
+
+7 - A não conclusão do procedimento de constituição de sociedade por facto imputável ao requerente determina a caducidade do direito ao uso da firma previamente criada e reservada a favor do Estado afeta à sociedade a constituir.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 12.º — Diligências subsequentes
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Nos casos de aquisição de marca registada, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 4 do artigo 30.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 26.º do mesmo diploma.
+
+5 - Após a disponibilização aos serviços competentes dos dados necessários ao controlo das obrigações da sociedade por parte da administração tributária, os serviços da administração tributária devem notificar, por via eletrónica, os serviços de segurança social dos elementos relativos ao início de atividade.
+
+6 - (Revogado).
+
+7 - O registo do pacto social ou ato constitutivo da sociedade e a prática das diligências subsequentes são da competência do conservador e dos oficiais de registo.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 36.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 16.º do/a Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26, em vigor a partir de 2007-09-27
+
+### Artigo 13.º — Encargos
+
+1 - Pelo procedimento de constituição de sociedade regulado no presente decreto-lei são devidos encargos relativos:
+
+a) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado;
+
+b) Ao imposto do selo, nos termos da tabela respectiva.
+
+c) Às taxas previstas em portaria do membro do Governo responsável pela área da justiça, caso tenha havido aquisição de marca registada.
+
+2 - Não são devidos emolumentos pessoais no âmbito do regime especial de constituição on-line de sociedades.
+
+> Alterado pelo/a Artigo 16.º do/a Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26, em vigor a partir de 2007-09-27
+
+### Artigo 14.º — Bolsas de firmas e de marcas
+
+1 - No procedimento de constituição de sociedades previsto no presente decreto-lei são utilizadas a bolsa de firmas ou a bolsa de firmas e de marcas associadas previstas no artigo 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 16.º do/a Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26, em vigor a partir de 2007-09-27
+
+### Artigo 14.º-A — Declaração de intenção de uso
+
+Os titulares das marcas transmitidas através do presente regime estão dispensados da apresentação da primeira declaração de intenção de uso, prevista no n.º 1 do artigo 256.º do Código da Propriedade Industrial
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Aditado pelo/a Artigo 17.º do/a Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26, em vigor a partir de 2007-09-27
+
+### Artigo 14.º-B — Apresentação subsequente de documentos e informações
+
+O sítio na Internet previsto no artigo 1.º permite a entrega de documentos e a prestação de informações subsequentemente à constituição da sociedade.
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 15.º — Aplicação subsidiária
+
+O Código do Registo Comercial é aplicável subsidiariamente ao regime especial de constituição on-line de sociedades.
+
+### Artigo 16.º — Protocolos
+
+1 - Podem ser celebrados protocolos entre o IRN, I. P., e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades, com vista à definição dos procedimentos administrativos de comunicação de dados.
+
+2 - O IRN, I. P., pode ainda celebrar protocolos com a Autoridade Tributária e Aduaneira e com a Ordem dos Contabilistas Certificados, com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de atividade e posterior comprovação destes factos.
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+### Artigo 17.º — Regulamentação
+
+Deve ser regulado por portaria do Ministro da Justiça:
+
+a) A designação, o funcionamento e as funções do sítio na Internet referido no artigo 1.º;
+
+b) O procedimento de constituição online de sociedade, designadamente os requisitos e as condições de utilização da autenticação eletrónica e da assinatura eletrónica, os documentos a entregar, a receção e validação do pedido, os atos, comunicações e notificações a efetuar, bem como os respetivos prazos de prática dos mesmos.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+### Artigo 17.º-A — Disponibilização de informação
+
+1 - O sítio na Internet referido no artigo 1.º disponibiliza informação sobre o procedimento de constituição de sociedades ao abrigo do regime instituído pelo presente decreto-lei em linguagem clara, em língua portuguesa e em língua inglesa.
+
+2 - A informação disponibilizada abrange, pelo menos, o seguinte:
+
+a) Uma descrição do procedimento de constituição de sociedades, incluindo o procedimento de constituição online;
+
+b) Os modelos, em língua portuguesa e em língua inglesa, e os requisitos relativos à sua utilização;
+
+c) Os requisitos relativos a outros documentos relacionados com a constituição da sociedade, à identificação de pessoas e à utilização de línguas estrangeiras;
+
+d) As taxas aplicáveis e o respetivo modo de pagamento;
+
+e) Uma síntese explicativa das normas aplicáveis relativas à designação de um membro de um órgão de administração, de gestão ou de fiscalização de uma sociedade, incluindo das normas relativas à inibição de administradores ou gerentes;
+
+f) Uma síntese dos poderes e das responsabilidades do órgão de administração, do órgão de gestão e do órgão de fiscalização da sociedade, incluindo o poder de representação da sociedade nas relações com terceiros, e síntese dos poderes e das responsabilidades do representante da sucursal.
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+## Capítulo II — Alterações legislativas
+
+### Artigo 18.º — Alteração ao regime do Registo Nacional de Pessoas Colectivas
+
+O artigo 45.º do regime do Registo Nacional de Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os 12/2001, de 25 de Janeiro, 323/2001, de 17 de Dezembro, 2/2005, de 4 de Janeiro, 111/2005, de 8 de Julho, e 76-A/2006, de 29 de Março, passa a ter a seguinte redacção:
+
+«Artigo 45.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 - A emissão do certificado de admissibilidade de firma previsto no n.º 1 pode ser substituída por uma verificação da admissibilidade e obtenção da firma, realizadas por via electrónica, em termos a regulamentar por portaria do Ministro da Justiça.»
+
+### Artigo 19.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado
+
+Os artigos 27.º e 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178-A/2005, de 28 de Outubro, rectificado pela Declaração de Rectificação n.º 89/2005, de 27 de Dezembro, 76-A/2006, de 29 de Março, e 85/2006, de 23 de Maio, passam a ter a seguinte redacção:
+
+«Artigo 27.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 - Regimes especiais de constituição imediata e de constituição on-line de sociedades:
+
+3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 360.
+
+3.2 - O emolumento previsto no número anterior tem um valor único e inclui o custo da publicação obrigatória do registo.
+
+3.3 - Do emolumento previsto no n.º 3.1, deduzido da taxa devida pela publicação a que se refere o n.º 3.2, pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas (RNPC).
+
+3.4 - Pela prática dos actos compreendidos no regime especial de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo de modelo aprovado - (euro) 360.
+
+3.5 - No caso de constituição on-line de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade e com opção por pacto ou acto constitutivo elaborado pelos interessados - (euro) 380.
+
+3.6 - Os emolumentos previstos nos n.os 3.4 e 3.5 têm um valor único e incluem o custo da publicação obrigatória do registo.
+
+4 -...
+
+4.1 -...
+
+4.2 -...
+
+4.3 - Havendo provimento parcial, o emolumento do n.º 4.1 é reduzido a metade.
+
+5 -...
+
+6 -...
+
+7 -...
+
+Artigo 28.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 -...
+
+4 -...
+
+5 -...
+
+6 -...
+
+7 -...
+
+8 -...
+
+9 -...
+
+10 -...
+
+11 -...
+
+12 -...
+
+13 -...
+
+14 -...
+
+15 -...
+
+16 -...
+
+17 -...
+
+18 -...
+
+19 - Os emolumentos devidos pelos regimes especiais de constituição imediata e de constituição on-line de sociedades são reduzidos em (euro) 60 quando a actividade principal da sociedade seja classificada como actividade informática ou conexa, ou ainda como de investigação e desenvolvimento, não sendo devida participação emolumentar pela referida redução.
+
+20 -...
+
+21 -...
+
+22 -...
+
+23 -...
+
+24 -...
+
+25 -...
+
+26 -...
+
+27 -...»
+
+### Artigo 20.º — Alteração ao Decreto-Lei n.º 8-B/2002, de 15 de Janeiro
+
+O artigo 4.º do Decreto-Lei n.º 8-B/2002, de 15 de Janeiro, com a alteração introduzida pelo Decreto-Lei n.º 111/2005, de 8 de Julho, passa a ter a seguinte redacção:
+
+«Artigo 4.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 -...
+
+4 - Consideram-se oficiosamente inscritas na segurança social as entidades empregadoras criadas pelo regime especial de constituição imediata de sociedades e pelo regime especial de constituição on-line de sociedades.»
+
+### Artigo 21.º — Alteração ao Decreto-Lei n.º 111/2005, de 8 de Julho
+
+Os artigos 1.º, 3.º, 6.º, 8.º, 11.º, 12.º, 14.º e 15.º do Decreto-Lei n.º 111/2005, de 8 de Julho, com a alteração introduzida pelo Decreto-Lei n.º 76-A/2006, de 29 de Março, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+O presente diploma estabelece um regime especial de constituição imediata de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima, com ou sem a simultânea aquisição, pelas sociedades, de marca registada.
+
+Artigo 3.º
+
+[...]
+
+São pressupostos de aplicação do presente diploma:
+
+a) A opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, ou a apresentação de certificado de admissibilidade de firma emitido pelo Registo Nacional de Pessoas Colectivas; e
+
+b)...
+
+Artigo 6.º
+
+[...]
+
+1 - Os interessados na constituição da sociedade formulam o seu pedido junto do serviço competente, manifestando a sua opção pela firma ou firma e marca e pelo modelo de pacto ou acto constitutivo.
+
+2 -...
+
+Artigo 8.º
+
+[...]
+
+1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:
+
+a)...
+
+b) Afectação, por via informática e a favor da sociedade a constituir, da firma escolhida ou da firma e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à firma, nos casos previstos na primeira parte da alínea a) do artigo 3.º;
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g)...
+
+h)...
+
+i)...
+
+2 -...
+
+Artigo 11.º
+
+[...]
+
+A não conclusão do procedimento no prazo previsto no artigo 5.º por facto imputável aos interessados determina a caducidade do direito ao uso da firma, ou da firma e marca escolhidas afectas à sociedade a constituir, nos termos da alínea b) do n.º 1 do artigo 8.º, não conferindo o direito à restituição dos encargos cobrados.
+
+Artigo 12.º
+
+[...]
+
+1 - Concluído o procedimento de constituição da sociedade, o serviço competente entrega de imediato aos representantes da sociedade, a título gratuito:
+
+a) Uma certidão do pacto ou acto constitutivo e do registo deste último;
+
+b) O recibo comprovativo do pagamento dos encargos devidos;
+
+c) Nos casos em que com a constituição da sociedade ocorra a simultânea aquisição do registo de marca, para além dos documentos anteriores, documento comprovativo de tal aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial (INPI).
+
+2 - Nas situações a que se refere a alínea c) do número anterior, o INPI remete posteriormente à sociedade o título de registo da marca, bem como o recibo comprovativo do pagamento das taxas devidas pelo acto de aquisição do registo de marca.
+
+Artigo 14.º
+
+[...]
+
+1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:
+
+a)...
+
+b)...
+
+c)...
+
+d) Às taxas previstas na Tabela de Taxas de Propriedade Industrial para a aquisição do registo de marca, nos casos em que este facto ocorra simultaneamente com a constituição da sociedade.
+
+2 - O Estado goza de isenção do pagamento das taxas devidas pela prática de actos junto do INPI, ao abrigo do presente diploma.
+
+3 - Sem prejuízo do disposto no artigo 11.º, não são devidos quaisquer encargos pela recusa de titulação e de registo, procedendo-se nesses casos à devolução de todas as quantias cobradas pelo procedimento de constituição de sociedades regulado neste diploma.
+
+4 - Pelo procedimento de constituição de sociedades regulado neste diploma não são devidos emolumentos pessoais.
+
+Artigo 15.º
+
+Bolsas de firmas e de marcas
+
+1 -...
+
+2 - É criada pelo RNPC e pelo INPI uma bolsa de firmas reservadas e de marcas registadas a favor do Estado, compostas por expressões de fantasia e às quais está associado um NIPC e um número de processo de marca, independentemente da localização da sede da sociedade, para o efeito de afectação às sociedades a constituir no âmbito do presente diploma.
+
+3 - As marcas constantes da bolsa referida no número anterior são registadas a favor do Estado, representado pelo RNPC, para os produtos e serviços definidos por despacho conjunto do director-geral dos Registos e do Notariado e do presidente do conselho de administração do INPI.
+
+4 - Até à sua afectação nos termos da alínea b) do n.º 1 do artigo 8.º, as firmas constantes das bolsas referidas nos n.os 1 e 2 gozam de protecção em todo o território nacional.
+
+5 - O recurso à bolsa referida no n.º 2 pressupõe a adopção conjunta das firmas e marcas que se encontram reciprocamente associadas.
+
+6 - A dependência prevista no número anterior cessa com a conclusão do procedimento de constituição imediata da sociedade, momento a partir do qual a firma e a marca passam a vigorar autonomamente.
+
+7 - A reserva a favor do Estado das firmas constantes das bolsas referidas nos n.os 1 e 2 confere o direito à sua exclusividade em todo o território nacional.»
+
+## Capítulo III — Disposições finais e transitórias
+
+### Artigo 22.º — Período experimental
+
+1 - O regime especial de constituição imediata de sociedades com simultânea aquisição do registo de marca funciona a título experimental no RNPC, nos respectivos postos de atendimento junto dos Centros de Formalidades de Empresas de Lisboa, nas Conservatórias do Registo Comercial de Vila Nova de Gaia e de Coimbra e no respectivo posto de atendimento junto do Centro de Formalidades de Empresas de Coimbra, por um período de quatro meses, a contar da data de entrada em vigor do presente decreto-lei.
+
+2 - Decorrido o período experimental previsto no número anterior, a extensão do regime a outros serviços depende de despacho do Ministro da Justiça.
+
+### Artigo 23.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 30 de Junho de 2006, com as excepções seguintes:
+
+a) O disposto nos artigos 1.º e 17.º, quanto à emissão da regulamentação aí prevista, entra em vigor no dia seguinte ao da sua publicação;
+
+b) As alterações legislativas ao Decreto-Lei n.º 111/2005, de 8 de Julho, entram em vigor no dia 14 de Julho de 2006;
+
+c) A parte final da alínea c) do n.º 1 do artigo 6.º, que permite que o pedido de constituição on-line de sociedade apresentado pelos interessados seja feito através do envio de um pacto ou acto constitutivo por eles elaborado, entra em vigor no dia 31 de Outubro de 2006.
+
+Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Fernando Medina Maciel Almeida Correia - José Mariano Rebelo Pires Gago.
+
+Promulgado em 22 de Junho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 26 de Junho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

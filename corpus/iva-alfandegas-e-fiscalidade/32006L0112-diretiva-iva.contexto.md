@@ -1,7 +1,7 @@
 ---
 celex: 32006L0112
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32006L0112 — Diretiva IVA — contexto
@@ -14,11 +14,11 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2013-05-30 — Decreto-Lei n.º 71/2013. D.R. n.º 104, Série I de 2013-05-30 Ministério das Finanças No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, aprova o regime de contabilidade de caixa em sede de Imposto sobre o Valor Acrescentado (regime de IVA de caixa), e altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro (CELEX 72006L0112PRT_207253)
-- 2007-12-31 — Ministério das Finanças e da Administração Pública-No uso da autorização legislativa concedida pelo n.º 2 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, altera o Código do IVA e o Regime do IVA nas Transacções Intracomunitárias, transpondo para a ordem jurídica interna as Directivas n.os 2006/69/CE, do Conselho, de 24 de Julho, e 2006/112/CE, do Conselho, de 28 de Novembro. (CELEX 72006L0069PRT_152397)
-- 2007-12-31 — Ministério das Finanças e da Administração Pública-No uso da autorização legislativa concedida pelo n.º 2 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, altera o Código do IVA e o Regime do IVA nas Transacções Intracomunitárias, transpondo para a ordem jurídica interna as Directivas n.os 2006/69/CE, do Conselho, de 24 de Julho, e 2006/112/CE, do Conselho, de 28 de Novembro. (CELEX 72006L0112PRT_152397)
+- 2013-05-30 — Decreto-Lei n.º 71/2013. D.R. n.º 104, Série I de 2013-05-30 Ministério das Finanças No uso da autorização legislativa concedida pela Lei n.º 66-B/2012, de 31 de dezembro, aprova o regime de contabilidade de caixa em sede de Imposto sobre o Valor Acrescentado (regime de IVA de caixa), e altera o Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro (CELEX 72006L0112PRT_207253) → texto: [`legislacao-pt/decreto-lei-71-2013.md`](../../legislacao-pt/decreto-lei-71-2013.md) (consolidado (DRE))
+- 2007-12-31 — Ministério das Finanças e da Administração Pública-No uso da autorização legislativa concedida pelo n.º 2 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, altera o Código do IVA e o Regime do IVA nas Transacções Intracomunitárias, transpondo para a ordem jurídica interna as Directivas n.os 2006/69/CE, do Conselho, de 24 de Julho, e 2006/112/CE, do Conselho, de 28 de Novembro. (CELEX 72006L0069PRT_152397) → texto: [`legislacao-pt/decreto-lei-393-2007.md`](../../legislacao-pt/decreto-lei-393-2007.md) (original (DRE))
+- 2007-12-31 — Ministério das Finanças e da Administração Pública-No uso da autorização legislativa concedida pelo n.º 2 do artigo 1.º da Lei n.º 65-A/2007, de 26 de Novembro, altera o Código do IVA e o Regime do IVA nas Transacções Intracomunitárias, transpondo para a ordem jurídica interna as Directivas n.os 2006/69/CE, do Conselho, de 24 de Julho, e 2006/112/CE, do Conselho, de 28 de Novembro. (CELEX 72006L0112PRT_152397) → texto: [`legislacao-pt/decreto-lei-393-2007.md`](../../legislacao-pt/decreto-lei-393-2007.md) (original (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (502)
 

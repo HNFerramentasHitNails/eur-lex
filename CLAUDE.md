@@ -7,16 +7,43 @@ que cumpram o direito da UE.
 
 Responde sempre em português de Portugal.
 
+## Antes de tudo: gastar poucos tokens
+
+**Começa por `INDICE.md`** (curto) e usa `ferramentas/procurar.py` em vez de abrir ficheiros.
+Um regulamento inteiro pode ter 50 000+ tokens; o artigo que responde, 200–2 000.
+
+```bash
+python3 ferramentas/procurar.py actos <palavras>        # que acto? (nome popular, n.º, temas, EuroVoc)
+python3 ferramentas/procurar.py artigos <CELEX> [palavra] # sumário: artigo — epígrafe [linhas, ≈tokens]
+python3 ferramentas/procurar.py ler <CELEX> <n.º>         # só esse artigo
+python3 ferramentas/procurar.py texto "<pergunta>"        # artigos mais relevantes em toda a legislação
+python3 ferramentas/procurar.py pt <CELEX da diretiva>    # lei portuguesa que a transpõe
+```
+
+Para perguntas de negócio ("posso…", "tenho de…", "que regras…") segue a skill
+`.claude/skills/consultar-legislacao/SKILL.md`: pergunta ao utilizador só o que muda a lei
+aplicável (no máximo 3 perguntas) e vai directo aos artigos.
+
 ## Onde está cada coisa
 
 | Caminho | O que tem |
 |---|---|
-| `corpus/INDICE.md` | **Começa aqui.** Lista de todos os actos descarregados por área, com versão e tamanho. |
+| `INDICE.md` | **Começa aqui.** Como navegar, áreas do repertório, actos curados. |
+| `indice/actos.tsv` | Uma linha por acto: nome popular, título, tipo, data, estado, temas, descritores EuroVoc, n.º de artigos, tokens, ficheiro, versão curada, leis PT. |
+| `indice/temas/<cap>.md`, `indice/eurovoc.tsv` | Actos por área do repertório oficial; descritor temático EuroVoc → actos. |
+| `indice/artigos/…/*.tsv` | Sumário de cada acto (artigo/anexo, epígrafe, linhas, tokens). `rg -i 'epígrafe' indice/artigos` encontra artigos pelo título em toda a legislação. |
+| `corpus/INDICE.md` | Os 86 actos curados por área (com considerandos, sínteses, transposição e jurisprudência). |
+| `ue/<tipo>/<ano>/<CELEX>.md` | **Texto integral de toda a legislação da UE em vigor** (≈64 mil actos) e dos actos já publicados que entram em vigor no futuro. Tipos: `regulamentos`, `diretivas`, `decisoes`, `tratados`, `acordos-internacionais`, `recomendacoes`, `concentracoes`, … Versão consolidada mais recente já aplicável, ou o original do JO. |
+| `ue/<…>/<CELEX>.futuro.md` | Versão consolidada já publicada que só se aplica numa data futura (indicada no ficheiro). |
+| `ue/INDICE.tsv` | Uma linha por acto de `ue/`: `celex`, `estado` (em vigor / em vigor (por confirmar) / futuro), `texto` (consolidado, original, PDF, outra língua, sem texto), data da versão, versão futura, tamanho, ficheiro, `assinatura` (uso interno da actualização). |
+| `ue/ALTERACOES.md` | Registo das actualizações automáticas (actos novos, novas versões, removidos e com que prova) e o resultado da verificação automática de cada semana (avisos e problemas graves). |
 | `corpus/<area>/<CELEX>-<nome>.md` | Texto do acto: versão consolidada mais recente já aplicável (ou o original do JO se não houver consolidação). Artigos como `### Artigo 6.º — Título`; capítulos, secções e anexos como `## …`. |
 | `corpus/<area>/<…>.considerandos.md` | Preâmbulo (considerandos) do texto original. Os considerandos não são normas, mas explicam a intenção do legislador e o Tribunal de Justiça usa-os para interpretar. |
 | `corpus/<area>/<…>.contexto.md` | Sínteses oficiais, **medidas portuguesas de transposição** (só diretivas) e lista de acórdãos do Tribunal de Justiça que interpretam o acto. |
 | `corpus/_sinteses/<id>.md` | Sínteses oficiais da UE em linguagem simples (não são texto legal). |
-| `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-09 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
+| `legislacao-pt/INDICE.md` | Leis portuguesas que transpõem as diretivas do corpus, agrupadas por diretiva, com o estado de cada uma (consolidado, original, revogado, não obtido e porquê). |
+| `legislacao-pt/<tipo>-<numero>-<ano>.md` | Texto do diploma português obtido no Diário da República Eletrónico: versão consolidada do DRE quando existe (com a origem de cada alteração em linhas `> Alterado pelo/a …`), senão o texto original publicado. Diplomas revogados ficam só com metadados. |
+| `catalogo/legislacao-em-vigor.tsv` | Uma linha por cada um dos 64 273 actos marcados "em vigor" no Cellar em 2026-10-10 (tratados, acordos internacionais, regulamentos, diretivas, decisões…). Colunas: `celex`, `data`, `tipo`, `consolidado_ate` (data da versão consolidada mais recente, se houver), `repertorio` (códigos de área), `titulo` (PT), `eli`, `url`. Serve para descobrir o que existe; o texto só está no corpus para os actos do índice. |
 | `catalogo/repertorio.md` | Árvore de áreas do repertório oficial do EUR-Lex, com contagens. |
 | `ferramentas/eurlex.py` | Script que descarrega e converte. `ferramentas/nucleo.yaml` é a lista curada. |
 
@@ -33,12 +60,13 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
 
 ## Como responder a uma pergunta
 
-1. Identifica o acto no `corpus/INDICE.md`. Se não estiver lá, procura no catálogo
-   (`grep -i "palavra" catalogo/legislacao-em-vigor.tsv | cut -f1,2,3,6`, ou por área com
-   o código de `catalogo/repertorio.md`) e, se for preciso o texto, descarrega-o:
+1. Identifica o acto. Primeiro em `corpus/INDICE.md` (86 actos curados, mais completos).
+   Se não estiver lá, procura no catálogo (`grep -i "palavra" catalogo/legislacao-em-vigor.tsv
+   | cut -f1,2,3,6`, ou por área com o código de `catalogo/repertorio.md`) e lê o texto em
+   `ue/` (o caminho está em `ue/INDICE.tsv`). Para pesquisar no texto de toda a legislação,
+   usa `rg` (ripgrep) em `ue/` — são cerca de 1,5 GB, `grep -r` é lento.
+   Se um acto do catálogo não estiver em `ue/`, descarrega-o:
    `python3 ferramentas/eurlex.py obter <CELEX> --area <area> --curto "<nome>"`.
-   Não concluas que "não há regra" só porque o corpus não a tem: o corpus tem 86 actos
-   de um universo de 64 mil.
 2. Vai ao artigo concreto (`grep -n "^### Artigo 6.º" corpus/dados-e-privacidade/32016R0679-rgpd.md`)
    e lê-o inteiro, incluindo definições (normalmente no artigo 2.º, 3.º ou 4.º) e exceções.
    Usa os considerandos para a interpretação e o `.contexto.md` para a jurisprudência.
@@ -53,15 +81,27 @@ Cada ficheiro começa com metadados YAML: `celex`, `titulo`, `em_vigor`, `texto`
 
 - **Diretivas não se aplicam directamente às empresas.** Obrigam os Estados-Membros a
   transpor. Para uma empresa em Portugal, a regra aplicável é a lei portuguesa de
-  transposição (listada no `.contexto.md`, secção "Transposição em Portugal"), cujo texto
-  está no Diário da República (diariodarepublica.pt) e **não** neste repositório. A lei
-  nacional pode ir além da diretiva quando a diretiva o permite.
+  transposição: está listada no `.contexto.md` (secção "Transposição em Portugal") e, quando
+  foi possível obtê-la, o texto está em `legislacao-pt/`. **Cita a lei portuguesa** quando a
+  pergunta é sobre o que uma empresa em Portugal tem de fazer, e a diretiva como origem.
+  A lei nacional pode ir além da diretiva quando a diretiva o permite.
+- **A lista de transposição é a que Portugal comunicou à Comissão** (dados do Cellar). Pode
+  incluir diplomas que só tocam o tema de lado, e pode faltar o diploma mais recente. Se o
+  ficheiro em `legislacao-pt/` diz `original (DRE)`, alterações posteriores **não** estão
+  incorporadas. Se diz `revogado`, procura no DRE o diploma que o substituiu.
+- **Diplomas de alteração** (sumário "Altera…"): no texto original, os artigos da lei
+  alterada que o diploma reproduz aparecem também como `### Artigo …`. Lê o artigo de
+  alteração que os introduz antes de concluir de que lei é cada artigo.
+- **Leis que aprovam um código em anexo** (ex.: `lei-7-2009.md`, Código do Trabalho): os
+  primeiros artigos são da lei de aprovação; os artigos do código vêm depois de
+  `## Anexo — CÓDIGO DO TRABALHO`. Confirma em que parte estás antes de citar "artigo N.º".
 - **Regulamentos aplicam-se directamente**, mas muitos deixam margem aos Estados-Membros
   (o próprio texto diz quando: "o direito do Estado-Membro pode…"). Nesses pontos, a
   resposta depende da lei portuguesa.
-- **Fiscalidade directa, segurança social, licenciamento, código do trabalho, taxas de
-  IVA concretas, prazos e procedimentos nacionais** são matéria nacional. A Diretiva IVA,
-  por exemplo, fixa regras e limites; as taxas portuguesas estão no Código do IVA.
+- **Fiscalidade directa, segurança social, licenciamento, taxas de IVA concretas, prazos e
+  procedimentos nacionais** são matéria nacional e, fora das leis de transposição, **não
+  estão aqui**. A Diretiva IVA, por exemplo, fixa regras e limites; as taxas portuguesas
+  estão no Código do IVA, que não foi descarregado.
 - **Textos consolidados não têm valor jurídico** (aviso oficial do EUR-Lex): fazem fé os
   textos publicados no Jornal Oficial. Para decisões com consequências, confirmar no
   JO através de `url_eurlex`.
@@ -77,6 +117,34 @@ Quando a resposta tiver consequências sérias (contratos, coimas, declarações
 colocação de produtos no mercado), diz claramente que é uma leitura do texto legal da UE
 e que a aplicação ao caso concreto, sobretudo onde entra lei nacional, deve ser validada
 por um profissional.
+
+## Particularidades de `ue/`
+
+- Ficheiros com `texto: … — em eng/fra/deu`: o Cellar não tem versão portuguesa (típico das
+  decisões sobre concentrações, só na língua do processo). Diz ao utilizador que leste o
+  texto noutra língua.
+- `texto: … — PDF`: texto extraído de PDF; quebras de linha e tabelas podem estar
+  desalinhadas.
+- `texto: sem texto no Cellar …`: só metadados. Nos artigos isolados dos Tratados (CELEX
+  como `12010E355`), lê a versão consolidada do Tratado respectivo.
+- `estado: futuro`: o acto já foi publicado mas ainda não está em vigor (`entrada_em_vigor`).
+- `estado: em vigor (por confirmar)`: pela data de entrada em vigor registada no Cellar já está em
+  vigor, mas o Cellar ainda não o marca como tal (costuma demorar uns dias), ou deixou de o marcar
+  sem indicar fim de validade. O motivo está em `nota_estado`. Diz ao utilizador que o estado
+  deve ser confirmado no EUR-Lex. Atenção: o Cellar regista datas de aplicação diferida como datas
+  de entrada em vigor; a nota indica as disposições que só se aplicam mais tarde.
+- Os ficheiros de `ue/` não têm considerandos separados nem contexto: nos textos originais o
+  preâmbulo vem na secção `## Preâmbulo`; nos consolidados não existe (está no JO).
+
+## Actualização automática
+
+`.github/workflows/actualizar.yml` corre às segundas-feiras: refaz o catálogo, descarrega os
+actos novos ou com nova versão consolidada, remove de `ue/` os que deixaram de vigorar (só com
+prova: data de fim de validade passada, ou marca "não em vigor" com mais de um ano), actualiza as
+leis portuguesas e o corpus curado, verifica a coerência dos dados (`ferramentas/verificar.py`) e
+faz commit. O que mudou e o resultado da verificação ficam em `ue/ALTERACOES.md`; se a
+verificação encontrar problemas graves, a execução falha no GitHub. Antes de responder sobre algo muito recente, vê a data do último commit
+ou o `obtido_em` do ficheiro.
 
 ## Convenções do texto convertido
 
@@ -102,7 +170,17 @@ python3 ferramentas/eurlex.py nucleo --so 32016R0679    # só um
 python3 ferramentas/eurlex.py obter 62014CJ0362 --area jurisprudencia --curto "Schrems"
 python3 ferramentas/eurlex.py catalogo                  # catálogo de tudo o que está em vigor
 python3 ferramentas/eurlex.py indice                    # regenerar corpus/INDICE.md
+python3 ferramentas/dre.py tudo                         # leis portuguesas (precisa de Node + Playwright)
+python3 ferramentas/completo.py listas && python3 ferramentas/completo.py descarregar && python3 ferramentas/completo.py converter   # tudo em vigor
+python3 ferramentas/completo.py actualizar              # só o que é novo ou mudou
+python3 ferramentas/indexar.py                          # índices (indice/, INDICE.md)
+python3 ferramentas/verificar.py                        # verificação de coerência (resultado em ue/ALTERACOES.md)
+python3 ferramentas/procurar.py construir               # índice de texto local (.cache/, não vai para o git)
 ```
+
+Para juntar uma lei portuguesa que não seja de transposição (ex.: execução de um
+regulamento), acrescenta-a a `ferramentas/dre_extra.yaml` com a fonte que confirma a
+relação, e corre `python3 ferramentas/dre.py tudo` e `python3 ferramentas/eurlex.py nucleo`.
 
 O script usa o Cellar (publications.europa.eu) com 1 s entre pedidos; só recorre ao site
 eur-lex.europa.eu quando o Cellar não tem o texto, e aí respeita os 10 s do robots.txt.

@@ -1,7 +1,7 @@
 ---
 celex: 31998L0006
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 31998L0006 — Indicação dos preços — contexto
@@ -14,9 +14,9 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 1999-05-13 — Decreto-lei n° 162-99 de 13 de Maio 1999 Diario de Republica n° 111 date 13/05/1999 n° de page 2543 (CELEX 71998L0006PRT_106663)
+- 1999-05-13 — Decreto-lei n° 162-99 de 13 de Maio 1999 Diario de Republica n° 111 date 13/05/1999 n° de page 2543 (CELEX 71998L0006PRT_106663) → não obtido do DRE: número não reconhecido (vazio)
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (4)
 

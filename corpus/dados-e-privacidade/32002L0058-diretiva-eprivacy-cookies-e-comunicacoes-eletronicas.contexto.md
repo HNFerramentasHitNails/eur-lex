@@ -1,7 +1,7 @@
 ---
 celex: 32002L0058
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32002L0058 — Diretiva ePrivacy (cookies e comunicações eletrónicas) — contexto
@@ -14,10 +14,10 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2004-08-18 — Assembleia da República Transpõe para a ordem jurídica nacional a Directiva n.º 2002/58/CE, do Parlamento Europeu e do Conselho, de 12 de Julho, relativa ao tratamento de dados pessoais e à protecção da privacidade no sector das comunicações electrónicas (CELEX 72002L0058PRT_30558)
-- 2004-01-07 — Decreto-Lei n° 7 de 7/1/2004 Diário da republica I Serie A n° 5 de 07/01/2004 p. 70 (SG(2004)A/1950 du 19/2/2004) (CELEX 72002L0058PRT_117425)
+- 2004-08-18 — Assembleia da República Transpõe para a ordem jurídica nacional a Directiva n.º 2002/58/CE, do Parlamento Europeu e do Conselho, de 12 de Julho, relativa ao tratamento de dados pessoais e à protecção da privacidade no sector das comunicações electrónicas (CELEX 72002L0058PRT_30558) → texto: [`legislacao-pt/lei-41-2004.md`](../../legislacao-pt/lei-41-2004.md) (consolidado (DRE))
+- 2004-01-07 — Decreto-Lei n° 7 de 7/1/2004 Diário da republica I Serie A n° 5 de 07/01/2004 p. 70 (SG(2004)A/1950 du 19/2/2004) (CELEX 72002L0058PRT_117425) → texto: [`legislacao-pt/decreto-lei-7-2004.md`](../../legislacao-pt/decreto-lei-7-2004.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (26)
 

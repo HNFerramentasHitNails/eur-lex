@@ -15,7 +15,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:12016M%2FT
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02016M%2FTXT-20250315
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Tratado 12016M/TXT — TUE

@@ -1,7 +1,7 @@
 ---
 celex: 32008D0768
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decisão 32008D0768 — Quadro comum de comercialização de produtos (marcação CE) — contexto

@@ -4,7 +4,7 @@ nome_curto: Igualdade de género no emprego
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32006L0054
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32006L0054 — Igualdade de género no emprego — considerandos

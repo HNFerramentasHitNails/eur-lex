@@ -1,7 +1,7 @@
 ---
 celex: 32025R0040
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32025R0040 — Regulamento Embalagens (PPWR) — contexto

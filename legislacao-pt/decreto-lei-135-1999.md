@@ -1,0 +1,937 @@
+---
+diploma: Decreto-Lei n.º 135/99
+tipo: Decreto-Lei
+numero: 135/1999
+data_publicacao: '1999-04-22'
+sumario: Define os princípios gerais de acção a que devem obedecer os serviços e organismos da Administração Pública na sua actuação face ao cidadão, bem como reúne de uma forma sistematizada as normas vigentes no contexto da modernização administrativa
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2024-02-07'
+transpoe:
+- 32022L2041
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-107547988
+eli: https://data.dre.pt/eli/dec-lei/135/1999/p/cons/20240207/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 135/99
+
+**Sumário:** Define os princípios gerais de acção a que devem obedecer os serviços e organismos da Administração Pública na sua actuação face ao cidadão, bem como reúne de uma forma sistematizada as normas vigentes no contexto da modernização administrativa
+
+**Comunicado à Comissão Europeia como transpondo:** 32022L2041 (Salários mínimos adequados).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2024-02-07. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-107547988
+
+## Texto
+
+Decreto-Lei n.º 135/99
+
+de 22 de Abril
+
+As exigências das sociedades modernas e a afirmação de novos valores sociais têm conduzido, um pouco por todo o mundo, ao aprofundamento da complexidade das funções do Estado e à correspondente preocupação de defesa dos direitos dos cidadãos e respeito pelas suas necessidades face à Administração Pública.
+
+A resposta pronta, correcta e com qualidade, que efective direitos e viabilize iniciativas, não se compadece com processos e métodos de trabalho anacrónicos e burocráticos, pouco próprios das modernas sociedades democráticas, que devem superar conflitos de valores da tradicional cultura administrativa, face às imposições dos actuais ritmos de vida e às aspirações cada vez mais exigentes do cidadão, cliente do serviço público.
+
+Como se reconhece no Programa do Governo, o resultado global da economia e do desenvolvimento social dependem, em grande parte, da interligação, complementaridade e cooperação entre sectores público, privado e social. Nesta óptica, tem o Governo vindo a desenvolver um esforço permanente de reforço das relações entre a Administração e a sociedade, aprofundando a cultura do serviço público, orientada para os cidadãos e para uma eficaz gestão pública que se paute pela eficácia, eficiência e qualidade da Administração.
+
+Criar um modelo de Administração Pública ao serviço do desenvolvimento harmonioso do País, das necessidades da sociedade em geral e dos cidadãos e agentes económicos em particular tem sido uma das preocupações permanentes da modernização administrativa, que se vem consubstanciando pela aproximação da Administração aos utentes, pela prestação de melhores serviços, pela desburocratização de procedimentos e pelo aumento de qualidade da gestão e funcionamento do aparelho administrativo do Estado.
+
+A dispersão das medidas e diplomas legais que têm vindo a ser publicados de há 20 anos a esta parte, em matéria de modernização administrativa, impõe ao Governo a decisão de racionalizar, sistematizar e inovar, num único diploma, as normas de âmbito geral aplicáveis à Administração Pública e aos seus agentes, por forma a facilitar o acesso às mesmas por parte dos seus destinatários e a torná-las mais conhecidas e transparentes ao cidadão, cliente do serviço público.
+
+Paralelamente, dos sistemas de audição de utentes já implantados e da vontade generalizada dos parceiros sociais resultou a necessidade de criar novos mecanismos de modernização administrativa que garantam uma maior aproximação da Administração aos cidadãos, bem como de rever e aperfeiçoar os sistemas internos de gestão, organização e funcionamento, de forma a melhorar a qualidade dos serviços prestados à colectividade e apostar numa clara cultura de serviço público que contribua, decisivamente, para o crescimento e desenvolvimento sócio-económico do País.
+
+Neste sentido, o presente diploma, além de acolher um conjunto de disposições legais inovadoras, sistematiza um conjunto de áreas fundamentais na relação cidadão-Administração, tão vastas e variadas como são o acolhimento e atendimento ao público, a comunicação administrativa, a simplificação de procedimentos, a audição dos utentes, os sistemas de informação para a gestão e a divulgação de informação administrativa.
+
+Foram ouvidos os órgãos de Governo próprios das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente diploma estabelece medidas de modernização administrativa, designadamente sobre:
+
+a) Acolhimento e atendimento dos cidadãos em geral e dos agentes económicos em particular e receção de pedidos através dos demais canais de comunicação existentes - digital, presencial, postal ou telefónico;
+
+b) Comunicação administrativa;
+
+c) Simplificação de procedimentos;
+
+d) Elogios, sugestões e reclamações dos utentes;
+
+e) Avaliação pelos utentes dos locais e linhas de atendimento ao público, bem como dos portais e sítios na Internet da Administração Pública;
+
+f) Sistema de informação para a gestão;
+
+g) «Linha do Cidadão».
+
+2 - O presente diploma aplica-se a todos os serviços da administração central, regional e local, bem como aos institutos públicos nas modalidades de serviços personalizados do Estado ou de fundos públicos.
+
+3 - A aplicação do presente diploma à administração regional faz-se sem prejuízo da possibilidade de os competentes órgãos introduzirem as adaptações necessárias.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 2.º — Princípios de acção
+
+Os serviços e organismos da Administração Pública estão ao serviço do cidadão e devem orientar a sua ação de acordo com o disposto no Código do Procedimento Administrativo, tendo em conta os princípios da qualidade, da proteção da confiança, da comunicação eficaz e transparente, da simplicidade, da responsabilidade e da gestão participativa, com vista a:
+
+a) Garantir que a sua atividade se orienta para a satisfação das necessidades dos cidadãos e dos agentes económicos, bem como assegurar a sua audição ou adequada participação, enquanto forma de melhorar os métodos e procedimentos;
+
+b) Aprofundar a confiança nos cidadãos em geral e nos agentes económicos em particular, valorizando as suas declarações e dispensando comprovativos, sem prejuízo de penalização dos infratores, bem como promovendo a obtenção oficiosa de informação já detida pela Administração Pública;
+
+c) Assegurar uma comunicação eficaz e transparente, através da divulgação das suas actividades, das formalidades exigidas, do acesso à informação, da cordialidade do relacionamento, bem como do recurso a novas tecnologias;
+
+d) Privilegiar a opção pelos procedimentos mais simples, cómodos, expeditos e económicos, sendo em regra o atendimento, bem como o desenrolar de todo e qualquer procedimento administrativo, realizado através de meios digitais, e o procedimento apresentado ao cidadão da forma mais simples possível, independentemente da complexidade da organização interna e interadministrativa;
+
+e) Adoptar procedimentos que garantam a sua eficácia e a assunção de responsabilidades por parte dos funcionários;
+
+f) Adoptar métodos de trabalho em equipa, promovendo a comunicação interna e a cooperação intersectorial, desenvolvendo a motivação dos funcionários para o esforço conjunto de melhorar os serviços e compartilhar os riscos e responsabilidades.
+
+g) Garantir a simplificação da linguagem administrativa de modo a facilitar o acesso aos serviços públicos e a sua usabilidade.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 3.º — Direitos dos utentes dos serviços públicos
+
+1 - Os serviços e organismos da Administração Pública, no âmbito das actividades exercidas ao abrigo do n.º 2 do artigo 2.º da Lei n.º 24/96, de 31 de Julho, devem adoptar as medidas adequadas a dar cumprimento ao disposto neste diploma, em especial no que respeita à qualidade dos bens e serviços, à protecção da saúde, da segurança física e dos interesses económicos dos cidadãos e à informação.
+
+2 - Os utentes do serviço público têm direito a solicitar, oralmente ou por qualquer forma escrita, incluindo por correio eletrónico ou por requerimento a apresentar no balcão único eletrónico ou em portais ou sítios na Internet dos serviços ou organismos competentes, informação sobre o andamento dos procedimentos administrativos que lhes digam respeito.
+
+3 - A consulta, nos termos da lei, do processo administrativo e da informação sobre o seu andamento, deve, sempre que possível, ser assegurada aos interessados de forma digital.
+
+4 - Em cada procedimento administrativo, é designado um gestor do procedimento, responsável por dar resposta aos esclarecimentos solicitados relativos ao seu andamento, cuja identificação e contacto são obrigatoriamente facultados aos utentes.
+
+5 - É dispensada a designação do gestor do procedimento administrativo sempre que a atividade administrativa solicitada através de requerimento apresentado pelo interessado seja de execução automática ou imediata.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 4.º — Medidas de modernização administrativa
+
+1 - Os diplomas legais e regulamentares editados pelo Governo, que consagrem medidas tendentes à criação, modificação ou extinção de procedimentos ou de formalidades, nomeadamente de simplificação, de desburocratização, de melhoria dos serviços prestados, de inovação tecnológica e facilidades de acesso à informação administrativa, devem conter no respectivo preâmbulo a menção do objectivo a atingir com a concretização das referidas medidas de modernização administrativa.
+
+2 - A nota justificativa que acompanha os projectos de diplomas acima referidos, no que diz respeito aos aspectos mencionados no número anterior, deve fazer menção expressa ao impacte das medidas legislativas propostas, bem como de estudo prévio de impacte de custos, quando as mesmas possam ter repercussões de ordem económica.
+
+3 - Os diplomas referidos no n.º 1 devem designar obrigatoriamente um serviço ou organismo responsável pelo acompanhamento e avaliação da execução das medidas aprovadas.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 5.º — Deferimento tácito
+
+Para além das situações previstas no n.º 3 do artigo 108.º do Código do Procedimento Administrativo, os serviços públicos devem propor aos órgãos competentes o elenco de outros casos de prática de actos administrativos ou do exercício de direitos pelos cidadãos que, dependendo de aprovação ou de autorização administrativa, possam, sem prejuízo do interesse público, ser objecto de deferimento tácito, através de consagração legal.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+## Capítulo II — Acolhimento e atendimento dos cidadãos
+
+### Artigo 6.º — Horários de atendimento
+
+1 - Os serviços ou organismos que tenham atendimento ao público devem praticar um horário contínuo que abranja sempre o período da hora do almoço, salvo se estiverem autorizados pelo respectivo membro do Governo a praticar outro diferente.
+
+2 - A prática do horário contínuo não prejudica o período legalmente fixado de duração de trabalho diário dos respectivos trabalhadores.
+
+3 - Em todos os locais de acolhimento e atendimento de público deve estar afixado, por forma bem visível, o respectivo horário de funcionamento e atendimento.
+
+### Artigo 7.º — Acolhimento e atendimento
+
+1 - Sempre que a dimensão do serviços públicos o justifique, na entrada a que os utentes tenham acesso, deve permanecer um funcionário conhecedor da sua estrutura e competências genéricas e com qualificação em atendimento de público, que encaminhe os interessados e preste as primeiras informações.
+
+2 - O espaço principal de acolhimento, recepção ou atendimento deve ter:
+
+a) Afixada informação sobre os locais onde são tratados os diversos assuntos;
+
+b) Afixada a tabela dos preços dos bens ou serviços fornecidos;
+
+c) Afixado o organograma do serviço, em que sejam inscritos os nomes dos dirigentes e chefias respectivos;
+
+d) Assinalada a existência de linhas de atendimento telefónico ao público;
+
+e) Brochuras, desdobráveis, guias ou outros meios de divulgação de actividades e respectivas formalidades.
+
+3 - O local onde é prestado o serviço público de atendimento ao cidadão e ao agente económico deve apresentar as necessárias condições de salubridade, segurança de pessoas e bens, acessibilidade e conforto mínimo para os utentes, possuir um sistema de gestão do atendimento adequado e, sempre que possível, disponibilizar acesso livre à Internet de banda larga sem fios.
+
+4 - Salvo casos excepcionais, devidamente autorizados pelo membro do Governo responsável, o atendimento deve ser personalizado, isto é, em secretária individual, removendo-se os balcões e postigos, e os funcionários que o efectuem devem estar identificados.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 8.º — Prestação imediata de serviços
+
+Sempre que a natureza do serviço solicitado pelo cidadão o permita, a sua prestação deve ser efectuada no momento.
+
+### Artigo 9.º — Prioridades no atendimento
+
+1 - (Revogado).
+
+2 - Sem prejuízo do disposto no número anterior ou em legislação especial aplicável, os portadores de convocatórias ou os utentes com marcação prévia, feita nomeadamente por telefone ou online, têm prioridade no atendimento junto do serviço público para o qual foram convocados ou junto do qual procederam à marcação prévia.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 58/2016 - Diário da República n.º 165/2016, Série I de 2016-08-29, em vigor a partir de 2016-12-27
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 10.º — Especialização dos atendedores
+
+1 - Os trabalhadores em funções públicas com funções ligadas ao acolhimento e atendimento de utentes devem ter uma formação específica no domínio das relações humanas e das competências do respetivo serviço, de forma a ficarem habilitados a prestar diretamente as informações solicitadas ou a encaminhar os utentes para os postos de trabalho adequados.
+
+2 - Se a solicitação dos utentes for feita por telefone, deve o receptor identificar-se através do nome e da função que desempenha.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+## Capítulo III — Comunicação administrativa
+
+### Artigo 11.º — Linhas de atendimento telefónico
+
+1 - Nos serviços e organismos da Administração Pública, onde as circunstâncias o justifiquem, são afectadas exclusivamente a pedidos de informação apresentados pelos utentes, uma ou mais linhas telefónicas, designadas por linhas azuis, cuja instalação e manutenção deve ser prioritária.
+
+2 - As linhas azuis devem ser adaptadas ou instaladas de modo a não permitir a realização de chamadas internas ou para o exterior, garantindo assim a sua total disponibilidade para o público.
+
+3 - As linhas azuis devem ser apetrechadas com um dispositivo especial para atendimento de chamadas por ordem de entrada, bem como para a sua gravação, nos períodos de encerramento dos serviços, para posterior resposta.
+
+4 - Sempre que possível e se justifique, o serviço deve ponderar a instalação de linhas de atendimento específico de custos reduzidos ou nulos para o utente.
+
+5 - A existência destas linhas de atendimento é de referência obrigatória em todas as comunicações e suportes informativos externos, bem como nos anuários telefónicos.
+
+6 - Sempre que possível e adequado, os sistemas de atendimento telefónico aos cidadãos devem ser alargados de forma a poder incluir comunicações por chat em plataformas eletrónicas ou por teleconferência, nomeadamente através de VoIP.
+
+7 - As comunicações referidas no número anterior dependem de consentimento do cidadão.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 11.º-A — Linha do Cidadão
+
+1 - É criada uma linha de atendimento central do cidadão, designada por «Linha do Cidadão», constituída por um número curto e facilmente memorizável, atribuí-do nos termos do Plano Nacional de Numeração.
+
+2 - A «Linha do Cidadão» permite ao cidadão, através da marcação de um número único, ter acesso ao universo dos serviços públicos prestados pela Administração Pública Central que tenham serviços de atendimento telefónico nacionais.
+
+3 - Através de resolução do Conselho de Ministros, são identificadas as linhas de atendimento telefónico da Administração Pública que se filiam na «Linha do Cidadão», e são regulados os termos dessa filiação, a entrada em funcionamento da «Linha do Cidadão» e a sua gestão.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 12.º — Encaminhamento de utentes e correspondência
+
+1 - Toda a correspondência entregue em mão, em qualquer edifício afecto à Administração, é obrigatoriamente recebida e encaminhada para os serviços respectivos pela unidade de recepção.
+
+2 - Os serviços públicos remetem, directa e oficiosamente, toda a correspondência que lhes for indevidamente endereçada para as entidades e serviços competentes, informando os interessados.
+
+3 - Os serviços procedem ao esclarecimento ou encaminhamento dos utentes que, presencialmente ou por telefone, lhes apresentem assuntos da competência de outros serviços ou entidades públicas.
+
+### Artigo 13.º — Formalidades administrativas
+
+1 - Os serviços e organismos da Administração Pública devem facultar aos respectivos utentes os formulários e os valores selados necessários à instrução dos seus processos, de modo a evitar que o público tenha de se deslocar para os adquirir.
+
+2 - Os serviços e organismos devem proceder à sinalização do local de venda de formulários e valores selados necessários à respectiva actividade.
+
+3 - Só podem ser exigidos formulários, formalidades ou pagamentos que sejam expressamente mencionados em lei ou regulamento, devendo cada serviço proceder à sua simplificação em termos de quantidade e de conteúdo, bem como generalizar o uso de suportes em papel pré-impresso.
+
+### Artigo 13.º-A — Simplificação de procedimentos administrativos
+
+1 - Na instrução de procedimentos administrativos para os quais sejam legalmente exigidos modelos específicos em suporte de papel devem, em alternativa, também ser adotados formulários ou modelos disponibilizados eletronicamente.
+
+2 - Os formulários ou os modelos referidos no número anterior devem estar acessíveis nos sítios da Internet das entidades que, nos termos da lei, sejam responsáveis pela sua disponibilização em suporte de papel ou, em alternativa, ser emitidos através de aplicações informáticas facultadas por aquelas ou por outras entidades autorizadas para o efeito.
+
+3 - É admissível a realização de determinados atos no âmbito dos procedimentos administrativos através da rede pública de caixas automáticas ou de terminais dedicados a pagamentos, os quais devem ser amplamente divulgados, designadamente através da sua publicitação no sítio da Internet do serviço competente.
+
+4 - As notificações realizadas no âmbito dos procedimentos administrativos podem ser efetuadas por via eletrónica, nos termos do Código do Procedimento Administrativo ou de lei especial.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+> Aditado pelo/a Artigo 81.º do/a Decreto-Lei n.º 72-A/2010 - Diário da República n.º 117/2010, 1º Suplemento, Série I de 2010-06-18, em vigor a partir de 2010-06-19
+
+### Artigo 14.º — Suportes de comunicação administrativa
+
+1 - Os suportes de comunicação administrativa escrita, de natureza externa, devem sempre referir, para além da designação oficial do serviço sem siglas, o endereço postal, os números de telefone e fax, o endereço de correio eletrónico e o sítio na Internet do respetivo emissor.
+
+2 - As comunicações referidas no número anterior devem sempre identificar os trabalhadores em funções públicas ou titulares dos órgãos subscritores das mesmas e em que qualidade o fazem.
+
+3 - A identificação faz-se mediante assinatura ou rubrica, com indicação do nome e cargo exercido, de forma adequada para o efeito.
+
+4 - Quando nas comunicações dirigidas aos cidadãos se faça referência a disposições de caráter normativo ou a circulares internas da Administração, é obrigatório transcrever a parte que é relevante para o andamento ou resolução do processo ou anexar-se cópia digital ou em papel do documento que a consubstancia.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 15.º — Convocatórias e avisos
+
+1 - Só devem ser feitas convocatórias ou avisos aos cidadãos desde que esgotadas outras diligências que permitam resolver as questões sem incómodos, perdas de tempo e gastos provocados pela deslocação dos interessados.
+
+2 - Nas convocatórias ou avisos dirigidos aos cidadãos ou entidades, o assunto objecto dos mesmos deve ser descrito de forma simples e elucidativa, considerando-se inexistentes as que contenham referências vagas, nomeadamente «assunto do seu interesse», «processo pendente» ou similares.
+
+3 - As convocatórias devem marcar a data de comparência com uma antecedência mínima de oito dias úteis e referir expressamente o dia, a hora e o local exacto de atendimento e, sempre que possível, o nome do funcionário a contactar.
+
+### Artigo 16.º — Redacção de documentos
+
+Na redacção dos documentos, designadamente de formulários, ofícios, minutas de requerimentos, avisos, convocatórias, certidões e declarações, em especial na comunicação com os cidadãos, deve usar-se linguagem simples, clara, concisa e significativa, sem siglas, termos técnicos ou expressões reverenciais ou intimidatórias.
+
+### Artigo 17.º — Modelos de requerimento
+
+1 - Nas minutas e nos modelos de requerimento só devem constar os dados indispensáveis, nos termos do Código do Procedimento Administrativo, ficando vedada a exigência de elementos que não se destinem a ser tratados ou não acrescentem informação relevante à já existente no serviço ou que conste dos documentos exigidos.
+
+2 - As minutas e os modelos de requerimentos e formulários devem respeitar os princípios e orientações de normalização e incluir instruções de preenchimento simples e suficientes.
+
+3 - A identificação das pessoas, singulares ou coletivas, faz-se de acordo com o disposto no Código do Procedimento Administrativo, sem prejuízo de ser completada por um ou dois de entre os seguintes meios de confirmação, de acordo com a exigência da situação:
+
+a) Número do documento de identificação civil ou passaporte e sua validade;
+
+b) Número de identificação fiscal e sua validade;
+
+c) Número de identificação de entidade equiparada a pessoa colectiva e sua validade;
+
+d) Número de identificação de empresário em nome individual e sua validade;
+
+e) Número de identificação de estabelecimento individual de responsabilidade limitada e sua validade;
+
+f) Número de contribuinte ou de beneficiário de sistema ou subsistema de segurança social e sua validade.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 18.º — Pedido de documentos
+
+1 - A emissão de certidões, atestados e outros actos meramente declarativos deve efectuar-se mediante requerimento oral ou escrito, designadamente telefónico, electrónico ou por fax.
+
+2 - Nos casos em que o requerimento seja feito oralmente, será lavrado, se necessário, registo do pedido formulado, do qual constem os elementos necessários, que será assinado e datado pelo funcionário que receber o pedido.
+
+### Artigo 19.º — Recepção de documentos
+
+1 - Sempre que solicitado, é emitido recibo comprovativo da receção de documentos ou de cópia simples, em suporte digital ou de papel, dos mesmos, no qual se inscreve a data e hora de entrega, se esta for relevante para o efeito, bem como a sua descrição.
+
+2 - Quando da formulação dos pedidos a que se referem os artigos 17.º e 18.º não constarem todos os elementos neles exigidos, o requerente será convidado a suprir as deficiências existentes, devendo os serviços fazê-lo por escrito, preferencialmente através de meios eletrónicos, se o interessado o solicitar.
+
+3 - Sem prejuízo do disposto no número anterior, devem os serviços diligenciar no sentido de oficiosamente serem supridas as deficiências dos requerimentos ou pedidos, de modo a evitar aos interessados prejuízos por simples irregularidades ou mera imperfeição dos pedidos.
+
+4 - O recibo comprovativo referido no n.º 1 é emitido automaticamente no caso de entrega de documentos através do balcão único eletrónico ou dos portais ou sítios na Internet dos serviços ou organismos competentes.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 20.º — Restituição de documentos
+
+1 - Sempre que possível, a comprovação de declarações ou de factos faz-se pela simples exibição de documentos, os quais, após anotação ou confirmação dos dados deles constantes, nos termos do artigo 32.º do presente diploma, são restituídos aos interessados ou aos seus representantes, preferencialmente no acto de apresentação ou por remessa postal, se a primeira solução não for viável.
+
+2 - Nos casos em que a análise dos processos torne indispensável a permanência temporária de documentos probatórios, podem estes, depois de decorridos os prazos de recurso contencioso a eles inerentes, ser devolvidos, mediante solicitação, ainda que verbal, e contra recibo do interessado.
+
+3 - Só são retidos os documentos que permanentemente sejam necessários nos processos, sendo prestada esta informação por escrito sempre que solicitada.
+
+### Artigo 21.º — Remessa de documentos
+
+1 - Sempre que sejam produzidas certidões, atestados ou outros atos meramente declarativos, destinados aos cidadãos, devem os serviços facultar a opção de disponibilização ou remessa por via eletrónica ou por via postal.
+
+2 - A remessa postal referida no número anterior pode ser feita com registo ou aviso de recepção, a pedido do interessado e a expensas deste.
+
+3 - A cobrança de importâncias devidas pela prestação de serviços, nomeadamente os que se concretizam pela remessa postal de documentos, pode efectuar-se através dos correios.
+
+4 - Quando os serviços e organismos não possam entregar no ato do requerimento documentos que lhes sejam solicitados, podem os interessados optar pela sua disponibilização ou remessa por via eletrónica ou por via postal.
+
+5 - A faculdade de opção referida nos n.os 1 e 4 deve ser publicitada aos utentes de forma clara nos locais de atendimento.
+
+6 - As comunicações por via eletrónica previstas no presente artigo são gratuitas.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 22.º — Comunicações escritas na Administração
+
+1 - Nas comunicações escritas internas e externas, deve a Administração Pública adotar o meio mais económico e sustentável que para cada caso se revele eficaz, nomeadamente a utilização de papel reciclado.
+
+2 - Nas comunicações escritas internas da Administração Pública, incluindo os casos de comunicações entre órgãos e entidades distintas, devem preferencialmente ser utilizados meios eletrónicos, salvo quando tal utilização seja impossível, ineficiente ou outras razões de fundado interesse público o justifiquem.
+
+3 - Nas comunicações escritas externas da Administração Pública são utilizados preferencialmente meios eletrónicos nos termos do n.º 4 do artigo 13.º-A e demais legislação aplicável.
+
+4 - Os serviços devem elaborar modelos de requerimentos, relativos aos principais assuntos da sua competência, que facultam aos interessados no balcão único eletrónico e ou no seu sítio na Internet, bem como nos locais apropriados, em papel de formato A4 ou A5.
+
+5 - Nas relações com os utentes, devem os serviços aceitar qualquer meio bastante de identificação pessoal ou de prova, minorando, sempre que possível, a exigência de formalidades.
+
+6 - Com vista a acelerar o processo de decisão, devem os serviços proceder às necessárias consultas mútuas, para obtenção de declarações, atestados, certidões e outros elementos ou informações já detidos pela Administração Pública, através da plataforma de interoperabilidade da Administração Pública (iAP), de correio eletrónico, telefone, fax ou outros meios eletrónicos, nomeadamente através dos sítios na Internet dos serviços, sem prejuízo de ulterior confirmação quando estritamente indispensável.
+
+7 - Na elaboração dos processos, devem os serviços evitar a solicitação de pareceres e despachos internos sempre que tais formalidades se afigurem redundantes ou que não carreiem qualquer substância à formulação da decisão.
+
+8 - Os dirigentes dos serviços devem promover o mecanismo da delegação e subdelegação de competências e de assinatura da correspondência ou de expediente necessária à mera instrução dos processos, em diferentes níveis da hierarquia, se possível, no próprio posto de execução, mencionando o nome, cargo do delegante ou subdelegante e a qualidade em que assina.
+
+9 - Os serviços devem informar por escrito os utentes da previsão do tempo de resposta sempre que para o assunto apresentado, oralmente ou por escrito, se afigure prazo de resolução superior a um mês.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 23.º — Identificação dos intervenientes nos processos administrativos
+
+1 - Os documentos escritos que constituem os processos administrativos internos, bem como todos os despachos e informações que sobre eles forem exarados, devem sempre identificar os trabalhadores em funções públicas seus subscritores e a qualidade em que o fazem, sem prejuízo do disposto na parte final do n.º 8 do artigo anterior.
+
+2 - A identificação faz-se mediante assinatura e indicação do nome e do cargo, exarados por forma adequada ao efeito.
+
+3 - O disposto nos números anteriores é aplicável aos despachos dos membros do Governo.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 24.º — Comunicações com os serviços públicos
+
+1 - Sempre que uma pessoa, singular ou coletiva, se dirija por escrito a qualquer serviço público, designadamente nos requerimentos, petições ou recursos, e não recorra a meios eletrónicos para o efeito, devem ser utilizadas folhas de papel normalizadas, brancas ou de cores pálidas, de formato tipo A4 ou A5.
+
+2 - O disposto no número anterior não se aplica às queixas e reclamações apresentadas através do livro de reclamações.
+
+3 - Os suportes referidos no n.º 1 podem incluir elementos identificadores da pessoa, singular ou colectiva, nomeadamente sigla, logótipo, endereço ou referências de telecomunicações.
+
+4 - Salvo no caso dos atos a que se refere o n.º 2, não é permitida a recusa de aceitação ou tratamento de documentos de qualquer natureza com fundamento na inadequação dos suportes em que estão escritos, desde que não fique prejudicada a sua legibilidade.
+
+5 - Os serviços públicos devem facultar gratuitamente aos utentes que o solicitem os suportes de escrita referidos no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 25.º — Comunicações informáticas
+
+1 - [Revogado].
+
+2 - Na transferência de informação através de meios eletrónicos deve ser assegurada a autenticidade da informação e da identidade dos seus emissores por meios adequados.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 26.º — Correio eletrónico e balcão único eletrónico
+
+1 - Os serviços e organismos da Administração Pública devem disponibilizar um endereço de correio electrónico para efeito de contacto por parte dos cidadãos e de entidades públicas e privadas e divulgá-lo de forma adequada, bem como assegurar a sua gestão eficaz.
+
+2 - A correspondência transmitida por via electrónica tem o mesmo valor da trocada em suporte de papel, devendo ser-lhe conferida, pela Administração e pelos particulares, idêntico tratamento.
+
+3 - Os requerimentos apresentados pelos utentes dos serviços públicos devem ser preferencialmente entregues através do balcão único eletrónico ou do respetivo portal ou sítio na Internet.
+
+4 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+## Capítulo IV — Simplificação de procedimentos
+
+### Artigo 27.º — Delegação e subdelegação de competências
+
+Todos os serviços adoptarão, nos termos legais aplicáveis, mecanismos de delegação e subdelegação de competências que propiciem respostas céleres às solicitações dos utentes e proporcionem um pronto cumprimento de obrigações e uma gestão mais célere e desburocratizada.
+
+### Artigo 27.º-A — Sistema Informático para a Emissão de Pareceres
+
+1 - Todos os pedidos de pareceres a entidades integradas na Administração Pública, a empresas públicas ou a concessionárias são obrigatoriamente apresentados através do Sistema Informático para a Emissão de Pareceres.
+
+2 - São consideradas entidades integradas na Administração Pública as previstas no n.º 2 do artigo 4.º do CPA.
+
+3 - Os pareceres são obrigatoriamente enviados à entidade que os solicitou através do Sistema Informático para a Emissão de Pareceres.
+
+4 - O Sistema Informático para a Emissão de Pareceres não permite o envio de pareceres quando o prazo para a sua emissão se tenha esgotado.
+
+5 - O Sistema Informático para a Emissão de Pareceres deve ser interoperável com os sistemas informáticos utilizados pelas entidades obrigatoriamente abrangidas pela sua utilização.
+
+6 - O Sistema Informático para a Emissão de Pareceres é desenvolvido e mantido pela AMA, I. P., que é também competente para a divulgação e formação para a utilização do mesmo, bem como para a gestão de todo o processo de mudança necessário à plena utilização do sistema por todas as entidades abrangidas.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08, em vigor a partir de 2024-03-04
+
+> Nota: Artigo 26.º, Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08 A obrigação de solicitar e emitir pareceres através do Sistema Eletrónico para a Emissão de Pareceres entra em vigor a 6 de janeiro de 2025.
+
+### Artigo 28.º — Certificação multiuso
+
+1 - Os atestados, certidões, certificações ou qualquer outro tipo de documento destinado a declarar ou a fazer prova de quaisquer factos podem, durante o seu prazo de validade, ser utilizados em diferentes serviços ou com distintas finalidades.
+
+2 - Para obtenção dos documentos referidos no número anterior, é irrelevante a indicação dos fins a que se destinam.
+
+3 - Exceptuam-se do disposto nos números anteriores os documentos que sejam solicitados expressamente para fins específicos e, pelos quais, dado o seu carácter social, sejam cobradas quantias reduzidas, a título de emolumentos.
+
+4 - Nos termos do Decreto-Lei n.º 174/97, de 19 de Julho, os atestados de incapacidade podem ser utilizados para todos os fins legalmente previstos, adquirindo uma função multiuso, devendo todas as entidades públicas ou privadas, perante quem sejam exibidos, devolvê-los aos interessados ou seus representantes, após a notação de conformidade com o original, aposta em fotocópia simples.
+
+### Artigo 28.º-A — Dispensa de apresentação de documentos
+
+1 - Os cidadãos e agentes económicos são dispensados da apresentação dos documentos em posse de qualquer serviço e organismo da Administração Pública, quando derem o seu consentimento para que a entidade responsável pela prestação do serviço proceda à sua obtenção.
+
+2 - Os serviços e organismos da Administração Pública devem assegurar, entre si, a partilha de dados e ou documentos públicos necessários a um determinado processo ou prestação de serviços, em respeito pelas regras relativas à proteção de dados pessoais.
+
+3 - Deve ser promovida a criação de certidões permanentes online ou mecanismos de consulta de dados eletrónicos por via da plataforma iAP, reduzindo-se ao mínimo a necessidade de entrega de documentos instrutórios por parte dos cidadãos.
+
+4 - Sem prejuízo do disposto em lei especial, as taxas, emolumentos ou outros encargos devidos pela correspondente atividade administrativa dos serviços e organismos da Administração que disponibilizem documentos ou informação nos termos dos números anteriores, são cobrados pelo serviço ou organismo ao qual foi dado consentimento para a obtenção oficiosa desses documentos ou informações.
+
+5 - Compete ao serviço ou organismo a transferência dos montantes recebidos nos termos do número anterior para os serviços e organismos que, nos termos da lei, os devam cobrar.
+
+6 - Quando haja lugar à cobrança referida no número anterior, é transmitida ao utente a discriminação de todas as taxas, emolumentos ou outros encargos que sejam devidos, bem como dos atos, formalidades, documentos ou outros bens a que dizem respeito.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 28.º-B — Certificação de deferimentos tácitos e de comunicação prévia com prazo sem pronúncia da entidade competente
+
+1 - Os interessados podem solicitar à entidade designada por despacho do membro do Governo responsável pela área da modernização administrativa a passagem de certidão que ateste a ocorrência de qualquer deferimento tácito ou outro tipo de efeitos positivos associados à ausência de resposta das entidades competentes, à luz do Código do Procedimento Administrativo ou de qualquer outra lei ou regulamento, independentemente da natureza da entidade competente para a prática do ato.
+
+2 - A passagem da certidão referida no número anterior depende de:
+
+a) Entrega de cópia digitalizada do requerimento inicial;
+
+b) Formação de deferimento tácito ou ocorrência de outros efeitos positivos associados ao silêncio das entidades competentes.
+
+3 - A entidade designada por despacho do membro do Governo responsável pela área da modernização administrativa, de forma imediata, eletrónica e automática, assim que o pedido é recebido, solicita, através de transmissão eletrónica de dados, ao ministério ou à pessoa coletiva competente para a prática do ato administrativo que esta informe se foi notificado ato expresso e que, caso exista, faça prova do mesmo e da respetiva notificação, através da inserção da informação em plataforma de verificação de deferimentos tácitos disponível a partir do portal único de serviços.
+
+4 - Para o efeito previsto no número anterior, os ministérios e pessoas coletivas públicas recebem um email enviado para o seu endereço de correio eletrónico institucional com o aviso constante do anexo i do presente decreto-lei e do qual faz parte integrante.
+
+5 - A entidade designada por despacho do membro do Governo responsável pela área da modernização administrativa emite a referida certidão no prazo de oito dias úteis após a receção do pedido se:
+
+a) Estiverem reunidos os requisitos para a formação de deferimento tácito à luz das normas aplicáveis; e
+
+b) O ministério, a pessoa coletiva ou o órgão competente para a prática do ato administrativo:
+
+i) Confirmar que não notificou ato expresso;
+
+ii) Não se pronunciar no prazo de três dias úteis após a receção do pedido de informação previsto no n.º 3; ou
+
+iii) Não apresentar fundamentos suficientes para obstar ao reconhecimento da formação do deferimento tácito.
+
+6 - Para efeitos da subalínea iii) da alínea b) do número anterior, são fundamentos suficientes para obstar ao reconhecimento da formação do deferimento tácito:
+
+a) O não decurso do prazo necessário para a formação do deferimento tácito; ou
+
+b) A existência de ato expresso de indeferimento aprovado e notificado no prazo legalmente estabelecido.
+
+7 - A falta de pagamento de taxas não impede o reconhecimento da formação de deferimento tácito ou a ocorrência de outros efeitos positivos associados ao silêncio das entidades competentes.
+
+8 - A certidão emitida deve observar o modelo constante do anexo ii do presente decreto-lei e do qual faz parte integrante.
+
+9 - O procedimento previsto no presente artigo é integralmente tramitado a partir do portal único de serviços, incluindo designadamente:
+
+a) A apresentação do pedido;
+
+b) A emissão de recibo do pedido;
+
+c) O pedido de informação ao ministério ou pessoa coletiva competente sobre a existência de ato expresso e respetiva resposta;
+
+d) A emissão da certidão; e
+
+e) Todas as notificações e comunicações entre a entidade designada por despacho do membro do Governo responsável pela área da modernização administrativa e o interessado.
+
+10 - A certidão prevista neste artigo é gratuita, não sendo por ela devido o pagamento de qualquer taxa.
+
+11 - A formação do deferimento não depende da obtenção do certificado previsto no presente artigo e pode ser feita valer junto de todas as entidades independentemente da obtenção do mesmo.
+
+12 - O disposto no presente artigo não prejudica a possibilidade de declarar a nulidade, anular ou revogar o ato resultante de deferimento tácito, nos termos da lei.
+
+> Aditado pelo/a Artigo 31.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01
+
+> Nota: Declaração de Retificação n.º 7-A/2023 - Diário da República n.º 42/2023, 2º Suplemento, Série I de 2023-02-28 retifica a data de produção de efeitos do presente artigo, aditado pelo Decreto-Lei n.º 11/2023, de 10 de fevereiro, de 2023-03-01 para 2024-01-01.
+
+### Artigo 29.º — Respostas por meios eletrónicos e via postal sem franquia
+
+Quando for necessário recolher informação que dispense a presença do utente pode ser-lhe enviado documento pedindo o preenchimento de formulário para reenvio por meios eletrónicos ou por carta ou postal de resposta sem franquia, devidamente autorizada.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 30.º — Meios automáticos de pagamento
+
+1 - Os pagamentos devidos à Administração Pública devem poder ser efectuados através da rede pública de caixas automáticas ou de terminais dedicados a pagamentos, em condições a acordar com as entidades gestoras de sistemas de transferência electrónica de fundos, com salvaguarda do registo das operações.
+
+2 - Os serviços públicos devem fomentar a utilização progressiva de meios automáticos e electrónicos de pagamentos devidos à Administração Pública, com vista à substituição da exigência do cheque visado.
+
+3 - Sempre que possível, a Administração Pública deve permitir igualmente pagamentos por transferência bancária, com salvaguarda do registo adequado das operações.
+
+4 - O pagamento de serviços públicos prestados por meios eletrónicos deve ser efetuado preferencialmente através da Plataforma de Pagamentos da Administração Pública (PPAP).
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 31.º — Dispensa do reconhecimento de assinatura
+
+1 - Nos termos dos artigos 1.º e 2.º do Decreto-Lei n.º 250/96, de 24 de Dezembro, encontram-se abolidos os reconhecimentos notariais de letra e assinatura, ou só de assinatura, feitos por semelhança e sem menções especiais relativas aos signatários.
+
+2 - A exigência em disposição legal de reconhecimento por semelhança ou sem determinação de espécie considera-se substituída pela indicação, feita pelo signatário, do número, data e entidade emitente do respectivo bilhete de identidade ou documento equivalente, emitido pela autoridade competente de um dos países da União Europeia ou do passaporte.
+
+### Artigo 32.º — Dispensa dos originais dos documentos
+
+1 - Para a instrução de procedimentos administrativos é suficiente a cópia simples, em suporte digital ou de papel, de documento autêntico ou autenticado, sem prejuízo do número seguinte.
+
+2 - Pode ser exigida a exibição de original ou documento autenticado nos casos em que tal resulte de lei especial ou, para conferência, quando haja dúvidas fundadas acerca do conteúdo ou autenticidade da cópia simples, devendo para o efeito ser fixado um prazo razoável não inferior a cinco dias úteis.
+
+3 - No caso previsto no número anterior, o trabalhador em funções públicas declara a sua conformidade com o original, mediante aposição da sua rubrica na cópia simples ou mediante declaração em documento autónomo.
+
+4 - Se o documento autêntico ou autenticado constar de arquivo de serviço público, a conformidade da respetiva cópia simples com o original decorre:
+
+a) Automaticamente, de menção expressa no próprio documento, quando este seja originariamente digital; ou
+
+b) De declaração de conformidade do dirigente competente do respetivo arquivo, através de assinatura na cópia simples, ou em documento autónomo.
+
+5 - As cópias simples de documentos, reconhecidas nos termos dos números anteriores, não produzem fé pública.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 29/2000 - Diário da República n.º 61/2000, Série I-A de 2000-03-13, em vigor a partir de 2000-05-01
+
+### Artigo 33.º — Substituição do atestado de residência pelo cartão de eleitor
+
+1 - O atestado de residência para instrução de processos administrativos, quando legalmente exigido, é substituído pela apresentação do cartão de cidadão ou de quaisquer outros elementos que sejam adequados a demonstrar inequivocamente a residência do cidadão.
+
+2 - Quando a entrega da documentação necessária à instrução dos processos referidos no artigo anterior for feita pelo interessado ou por outrem, deve o trabalhador em funções públicas que a receber confirmar através de documento de identificação civil ou documento equivalente a assinatura do cidadão.
+
+3 - No caso de envio de documentação por via eletrónica ou através dos serviços de correio, o interessado deve juntar ao processo cópia de documento de identificação civil.
+
+4 - Em caso de dúvida quanto à veracidade das declarações, os serviços devem promover oficiosamente a confirmação dos dados relativos à residência, junto das juntas de freguesia respectivas.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 34.º — Atestados emitidos pelas juntas de freguesia
+
+1 - Os atestados de residência, vida e situação económica dos cidadãos e os termos de identidade e justificação administrativa passados pelas juntas de freguesia nos termos das alíneas qq) e rr) do n.º 1 do artigo 16.º da Lei n.º 75/2013, de 12 de setembro, são emitidos desde que qualquer dos membros do respetivo executivo ou da assembleia de freguesia tenha conhecimento direto dos factos a atestar, ou quando a prova desses factos seja feita por testemunho oral ou escrito de dois cidadãos eleitores recenseados na freguesia ou ainda por outro meio legalmente admissível, nomeadamente testemunho oral ou escrito do técnico ou assistente social da área onde o cidadão pernoita, no caso de se tratar de atestado requerido por pessoa em situação de sem-abrigo.
+
+2 - Nos casos de urgência, o presidente da junta de freguesia pode passar os atestados a que se refere este diploma, independentemente de prévia deliberação da junta.
+
+3 - Não está sujeita a forma especial a produção de qualquer das provas referidas, devendo, quando orais, ser reduzidas a escrito pelo funcionário que as receber e confirmadas mediante assinatura de quem as apresentar.
+
+4 - As falsas declarações são punidas nos termos da lei penal.
+
+5 - A certidão, relativa à situação económica do cidadão, que contenha referência à sua residência faz prova plena desse facto e dispensa a junção no mesmo processo de atestado de residência ou cartão de eleitor.
+
+6 - As certidões referidas no número anterior podem ser substituídas por atestados passados pelo presidente da junta.
+
+7 - A emissão dos atestados referidos no presente artigo é gratuita, quando seja requerida por pessoa em situação de sem-abrigo, bem como a emissão do atestado de falta de endereço postal físico previsto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro.
+
+8 - Os atestados de falta de endereço postal físico são emitidos pelas juntas de freguesia, nos termos do disposto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro.
+
+> Alterado pelo/a Artigo 6.º do/a Lei n.º 19-A/2024 - Diário da República n.º 27/2024, 2º Suplemento, Série I de 2024-02-07, em vigor a partir de 2024-02-08
+
+> Alterado pelo/a Artigo 3.º do/a Lei n.º 61/2021 - Diário da República n.º 161/2021, Série I de 2021-08-19, em vigor a partir de 2021-09-18
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 35.º — Atestados médicos
+
+1 - Nos atestados comprovativos de saúde e de doença está abolido o reconhecimento notarial da assinatura do médico.
+
+2 - A certificação da saúde ou da doença, para quaisquer efeitos legalmente exigíveis, designadamente para a justificação de faltas por motivo de doença ou estado comprovativo de saúde, é lavrada em papel com o timbre do médico ou entidade responsável.
+
+## Capítulo V — Mecanismos de audição e participação
+
+### Artigo 35.º-A — Sistema de elogios, sugestões e reclamações dos utentes
+
+1 - Os elogios, sugestões e reclamações dos utentes relativos aos serviços prestados por um serviço ou organismo da Administração Pública e às pessoas que o tenham prestado, bem como em relação a procedimentos administrativos, são feitos online em plataformas próprias disponibilizadas na Internet.
+
+2 - A divulgação dos sítios na Internet onde são disponibilizadas as plataformas referidas no número anterior deve ser feita em todos os serviços públicos e em todos os serviços online, de forma bem visível para o utente.
+
+3 - A AMA, I. P., disponibiliza uma plataforma na Internet destinada a acolher os elogios, sugestões e reclamações dos serviços e organismos da Administração Pública, sendo que podem ser disponibilizadas outras plataformas específicas para o efeito quando fundada razão de interesse público o justifique.
+
+4 - Às plataformas previstas no presente artigo aplicam-se as garantias em matéria de proteção de dados pessoais previstas na Lei n.º 67/98, de 26 de outubro.
+
+5 - Sempre que possível, devem ser disponibilizados meios informáticos que permitam aos utentes, querendo, apresentar online, no próprio local de atendimento, elogios, sugestões e reclamações.
+
+6 - Nos locais de atendimento ao público são disponibilizados, como meios subsidiários de apresentação de elogios, sugestões e reclamações, a caixa de sugestões e elogios, bem como o livro de reclamações, devendo ser utilizados apenas quando seja impossível ou inconveniente a apresentação online dos mesmos.
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21, em vigor a partir de 2017-06-22
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 36.º — Elogios e sugestões dos utentes
+
+1 - A audição dos utentes, com vista a aferir a qualidade dos serviços públicos, concretiza-se através de:
+
+a) Elogios e opiniões, por meio das quais se pretende conhecer o que o utente pensa do modo como é atendido e da qualidade, adequação, tempo de espera e custo do serviço que lhe é prestado pela Administração;
+
+b) Sugestões, através das quais se pretende que o utente faça propostas concretas de melhoria a introduzir no funcionamento dos serviços públicos;
+
+c) Outros contributos escritos para a modernização administrativa, por meio dos quais o utente possa manifestar o seu desacordo ou a sua divergência em relação à forma como foi atendido, como lhe foi prestado determinado serviço ou ainda como a lei ou regulamento lhe impõe formalidades desnecessárias.
+
+2 -[Revogado].
+
+3 - [Revogado].
+
+4 - Os serviços e organismos devem, sempre que possível, dar acolhimento às sugestões e opiniões emitidas pelos utentes, no sentido de melhorar a sua gestão e funcionamento ou, quando caso disso, sugerir medidas legislativas adequadas a simplificar procedimentos.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 37.º — Sugestões dos trabalhadores
+
+1 - Os trabalhadores em funções públicas, no normal exercício das funções e como demonstração do seu empenho na gestão dos serviços públicos, devem apresentar sugestões suscetíveis de melhorar o funcionamento e a qualidade dos serviços a que pertencem.
+
+2 - Sempre que as sugestões sejam apresentadas por escrito e incluam um programa de acção, devem ser avaliadas pelos dirigentes máximos no sentido da viabilidade da sua aplicação.
+
+3 - Se os programas propostos forem aprovados e implantados, o trabalhador em funções públicas pode beneficiar da frequência de um curso de especialização ou bolsa de estudo na respetiva área de intervenção.
+
+4 - Se a natureza da proposta apresentada evidenciar mérito, embora não justifique as ações referidas no número anterior, o trabalhador em funções públicas tem direito a um louvor do dirigente máximo do serviço, que constará, para todos os efeitos legais, do seu processo individual.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 38.º — Reclamações
+
+1 - Nos termos do disposto no artigo 35.º-A, os serviços e organismos da Administração Pública devem divulgar aos utentes de forma visível a existência da respetiva plataforma prevista no artigo 35.º-A e do livro de reclamações.
+
+2 - A autenticação do livro de reclamações compete ao dirigente máximo do serviço ou organismo, em exercício de funções à data da abertura do livro, competência que pode ser delegada, nos casos de serviços desconcentrados, nos respectivos responsáveis.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - Compete a cada serviço reclamado:
+
+a) Dar resposta ao reclamante, acompanhada da devida justificação, bem como das medidas tomadas ou a tomar, se for caso disso, no prazo máximo de 15 dias;
+
+b) Tomar as medidas corretivas necessárias, se for caso disso;
+
+c) Registar a reclamação apresentada e a resposta na plataforma aplicável, referida no artigo 35.º-A, removendo-se os dados pessoais dos reclamantes.
+
+6 - Se para além da resposta dada pelo serviço, a reclamação for objeto de decisão final superior, esta é comunicada ao reclamante, preferencialmente por via eletrónica, pelo serviço ou gabinete do membro do Governo responsável.
+
+7 - Se for caso disso, o membro do Governo responsável deve diligenciar no sentido da realização de auditorias, nos termos legalmente previstos.
+
+8 - O modelo do livro de reclamações é definido por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e da modernização administrativa.
+
+9 - O disposto nos números anteriores aplica-se com as devidas adaptações às reclamações apresentadas nas plataformas previstas no artigo 35.º-A.
+
+10 - As reclamações apresentadas em relação aos serviços públicos online são feitas exclusivamente nas plataformas previstas no artigo 35.º-A, aplicando-se-lhes, com as devidas adaptações, o disposto no presente artigo.
+
+11 - (Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21, em vigor a partir de 2017-06-22
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 39.º — Obrigatoriedade de resposta
+
+1 - Toda a correspondência, designadamente sugestões, críticas ou pedidos de informação cujos autores se identifiquem, dirigida a qualquer serviço será objeto de análise e decisão, devendo ser objeto de resposta com a maior brevidade possível.
+
+2 - Sem prejuízo do disposto na lei, no prazo de 15 dias deve ser dada resposta na qual seja comunicada:
+
+a) A decisão final tomada sobre as questões suscitadas pelo autor da correspondência, quando a sua complexidade e a carga de trabalho do serviço não o impeçam;
+
+b) Informação intercalar sobre o estado em que se encontra a análise da comunicação apresentada; ou
+
+c) A rejeição liminar da comunicação apresentada, quando a lei assim o determine.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 39.º-A — Avaliação pelos utentes
+
+1 - São criados mecanismos de avaliação automática pelos utentes dos locais e linhas de atendimento ao público da Administração Pública.
+
+2 - A avaliação dada pelos utentes é objeto de publicitação nos respetivos portais e sítios na Internet bem como nos locais de atendimento ao público, de forma visível.
+
+3 - (Revogado.)
+
+4 - Cabe à AMA, I. P., aprovar e disponibilizar no sítio na Internet um manual de normas orientadoras de aplicação dos mecanismos de avaliação automática pelos utentes, dos locais e linhas de atendimento ao público da Administração Pública.
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21, em vigor a partir de 2017-06-22
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+## Capítulo VI — Instrumentos de apoio à gestão
+
+### Artigo 40.º — Plano e relatório de actividades
+
+1 - Os serviços e organismos da Administração Pública devem elaborar planos e relatórios anuais de actividades, de acordo com o disposto no Decreto-Lei n.º 183/96, de 27 de Setembro.
+
+2 - Os planos e relatórios de atividades devem contemplar, em capítulo próprio, as medidas de modernização administrativa, nomeadamente relativas à desburocratização, qualidade e inovação, e, em especial, as que deem cumprimento ao n.º 1 do artigo 2.º do Decreto-Lei n.º 74/2014, de 13 de maio, que se propõem desenvolver, bem como avaliar a sua aplicação em cada ano e a previsão das poupanças associadas a tais medidas.
+
+3 - Os relatórios de actividades devem incluir indicadores que quantifiquem as solicitações entradas e as respectivas respostas, a que se refere o n.º 1 do artigo 39.º
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 41.º — Balanço social
+
+Os serviços e organismos da Administração Pública devem elaborar anualmente o seu balanço social, com referência a 31 de Dezembro do ano anterior, de acordo com o disposto no Decreto-Lei n.º 190/96, de 9 de Outubro.
+
+### Artigo 42.º — Relatório da modernização administrativa
+
+1 - Compete às secretarias-gerais ou aos serviços de cada ministério com atribuições e competências nas áreas de inovação, modernização e política de qualidade, a elaboração de relatórios anuais de avaliação das medidas de modernização administrativa executadas no âmbito dos respetivos ministérios, a enviar ao membro do Governo competente, com cópia dirigida à AMA, I. P., para os efeitos previstos no artigo 43.º
+
+2 - Na administração local, compete à Direção-Geral das Autarquias Locais a elaboração do relatório anual de avaliação das medidas de modernização administrativa executadas no âmbito das autarquias locais, do qual deve ser remetida cópia à AMA, I. P., para os efeitos previstos no artigo 43.º
+
+3 - Os relatórios de avaliação referidos nos números anteriores incidem, obrigatoriamente, sobre os seguintes aspetos:
+
+3 - Os relatórios de avaliação referidos no número anterior incidem, obrigatoriamente, sobre os seguintes aspectos:
+
+a) Formalidades que foram extintas ou simplificadas;
+
+b) Medidas de simplificação introduzidas, designadamente as previstas no capítulo IV;
+
+c) Melhoria no acolhimento e atendimento dos utentes;
+
+d) Melhoria nos meios de comunicação com os utentes do serviço;
+
+e) Disponibilização de suportes informativos;
+
+f) Inovações tecnológicas introduzidas;
+
+g) Avaliação global do conjunto dos elogios, sugestões e das reclamações e síntese das medidas adotadas em consequência dos mesmos;
+
+h) Valor global estimado da redução de custos de contexto para os cidadãos e agentes económicos decorrente das medidas de simplificação e modernização administrativa adotadas;
+
+i) Valor global estimado das poupanças decorrentes das medidas de modernização e simplificação administrativa adotadas.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 43.º — Observatório da modernização administrativa
+
+1 - A Rede Interministerial para a Modernização Administrativa (RIMA), prevista no Decreto-Lei n.º 4/97, de 4 janeiro, alterado pelo Decreto-Lei n.º 72/2014, de 13 de maio, constitui-se como observatório permanente da modernização administrativa, nas áreas reguladas pelo presente diploma, cabendo à AMA, I. P., dar-lhe o apoio técnico necessário para o efeito.
+
+2 - Para os efeitos do número anterior, compete à AMA, I. P., proceder à análise dos relatórios referidos no artigo anterior, elaborar estudo sintético, mas detalhado, das principais medidas tomadas e propor recomendações ou medidas legislativas que contribuam para uma maior qualidade, eficácia e eficiência da Administração Pública.
+
+3 - O estudo referido no número anterior avalia, em especial:
+
+a) A informação agregada relativa à redução de custos de contexto para os cidadãos e agentes económicos e às poupanças decorrentes das medidas de simplificação e modernização administrativa adotadas;
+
+b) A informação agregada relativa aos elogios, reclamações e sugestões apresentados nos termos dos artigos 35.º-A a 38.º, bem como a informação agregada relativa à avaliação dos locais e linhas de atendimento ao público, prevista no artigo 39.º-A.
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21, em vigor a partir de 2017-06-22
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 44.º — Qualidade em serviços públicos
+
+Os serviços e organismos da Administração Pública devem elaborar, progressivamente, cartas de qualidade.
+
+### Artigo 45.º — Papel inovador dos dirigentes
+
+1 - Os dirigentes devem pautar a sua gestão, com vista ao cumprimento da missão do serviço, através da definição dos objectivos anuais a atingir, do nível dos serviços a prestar, da criação e manutenção de critérios de qualidade, bem como a motivação e estímulo dos seus funcionários e a preocupação da boa imagem do serviço.
+
+2 - Os dirigentes máximos dos serviços públicos devem elaborar um programa de acção que vise o aperfeiçoamento e a qualidade dos serviços, nomeadamente através da elaboração de cartas de qualidade, metodologias de melhores práticas de gestão e sistemas de garantia de conformidade face aos objectivos exigidos.
+
+3 - Os dirigentes de todas as unidades e subunidades orgânicas devem promover reuniões periódicas para a divulgação de documentos internos e normas de procedimento, bem como reuniões temáticas que promovam o debate e o esclarecimento das acções a desenvolver para cumprimento dos objectivos do serviço.
+
+4 - Com vista a garantir melhor qualidade, eficácia e eficiência, cabe aos dirigentes definir e incentivar planos de formação individuais ou de grupo que permitam a formação e aperfeiçoamento profissional contínuo dos profissionais do serviço.
+
+5 - Os planos de formação devem ser orientados no sentido de uma Administração ao serviço do cidadão, tendo em conta os objectivos do organismo, bem como o desenvolvimento social, cultural e técnico dos seus funcionários e agentes.
+
+### Artigo 46.º — Programas de receptividade ao utente
+
+Os serviços devem melhorar o nível de receptividade aos seus utentes, de acordo com o seu âmbito de acção, actuando, em especial, nos seguintes domínios:
+
+a) Adequação de disposições legais desactualizadas e estudo da racionalização e simplificação de formalidades;
+
+b) Melhoria de instalações;
+
+c) Formação de atendedores de público;
+
+d) Melhoria de equipamentos que constituam infra-estruturas ao atendimento;
+
+e) Adopção de sistemas, métodos e técnicas inovadores que potenciem uma pronta resposta às solicitações legítimas dos utentes;
+
+f) Avaliação da qualidade e do impacte dos serviços prestados pelo serviço.
+
+## Capítulo VII — Divulgação de informação administrativa
+
+### Artigo 47.º — Portais e sítios na Internet da Administração Pública
+
+1 - Todos os serviços e organismos da Administração Pública devem disponibilizar aos cidadãos e aos agentes económicos portais e ou sítios na Internet que têm como objetivos:
+
+a) Disponibilizar para o público a informação básica e de cidadania, sobre direitos, obrigações, procedimentos, na relação que estabelece com a Administração Pública;
+
+b) Garantir a simplicidade, rapidez e fiabilidade da informação administrativa que o cidadão ou grupos específicos de cidadãos necessitam no seu dia-a-dia;
+
+c) Permitir a identificação e o acesso a bases de dados especializados, de forma a dar respostas a questões mais específicas, bem como permitir a criação de subsistemas de informação destinados a servir clientes específicos;
+
+d) Possibilitar e facilitar, gradualmente, o contacto interactivo com simulações e prestações de serviços concretos, através das tecnologias de informação e de programas específicos, que tenham real utilidade para o cidadão.
+
+2 - A informação devidamente organizada pelos serviços e organismos da Administração Pública deve ser atualizada com frequência, de modo a não defraudar as expectativas dos cidadãos e dos agentes económicos.
+
+3 - Os sítios e portais na Internet devem ser concebidos e atualizados de modo a observar as melhores práticas em matéria de acessibilidade e usabilidade.
+
+4 - Todos os serviços e organismos do Estado devem comunicar à AMA, I. P., e mantê-la informada de todos os sítios na Internet públicos que tenham a seu cargo, devendo a AMA, I. P., desenvolver e atualizar o cadastro dos sítios na Internet do Estado.
+
+5 - A AMA, I. P., é responsável por identificar os sítios na Internet do Estado que estejam descontinuados e comunicá-lo aos respetivos serviços e organismos, bem como às entidades responsáveis pelos arquivos digitais do Estado e pela preservação de conteúdos disponíveis na Internet nacional.
+
+6 - Os portais e sítios na Internet referidos no n.º 1 devem estar acessíveis através de hiperligação nos portais de entrada na Administração Pública, geridos pela AMA, I. P.
+
+7 - Todos os portais e sítios na Internet do Estado devem ter uma hiperligação visível para os portais de entrada na Administração Pública referidos no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 48.º — Meios de divulgação
+
+Os serviços públicos devem, sempre que possível, promover meios de divulgação multimédia das suas atividades, nomeadamente através das plataformas gratuitas de divulgação vídeo online, com o objetivo de esclarecer os utentes sobre o seu funcionamento.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 49.º — Sistema de pesquisa online de informação pública
+
+1 - É criado o sistema de pesquisa online de informação pública que indexa todos os conteúdos públicos dos sítios na Internet das entidades públicas.
+
+2 - A informação pública referida no número anterior corresponde à informação que pela sua natureza e nos termos da lei possa ser disponibilizada ao público.
+
+3 - Esse sistema é gerido pela AMA, I. P., e é disponibilizado nos portais de entrada da Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+## Capítulo VIII — Disposições finais
+
+### Artigo 50.º — Prevalência
+
+1 - O presente decreto-lei prevalece sobre quaisquer disposições gerais relativas aos diversos serviços e organismos da Administração Pública.
+
+2 - Os dirigentes dos serviços ou organismos mencionados no número anterior, que adoptem ou autorizem a adopção de medidas internas em contravenção com o presente diploma, incorrem em responsabilidade disciplinar, nos termos do respectivo estatuto disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 50.º-A — Referências a trabalhadores em funções públicas
+
+As referências no presente diploma a trabalhadores em funções públicas consideram-se também feitas a outros trabalhadores que exerçam funções idênticas a estes, independentemente do vínculo ao abrigo do qual as exerçam.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 73/2014 - Diário da República n.º 91/2014, Série I de 2014-05-13, em vigor a partir de 2014-05-18
+
+### Artigo 51.º — Pessoal dirigente
+
+1 - As referências feitas no presente diploma aos dirigentes máximos dos serviços entendem-se reportadas aos secretários-gerais, directores-gerais e pessoal de cargos equiparados, bem como ao pessoal dirigente directamente dependente de qualquer membro do Governo.
+
+2 - As competências atribuídas no presente diploma aos membros do Governo e aos dirigentes máximos dos serviços são, na administração local, cometidas:
+
+a) Ao presidente da câmara municipal, nas câmaras municipais;
+
+b) Ao presidente do conselho de administração, nas associações de municípios e nos serviços municipalizados;
+
+c) À junta de freguesia, nas juntas de freguesia;
+
+d) Ao presidente da mesa da assembleia distrital, nas assembleias distritais.
+
+### Artigo 52.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+Resolução do Conselho de Ministros n.º 6/87, de 29 de Janeiro;
+
+Decreto-Lei n.º 149/87, de 30 de Março;
+
+Resolução do Conselho de Ministros n.º 31/87, de 29 de Maio;
+
+Resolução do Conselho de Ministros n.º 34/87, de 8 de Julho;
+
+Resolução do Conselho de Ministros n.º 36/87, de 10 de Julho;
+
+Decreto-Lei n.º 48/88, de 17 de Fevereiro;
+
+Resolução do Conselho de Ministros n.º 16/88, de 2 de Maio;
+
+Decreto-Lei n.º 217/88, de 17 de Junho;
+
+Despacho do Primeiro-Ministro n.º 1/89, publicado no Diário da República, 2.ª série, de 12 de Janeiro;
+
+Decreto-Lei n.º 19/89, de 19 de Janeiro;
+
+Decreto-Lei n.º 112/90, de 2 de Abril;
+
+Decreto-Lei n.º 383/90, de 10 de Dezembro;
+
+Decreto-Lei n.º 129/91, de 2 de Abril.
+
+Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 5 de Abril de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Abril de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — Modelo de aviso a enviar ao ministério ou à pessoa coletiva sobre a ocorrência de pedido de emissão de certidão de ato tácito e o envio de informação sobre a existência de ato expresso, previsto no n.º 4 do artigo 28.º-A
+
+(a que se refere o n.º 4 do artigo 28.º-B)
+
+A... (entidade a designar) recebeu um pedido de emissão de uma certidão de existência de deferimento tácito por a... (colocar designação do ministério, serviço, instituto público, empresa pública, município, freguesia, associação pública ou outra pessoa coletiva) não ter emitido um ato expresso no prazo legalmente previsto.
+
+Caso não seja demonstrado, no prazo de três dias úteis, que foi emitido um ato expresso antes da decorrência do prazo para a formação do deferimento tácito ou que o deferimento tácito não se formou, a... (entidade a designar) emite ao interessado uma certidão de que o ato tácito se produziu. A prova de que foi emitido um ato expresso faz-se através da inserção de cópia digitalizada do ato expresso a partir do portal único dos serviços.
+
+Pode aceder ao portal único dos serviços e consultar mais informações sobre o pedido de emissão de certidão de deferimento tácito aqui (disponibilizar hyperlink na palavra «aqui»).
+
+> Aditado pelo/a Artigo 32.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01
+
+## Anexo II — Modelo de certidão de deferimento tácito previsto no n.º 6 do artigo 28.º-A
+
+(a que se refere o n.º 8 do artigo 28.º-B)
+
+A presente certidão atesta que... (colocar a firma ou nome do interessado) obteve uma... (colocar a designação legal do tipo de ato requerido e que foi obtido por deferimento tácito) para... (identificar a atividade permitida através do ato de deferimento tácito).
+
+As autoridades públicas competentes devem, para todos os efeitos legais, assumir que a... (colocar a firma ou nome do interessado) obteve todos os atos necessários para a realização da atividade em causa junto das entidades competentes, não podendo, designadamente, aplicar coimas por ausência da licença/autorização/permissão necessária para o desenvolvimento desta atividade.
+
+> Aditado pelo/a Artigo 32.º do/a Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10, em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01

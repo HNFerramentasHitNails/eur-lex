@@ -1,7 +1,7 @@
 ---
 celex: 32011L0065
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32011L0065 — RoHS (substâncias perigosas em EEE) — contexto
@@ -14,7 +14,7 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2013-08-05 — Declaração de Retificação n.º 35/2013. D.R. n.º 149, Série I de 2013-08-05 Presidência do Conselho de Ministros - Secretaria-Geral Retifica o Decreto-Lei n.º 79/2013, de 11 de junho, do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, que estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE, do Parlamento Europeu e do Conselho, de 8 de junho de 2011, publicado do Diário da República, 1.ª série, n.º 111, de 11 de junho de 2013 (CELEX 72011L0065PRT_208315)
-- 2013-06-11 — Decreto-Lei n.º 79/2013. D.R. n.º 111, Série I de 2013-06-11 Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território Estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE, do Parlamento Europeu e do Conselho, de 8 de junho de 2011 (CELEX 72011L0065PRT_206027)
+- 2013-08-05 — Declaração de Retificação n.º 35/2013. D.R. n.º 149, Série I de 2013-08-05 Presidência do Conselho de Ministros - Secretaria-Geral Retifica o Decreto-Lei n.º 79/2013, de 11 de junho, do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, que estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE, do Parlamento Europeu e do Conselho, de 8 de junho de 2011, publicado do Diário da República, 1.ª série, n.º 111, de 11 de junho de 2013 (CELEX 72011L0065PRT_208315) → não obtido do DRE: medida administrativa (tipo de acto não identificado)
+- 2013-06-11 — Decreto-Lei n.º 79/2013. D.R. n.º 111, Série I de 2013-06-11 Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território Estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE, do Parlamento Europeu e do Conselho, de 8 de junho de 2011 (CELEX 72011L0065PRT_206027) → texto: [`legislacao-pt/decreto-lei-79-2013.md`](../../legislacao-pt/decreto-lei-79-2013.md) (consolidado (DRE))

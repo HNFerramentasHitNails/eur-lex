@@ -4,7 +4,7 @@ nome_curto: Diretiva ePrivacy (cookies e comunicações eletrónicas)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32002L0058
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32002L0058 — Diretiva ePrivacy (cookies e comunicações eletrónicas) — considerandos

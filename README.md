@@ -4,13 +4,38 @@ Legislação da União Europeia em português, extraída da fonte oficial e conv
 texto que o Claude (ou qualquer pessoa) consegue ler, pesquisar e citar. O objectivo é
 servir de base a aplicações, bots, assistentes e perguntas sobre o que a UE exige.
 
-**Não substitui um advogado, jurista ou contabilista.** Cobre o direito da UE; a maior
-parte das obrigações do dia-a-dia de uma empresa em Portugal (impostos, segurança social,
-código do trabalho, licenças, taxas de IVA, transposição das diretivas) está na lei
-portuguesa, que não está aqui. Ver "O que não está aqui".
+**Não substitui um advogado, jurista ou contabilista.** Cobre o direito da UE e as leis
+portuguesas que transpõem as diretivas do corpus; a maior parte das outras obrigações do
+dia-a-dia de uma empresa em Portugal (impostos, segurança social, licenças, taxas de IVA)
+está em lei portuguesa que não está aqui. Ver "O que não está aqui".
+
+## Consulta rápida (para IAs e pessoas)
+
+Ler um regulamento inteiro custa dezenas de milhares de tokens; o artigo que responde custa
+algumas centenas. Por isso o repositório tem índices e uma ferramenta que vai directa ao
+artigo:
+
+```bash
+python3 ferramentas/procurar.py actos rgpd                       # → 32016R0679 · RGPD · 99 art. · ≈52 000 tokens
+python3 ferramentas/procurar.py artigos 32011L0083 retratação    # → Artigo 9.º — Direito de retractação [≈735 tokens]
+python3 ferramentas/procurar.py ler 32011L0083 9                 # só esse artigo
+python3 ferramentas/procurar.py texto "prazo para devolver compra online"   # artigos mais relevantes
+python3 ferramentas/procurar.py pt 32011L0083                    # lei portuguesa: Decreto-Lei n.º 24/2014
+```
+
+- [`INDICE.md`](INDICE.md) — ponto de entrada: como navegar, áreas, actos curados.
+- `indice/` — uma linha por acto (nome popular, temas, descritores EuroVoc, tamanho em
+  tokens), actos por área, e o sumário de cada acto com as linhas de cada artigo.
+- `.claude/skills/consultar-legislacao/` — skill para o Claude: faz ao utilizador só as
+  perguntas que mudam a lei aplicável (no máximo 3) e depois consulta os artigos certos.
+- A pesquisa por relevância (`procurar.py texto`) usa um índice local construído na 1.ª vez
+  (`.cache/procurar.sqlite`, fora do git).
 
 ## O que está aqui
 
+- **`ue/`** — o texto integral de **toda a legislação da UE em vigor** (64 273 actos) e dos
+  actos já publicados que entram em vigor no futuro, actualizado todas as semanas. Ver
+  "Toda a legislação em vigor e a futura".
 - **`corpus/`** — o texto completo de 86 actos escolhidos por serem os que um negócio
   digital, de comércio electrónico ou de produtos encontra na prática: tratados e Carta,
   RGPD e dados, IA e plataformas (Regulamento IA, DSA, DMA…), consumo e vendas online,
@@ -25,8 +50,19 @@ portuguesa, que não está aqui. Ver "O que não está aqui".
   - um ficheiro de contexto com as sínteses oficiais em linguagem simples, as **leis
     portuguesas que transpõem cada diretiva** e os acórdãos do Tribunal de Justiça que
     interpretam o acto.
+- **`legislacao-pt/`** — as leis portuguesas que Portugal comunicou à Comissão Europeia como
+  transpondo as 46 diretivas do corpus, com o texto do Diário da República Eletrónico
+  (versão consolidada do DRE quando existe, com a indicação do diploma que alterou cada
+  artigo). Exemplo: a Diretiva 2011/83 (direitos dos consumidores) liga ao Decreto-Lei
+  n.º 24/2014, consolidado até à alteração de 2023-03-03. Índice em
+  [`legislacao-pt/INDICE.md`](legislacao-pt/INDICE.md), com o estado de cada diploma e a
+  causa quando não foi possível obtê-lo. Em 2026-10-09: das 313 medidas registadas no
+  Cellar, 110 têm versão consolidada, 123 só o texto original, 19 estão revogadas (só
+  metadados) e 61 não foram obtidas (27 são declarações de retificação; as restantes causas
+  estão no índice). A lista é a que Portugal comunicou: pode não incluir a lei em vigor
+  mais recente sobre o tema.
 - **`catalogo/`** — índice de **toda** a legislação da UE marcada como em vigor no Cellar:
-  64 273 actos em 2026-10-09 (7 393 de tratados, 9 132 acordos internacionais, 16 244
+  64 273 actos em 2026-10-10 (7 393 de tratados, 9 132 acordos internacionais, 16 244
   regulamentos, 1 305 diretivas, 17 490 decisões, 9 512 decisões sobre concentrações e
   outros), com título em PT, data, área do repertório oficial e ligação. Serve para saber
   o que existe e ir buscar o que faltar.
@@ -35,30 +71,39 @@ portuguesa, que não está aqui. Ver "O que não está aqui".
 - **`CLAUDE.md`** — instruções para o Claude: como pesquisar, como citar e que limites
   assinalar nas respostas.
 
-## Porque não está "todo o EUR-Lex"
+## Toda a legislação em vigor e a futura
 
-O EUR-Lex tem cerca de 1 milhão de documentos (contagem de obras com número CELEX no
-Cellar em 2026-10-09), cada um em até 24 línguas: legislação revogada, propostas,
-trabalhos preparatórios, jurisprudência, perguntas parlamentares, Jornal Oficial série C…
-Só a legislação derivada marcada como em vigor são ~47 000 actos, muitos deles decisões
-sobre casos concretos (uma concentração de empresas, um auxílio a uma empresa, uma quota
-de pesca).
+A pasta **`ue/`** tem o texto integral, em português, de todos os actos que o Cellar marca
+como em vigor (64 273 em 2026-10-10: tratados, acordos internacionais, regulamentos,
+diretivas, decisões, recomendações…), dos 44 já publicados que só entram em vigor depois
+dessa data e de 7 que, pelas datas do Cellar, já entraram em vigor mas que o Cellar ainda não
+marca como tal (`estado: em vigor (por confirmar)`, com o motivo no ficheiro). Para cada acto: a versão consolidada mais recente já aplicável ou, se não houver,
+o texto original do Jornal Oficial; e, quando já existe, a versão consolidada futura
+(`<CELEX>.futuro.md`). Quando o Cellar não tem o acto em português (sobretudo decisões
+sobre concentrações de empresas, publicadas só na língua do processo), usa-se o inglês, o
+francês ou o alemão, e o ficheiro di-lo. Mapa completo em `ue/INDICE.tsv`.
 
-Pôr tudo num repositório não ajuda o Claude a responder melhor — torna a pesquisa mais
-lenta e mais ruidosa. Por isso a opção foi:
-
-1. texto integral para o que é relevante para projectos de negócio (o núcleo);
-2. catálogo completo do que está em vigor, para descobrir o resto;
-3. ferramenta para descarregar qualquer outro acto quando for preciso.
+**Actualização automática:** `.github/workflows/actualizar.yml` corre todas as
+segundas-feiras no GitHub Actions. Junta os actos novos, substitui os que têm nova versão
+consolidada, retira os que deixaram de vigorar (só com prova: data de fim de validade passada
+no Cellar), actualiza as leis portuguesas e o corpus curado, verifica a coerência dos dados e
+regista o que mudou e o resultado da verificação em `ue/ALTERACOES.md`. Se a verificação
+encontrar problemas graves, a execução aparece como falhada no GitHub. Pode ser lançada à mão em Actions →
+"Actualizar legislação" → Run workflow, ou desligada no mesmo sítio.
 
 ## O que não está aqui
 
-- Lei portuguesa (Diário da República). As leis de transposição estão **identificadas**
-  nos ficheiros `.contexto.md`, mas o texto não está incluído.
+- Legislação já revogada, propostas e trabalhos preparatórios, Jornal Oficial série C,
+  perguntas parlamentares (o EUR-Lex tem ~1 milhão de documentos; aqui está o que vigora).
+- Texto integral da jurisprudência do Tribunal de Justiça (só a lista por acto, no corpus
+  curado; cada acórdão descarrega-se a pedido).
+
+- Lei portuguesa que não seja de transposição das diretivas do corpus (ex.: Código do IVA,
+  Código das Sociedades Comerciais, leis de execução de regulamentos — exceto as listadas
+  em `ferramentas/dre_extra.yaml`). Diplomas regionais (Açores/Madeira) também não.
 - Orientações e decisões de autoridades (Comissão, CEPD, CNPD, ASAE, AT, Infarmed…).
 - Normas técnicas (EN, ISO), que não são publicadas no EUR-Lex.
-- Texto integral da jurisprudência (só a lista; descarrega-se a pedido).
-- Outras línguas além do português (o script aceita `--lingua en`).
+- Outras línguas, salvo quando o acto não existe em português (o script aceita `--lingua en`).
 
 ## Como usar
 
@@ -74,12 +119,32 @@ Para actualizar ou acrescentar actos:
 
 ```bash
 pip install -r requirements.txt
+npm install --prefix ferramentas && npx --prefix ferramentas playwright install chromium   # só para o DRE
 python3 ferramentas/eurlex.py nucleo                     # actualizar a lista curada
+python3 ferramentas/dre.py tudo                          # leis portuguesas de transposição
 python3 ferramentas/eurlex.py obter 32019L2161 --area consumidores-e-vendas --curto "Omnibus"
 python3 ferramentas/eurlex.py catalogo                   # refazer o catálogo
 ```
 
-## Fonte e licença
+## Fonte e licença — legislação portuguesa
+
+Fonte: Diário da República Eletrónico, serviço público gerido pela Imprensa Nacional-Casa
+da Moeda, S. A. (INCM) — https://diariodarepublica.pt. Segundo os avisos legais do DRE, o
+acesso universal e gratuito "compreende a possibilidade de impressão, arquivo, pesquisa e
+livre acesso ao conteúdo dos atos publicados", e a edição eletrónica do DR faz fé plena;
+os textos consolidados são produzidos pela INCM "ainda que sem valor legal".
+
+Direitos: o Código do Direito de Autor (Decreto-Lei n.º 63/85, artigo 8.º, n.º 1) exclui de
+protecção os textos das leis; já as "compilações sistemáticas ou anotadas de textos… de
+leis" são obras protegidas (artigo 3.º, n.º 1, alínea c)), e o sítio do DRE indica "INCM,
+SA — todos os direitos reservados". Os textos consolidados do DRE foram incluídos neste
+repositório público por decisão do titular do repositório (2026-10-09), conhecendo esta
+questão. Se a INCM o pedir, retiram-se as consolidações e ficam só os textos originais.
+
+**Alterações feitas:** conversão do formato do DRE para Markdown, remoção de ligações
+internas, acrescento de metadados (diretivas transpostas, segundo o Cellar).
+
+## Fonte e licença — direito da UE
 
 Fonte: EUR-Lex, © União Europeia, 1998-2026 — https://eur-lex.europa.eu — obtido através
 do Cellar (Serviço das Publicações da UE). Segundo o aviso legal do EUR-Lex, os documentos

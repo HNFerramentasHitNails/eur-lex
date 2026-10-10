@@ -19,7 +19,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32013L0034
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02013L0034-20260318
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32013L0034 — Diretiva Contabilística

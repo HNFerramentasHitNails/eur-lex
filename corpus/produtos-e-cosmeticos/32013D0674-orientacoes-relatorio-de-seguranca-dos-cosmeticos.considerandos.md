@@ -4,7 +4,7 @@ nome_curto: Orientações relatório de segurança dos cosméticos
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32013D0674
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Decisão 32013D0674 — Orientações relatório de segurança dos cosméticos — considerandos

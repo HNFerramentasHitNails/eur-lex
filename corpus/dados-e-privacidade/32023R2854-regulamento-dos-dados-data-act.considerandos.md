@@ -4,7 +4,7 @@ nome_curto: Regulamento dos Dados (Data Act)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023R2854
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32023R2854 — Regulamento dos Dados (Data Act) — considerandos

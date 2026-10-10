@@ -1,0 +1,1477 @@
+---
+diploma: Decreto-Lei n.º 129/98
+tipo: Decreto-Lei
+numero: 129/1998
+data_publicacao: '1998-05-13'
+sumario: Estabelece o regime jurídico do Registo Nacional de Pessoas Colectivas
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2019-09-23'
+transpoe:
+- 32015L0849
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34526475
+eli: https://data.dre.pt/eli/dec-lei/129/1998/p/cons/20190923/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 129/98
+
+**Sumário:** Estabelece o regime jurídico do Registo Nacional de Pessoas Colectivas
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2019-09-23. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34526475
+
+## Texto
+
+Actualmente, o quadro legal do Registo Nacional de Pessoas Colectivas encontra-se disperso por um vasto conjunto de diplomas, o que muito dificulta o seu conhecimento por parte dos interessados e a sua aplicação por parte da Administração. Importa proceder à sistematização destas regras num único diploma, de molde a ultrapassar aquelas dificuldades.
+
+Por outro lado, justifica-se a consagração de normas relativas à protecção dos dados pessoais informatizados que se encontram processados no ficheiro central de pessoas colectivas.
+
+Quanto a aspectos orgânicos, o Decreto-Lei n.º 426/91, de 31 de Outubro, determinou a integração do Registo Nacional de Pessoas Colectivas na Direcção-Geral dos Registos e do Notariado. A orgânica, o modo de funcionamento do serviço e, bem assim, as regras respeitantes ao pessoal foram deixados para decreto regulamentar, a aprovar no prazo de 180 dias. Este diploma, porém, nunca foi publicado e a referida integração não veio a concretizar-se.
+
+Mantendo-se as razões apontadas pelo Decreto-Lei n.º 426/91, de 31 de Outubro, há que promover a integração do Registo Nacional de Pessoas Colectivas no âmbito dos serviços do registo comercial, na dependência da Direcção-Geral dos Registos e do Notariado. O actual Registo Nacional de Pessoas Colectivas perde assim a sua natureza de pessoa colectiva, passando a integrar-se no elenco das conservatórias do registo comercial. Não obstante as modificações referidas, optou-se por conservar a denominação de Registo Nacional de Pessoas Colectivas, em virtude quer da competência específica que lhe é atribuída quer da tradição já existente.
+
+Foram ouvidos a Associação Sindical de Conservadores dos Registos, o Sindicato dos Trabalhadores dos Registos e do Notariado, o Sindicato dos Trabalhadores da Função Pública e a Comissão Nacional de Protecção de Dados Pessoais Informatizados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
+
+> Alterado pelo/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-03
+
+> Alterado pelo/a Artigo 87.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-10-01
+
+> Alterado pelo/a Artigo 48.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 25.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 23.º do/a Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 64.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 12/2001 - Diário da República n.º 21/2001, Série I-A de 2001-01-25, em vigor a partir de 2001-01-26
+
+### Artigo 1.º — Regime do Registo Nacional de Pessoas Colectivas
+
+É aprovado o regime do Registo Nacional de Pessoas Colectivas (RNPC), em anexo ao presente diploma e que dele faz parte integrante.
+
+### Artigo 2.º — Integração
+
+O actual RNPC é integrado na Direcção-Geral dos Registos e do Notariado (DGRN) como conservatória do registo comercial de 1.ª classe.
+
+### Artigo 3.º — Extinção
+
+São extintos o conselho consultivo do RNPC e a Direcção de Serviços do RNPC do Gabinete de Estudos e Planeamento do Ministério da Justiça (GEPMJ), bem como o lugar de director-geral do RNPC.
+
+### Artigo 4.º — Transição para os lugares de conservador
+
+1 - Ao primeiro concurso para provimento dos lugares de conservador e de conservador auxiliar do RNPC, que deve ser aberto no prazo de 90 dias a contar da entrada em vigor do presente diploma, só podem concorrer os técnicos superiores do quadro do GEPMJ licenciados em Direito e afectos à Direcção de Serviços do RNPC, com classificação de serviço não inferior à de Bom e nas seguintes condições:
+
+a) Para conservadores de 2.ª classe, se contarem mais de oito anos no apoio jurídico ao RNPC, independentemente da categoria actual;
+
+b) Para conservadores de 3.ª classe, se contarem mais de três anos no apoio jurídico ao RNPC, independentemente da categoria actual.
+
+2 - O pessoal provido nos termos do número anterior passa a integrar o quadro dos conservadores do registo predial e comercial, ingressando no escalão 1 da categoria, sem antiguidade.
+
+### Artigo 5.º — Transição para os lugares de oficial
+
+1 - Ao primeiro concurso para provimento dos lugares de oficial do quadro do RNPC, que deve ser aberto no prazo de 90 dias a contar da entrada em vigor do presente diploma, só pode concorrer o pessoal do quadro do GEPMJ que preste ou tenha prestado funções de apoio técnico-administrativo ao RNPC, nas seguintes condições:
+
+a) Para categoria a que corresponda, no escalão 1, o índice que actualmente detêm ou, não havendo coincidência, o superior mais aproximado;
+
+b) Não tenha classificação inferior a Bom.
+
+2 - O pessoal provido nos termos do número anterior passa a integrar o quadro dos oficiais do registo predial e comercial, ingressando no escalão 1 da categoria, sem antiguidade.
+
+### Artigo 6.º — Ordenação dos candidatos
+
+1 - São condições de preferência na ordenação dos candidatos ao concurso previsto no n.º 1 do artigo 4.º, sucessivamente:
+
+a) A classificação de serviço;
+
+b) A categoria mais elevada na carreira actual;
+
+c) A antiguidade na categoria actual;
+
+d) A classificação na licenciatura em Direito;
+
+e) A antiguidade na função pública.
+
+2 - São condições de preferência na ordenação dos candidatos ao concurso previsto no n.º 1 do artigo anterior, sucessivamente:
+
+a) A classificação de serviço;
+
+b) A categoria mais elevada na carreira actual;
+
+c) As habilitações escolares;
+
+d) A antiguidade na categoria actual;
+
+e) A antiguidade na função pública.
+
+3 - Os técnicos superiores licenciados em Direito a prestar apoio técnico-jurídico no RNPC não colocados como conservadores são dispensados das provas de aptidão referidas na alínea a) do n.º 1 do artigo 3.º do Decreto-Lei n.º 206/97, de 12 de Agosto.
+
+### Artigo 7.º — Dispensa de estágio
+
+É considerado como estágio válido para efeitos do n.º 1 do artigo 112.º do Regulamento dos Serviços dos Registos e do Notariado, aprovado pelo Decreto Regulamentar n.º 55/80, de 8 de Outubro, aplicável por força do disposto no artigo 61.º do Decreto-Lei n.º 92/90, de 17 de Março, o tempo de serviço prestado pelo pessoal do quadro do GEPMJ, quando classificado, pelo menos, de Bom.
+
+### Artigo 8.º — Pessoal auxiliar e operário
+
+O pessoal auxiliar e operário afecto à Direcção de Serviços do RNPC transita para o quadro de pessoal do RNPC para as categorias, escalões e índices que actualmente detêm.
+
+### Artigo 9.º — Pagamento de remunerações
+
+Até à transição para o quadro do RNPC dos funcionários actualmente em serviço na Direcção de Serviços do RNPC, as respectivas remunerações continuam a ser pagas pelas dotações do Gabinete de Gestão Financeira do Ministério da Justiça e do Gabinete de Estudos e Planeamento do Ministério da Justiça.
+
+### Artigo 10.º — Quadros de conservadores e de oficiais
+
+Ao quadro de conservadores do registo predial de 2.ª classe e de 3.ª classe, bem como ao dos oficiais, são acrescentados, nas respectivas classes pessoais, os lugares correspondentes aos das transições efectuadas do quadro do GEPMJ para o quadro do RNPC, nos termos dos artigos 4.º e 5.º
+
+### Artigo 11.º — Celebração de protocolos
+
+1 - A DGRN celebra protocolos com o GEPMJ para o apoio logístico e técnico que for considerado necessário em resultado da transição dos serviços.
+
+2 - A utilização pelo RNPC de instalações, equipamentos e outros bens afectos ao GEPMJ é definida em protocolo celebrado entre ambos os organismos.
+
+3 - O protocolo referido no número anterior abrange igualmente as transferências de património a que houver lugar.
+
+### Artigo 12.º — Norma revogatória
+
+São revogados:
+
+a) Os artigos 1.º, 4.º e 71.º a 91.º do Decreto-Lei n.º 144/83, de 31 de Março;
+
+b) O Decreto-Lei n.º 42/89, de 3 de Fevereiro;
+
+c) O Decreto-Lei n.º 410/90, de 31 de Dezembro;
+
+d) O Decreto-Lei n.º 18/91, de 10 de Janeiro;
+
+e) Os artigos 3.º a 5.º do Decreto-Lei n.º 426/91, de 31 de Outubro;
+
+f) O Decreto-Lei n.º 20/93, de 26 de Janeiro;
+
+g) O Decreto Regulamentar n.º 27/93, de 3 de Setembro.
+
+### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao decurso de 30 dias sobre a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 28 de Abril de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Maio de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — REGIME DO REGISTO NACIONAL DE PESSOAS COLECTIVAS
+
+## Título I — Disposições gerais
+
+### Artigo 1.º — Registo Nacional de Pessoas Colectivas
+
+O Registo Nacional de Pessoas Colectivas (RNPC) tem por função organizar e gerir o ficheiro central de pessoas colectivas, bem como apreciar a admissibilidade de firmas e denominações.
+
+### Artigo 2.º — Ficheiro central de pessoas colectivas
+
+1 - O ficheiro central de pessoas colectivas (FCPC) é constituído por uma base de dados informatizados onde se organiza informação actualizada sobre as pessoas colectivas necessária aos serviços da Administração Pública para o exercício das suas atribuições.
+
+2 - O FCPC contém ainda, com os mesmos objectivos, informação de interesse geral relativa a entidades públicas ou privadas não dotadas de personalidade jurídica, bem como pessoas colectivas internacionais e pessoas colectivas de direito estrangeiro.
+
+### Artigo 3.º — Firmas e denominações
+
+A atribuição das firmas e denominações está sujeita à observância dos princípios da verdade e da novidade nos termos e condições previstos no título III e o respectivo registo confere o direito ao seu uso exclusivo.
+
+## Título II — Ficheiro central de pessoas colectivas
+
+## Capítulo I — Âmbito e forma de inscrição
+
+### Artigo 4.º — Âmbito pessoal
+
+1 - O FCPC integra informação relativa a:
+
+a) Associações, fundações, sociedades civis e comerciais, cooperativas, empresas públicas, agrupamentos complementares de empresas, agrupamentos europeus de interesse económico, bem como quaisquer outros entes colectivos personalizados, sujeitos ao direito português ou ao direito estrangeiro, que habitualmente exerçam actividade em Portugal;
+
+b) Representações de pessoas colectivas internacionais ou de direito estrangeiro que habitualmente exerçam actividade em Portugal;
+
+c) Entidades a que a lei confira personalidade jurídica após o respectivo processo de formação, entre o momento em que tiverem iniciado esse processo e aquele em que o houverem terminado;
+
+d) Entidades que, prosseguindo objectivos próprios e actividades diferenciadas das dos seus associados, não sejam dotadas de personalidade jurídica;
+
+e) Organismos e serviços da Administração Pública, não personalizados, que constituam uma unidade organizativa e funcional;
+
+f) Estabelecimentos individuais de responsabilidade limitada;
+
+g) Comerciantes individuais;
+
+h) Empresários individuais que exerçam actividade económica legalmente não qualificada como profissão liberal e usem firma diferente do seu nome completo ou abreviado;
+
+i) Instrumentos de gestão fiduciária e sucursais financeiras exteriores registados na Zona Franca da Madeira.
+
+2 - O FCPC pode ainda incluir informação:
+
+a) De quaisquer sujeitos passivos da relação jurídica tributária não abrangidos pelo número fiscal de pessoa singular, enquanto tal for necessário para efeitos fiscais, incluindo de fundos fiduciários e de outros centros de interesses coletivos sem personalidade jurídica com uma estrutura ou funções similares que não se encontrem integrados no FCPC nos termos do número anterior;
+
+b) De qualquer outra entidade sujeita à obrigação de declaração do beneficiário efetivo, nos termos da lei.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 13.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 5.º — Âmbito material
+
+O FCPC contém, além dos elementos de identificação das entidades referidas no artigo anterior, a inscrição dos factos previstos nos artigos seguintes, podendo ainda conter outros dados de informação previstos na legislação comercial, designadamente no Código do Registo Comercial, bem como os dados necessários à prossecução das atribuições legais ou estatutárias de organismos do sector público.
+
+### Artigo 6.º — Pessoas colectivas
+
+Estão sujeitos a inscrição no FCPC os seguintes actos e factos relativos a pessoas colectivas:
+
+a) Constituição;
+
+b) Modificação de firma ou denominação;
+
+c) Alteração do objecto ou do capital;
+
+d) Alteração da localização da sede ou do endereço postal, incluindo a transferência da sede de e para Portugal;
+
+e) A alteração do código de actividade económica (CAE);
+
+f) Fusão, cisão ou transformação;
+
+g) Cessação de actividade;
+
+h) Dissolução, encerramento da liquidação ou regresso à actividade.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+### Artigo 7.º — Representações de pessoas colectivas internacionais ou de direito estrangeiro
+
+Estão sujeitos a inscrição no FCPC os seguintes actos e factos relativos a representações de pessoas colectivas internacionais ou de direito estrangeiro que exerçam actividade em Portugal:
+
+a) Início e cessação de actividade;
+
+b) Alteração do objecto ou capital;
+
+c) Alteração da localização da sede ou do endereço postal;
+
+d) A alteração do código de actividade económica (CAE);
+
+e) Elementos de identificação da entidade representada e suas alterações.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 8.º — Organismos e serviços públicos
+
+Estão sujeitos a inscrição no FCPC, relativamente a organismos e serviços da Administração Pública não personalizados, o respectivo nome, endereço postal e suas alterações, bem como a menção do diploma da criação.
+
+### Artigo 9.º — Estabelecimentos individuais de responsabilidade limitada
+
+Estão sujeitos a inscrição no FCPC os seguintes actos e factos relativos a estabelecimentos individuais de responsabilidade limitada:
+
+a) Constituição;
+
+b) Alteração da firma;
+
+c) Alteração da localização da sede ou do endereço postal;
+
+d) Alteração do objecto ou do capital;
+
+e) A alteração do código de actividade económica (CAE);
+
+f) Cessação de actividade, entrada em liquidação e encerramento da liquidação.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 10.º — Outras entidades e comerciantes individuais
+
+1 - Estão sujeitos a inscrição no FCPC os seguintes actos e factos, bem como as suas alterações, relativos às entidades referidas nas alíneas c) e d) do n.º 1 do artigo 4.º e a comerciantes individuais:
+
+a) Firma ou denominação;
+
+b) Sede ou domicílio e endereço postal;
+
+c) Objecto social ou actividade exercida;
+
+d) A alteração do código de actividade económica (CAE);
+
+e) Início e cessação de actividade.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 11.º — Forma de inscrição
+
+1 - As entidades sujeitas a registo comercial obrigatório e as que o tenham requerido, bem como os actos e factos que a umas e outras respeitem, são oficiosamente inscritos no FCPC, através de comunicação automática electrónica do sistema integrado do registo comercial (SIRCOM).
+
+2 - As demais entidades devem promover a inscrição no FCPC no prazo de validade do certificado de admissibilidade, quando exista, ou no prazo de um mês a contar da verificação dos seguintes factos:
+
+a) Finalização das formalidades legais de constituição, no caso de pessoas colectivas;
+
+b) Publicação do diploma de criação, no caso de entidades constituídas por diploma legal;
+
+c) Início de actividade, nos restantes casos.
+
+3 - A inscrição pode ser requerida por um dos constituintes ou, sendo o caso, pelas entidades já constituídas, através das seguintes formas:
+
+a) Presencialmente, por forma verbal, pelo próprio ou por pessoa com legitimidade para o efeito ou advogado, notário ou solicitador, ou por escrito em formulário próprio;
+
+b) Através de sítio na Internet, se essa funcionalidade estiver disponibilizada;
+
+c) Pelo correio em formulário próprio.
+
+4 - Quando intervenham na formalização dos actos constitutivos das pessoas colectivas referidas no n.º 2 ou em alterações estatutárias posteriores, os notários devem promover a inscrição no FCPC ou advertir para a necessidade de esta ser efectuada no prazo legal.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 11.º-A — Comunicações obrigatórias
+
+1 - É oficiosa e gratuitamente comunicado aos serviços da administração tributária e da segurança social, por via electrónica, o conteúdo dos seguintes actos respeitantes a entidades inscritas no FCPC que não estejam sujeitas no registo comercial:
+
+a) Inscrição inicial;
+
+b) A mudança da firma ou da denominação;
+
+c) A alteração da localização da sede, do domicílio ou do endereço postal;
+
+d) A dissolução e o encerramento da liquidação.
+
+2 - Para os efeitos do disposto na alínea d) do número anterior, no momento da inscrição desse facto no FCPC deve ser obrigatoriamente indicado o representante da entidade para efeitos tributários, nos termos do n.º 4 do artigo 19.º do Decreto-Lei n.º 398/98, de 17 de Dezembro.
+
+3 - As comunicações obrigatórias efectuadas nos termos dos números anteriores determinam que os serviços da administração tributária e da segurança social não podem exigir a apresentação das respectivas declarações.
+
+> Aditado pelo/a Artigo 14.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-10-01
+
+### Artigo 11.º-B — Não aceitação do pedido de inscrição
+
+1 - O pedido de inscrição não é aceite nos casos seguintes:
+
+a) O requerimento do pedido não respeite o modelo aprovado, não contenha os elementos de preenchimento obrigatório ou não se encontre devidamente instruído;
+
+b) O pedido seja ininteligível;
+
+c) Não tenham sido pagas as quantias que se mostrem devidas;
+
+d) Não haja lugar a inscrição.
+
+2 - Em caso de não aceitação do pedido, se o interessado declarar que pretende impugnar o acto, o funcionário deve proferir a sua decisão por escrito.
+
+> Aditado pelo/a Artigo 27.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 12.º — Inscrição oficiosa
+
+1 - O RNPC pode fazer inscrever oficiosamente no FCPC as entidades que não tenham cumprido a obrigação legal de requerer a inscrição e cuja identificação esteja estabelecida.
+
+2 - Após a inscrição oficiosa, deve ser promovido o procedimento legal que ao caso couber.
+
+## Capítulo II — Número e cartão de identificação
+
+### Artigo 13.º — Número de identificação
+
+1 - A cada entidade inscrita no FCPC é atribuído um número de identificação próprio, designado número de identificação de pessoa colectiva (NIPC).
+
+2 - O NIPC é um número sequencial de nove dígitos, variando o primeiro dígito da esquerda entre os algarismos 5 e 9, com exclusão do algarismo 7.
+
+3 - A atribuição do primeiro dígito da esquerda é efectuada de harmonia com tabela aprovada por portaria do Ministro da Justiça.
+
+### Artigo 14.º — Atribuição e exclusividade
+
+1 - O NIPC só pode ser atribuído pelo RNPC ou pelos serviços de registo designados nos termos do disposto no n.º 1 do artigo 78.º, sendo vedada a atribuição por qualquer outra entidade de número susceptível de confusão com o NIPC.
+
+2 - Não é permitido o uso de designações genéricas, nomeadamente número de pessoa colectiva, número de empresa ou semelhante, para designar números diferentes do NIPC e que possam gerar confusão com este.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 15.º — Número provisório de identificação
+
+1 - Com a emissão do certificado de admissibilidade é atribuído um NIPC provisório para efeitos de constituição de pessoa colectiva, de estabelecimento individual de responsabilidade limitada, de organismos da Administração Pública que incorporem na sua denominação siglas, expressões de fantasia ou composições e para os empresários individuais referidos na alínea h) do n.º 1 do artigo 4.º
+
+2 - Para a apresentação de pedidos no registo comercial é igualmente atribuído pelos serviços de registo um NIPC provisório às seguintes entidades:
+
+a) Representações permanentes de pessoas colectivas registadas no estrangeiro;
+
+b) Comerciantes individuais que usem firma exclusivamente composta pelo seu nome completo ou abreviado;
+
+c) Instrumentos de gestão fiduciária e sucursais financeiras exteriores da Zona Franca da Madeira que tenham efectuado o pedido de registo.
+
+3 - O NIPC provisório tem o mesmo prazo de validade do certificado que lhe deu origem ou, nos casos previstos no número anterior, o prazo de validade do registo que lhe está associado.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 16.º — Cartão de identificação
+
+Qualquer entidade inscrita no FCPC pode solicitar a emissão de um cartão de identificação, com excepção das entidades referidas no n.º 1 do artigo 12.º, enquanto não se mostrar completamente regularizada a respectiva situação.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 17.º — Conteúdo do cartão
+
+1 - O cartão de identificação deve conter a indicação do NIPC, do nome, firma ou denominação, do domicílio ou sede, da natureza jurídica e da actividade principal, bem como o número do bilhete de identidade dos empresários individuais.
+
+2 - Os modelos de cartão de identificação devem ser diferentes para as pessoas colectivas, para os comerciantes e outros empresários individuais e para as restantes entidades.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 18.º — Cartão provisório de identificação
+
+1 - Às entidades que iniciaram o processo de constituição como pessoas colectivas ou entidades equiparadas, mas que ainda não tenham concluído as formalidades legais requeridas, pode ser emitido, a seu pedido, um cartão provisório de identificação.
+
+2 - A emissão do cartão provisório de identificação pode ser solicitada simultaneamente com o pedido de certificado de admissibilidade de firma ou denominação.
+
+3 - Do cartão provisório de identificação deve constar o número provisório de identificação, o nome ou designação social do titular, a sede, a actividade económica e a data de emissão.
+
+4 - O número provisório de identificação é constituído de acordo com o disposto no artigo 13.º mas antecedido da letra «P».
+
+5 - O cartão provisório de identificação é válido durante o prazo de três meses contado a partir da data da sua emissão, podendo, porém, ser revalidado em caso de impossibilidade de conclusão do processo de constituição ou regularização não imputável ao seu titular.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+### Artigo 19.º — Recusa ou suspensão da emissão
+
+1 - A emissão de cartão de identificação pode ser recusada ou suspensa em caso de existência de nulidades no processo legal de constituição da pessoa colectiva ou entidade a identificar.
+
+2 - No caso previsto no número anterior, pode ser emitido cartão provisório, renovável enquanto se mantiver, por razões alheias à vontade do seu titular, o motivo da recusa ou suspensão.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 20.º — Actualização e substituição
+
+1 - O cartão de identificação deve ser actualizado sempre que se verifiquem alterações nos elementos dele constantes e substituído nos casos de mau estado de conservação, perda, destruição ou extravio.
+
+2 - A actualização e substituição do cartão de identificação é pedida ao RNPC, em impresso próprio, directamente ou por intermédio das conservatórias do registo comercial ou de outras entidades para tal autorizadas.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+## Capítulo III — Base de dados do ficheiro central de pessoas colectivas
+
+> Alterado pelo/a Artigo 28.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 21.º — Funções e actualização dos dados
+
+1 - Os dados constantes da base de dados do FCPC destinam-se:
+
+a) A fornecer aos organismos e serviços do Estado e demais pessoas colectivas de direito público a informação básica sobre pessoas colectivas e entidades equiparadas de que necessitem para prossecução das suas atribuições legais ou estatutárias;
+
+b) A fornecer a entidades privadas, designadamente do sector financeiro, a informação referida na alínea anterior, na medida em que esta seja necessária para execução das políticas definidas pelas entidades legalmente competentes, particularmente nos domínios financeiro, monetário e fiscal;
+
+c) A fornecer a informação de identificação das entidades referidas nas alíneas a), b), e), f), g) e i) do n.º 1 do artigo 4.º, bem como dos atos e factos relativos a estas que estejam sujeitos a inscrição no Ficheiro Central de Pessoas Coletivas.
+
+d) À verificação da admissibilidade de firmas ou denominações.
+
+2 - O fornecimento de informação de identificação das entidades referidas nas alíneas c), d), h) do n.º 1 e no n.º 2 do artigo 4.º, bem como dos atos e factos relativos a estas que estejam sujeitos a inscrição no Ficheiro Central de Pessoas Coletivas, é feito nos termos do Código do Procedimento Administrativo.
+
+3 - Relativamente às entidades sujeitas a registo comercial, a base de dados do FCPC é automaticamente actualizada através do SIRCOM.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 52/2018 - Diário da República n.º 120/2018, Série I de 2018-06-25, em vigor a partir de 2018-06-26
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 21.º-A — Dados pessoais recolhidos
+
+1 - São recolhidos para tratamento automatizado os seguintes dados pessoais referentes aos requerentes dos certificados de admissibilidade de firma ou denominação e aos sujeitos dos actos ou factos a inscrever na base de dados do FCPC:
+
+a) Nome;
+
+b) Residência habitual ou domicílio profissional;
+
+c) Número do documento de identificação;
+
+d) Número de identificação fiscal;
+
+e) Número de identificação bancária, se disponibilizado;
+
+f) Meios de contacto telefónicos e informáticos.
+
+2 - Os dados pessoais constantes da base de dados do FCPC são recolhidos dos requerimentos ou documentos apresentados pelos interessados ou das comunicações efectuadas pelas conservatórias do registo comercial através do SIRCOM e servem para tornar mais célere a comunicação com os interessados e efectuar os reembolsos a que estes tenham direito.
+
+> Aditado pelo/a Artigo 27.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 22.º — Comunicação dos dados
+
+1 - Os dados constantes do FCPC podem ser comunicados às entidades e para as finalidades previstas no artigo anterior.
+
+2 - A consulta online e a cedência de cópias totais ou parciais podem ser autorizadas:
+
+a) Aos serviços e entidades referidos no artigo 21.º;
+
+b) Às entidades legal ou estatutariamente competentes para intervir na constituição de pessoas colectivas;
+
+c) Aos magistrados judiciais e do Ministério Público, juízes de paz, bem como aos agentes de execução e aos administradores da insolvência, no âmbito da prossecução das suas atribuições;
+
+d) Às entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou de instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências, bem como às entidades com competência legal para garantir a segurança interna, no âmbito da prossecução dos seus fins.
+
+3 - O acesso aos dados nos termos do número anterior está sujeito à celebração de protocolo com o IRN, I. P., que define os seus limites face às atribuições legais e estatutárias das entidades interessadas e ao envio de cópia deste, por via electrónica, à Comissão Nacional de Protecção de Dados.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 22.º-A — Certidão online
+
+1 - A informação constante do FCPC referente às entidades mencionadas nas alíneas a), b) e e) do n.º 1 do artigo 4.º pode ser disponibilizada em suporte eletrónico e permanentemente atualizada, mediante certidão a emitir nos termos e condições a definir por portaria do membro do Governo responsável pela área da justiça.
+
+2 - A disponibilização da informação constante da certidão referida no número anterior em sítio da Internet faz prova, para todos os efeitos legais e perante qualquer entidade pública ou privada, dos atos e factos relativos à entidade a que diga respeito.
+
+3 - A certidão disponibilizada nos termos do n.º 1 faz prova, para todos os efeitos e perante qualquer entidade pública ou privada, nos mesmos termos da correspondente versão em suporte de papel.
+
+4 - O pedido da certidão prevista no presente artigo apenas pode ser efetuado eletronicamente, nos termos a definir pela portaria referida no n.º 1.
+
+> Retificado pelo/a Declaração de Retificação n.º 24/2018 - Diário da República n.º 145/2018, Série I de 2018-07-30, em vigor a partir de 2018-06-26
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 52/2018 - Diário da República n.º 120/2018, Série I de 2018-06-25, em vigor a partir de 2018-06-26
+
+### Artigo 23.º — Acesso aos dados pelos seus titulares
+
+1 - Qualquer pessoa tem o direito de conhecer o conteúdo do registo ou registos constantes da base de dados que lhe respeitem.
+
+2 - A reprodução exacta dos registos a que se refere o número anterior, com a indicação do significado de quaisquer códigos ou abreviaturas deles constantes, é fornecida, a requerimento dos respectivos titulares:
+
+a) Gratuitamente, no momento da inscrição no FCPC ou em caso de alteração à inscrição inicial;
+
+b) Mediante o pagamento dos encargos devidos correspondentes às informações dadas por escrito, nos outros casos.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 24.º — Informação para fins de investigação ou de estatística
+
+1- Para além dos casos previstos no artigo 22.º, a informação pode ser divulgada para fins de investigação ou de estatística, desde que não possam ser identificáveis as pessoas a que respeita, mediante autorização do director do RNPC.
+
+2 - A informação para fins de investigação científica ou de estatística relativa a entidades sujeitas a inscrição no Ficheiro Central de Pessoas Coletivas pode resultar do cruzamento dos dados contidos nas diversas bases de dados registais e Base de Dados das Contas Anuais, desde que não possam ser individualizadas as entidades a que respeita a informação.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-03
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 25.º — Transmissão de dados comunicados a terceiros
+
+Os dados comunicados nos termos do artigo 22.º não podem ser transmitidos a terceiros, salvo mediante autorização escrita do director do RNPC onde se refira a finalidade prosseguida com a transmissão e com respeito pelas condições definidas no presente diploma.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 26.º — Correcção de dados
+
+Qualquer interessado tem o direito de exigir a correcção de eventuais inexactidões e omissões, bem como a supressão de dados indevidamente registados, nos termos previstos na alínea d) do n.º 1 do artigo 11.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 27.º — Conservação dos dados
+
+Os dados pessoais podem ser conservados no FCPC:
+
+a) Até um ano após a inscrição da cessação da actividade de empresário individual;
+
+b) Até um ano após a caducidade do certificado de admissibilidade ou, no caso de recurso hierárquico ou impugnação judicial, até um ano após o trânsito em julgado da decisão final.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 28.º — Conservação de documentos
+
+1 - Os pedidos de certificado de admissibilidade e de inscrição no FCPC são conservados em suporte informático.
+
+2 - Se os pedidos referidos no número anterior forem efectuados em suporte físico, estes e a respectiva documentação anexa, caso exista, devem ser informatizados e conservados dessa forma, sendo imediatamente devolvidos aos interessados, desde que as condições técnicas permitam a informatização.
+
+3 - Quaisquer outros documentos e registos inerentes ao funcionamento dos serviços que não contenham decisão de eficácia permanente podem ser destruídos decorrido um ano sobre a respectiva data.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 29.º — Segurança do FCPC
+
+Devem ser conferidas as garantias de segurança necessárias a impedir a consulta, a modificação, a supressão, o acrescentamento, a destruição ou a comunicação dos dados constantes no FCPC por forma não consentida no presente diploma.
+
+### Artigo 30.º — Entidade responsável
+
+1 - O presidente do IRN, I. P., é a entidade responsável pela base de dados, nos termos e para os efeitos definidos na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro.
+
+2 - Cabe ao director do RNPC o dever de assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como o de velar pela legalidade da consulta ou comunicação da informação.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 31.º — Dever de sigilo
+
+Os responsáveis pelo tratamento de dados pessoais, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados na base de dados do FCPC, ficam obrigados a sigilo profissional, mesmo após o termo das suas funções.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+## Título III — Admissibilidade de firmas e denominações
+
+## Capítulo I — Princípios gerais
+
+### Artigo 32.º — Princípio da verdade
+
+1 - Os elementos componentes das firmas e denominações devem ser verdadeiros e não induzir em erro sobre a identificação, natureza ou actividade do seu titular.
+
+2 - Os elementos característicos das firmas e denominações, ainda quando constituídos por designações de fantasia, siglas ou composições, não podem sugerir actividade diferente da que constitui o objecto social.
+
+3 - Para efeitos do disposto neste artigo não deve ser efectuado o controlo da legalidade do objecto social, devendo somente ser assegurado o cumprimento do disposto nos números anteriores.
+
+4 - Das firmas e denominações não podem fazer parte:
+
+a) Expressões que possam induzir em erro quanto à caracterização jurídica da pessoa colectiva, designadamente o uso, por entidades com fim lucrativo, de expressões correntemente usadas na designação de organismos públicos ou de associações sem finalidade lucrativa;
+
+b) Expressões proibidas por lei ou ofensivas da moral ou dos bons costumes;
+
+c) Expressões incompatíveis com o respeito pela liberdade de opção política, religiosa ou ideológica;
+
+d) Expressões que desrespeitem ou se apropriem ilegitimamente de símbolos nacionais, personalidades, épocas ou instituições cujo nome ou significado seja de salvaguardar por razões históricas, patrióticas, científicas, institucionais, culturais ou outras atendíveis.
+
+5 - Quando, por qualquer causa, deixe de ser associado ou sócio pessoa singular cujo nome figure na firma ou denominação de pessoa colectiva, deve tal firma ou denominação ser alterada no prazo de um ano, a não ser que o associado ou sócio que se retire ou os herdeiros do que falecer consintam por escrito na continuação da mesma firma ou denominação.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+### Artigo 33.º — Princípio da novidade
+
+1 - As firmas e denominações devem ser distintas e não susceptíveis de confusão ou erro com as registadas ou licenciadas no mesmo âmbito de exclusividade, mesmo quando a lei permita a inclusão de elementos utilizados por outras já registadas, ou com designações de instituições notoriamente conhecidas.
+
+2 - Os juízos sobre a distinção e a não susceptibilidade de confusão ou erro devem ter em conta o tipo de pessoa, o seu domicílio ou sede, a afinidade ou proximidade das suas actividades e o âmbito territorial destas.
+
+3 - Não são admitidas denominações constituídas exclusivamente por vocábulos de uso corrente que permitam identificar ou se relacionem com actividade, técnica ou produto, bem como topónimos e qualquer indicação de proveniência geográfica.
+
+4 - A incorporação na firma ou denominação de sinais distintivos registados está sujeita à prova do seu uso legítimo.
+
+5 - Nos juízos a que se refere o n.º 2 deve ainda ser considerada a existência de marcas e logótipos já concedidos que sejam de tal forma semelhantes que possam induzir em erro sobre a titularidade desses sinais distintivos.
+
+6 - Para que possam prevalecer do disposto no número anterior, os titulares das marcas ou logótipos devem ter efectuado anteriormente prova do seu direito junto do RNPC.
+
+7 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+### Artigo 34.º — Firmas e denominações registadas no estrangeiro
+
+1 - A instituição de representações permanentes de pessoas colectivas registadas no estrangeiro não está sujeita à emissão de certificado de admissibilidade de firma.
+
+2 - A garantia da protecção das denominações de pessoas colectivas internacionais está dependente da confirmação da sua existência jurídica pelo Ministério dos Negócios Estrangeiros e da não susceptibilidade de confusão com firmas ou denominações já registadas em Portugal.
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+### Artigo 35.º — Exclusividade
+
+1 - Após o registo definitivo é conferido o direito ao uso exclusivo de firma ou denominação no âmbito territorial especialmente definido para a entidade em causa nos artigos 36.º a 43.º
+
+2 - O certificado de admissibilidade de firma ou denominação constitui mera presunção de exclusividade.
+
+3 - Salvo no caso de decisão judicial, a atribuição do direito ao uso exclusivo ou a declaração de perda do direito ao uso de qualquer firma ou denominação efectuadas pelo RNPC não podem ser sindicadas por qualquer entidade, ainda que para efeitos de registo comercial.
+
+4 - O disposto nos n.os 1 e 2 não prejudica a possibilidade de declaração de nulidade, anulação ou revogação do direito à exclusividade por sentença judicial ou a declaração da sua perda nos termos dos artigos 60.º e 61.º
+
+## Capítulo II — Regras especiais
+
+### Artigo 36.º — Associações e fundações
+
+1 - As denominações das associações e das fundações devem ser compostas por forma a dar a conhecer a sua natureza associativa ou institucional, respectivamente, podendo conter siglas, expressões de fantasia ou composições.
+
+2 - Podem, todavia, ser admitidas denominações sem referência explícita à natureza associativa ou institucional, desde que correspondam a designações tradicionais ou não induzam em erro sobre a natureza da pessoa colectiva.
+
+3 - É reconhecido o direito ao uso exclusivo da denominação das associações e fundações a partir da data do seu registo definitivo no RNPC:
+
+a) Em todo o território nacional, quando o seu objecto estatutário não indicie a prática de actividades de carácter essencialmente local ou regional;
+
+b) No âmbito geográfico do exercício das suas actividades estatutárias, nos restantes casos.
+
+### Artigo 37.º — Sociedades comerciais e sociedades civis sob forma comercial
+
+1 - As firmas das sociedades comerciais e das sociedades civis sob forma comercial devem ser compostas nos termos previstos no Código das Sociedades Comerciais e em legislação especial, sem prejuízo da aplicação das disposições do presente diploma no que se não revele incompatível com a referida legislação.
+
+2 - As sociedades comerciais e as sociedades civis sob forma comercial têm direito ao uso exclusivo da sua firma em todo o território nacional.
+
+### Artigo 38.º — Comerciantes individuais
+
+1 - O comerciante individual deve adoptar uma só firma, composta pelo seu nome, completo ou abreviado, conforme seja necessário para identificação da pessoa, podendo aditar-lhe alcunha ou expressão alusiva à actividade exercida.
+
+2 - O comerciante individual pode ainda aditar à sua firma a indicação «Sucessor de» ou «Herdeiro de» e a firma do estabelecimento que tenha adquirido.
+
+3 - O nome do comerciante individual não pode ser antecedido de quaisquer expressões ou siglas, salvo as correspondentes a títulos académicos, profissionais ou nobiliárquicos a que tenha direito, e a sua abreviação não pode reduzir-se a um só vocábulo, a menos que a adição efectuada o torne completamente individualizador.
+
+4 - Os comerciantes individuais que não usem como firma apenas o seu nome completo ou abreviado têm direito ao uso exclusivo da sua firma desde a data do registo definitivo e no âmbito do concelho onde se encontra o seu estabelecimento principal.
+
+5 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 39.º — Outros empresários individuais
+
+1 - Os demais empresários individuais que exerçam habitualmente, por conta própria e com fim lucrativo, actividade económica legalmente não qualificada como comercial ou como profissão liberal podem adoptar uma firma sob a qual são designados no exercício dessa actividade e com ela podem assinar os respectivos documentos.
+
+2 - À firma dos empresários individuais aplicam-se, com as necessárias adaptações, as regras constantes do artigo anterior.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 40.º — Estabelecimentos individuais de responsabilidade limitada
+
+1 - A firma de estabelecimento individual de responsabilidade limitada é composta pelo nome do seu titular, acrescido ou não de referência ao objecto do comércio nele exercido, e pelo aditamento «Estabelecimento Individual de Responsabilidade Limitada» ou «E. I. R. L.».
+
+2 - O nome do titular pode ser abreviado, com os limites referidos no n.º 3 do artigo 38.º
+
+3 - Ao uso exclusivo da firma do estabelecimento individual de responsabilidade limitada é aplicável o disposto no n.º 4 do artigo 38.º
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 41.º — Heranças indivisas
+
+1 - As heranças indivisas, quando se comportem, na sua actividade, com características de permanência e relevância económica, podem adoptar uma firma ou denominação.
+
+2 - A firma ou denominação das heranças indivisas é constituída pelo nome ou firma do autor da sucessão, antecedido de «Herdeiros de» ou «Sucessores de» ou, em alternativa, seguido de «Herdeiros» ou «Sucessores».
+
+3 - O âmbito de uso exclusivo da firma da herança indivisa é o que correspondia à do autor da sucessão.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 42.º — Sociedades civis sob forma civil
+
+1 - Sem prejuízo do disposto em legislação especial, as denominações das sociedades civis sob forma civil podem ser compostas pelos nomes, completos ou abreviados, de um ou mais sócios, seguidos do aditamento «e Associados», bem como por siglas, iniciais, expressões de fantasia ou composições, desde que acompanhadas da expressão «Sociedade».
+
+2 - É aplicável às sociedades civis sob forma civil o disposto no n.º 3 do artigo 36.º
+
+### Artigo 43.º — Outras pessoas colectivas
+
+1 - As denominações de outras pessoas colectivas regem-se pela lei respectiva e pelas disposições deste diploma que a não contrariem.
+
+2 - Às denominações previstas no número anterior aplica-se, com as necessárias adaptações, o disposto no n.º 3 do artigo 36.º se outra coisa não dispuser lei especial.
+
+### Artigo 44.º — Transmissão do estabelecimento
+
+1 - O adquirente, por qualquer título entre vivos, de um estabelecimento comercial pode aditar à sua própria firma a menção de haver sucedido na firma do anterior titular do estabelecimento, se esse titular o autorizar, por escrito.
+
+2 - Tratando-se de firma de sociedade onde figure o nome de sócio, a autorização deste é também indispensável.
+
+3 - No caso de aquisição, por herança ou legado, de um estabelecimento comercial, o adquirente pode aditar à sua própria a firma do anterior titular do estabelecimento, com a menção de nela haver sucedido.
+
+4 - É proibida a aquisição de uma firma sem a do estabelecimento a que se achar ligada.
+
+## Capítulo III — Procedimento
+
+### Artigo 45.º — Certificado de admissibilidade de firma ou denominação
+
+1 - A admissibilidade das firmas e denominações é comprovada através da disponibilização do respectivo certificado requerido pelos interessados.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29, em vigor a partir de 2006-06-30
+
+### Artigo 46.º — Pedido de certificado
+
+1 - O pedido de certificado de admissibilidade de firma ou denominação deve ser requerido por um dos constituintes ou, sendo o caso, pelas entidades já constituídas, através das seguintes formas:
+
+a) Presencialmente, por forma verbal, pelo próprio ou por pessoa com legitimidade para o efeito, ou advogado, notário ou solicitador ou por escrito em formulário próprio;
+
+b) Através de sítio na Internet;
+
+c) Pelo correio em formulário próprio.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 12/2001 - Diário da República n.º 21/2001, Série I-A de 2001-01-25, em vigor a partir de 2001-01-26
+
+### Artigo 46.º-A — Não aceitação do pedido de certificado
+
+1 - O pedido de certificado não é aceite nos casos seguintes:
+
+a) O requerimento do pedido não respeite o modelo aprovado ou não contenha os elementos de preenchimento obrigatório;
+
+b) O pedido seja ininteligível;
+
+c) Não tenham sido pagas as quantias que se mostrem devidas;
+
+d) Não haja lugar a emissão de certificado de admissibilidade.
+
+2 - Em caso de não aceitação do pedido, se o interessado declarar que pretende impugnar o acto, o funcionário deve proferir a sua decisão por escrito.
+
+> Aditado pelo/a Artigo 27.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 47.º — Informação sobre viabilidade de firma ou denominação
+
+Qualquer interessado pode solicitar informações sobre a viabilidade de firma ou denominação que pretenda usar.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 48.º — Reserva de firma ou denominação
+
+1 - No caso de, em primeira análise, a firma ou denominação proposta se mostrar construída nos termos legais e não susceptível de confusão com outra já registada, é admitida a sua reserva por quarenta e oito horas, fornecendo-se ao interessado um número de referência.
+
+2 - A reserva de firma ou denominação constitui mera presunção de não confundibilidade da firma ou denominação reservada com firmas e denominações anteriormente registadas ou licenciadas.
+
+3 - Pelo acto de reserva é devido o emolumento fixado na respectiva tabela.
+
+4 - A reserva caduca automaticamente se o pedido de certificado não for correctamente formalizado no prazo referido no n.º 1.
+
+5 - O posterior indeferimento do certificado por razões de confundibilidade implica a restituição do emolumento pago pela reserva.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 49.º — Junção de documentos
+
+1 - Os requerentes podem juntar ao pedido de certificado os documentos que considerem pertinentes para a apreciação do pedido.
+
+2 - Deve ser oficiosamente solicitada aos requerentes, quando não a tenham feito, a junção, no prazo de cinco dias úteis, dos documentos e das informações necessárias à verificação da ocorrência dos requisitos estabelecidos na lei.
+
+3 - A falta de apresentação dos documentos e das informações no prazo fixado implica o arquivamento do pedido, sem direito à restituição do correspondente emolumento.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 50.º — Ordem de prioridade
+
+1 - O pedido de certificado de admissibilidade de firma ou denominação apresentado em primeiro lugar prevalece sobre os que se lhe seguirem.
+
+2 - O número de referência, a data e a hora de recepção em UTC (universal time coordinated) do pedido devem constar dos pedidos de certificado apresentados.
+
+3 - A ordem da prioridade do pedido é definida pela data e hora do registo do pedido no sistema informático.
+
+4 - Os pedidos apresentados através de sítio na Internet referido na alínea b) do n.º 1 do artigo 46.º são registados pela ordem da respectiva recepção.
+
+5 - Os pedidos apresentados pelo correio são registados logo após a abertura da correspondência.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 12/2001 - Diário da República n.º 21/2001, Série I-A de 2001-01-25, em vigor a partir de 2001-01-26
+
+### Artigo 50.º-A — Aprovação automática de firmas e denominações
+
+No caso de pedidos de firmas para efeitos de constituição de sociedades por quotas, unipessoal por quotas ou anónima em que as firmas correspondam ao nome dos sócios pessoas singulares, podem ser utilizados meios electrónicos e automáticos para a sua aprovação.
+
+> Aditado pelo/a Artigo 27.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 50.º-B — Notificação do indeferimento de pedido de certificado
+
+1 - Os indeferimentos dos pedidos de certificados de admissibilidade apresentados electronicamente são exclusivamente notificados através de mensagem de correio electrónico enviada para endereço electrónico válido fornecido pelo requerente, devendo ainda os interessados, sempre que possível, ser avisados por short message service (sms) ou outro meio considerado adequado.
+
+2 - Os indeferimentos dos pedidos de certificados de admissibilidade apresentados por outras vias podem ser notificados nos termos previstos no número anterior caso os interessados forneçam um endereço electrónico válido.
+
+> Aditado pelo/a Artigo 27.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 51.º — Disponibilização do certificado
+
+1 - O certificado de admissibilidade de firma ou denominação é disponibilizado exclusivamente de forma electrónica.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 52.º — Invalidação e desistência
+
+1 - O requerente do certificado de admissibilidade de firma ou denominação pode desistir do pedido de certificado e pode pedir a sua invalidação, desde que o certificado não tenha sido utilizado.
+
+2 - Os pedidos referidos no número anterior podem ser apresentados por qualquer uma das vias previstas no n.º 1 do artigo 46.º
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 53.º — Validade do certificado
+
+1 - O certificado de admissibilidade de firma ou denominação é válido pelo período de três meses, a contar da data da sua emissão, para a firma, sede, objecto, requerente e condições de validade nele indicadas.
+
+2 - (Revogado).
+
+3 - O certificado condicionado à participação de pessoa singular ou colectiva ou de titular de direito de propriedade industrial já registado só é válido quando utilizado por pessoa legitimada para o efeito.
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+### Artigo 54.º — Efeitos do certificado na celebração de actos
+
+1 - Os actos de constituição de pessoas colectivas ou de estabelecimentos individuais de responsabilidade limitada devem fazer referência à emissão do certificado de admissibilidade da firma ou denominação adoptada, através da indicação do respectivo número e data de emissão.
+
+2 - O acto de alteração do contrato de sociedade ou estatutos que determine a modificação da firma ou denominação, a modificação do objecto, a alteração da sede para concelho diferente ou a transferência para Portugal da sede de sociedade estrangeira não pode ser efectuado sem que seja feita referência ao certificado comprovativo da admissibilidade da nova firma ou denominação ou da sua manutenção em relação ao novo objecto e sede, nos termos do número anterior.
+
+3 - O disposto no número anterior não se aplica aos casos em que a alteração da firma se limite à alteração do elemento que identifica o tipo de pessoa colectiva, nem aos casos de alteração de sede de sociedades que utilizem firma constituída por expressão de fantasia, acrescida ou não de referência à actividade.
+
+4 - Nos actos a que se referem os números anteriores, o objecto social não pode ser ampliado a actividades não contidas no objecto declarado no certificado de admissibilidade.
+
+5 - O disposto nos números anteriores não prejudica a especificação ou restrição das actividades contidas no objecto declarado, desde que estas não estejam reflectidas na denominação, nem as alterações de redacção ou correcção de erros materiais que não envolvam a sua ampliação.
+
+6 - A actividade resultante da participação no capital de outras entidades não é considerada actividade autónoma para efeitos deste artigo.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 17.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+### Artigo 55.º — Nulidade do acto
+
+1 - É nulo o acto efectuado:
+
+a) Com inobservância do disposto nos n.os 1 e 3 do artigo 53.º; ou
+
+b) Sem a emissão do certificado de admissibilidade de firma ou denominação, quando este deva ser exigido.
+
+2 - A nulidade prevista na alínea b) do número anterior é sanável mediante a apresentação do certificado de admissibilidade de firma ou denominação em falta no prazo de três meses a contar da data do acto.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 56.º — Obrigatoriedade de verificação da emissão de certificado
+
+1 - Está sujeita à verificação da disponibilização de certificado de admissibilidade da respectiva firma ou denominação o registo comercial ou a inscrição no FCPC, consoante os casos:
+
+a) Do início de actividade de comerciante individual que adopte firma diferente do seu nome completo ou abreviado, bem como da alteração desta firma ou da mudança de estabelecimento principal para outro concelho;
+
+b) De contrato de sociedade da alteração da respectiva firma ou objecto, da mudança de sede para concelho diferente, sem prejuízo do disposto no n.º 3 do artigo 54.º, ou da fusão, cisão ou transformação de sociedades;
+
+c) Da constituição, da alteração da respectiva denominação ou objecto, da mudança da sede para outro concelho ou da fusão, cisão ou transformação de cooperativa;
+
+d) Da constituição, do agrupamento, da alteração da respectiva denominação ou objecto ou da fusão ou cisão de empresa pública;
+
+e) Do contrato de agrupamento complementar de empresas ou de agrupamento europeu de interesse económico ou da alteração da respectiva denominação ou objecto;
+
+f) Da constituição de estabelecimento individual de responsabilidade limitada, bem como da alteração da sua firma ou objecto ou da mudança de sede para outro concelho;
+
+g) Da denominação de empresário individual não comerciante, da sua alteração ou, se a denominação contiver indicação de actividade, da mudança de domicílio do seu titular;
+
+h) Da constituição de associação ou instituição de fundação com personalidade jurídica, bem como da alteração da denominação, do objecto estatutário ou da transferência da sede para outro concelho.
+
+i) Da criação pelo Estado e outros entes públicos de pessoas colectivas e de organismos da Administração Pública que incorporem na sua denominação siglas, expressões de fantasia ou composições.
+
+2 - O disposto no número anterior não é aplicável:
+
+a) À alteração da denominação decorrente de transformação que se restrinja à alteração do elemento que identifica o tipo de pessoa colectiva;
+
+b) À fusão por incorporação que não implique alteração de denominação, sede ou objecto.
+
+3 - O certificado a que se refere o n.º 1 deve estar dentro do seu prazo de validade à data de apresentação do pedido de registo comercial ou de inscrição no FCPC.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 17.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+### Artigo 57.º — Efeitos do certificado no registo de nome de estabelecimento
+
+1 - A realização de registo de nome de estabelecimento deve ser precedida da exibição de certificado comprovativo de que não existe registo de firma ou denominação idêntica ou por tal forma semelhante que seja susceptível de confusão ou possa induzir em erro, face aos critérios constantes do presente diploma, sem prejuízo do disposto no número seguinte.
+
+2 - Não é exigível o certificado referido no número anterior no caso de o titular do estabelecimento provar a sua legitimidade para usar a firma ou denominação que pretende registar como componente do nome desse estabelecimento.
+
+3 - A emissão do certificado previsto no n.º 1 não envolve qualquer juízo sobre o mérito do pedido de registo do nome de estabelecimento.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 58.º — Recusa do registo
+
+O registo comercial ou a inscrição no FCPC, consoante os casos, é recusado quando:
+
+a) O acto for nulo;
+
+b) O certificado de admissibilidade tiver sido emitido com manifesta violação da lei;
+
+c) No acto destinado à constituição ou modificação da pessoa colectiva tiverem sido desrespeitados os elementos ou as condições de validade constantes do certificado de admissibilidade.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 59.º — Anotação da exibição do certificado
+
+O oficial público perante quem for exibido certificado de admissibilidade de firma ou denominação deve anotar esse facto no respectivo original, indicando o acto a que serviu de suporte, bem como a repartição e a data em que foi realizado.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+## Capítulo IV — Vicissitudes
+
+### Artigo 60.º — Perda do direito ao uso de firmas e denominações por violação dos princípios da verdade e novidade
+
+1 - O RNPC deve declarar a perda do direito ao uso de firmas ou denominações quando se verificar terem sido violados os princípios consagrados nos artigos 32.º e 33.º
+
+2 - Na sequência da declaração de perda do direito ao uso de firma ou denominação, deve:
+
+a) Realizar-se o respectivo acto de registo comercial, tratando-se de entidade a ele sujeita;
+
+b) Comunicar-se o facto a outros serviços onde a entidade esteja registada para que a perda do direito ao uso da firma ou denominação seja inscrita.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 61.º — Perda do direito ao uso de firmas e denominações por falta de inscrição ou não exercício de actividade
+
+1 - O RNPC ou qualquer um dos serviços de registo designados nos termos do n.º 1 do artigo 78.º podem, oficiosamente ou a requerimento de qualquer interessado, declarar a perda do direito ao uso de firma ou denominação de terceiro, mediante prova da verificação das seguintes situações:
+
+a) Falta de inscrição da entidade no FCPC decorrido um ano desde o prazo em que a mesma deveria ter sido realizada;
+
+b) Não exercício de actividade pelo titular da firma ou denominação durante um período de dois anos consecutivos.
+
+2 - No caso previsto na alínea a) do número anterior, pode ser declarada a perda do direito ao uso da firma ou denominação, desde que os interessados tenham sido notificados para a sede declarada a fim de regularizarem a situação e o não fizerem no prazo de um mês, a contar da notificação.
+
+3 - À declaração de perda do direito ao uso de firma ou denominação prevista no número anterior é aplicável o disposto no n.º 2 do artigo 60.º
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 25.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+### Artigo 62.º — Uso ilegal de firma ou denominação
+
+O uso ilegal de uma firma ou denominação confere aos interessados o direito de exigir a sua proibição, bem como a indemnização pelos danos daí emergentes, sem prejuízo da correspondente acção criminal, se a ela houver lugar.
+
+## Título IV — Impugnação de decisões
+
+> Alterado pelo/a Artigo 28.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+## Capítulo I — Recurso hierárquico e impugnação judicial
+
+> Aditado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+### Artigo 63.º — Admissibilidade
+
+1 - Podem ser impugnados mediante a interposição de recurso hierárquico para o presidente do IRN, I. P., ou mediante impugnação judicial para o tribunal do domicílio ou sede do recorrente:
+
+a) Os despachos que admitam ou recusem firmas ou denominações;
+
+b) Os despachos que declarem a perda do direito ao uso de firma ou denominação ou que indefiram o respectivo pedido;
+
+c) A imposição de condições à validade do certificado de admissibilidade de firma ou denominação;
+
+d) Os despachos que recusem a aceitação do pedido, exijam o cumprimento de certas formalidades ou o preenchimento de certos requisitos;
+
+e) Os despachos que recusem a invalidação de certificado de admissibilidade de firma ou denominação;
+
+f) Os despachos que recusem ou admitam a inscrição definitiva de pessoas colectivas ou outras entidades no FCPC.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 64.º — Prazo de interposição
+
+O recurso deve ser interposto no prazo de 30 dias após a recepção do ofício de notificação ou, nos casos em que o acto recorrido não deu lugar a ofício, após o seu conhecimento pelo recorrente ou, se for o caso, da publicação da notícia da constituição ou alteração da pessoa colectiva.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2005-07-13
+
+### Artigo 65.º — Tramitação do recurso hierárquico
+
+1 - O recurso hierárquico é apresentado no RNPC.
+
+2 - Recebido o recurso, o director do RNPC deve, no prazo de 10 dias, proferir despacho fundamentado a reparar ou a sustentar a decisão, que é imediatamente notificado ao recorrente.
+
+3 - No caso de manter a decisão, o director do RNPC deve, no prazo de cinco dias, remeter ao IRN, I. P., todo o processo, instruído com o despacho recorrido, o despacho de sustentação e demais documentos.
+
+4 - O recurso é decidido no prazo máximo de 30 dias a contar da sua recepção no IRN, I. P.
+
+5 - No caso de a decisão afectar direitos de terceiros, estes devem ser ouvidos, concedendo-lhes o prazo de 30 dias para a sua resposta, e, caso sejam trazidos novos factos ao procedimento, é garantido, por igual prazo, o direito de resposta do recorrente, suspendendo-se o prazo para a decisão do recurso.
+
+6 - Para proferir as decisões previstas nos n.os 2 e 4 podem ser solicitados ao recorrente documentos ou informações adicionais, suspendendo-se o respectivo prazo.
+
+7 - A decisão final é notificada ao recorrente e aos terceiros referidos no n.º 5.
+
+8 - No caso de a decisão ter sido proferida por uma conservatória designada nos termos do n.º 1 do artigo 78.º, o disposto nos números anteriores sobre a tramitação do recurso hierárquico é igualmente aplicável, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 66.º — Direito subsidiário
+
+Ao recurso hierárquico é aplicável, subsidiariamente, o disposto no Código do Procedimento Administrativo.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 67.º — Legitimidade para a impugnação judicial
+
+1 - São partes legítimas para impugnar judicialmente os requerentes e ainda as pessoas ou entidades que se considerem directamente prejudicadas pelos actos previstos no n.º 1 do artigo 63.º
+
+2 - As pessoas não requerentes referidas no número anterior podem impugnar judicialmente os despachos finais que defiram firma ou denominação ou declarem a perda do direito ao seu uso e os que determinem o cancelamento do registo.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 68.º — Objecto dos recursos de não requerentes
+
+As pessoas não requerentes referidas no artigo anterior podem interpor recurso dos despachos finais que, nomeadamente, defiram determinada firma ou denominação, determinem o cancelamento do registo ou declarem a perda do direito ao uso de firma ou denominação, bem como dos que considerem não haver obstáculo ao registo de determinado nome de estabelecimento pelo Instituto Nacional da Propriedade Industrial.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 69.º — Prazo da impugnação judicial
+
+1 - O prazo para a interposição da impugnação judicial é de 30 dias após a notificação ou, nos casos em que o acto recorrido não tenha dado lugar a notificação, após o seu conhecimento pelo impugnante ou, se for o caso, da publicação da constituição ou alteração da pessoa colectiva.
+
+2 - No caso de se tratar de impugnação judicial subsequente a recurso hierárquico, o prazo é de 30 dias a contar da data da notificação ao impugnante da decisão do recurso hierárquico
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 70.º — Tramitação da impugnação judicial
+
+1 - A impugnação judicial dos despachos previstos no n.º 1 do artigo 63.º ou do despacho do presidente do IRN, I. P., é apresentada no RNPC.
+
+2 - A impugnação deve ser interposta mediante requerimento em que são expostos os seus fundamentos, acompanhado por todos os meios de prova e, se for o caso, requerendo as diligências que considere necessárias à prova da sua pretensão.
+
+3 - A impugnação deve ser interposta também contra os interessados a quem tenha sido favorável o despacho impugnado.
+
+4 - Recebida a impugnação, caso não tenha havido recurso hierárquico, o director do RNPC deve, no prazo de 10 dias, proferir despacho fundamentado a reparar ou a sustentar a decisão que é imediatamente notificado ao recorrente.
+
+5 - No caso de manter a decisão ou de a decisão ter sido mantida na sequência de recurso hierárquico, o director do RNPC deve, no prazo de cinco dias, remeter ao tribunal competente todo o processo, instruído com o despacho recorrido, o despacho de sustentação e demais documentos, bem como o recurso hierárquico, se tiver sido interposto.
+
+6 - Após a distribuição, se não houver motivo para rejeição liminar, são notificados, para contestar, caso ainda não se tenham pronunciado, os terceiros interessados.
+
+7 - A tramitação da impugnação judicial, incluindo a remessa dos elementos referidos no número anterior ao tribunal competente, é efectuada, sempre que possível, por meios electrónicos.
+
+8 - No caso de a decisão ter sido proferida por uma conservatória designada nos termos do n.º 1 do artigo 78.º, o disposto nos números anteriores sobre a tramitação do recurso judicial é igualmente aplicável com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 71.º — Actos subsequentes
+
+1 - Após a distribuição, se não houver motivo para rejeição liminar, são notificados, para contestar, o director-geral dos Registos e do Notariado e os terceiros interessados.
+
+2 - As notificações são feitas por via postal.
+
+3 - As contra-alegações são deduzidas no prazo fixado para a contestação em acção declarativa com processo ordinário, em processo civil, sendo aplicável o disposto nos n.os 3 e 4 do artigo anterior.
+
+4 - Findo o prazo referido no número anterior, o processo é concluso para decisão final, que deve ser proferida, salvo caso de justo impedimento, no prazo de 30 dias.
+
+5 - Considera-se justo impedimento o pedido de esclarecimentos ou de documentação ao recorrente ou ao RNPC ou a realização de diligência que o juiz considere pertinente, por sua iniciativa ou a requerimento das partes.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 72.º — Recurso da sentença
+
+1 - Da sentença proferida em processo de recurso contencioso cabe sempre recurso, com efeito suspensivo, para o tribunal da Relação.
+
+2 - Têm legitimidade para interpor recurso o autor, o réu, o presidente do IRN, I. P., o Ministério Público e os terceiros lesados.
+
+3 - Do acórdão cabe recurso, nos termos da lei de processo, para o Supremo Tribunal de Justiça.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 73.º — Isenção de preparos e custas
+
+A Direcção-Geral dos Registos e do Notariado e o RNPC estão isentos de preparos e custas nos processos em que intervenham.
+
+> Alterado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+## Capítulo II — Tribunal arbitral
+
+> Aditado pelo/a Artigo 83.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+### Artigo 73.º-A — Tribunal arbitral
+
+1 - Sem prejuízo da possibilidade de recurso a outros mecanismos extrajudiciais de resolução de litígios, pode ser constituído tribunal arbitral para o julgamento de todas as questões susceptíveis de reacção contenciosa em matéria de firmas e denominações.
+
+2 - Exceptuam-se do disposto no número anterior os casos em que existam contra interessados, salvo se estes aceitarem o compromisso arbitral.
+
+> Aditado pelo/a Artigo 82.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+### Artigo 73.º-B — Compromisso arbitral
+
+1 - O interessado que pretenda recorrer à arbitragem, no âmbito dos litígios previstos no n.º 1 do artigo anterior, pode requerer a celebração de compromisso arbitral, nos termos da lei de arbitragem voluntária e aceitar a competência do tribunal arbitral.
+
+2 - A apresentação de requerimento, ao abrigo do disposto no número anterior, suspende os prazos de reacção contenciosa.
+
+3 - Sem prejuízo do disposto no número seguinte, a outorga de compromisso arbitral por parte do IRN, I. P., é objecto de despacho do seu presidente, a proferir no prazo de 30 dias, a contar da data da apresentação do requerimento.
+
+4 - Pode ser determinada a vinculação genérica do IRN, I. P., a centros de arbitragem voluntária institucionalizada com competência para dirimir os conflitos referidos no n.º 1 do artigo anterior, por meio de portaria do membro do Governo que tutela o IRN, I. P., a qual estabelece o tipo e o valor máximo dos litígios abrangidos, conferindo aos interessados o poder de se dirigirem a esses centros para a resolução de tais litígios.
+
+> Aditado pelo/a Artigo 82.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+### Artigo 73.º-C — Constituição e funcionamento
+
+O tribunal arbitral é constituído e funciona nos termos previstos na lei de arbitragem voluntária.
+
+> Aditado pelo/a Artigo 82.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2009-06-30
+
+## Título V — Sanções
+
+### Artigo 74.º — Transmissão a terceiros sem autorização
+
+1 - As entidades a quem tiver sido autorizado o acesso ao ficheiro central ou fornecimento de cópias do seu conteúdo, nos termos do presente diploma, que, sem a autorização prevista no artigo 25.º, transmitam a terceiros as informações obtidas ou o façam com inobservância das condições fixadas praticam contra-ordenação punível com as seguintes coimas:
+
+a) Tratando-se de pessoa singular, no mínimo de (euro) 249,40 e no máximo de (euro) 997,60;
+
+b) Tratando-se de pessoa colectiva, no mínimo de (euro) 997,60 e no máximo de (euro) 14963,94.
+
+2 - A negligência é punível nos termos gerais.
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+### Artigo 75.º — Falsificação
+
+1 - Praticam contra-ordenação e ficam sujeitas a coima, de (euro) 249,40 a (euro) 2493,99, tratando-se de pessoas singulares, e de (euro) 1496,39 a (euro) 14963,94, tratando-se de pessoas colectivas, as entidades que:
+
+a) Por qualquer forma, e com intuito fraudulento ou com ânimo de prejudicar terceiro, falsifiquem ou utilizem indevidamente documentos emanados do RNPC;
+
+b) Não cumpram a obrigação de inscrição no FCPC ou o não façam nos prazos ou nas condições fixadas no presente diploma;
+
+c) Declarem, para quaisquer efeitos, falsos números de identificação;
+
+d) Utilizem, para quaisquer efeitos, cartões de identificação com elementos desactualizados;
+
+e) Usem firmas sem ter previamente obtido certificado da respectiva admissibilidade ou, tendo-o obtido, não tenham promovido a constituição da sociedade ou estabelecimento individual de responsabilidade limitada.
+
+2 - O disposto no número anterior não prejudica o procedimento criminal a que possa haver lugar.
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+### Artigo 76.º — Outras contra-ordenações
+
+1 - Pratica contra-ordenação, ficando sujeito a coima, de (euro) 249,40 a (euro) 2493,99, tratando-se de pessoa singular, e de (euro) 1496,39 a (euro) 14963,94, tratando-se de pessoa colectiva, quem:
+
+a) Detenha documentos emanados do RNPC para negociar com terceiros;
+
+b) Preste declarações falsas ou inexactas ou omita informações que, nos termos da legislação aplicável, devia prestar;
+
+c) Não efectue as comunicações previstas no presente diploma ou o faça fora do prazo ou das condições estatuídas;
+
+d) Falsifique, pratique contrafacção, reproduza, proceda à revenda não autorizada ou por qualquer forma faça uso ilegítimo dos impressos exclusivos do RNPC;
+
+e) Efectue publicidade sugerindo facilidades na obtenção de documentos emitidos pelo RNPC.
+
+2 - O disposto no número anterior não prejudica o procedimento criminal a que possa haver lugar.
+
+> Alterado pelo/a Artigo 33.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+### Artigo 77.º — Competência para aplicação das coimas
+
+1 - A aplicação das coimas previstas no presente diploma compete ao RNPC.
+
+2 - O produto das coimas reverte para o IRN, I. P.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+## Título VI — Registo Nacional de Pessoas Colectivas
+
+## Capítulo I — Competência e direcção
+
+### Artigo 78.º — Competência
+
+1 - Compete ao RNPC e aos serviços de registo designados em despacho do presidente do IRN, I. P.:
+
+a) Velar pela exactidão e actualidade da informação contida no FCPC, promovendo as correcções necessárias;
+
+b) Promover a inscrição no FCPC dos actos de constituição, modificação e dissolução das pessoas colectivas e entidades equiparadas;
+
+c) Emitir certificados de admissibilidade de firmas e denominações assegurando o cumprimento dos princípios da novidade e da verdade;
+
+d) Declarar a perda do direito ao uso de firma ou denominação nos termos do artigo 61.º
+
+2 - Compete em especial ao RNPC:
+
+a) Estudar, planear e coordenar as tarefas necessárias à identificação das pessoas colectivas e entidades equiparadas;
+
+b) Organizar, manter e explorar o FCPC, sem prejuízo do disposto no n.º 1 do artigo 30.º;
+
+c) Promover as acções necessárias à coordenação no sector público das bases de dados de pessoas colectivas e entidades equiparadas;
+
+d) Coordenar, em conjunto com o IRN, I. P., a prestação dos serviços online e de balcão único disponibilizados nos serviços de registo;
+
+e) Praticar actos de registo que venham a ser fixados por despacho do presidente do IRN, I. P.;
+
+f) Assegurar a participação portuguesa em reuniões internacionais sobre matérias da sua competência.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 79.º — Direcção
+
+1 - O RNPC é dirigido por um director, a quem compete:
+
+a) Representar o RNPC em juízo e fora dele;
+
+b) Dirigir a actividade do RNPC com vista à realização das suas atribuições;
+
+c) Superintender na gestão de pessoal, promover a arrecadação das receitas e autorizar, nos termos legais, a realização das despesas;
+
+d) Decidir da emissão dos certificados de admissibilidade de firmas e denominações, promover a inscrição e identificação das pessoas colectivas e entidades equiparadas e, bem assim, assegurar a organização e funcionamento do FCPC;
+
+e) Autorizar o acesso à informação do FCPC ou o seu fornecimento, no respeito das disposições legais e demais normativos aplicáveis;
+
+f) Exercer qualquer outra competência que lhe seja atribuída por lei.
+
+2 - A direcção do RNPC é assegurada, por períodos trienais, pelo conservador para o efeito designado por despacho do presidente do IRN, I. P.
+
+3 - O director pode delegar as suas competências nos conservadores e conservadores auxiliares.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 80.º — Conservadores e conservadores auxiliares
+
+São competências específicas dos conservadores e dos conservadores auxiliares apreciar e decidir os pedidos de emissão de certificados de admissibilidade de firmas e denominações, os pedidos de inscrição, os pedidos de declaração de perda do direito ao uso de firma ou denominação, nos termos do artigo 61.º, e, bem assim, praticar quaisquer outros actos relacionados com a organização e funcionamento do FCPC e com o cumprimento das competências do RNPC delegadas pelo director.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 80.º-A — Oficiais dos registos
+
+São competências próprias dos oficiais de registo:
+
+a) Apreciar e decidir os pedidos de emissão de certificados de admissibilidade de firmas ou denominações;
+
+b) (Revogada);
+
+c) Apreciar e decidir os pedidos de desistência de emissão de certificados de admissibilidade de firmas ou denominações, bem como de invalidação de certificados já emitidos;
+
+d) Apreciar e decidir os pedidos de substituição de impressos de emissão de certificados de admissibilidade de firmas ou denominações;
+
+e) (Revogada);
+
+f) Promover a inscrição e a identificação de pessoas colectivas e entidades equiparadas;
+
+g) Apreciar os pedidos de declaração de perda do direito ao uso de firma ou denominação, nos termos do artigo 61.º
+
+h) Praticar outros actos que lhes sejam delegados pelos conservadores e pelos conservadores auxiliares.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Aditado pelo/a Artigo 26.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+## Capítulo II — Pessoal
+
+### Artigo 81.º — Estatuto do pessoal
+
+1 - O estatuto do pessoal do RNPC é o do pessoal dos serviços dos registos e notariado, sendo-lhe aplicáveis, no que não for contrariado pelo presente diploma, as disposições referentes ao pessoal das conservatórias do registo comercial autonomizadas.
+
+2 - Ao pessoal dirigente integrado em carreira é aplicável o disposto no artigo 54.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro.
+
+3 - Aos oficiais dos registos e do notariado é aplicável o disposto no artigo 61.º do diploma referido no número anterior.
+
+### Artigo 82.º — Vencimentos dos conservadores
+
+1 - Os conservadores auferem o ordenado correspondente à 1.ª classe.
+
+2 - Os conservadores auxiliares têm direito ao ordenado correspondente à 3.ª classe, salvo se for mais elevada a sua classe pessoal.
+
+3 - A participação emolumentar do director é apurada segundo as regras aplicáveis aos conservadores das conservatórias do registo comercial autonomizadas.
+
+4 - A participação emolumentar dos outros conservadores e dos conservadores auxiliares corresponde, respectivamente, a 85% e a 70% da participação emolumentar apurada para o director.
+
+> Revogado pelo/a Artigo 14.º do/a Decreto-Lei n.º 145/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23, produz efeitos a partir de 2020-01-01
+
+### Artigo 83.º — Provimento dos lugares de conservador
+
+1 - Os lugares de conservador são providos nos termos da lei orgânica e regulamento dos serviços dos registos e do notariado, sem prejuízo da aplicação dos outros instrumentos de mobilidade previstos na lei geral.
+
+2 - Os lugares de conservador auxiliar são providos nos termos do artigo 2.º do Decreto-Lei n.º 287/94, de 14 de Novembro.
+
+### Artigo 84.º — Oficiais dos registos
+
+1 - A carreira de oficiais dos registos desenvolve-se da forma prevista para os restantes oficiais dos registos e do notariado.
+
+2 - O recrutamento e promoção dos oficiais efectua-se de harmonia com as disposições aplicáveis da legislação específica dos registos e do notariado.
+
+### Artigo 85.º — Recrutamento de outro pessoal
+
+O recrutamento do pessoal pertencente a carreiras não específicas dos registos e do notariado efectua-se nos termos da lei geral ou da lei específica da carreira em causa.
+
+### Artigo 86.º — Quadro de pessoal
+
+1 - O quadro de pessoal do RNPC é objecto de portaria do Ministro da Justiça.
+
+2 - A afectação do pessoal aos diversos serviços do RNPC é feita por despacho do director.
+
+## Capítulo III — Funcionamento
+
+### Artigo 87.º — Horário
+
+1 - O período de atendimento do público é fixado de acordo com a legislação aplicável aos órgãos e serviços da Administração Pública.
+
+2 - (Revogado).
+
+3 - Salvo no caso de estarem impedidos ou em serviço oficial, os conservadores devem permanecer no RNPC durante o horário de atendimento do público.
+
+4 - Nos casos de horário de atendimento contínuo ou prolongado, deve o serviço ser organizado por forma a assegurar, sempre que possível, a permanência de um conservador durante o período de atendimento do público.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 88.º — Prestação de serviços
+
+O RNPC pode prestar serviços, no âmbito da sua competência, a entidades públicas ou privadas nos termos que forem autorizados por despacho do presidente do IRN, I. P.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 89.º — Emolumentos
+
+1 - As tabelas de emolumentos devidos por actos praticados ou por informações prestadas pelo RNPC são aprovadas por portaria do Ministro da Justiça.
+
+2 - À conta dos actos praticados ou das informações prestadas pelo RNPC é aplicável o disposto no artigo 133.º do Regulamento dos Serviços dos Registos e do Notariado, aprovado pelo Decreto n.º 55/80, de 8 de Outubro.
+
+3 - As quantias cobradas em excesso por erro dos serviços são oficiosamente restituídas.
+
+4 - As quantias remetidas em excesso por erro dos requerentes são-lhes restituídas, deduzidos os custos calculados para a restituição, se forem razoavelmente superiores a estes; em caso contrário, são contabilizadas como emolumentos.
+
+> Revogado pelo/a Artigo 29.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+### Artigo 90.º — Isenção de emolumentos
+
+1 - É isenta do pagamento de emolumentos a emissão de novo certificado de admissibilidade de firma ou denominação em consequência de manifesto erro do RNPC na atribuição de firma confundível ou se a firma atribuída for julgada confundível por decisão judicial.
+
+2 - Nos casos previstos no número anterior são também isentos de emolumentos a rectificação de escritura pública e os actos de registo relativos à correspondente alteração de firma ou denominação.
+
+> Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 91.º — Impressos
+
+Os formulários próprios referidos no presente diploma constituem exclusivo do IRN, I. P., e são aprovados por despacho do seu presidente.
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+### Artigo 92.º — Direito subsidiário
+
+As disposições do Código do Registo Comercial são subsidiariamente aplicáveis, com as necessárias adaptações, a tudo o que não estiver disposto no presente diploma.
+
+> Aditado pelo/a Artigo 27.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30, em vigor a partir de 2008-12-31

@@ -1,7 +1,7 @@
 ---
 celex: 32005L0029
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32005L0029 — Práticas comerciais desleais — contexto
@@ -14,11 +14,11 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2015-09-23 — DECRETO-LEI N.º 205/2015 - DIÁRIO DA REPÚBLICA N.º 186/2015, SÉRIE I DE 2015-09-23 Ministério da Economia Procede à primeira alteração ao Decreto-Lei n.º 57/2008, de 26 de março, que estabelece o regime jurídico aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transação comercial relativa a um bem ou serviço, clarificando a transposição da Diretiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de maio de 2005 (CELEX 72005L0029PRT_230130)
-- 2008-03-26 — Ministério da Economia e da Inovação-Estabelece o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transacção comercial relativa a um bem ou serviço, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os (CELEX 72005L0029PRT_154763)
-- 2008-03-26 — Ministério da Economia e da Inovação-Estabelece o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transacção comercial relativa a um bem ou serviço, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os (CELEX 72006L0114PRT_154763)
+- 2015-09-23 — DECRETO-LEI N.º 205/2015 - DIÁRIO DA REPÚBLICA N.º 186/2015, SÉRIE I DE 2015-09-23 Ministério da Economia Procede à primeira alteração ao Decreto-Lei n.º 57/2008, de 26 de março, que estabelece o regime jurídico aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transação comercial relativa a um bem ou serviço, clarificando a transposição da Diretiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de maio de 2005 (CELEX 72005L0029PRT_230130) → texto: [`legislacao-pt/decreto-lei-205-2015.md`](../../legislacao-pt/decreto-lei-205-2015.md) (original (DRE))
+- 2008-03-26 — Ministério da Economia e da Inovação-Estabelece o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transacção comercial relativa a um bem ou serviço, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os (CELEX 72005L0029PRT_154763) → texto: [`legislacao-pt/decreto-lei-57-2008.md`](../../legislacao-pt/decreto-lei-57-2008.md) (consolidado (DRE))
+- 2008-03-26 — Ministério da Economia e da Inovação-Estabelece o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, ocorridas antes, durante ou após uma transacção comercial relativa a um bem ou serviço, transpondo para a ordem jurídica interna a Directiva n.º 2005/29/CE, do Parlamento Europeu e do Conselho, de 11 de Maio, relativa às práticas comerciais desleais das empresas nas relações com os (CELEX 72006L0114PRT_154763) → texto: [`legislacao-pt/decreto-lei-57-2008.md`](../../legislacao-pt/decreto-lei-57-2008.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (53)
 

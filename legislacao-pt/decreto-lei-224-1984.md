@@ -1,0 +1,3813 @@
+---
+diploma: Decreto-Lei n.º 224/84
+tipo: Decreto-Lei
+numero: 224/1984
+data_publicacao: '1984-07-06'
+sumario: Aprova o Código do Registo Predial
+texto: consolidado (DRE)
+versao_consolidada_de: '2026-04-15'
+transpoe:
+- 32015L0849
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-34544675
+eli: https://data.dre.pt/eli/dec-lei/224/1984/p/cons/20260415/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 224/84
+
+**Sumário:** Aprova o Código do Registo Predial
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2026-04-15. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-34544675
+
+## Texto
+
+1 - O Código do Registo Predial, aprovado pelo Decreto-Lei n.º 305/83, de 29 de Junho, resultou de um laborioso e meritório trabalho de remodelação e modernização da legislação anterior e propôs importantes soluções destinadas a adaptar às necessidades e realidades da vida actual um sistema anquilosado, cujo peso e morosidade se repercute negativamente na desejável fluidez e clareza do comércio jurídico imobiliário.
+
+2 - Apesar desse inegável mérito, logo o próprio diploma se dava conta de graves dificuldades práticas de execução, consagrando no artigo 2.º do respectivo decreto preambular a necessidade de uma portaria regulamentadora, de cuja publicação ficou, aliás, a depender a aplicação e entrada em vigor do referido Código.
+
+A essas dificuldades logo afloradas, outras se vieram juntar, acabando por se gerar um consenso de inexequibilidade da reforma, nos moldes estruturais e temporais em que fora concebida.
+
+Daí que, em lugar da anunciada portaria, se tivesse feito sentir a necessidade de publicar um novo código que, sem desprezar a dinâmica inovadora e reformadora do anterior, seja de execução e aplicação imediatas.
+
+Conseguir, na prática, o equilíbrio entre os meios disponíveis e os fins de implementação e simplificação do registo predial, como passo decisivo e indispensável de um futuro tratamento informático, é, em síntese, o escopo deste diploma.
+
+3 - Mantêm-se inalterados os princípios inovadores no que respeita:
+
+3.1 - À valorização da fé pública registral, com base no princípio da legitimação de direitos sobre imóveis titulados judicial ou extra-judicialmente;
+
+3.2 - Ao reforço do princípio da prioridade, através de uma maior transparência da actividade das conservatórias e de uma maior responsabilização dos conservadores e oficiais do registo;
+
+3.3 - À simplificação processual, com reflexo numa maior participação do público e na obtenção mais expedita das garantias do registo.
+
+4 - Procurou-se, no entanto, imprimir a este código um ordenamento e clarificação de preceitos que torne mais fácil a sua apreensão no conjunto e a sua consulta em concreto.
+
+Por outro lado, expurgou-se de regulamentações que são estranhas ao registo e que há anos lhe andavam inexplicavelmente ligadas, como sejam a extensão da hipoteca de fábricas aos maquinismos e móveis inventariados, que passará a constar do artigo 691.º do Código Civil; o processo de justificação judicial, que constará de diploma avulso a integrar futuramente no Código de Processo Civil, e a parte da justificação notarial, que no Código do Registo Predial se mantinha.
+
+Com vista a possibilitar a concordância com as novas disposições legais, foi ainda necessário alterar preceitos do Código do Notariado, aprovado pelo Decreto-Lei n.º 47619, de 31 de Março de 1967, do Decreto-Lei n.º 233/76, de 2 de Abril, do Decreto-Lei n.º 42644, de 14 de Novembro de 1959 (Registo Comercial), e do Decreto n.º 55/75, de 12 de Fevereiro (Registo Automóvel), e revogar o artigo 22.º do Decreto-Lei n.º 693/70, de 31 de Dezembro.
+
+Outras eventuais alterações a inserir no âmbito dos registos e do notariado, designadamente no seu Regulamento, serão oportunamente consideradas.
+
+5 - Com o objectivo de dar resposta a lacunas e deficiente regulamentação anterior que provocava dúvidas ou práticas divergentes nas várias conservatórias, procurou-se um aprofundamento de certos conceitos ou processos.
+
+5.1 - Quanto a aspectos teóricos, serão assim de referir como de especial importância o trato sucessivo como pressuposto do processo registral e o relevo dado à realidade do prédio como suporte do registo, no que respeita à concordância entre os elementos da descrição e da matriz.
+
+Relevância deverá igualmente dar-se, entre outras, às alterações introduzidas no domínio da provisoriedade por natureza e ao cancelamento ou conversão oficiosos dos registos, em certos casos até aqui não regulamentados.
+
+5.2 - Do ponto de vista processual salientar-se-á: o uso do impresso-requisição em vez do requerimento tradicional, cujo duplicado funciona como recibo do preparo e prova do pedido, e a substituição dos livros por fichas, onde serão lavradas as descrições e inscrições prediais, com as vantagens decorrentes da facilidade de arquivo, de manuseamento e de consulta e da rápida apreensão da realidade registral.
+
+6 - Apesar de as circunstâncias não permitirem fazer de imediato a desejável revolução neste campo, espera-se deste novo código uma importante implementação do registo predial a partir do dinamismo implícito no artigo 9.º e uma notável simplificação no futuro, decorrente desse facto e dos novos suportes documentais, indispensáveis à introdução da informática.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Alterado pelo/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-02
+
+> Alterado pelo/a Lei n.º 23/2013 - Diário da República n.º 45/2013, Série I de 2013-03-05, em vigor a partir de 2013-09-02
+
+> Alterado pelo/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2010-07-18
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Alterado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 36.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26, em vigor a partir de 2009-04-20
+
+> Alterado pelo/a Artigo 30.º do/a Decreto-Lei n.º 263-A/2007 - Diário da República n.º 140/2007, Suplemento n.º 1, Série I de 2007-07-23, em vigor a partir de 2007-07-24
+
+> Alterado pelo/a Artigo 65.º do/a Lei n.º 6/2006 - Diário da República n.º 41/2006, Série I-A de 2006-02-27, em vigor a partir de 2006-06-27
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 23.º do/a Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08, em vigor a partir de 2003-09-15
+
+> Alterado pelo/a Declaração de Rectificação n.º 3-C/2002 - Diário da República n.º 26/2002, Suplemento n.º 4, Série I-B de 2002-01-31, em vigor a partir de 2002-01-15
+
+> Alterado pelo/a Portaria n.º 38/2002 - Diário da República n.º 8/2002, Série I-B de 2002-01-10, em vigor a partir de 2002-01-15
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 322-A/2001 - Diário da República n.º 288/2001, Suplemento n.º 1, Série I-A de 2001-12-14, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Declaração de Rectificação n.º 20-AS/2001 - Diário da República n.º 278/2001, Suplemento n.º 3, Série I-A de 2001-11-30, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 8.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 375-A/99 - Diário da República n.º 220/1999, Suplemento n.º 1, Série I-A de 1999-09-20, em vigor a partir de 1999-10-20
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 224-A/96 - Diário da República n.º 274/1996, Suplemento n.º 2, Série I-A de 1996-11-26, em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 67/96 - Diário da República n.º 127/1996, Série I-A de 1996-05-31, em vigor a partir de 1996-06-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 267/94 - Diário da República n.º 247/1994, Série I-A de 1994-10-25, em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 227/94 - Diário da República n.º 208/1994, Série I-A de 1994-09-08, em vigor a partir de 1995-03-07
+
+> Alterado pelo/a Artigo 10.º do/a Decreto-Lei n.º 255/93 - Diário da República n.º 164/1993, Série I-A de 1993-07-15, em vigor a partir de 1993-08-15
+
+> Alterado pelo/a Decreto-Lei n.º 30/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Alterado pelo/a Decreto-Lei n.º 80/92 - Diário da República n.º 105/1992, Série I-A de 1992-05-07, em vigor a partir de 1992-05-12
+
+> Alterado pelo/a 6.º do/a Portaria n.º 1046/91 - Diário da República n.º 235/1991, Série I-B de 1991-10-12, em vigor a partir de 1991-11-01
+
+> Alterado pelo/a Declaração - Diário da República n.º 76/1990, Suplemento n.º 1, Série I de 1990-03-31, em vigor a partir de 1990-03-31
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Alterado pelo/a Portaria n.º 486/87 - Diário da República n.º 131/1987, Série I de 1987-06-08, em vigor a partir de 1987-06-13
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+> Alterado pelo/a Declaração - Diário da República n.º 227/1984, Série I de 1984-09-29, em vigor a partir de 1984-09-29
+
+> Alterado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 1.º
+
+É aprovado o Código do Registo Predial que faz parte integrante do presente decreto-lei.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 2.º
+
+A tabela de emolumentos do registo predial, aprovada pelo Decreto-Lei n.º 397/83, de 2 de Novembro, é substituída pela tabela anexa ao presente diploma, que poderá ser alterada por portaria do Ministro da Justiça.
+
+### Artigo 3.º
+
+1 - São aprovados os modelos do livro Diário, fichas e outros instrumentos previstos em anexo.
+
+2 - Os referidos modelos poderão ser alterados por portaria do Ministro da Justiça.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 4.º
+
+1 - O sistema de fichas aplica-se integralmente às novas descrições, iniciando-se uma sequência numérica por cada freguesia, de acordo com as disposições legais respectivas.
+
+2 - Para os actos de registo que respeitem a descrições anteriores podem ser transitoriamente utilizados os livros B, C, F e G actualmente em vigor, escriturados nos mesmos termos que as fichas, com as adaptações necessárias.
+
+3 - Dentro das possibilidades de cada conservatória, até à total substituição dos livros e à medida que forem sendo pedidos novos actos de registo, serão extractadas nas fichas as descrições e inscrições em vigor que lhes digam respeito.
+
+4 - A cada descrição extractada é atribuído o número de ordem que lhe vier a caber dentro de cada freguesia, anotando-se na ficha o número e as folhas que tinha no livro e neste a referência à ficha.
+
+### Artigo 5.º
+
+A substituição integral de todos os livros por fichas será definida para cada conservatória por despacho do Ministro da Justiça.
+
+### Artigo 6.º
+
+1 - Na contagem dos prazos previstos nos n.os 1 e 3 do artigo 12.º e no n.º 3 do artigo 92.º do Código será levado em conta o tempo decorrido antes da data da sua entrada em vigor.
+
+2 - Os registos não sujeitos a caducidade segundo a lei anterior podem ser renovados nos 6 meses posteriores àquela data.
+
+### Artigo 7.º
+
+1 - O director-geral dos Registos e do Notariado pode autorizar a transferência dos livros de registo substituídos integralmente por fichas para o arquivo designado pela entidade responsável pelos arquivos nacionais, depois de obtido o respectivo acordo.
+
+2 - O director-geral dos Registos e do Notariado pode ainda autorizar:
+
+a) O arquivamento em suporte informático e subsequente destruição de livros de descrições e de inscrições e de documentos que serviram de base a registos;
+
+b) A destruição de livros de qualquer outra espécie, bem como de documentos arquivados que não tenham servido de base a registos, com ou sem prévio arquivamento em suporte informático.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-10-01
+
+### Artigo 8.º
+
+1 - Até à entrada em vigor do Código, será regulamentada pela Direcção-Geral dos Registos e do Notariado a entrada de documentos nas conservatórias para estudo e organização do processo pré-registral.
+
+2 - Para os efeitos previstos no número anterior existirá um livro próprio que assegure o despacho dos processos, tanto quanto possível por ordem cronológica.
+
+3 - Nos mesmos termos, será regulamentada a fiscalização dos preparos e da contabilidade em geral.
+
+### Artigo 9.º
+
+É revogada toda a legislação anterior referente às matérias abrangidas pelo novo Código do Registo Predial, designadamente os Códigos aprovados pelo Decreto-Lei n.º 47611, de 28 de Março de 1967, com as subsequentes alterações, e pelo Decreto-Lei n.º 305/83, de 29 de Junho, bem como o artigo 22.º do Decreto-Lei n.º 693/70, de 31 de Dezembro, e o artigo 167.º do Regulamento aprovado pelo Decreto n.º 694/70, da mesma data.
+
+### Artigo 10.º
+
+Este diploma entra em vigor no dia 1 de Outubro de 1984.
+
+Visto e aprovado em Conselho de Ministros de 5 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete.
+
+Promulgado em 21 de Maio de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 1 de Junho de 1984.
+
+O Primeiro-Ministro, Mário Soares.
+
+**CÓDIGO DO REGISTO PREDIAL**
+
+> Nota: Artigo 9.º, Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30 Onde se lê: «Ministro da Justiça», deve ler-se: «membro do Governo responsável pela área da justiça».
+
+## Título I — Da natureza e valor do registo
+
+## Capítulo I — Objecto e efeitos do registo
+
+## Secção I — Disposições Fundamentais
+
+### Artigo 1.º — (Fins do registo)
+
+O registo predial destina-se essencialmente a dar publicidade à situação jurídica dos prédios, tendo em vista a segurança do comércio jurídico imobiliário.
+
+### Artigo 2.º — (Factos sujeitos a registo)
+
+1 - Estão sujeitos a registo:
+
+a) Os factos jurídicos que determinem a constituição, o reconhecimento, a aquisição ou a modificação dos direitos de propriedade, usufruto, uso e habitação, superfície ou servidão;
+
+b) Os factos jurídicos que determinem a constituição ou a modificação da propriedade horizontal e do direito de habitação periódica;
+
+c) Os factos jurídicos confirmativos de convenções anuláveis ou resolúveis que tenham por objecto os direitos mencionados na alínea a);
+
+d) As operações de transformação fundiária resultantes de loteamento, de estruturação de compropriedade e de reparcelamento, bem como as respectivas alterações;
+
+e) A mera posse;
+
+f) A promessa de alienação ou oneração, os pactos de preferência e a disposição testamentária de preferência, se lhes tiver sido atribuída eficácia real, bem como a cessão da posição contratual emergente desses factos;
+
+g) A cessão de bens aos credores;
+
+h) A hipoteca, a sua cessão ou modificação, a cessão do grau de prioridade do respectivo registo e a consignação de rendimentos;
+
+i) A transmissão de créditos garantidos por hipoteca ou consignação de rendimentos, quando importe transmissão de garantia;
+
+j) A afectação de imóveis ao caucionamento das reservas técnicas das companhias de seguros, bem como ao caucionamento da responsabilidade das entidades patronais;
+
+l) A locação financeira e as suas transmissões;
+
+m) O arrendamento por mais de 6 anos e as suas transmissões ou sublocações, exceptuado o arrendamento rural;
+
+n) A penhora e a declaração de insolvência;
+
+o) O penhor, a penhora, o arresto e o arrolamento de créditos garantidos por hipoteca ou consignação de rendimentos e quaisquer outros actos ou providências que incidam sobre os mesmos créditos;
+
+p) A apreensão em processo penal;
+
+q) A constituição do apanágio e as suas alterações;
+
+r) O ónus de eventual redução das doações sujeitas a colação;
+
+s) O ónus de casa de renda limitada ou de renda económica sobre os prédios assim classificados;
+
+t) O ónus de pagamento das anuidades previstas nos casos de obras de fomento agrícola;
+
+u) A renúncia à indemnização, em caso de eventual expropriação, pelo aumento do valor resultante de obras realizadas em imóveis situados nas zonas marginais das estradas nacionais ou abrangidos por planos de melhoramentos municipais;
+
+v) Quaisquer outras restrições ao direito de propriedade, quaisquer outros encargos e quaisquer outros factos sujeitos por lei a registo;
+
+x) A concessão em bens do domínio público e as suas transmissões, quando sobre o direito concedido se pretenda registar hipoteca;
+
+z) Os factos jurídicos que importem a extinção de direitos, ónus ou encargos registados.
+
+aa) O título constitutivo do empreendimento turístico e suas alterações.
+
+2 - O disposto na alínea a) do número anterior não abrange a comunicabilidade de bens resultante do regime matrimonial.
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-10-01
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 30/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 3.º — (Acções, decisões, procedimentos e providências sujeitos a registo)
+
+1 - Estão igualmente sujeitos a registo:
+
+a) As acções que tenham por fim, principal ou acessório, o reconhecimento, a constituição, a modificação ou a extinção de algum dos direitos referidos no artigo anterior, bem como as acções de impugnação pauliana;
+
+b) As acções que tenham por fim, principal ou acessório, a reforma, a declaração de nulidade ou a anulação de um registo ou do seu cancelamento;
+
+c) As decisões finais das acções referidas nas alíneas anteriores, logo que transitem em julgado.
+
+d) Os procedimentos que tenham por fim o decretamento do arresto e do arrolamento, bem como de quaisquer outras providências que afectem a livre disposição de bens;
+
+e) As providências decretadas nos procedimentos referidos na alínea anterior.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 67/96 - Diário da República n.º 127/1996, Série I-A de 1996-05-31, em vigor a partir de 1996-06-01
+
+### Artigo 3.º-A — Baldios e bens imóveis do domínio público
+
+Os terrenos baldios e os bens imóveis do domínio público são identificados no registo predial mediante a abertura da respetiva descrição.
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+### Artigo 4.º — (Eficácia entre as partes)
+
+1 - Os factos sujeitos a registo, ainda que não registados, podem ser invocados entre as próprias partes ou seus herdeiros.
+
+2 - Exceptuam-se os factos constitutivos de hipoteca, cuja eficácia entre as próprias partes depende da realização do registo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+### Artigo 5.º — (Oponibilidade a terceiros)
+
+1 - Os factos sujeitos a registo só produzem efeitos contra terceiros depois da data do respectivo registo.
+
+2 - Exceptuam-se do disposto no número anterior:
+
+a) A aquisição, fundada na usucapião, dos direitos referidos na alínea a) do n.º 1 do artigo 2.º;
+
+b) As servidões aparentes;
+
+c) Os factos relativos a bens indeterminados, enquanto estes não forem devidamente especificados e determinados.
+
+3 - A falta de registo não pode ser oposta aos interessados por quem esteja obrigado a promovê-lo, nem pelos herdeiros destes.
+
+4 - Terceiros, para efeitos de registo, são aqueles que tenham adquirido de um autor comum direitos incompatíveis entre si.
+
+5 - Não é oponível a terceiros a duração superior a seis anos do arrendamento não registado.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 8.º do/a Lei n.º 6/2006 - Diário da República n.º 41/2006, Série I-A de 2006-02-27, em vigor a partir de 2006-06-27
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 6.º — (Prioridade do registo)
+
+1 - O direito inscrito em primeiro lugar prevalece sobre os que se lhe seguirem relativamente aos mesmos bens, por ordem da data dos registos e, dentro da mesma data, pela ordem temporal das apresentações correspondentes.
+
+2 - (Revogado).
+
+3 - O registo convertido em definitivo conserva a prioridade que tinha como provisório.
+
+4 - Em caso de recusa, o registo feito na sequência de recurso julgado procedente conserva a prioridade correspondente à apresentação do acto recusado.
+
+> Alterado pelo/a Artigo 17.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 7.º — (Presunções derivadas do registo)
+
+O registo definitivo constitui presunção de que o direito existe e pertence ao titular inscrito, nos precisos termos em que o registo o define.
+
+### Artigo 8.º — (Impugnação dos factos registados)
+
+1 - A impugnação judicial de factos registados faz presumir o pedido de cancelamento do respectivo registo.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 8.º-A — Obrigatoriedade do registo
+
+1 - É obrigatório submeter a registo:
+
+a) Os factos referidos no artigo 2.º, excepto:
+
+i) Quando devam ingressar provisoriamente por natureza no registo, nos termos do n.º 1 do artigo 92.º;
+
+ii) Quando se trate de aquisição sem determinação de parte ou direito;
+
+iii) Aqueles que incidam sobre direitos de algum ou alguns dos titulares da inscrição de bens integrados em herança indivisa;
+
+iv) A constituição de hipoteca e o seu cancelamento, neste último caso se efetuado com base em documento de que conste o consentimento do credor;
+
+v) A promessa de alienação ou oneração, os pactos de preferência e a disposição testamentária de preferência, se lhes tiver sido atribuída eficácia real.
+
+b) As acções, decisões e providências, referidas no artigo 3.º, salvo as acções de impugnação pauliana e os procedimentos mencionados na alínea d) do n.º 1 do mesmo artigo;
+
+c) [Revogada].
+
+d) A identificação dos terrenos baldios e dos bens imóveis do domínio público;
+
+e) A alteração de área, do artigo da matriz e da freguesia ou concelho de prédios com número de identificação de prédio.
+
+2 - O registo da providência cautelar não é obrigatório se já se encontrar pedido o registo da acção principal.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15, em vigor a partir de 2026-04-16.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 8.º-B — Sujeitos da obrigação de registar
+
+1 - Salvo o disposto no n.º 3, devem promover o registo dos factos obrigatoriamente a ele sujeitos as entidades que celebrem a escritura pública, autentiquem os documentos particulares ou reconheçam as assinaturas neles apostas ou, quando tais entidades não intervenham, os sujeitos ativos do facto sujeito a registo.
+
+2 - [Revogado].
+
+3 - Estão ainda obrigados a promover o registo:
+
+a) Os tribunais no que respeita às ações, às decisões e a outros procedimentos e providências ou atos judiciais;
+
+b) O Ministério Público, no que respeita às apreensões em processo penal que tenha autorizado, ordenado ou validado, e quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis;
+
+c) Os agentes de execução, ou o oficial de justiça que realize diligências próprias do agente de execução, quanto ao registo das penhoras, e os administradores judiciais, quanto ao registo da declaração de insolvência.
+
+d) O conselho diretivo do universo de compartes, no que respeita aos terrenos baldios;
+
+e) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, no que respeita aos respetivos bens imóveis do domínio público;
+
+f) O proprietário definitivamente inscrito, quanto ao registo de alteração de área, do artigo da matriz e da freguesia ou concelho de prédios com número de identificação de prédio.
+
+4 - [Revogado].
+
+5 - A obrigação de pedir o registo cessa no caso de este se mostrar promovido por qualquer outra entidade que tenha legitimidade.
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15, em vigor a partir de 2026-04-16.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Nota: Artigo 13.º, Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11 As entidades referidas nas alíneas d) e e) do n.º 3 do presente artigo, promovem o registo dos terrenos baldios e dos bens imóveis do domínio público existentes 1.11.2023, no prazo de um ano.
+
+### Artigo 8.º-C — Prazos para promover o registo
+
+1 - Salvo o disposto nos números seguintes, ou disposição legal em contrário, o registo deve ser pedido no prazo de dois meses a contar da data em que os factos tiverem sido titulados.
+
+2 - O registo das acções referidas nas alíneas a) e b) do n.º 1 do artigo 3.º, sujeitas a registo obrigatório, deve ser pedido até ao termo do prazo de 10 dias após a data da audiência de julgamento.
+
+3 - O registo das decisões finais proferidas nas ações referidas no número anterior deve ser pedido no prazo de um mês a contar da data do respetivo trânsito em julgado.
+
+4 - O registo das providências cautelares decretadas nos procedimentos referidos na alínea d) do n.º 1 do artigo 3.º, assim como o registo do ato a que se refere a alínea p) do n.º 1 do artigo 2.º, devem ser pedidos no prazo de um mês a contar da data em que os factos tiverem sido titulados.
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+7 - Os factos sujeitos a registo titulados em serviço de registo competente são imediatamente apresentados;
+
+8 - O registo de alteração de área, do artigo da matriz e da freguesia ou concelho de prédios com número de identificação de prédio, deve ser pedido no prazo dois meses a contar da data da realização da representação gráfica georreferenciada.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15, em vigor a partir de 2026-04-16.
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 8.º-D — Cumprimento tardio da obrigação de registar
+
+1 - A promoção do registo fora dos prazos referidos no artigo anterior determina o pagamento acrescido de quantia igual à que estiver prevista a título de emolumento, independentemente da gratuitidade, isenção ou redução de que o ato beneficie.
+
+2 - O disposto no número anterior não se aplica aos tribunais e ao Ministério Público.
+
+3 - A responsabilidade pelo pagamento da quantia prevista no n.º 1 recai sobre a entidade que está obrigada a promover o registo e não sobre aquela que é responsável pelo pagamento do emolumento, nos termos do n.º 2 do artigo 151.º.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 9.º — (Legitimação de direitos sobre imóveis)
+
+1 - Os factos de que resulte transmissão de direitos ou constituição de encargos sobre imóveis não podem ser titulados sem que os bens estejam definitivamente inscritos a favor da pessoa de quem se adquire o direito ou contra a qual se constitui o encargo.
+
+2 - Exceptuam-se do disposto no número anterior:
+
+a) A partilha, a expropriação, a venda executiva, a penhora, o arresto, a apreensão em processo penal, a declaração de insolvência e outras providências ou atos que afetem a livre disposição dos imóveis;
+
+b) Os actos de transmissão ou oneração praticados por quem tenha adquirido no mesmo dia os bens transmitidos ou onerados;
+
+c) Os casos de urgência devidamente justificada por perigo de vida dos outorgantes.
+
+3 - Tratando-se de prédio situado em área onde não tenha vigorado o registo obrigatório, o primeiro acto de transmissão posterior a 1 de Outubro de 1984 pode ser titulado sem a exigência prevista no n.º 1, se for exibido documento comprovativo, ou feita justificação simultânea, do direito da pessoa de quem se adquire.
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+## Secção II — Cessação dos efeitos do registo
+
+### Artigo 10.º — (Transferência e extinção)
+
+Os efeitos do registo transferem-se mediante novo registo e extinguem-se por caducidade ou cancelamento.
+
+### Artigo 11.º — (Caducidade)
+
+1 - Os registos caducam por força da lei ou pelo decurso do prazo de duração do negócio.
+
+2 - Os registos provisórios caducam se não forem convertidos em definitivos ou renovados dentro do prazo da respectiva vigência.
+
+3 - É de 6 meses o prazo de vigência do registo provisório, salvo disposição em contrário.
+
+4 - A caducidade deve ser anotada ao registo, logo que verificada.
+
+### Artigo 12.º — (Prazos especiais de caducidade)
+
+1 - Caducam decorridos 10 anos sobre a sua data os registos de hipoteca judicial de qualquer valor e os registos de hipoteca voluntária ou legal, de penhor e de consignação de rendimentos, de valor não superior a (euro) 5000.
+
+2 - O valor referido no número anterior pode ser actualizado por portaria do Ministro da Justiça.
+
+3 - O registo de renúncia à indemnização por aumento do valor e o do ónus de eventual redução das doações sujeitas a colação caducam decorridos 20 anos, contados, respectivamente, a partir da data do registo e da morte do doador.
+
+4 - Os registos de servidão, de usufruto, uso e habitação e de hipoteca para garantia de pensões periódicas caducam decorridos 50 anos, contados a partir da data do registo.
+
+5 - Os registos referidos nos números anteriores podem ser renovados por períodos de igual duração, a pedido dos interessados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 23.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 13.º — (Cancelamento)
+
+Os registos são cancelados com base na extinção dos direitos, ónus ou encargos neles definidos, em execução de decisão administrativa, nos casos previstos na lei, ou de decisão judicial transitada em julgado.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+## Capítulo II — Vícios do registo
+
+### Artigo 14.º — (Causas da inexistência)
+
+O registo é juridicamente inexistente:
+
+a) (Revogada);
+
+b) Quando for insuprível a falta de assinatura do registo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 15.º — (Regime da inexistência)
+
+1 - O registo juridicamente inexistente não produz quaisquer efeitos.
+
+2 - A inexistência pode ser invocada por qualquer pessoa, a todo o tempo, independentemente de declaração judicial.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 16.º — (Causas de nulidade)
+
+O registo é nulo:
+
+a) Quando for falso ou tiver sido lavrado com base em títulos falsos;
+
+b) Quando tiver sido lavrado com base em títulos insuficientes para a prova legal do facto registado;
+
+c) Quando enfermar de omissões ou inexactidões de que resulte incerteza acerca dos sujeitos ou do objecto da relação jurídica a que o facto registado se refere;
+
+d) Quando tiver sido efectuado por serviço de registo incompetente ou assinado por pessoa sem competência, salvo o disposto no n.º 2 do artigo 369.º do Código Civil e não possa ser confirmado nos termos do disposto no artigo seguinte;
+
+e) Quando tiver sido lavrado sem apresentação prévia ou com violação do princípio do trato sucessivo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 16.º-A — Confirmação
+
+1 - Os registos efectuados por serviço de registo incompetente ou assinados por pessoa sem competência devem ser conferidos com os respectivos documentos para se verificar se podiam ser efectuados, aplicando-se com as devidas adaptações os n.os 2 e 3 do artigo 78.º
+
+2 - Se se concluir que o registo podia ter sido efectuado, este é confirmado com menção da data.
+
+3 - No caso de se concluir que o registo não podia ter sido efectuado, deve ser instaurado, oficiosamente, processo de rectificação com vista ao seu cancelamento.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 16.º-B — Invocação da falsidade dos documentos
+
+1 - Os interessados podem, mediante apresentação de requerimento fundamentado, solicitar perante o serviço de registo que se proceda à anotação ao registo da invocação da falsidade dos documentos com base nos quais ele tenha sido efetuado.
+
+2 - Para os efeitos do disposto no número anterior, são interessados, para além das autoridades judiciárias e das entidades que prossigam fins de investigação criminal, as pessoas que figuram no documento como autor deste e como sujeitos do facto.
+
+3 - A invocação da falsidade a que se refere o n.º 1 é anotada ao registo respetivo e comunicada ao Ministério Público, que promoverá, se assim o entender, a competente ação judicial de declaração de nulidade, cujo registo conserva a prioridade correspondente à anotação.
+
+4 - Os registos que venham a ser efetuados na pendência da anotação ou da ação a que se refere o número anterior, que dependam, direta ou indiretamente, do registo a que aquelas respeitem estão sujeitos ao regime da provisoriedade previsto na alínea b) do n.º 2 do artigo 92.º, sendo-lhes aplicável, com as adaptações necessárias, os n.os 6 a 8 do mesmo artigo.
+
+5 - A anotação da invocação de falsidade é inutilizada se a ação de declaração de nulidade do registo não for proposta e registada dentro de 60 dias a contar da comunicação a que se refere o n.º 3.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 17.º — (Declaração da nulidade)
+
+1 - A nulidade do registo só pode ser invocada depois de declarada por decisão judicial com trânsito em julgado.
+
+2 - A declaração de nulidade do registo não prejudica os direitos adquiridos a título oneroso por terceiro de boa fé, se o registo dos correspondentes factos for anterior ao registo da acção de nulidade.
+
+3 - A ação judicial de declaração de nulidade do registo pode ser interposta por qualquer interessado e pelo Ministério Público, logo que tome conhecimento do vício.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 18.º — (inexactidão do registo)
+
+1 - O registo é inexacto quando se mostre lavrado em desconformidade com o título que lhe serviu de base ou enferme de deficiências provenientes desse título que não sejam causa de nulidade.
+
+2 - Os registos inexactos são rectificados nos termos dos artigos 120.º e seguintes.
+
+## Título II — Da organização do registo
+
+## Capítulo I — Competência territorial
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 19.º — (Regras de competência)
+
+1 - Os registos são feitos na conservatória da situação dos prédios.
+
+2 - Se o prédio se situar na área da competência de várias conservatórias, os registos devem ser feitos em todas elas.
+
+3 - Os factos respeitantes a 2 ou mais prédios situados na área de diversas conservatórias serão registados em cada uma delas na parte respectiva.
+
+4 - Tratando-se de concessões em vias de comunicação, a conservatória competente é a correspondente ao ponto inicial, indicado pelo ministério competente.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 20.º — (Alteração da área da conservatória)
+
+1 - As alterações da situação dos prédios, decorrentes da definição dos limites do concelho ou da freguesia, devem ser comprovadas por certidão passada pela câmara municipal competente.
+
+2 - Os registos sobre os prédios situados em área desanexada de uma conservatória só poderão ser feitos nesta se a apresentação tiver sido anterior à desanexação.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 21.º — (Transferência dos registos)
+
+1 - Na nova conservatória não poderão ser efectuados quaisquer registos sem que se tenha operado, oficiosamente ou a pedido dos interessados, a transferência das fichas ou fotocópias dos registos em vigor.
+
+2 - Quando o prédio não estiver descrito será passada certidão negativa pela conservatória a cuja área pertenceu, salvo se estiver concluída a transferência de todas as fichas ou fotocópias.
+
+3 - As certidões e fotocópias referidas nos números anteriores são requisitadas e passadas gratuitamente, com indicação do fim a que se destinam.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+## Capítulo II — Suportes documentais e arquivo
+
+### Artigo 22.º — (Diário e fichas)
+
+Existem nos serviços de registo:
+
+a) Um diário, em suporte informático, destinado à anotação cronológica dos pedidos de registo e respectivos documentos;
+
+b) Fichas de registo, em suporte informático, destinadas a descrições, inscrições, averbamentos e anotações.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 23.º — (Ordenação das fichas)
+
+As fichas de registo são ordenadas por freguesias e, dentro de cada uma delas, pelos respectivos números de descrição.
+
+### Artigo 24.º — (Verbetes reais e pessoais)
+
+1 - Para efeitos de busca, haverá em cada conservatória um ficheiro real e um ficheiro pessoal.
+
+2 - O ficheiro real é constituído por verbetes indicadores dos prédios, ordenados por freguesias nos seguintes termos:
+
+a) Prédios urbanos, por ruas e números de polícia;
+
+b) Prédios urbanos, por artigos de matriz;
+
+c) Prédios rústicos, por artigos de matriz precedidos das respectivas secções, sendo cadastrais.
+
+3 - O ficheiro pessoal é constituído por verbetes indicadores dos proprietários ou possuidores dos prédios, ordenados alfabeticamente.
+
+### Artigo 25.º — (Preenchimento dos verbetes)
+
+1 - Os verbetes dos ficheiros real e pessoal são anotados e actualizados simultaneamente com qualquer registo.
+
+2 - No caso de prédios não descritos, os verbetes reais são sempre abertos dentro do prazo da feitura dos registos.
+
+3 - A passagem de certidão comprovativa de o prédio não estar descrito determina também a abertura do respectivo verbete.
+
+4 - Do verbete real deve constar a situação e composição sumária do prédio, o artigo matricial e o número de descrição, ou o número e a data da apresentação ou da certidão, quando o verbete for aberto sem a descrição.
+
+5 - Do verbete pessoal deve constar o nome, estado e residência dos proprietários ou possuidores, o número da descrição do prédio e a freguesia onde se situa.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 26.º — (Arquivo de documentos)
+
+1 - Ficam arquivados pela ordem das apresentações os documentos que serviram de base à realização dos registos, bem como o comprovativo do pedido.
+
+2 - Se as condições técnicas permitirem o seu arquivo em suporte electrónico, os documentos que basearam actos de registo, bem como as certidões que contenham elementos que não possam ser recolhidos por acesso às respectivas bases de dados, são restituídos aos interessados.
+
+3 - Por despacho do presidente do Instituto dos Registos e do Notariado, I. P., pode ser determinado o arquivo dos documentos em suporte electrónico.
+
+4 - Os documentos arquivados em suporte electrónico referidos no número anterior têm a força probatória dos originais.
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 27.º — (Documentos provisoriamente arquivados)
+
+1 - Enquanto as condições técnicas não permitirem o seu arquivo electrónico, os documentos respeitantes a actos recusados permanecem no serviço de registo quando tenha sido interposto recurso hierárquico ou impugnação judicial ou enquanto o prazo para a sua interposição não tiver expirado.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+## Capítulo III — Referências matriciais e toponímicas
+
+## Secção I — Conjugação do registo, das matrizes prediais e dos títulos
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 28.º — (Harmonização)
+
+1 - Sem prejuízo do disposto no número seguinte, deve haver harmonização quanto à localização, à área e ao artigo da matriz, entre a descrição e a inscrição matricial ou o pedido de rectificação ou alteração desta.
+
+2 - Na descrição dos prédios urbanos e dos prédios rústicos ainda não submetidos ao cadastro geométrico a exigência de harmonização é limitada aos artigos matriciais e à área dos prédios.
+
+3 - Nos títulos respeitantes a factos sujeitos a registo deve haver harmonização com a matriz, nos termos dos n.os 1 e 2, e com a respectiva descrição, salvo se quanto a esta os interessados esclarecerem que a divergência resulta de alteração superveniente ou de simples erro de medição.
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 28.º-A — Dispensa de harmonização
+
+Caso exista diferença, quanto à área, entre a descrição e a inscrição matricial ou, tratando-se de prédio não descrito, entre o título e a inscrição matricial, é dispensada a harmonização se a diferença não exceder, em relação à área maior:
+
+a) 20 %, nos prédios rústicos não submetidos ao cadastro geométrico;
+
+b) 5 %, nos prédios rústicos submetidos ao cadastro geométrico;
+
+c) 10 %, nos prédios urbanos ou terrenos para construção.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 28.º-B — Abertura ou actualização da descrição
+
+1 - A área constante da descrição predial pode ser actualizada, no limite das percentagens fixadas no artigo 28.º-A, se o proprietário inscrito declarar que a área correcta é a que consta da matriz.
+
+2 - Se estiver em causa um prédio não descrito, aplica-se o disposto no número anterior, descrevendo-se o prédio com a área constante da matriz, se o interessado declarar que é essa a área correcta.
+
+3 - O recurso à faculdade para proceder à actualização da descrição ou à sua abertura, prevista nos números anteriores, apenas pode ser efectuado uma única vez.
+
+4 - O exercício da faculdade prevista no número anterior deve ser mencionado na descrição.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 28.º-C — Erro de medição
+
+1 - Quando exista divergência de área, entre a descrição e o título, no limite das percentagens previstas no artigo 28.º-A, e não tenha havido recurso à faculdade prevista no artigo anterior, a actualização da descrição pode ser efectuada se o proprietário inscrito esclarecer que a divergência provém de simples erro de medição.
+
+2 - Quando exista divergência de área, entre a descrição e o título, em percentagens superiores às previstas no artigo 28.º-A, a actualização da descrição é feita nos seguintes termos:
+
+a) Na matriz cadastral, o erro de medição é comprovado com base na informação da inscrição matricial donde conste a rectificação da área e em declaração que confirme que a configuração geométrica do prédio não sofreu alteração;
+
+b) Na matriz não cadastral, o erro a que se refere a alínea anterior é comprovado pela apresentação dos seguintes documentos:
+
+i) Planta do prédio elaborada por técnico habilitado e declaração do titular de que não ocorreu alteração na configuração do prédio; ou
+
+ii) Planta do prédio e declaração dos confinantes de que não ocorreu alteração na configuração do prédio.
+
+3 - A assinatura de qualquer proprietário confinante pode ser suprida pela sua notificação judicial, desde que não seja deduzida oposição no prazo de 15 dias.
+
+4 - A oposição referida no número anterior é anotada à descrição.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 29.º — (Alterações matriciais)
+
+1 - Quando ocorra substituição das matrizes, os serviços de finanças devem comunicar aos serviços de registo, sempre que possível por via electrónica, a correspondência entre os artigos matriciais relativos a todos os prédios do concelho ou de uma ou mais freguesias.
+
+2 - Nos casos em que for comunicada, oficiosamente ou a pedido dos serviços de registo, a impossibilidade de estabelecer a correspondência matricial e a mesma não resultar dos documentos apresentados, pode esta ser suprida por declaração complementar dos interessados que indique expressamente o artigo da matriz em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 30.º — (Identificação dos prédios nos títulos)
+
+1 - Nos títulos respeitantes a factos sujeitos a registo, a identificação dos prédios não pode ser feita em contradição com a inscrição na matriz, nos termos do artigo 28.º, nem com a respectiva descrição, salvo se, quanto a esta, os interessados esclarecerem que a divergência resulta de alteração superveniente ou que, tratando-se de matriz não cadastral, provém de simples erro de medição.
+
+2 - No caso do erro previsto na última parte do número anterior, devem os interessados juntar a planta do prédio e declaração assinada por todos os proprietários confinantes de que não houve alterações na configuração do prédio.
+
+3 - A assinatura de qualquer proprietário confinante pode ser suprida pela sua notificação judicial, desde que não seja deduzida oposição no prazo de 15 dias.
+
+4 - A oposição referida no número anterior é anotada à descrição mediante apresentação de requerimento do notificado.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Rectificado pelo/a Declaração - Diário da República n.º 76/1990, Suplemento n.º 1, Série I de 1990-03-31, em vigor a partir de 1990-03-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 31.º — (Prova da situação matricial)
+
+1 - Para a realização de actos de registo deve ser feita prova da inscrição na matriz, da declaração para inscrição, quando devida, se o prédio estiver omisso, ou da pendência de pedido de alteração ou rectificação.
+
+2 - A prova da inscrição na matriz deve ser obtida pelo serviço de registo mediante acesso direto à informação constante da base de dados das entidades competentes ou, em caso de impossibilidade, mediante emissão gratuita do documento comprovativo por tais entidades, a solicitação oficiosa do serviço de registo.
+
+3 - Se a declaração para inscrição na matriz, ou o pedido da sua alteração ou retificação não tiverem sido feitos pelo proprietário ou possuidor, deve ser feita prova de que o interessado, sendo terceiro, deu conhecimento às entidades competentes da omissão, alteração ou erro existente.
+
+4 - A declaração para inscrição na matriz, ou o pedido da sua alteração ou rectificação, pode ser feita pelos serviços de registo, a pedido do interessado e de acordo com as declarações por ele prestadas.
+
+5 - A prova exigida no n.º 1 é dispensada para os cancelamentos de registos e ainda se já tiver sido feita perante serviço de registo ou no acto sujeito a registo há menos de um ano.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 32.º — (Prédios omissos na matriz ou pendentes de alterações)
+
+1 - Se o prédio estiver omisso na matriz, a declaração para a inscrição, quando devida, deve ser comprovada por duplicado ou certidão da declaração emitidos há menos de um ano.
+
+2 - No caso de estar pendente pedido de alteração ou rectificação da matriz, aos documentos previstos no artigo anterior deve ser junto duplicado do pedido ou certidão da sua pendência emitidos há menos de um ano.
+
+3 - A prova da declaração e do pedido previstos nos números anteriores não carece de ser renovada para os registos apresentados dentro do referido prazo.
+
+4 - Se a declaração para a inscrição na matriz ou o pedido da sua alteração ou rectificação não tiverem sido feitos pelo proprietário ou possuidor, deve o interessado, sendo terceiro, fazer prova de que deu conhecimento à repartição de finanças da omissão ou alteração ou do erro existente.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+## Secção II — Alterações toponímicas
+
+### Artigo 33.º — (Denominação das vias públicas e numeração policial)
+
+1 - As câmaras municipais comunicam, sempre que possível por via electrónica e automática, aos serviços de registo, até ao último dia de cada mês, todas as alterações de denominações de vias públicas e de numeração policial dos prédios verificadas no mês anterior, no caso de essa informação não estar disponível nas respectivas bases de dados.
+
+2 - A prova da correspondência entre a antiga e a nova denominação ou numeração, se não puder ser obtida nos termos do número anterior, nem resultar dos documentos apresentados, considera-se suprida por declaração complementar dos interessados, quando a câmara municipal, a pedido do serviço de registo, comunicar a impossibilidade de a estabelecer.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+## Capítulo IV — Baldios e bens imóveis do domínio público
+
+> Aditado pelo/a Artigo 9.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+### Artigo 33.º-A — Identificação de baldios e bens imóveis do domínio público
+
+À identificação no registo predial dos terrenos baldios e dos bens imóveis do domínio público são aplicáveis, com as necessárias adaptações, as disposições do presente código.
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+### Artigo 33.º-B — Abertura da descrição
+
+1 - A descrição dos terrenos baldios e dos bens imóveis do domínio público tem por fim a identificação física e, no caso dos terrenos baldios, também a identificação fiscal.
+
+2 - A abertura da descrição depende da existência da representação gráfica georreferenciada ou da configuração geométrica do prédio cadastrado e, no caso dos terrenos baldios, também da inscrição na matriz.
+
+3 - O extrato da descrição deve conter:
+
+a) A menção de terreno baldio ou de bem imóvel do domínio público;
+
+b) A menção da existência da representação gráfica georreferenciada ou da configuração geométrica de prédio cadastrado;
+
+c) Os demais elementos constantes das alíneas a) e c) a f) do n.º 1 do artigo 82.º, com as necessárias adaptações.
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+### Artigo 33.º-C — Legitimidade
+
+Têm legitimidade para requerer a abertura da descrição, bem como para efetuar pedidos de alteração ou retificação desta:
+
+a) O conselho diretivo do universo de compartes, quanto aos terrenos baldios;
+
+b) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, quanto aos respetivos bens imóveis do domínio público.
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+### Artigo 33.º-D — Inutilização da descrição
+
+A descrição deve ser inutilizada sempre que se verifique:
+
+a) Uma das causas de extinção da aplicação do regime comunitário, previstas na Lei n.º 75/2017, de 17 de agosto, quanto aos terrenos baldios;
+
+b) A desafetação das utilidades que justificam a sujeição ao regime da dominialidade, no caso dos bens imóveis do domínio público.
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+### Artigo 33.º-E — Certidões
+
+A identificação no registo predial dos terrenos baldios e dos bens imóveis do domínio público prova-se por meio de certidões.
+
+> Aditado pelo/a Artigo 5.º do/a Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11, em vigor a partir de 2023-11-01
+
+## Título III — Do processo de registo
+
+## Capítulo I — Pressupostos
+
+## Secção I — Inscrição prévia e continuidade das inscrições
+
+### Artigo 34.º — (Princípio do tratado sucessivo)
+
+1 - O registo definitivo de constituição de encargos por negócio jurídico depende da prévia inscrição dos bens em nome de quem os onera.
+
+2 - O registo definitivo de aquisição de direitos depende da prévia inscrição dos bens em nome de quem os transmite, quando o documento comprovativo do direito do transmitente não tiver sido apresentado perante o serviço de registo.
+
+3 - A inscrição prévia referida no número anterior é sempre dispensada no registo de aquisição com base em partilha.
+
+4 - No caso de existir sobre os bens registo de aquisição ou reconhecimento de direito susceptível de ser transmitido ou de mera posse, é necessária a intervenção do respectivo titular para poder ser lavrada nova inscrição definitiva, salvo se o facto for consequência de outro anteriormente inscrito.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 35.º — (Dispensa de inscrição intermédia)
+
+É dispensada a inscrição intermédia em nome dos titulares de bens ou direitos que façam parte de herança indivisa.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 76/1990, Suplemento n.º 1, Série I de 1990-03-31, em vigor a partir de 1990-03-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+## Secção II — Legitimidade e representação
+
+### Artigo 36.º — (Regra geral da legitimidade)
+
+Têm legitimidade para pedir o registo os sujeitos, activos ou passivos, da respectiva relação jurídica e, em geral, todas as pessoas que nele tenham interesse ou que estejam obrigadas à sua promoção.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 37.º — (Contitularidade de direitos)
+
+1 - O meeiro ou qualquer dos herdeiros pode pedir, a favor de todos os titulares, o registo de aquisição de bens e direitos que façam parte de herança indivisa.
+
+2 - Qualquer comproprietário ou compossuidor pode pedir, a favor de qualquer dos demais titulares, o registo de aquisição dos respectivos bens ou direitos.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 38.º — (Averbamentos às descrições)
+
+1 - Salvo quando se trate de factos que constem de documento oficial, os averbamentos às descrições só podem ser pedidos:
+
+a) Pelo proprietário ou possuidor definitivamente inscrito ou com a sua intervenção;
+
+b) Por qualquer interessado inscrito ou com a sua intervenção, não havendo proprietário ou possuidor inscrito;
+
+c) Por qualquer interessado inscrito que tenha requerido a notificação judicial do proprietário ou possuidor inscrito, não havendo oposição deste no prazo de 15 dias.
+
+2 - A intervenção referida nas alíneas a) e b) do número anterior tem-se por verificada desde que os interessados tenham intervindo nos respectivos títulos ou processos.
+
+3 - (Revogado).
+
+4 - A oposição referida na alínea c) do n.º 1 é anotada à descrição mediante apresentação de requerimento do proprietário ou possuidor inscrito.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 39.º — (Representação)
+
+1 - O registo pode ser pedido por mandatário com procuração que lhe confira poderes especiais para o acto.
+
+2 - Não carecem de procuração para pedir o registo:
+
+a) Aqueles que tenham poderes de representação para intervir no respectivo título, nos quais se haverão como compreendidos os necessários às declarações complementares relativas à identificação do prédio;
+
+b) Os advogados, os notários e os solicitadores.
+
+3 - Sem prejuízo do disposto na alínea a), o número anterior não se aplica aos pedidos de averbamento à descrição de factos que não constem de documento oficial.
+
+4 - A representação abrange sempre a faculdade de requerer urgência na realização do registo, subsiste até à feitura do registo e implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
+
+5 - Compete ao respetivo representante legal ou ao Ministério Público requerer o registo quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis.
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 23/2013 - Diário da República n.º 45/2013, Série I de 2013-03-05, em vigor a partir de 2013-09-02
+
+> Alterado pelo/a Artigo 80.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2010-07-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-10-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+### Artigo 40.º — (Casos especiais)
+
+1 - Compete ao Ministério Público requerer o registo quando, em inventário judicial, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis.
+
+2 - A obrigação referida no número anterior incumbe ao representante legal do incapaz que outorgue na partilha extrajudicial em sua representação.
+
+3 - Idêntica obrigação incumbe ao doador quanto às doações que produzam efeitos independentemente de aceitação.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 227/94 - Diário da República n.º 208/1994, Série I-A de 1994-09-08, em vigor a partir de 1995-03-07
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 80/92 - Diário da República n.º 105/1992, Série I-A de 1992-05-07, em vigor a partir de 1992-05-12
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+## Capítulo II — Pedido de registo
+
+### Artigo 41.º — (Princípio da instância)
+
+O registo efectua-se mediante pedido de quem tenha legitimidade, salvo os casos de oficiosidade previstos na lei.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 41.º-A — (Apresentação por notário)
+
+1 - O pedido de registo, subscrito pelos interessados, pode ser remetido ou apresentado directamente pelo notário na conservatória competente, acompanhado dos respectivos documentos e preparo, nos termos previstos na lei notarial.
+
+2 - Após a anotação da apresentação no Diário, é devolvida ao notário fotocópia do impresso a que se refere o artigo anterior, com nota de recebimento.
+
+3 - Por cada requisição de registo efectuada nos termos do n.º 1, é remetida pelo conservador aos interessados uma senha de apresentação, de acordo com o disposto no artigo 64.º
+
+4 - No prazo de cinco dias após a feitura do registo, os documentos que serviram de base à sua realização são devolvidos aos interessados, por meio de carta registada, juntamente com fotocópia dos registos efectuados e o excesso de preparo, se o houver.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 41.º-B — Modalidades do pedido
+
+O pedido de registo pode ser efetuado pessoalmente, por via eletrónica ou por correio.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 41.º-C — Pedido de registo por via eletrónica
+
+1 - O pedido de registo por via electrónica é regulamentado por portaria do membro do Governo responsável pela área da justiça.
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 41.º-D — Pedido de registo pelo correio
+
+O pedido de registo pode ser remetido por carta registada, acompanhado dos documentos e das quantias que se mostrem devidas.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 41.º-E — Apresentação por via imediata
+
+1 - O pedido de registo e os respectivos documentos podem ser apresentados no serviço de registo mediante depósito imediato, em envelope.
+
+2 - Às apresentações por via imediata aplicam-se as regras do pedido por correio, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 42.º — (Elementos do pedido)
+
+1 - O pedido de registo deve conter a identificação do apresentante, a indicação dos factos e dos prédios a que respeita, bem como a relação dos documentos que o instruem, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - Tratando-se de prédio não descrito, deve indicar-se em declaração complementar o nome, estado e residência dos proprietários ou possuidores imediatamente anteriores ao transmitente, bem como o anterior artigo matricial, salvo se o apresentante alegar na declaração as razões justificativas do seu desconhecimento.
+
+7 - Se o registo recair sobre quota-parte de prédio indiviso não descrito, deve declarar-se complementarmente o nome, o estado e a residência de todos os comproprietários.
+
+8 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 42.º-A — Pedido efectuado por comunicação
+
+O pedido efetuado pelos tribunais, pelo Ministério Público, pelos agentes de execução, ou pelos oficiais de justiça que realizem diligências próprias dos agentes de execução, e pelos administradores judiciais, deve ser preferencialmente comunicado por via eletrónica e acompanhado dos documentos necessários ao registo, bem como das quantias que se mostrem devidas, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Capítulo III — Documentos
+
+## Secção I — Disposições gerais
+
+### Artigo 43.º — (Prova documental)
+
+1 - Só podem ser registados os factos constantes de documentos que legalmente os comprovem.
+
+2 - Os documentos arquivados são utilizados para a realização de novo registo sempre que referenciados e novamente anotados no Diário.
+
+3 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.
+
+4 - (Revogado).
+
+5 - Os documentos arquivados nos serviços da Administração Pública podem ser utilizados para a realização de registos, devendo tais documentos ser referenciados no pedido.
+
+6 - Para efeitos do disposto no número anterior, o serviço de registo é reembolsado pelo apresentante das despesas resultantes dos pagamentos devidos às entidades referidas naquele mesmo número.
+
+7 - Para efeitos de promoção de actos de registo predial através da Internet em que sejam interessadas sociedades comerciais ou civis sob forma comercial podem os respectivos gerentes e administradores certificar a conformidade dos documentos electrónicos por si submetidos com os documentos originais em suporte de papel.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 43.º-A — Prova do direito estrangeiro
+
+Quando a viabilidade do pedido de registo deva ser apreciada com base em direito estrangeiro, deve o interessado fazer prova, mediante documento idóneo, do respetivo conteúdo.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 43.º-B — Documentos arquivados eletronicamente
+
+1 - Os documentos que contenham factos sujeitos a registo são arquivados eletronicamente nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+2 - Sem prejuízo do disposto em lei especial, a comprovação para efeitos de registo dos factos constantes de documentos que devam ser arquivados nos termos do número anterior é feita através da respetiva consulta eletrónica.
+
+3 - A consulta eletrónica dos títulos e dos documentos arquivados eletronicamente substitui, para todos os efeitos, a apresentação perante o serviço de registo do respetivo suporte em papel, devendo este, em caso de junção ao pedido de registo, ser devolvido ao apresentante.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 44.º — (Menções obrigatórias)
+
+1 - Dos actos notariais, processuais ou outros que contenham factos sujeitos a registo devem constar:
+
+a) A identidade dos sujeitos, nos termos da alínea e) do n.º 1 do artigo 93.º;
+
+b) O número da descrição dos prédios ou as menções necessárias à sua descrição, bem como a indicação do número, data de emissão e entidade emitente das certidões de registo que tenham sido apresentadas ou, no caso de certidão permanente, a indicação do respetivo código de acesso;
+
+c) A indicação do registo prévio a que se refere o n.º 1 do artigo 9.º ou do modo como foi comprovada a urgência prevista na alínea c) do n.º 2 do mesmo artigo;
+
+d) (Revogada);
+
+e) (Revogada);
+
+f) (Revogada);
+
+g) Sempre que esteja em causa o pagamento de uma quantia, a indicação do momento em que tal ocorre e do meio de pagamento utilizado.
+
+2 - O documento comprovativo do teor da inscrição matricial deve ter sido emitido com antecedência não superior a um ano.
+
+3 — Se o prédio não estiver descrito, deve ser comprovada essa circunstância por certidão passada pela conservatória com antecedência não superior a três meses.
+
+4 — Da certidão dos actos referidos no n.o 1, passada para fins de registo, devem constar todos os elementos aí previstos.
+
+5 - Para o cumprimento do disposto na alínea g) do n.º 1, caso o pagamento ocorra antes ou no momento da celebração do ato, deve ser consignado no instrumento:
+
+a) Tratando-se de pagamento em numerário, a moeda utilizada;
+
+b) Tratando-se de pagamento por cheque, o seu número e a entidade sacada;
+
+c) Tratando-se de pagamento através da realização de uma transferência de fundos:
+
+i) A identificação da conta do ordenante e da conta do beneficiário, mediante a menção dos respetivos números e prestadores de serviços de pagamento;
+
+ii) Quando o ordenante ou o beneficiário não realize a transferência por intermédio de uma conta de pagamento, mediante a menção do identificador único da transação ou do número do instrumento de pagamento utilizado e do respetivo emitente.»
+
+> Alterado pelo/a Artigo 8.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 227/94 - Diário da República n.º 208/1994, Série I-A de 1994-09-08, em vigor a partir de 1995-03-07
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 45.º — (Forma das declarações para registo)
+
+1 - Salvo disposição em contrário, as declarações para registo, principais ou complementares, devem ser assinadas e datadas e conter a indicação do número, data e entidade emitente do documento de identificação civil ou documento de identificação equivalente do signatário.
+
+2 - O disposto no número anterior é dispensado quando o registo seja promovido através da Internet, com recurso a meios electrónicos que permitam determinar a identidade do interessado ou do apresentante, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 46.º — (Declarações complementares)
+
+1 - Além de outros casos previstos, são admitidas declarações complementares dos títulos:
+
+a) Para completa identificação dos sujeitos, sem prejuízo das exigências de prova do estado civil;
+
+b) Para a menção dos elementos que integrem a descrição, quando os títulos forem deficientes, ou para esclarecimento das suas divergências, quando contraditórios, entre si, ou com a descrição, em virtude de alteração superveniente.
+
+2 - Os erros sobre elementos da identificação do prédio de que os títulos enfermem podem ser rectificados por declaração de todos os intervenientes no acto ou dos respectivos herdeiros devidamente habilitados.
+
+## Secção II — Casos especiais
+
+### Artigo 47.º — (Aquisição e hipoteca antes de lavrado o contrato)
+
+1 - O registo provisório de aquisição de um direito ou de constituição de hipoteca voluntária, antes de titulado o negócio, é feito com base em declaração do proprietário ou titular do direito.
+
+2 - A assinatura do declarante deve ser reconhecida presencialmente, salvo se for feita perante funcionário dos serviços de registo no momento do pedido.
+
+3 - O reconhecimento previsto no número anterior pode igualmente ser dispensado quando o registo seja promovido através da Internet, com recurso a meios electrónicos que permitam determinar a identidade do interessado ou do apresentante, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+4 - O registo provisório de aquisição pode também ser feito com base em contrato-promessa de alienação, salvo convenção em contrário.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 48.º — Penhora
+
+1 - Sem prejuízo do disposto quanto às execuções fiscais, o registo da penhora é efectuado com base em comunicação electrónica do agente de execução ou em declaração por ele subscrita.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08, em vigor a partir de 2003-09-15
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 48.º-A — Aquisição por venda em processo judicial
+
+O registo provisório de aquisição por venda em processo judicial é efectuado com base em comunicação electrónica do agente de execução, com indicação da identificação do proponente, remidor ou preferente e dos bens a que respeitam.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 48.º-B — Conversão da penhora em hipoteca
+
+O registo de hipoteca, por conversão de penhora nos termos do n.º 1 do artigo 807.º do Código de Processo Civil, é feito com base em comunicação do agente de execução, a qual deve conter, sendo o caso, declaração de que não houve renovação da instância nos termos do artigo 809.º do Código de Processo Civil.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 49.º — (Aquisição em comunhão hereditária)
+
+O registo de aquisição em comum e sem determinação de parte ou direito é feito com base em documento comprovativo da habilitação e, tratando-se de prédio não descrito, em declaração que identifique os bens.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 50.º — (Hipoteca legal e judicial)
+
+O registo de hipoteca legal ou judicial é feito com base em certidão do título de que resulta a garantia, se o serviço de registo não conseguir aceder à informação necessária por meios electrónicos e, tratando-se de prédio não descrito, em declaração que identifique os bens.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 51.º — (Afectação de imóveis)
+
+O registo de afectação de imóveis é feito com base em declaração do proprietário ou possuidor inscrito.
+
+### Artigo 52.º — (Renúncia a indemnização)
+
+O registo da renúncia a indemnização é feito com base na declaração do proprietário ou possuidor inscrito perante a entidade expropriante.
+
+### Artigo 53.º — (Acções e procedimentos cautelares)
+
+1 - O registo provisório de acção e de procedimento cautelar é feito:
+
+a) Com base em certidão de teor do articulado ou em duplicado deste, acompanhado de prova da sua apresentação a juízo; ou
+
+b) Com base em comunicação efectuada pelo tribunal, acompanhada de cópia do articulado.
+
+2 - Se a apresentação for feita pelo mandatário judicial é suficiente a entrega da cópia do articulado e de declaração da sua prévia ou simultânea apresentação em juízo com indicação da respectiva data.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 53.º-A — Decisões judiciais
+
+O registo das decisões a que se refere a alínea c) do n.º 1 do artigo 3.º é feito com base em certidão da decisão ou em comunicação efectuada pelo tribunal acompanhada de cópia daquela.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 54.º — (Operações de transformação fundiária)
+
+Os registos das operações de transformação fundiária e das respectivas alterações são efectuadas com base no alvará respectivo, no recibo de admissão de comunicação prévia ou em outro documento que legalmente comprove aqueles factos, com individualização dos lotes ou parcelas.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 55.º — (Contrato para pessoa a nomear)
+
+1 - A nomeação de terceiro, em contrato para pessoa a nomear, é registada com base no respectivo instrumento de ratificação, acompanhado de declaração do contraente originário da qual conste que foi validamente comunicada ao outro contraente.
+
+2 - Não tendo sido feita a nomeação nos termos legais, esta circunstância é registada com base em declaração do contraente originário; se houver estipulação que obste à produção dos efeitos do contrato relativamente ao contraente originário, é cancelada a inscrição.
+
+3 - As assinaturas das declarações referidas nos números anteriores devem ser reconhecidas presencialmente, salvo se feitas na presença de funcionário de serviço de registo no momento do pedido.
+
+4 - O reconhecimento previsto no número anterior pode igualmente ser dispensado quando o registo seja promovido através da Internet, com recurso a meios electrónicos que permitam determinar a identidade do interessado ou do apresentante, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 56.º — (Cancelamento de hipoteca)
+
+1 - O cancelamento do registo de hipoteca é feito com base em documento de que conste o consentimento do credor.
+
+2 - O documento referido no número anterior deve conter a assinatura reconhecida presencialmente, salvo se esta for feita na presença de funcionário de serviço de registo no momento do pedido.
+
+3 - O consentimento do credor para o cancelamento do registo de hipoteca pode ser prestado por via electrónica, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 263-A/2007 - Diário da República n.º 140/2007, Suplemento n.º 1, Série I de 2007-07-23, em vigor a partir de 2007-07-24
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 57.º — (Cancelamento de hipoteca para garantia de pensões periódicas)
+
+A hipoteca para garantia de pensões periódicas é cancelada em face da certidão de óbito do respectivo titular e de algum dos seguintes documentos:
+
+a) Recibos de pagamento das pensões vencidas nos cinco anos anteriores à morte do pensionista;
+
+b) Declaração, assinada pelos herdeiros habilitados do pensionista, de não estar em dívida nenhuma pensão;
+
+c) Certidão, passada pelo tribunal da residência dos devedores, comprovativa de não ter sido distribuído no último decénio processo para cobrança das pensões, se o pensionista tiver morrido há mais de cinco anos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 58.º — (Cancelamento do registo de penhora e providências cautelares)
+
+1 - Se o serviço de registo não conseguir aceder à informação necessária por meios electrónicos, o cancelamento dos registos de penhora, arresto e outras providências cautelares, nos casos em que a acção já não esteja pendente, faz-se com base na certidão passada pelo tribunal competente que comprove essa circunstância e a causa, ou ainda, nos processos de execução fiscal, a extinção ou não existência da dívida à Fazenda Pública.
+
+2 - Nos casos em que não tenha ainda ocorrido a apreensão, o registo de penhora é cancelado com base em comunicação electrónica do agente de execução, ou em pedido por ele subscrito, de que conste declaração expressa daquele facto.
+
+3 - Nos casos de adjudicação ou de venda judicial em processo de execução de bens penhorados ou arrestados, só após o registo daqueles factos se podem efectuar os cancelamentos referidos no n.º1.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 58.º-A — Cancelamento do registo de apreensão em processo penal
+
+O cancelamento do registo de apreensão em processo penal faz-se com base em certidão passada pelo tribunal ou pelo serviço do Ministério Público competente que comprove a respetiva extinção.
+
+> Aditado pelo/a Artigo 13.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+### Artigo 59.º — (Cancelamento dos registos provisórios)
+
+1 - O cancelamento dos registos provisórios por natureza, de aquisição e de hipoteca voluntária e o cancelamento dos registos provisórios por dúvidas de factos não sujeitos a registo obrigatório são feitos com base em declaração do respectivo titular.
+
+2 - A assinatura do declarante deve ser reconhecida presencialmente, salvo se for feita perante funcionário dos serviços de registo no momento do pedido.
+
+3 - O reconhecimento previsto no número anterior pode igualmente ser dispensado quando o registo seja promovido através da Internet, com recurso a meios electrónicos que permitam determinar a identidade do interessado ou do apresentante, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+4 - No caso de existirem registos dependentes dos registos referidos no n.º 1 é igualmente necessário o consentimento dos respectivos titulares, prestado em declaração com idêntica formalidade.
+
+5 - O cancelamento do registo provisório de acção e de procedimento cautelar é feito com base em certidão da decisão transitada em julgado que absolva o réu do pedido ou da instância, a julgue extinta ou a declare interrompida, ou em comunicação efectuada pelo tribunal, preferencialmente por via electrónica, acompanhada de cópia daquela decisão e indicação do respectivo trânsito em julgado.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 59.º-A — Alteração da situação dos prédios
+
+As alterações da situação dos prédios, decorrentes da definição dos limites do concelho ou da freguesia, devem ser comprovadas por comunicação, preferencialmente electrónica e automática, da câmara municipal competente, oficiosamente ou a pedido do serviço de registo.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 59.º-B — Prédios não descritos
+
+Quando o prédio não estiver descrito, deve esta circunstância ser previamente confirmada pelo serviço de registo da área da sua situação, sempre que se pretenda sobre ele registar facto em serviço de registo diverso.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Capítulo IV — Apresentação
+
+### Artigo 60.º — (Anotação da apresentação)
+
+1 - Sem prejuízo do disposto nos números seguintes, os documentos apresentados para registo são anotados no diário pela ordem dos pedidos.
+
+2 - A anotação dos documentos apresentados por via electrónica é fixada pela portaria referida no n.º 1 do artigo 41.º-C.
+
+3 - [Revogado].
+
+4 - Os documentos apresentados pelo correio são anotados imediatamente após a última apresentação pessoal de cada dia, observando-se o disposto no artigo 63.º, se necessário.
+
+5 - Por cada facto é feita uma anotação distinta no diário, segundo a ordem que no pedido lhe couber.
+
+6 - Para fins de anotação, os averbamentos de anexação ou desanexação necessários à abertura de novas descrições consideram-se como um único facto.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 61.º — (Elementos da anotação)
+
+1 - A anotação da apresentação deve conter os seguintes elementos:
+
+a) O número de ordem, a data, a hora da apresentação em UTC (Universal Time, Coordinated) e a modalidade do pedido;
+
+b) O nome do apresentante e o seu cargo, quando se trate de entidade oficial que nessa qualidade formule o pedido de registo;
+
+c) O facto que se pretende registar;
+
+d) O número da descrição ou das descrições a que o facto respeita, freguesia e concelho, ou, tratando-se de prédio não descrito, o número da inscrição matricial, natureza, freguesia e concelho;
+
+e) A espécie dos documentos e o seu número.
+
+2 - As indicações para a anotação resultam do pedido de registo.
+
+3 - Cada um dos prédios não descritos é identificado pelo número da descrição que lhe vier a corresponder, em anotação complementar, a efectuar automaticamente logo que as condições técnicas o permitam.
+
+4 - (Revogado).
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 62.º — (Lançamento da nota nos documentos)
+
+1 - Feita a apresentação, será lançada nota do correspondente número de ordem e data na requisição e em cada um dos documentos apresentados, à excepção das cadernetas prediais.
+
+2 - Antes da feitura do registo serão oficiosamente mencionados no impresso-requisição os factos que devam ser registados por dependência do pedido.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 63.º — (Apresentações simultâneas)
+
+1 - Se forem apresentados simultaneamente diversos documentos relativos ao mesmo prédio, as apresentações serão anotadas pela ordem de antiguidade dos factos que se pretendam registar.
+
+2 - Quando os factos tiverem a mesma data, a anotação será feita pela ordem da respectiva dependência ou, sendo independentes entre si, sob o mesmo número de ordem.
+
+### Artigo 64.º — (Comprovativo da apresentação)
+
+Salvo se for efectuado por via electrónica, por cada pedido de registo é emitido um documento comprovativo da apresentação, do qual constam a identificação do apresentante, o número de ordem, a data e a hora daquela, o facto, os documentos e as quantias entregues, bem como o pedido de urgência, se for caso disso.
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 65.º — (Apresentação pelo correio)
+
+1 - A apresentação pode ser feita pelo correio.
+
+2 - O apresentante deve enviar os documentos e a requisição em carta registada, acompanhados do respectivo preparo, identificando-se nos termos previstos nos n.os 2 e 3 do artigo 42.º
+
+3 - A apresentação é anotada no Diário, com a observação «Correspondência», no dia da recepção e imediatamente após a última apresentação feita pessoalmente, observando-se o disposto no artigo 63.º, se necessário.
+
+4 - No prazo de cinco dias após a feitura do registo, os documentos que serviram de base à sua realização são devolvidos aos interessados, por meio de carta registada, juntamente com fotocópia dos registos efectuados e o excesso de preparo, se o houver.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 255/93 - Diário da República n.º 164/1993, Série I-A de 1993-07-15, em vigor a partir de 1993-08-15
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 66.º — (Rejeição da apresentação)
+
+1 - A apresentação deve ser rejeitada apenas nos seguintes casos:
+
+a) (Revogada);
+
+b) Quando os documentos não respeitarem a actos de registo predial;
+
+c) Quando não tiverem sido indicados no pedido de registo o nome e residência do apresentante e tais elementos não puderem ser recolhidos dos documentos apresentados ou por qualquer outro meio idóneo, designadamente por comunicação com o apresentante;
+
+d) Salvo nos casos de rectificação de registo e de anotação não oficiosa prevista na lei, quando o pedido escrito não for feito no modelo aprovado, se dele não constarem os elementos necessários e a sua omissão não for suprível por qualquer meio idóneo, designadamente por comunicação com o apresentante;
+
+e) Quando nenhum preparo tiver sido feito;
+
+f) Quando for possível verificar no momento da apresentação que o facto constante do documento já está registado.
+
+2 - Verificada a existência de causa de rejeição, é feita a apresentação do pedido no diário com os elementos disponíveis.
+
+3 - A rejeição deve ser fundamentada em despacho a notificar ao interessado, para efeitos de impugnação, nos termos do disposto nos artigos 140.º e seguintes, aplicando-se-lhe, com as devidas adaptações, as disposições relativas à recusa.
+
+4 - Sem prejuízo do disposto no n.º 9 do artigo 151.º, a verificação das causas de rejeição previstas nas alíneas b) e e) do n.º 1 após a apresentação do pedido no diário dá lugar à recusa da qualificação, aplicando-se com as devidas adaptações o disposto no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 67.º — (Encerramento do Diário)
+
+1 - (Revogado).
+
+2 - O diário é encerrado após a última anotação do dia ou, não tendo havido apresentações com a anotação dessa circunstância, fazendo-se menção, em qualquer dos casos, da menção da data da feitura do último registo em cada dia.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Capítulo V — Qualificação do pedido de registo
+
+### Artigo 68.º — (Princípio da legalidade)
+
+A viabilidade do pedido de registo deve ser apreciada em face das disposições legais aplicáveis, dos documentos apresentados e dos registos anteriores, verificando-se especialmente a identidade do prédio, a legitimidade dos interessados, a regularidade formal dos títulos e a validade dos actos neles contidos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 69.º — (Recusa do registo)
+
+1 - O registo deve ser recusado nos seguintes casos:
+
+a) (Revogada);
+
+b) Quando for manifesto que o facto não está titulado nos documentos apresentados;
+
+c) Quando se verifique que o facto constante do documento já está registado ou não está sujeito a registo;
+
+d) Quando for manifesta a nulidade do facto;
+
+e) Quando o registo já tiver sido lavrado como provisório por dúvidas e estas não se mostrem removidas;
+
+f) (Revogada).
+
+g) Quando o preparo não tiver sido completado.
+
+2 - Além dos casos previstos no número anterior, o registo só pode ser recusado se, por falta de elementos ou pela natureza do acto, não puder ser feito como provisório por dúvidas.
+
+3 - No caso de recusa é anotado na ficha o acto recusado a seguir ao número, data e hora da respectiva apresentação.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 70.º — (Registo provisório por dúvidas)
+
+Se as deficiências do processo de registo não forem sanadas nos termos do artigo 73.º, o registo deve ser feito provisoriamente por dúvidas quando existam motivos que obstem ao registo do acto tal como é pedido e que não sejam fundamento de recusa.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 71.º — (Despachos de recusa e provisoriedade)
+
+1 - Os despachos de recusa e de provisoriedade por dúvidas devem ser efectuados pela ordem de anotação no diário, salvo quando deva ser aplicado o mecanismo do suprimento de deficiências, nos termos do artigo 73.º, e são notificados ao apresentante nos dois dias seguintes.
+
+2 - Salvo nos casos previstos nas alíneas a), g) e i) do n.º 1 do artigo 92.º, a qualificação dos registos como provisórios por natureza é notificada aos interessados no prazo previsto no número anterior.
+
+3 - A data da notificação prevista nos números anteriores é anotada na ficha.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 72.º — (Obrigações fiscais)
+
+1 - Nenhum acto sujeito a encargos de natureza fiscal pode ser definitivamente registado sem que se mostrem pagos ou assegurados os direitos do fisco.
+
+2 - Não está sujeita à apreciação do conservador ou do oficial de registo a correcção da liquidação de encargos fiscais feita nos serviços de finanças.
+
+3 - O imposto do selo nas transmissões gratuitas considera-se assegurado desde que esteja instaurado o respectivo processo de liquidação e dele conste o prédio a que o registo se refere.
+
+4 - Presume-se assegurado o pagamento dos direitos correspondentes às transmissões operadas em inventário judicial, partilha extrajudicial e escritura de doação, bem como relativamente a qualquer outra transmissão, desde que tenham decorrido os prazos de caducidade da liquidação ou de prescrição previstos nas leis fiscais.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 30/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 73.º — (Suprimento de deficiências)
+
+1 - Sempre que possível, as deficiências do procedimento de registo devem ser supridas oficiosamente com base nos documentos apresentados ou já existentes no serviço de registo competente ou por acesso directo à informação constante de bases de dados das entidades ou serviços da Administração Pública.
+
+2 - Não sendo possível o suprimento das deficiências nos termos previstos no número anterior e tratando-se de deficiência que não envolva novo pedido de registo nem constitua motivo de recusa nos termos das alíneas c) a e) do n.º 1 do artigo 69.º, o serviço de registo comunica este facto ao interessado por escrito, por correio eletrónico ou sob registo postal, para que, no prazo de cinco dias, proceda a tal suprimento, sob pena de o registo ser lavrado como provisório ou recusado.
+
+3 - O registo não é lavrado provisoriamente ou recusado se as deficiências em causa respeitarem à omissão de documentos a emitir pelas entidades referidas no n.º 1 e a informação deles constante não puder ser obtida nos termos aí previstos, desde que o interessado tenha expressamente solicitado ao serviço de registo, pessoalmente ou por escrito, através de correio eletrónico ou sob registo postal, e no prazo referido no número anterior, que diligencie pela sua obtenção diretamente junto das entidades ou dos serviços da Administração Pública.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - Caso os documentos pedidos nos termos do n.º 3 não sejam recebidos pelo serviço de registo até ao termo do prazo legalmente estabelecido para a emissão do documento pedido com o prazo mais longo de emissão, acrescido de três dias, o registo é lavrado como provisório ou recusado.
+
+7 - A falta de apresentação de título que constitua motivo de recusa, nos termos da alínea b) do n.º 1 do artigo 69.º, pode ser suprida, com observância dos números anteriores, desde que o facto sujeito a registo seja anterior à data da apresentação, ou à hora desta se, sendo da mesma data, o título contiver a menção da hora em que foi assinado ou concluído.
+
+8 - No caso de o registo ser recusado porque o prédio não foi devidamente identificado no pedido, deve ser efetuada nova apresentação, imediatamente após a última apresentação pessoal do dia em que foi efetuado o despacho de recusa, transferindo-se automaticamente a totalidade dos emolumentos que foram pagos.
+
+9 - O suprimento de deficiências nos termos dos n.os 2, 3 e 7 depende da entrega das quantias devidas.
+
+10 - Das decisões tomadas no âmbito do suprimento de deficiências não cabe recurso hierárquico ou impugnação judicial.
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 21.º do/a Decreto-Lei n.º 263-A/2007 - Diário da República n.º 140/2007, Suplemento n.º 1, Série I de 2007-07-23, em vigor a partir de 2007-07-24
+
+### Artigo 74.º — (Desistências)
+
+1 - É permitida a desistência depois de feita a apresentação e antes de efectuado o registo.
+
+2 - Tratando-se de facto sujeito a registo obrigatório, apenas é possível a desistência quando exista deficiência que motive recusa ou for apresentado documento comprovativo da extinção do facto.
+
+3 - A desistência pode ser requerida verbalmente ou por escrito, devendo no primeiro caso ser assinado o comprovativo do pedido.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 30/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+## Título IV — Dos actos de registo
+
+## Capítulo I — Disposições gerais
+
+### Artigo 75.º — (Prazo e ordem dos registos)
+
+1 - Os registos são efectuados no prazo de 10 dias e pela ordem de anotação no diário, salvo nos casos de urgência.
+
+2 - Em relação a cada ficha, os registos são efectuados pela ordem temporal das apresentações no diário.
+
+3 - Nos casos de urgência o registo deve ser efectuado no prazo máximo de um dia útil, sem subordinação à ordem de anotação no diário, mas sem prejuízo da ordem a respeitar em cada ficha.
+
+4 - Se a anotação dos factos constantes do pedido não corresponder à ordem da respectiva dependência, deve esta ser seguida na feitura dos registos.
+
+5 - Sem prejuízo do disposto no n.º 2, fica excluída da subordinação à ordem de anotação no diário a feitura dos registos a que deva ser aplicado o mecanismo do suprimento de deficiências, nos termos do artigo 73.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 75.º-A — Competência
+
+1 - Para os actos de registo é competente o conservador, sem prejuízo do disposto no número seguinte.
+
+2 - Os oficiais dos registos têm competência para os seguintes actos de registo:
+
+a) Penhora de prédios;
+
+b) Aquisição e hipoteca de prédios descritos antes de titulado o negócio;
+
+c) Aquisição por compra e venda acompanhada da constituição de hipoteca, com intervenção de instituição de crédito ou sociedade financeira;
+
+d) Hipoteca voluntária com intervenção de instituição de crédito ou sociedade financeira;
+
+e) Locação financeira e transmissão do direito do locatário;
+
+f) Transmissão de créditos garantidos por hipoteca;
+
+g) Cancelamento de hipoteca por renúncia ou por consentimento;
+
+h) Averbamentos à descrição de factos que constem de documento oficial;
+
+i) Actualização da inscrição quanto à identificação dos sujeitos dos factos inscritos;
+
+j) Desanexação dos lotes individualizados em operação de transformação fundiária decorrente de loteamento inscrito e abertura das respectivas descrições;
+
+l) Abertura das descrições subordinadas da propriedade horizontal inscrita;
+
+m) Abertura das descrições das fracções temporais do direito de habitação periódica inscrito.
+
+3 - Os oficiais dos registos têm ainda a competência que lhes seja delegada pelo conservador.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 76.º — (Forma e redacção)
+
+1 - O registo compõe-se da descrição predial, da inscrição dos factos e respectivos averbamentos, bem como de anotações de certas circunstâncias, nos casos previstos na lei.
+
+2 - As descrições, as inscrições e os averbamentos são efectuados por extracto.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 77.º — (Data e assinatura)
+
+1 - A data dos registos é a da apresentação ou, se desta não dependerem, a data em que forem efectuados.
+
+2 - Os registos são assinados, com menção da respectiva qualidade, pelo conservador ou pelo seu substituto legal, quando em exercício, ou, ainda, pelo oficial de registo, quando competente.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 78.º — (Suprimento da falta de assinatura)
+
+1 - Os registos que não tiverem sido assinados devem ser conferidos pelos respectivos documentos para se verificar se podiam ou não ser efectuados.
+
+2 - Se os documentos apresentados para o registo não estiverem arquivados e a prova não poder ser obtida mediante acesso directo à informação constante das competentes bases de dados, são pedidas certidões gratuitas aos respectivos serviços.
+
+3 - Se a prova obtida nos termos do número anterior não for suficiente, deve solicitar-se ao interessado a junção dos documentos necessários no prazo de 30 dias.
+
+4 - Se se concluir que podia ser efectuado, o registo é assinado e é feita a anotação do suprimento da irregularidade com menção da data ou, caso contrário, é consignado, sob a mesma forma, que a falta é insuprível e notificado do facto o respectivo titular para efeitos de impugnação.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+## Capítulo II — Descrições, averbamentos e anotações
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Secção I — Descrições
+
+### Artigo 79.º — (Finalidade)
+
+1 - A descrição tem por fim a identificação física, económica e fiscal dos prédios.
+
+2 - De cada prédio é feita uma descrição distinta.
+
+3 - No seguimento da descrição do prédio são lançadas as inscrições ou as correspondentes cotas de referência.
+
+4 - Sempre que se cancelem ou caduquem as inscrições correspondentes, ou se transfiram os seus efeitos mediante novo registo, as inscrições ou as cotas de referência devem publicitar que a informação deixou de estar em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 80.º — (Abertura de descrições)
+
+1 - As descrições são feitas na dependência de uma inscrição ou de um averbamento.
+
+2 - O disposto no número anterior não impede a abertura da descrição, em caso de recusa, para os efeitos previstos no n.º 3 do artigo 69.º e, se a descrição resultar de desanexação de outro prédio, deve ser feita a anotação da desanexação na ficha deste último.
+
+3 - O registo das operações de transformação fundiária e das suas alterações dá lugar à descrição dos lotes ou parcelas que já se encontrem juridicamente individualizados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 81.º — (Descrições subordinadas)
+
+1 - No caso de constituição de propriedade horizontal ou do direito de habitação periódica, além da descrição genérica do prédio ou do conjunto imobiliário, é feita uma descrição distinta para cada fracção autónoma ou parcela habitacional.
+
+2 - As fracções temporais do direito de habitação periódica são descritas com subordinação à descrição da parcela habitacional.
+
+### Artigo 82.º — (Menções gerais das descrições)
+
+1 - O extracto da descrição deve conter:
+
+a) O número de ordem privativo dentro de cada freguesia, seguido dos algarismos correspondentes à data da apresentação de que depende;
+
+b) A natureza rústica, urbana ou mista do prédio;
+
+c) A denominação do prédio e a sua situação por referência ao lugar, rua, números de polícia ou confrontações;
+
+d) A composição sumária e a área do prédio;
+
+e) (Revogada);
+
+f) A situação matricial do prédio expressa pelo artigo de matriz, definitivo ou provisório, ou pela menção de estar omisso.
+
+2 - Na descrição genérica de prédio ou prédios em regime de propriedade horizontal é mencionada a série das letras correspondentes às fracções e na de empreendimento turístico classificado para fins turísticos esta circunstância, bem como as letras correspondentes às unidades de alojamento, quando existam.
+
+3 - Na descrição de prédio resultante de anexação ou desanexação de outros são mencionados os números das respectivas descrições.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 267/94 - Diário da República n.º 247/1994, Série I-A de 1994-10-25, em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 83.º — (Menções das descrições subordinadas)
+
+1 - A descrição de cada fracção autónoma deve conter:
+
+a) O número da descrição genérica do prédio, seguido da letra ou letras da fracção, segundo a ordem alfabética;
+
+b) As menções das alíneas c), d) e f) do n.º 1 do artigo anterior indispensáveis para identificar a fracção;
+
+c) A menção do fim a que se destina, se constar do título.
+
+2 - A descrição de cada unidade de alojamento ou apartamento deve conter:
+
+a) O número da descrição genérica do prédio ou do conjunto imobiliário, seguido da letra ou letras da parcela, segundo a ordem alfabética;
+
+b) As menções das alíneas c), d) e f) do n.º 1 do artigo anterior indispensáveis para identificar a unidade de alojamento ou o apartamento.
+
+3 - Às fracções temporais é atribuído o número do prédio e, havendo-a, a letra da parcela habitacional, mencionando-se o início e o termo do período de cada direito de habitação.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 84.º — (Bens do domínio público)
+
+Na descrição do objecto de concessões em bens do domínio público observar-se-á o seguinte:
+
+a) Quando a concessão se referir a parcelas delimitadas de terreno, serão as mesmas descritas, com as necessárias adaptações, nos termos do artigo 82.º;
+
+b) Quando respeitarem a vias de comunicação, é feita uma única descrição na conservatória competente, com os elementos de individualização constantes do respectivo título.
+
+### Artigo 85.º — (Prédios constituídos a partir de um ou de vários prédios ou parcelas)
+
+1 - É aberta nova descrição quando o registo incidir sobre prédio constituído:
+
+a) Por parcela de prédio descrito ou não descrito;
+
+b) Por 2 ou mais prédios já descritos;
+
+c) Por prédios descritos e outro ou outros não descritos;
+
+d) Por prédios descritos e parcelas de outro ou outros também descritos;
+
+e) Por parcelas de prédios descritos e outras de prédios não descritos;
+
+f) Por parcelas de um ou mais prédios já descritos.
+
+2 - As inscrições vigentes sobre a descrição de que foi desanexada a parcela ou sobre as descrições total ou parcialmente anexadas são reproduzidas na ficha da nova descrição.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 86.º — (Descrições duplicadas)
+
+1 - Quando se reconheça a duplicação de descrições, reproduzir-se-ão na ficha de uma delas os registos em vigor nas restantes fichas, cujas descrições se consideram inutilizadas.
+
+2 - Nas descrições inutilizadas e na subsistente far-se-ão as respectivas anotações com remissões recíprocas.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 87.º — (Inutilização de descrições)
+
+1 - As descrições não são susceptíveis de cancelamento.
+
+2 - Devem ser inutilizadas:
+
+a) As descrições de fracções autónomas ou de unidades de alojamento ou apartamentos, nos casos de demolição do prédio e de cancelamento ou caducidade da inscrição de constituição ou alteração da propriedade horizontal ou do direito de habitação periódica;
+
+b) As descrições referentes a concessões sobre bens do domínio público sobre as quais não existam registos em vigor;
+
+c) As descrições de prédios totalmente anexados;
+
+d) As descrições previstas na segunda parte do n.º 2 do artigo 80.º, quando não forem removidos os motivos da recusa.
+
+e) As descrições de prédios cuja área seja totalmente dividida em lotes de terreno destinados à construção.
+
+f) As descrições dos prédios de cada proprietário submetidos a emparcelamento.
+
+g) As descrições sem inscrições em vigor.
+
+3 - A inutilização de qualquer descrição é anotada com menção da sua causa.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+## Secção II — Averbamentos à descrição
+
+### Artigo 88.º — (Alteração da descrição)
+
+1 - Os elementos das descrições podem ser alterados, completados ou rectificados por averbamento.
+
+2 - As alterações resultantes de averbamentos não prejudicam os direitos de quem neles não teve intervenção, desde que definidos em inscrições anteriores.
+
+### Artigo 89.º — (Requisitos gerais)
+
+Os averbamentos à descrição devem conter os seguintes elementos:
+
+a) O número de ordem privativo;
+
+b) O número e a data da apresentação correspondente ou, se desta não dependerem, a data em que são feitos;
+
+c) A menção dos elementos da descrição alterados, completados ou rectificados.
+
+### Artigo 90.º — (Actualização oficiosa das descrições)
+
+1 - Os elementos das descrições devem ser oficiosamente actualizados quando a alteração possa ser comprovada por um dos seguintes meios:
+
+a) Acesso à base de dados da entidade competente;
+
+b) Documento emitido pela entidade competente; ou
+
+c) Documento efectuado com intervenção da pessoa com legitimidade para pedir a actualização.
+
+2 - Enquanto não se verificar a intervenção prevista na alínea c) do número anterior, a actualização é anotada à descrição, inutilizando-se a anotação se a intervenção não ocorrer dentro do prazo de vigência do registo que lhe deu origem.
+
+3 - Por decisão do presidente do Instituto dos Registos e do Notariado, I. P., quando se mostrem reunidas as condições técnicas e exista harmonização na informação constante das competentes bases de dados, os elementos da descrição podem ser actualizados automaticamente.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 76/1990, Suplemento n.º 1, Série I de 1990-03-31, em vigor a partir de 1990-03-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+## Secção III — Anotações especiais à descrição
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 90.º-A — Anotações especiais à descrição
+
+1 - Além de outros casos previstos na lei, é especialmente anotada à descrição:
+
+a) A existência de autorização de utilização;
+
+b) A existência de ficha técnica de habitação;
+
+c) A classificação como empreendimento turístico em propriedade plural, com indicação das descrições prediais que o integram.
+
+2 - A existência de autorização de utilização é anotada mediante a indicação do respectivo número e da data de emissão.
+
+3 - Se as condições técnicas o permitirem, o disposto nos números anteriores deve ser efectuado de forma totalmente automática, nos termos de portaria do membro do Governo responsável pela área da justiça.
+
+4 - A realização da anotação prevista na alínea b) do n.º 1 depende da existência das condições técnicas previstas no número anterior.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Capítulo III — Inscrição e seus averbamentos
+
+## Secção I — Inscrição
+
+### Artigo 91.º — (Finalidade da inscrição)
+
+1 - As inscrições visam definir a situação jurídica dos prédios, mediante extracto dos factos a eles referentes.
+
+2 - As inscrições só podem ser lavradas com referência a descrições genéricas ou subordinadas.
+
+3 - A inscrição de qualquer facto respeitante a várias descrições é lavrada na ficha de cada uma destas.
+
+### Artigo 92.º — (Provisoriedade por natureza)
+
+1 - São pedidas como provisórias por natureza as seguintes inscrições:
+
+a) Das acções e procedimentos referidos no artigo 3.º;
+
+b) De constituição da propriedade horizontal, antes de concluída a construção do prédio;
+
+c) De factos jurídicos respeitantes a fracções autónomas, antes do registo definitivo da constituição da propriedade horizontal;
+
+d) De ónus de casas de renda económica ou de renda limitada, antes da concessão da licença de habitação, e de quaisquer factos jurídicos a elas respeitantes, antes do registo definitivo do ónus;
+
+e) De negócio jurídico anulável por falta de consentimento de terceiro ou de autorização judicial, antes de sanada a anulabilidade ou de caducado o direito de a arguir;
+
+f) De negócio jurídico celebrado por gestor ou por procurador sem poderes suficientes, antes da ratificação;
+
+g) De aquisição, antes de titulado o contrato;
+
+h) De aquisição por venda em processo judicial, antes de passado o título de transmissão;
+
+i) De hipoteca voluntária, antes de lavrado o título constitutivo;
+
+j) De aquisição por partilha em inventário, antes de a respetiva decisão homologatória se tornar definitiva;
+
+l) De hipoteca judicial, antes de passada em julgado a sentença;
+
+m) Da hipoteca a que se refere o artigo 701.º do Código Civil, antes de passada em julgado a sentença que julgue procedente o pedido;
+
+n) Da declaração de insolvência antes do trânsito em julgado da sentença;
+
+o) (Revogada).
+
+p) De aquisição efetuada ao abrigo do disposto no Decreto-Lei n.º 280/2007, de 7 de agosto, alterado pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, e 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 36/2013, de 11 de março, antes de titulado o contrato.
+
+2 - Além das previstas no número anterior, são ainda provisórias por natureza:
+
+a) As inscrições de penhora, de declaração de insolvência e de arresto, se existir sobre os bens registo de aquisição ou reconhecimento do direito de propriedade ou de mera posse a favor de pessoa diversa do executado, do insolvente ou do requerido;
+
+b) As inscrições dependentes de qualquer registo provisório ou que com ele sejam incompatíveis;
+
+c) As inscrições que, em reclamação contra a reforma de suportes documentais, se alega terem sido omitidas;
+
+d) As inscrições efectuadas na pendência de recurso hierárquico ou impugnação judicial contra a recusa do registo ou enquanto não decorrer o prazo para a sua interposição.
+
+3 - As inscrições referidas nas alíneas b) a e) do n.º 1, bem como na alínea c) do n.º 2, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de cinco anos, renovável por períodos de igual duração, a pedido dos interessados, mediante a apresentação de documento que comprove a subsistência da razão da provisoriedade emitido com antecedência não superior a seis meses em relação ao termo daquele prazo.
+
+4 - A inscrição referida na alínea g) do n.º 1, quando baseada em contrato-promessa de alienação, é renovável por períodos de seis meses e até um ano após o termo do prazo fixado para a celebração do contrato prometido, com base em documento que comprove o consentimento das partes.
+
+5 - As inscrições referidas na alínea a) do n.º 2 mantêm-se em vigor pelo prazo de 1 ano, salvo o disposto no n.º 5 do artigo 119.º, e caducam se a acção declarativa não for proposta e registada dentro de 30 dias a contar da notificação da declaração prevista no n.º 4 do mesmo artigo.
+
+6 - As inscrições referidas na alínea b) do n.º 2 mantêm-se em vigor pelo prazo do registo de que dependem ou com o qual colidem, salvo se antes caducarem por outra razão.
+
+7 - Nos casos previstos no número anterior, a conversão do registo em definitivo determina a conversão oficiosa das inscrições dependentes e a caducidade das inscrições incompatíveis, salvo se outra for a consequência da requalificação do registo dependente ou incompatível.
+
+8 - Nos casos previstos no n.º 6, o cancelamento ou a caducidade do registo provisório determina a conversão oficiosa da inscrição incompatível, salvo se outra for a consequência da requalificação desta.
+
+9 - Sem prejuízo do disposto no artigo 149.º, as inscrições referidas na alínea d) do n.º 2 mantêm-se em vigor na pendência de recurso hierárquico ou de impugnação judicial ou enquanto estiver a decorrer o prazo para a sua interposição.
+
+10 - As inscrições referidas na alínea c) do n.º 1 são convertidas oficiosamente na dependência do registo definitivo da constituição da propriedade horizontal.
+
+11 - As inscrições referidas nas alíneas a) e j) a n) do n.º 1 não estão sujeitas a qualquer prazo de caducidade.
+
+12 - A inscrição referida na alínea p) do n.º 1, se não for também provisória com outro fundamento, mantém-se em vigor pelo prazo de seis anos, renovável por períodos de três anos, a pedido dos interessados, mediante apresentação de documento que comprove a subsistência da razão da provisoriedade emitido com antecedência não superior a 180 dias em relação ao termo daquele prazo.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 23/2013 - Diário da República n.º 45/2013, Série I de 2013-03-05, em vigor a partir de 2013-09-02
+
+> Alterado pelo/a Artigo 80.º do/a Lei n.º 29/2009 - Diário da República n.º 123/2009, Série I de 2009-06-29, em vigor a partir de 2010-07-18
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08, em vigor a partir de 2003-09-15
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+### Artigo 93.º — (Requisitos gerais)
+
+1 - Do extracto da inscrição deve constar:
+
+a) (Revogada);
+
+b) O número, a data e a hora da apresentação;
+
+c) Caso a inscrição seja provisória, a menção de que o é por natureza ou por dúvidas, com indicação, no primeiro caso, do número e alínea aplicáveis do artigo anterior e, sendo provisória nos termos das alíneas g) ou i) do n.º 1 do artigo 92.º, a data em que o registo foi confirmado;
+
+d) O facto que se inscreve;
+
+e) A identificação dos sujeitos activos do facto inscrito, pela menção do nome completo, número de identificação fiscal, estado e residência das pessoas singulares, ou da denominação ou firma, número de pessoa colectiva e sede das pessoas colectivas, bem como a menção do nome do cônjuge e do regime de bens do casamento, se os sujeitos forem casados, ou, sendo solteiros, a indicação de serem maiores ou menores;
+
+f) Respeitando o facto a diversos prédios, a menção dessa circunstância;
+
+g) Tratando-se de inscrição de ampliação, o número da inscrição ampliada.
+
+h) A nacionalidade dos sujeitos ativos, caso estes sejam estrangeiros, quando conste do título.
+
+2 - Os sujeitos passivos são indicados, em cada inscrição, somente pelo nome e número de identificação fiscal, no caso das pessoas singulares, ou pela denominação ou firma e número de pessoa colectiva, no caso das pessoas colectivas.
+
+3 - Quando os sujeitos da inscrição não puderem ser identificados pela forma prevista neste artigo, mencionar-se-ão as circunstâncias que permitam determinar a sua identidade.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 94.º — (Convenções e cláusulas acessórias)
+
+Do extracto das inscrições constarão obrigatoriamente as seguintes convenções ou cláusulas acessórias:
+
+a) As convenções de reserva de propriedade e de venda a retro estipuladas em contrato de alienação;
+
+b) As cláusulas fideicomissárias, de pessoa a nomear, de reserva de dispor de bens doados ou de reversão deles e, em geral, outras cláusulas suspensivas ou resolutivas que condicionem os efeitos de actos de disposição ou operação;
+
+c) As cláusulas que excluem da responsabilidade por dívidas o beneficiário de bens doados ou deixados;
+
+d) A convenção de indivisão da compropriedade, quando estipulada no título de constituição ou aquisição.
+
+### Artigo 95.º — (Requisitos especiais)
+
+1 - O extracto da inscrição deve ainda conter as seguintes menções especiais:
+
+a) Na de aquisição: a causa;
+
+b) Na de usufruto ou de uso e habitação e na de direito de superfície, o conteúdo dos direitos e as obrigações dos titulares, na parte regulada pelo título, a causa e a duração, quando determinada;
+
+c) Na de servidão: o encargo imposto, a duração, quando temporária, e a causa;
+
+d) Na de promessa de alienação ou de oneração de bens: o prazo da promessa, se estiver fixado;
+
+e) Na de pacto ou disposição testamentária de preferência: o contrato ou o testamento a que respeita, a duração da preferência e as demais condições especificadas no título respeitantes às prestações das partes;
+
+f) Na de operações de transformação fundiária, a identificação do título e a especificação das condições da operação;
+
+g) Na de decisão judicial, a parte dispositiva e, na de acção ou de procedimento, o pedido;
+
+h) Na de apanágio: as prestações mensais fixas ou, na falta destas, a forma por que os alimentos devem ser prestados;
+
+i) Na de eventual redução das doações: a indicação dos sujeitos da doação;
+
+j) Na de cessão de bens aos credores: as obrigações dos cessionários especificadas no título, a causa, o montante global dos créditos, bem como o prazo e o preço convencionados para a venda, se tiverem sido fixados;
+
+l) Na de penhora ou de arresto, a identificação do processo, a data do facto e a quantia exequenda ou por que se promove o arresto e ainda, caso a inscrição seja provisória nos termos da alínea a) do n.º 2 do artigo 92.º, o nome, estado e residência do titular da inscrição;
+
+m) Na de arrolamento, a data da diligência e, na de declaração de insolvência, a data e hora de prolação da sentença e a data do respectivo trânsito e ainda, caso a inscrição seja provisória nos termos da alínea a) do n.º 2 do artigo 92.º, o nome, estado e residência do titular da inscrição;
+
+n) Na de outros actos ou providências cautelares, o seu conteúdo e a data do negócio jurídico ou do respectivo despacho;
+
+o) Na da apreensão em processo penal, a identificação do processo e a data de aplicação da medida;
+
+p) Na de locação financeira: o prazo e a data do seu início;
+
+q) Na de consignação de rendimentos: o prazo de duração ou, se for por tempo indeterminado, a quantia para cujo pagamento se fez a consignação e a importância a descontar em cada ano, se tiver sido estipulada uma quantia fixa;
+
+r) Na de constituição de propriedade horizontal, o valor relativo de cada fracção, expresso em percentagem ou permilagem, a existência de regulamento, caso este conste do título constitutivo, e os direitos dos condóminos neste título especialmente regulados e, na de alteração do título constitutivo, a descrição da alteração;
+
+s) Na de constituição do direito de habitação periódica, o número de fracções temporais com indicação do início e termo de duração em cada ano, bem como o respectivo regime na parte especialmente regulada no título, e, na de alteração do título constitutivo, a descrição da alteração;
+
+t) Na de ónus de rendas económicas: as rendas base; e na de ónus de rendas limitadas: o mapa das rendas dos andares para habitação;
+
+u) Na de afectação ao caucionamento das reservas técnicas: a espécie de reservas e o valor representado pelo prédio; e na de afectação ao caucionamento da responsabilidade patronal: o fundamento e o valor da caução;
+
+v) Na de ónus de anuidade em obras de fomento agrícola: as anuidades asseguradas;
+
+x) Na de renúncia à indemnização por aumento de valor: a especificação das obras e o montante da indemnização ou, na sua falta, o da avaliação do prédio;
+
+z) Na de qualquer restrição ou encargo: o seu conteúdo;
+
+aa) Na de concessão: o conteúdo do direito, na parte especialmente regulada no título, e o prazo da concessão;
+
+ab) Na que tenha por base um contrato para pessoa a nomear: o prazo para a nomeação e, quando exista, a referência à estipulação que obste à produção dos efeitos do contrato.
+
+ac) Na do título constitutivo do empreendimento turístico, a indicação das descrições prediais dos lotes e das fracções autónomas que integram o empreendimento ou o resort, bem como a data da aprovação do título pelo Turismo de Portugal, I. P., e, na de alteração do título constitutivo, a descrição da alteração e a data da sua aprovação pela mesma entidade.
+
+2 - As inscrições referidas na alínea u) do número anterior são feitas a favor, respetivamente, da Autoridade de Supervisão de Seguros e Fundos de Pensões e do juiz do tribunal do trabalho competente e as referidas na alínea x) do mesmo número a favor da entidade expropriante.
+
+3 - Se as condições técnicas permitirem o arquivamento electrónico dos documentos junto das inscrições, devem ser efectuadas por remissão para o documento arquivado que serve de base ao registo as seguintes menções especiais:
+
+a) As condições da operação, nos registos a que se refere a alínea f) do n.º 1;
+
+b) Os direitos dos condóminos especialmente regulados no título, nos registos a que se refere a alínea r) do n.º 1;
+
+c) O regime do direito de habitação periódica, na parte especialmente regulada pelo título, nos registos a que se refere a alínea s) do n.º 1.
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08, em vigor a partir de 2003-09-15
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 267/94 - Diário da República n.º 247/1994, Série I-A de 1994-10-25, em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 30/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 96.º — (Requisitos especiais da inscrição de hipoteca)
+
+1 - O extracto da inscrição de hipoteca deve conter as seguintes menções especiais:
+
+a) O fundamento da hipoteca, o crédito e seus acessórios e o montante máximo assegurado;
+
+b) Tratando-se de hipoteca de fábrica, a referência ao inventário de onde constem os maquinismos e os móveis afectos à exploração industrial, quando abrangidos pela garantia.
+
+2 - Se os documentos apresentados para registo da hipoteca mostrarem que o capital vence juros, mas não indicarem a taxa convencionada, deve mencionar-se na inscrição a taxa legal.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 97.º — (Inscrição de factos constituídos simultaneamente com outros sujeitos a registo)
+
+1 - O registo da aquisição ou mera posse acompanhada da constituição de outro facto sujeito a registo ou da extinção de facto registado determina a realização oficiosa do registo desses factos.
+
+2 - Não se procede à inscrição da hipoteca legal por dívidas de tornas ou legados de importância legal inferior a (euro) 5000, actualizáveis nos termos do n.º 2 do artigo 12.º, ou, independentemente do valor, se já tiverem decorrido 10 anos sobre a data em que os respectivos créditos se tornaram exigíveis e os credores não forem incapazes.
+
+3 - Para efeitos do número anterior, presume-se a capacidade dos credores se o contrário não resultar dos documentos apresentados.
+
+4 - Os recibos de quitação assinados pelo credor com menção do número, data e entidade emitente do documento de identificação civil ou documento de identificação equivalente são formalmente suficientes para comprovar a extinção das dívidas de tornas ou de legados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 23.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 98.º — (Inscrição de propriedade limitada)
+
+1 - Será inscrita como aquisição em propriedade plena a que respeitar a prédio sobre o qual exista, ou se deva lavrar oficiosamente, inscrição de usufruto ou uso e habitação.
+
+2 - A inscrição de propriedade limitada pelos direitos referidos no número anterior, fora do condicionalismo aí previsto, conterá a menção das limitações a que a propriedade está sujeita.
+
+3 - Se a plena propriedade for inscrita com base na aquisição separada da propriedade e do direito de usufruto, ainda que por títulos diferentes, proceder-se-á oficiosamente ao cancelamento do registo daquele direito.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+### Artigo 99.º — (Unidade de inscrição)
+
+1 - É feita uma única inscrição nos seguintes casos:
+
+a) Quando os comproprietários ou compossuidores solicitarem no mesmo pedido o registo de aquisição ou posse das quotas-partes respectivas, ainda que por títulos diferentes;
+
+b) Quando o proprietário ou possuidor tenha adquirido o direito em quotas indivisas, ainda que por títulos diferentes.
+
+2 - Quando o título constitutivo do empreendimento turístico substitua o título constitutivo da propriedade horizontal, é feita uma única inscrição que abranja os dois factos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Secção II — Averbamentos à inscrição
+
+### Artigo 100.º — (Alteração das inscrições)
+
+1 - A inscrição pode ser completada, actualizada ou restringida por averbamento.
+
+2 - Salvo disposição em contrário, o facto que amplie o objecto ou os direitos e os ónus ou encargos, definidos na inscrição, apenas poderá ser registado mediante nova inscrição.
+
+3 - É averbada à inscrição da propriedade, feita nos termos do n.º 2 do artigo 98.º, a extinção do usufruto ou uso e habitação, sem prejuízo do cancelamento oficioso do respectivo registo, se existir.
+
+4 - Os averbamentos são lançados a cada uma das inscrições lavradas nos termos do n.º 3 do artigo 91.º
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 101.º — (Averbamentos especiais)
+
+1 - São registados por averbamento às respectivas inscrições os seguintes factos:
+
+a) A penhora, o arresto, o arrolamento, o penhor e demais actos ou providências sobre créditos garantidos por hipoteca ou consignação de rendimentos;
+
+b) A transmissão e o usufruto dos créditos referidos na alínea anterior;
+
+c) A cessão de hipoteca ou do grau de prioridade da sua inscrição;
+
+d) A convenção de indivisão da compropriedade, quando não deva ser inserida nas inscrições, nos termos da alínea d) do artigo 94.º;
+
+e) A transmissão, o usufruto e a penhora do direito de algum ou de alguns dos titulares da inscrição de bens integrados em herança indivisa, a declaração de insolvência que afecte este direito, bem como os procedimentos que tenham por fim o decretamento do arresto, do arrolamento ou de quaisquer outras providências que afectem a livre disposição desse direito;
+
+f) A cessão do direito potestativo resultante de contrato-promessa de alienação ou de oneração de imóveis ou de pacto de preferência, com eficácia real;
+
+g) A transmissão de imóveis por efeito de transferência de património de um ente colectivo para outro ou de trespasse de estabelecimento comercial;
+
+h) O trespasse do usufruto;
+
+i) A consignação judicial de rendimentos de imóveis objecto de inscrição de penhora;
+
+j) A transmissão dos arrendamentos inscritos e os subarrendamentos;
+
+l) A transmissão de concessões inscritas;
+
+m) A transmissão da locação financeira.
+
+n) As alterações às operações de transformação fundiária.
+
+2 - São registados nos mesmos termos:
+
+a) As providências decretadas nos procedimentos cautelares registados;
+
+b) A conversão do arresto em penhora ou da penhora em hipoteca;
+
+c) A decisão final das acções inscritas;
+
+d) A conversão em definitivos, no todo ou em parte, dos registos provisórios;
+
+e) A renovação dos registos;
+
+f) A nomeação de terceiro, ou a sua não nomeação, em contrato para pessoa a nomear;
+
+g) O cancelamento total ou parcial dos registos.
+
+3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1 e provisoriamente por natureza os averbamentos de factos constantes do mesmo número que tenham de revestir esse carácter quando registados por inscrição.
+
+4 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
+
+5 - A inscrição de aquisição, em processo de execução ou de insolvência, de bens penhorados ou apreendidos determina o averbamento oficioso de cancelamento dos registos dos direitos reais que caducam nos termos do n.º 2 do artigo 824.º do Código Civil.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 30/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 102.º — (Requisitos gerais)
+
+1 - O averbamento deve conter os seguintes elementos:
+
+a) O número, a data e a hora da apresentação ou, se desta não depender, a data em que é feito;
+
+b) A data da inscrição a que respeita;
+
+c) A menção do facto averbado e das cláusulas suspensivas ou resolutivas que condicionem os efeitos de actos de disposição ou de oneração;
+
+d) Os sujeitos do facto averbado.
+
+2 - É aplicável à menção e identificação dos sujeitos, com as necessárias adaptações, o disposto no artigo 93.º
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 103.º — (Requisitos especiais)
+
+1 - Os averbamentos referidos no n.º 1 do artigo 101.º devem satisfazer na parte aplicável, os requisitos fixados no n.º 1 do artigo 95.º
+
+2 - O averbamento de conversão de registo provisório em definitivo deve conter apenas essa menção, salvo se envolver alteração da inscrição.
+
+3 - O averbamento de cancelamento deve conter apenas essa menção, mas, sendo parcial, especificará o respectivo conteúdo.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 227/1984, Série I de 1984-09-29, em vigor a partir de 1984-09-29
+
+## Título V — Da publicidade e da prova do registo
+
+## Capítulo I — Publicidade
+
+### Artigo 104.º — (Carácter público do registo)
+
+Qualquer pessoa pode pedir certidões dos actos de registo e dos documentos arquivados, bem como obter informações verbais ou escritas sobre o conteúdo de uns e de outros.
+
+### Artigo 105.º — (Pesquisas)
+
+1 - Para efeitos do disposto no artigo anterior apenas os funcionários da repartição poderão consultar os livros, fichas e documentos, de harmonia com as indicações dadas pelos interessados.
+
+2 - Podem ser passadas cópias integrais ou parciais não certificadas, com o valor de informação, dos registos e despachos e de quaisquer documentos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Capítulo II — Protecção de dados pessoais
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+## Secção I — Bases de dados
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 106.º — (Finalidade das bases de dados)
+
+As bases de dados do registo predial têm por finalidade organizar e manter actualizada a informação respeitante à situação jurídica dos prédios, com vista à segurança do comércio jurídico, nos termos e para os efeitos previstos na lei, não podendo ser utilizada para qualquer outra finalidade com aquela incompatível.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 107.º — (Entidade responsável pelo tratamento das bases de dados)
+
+1 - O presidente do Instituto dos Registos e do Notariado, I. P., é o responsável pelo tratamento das bases de dados, nos termos e para os efeitos definidos na Lei de Protecção de Dados Pessoais, sem prejuízo da responsabilidade que, nos termos da lei, é atribuída aos conservadores.
+
+2 - Cabe ao presidente do Instituto dos Registos e do Notariado, I. P., assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como velar pela legalidade da consulta ou comunicação da informação.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 108.º — (Dados recolhidos)
+
+1 - São recolhidos para tratamento automatizado os seguintes dados pessoais respeitantes aos sujeitos do registo:
+
+a) Nome;
+
+b) Estado civil e, sendo o de solteiro, menção de maioridade ou menoridade;
+
+c) Nome do cônjuge e regime de bens;
+
+d) Residência habitual ou domicílio profissional;
+
+e) Número de identificação fiscal.
+
+2 - Relativamente aos apresentantes dos pedidos de registo, são recolhidos os dados referidos nas alíneas a), d) e e) do número anterior e ainda os seguintes:
+
+a) Número do documento de identificação ou da cédula profissional;
+
+b) Número de identificação bancária, se disponibilizado pelo apresentante.
+
+3 - São ainda recolhidos quaisquer outros dados referentes à situação jurídica dos prédios, bem como o preço de cada transação.
+
+4 - Os dados relativos ao preço de transação dos imóveis são disponibilizados no Portal da Justiça, de forma anonimizada e agregada por freguesia, município e distrito, com atualização mínima mensal.
+
+> Alterado pelo/a Artigo 319.º do/a Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31, em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 109.º — (Modo de recolha)
+
+1 - Os dados pessoais constantes das bases de dados são recolhidos do pedido de registo e dos documentos apresentados.
+
+2 - Dos modelos destinados ao pedido de registo devem constar as informações previstas na Lei de Protecção de Dados Pessoais.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+## Secção II — Comunicação e acesso aos dados
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-10-01
+
+### Artigo 109.º-A — Comunicação de dados
+
+1 - Os dados referentes à situação jurídica de qualquer prédio constantes das bases de dados podem ser comunicados a qualquer pessoa que o solicite, nos termos previstos neste Código.
+
+2 - Os dados pessoais referidos no n.º 1 do artigo 108.º podem ainda ser comunicados aos organismos e serviços do Estado e demais pessoas colectivas de direito público para prossecução das respectivas atribuições legais e estatutárias.
+
+3 - Às entidades referidas no número anterior pode ser autorizada a consulta através de linha de transmissão de dados, garantido o respeito pelas normas de segurança da informação e da disponibilidade técnica.
+
+4 - A consulta referida no número anterior depende da celebração de protocolo com o Instituto dos Registos e do Notariado, I. P., que defina os seus limites, face às atribuições legais e estatutárias das entidades interessadas.
+
+5 - A informação pode ser divulgada para fins de investigação científica ou de estatística, desde que não possam ser identificáveis as pessoas a que respeita.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 109.º-B — Condições da comunicação de dados
+
+1 - A comunicação de dados deve obedecer às disposições gerais de protecção de dados pessoais constantes da Lei n.º 67/98, de 26 de Outubro, designadamente respeitar as finalidades para as quais foi autorizada a consulta, limitando o acesso ao estritamente necessário e não utilizando a informação para outros fins.
+
+2 - O Instituto dos Registos e do Notariado, I. P., comunica ao organismo processador dos dados os protocolos celebrados a fim de que este providencie para que a consulta por linha de transmissão possa ser efectuada, nos termos e condições deles constantes.
+
+3 - O Instituto dos Registos e do Notariado, I. P., remete obrigatoriamente à Comissão Nacional de Protecção de Dados cópia dos protocolos celebrados.
+
+4 - A comunicação de dados está sujeita ao pagamento dos encargos que foram devidos, nos termos de tabela a aprovar por despacho do Ministro da Justiça.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 109.º-C — Acesso directo aos dados
+
+1 - Podem aceder directamente aos dados referidos nos n.os 1 e 2 do artigo 109.º-A:
+
+a) Os magistrados judiciais e do Ministério Público, no âmbito da prossecução das suas atribuições;
+
+b) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;
+
+c) As entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins.
+
+2 - As condições de acesso directo pelas entidades referidas no número anterior são definidas por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+
+3 - As entidades autorizadas a aceder directamente aos dados obrigam-se a adoptar todas as medidas necessárias à estrita observância das regras de segurança estabelecidas na Lei n.º 67/98, de 26 de Outubro.
+
+4 - As entidades referidas na alínea a) do n.º 1 podem fazer-se substituir por funcionários por si designados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 109.º-D — Direito à informação
+
+1 - Qualquer pessoa tem o direito de ser informada sobre os dados pessoais que lhe respeitem e a respectiva finalidade, bem como sobre a identidade e o endereço do responsável pela base de dados.
+
+2 - A actualização e a correcção de eventuais inexactidões realiza-se nos termos e pela forma previstos neste Código, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 11.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 109.º-E — Segurança da informação
+
+1 - O presidente do Instituto dos Registos e do Notariado, I. P., e as entidades referidas no n.º 2 do artigo 109.º-A devem adoptar as medidas de segurança referidas no n.º 1 do artigo 15.º da Lei n.º 67/98, de 26 de Outubro.
+
+2 - Às bases de dados devem ser conferidas as garantias de segurança necessárias a impedir a consulta, a modificação, a supressão, o acrescentamento ou a comunicação de dados, por quem não esteja legalmente habilitado.
+
+3 - Para efeitos de controlo de admissibilidade da consulta, uma em cada dez pesquisas efectuadas pelas entidades que tenham acesso à base de dados é registada informaticamente.
+
+4 - As entidades referidas no n.º 1 obrigam-se a manter uma lista actualizada das pessoas autorizadas a aceder às bases de dados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 109.º-F — Sigilo
+
+1 - A comunicação ou a revelação dos dados pessoais registados nas bases de dados só podem ser efectuadas nos termos previstos neste Código.
+
+2 - Os funcionários dos registos e do notariado, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados nas bases de dados do registo predial, ficam obrigados a sigilo profissional, nos termos do n.º 1 do artigo 17.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+## Capítulo III — Meios de prova
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 110.º — (Certidões)
+
+1 - O registo prova-se por meio de certidões.
+
+2 - As certidões são válidas por um período de seis meses, podendo ser revalidadas por períodos de igual duração se a sua informação se mantiver atual.
+
+3 - As certidões podem ser disponibilizadas em suporte electrónico, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+4 - As certidões disponibilizadas nos termos do número anterior fazem prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada, nos mesmos termos da correspondente versão em suporte de papel.
+
+5 - Faz igualmente prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada a disponibilização da informação constante da certidão em sítio da Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+6 - Por cada processo de registo é disponibilizado gratuitamente, pelo período de três meses, o serviço referido no número anterior, salvo se o requerente optar pela disponibilização gratuita de uma cópia não certificada dos registos efetuados.
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 110.º-A — Competência para a emissão
+
+1 - As certidões e as cópias não certificadas de registos podem ser emitidas e confirmadas por qualquer serviço de registo.
+
+2 - As certidões negativas de registos têm de ser confirmadas pelo serviço de registo da área da situação do prédio.
+
+3 - Enquanto as condições técnicas não permitirem a sua emissão por qualquer serviço de registo, as certidões de documentos ou despachos são enviadas pelo serviço de registo da área da situação do prédio.
+
+4 - Para a emissão dos documentos referidos nos números anteriores é competente o conservador e qualquer oficial dos registos.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 111.º — (Pedido de certidão)
+
+1 - As certidões podem ser pedidas verbalmente ou por escrito.
+
+2 - Os modelos dos pedidos de certidões requisitadas por escrito são aprovados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+
+3 - O pedido de certidão pode ser efectuado por qualquer uma das modalidades previstas no artigo 41.º-B.
+
+4 - Os pedidos de certidão devem conter, além da identificação do requerente, o número da descrição, a freguesia e o concelho dos prédios ou fracções autónomas a que respeitem.
+
+5 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dos dois imediatamente anteriores, salvo, quanto a estes, se o requerente alegar no pedido as razões justificativas do seu desconhecimento.
+
+6 - Se o pedido respeitar a quota-parte de prédio não descrito e indiviso, deve conter o nome, estado e, sendo casado, o nome do cônjuge de todos os comproprietários.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 227/1984, Série I de 1984-09-29, em vigor a partir de 1984-09-29
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 112.º — (Conteúdo da certidão)
+
+1 - As certidões de registo devem conter:
+
+a) A reprodução das descrições e dos actos de registo em vigor respeitantes aos prédios em causa, salvo se tiverem sido pedidas com referência a todos os actos de registo;
+
+b) A menção das apresentações pendentes sobre o prédio em causa;
+
+c) As irregularidades ou deficiências de registo não rectificadas;
+
+d) Os documentos arquivados para os quais os registos remetam.
+
+2 - Se as condições técnicas o permitirem, podem ser emitidas certidões com referência a determinados actos de registo ou partes de documentos.
+
+3 - Se for encontrado um prédio descrito que apenas ofereça semelhança com o identificado no pedido, é passada certidão daquele, com menção desta circunstância, devendo, neste caso, os interessados declarar, nos instrumentos ou termos processuais a que a certidão se destine, se existe relação entre ambos os prédios.
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 113.º — (Emissão ou recusa de certidões)
+
+1 - As certidões são emitidas imediatamente após a recepção do pedido, quando deste não conste um termo inicial diferente.
+
+2 - As certidões negativas de registos são emitidas no prazo máximo de um dia útil.
+
+3 - Sem prejuízo de outros fundamentos de recusa de emissão de certidão previstos na lei, a emissão da certidão deve ser recusada nos casos seguintes:
+
+a) Se o pedido não contiver os elementos previstos nos n.os 4 a 6 do artigo 111.º;
+
+b) Se o prédio não estiver sujeito a registo.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+### Artigo 114.º — (Certidões para instrução de processos)
+
+1 - As certidões para prova da omissão dos prédios no registo destinadas a instruir inventário em que a herança seja deferida a incapaz, ausente em parte incerta ou pessoa colectiva são requisitadas com a indicação do fim a que se destinam e a respectiva conta entra em regra de custas, havendo-as.
+
+2 - As certidões a que se refere o número anterior podem ser substituídas por notas apostas na relação de bens, se estas contiverem os elementos previstos nos n.os 4 e 5 do artigo 111.º
+
+3 - O regime de custas previsto no n.º 1 é aplicável às certidões requisitadas pelo Ministério Público ou por outras entidades que gozem de isenção emolumentar.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 227/94 - Diário da República n.º 208/1994, Série I-A de 1994-09-08, em vigor a partir de 1995-03-07
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 115.º — (Fotocópia dos registos lavrados)
+
+Por cada pedido de registo é gratuitamente enviada ou entregue aos interessados uma fotocópia não certificada dos actos lavrados.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+## Título VI — Do suprimento, da rectificação e da reconstituição do registo
+
+## Capítulo I — Meios de suprimento
+
+### Artigo 116.º — (Justificação relativa ao trato sucessivo)
+
+1 - O adquirente que não disponha de documento para a prova do seu direito pode obter a primeira inscrição mediante escritura de justificação notarial ou decisão proferida no âmbito do processo de justificação previsto neste capítulo.
+
+2 - Caso exista inscrição de aquisição, reconhecimento ou mera posse, a falta de intervenção do respectivo titular, exigida pela regra do n.º 2 do artigo 34.º, pode ser suprida mediante escritura de justificação notarial ou decisão proferida no âmbito do processo de justificação previsto neste capítulo.
+
+3 - Na hipótese prevista no número anterior, a usucapião implica novo trato sucessivo a partir do titular do direito assim justificado.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 117.º — (Regularidade fiscal)
+
+1 - No caso de justificação para primeira inscrição, presume-se a observância das obrigações fiscais por parte do justificante, se o direito estiver inscrito em seu nome na matriz.
+
+2 - Tratando-se do reatamento do trato sucessivo, a impossibilidade de comprovar os impostos referentes às transmissões justificadas, quando certificada pela repartição de finanças, dispensa a apreciação da regularidade fiscal das mesmas transmissões.
+
+### Artigo 117.º-A — Restrições à admissibilidade da justificação
+
+1 - A justificação de direitos que, nos termos da lei fiscal, devam constar da matriz só é admissível em relação aos direitos nela inscritos ou relativamente aos quais esteja pedida, à data da instauração do processo, a sua inscrição na matriz.
+
+2 - Além do pretenso titular do direito, tem legitimidade para pedir a justificação quem demonstre ter legítimo interesse no registo do respectivo facto aquisitivo, incluindo, designadamente, os credores do titular do direito justificando.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-B — Pedido
+
+1 - O processo inicia-se com a apresentação do pedido em qualquer serviço de registo com competência para a prática de actos de registo predial.
+
+2 - No pedido o interessado solicita o reconhecimento do direito em causa, oferece e apresenta os meios de prova e indica, consoante os casos:
+
+a) A causa da aquisição e as razões que impossibilitam a sua comprovação pelos meios normais, quando se trate de estabelecer o trato sucessivo relativamente a prédios não descritos ou a prédios descritos sobre os quais não incida inscrição de aquisição, de reconhecimento ou de mera posse;
+
+b) As sucessivas transmissões operadas a partir do titular inscrito, com especificação das suas causas e identificação dos respectivos sujeitos, bem como das razões que impedem a comprovação pelos meios normais das transmissões relativamente às quais declare não lhe ser possível obter o título;
+
+c) As circunstâncias em que baseia a aquisição originária, bem como as transmissões que a tenham antecedido e as subsequentes, se estiver em causa o estabelecimento de novo trato sucessivo nos termos do n.º 3 do artigo 116.º
+
+3 - Sendo invocada a usucapião como causa da aquisição, são expressamente alegadas as circunstâncias de facto que determinam o início da posse, quando não titulada, bem como, em qualquer caso, as que consubstanciam e caracterizam a posse geradora da usucapião.
+
+4 - O prédio objecto do direito justificando deve ser identificado no pedido nos termos exigidos na alínea b) do n.º 1 do artigo 44.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-C — Meios de prova
+
+1 - Com o pedido devem ser apresentados os seguintes meios de prova:
+
+a) Testemunhas, em número de três;
+
+b) Documentos comprovativos das transmissões anteriores e subsequentes ao facto justificado a respeito das quais se não alegue a impossibilidade de os obter;
+
+c) Outros documentos que se considerem necessários para a verificação dos pressupostos da procedência do pedido.
+
+2 - Às testemunhas, referidas na alínea a) do número anterior, aplica-se o disposto quanto aos declarantes no processo de justificação notarial.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-D — Apresentação
+
+1 - O processo de justificação considera-se instaurado no momento da apresentação do pedido, dos documentos e dos emolumentos devidos pelo processo, no serviço de registo, a qual é anotada no diário.
+
+2 - Constitui causa de rejeição do pedido a falta de pagamento de preparo.
+
+3 - (Revogado).
+
+4 - Sem prejuízo do disposto no n.º 9 do artigo 151.º, a verificação da causa de rejeição a que se refere o número anterior após a apresentação do pedido no diário dá lugar à recusa de apreciação do pedido, aplicando-se, com as devidas adaptações, o disposto no n.º 3 do artigo 66.º.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-E — Averbamento de pendência da justificação
+
+1 - Efectuada a apresentação, é oficiosamente averbada a pendência da justificação, reportando-se à data daquela os efeitos dos registos que venham a ser efectuados na sequência da justificação.
+
+2 - Para efeitos do disposto no número anterior, abre-se a descrição do prédio ainda não descrito e, se a descrição resultar de desanexação de outro prédio, faz-se a anotação da desanexação na ficha deste último.
+
+3 - A descrição aberta nos termos do número anterior é inutilizada no caso de o averbamento de pendência ser cancelado, a menos que devam subsistir em vigor outros registos entretanto efectuados sobre o prédio.
+
+4 - Os registos de outros factos efectuados posteriormente e que dependam, directa ou indirectamente, da decisão do processo de justificação pendente estão sujeitos ao regime de provisoriedade previsto na alínea b) do n.º 2 do artigo 92.º, sendo-lhes aplicável, com as necessárias adaptações, o disposto nos n.os 6 a 8 desse mesmo artigo.
+
+5 - O averbamento de pendência é oficiosamente cancelado mediante a decisão que indefira o pedido de justificação ou declare findo o processo, logo que tal decisão se torne definitiva.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-F — Indeferimento liminar e aperfeiçoamento do pedido
+
+1 - Sempre que o pedido seja manifestamente improcedente pode ser liminarmente indeferido, por despacho fundamentado, sendo notificado o interessado.
+
+2 - O justificante é convidado para, no prazo de 10 dias, juntar ao processo os documentos em falta ou prestar declaração complementar sobre os elementos de identificação omitidos, sob pena de indeferimento liminar da pretensão, nos seguintes casos:
+
+a) Se ao pedido não tiverem sido juntos os documentos comprovativos dos factos alegados, que só documentalmente possam ser provados e cuja verificação constitua pressuposto da procedência do pedido; ou
+
+b) Se do pedido e dos documentos juntos não constarem os elementos de identificação do prédio exigidos para a sua descrição, nos termos da alínea b) do n.º 1 do artigo 44.º
+
+3 - O disposto no número anterior não se verifica se o serviço de registo puder obter os documentos ou suprir a ausência dos elementos em falta por acesso às bases de dados das entidades competentes ou qualquer outro meio idóneo, designadamente por comunicação com o justificante.
+
+4 - O justificante pode impugnar a decisão de indeferimento liminar, nos termos previstos no artigo 117.º-I, com as necessárias adaptações.
+
+5 - Em face dos fundamentos alegados na impugnação, pode ser reparada a decisão de indeferir liminarmente o pedido, mediante despacho fundamentado que ordene o prosseguimento do processo, do qual é notificado o impugnante.
+
+6 - Não sendo a decisão reparada, são efectuadas simultaneamente a notificação nos termos do artigo seguinte e a notificação da impugnação deduzida.
+
+7 - Sendo apresentada oposição ao pedido de justificação, o processo é declarado findo nos termos do n.º 2 do artigo 117.º-H.
+
+8 - Se não for deduzida oposição, o processo é remetido ao tribunal para que seja decidida a impugnação.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração de Rectificação n.º 20-AS/2001 - Diário da República n.º 278/2001, Suplemento n.º 3, Série I-A de 2001-11-30, em vigor a partir de 2002-01-01
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-G — Notificação dos interessados
+
+1 - (Revogado).
+
+2 - Caso a justificação se destine ao reatamento ou ao estabelecimento de novo trato sucessivo, é notificado o titular da última inscrição, quando se verifique falta de título em que ele tenha intervindo, procedendo-se à sua notificação edital ou à dos seus herdeiros, independentemente de habilitação, quando, respectivamente, aquele titular esteja ausente em parte incerta ou tenha falecido.
+
+3 - As notificações são feitas nos termos gerais da lei processual civil.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - As notificações editais são feitas pela simples afixação de editais, pelo prazo de 30 dias, no serviço de registo da situação do prédio, na sede da junta de freguesia da situação do prédio e, quando se justifique, na sede da junta de freguesia da última residência conhecida do ausente ou do falecido.
+
+7 - As notificações editais referidas no número anterior são igualmente publicadas em sítio na Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração de Rectificação n.º 20-AS/2001 - Diário da República n.º 278/2001, Suplemento n.º 3, Série I-A de 2001-11-30, em vigor a partir de 2002-01-01
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-H — Instrução, decisão e publicação
+
+1 - Os interessados podem deduzir oposição nos 10 dias subsequentes ao termo do prazo da notificação.
+
+2 - Se houver oposição, o processo é declarado findo, sendo os interessados remetidos para os meios judiciais.
+
+3 - Não sendo deduzida oposição, procede-se à inquirição das testemunhas, apresentadas pela parte que as tenha indicado, sendo os respectivos depoimentos reduzidos a escrito por extracto.
+
+4 - A decisão é proferida no prazo de 10 dias após a conclusão da instrução e, sendo caso disso, especifica as sucessivas transmissões operadas, com referência às suas causas e à identidade dos respectivos sujeitos.
+
+5 - Os interessados são notificados da decisão no prazo de cinco dias.
+
+6 - Tornando-se a decisão definitiva, são efectuados oficiosamente os consequentes registos.
+
+7 - A decisão do processo de justificação é publicada, oficiosa e imediatamente, num sítio na Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Rectificado pelo/a Declaração de Rectificação n.º 47/2008 - Diário da República n.º 163/2008, Série I de 2008-08-25, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-I — Impugnação judicial
+
+1 - O Ministério Público e qualquer interessado podem recorrer da decisão do conservador para o tribunal de 1.ª instância competente na área da circunscrição a que pertence a conservatória onde pende o processo.
+
+2 - O prazo para a impugnação, que tem efeito suspensivo, é o do artigo 685.º do Código de Processo Civil.
+
+3 - A impugnação efectua-se por meio de requerimento onde são expostos os respectivos fundamentos.
+
+4 - A interposição da impugnação considera-se feita com a apresentação da mesma no serviço de registo em que o processo se encontra pendente, a qual é anotada no diário, sendo o processo remetido à entidade competente no mesmo dia em que for recebido.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-J — Decisão do recurso
+
+1 - Recebido o processo, são notificados os interessados para, no prazo de 10 dias, impugnarem os fundamentos do recurso.
+
+2 - Não havendo lugar a qualquer notificação ou findo o prazo a que se refere o número anterior, vai o processo com vista ao Ministério Público.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-L — Recurso para o tribunal da Relação
+
+1 - Da sentença proferida no tribunal de 1.ª instância podem interpor recurso para o tribunal da Relação os interessados e o Ministério Público.
+
+2 - O recurso, que tem efeito suspensivo, deve ser interposto no prazo de 30 dias.
+
+3 - Para além dos casos em que é sempre admissível recurso, do acórdão da Relação cabe, ainda, recurso para o Supremo Tribunal de Justiça nos casos seguintes:
+
+a) Quando esteja em causa uma questão cuja apreciação, pela sua relevância jurídica, seja claramente necessária para uma melhor aplicação do direito;
+
+b) Quando estejam em causa interesses de particular relevância social;
+
+c) Quando o acórdão da Relação esteja em contradição com outro, já transitado em julgado, proferido por qualquer Relação ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, salvo se tiver sido proferido acórdão de uniformização de jurisprudência com ele conforme.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-M — Devolução do processo
+
+Após o trânsito em julgado da sentença ou do acórdão proferidos, o tribunal devolve à conservatória o processo de justificação.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-N — Nova justificação
+
+Não procedendo a justificação por falta de provas, pode o justificante deduzir nova justificação.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-O — Incompatibilidades
+
+Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos processos previstos no presente capítulo.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 117.º-P — Direito subsidiário
+
+O Código de Processo Civil é aplicável, subsidiariamente e com as necessárias adaptações, ao processo de justificação previsto neste capítulo.
+
+> Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 118.º — (Outros casos de justificação)
+
+1 - As disposições relativas à justificação para primeira inscrição são aplicáveis, com as devidas adaptações, ao cancelamento pedido pelo titular inscrito do registo de quaisquer ónus ou encargos, quando não seja possível obter documento comprovativo da respectiva extinção.
+
+2 - Ao registo da mera posse são aplicáveis as disposições relativas ao processo de justificação para primeira inscrição.
+
+3 - São regulados pela legislação respectiva o processo de justificação para inscrição de direitos sobre os prédios abrangidos por emparcelamento e o processo de justificação administrativa para inscrição de direitos sobre imóveis a favor do Estado.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 119.º — (Suprimento em caso de arresto, penhora ou declaração de insolvência)
+
+1 - Havendo registo provisório de arresto, penhora ou de declaração de insolvência sobre os bens inscritos a favor de pessoa diversa do requerido, executado ou insolvente, deve efectuar-se no respectivo processo a citação do titular inscrito para declarar, no prazo de 10 dias, se o prédio ou direito lhe pertence.
+
+2 - No caso de ausência ou falecimento do titular da inscrição deve fazer-se a citação deste ou dos seus herdeiros, independentemente de habilitação, afixando-se editais pelo prazo de 30 dias na sede da junta de freguesia da área da situação dos prédios.
+
+3 - Se o citado declarar que os bens lhe não pertencem ou não fizer nenhuma declaração, o tribunal ou o agente de execução comunica o facto ao serviço de registo para conversão oficiosa do registo.
+
+4 - Se o citado declarar que os bens lhe pertencem, o juiz remete os interessados para os meios processuais comuns, e aquele facto é igualmente comunicado, bem como a data da notificação da declaração para ser anotada no registo.
+
+5 - O registo da acção declarativa na vigência do registo provisório é anotado neste e prorroga o respectivo prazo até que seja cancelado o registo da acção.
+
+6 - No caso de procedência da acção, deve o interessado pedir a conversão do registo no prazo de 10 dias a contar do trânsito em julgado.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+## Capítulo II — Da rectificação do registo
+
+### Artigo 120.º — (Processo de rectificação)
+
+O processo previsto neste capítulo visa a rectificação dos registos e é regulado pelos artigos seguintes e, subsidiariamente e com as necessárias adaptações, pelo Código de Processo Civil.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 121.º — (Iniciativa)
+
+1 - Os registos inexactos e os registos indevidamente lavrados devem ser rectificados por iniciativa do conservador logo que tome conhecimento da irregularidade, ou a pedido de qualquer interessado, ainda que não inscrito.
+
+2 - Os registos indevidamente efectuados que sejam nulos nos termos das alíneas b) e d) do artigo 16.º podem ser cancelados com o consentimento dos interessados ou em execução de decisão tomada neste processo.
+
+3 - A rectificação do registo é feita, em regra, por averbamento a lavrar no termo do processo especial para esse efeito previsto neste Código.
+
+4 - Os registos nulos por violação do princípio do trato sucessivo são rectificados pela feitura do registo em falta quando não esteja registada a acção de declaração de nulidade.
+
+5 - Os registos lançados em ficha distinta daquela em que deviam ter sido lavrados são oficiosamente transcritos na ficha que lhes corresponda, anotando-se ao registo errado a sua inutilização e a indicação da ficha em que foi transcrito.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 122.º — (Efeitos da rectificação)
+
+A rectificação do registo não prejudica os direitos adquiridos a título oneroso por terceiros de boa-fé, se o registo dos factos correspondentes for anterior ao registo da rectificação ou da pendência do respectivo processo.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 123.º — (Pedido de rectificação)
+
+1 - No pedido de rectificação devem ser especificados os fundamentos e a identidade dos interessados.
+
+2 - O pedido de rectificação é acompanhado dos meios de prova necessários e do pagamento dos emolumentos devidos.
+
+3 - Constitui causa de rejeição do pedido a falta de pagamento de preparo.
+
+4 - Sem prejuízo do disposto no n.º 9 do artigo 151.º, a verificação da causa de rejeição a que se refere o número anterior após a apresentação do pedido no diário, dá lugar à recusa de apreciação do pedido, aplicando-se, com as devidas adaptações, o disposto no n.º 3 do artigo 66.º.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 124.º — (Consentimento dos interessados)
+
+Se a rectificação tiver sido requerida por todos os interessados, é rectificado o registo, sem necessidade de outra qualquer formalidade, quando se considere, em face dos documentos apresentados, estarem verificados os pressupostos da rectificação pedida.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 125.º — (Casos de dispensa de consentimento dos interessados)
+
+1 - A rectificação que não seja susceptível de prejudicar direitos dos titulares inscritos é efectuada, mesmo sem necessidade do seu consentimento, nos casos seguintes:
+
+a) Sempre que a inexactidão provenha da desconformidade com o título, analisados os documentos que serviram de base ao registo;
+
+b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectificação seja requerida por qualquer interessado com base em documento bastante.
+
+2 - Deve entender-se que a rectificação de registo inexacto por desconformidade com o título não prejudica o titular do direito nele inscrito.
+
+3 - Presume-se que da rectificação não resulta prejuízo para a herança, se tal for declarado pelo respectivo cabeça-de-casal.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 126.º — (Averbamento de pendência da rectificação)
+
+1 - Quando a rectificação não deva ser efectuada nos termos dos artigos 124.º ou 125.º, é averbada ao respectivo registo a pendência da rectificação, com referência à anotação no diário do pedido ou do auto de verificação da inexactidão, consoante os casos.
+
+2 - O averbamento a que se refere o número anterior não prejudica o decurso do prazo de caducidade a que o registo rectificando esteja sujeito.
+
+3 - Os registos de outros factos que venham a ser efectuados e que dependam, directa ou indirectamente, da rectificação pendente estão sujeitos ao regime de provisoriedade previsto na alínea b) do n.º 2 do artigo 92.º, sendo-lhes aplicável, com as adaptações necessárias, os n.os 6 a 8 do mesmo artigo.
+
+4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a retificação.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 127.º — (Indeferimento liminar)
+
+1 - Sempre que o pedido se prefigure como manifestamente improcedente, o conservador indefere liminarmente o requerido, por despacho fundamentado de que notifica o requerente.
+
+2 - A decisão de indeferimento liminar pode ser impugnada nos termos do artigo 131.º
+
+3 - Pode o conservador, face aos fundamentos alegados no recurso interposto, reparar a sua decisão de indeferir liminarmente o pedido, mediante despacho fundamentado que ordene o prosseguimento do processo, do qual é notificado o recorrente.
+
+4 - Não sendo a decisão reparada, são notificados os interessados a que se refere o artigo 129.º para, no prazo de 10 dias, impugnarem os fundamentos do recurso, remetendo-se o processo à entidade competente.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 128.º — (Emolumentos)
+
+1 - Quando não haja motivo para indeferimento liminar, são os requerentes notificados para efectuarem o pagamento dos emolumentos que sejam devidos pela instrução e decisão do processo.
+
+2 - O pagamento desses emolumentos é efectuado no prazo de cinco dias a contar da data da notificação, podendo ainda os requerentes efectuá-lo nos oito dias após o termo deste prazo com agravamento de 20%.
+
+3 - Findo este último prazo sem que o pagamento se mostre efectuado, o conservador declara o processo findo e do respectivo despacho notifica os requerentes.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 129.º — (Notificação dos interessados não requerentes)
+
+1 - Os interessados não requerentes são notificados para, no prazo de 10 dias, deduzirem oposição à rectificação, devendo juntar os elementos de prova e pagar os emolumentos devidos.
+
+2 - Se os interessados forem incertos, deve ser notificado o Ministério Público nos termos previstos no número anterior.
+
+3 - As notificações são feitas nos termos gerais da lei processual civil, aplicada com as necessárias adaptações.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - As notificações editais são feitas pela simples afixação de editais, pelo prazo de 30 dias, no serviço de registo da situação do prédio, na sede da junta de freguesia da situação do prédio e, quando se justifique, na sede da junta de freguesia da última residência conhecida do ausente ou do falecido.
+
+7 - As notificações editais, referidas no número anterior, são igualmente publicadas em sítio na Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 130.º — (Instrução e decisão)
+
+1 - Recebida a oposição ou decorrido o respectivo prazo, o conservador procede às diligências necessárias de produção de prova.
+
+2 - A prova testemunhal tem lugar mediante a apresentação das testemunhas pela parte que as tiver indicado, em número não superior a três, sendo os respectivos depoimentos reduzidos a escrito por extracto.
+
+3 - A perícia é requisitada pelo conservador ou realizada por perito a nomear nos termos previstos no artigo 568.º do Código de Processo Civil, aplicável com as necessárias adaptações.
+
+4 - O conservador pode, em qualquer caso, proceder às diligências e produção de prova que considerar necessárias.
+
+5 - (Revogado).
+
+6 - A decisão sobre o pedido de rectificação é proferida no prazo de 10 dias.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 131.º — Recurso hierárquico e impugnação judicial
+
+1 - A decisão sobre o pedido de retificação pode ser impugnada mediante interposição de recurso hierárquico para o conselho diretivo do Instituto dos Registos e do Notariado, I.P., ou mediante impugnação judicial para o tribunal da comarca da área da circunscrição a que pertence o serviço de registo, nos termos dos números seguintes.
+
+2 - A interposição da impugnação judicial por algum dos interessados faz precludir o seu direito à interposição de recurso hierárquico, e equivale à desistência deste, quando por si já interposto.
+
+3 - A interposição da impugnação judicial por algum dos interessados determina a suspensão do processo de recurso hierárquico anteriormente interposto por qualquer outro interessado, até ao trânsito em julgado da decisão que ponha termo àquela impugnação.
+
+4 - Têm legitimidade para recorrer hierarquicamente ou impugnar judicialmente a decisão do conservador qualquer interessado e o Ministério Público.
+
+5 - O recurso hierárquico e a impugnação judicial previstos no n.º 1 têm efeito suspensivo e devem ser interpostos no prazo de 10 dias, por meio de requerimento onde são expostos os respetivos fundamentos.
+
+6 - A interposição de recurso hierárquico ou de impugnação judicial considera-se feita com a apresentação do respetivo requerimento no serviço de registo onde foi proferida a decisão impugnada.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 375-A/99 - Diário da República n.º 220/1999, Suplemento n.º 1, Série I-A de 1999-09-20, em vigor a partir de 1999-10-20
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 131.º-A — Tramitação subsequente
+
+1 - Apresentada a impugnação, são notificados os interessados para, no prazo de 10 dias, impugnarem os seus fundamentos.
+
+2 - Não havendo lugar a qualquer notificação ou findo o prazo a que se refere o número anterior, o processo é remetido à entidade competente.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 131.º-B — Decisão do recurso hierárquico
+
+1 - O recurso hierárquico é decidido no prazo de 90 dias, pelo conselho diretivo do Instituto dos Registos e do Notariado, I.P., que pode determinar que seja previamente ouvido o conselho consultivo.
+
+2 - Quando haja de ser ouvido, o conselho consultivo deve pronunciar-se no prazo máximo de 60 dias, incluído no prazo referido no número anterior.
+
+3 - A decisão proferida é notificada aos recorrentes e demais interessados e comunicada ao serviço de registo.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 131.º-C — Impugnação judicial
+
+1 - Tendo o recurso hierárquico sido julgado improcedente o interessado pode ainda impugnar judicialmente a decisão sobre o pedido de retificação.
+
+2 - Tendo o recurso hierárquico sido julgado procedente, pode qualquer outro interessado, na parte que lhe for desfavorável, impugnar judicialmente a decisão nele proferida.
+
+3 - A impugnação é proposta mediante apresentação do requerimento no serviço de registo competente, no prazo de 10 dias a contar da data da notificação da decisão.
+
+4 - O processo é remetido ao tribunal no prazo de dois dias, instruído com o processo de recurso hierárquico.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 132.º — Decisão da impugnação judicial
+
+1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público, para emissão de parecer.
+
+2 - O juiz que tenha intervindo no processo donde conste o ato cujo registo está em causa fica impedido de julgar a impugnação judicial.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 132.º-A — Recurso para o tribunal da Relação
+
+1 - Da sentença proferida pelo tribunal de 1.ª instância podem interpor recurso para o tribunal da Relação os interessados, o conservador e o Ministério Público.
+
+2 - O recurso, que tem efeito suspensivo, deve ser interposto no prazo de 30 dias.
+
+3 - Para além dos casos em que é sempre admissível recurso, do acórdão da Relação cabe, ainda, recurso para o Supremo Tribunal de Justiça nos casos seguintes:
+
+a) Quando esteja em causa uma questão cuja apreciação, pela sua relevância jurídica, seja claramente necessária para uma melhor aplicação do direito;
+
+b) Quando estejam em causa interesses de particular relevância social;
+
+c) Quando o acórdão da Relação esteja em contradição com outro, já transitado em julgado, proferido por qualquer Relação ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, salvo se tiver sido proferido acórdão de uniformização de jurisprudência com ele conforme.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 132.º-B — Devolução do processo
+
+Após o trânsito em julgado da sentença ou do acórdão proferidos, o tribunal devolve à conservatória o processo de rectificação.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 132.º-C — Gratuitidade do registo
+
+O registo da rectificação é gratuito, salvo se se tratar de inexactidão proveniente de deficiência dos títulos.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26, em vigor a partir de 2009-04-20
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 132.º-D — Incompatibilidades
+
+Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos processos previstos no presente capítulo.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+## Capítulo III — Reconstituição do registo
+
+### Artigo 133.º — (Métodos de reconstituição)
+
+1 - Em caso de extravio ou inutilização dos suportes documentais, os registos podem ser reconstituídos por reprodução a partir dos arquivos existentes, por reelaboração do registo com base nos respectivos documentos, ou por reforma dos referidos suportes.
+
+2 - A data da reconstituição dos registos deve constar da ficha.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 134.º — (Arquivos de duplicação)
+
+1 - Com vista à preservação dos registos, poderão ser organizados arquivos, em locais diferentes dos da situação das conservatórias para depósito dos livros transcritos em fichas ou de cópias destas.
+
+2 - As cópias a depositar no arquivo de preservação poderão ser extraídas por fotocópia ou microfilme.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 135.º — (Reelaboração do registo)
+
+1 - O extravio ou inutilização de uma ficha determina a reelaboração oficiosa de todos os registos respeitantes ao prédio.
+
+2 - Devem ser requisitados aos serviços competentes os documentos que se mostrem necessários à reelaboração do registo, os quais são gratuitos e isentos de quaisquer outros encargos legais.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 136.º — (Reforma)
+
+Nos casos em que o registo não possa ser reconstituído pela forma prevista nos artigos anteriores procede-se à reforma dos respectivos suportes.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 137.º — (Processo de reforma)
+
+1 - O processo de reforma inicia-se com a remessa, preferencialmente por via electrónica, ao Ministério Público do auto elaborado pelo conservador, do qual devem constar as circunstâncias do extravio ou inutilização, a especificação dos suportes documentais abrangidos e a referência ao período a que correspondem os registos.
+
+2 - Ministério Público requererá ao juiz a citação-edital dos interessados para, no prazo de 2 meses, apresentarem na conservatória títulos, certidões e outros documentos de que disponham, indicando-se também nos editais o período a que os registos respeitem.
+
+3 - Decorrido o prazo dos editais e julgada válida a citação por despacho transitado em julgado, o Ministério Público promoverá a comunicação do facto ao conservador.
+
+4 - O termo do prazo a que se refere o n.º 3 será anotado no Diário, procedendo-se, de seguida, à reconstituição dos registos em face dos livros e fichas subsistentes e dos documentos arquivados e apresentados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 138.º — (Reclamações)
+
+1 - Concluída a reforma, o conservador partipará o facto ao Ministério Público, a fim de que este promova nova citação-edital dos interessados para examinarem os registos reconstituídos e apresentarem na conservatória, no prazo de 30 dias, as suas reclamações.
+
+2 - Quando a reclamação tiver por fundamento a omissão de alguma inscrição, esta é lavrada como provisória por natureza, com base na petição do reclamante e nos documentos apresentados.
+
+3 - Se a reclamação visar o próprio registo reformado, devem ser juntas ao processo de reclamação cópias do registo impugnado e dos documentos que lhe serviram de base e anotar-se ao registo a pendência da reclamação.
+
+4 - Cumprido o disposto nos dois números anteriores, as reclamações são remetidas, para decisão, ao tribunal competente, com a informação do conservador.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 139.º — (Suprimento de omissões não reclamadas)
+
+1 - A omissão de algum registo que não tenha sido reclamada só pode ser suprida por meio de acção intentada contra aqueles a quem o interessado pretenda opor a prioridade do registo.
+
+2 - Julgada procedente a acção, será o registo lavrado com a menção das inscrições a que se refere.
+
+3 - A acção não prejudica os direitos decorrentes de factos registados antes do registo da acção que não tenham constado dos suportes documentais reformados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+## Título VII — Da impugnação das decisões do conservador
+
+### Artigo 140.º — Admissibilidade da impugnação
+
+1 - A decisão de recusa da prática do ato de registo nos termos requeridos pode ser impugnada mediante a interposição de recurso hierárquico para o conselho diretivo do Instituto dos Registos e do Notariado, I.P., ou mediante impugnação judicial para o tribunal da área de circunscrição a que pertence o serviço de registo.
+
+2 - A recusa de rectificação de registos só pode ser apreciada no processo próprio regulado neste Código.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 141.º — Prazos e legitimidade
+
+1 - O prazo para a interposição de recurso hierárquico ou de impugnação judicial é de 30 dias a contar da notificação a que se refere o artigo 71.º.
+
+2 - (Revogado).
+
+3 - A interposição da impugnação judicial faz precludir o direito de interpor recurso hierárquico e equivale à desistência deste, quando já interposto.
+
+4 - Tem legitimidade para interpor recurso hierárquico ou impugnação judicial o apresentante do registo ou a pessoa que por ele tenha sido representada.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 142.º — (Interposição de recurso hierárquico e de impugnação judicial)
+
+1 - O recurso hierárquico ou a impugnação judicial interpõem-se por meio de requerimento em que são expostos os seus fundamentos.
+
+2 - A interposição de recurso hierárquico ou de impugnação judicial consideram-se feitas com a apresentação das respectivas petições no serviço de registo a que pertencia o funcionário que proferiu a decisão recorrida.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 142.º-A — Tramitação subsequente
+
+1 - Impugnada a decisão e independentemente da categoria funcional de quem tiver emitido o despacho recorrido, este é submetido à apreciação do conservador, o qual deve proferir, no prazo de 10 dias, despacho a sustentar ou a reparar a decisão, dele notificando o recorrente.
+
+2 - A notificação referida no número anterior deve ser acompanhada do envio ou da entrega ao notificando de cópia dos documentos juntos ao processo.
+
+3 - Sendo sustentada a decisão, o processo deve ser remetido à entidade competente, no prazo de cinco dias, instruído com cópia do despacho de qualificação do registo e dos documentos necessários à sua apreciação.
+
+4 - A tramitação da impugnação judicial, incluindo a remessa dos elementos referidos no número anterior ao tribunal competente, é efectuada electronicamente nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 143.º — (Audição do notário)
+
+No caso de ser interposto recurso hierárquico da qualificação do conservador que se fundamente em vício de que alegadamente enferme título lavrado por notário, este deve ser ouvido, sempre que possível, pela Direcção-Geral dos Registos e do Notariado.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 144.º — (Decisão do recurso hierárquico)
+
+1 - O recurso hierárquico é decidido no prazo de 90 dias, pelo presidente do Instituto dos Registos e do Notariado, I. P., que pode determinar que seja previamente ouvido o conselho técnico.
+
+2 - Quando haja de ser ouvido, o conselho técnico deve pronunciar-se no prazo máximo de 60 dias, incluído no prazo referido no número anterior.
+
+3 - A decisão proferida é notificada ao recorrente e comunicada ao conservador que sustentou a decisão.
+
+4 - Sendo o recurso hierárquico deferido, deve ser dado cumprimento à decisão no próprio dia.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 145.º — (Impugnação judicial)
+
+1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode ainda impugnar judicialmente a decisão de qualificação do ato de registo.
+
+2 - A impugnação judicial é proposta mediante apresentação do requerimento no serviço de registo competente, no prazo de 20 dias a contar da data da notificação da decisão que tiver julgado improcedente o recurso hierárquico.
+
+3 - O processo é remetido ao tribunal no prazo de cinco dias, instruído com o de recurso hierárquico.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 146.º — (Julgamento)
+
+1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público para emissão de parecer.
+
+2 - O juiz que tenha intervindo no processo donde conste o acto cujo registo está em causa fica impedido de julgar a impugnação judicial.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 147.º — (Recurso da sentença)
+
+1 - Da sentença proferida podem sempre interpor recurso para a Relação, com efeito suspensivo, o impugnante, o conservador que sustenta, o presidente do Instituto dos Registos e do Notariado, I. P., e o Ministério Público.
+
+2 - (Revogado).
+
+3 - O prazo para a interposição do recurso é de 30 dias a contar da data da notificação.
+
+4 - Para os efeitos previstos no n.º 1, a sentença é sempre notificada ao presidente do Instituto dos Registos e do Notariado, I. P.
+
+5 - Para além dos casos em que é sempre admissível recurso, do acórdão da Relação cabe, ainda, recurso para o Supremo Tribunal de Justiça nos casos seguintes:
+
+a) Quando esteja em causa uma questão cuja apreciação, pela sua relevância jurídica, seja claramente necessária para uma melhor aplicação do direito;
+
+b) Quando estejam em causa interesses de particular relevância social;
+
+c) Quando o acórdão da Relação esteja em contradição com outro, já transitado em julgado, proferido por qualquer Relação ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, salvo se tiver sido proferido acórdão de uniformização de jurisprudência com ele conforme.
+
+6 - A decisão é comunicada pela secretaria ao serviço de registo, após o seu trânsito em julgado.
+
+7 - A secretaria deve igualmente comunicar ao serviço de registo:
+
+a) A desistência ou deserção da instância;
+
+b) O facto de o processo ter estado parado mais de 30 dias por inércia do impugnante.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 375-A/99 - Diário da República n.º 220/1999, Suplemento n.º 1, Série I-A de 1999-09-20, em vigor a partir de 1999-10-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 147.º-A — Valor do recurso
+
+1 - O valor da acção é o do facto cujo registo foi recusado ou feito provisoriamente.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26, em vigor a partir de 2009-04-20
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 147.º-B — Direito subsidiário
+
+Ao recurso hierárquico é aplicável, subsidiariamente, o disposto no Código do Procedimento Administrativo.
+
+> Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 147.º-C — Impugnação da recusa de emissão de certidões
+
+1 - Assiste ao interessado o direito de recorrer hierarquicamente ou de impugnar judicialmente a recusa da emissão de certidão.
+
+2 - Sem prejuízo do disposto nos números seguintes, ao recurso hierárquico a que se refere o número anterior é aplicável, com as necessárias adaptações, o disposto no n.º 1 do artigo 141.º e nos artigos 142.º, 142.º-A e 144.º
+
+3 - No recurso hierárquico a que se refere o presente artigo, os prazos estabelecidos nos n.os 1 e 3 do artigo 142.º-A e no n.º 1 do artigo 144.º são reduzidos a cinco, dois e 30 dias, respetivamente.
+
+4 - O prazo para a interposição do recurso hierárquico conta-se a partir da comunicação do despacho de recusa.
+
+5 - Ao recurso hierárquico previsto nos números anteriores é aplicável, subsidiariamente, o disposto no Código do Procedimento Administrativo.
+
+6 - A impugnação judicial prevista no n.º 1 é dirigida ao tribunal administrativo com jurisdição sobre a área da circunscrição da conservatória e rege-se pelo disposto na legislação processual aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 148.º — (Efeitos da impugnação)
+
+1 - A interposição de recurso hierárquico ou a impugnação judicial devem ser imediatamente anotadas, a seguir à anotação da recusa ou ao registo provisório.
+
+2 - São ainda anotadas a improcedência ou a desistência da impugnação, bem como, sendo caso disso, a deserção do recurso ou a sua paragem durante mais de 30 dias por inércia do recorrente.
+
+3 - Com a propositura da acção ou a interposição de recurso hierárquico fica suspenso o prazo de caducidade do registo provisório até lhe serem anotados os factos referidos no número anterior.
+
+4 - Proferida decisão final que julgue insubsistente a recusa da prática do acto nos termos requeridos, o conservador deve lavrar o registo recusado, com base na apresentação correspondente, ou converter oficiosamente o registo provisório.
+
+5 - Proferida decisão final de que resulte a insubsistência da qualificação impugnada com fundamento na inobservância do disposto no artigo 73.º ou na preterição de formalidades essenciais, o conservador deve anotar a procedência da impugnação e inutilizar a anotação de recusa ou o registo efetuado provisoriamente, com menção de pendência de qualificação.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-10-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 149.º — (Registos dependentes)
+
+1 - No caso de recusa, julgado procedente o recurso hierárquico ou a impugnação judicial, deve anotar-se a caducidade dos registos provisórios incompatíveis com o acto inicialmente recusado e converter-se oficiosamente os registos dependentes, salvo se outra for a consequência da requalificação do registo dependente.
+
+2 - Verificando-se a caducidade do direito de impugnação ou qualquer dos factos previstos no n.º 2 do artigo anterior, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis, salvo se outra for a consequência da requalificação do registo dependente.
+
+3 - Nos casos previstos no n.º 5 do artigo anterior, a anotação da pendência de qualificação determina a anotação de pendência de requalificação dos registos dependentes ou incompatíveis.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-10-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+## Título VIII — Disposições diversas
+
+### Artigo 150.º — (Emolumentos)
+
+1 - Pelos actos praticados nos serviços de registo predial são cobrados os emolumentos constantes da respectiva tabela, salvo nos casos de isenção previstos na lei.
+
+2 - As contas que tenham de entrar em regra de custas de processo são pagas com as custas a que haja lugar.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 151.º — Pagamento das quantias devidas
+
+1 - No momento do pedido deve ser entregue, a título de preparo, a quantia provável do total da conta.
+
+2 - É responsável pelo pagamento dos emolumentos o sujeito ativo dos factos, não obstante o disposto nos números seguintes e na legislação própria relativamente ao pagamento de emolumentos, taxas e outros encargos devidos pela prática dos atos previstos no presente código.
+
+3 - Sem prejuízo da responsabilidade imputada ao sujeito ativo e ao sujeito da obrigação de registar, e salvo o disposto nos números seguintes, quem apresenta o registo ou pede o ato deve proceder à entrega das importâncias devidas, nestas se incluindo a sanção pecuniária pelo cumprimento tardio da obrigação de registar.
+
+4 - Os tribunais, no que respeita à comunicação das ações, decisões e outros procedimentos e providências ou atos judiciais sujeitos a registo, e o Ministério Público no que respeita à comunicação das apreensões em processo penal que tenha autorizado, ordenado ou validado, são dispensados do pagamento prévio dos emolumentos e taxas, devendo estas quantias entrar em regra de custas.
+
+5 - Quando o pedido for efectuado pelas entidades que celebrem escrituras públicas, autentiquem documentos particulares que titulem factos sujeitos a registo, ou reconheçam as assinaturas neles apostas, estas entidades devem obter do sujeito activo do facto, previamente à titulação ou ao reconhecimento, os emolumentos e taxas devidas pelo registo.
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+8 - [Revogado].
+
+9 - Quando o preparo não tiver sido feito e não tiver havido rejeição nos termos do disposto no n.º 3 do artigo 66.º, o serviço de registo notifica o interessado para no prazo de dois dias proceder à entrega das quantias em falta.
+
+10 - O disposto no número anterior é igualmente aplicável quando o preparo venha a mostrar-se insuficiente ou quando tenha havido suprimento de deficiências nos termos do n.º 8 do artigo 73.º.
+
+11 - O pagamento das quantias devidas é feito nos termos previstos na legislação própria relativa ao pagamento de emolumentos, taxas e outros encargos devidos pela prática dos atos.
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 355/85 - Diário da República n.º 201/1985, Série I de 1985-09-02, em vigor a partir de 1985-10-01
+
+### Artigo 152.º — (Isenções)
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - Salvo disposição em contrário, todos os livros, fichas, verbetes ou impressos previstos neste Código e exclusivamente destinados ao serviço do registo não carecem de selo.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 194/2003 - Diário da República n.º 194/2003, Série I-A de 2003-08-23, em vigor a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 60/90 - Diário da República n.º 38/1990, Série I de 1990-02-14, em vigor a partir de 1990-05-01
+
+### Artigo 153.º — (Responsabilidade civil e criminal)
+
+1 - Quem fizer registar um acto falso ou juridicamente inexistente, para além da responsabilidade criminal em que possa incorrer, responde pelos danos a que der causa.
+
+2 - Na mesma responsabilidade incorre quem prestar ou confirmar declarações falsas ou inexactas, na conservatória ou fora dela, para que se efectuem os registos ou se lavrem os documentos necessários.
+
+### Artigo 153.º-A — Tramitação electrónica
+
+1 - Os actos do processo de registo podem ser realizados por via electrónica, nos termos definidos por portaria do membro do Governo responsável pela área da justiça, incluindo a interposição de recurso hierárquico, de impugnação judicial e os respectivos envios electrónicos.
+
+2 - As notificações e outras comunicações efectuadas pelos serviços de registo são realizadas, preferencialmente por via electrónica, nos termos da portaria referida no número anterior.
+
+3 - A portaria referida no n.º 1 deve prever as medidas de segurança determinadas pela Lei da Protecção de Dados Pessoais.
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 154.º — Notificações
+
+1 - As notificações previstas no presente código, quando não devam ser feitas por via eletrónica nos termos previstos no n.º 2 do artigo anterior, ou por qualquer outro meio previsto na lei, são realizadas por carta registada, podendo também ser realizadas presencialmente, por qualquer funcionário, quando os interessados se encontrem nas instalações do serviço.
+
+2 - A notificação postal presume-se feita no terceiro dia posterior ao do registo, ou no primeiro dia útil seguinte a esse, quando o não seja.
+
+3 - A notificação não deixa de produzir efeito pelo facto de o expediente ser devolvido, desde que a remessa tenha sido feita para a morada indicada pelo notificando nos atos ou documentos apresentados no serviço de registo.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 155.º — Contagem dos prazos
+
+1 - É havido como prazo de um ou dois dias o designado por 24 ou 48 horas.
+
+2 - O prazo é contínuo, não se incluindo na contagem o dia em que ocorrer o evento a partir do qual o prazo começa a correr.
+
+3 - O prazo que termine em sábado, domingo, feriado, em dia com tolerância de ponto ou em dia em que o serviço perante o qual deva ser praticado o ato não esteja aberto ao público, ou não funcione durante o período normal, transfere-se para o primeiro dia útil seguinte.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+### Artigo 156.º — Direito subsidiário
+
+Salvo disposição legal em contrário, aos atos, processos e respetivos prazos previstos no presente código é aplicável, subsidiariamente e com as necessárias adaptações, o disposto no Código de Processo Civil.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30, em vigor a partir de 2013-09-01
+
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.
+
+## Anexo — Tabela de emolumentos do registo predial
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 1.º
+
+Por cada descrição - 400$00.
+
+### Artigo 2.º
+
+1 - Por cada inscrição - 1200$00.
+
+2 - Sendo a inscrição de valor determinado e superior a 100000$00, acresce, sobre o total do valor, por cada 1000$00 ou fracção:
+
+a) Até 200000$00 - 10$00;
+
+b) De 200000$00 a 1000000$00 - 5$00;
+
+c) De 1000000$00 a 10000000$00 - 4$00;
+
+d) Acima de 10000000$00, sobre o excedente - 3$00.
+
+3 - O emolumento previsto no n.º 2 não é devido pelas inscrições de aquisição anteriores à daquele que se apresente a requerer o registo em seu nome.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 3.º
+
+1 - Por cada averbamento às descrições de algum facto que aumente o valor anteriormente nelas mencionado serão devidos os emolumentos previstos nos n.os. 1 e 2 do artigo anterior, calculados sobre a diferença entre o antigo e o novo valor, reduzidos a metade.
+
+2 - Verificando-se que o valor fiscal do prédio ou fracção autónoma é superior ao valor constante da descrição, é cobrado o emolumento do número anterior, calculado sobre a diferença de valores.
+
+3 - Para os efeitos do cálculo previsto nos números anteriores, considera-se inexistente o valor de qualquer edifício demo lido.
+
+> Alterado pelo/a Portaria n.º 486/87 - Diário da República n.º 131/1987, Série I de 1987-06-08, em vigor a partir de 1987-06-13
+
+### Artigo 4.º
+
+1 - Por cada averbamento de cancelamento, pelos de penhora, arresto, penhor, arrolamento ou afectação de créditos hipotecários ou garantidos por consignação de rendimentos e pelos de cessão ou transmissão de direitos inscritos serão devidos os emolumentos do artigo 2.º, reduzidos a metade.
+
+2 - Nos cancelamentos parciais referentes a parte do valor da inscrição ou, simultaneamente, a parte desse valor e a bens, o emolumento variável será calculado considerando-se como valor da inscrição o valor cancelado.
+
+3 - Se o cancelamento parcial respeitar apenas a bens, o emolumento variável divide-se igualmente por todos os prédios ou fracções autónomas a que a inscrição respeita.
+
+### Artigo 5.º
+
+1 - Por cada averbamento independente, excluídos os referidos nos artigos anteriores - 300$00.
+
+2 - Verificando-se pelo averbamento que o valor do facto inscrito é superior àquele que serviu de base para a determinação do emolumento cobrado pela inscrição, acresce ao emolumento do n.º 1 deste artigo o previsto no n.º 2 do artigo 2.º, calculado sobre a diferença entre os dois valores.
+
+### Artigo 6.º
+
+Sem prejuízo do disposto no n.º 3 do artigo 4.º, são considerados como um acto único, para efeitos emolumentares, as inscrições ou os averbamentos a inscrições lavradas em fichas diversas para o registo do mesmo facto.
+
+### Artigo 7.º
+
+Pela desistência do acto requerido, depois de efectuada a apresentação - 100$00.
+
+### Artigo 8.º
+
+Por cada recusa - 100$00.
+
+### Artigo 9.º
+
+Pela urgência na feitura do registo é devido 1(por mil) sobre o valor do facto registado, num mínimo de 5000$00.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 227/1984, Série I de 1984-09-29, em vigor a partir de 1984-09-29
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 10.º
+
+1 - Por cada processo de reclamação hierárquica - 4000$00.
+
+2 - Tratando se de reclamação de conta - 1000$00.
+
+3 - O preparo cobrado será devolvido se a reclamação obtiver provimento.
+
+4 - Havendo provimento parcial, o emolumento do n.º 1 é reduzido a metade.
+
+### Artigo 11.º
+
+1 - Por cada certidão ou fotocópia - 150$00.
+
+2 - Se a certidão ou fotocópia ocupar mais de uma lauda, por cada lauda a mais acrescem - 50$00.
+
+3 - Pela passagem ou actualização do título de registo de propriedade é devido o emolumento previsto no n.º 1.
+
+### Artigo 12.º
+
+1 - Por cada informação dada por escrito:
+
+a) Em relação a um prédio - 100$00;
+
+b) Por cada prédio a mais - 50$00;
+
+c) Não sendo relativa a prédios - 150$00.
+
+2 - Por cada lauda de fotocópia não certificada com o valor de informação - 50$00.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 13.º
+
+1 - Para efeitos desta tabela, o valor do facto registado é, em geral, o dos bens que constituem o seu objecto.
+
+2 - O valor dos prédios é o seu valor fiscal ou aquele que as partes lhes atribuírem, se for superior, e, na falta destes elementos, obtém-se segundo as regras gerais da lei processual ou considera-se indeterminado, se não for possível fixá-lo.
+
+3 - Nos registos de garantia, o valor do facto é o assegurado pelo próprio registo, recorrendo se às regras da lei processual, se necessário, para a sua determinação.
+
+4 - Na hipoteca relativa a crédito que vença juros são considerados, para a determinação do valor, os juros que a hipoteca garantir, sendo o valor da penhora e do arresto o da importância líquida assegurada.
+
+5 - O valor do usufruto, bem como o dos direitos de uso e habitação, é o de 10 vezes o rendimento colectável do prédio, se este for superior ao declarado, e o valor da propriedade onerada com tais encargos é o da propriedade plena.
+
+6 - Os ónus de eventual redução das doações e de indisponibilidade são considerados factos de valor indeterminado.
+
+7 - Na alteração de propriedade horizontal e no reforço de hipoteca, de consignação de rendimentos, de penhora ou de arresto, quando daí resulte aumento de valor, o valor a considerar é o da diferença entre o antigo e o novo, sendo, em qualquer outro caso, as inscrições de alteração ou de reforço consideradas de valor indeterminado.
+
+> Alterado pelo/a Portaria n.º 486/87 - Diário da República n.º 131/1987, Série I de 1987-06-08, em vigor a partir de 1987-06-13
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 14.º
+
+1 - Abrangendo o facto submetido a registo prédios situados na área de mais de uma conservatória e não se designando a parte do valor do acto que corresponda a cada prédio, o valor total é dividido igualmente por todos eles, de modo que cada conservatória liquide os emolumentos do n.º 2 do artigo 2.º na proporção do número de prédios que lhe pertencer.
+
+Quando um prédio for situado na área de mais de uma conservatória, a parte situada em cada uma delas é considerada uma unidade predial.
+
+2 - A regra prevista no número anterior tem aplicação ainda no caso de o facto respeitar simultaneamente a prédios e navios.
+
+3 - Se o registo for lavrado por averbamento, a divisão prevista nos números anteriores só terá lugar se for junto documento comprovativo de o facto que deu lugar à inscrição a que o averbamento se reporta ter sido registado sobre todos os bens.
+
+### Artigo 15.º
+
+Os emolumentos devidos pelo registo de valor determinado mas representado em moeda estrangeira são calculados pelo último câmbio oficial publicado.
+
+### Artigo 16.º
+
+O custo dos impressos de requisição e de títulos de registo de propriedade, bem como as despesas de quaisquer comunicações a que haja lugar, são pagos separadamente pelos interessados.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 202/1984, Suplemento n.º 1, Série I de 1984-08-31, em vigor a partir de 1984-08-31
+
+### Artigo 17.º
+
+A taxa de reembolso, englobada no montante total das importâncias arrecadadas, será de 3%, a deduzir no final de cada mês.
+
+### Artigo 18.º
+
+1 - Pelo estudo e organização do processo pré-registral e pelo preenchimento do impresso-requisição de certidão são devidos os emolumentos previstos no artigo 68.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro.
+
+a) Pelo requerimento ou preenchimento do impresso-requisição para a realização de qualquer acto de registo 500$00;
+
+b) Acresce, por cada acto de registo além do primeiro - 200$00;
+
+c) Quando o requerimento ou requisição se destinar a obter uma certidão - 200$00;
+
+d) Quando o requerimento se destinar a outras repartições - 500$00.
+
+2 - Se o estudo previsto no número anterior exceder a apreciação de viabilidade do pedido, em face dos documentos apresentados e dos registos anteriores, acresce o emolumento variável de 500$00 a 1000$00, segundo a complexidade do processo.
+
+a) Pelo estudo e organização do processo pré-registral - 1000$00;
+
+b) Se o estudo previsto na alínea anterior exceder a apreciação da viabilidade do pedido, em face dos documentos apresentados e dos registos anteriores, acresce o seguinte emolumento:
+
+Por requisição até dois actos de registo - 2000$00;
+
+Por requisição de três ou mais actos de registo - 5000$00.
+
+3 - Pelas diligências de aperfeiçoamento do processo registral de que resulte a junção de documentos em apresentação complementar para sanar deficiências que não envolvam novo pedido de registo nem constituam motivo de recusa - 2000$00.
+
+4 - Os emolumentos previstos nos números anteriores têm a natureza de emolumentos pessoais, revertendo para os funcionários da repartição na proporção dos seus vencimentos de categoria.
+
+5 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça.
+
+> Alterado pelo/a 2.º do/a Portaria n.º 1046/91 - Diário da República n.º 235/1991, Série I-B de 1991-10-12, em vigor a partir de 1991-11-01
+
+### Artigo 19.º
+
+1 - A presente tabela não admite qualquer interpretação extensiva, ainda que haja identidade ou maioria de razão.
+
+2 - Em caso de dúvida sobre se é devido um ou outro emolumento cobrar-se-á sempre o menor.
+
+**Modelos anexos**
+
+(ver documento original)
+
+> Rectificado pelo/a Declaração de Rectificação n.º 3-C/2002 - Diário da República n.º 26/2002, Suplemento n.º 4, Série I-B de 2002-01-31, em vigor a partir de 2002-01-15
+
+> Alterado pelo/a 1.º do/a Portaria n.º 38/2002 - Diário da República n.º 8/2002, Série I-B de 2002-01-10, em vigor a partir de 2002-01-15

@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32023L2225
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02023L2225-20231030
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32023L2225 — Crédito aos consumidores

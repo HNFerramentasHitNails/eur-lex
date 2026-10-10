@@ -4,7 +4,7 @@ nome_curto: Bruxelas I-A (competência judiciária)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012R1215
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32012R1215 — Bruxelas I-A (competência judiciária) — considerandos

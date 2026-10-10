@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32017L1132
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02017L1132-20220812
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32017L1132 — Direito das sociedades

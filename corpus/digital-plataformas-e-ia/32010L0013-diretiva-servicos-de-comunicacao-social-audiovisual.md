@@ -17,7 +17,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010L0013
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02010L0013-20250208
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32010L0013 — Diretiva Serviços de Comunicação Social Audiovisual

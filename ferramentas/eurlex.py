@@ -203,6 +203,32 @@ SELECT DISTINCT ?cc ?d WHERE {{
     return [(l["cc"], l["d"][:10]) for l in linhas]
 
 
+def versoes_consolidadas_todas():
+    """[acto de base, versão consolidada, data] de todas as versões consolidadas do Cellar, em
+    linhas, uma consulta por ano (de uma só vez o servidor falha). Sem MIN/MAX: nas consultas que
+    agrupam vários actos, o SPARQL do Cellar devolve nesses agregados datas de outros actos (ex.:
+    TFUE "consolidado até 2026-07-28", quando a versão mais recente é de 2025-03-15). Fica em
+    .cache/ durante o dia, para o catálogo e completo.py não repetirem as consultas."""
+    cache = RAIZ / ".cache" / "versoes-consolidadas.json"
+    hoje = dt.date.today().isoformat()
+    if cache.exists():
+        guardado = json.loads(cache.read_text(encoding="utf-8"))
+        if guardado.get("data") == hoje:
+            return guardado["linhas"]
+    linhas = []
+    for ano in range(1950, dt.date.today().year + 6):
+        for l in sparql(PREFIXOS + f"""
+SELECT ?base ?cc ?d WHERE {{
+  ?c cdm:act_consolidated_based_on_resource_legal ?w ; cdm:act_consolidated_date ?d ; cdm:resource_legal_id_celex ?cc .
+  ?w cdm:resource_legal_id_celex ?base .
+  FILTER(?d >= "{ano}-01-01"^^xsd:date && ?d < "{ano + 1}-01-01"^^xsd:date)
+}}"""):
+            linhas.append([l["base"], l["cc"], l["d"][:10]])
+    cache.parent.mkdir(exist_ok=True)
+    cache.write_text(json.dumps({"data": hoje, "linhas": linhas}), encoding="utf-8")
+    return linhas
+
+
 def actos_consolidados(cc):
     """CELEX dos actos que uma versão consolidada integra (o acto de base, alterações, rectificações)."""
     linhas = sparql(PREFIXOS + f"""
@@ -966,12 +992,29 @@ def gerar_contexto(celex, titulo_curto, lingua, hoje, destino):
     if re.match(r"^3\d{4}L", celex):
         ls += ["## Transposição em Portugal", "",
                "Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva "
-               "(mais recentes primeiro). O texto em vigor destas leis está no Diário da República "
-               "(diariodarepublica.pt), não no EUR-Lex.", ""]
+               "(mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da "
+               "República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, "
+               "o texto original (sem alterações posteriores) ou um diploma revogado.", ""]
         if trans:
-            ls += [f"- {t['data']} — {t['titulo']} (CELEX {t['celex']})" for t in trans]
+            pt = legislacao_pt()
+            for t in trans:
+                m = pt["por_celex"].get(t["celex"])
+                ligacao = ""
+                if m and m.get("estado") not in (None, "excluída", "falhou a recolha"):
+                    ligacao = f" → texto: [`legislacao-pt/{m['chave']}.md`](../../legislacao-pt/{m['chave']}.md) ({m['estado']})"
+                elif m and m.get("excluida"):
+                    ligacao = f" → não obtido do DRE: {m['excluida']}"
+                ls.append(f"- {t['data']} — {t['titulo']} (CELEX {t['celex']}){ligacao}")
         else:
             ls.append("- Nenhuma medida portuguesa registada no Cellar para esta diretiva.")
+        ls.append("")
+    relacionados = legislacao_pt()["por_acto"].get(celex, [])
+    if relacionados:
+        ls += ["## Legislação portuguesa relacionada", "",
+               "Diplomas portugueses ligados a este acto por uma fonte citada no próprio ficheiro "
+               "(ex.: lei de execução de um regulamento).", ""]
+        ls += [f"- [{m.get('titulo') or m['chave']}](../../legislacao-pt/{m['chave']}.md) ({m['estado']})"
+               for m in relacionados]
         ls.append("")
     if juris:
         ls += [f"## Jurisprudência do Tribunal de Justiça que interpreta este acto ({len(juris)})", "",
@@ -983,6 +1026,26 @@ def gerar_contexto(celex, titulo_curto, lingua, hoje, destino):
         ls.append("")
     destino.write_text("\n".join(ls), encoding="utf-8")
     return True
+
+
+_LEG_PT = None
+
+
+def legislacao_pt():
+    """Mapa das leis portuguesas obtidas por ferramentas/dre.py (legislacao-pt/medidas.json)."""
+    global _LEG_PT
+    if _LEG_PT is None:
+        f = RAIZ / "legislacao-pt" / "medidas.json"
+        dados = json.loads(f.read_text(encoding="utf-8")) if f.exists() else []
+        por_celex, por_acto = {}, {}
+        for m in dados:
+            for c in m.get("celex_medidas") or []:
+                por_celex[c] = m
+            for c in m.get("relacionado_com") or []:
+                if m.get("estado") not in ("excluída", "falhou a recolha"):
+                    por_acto.setdefault(c, []).append(m)
+        _LEG_PT = {"por_celex": por_celex, "por_acto": por_acto}
+    return _LEG_PT
 
 
 def _frontmatter(fm):
@@ -1080,13 +1143,11 @@ SELECT ?celex ?date ?eli (SAMPLE(?t) AS ?title) (GROUP_CONCAT(DISTINCT ?dc; sepa
                 }
             if linhas:
                 print(f"  {pref}: {len(linhas)}", file=sys.stderr)
-    # versão consolidada mais recente de cada acto
-    cons = sparql(PREFIXOS + """
-SELECT ?celex (MAX(?d) AS ?ultima) (COUNT(?c) AS ?n) WHERE {
-  ?c cdm:act_consolidated_based_on_resource_legal ?w ; cdm:act_consolidated_date ?d .
-  ?w cdm:resource_legal_in-force "true"^^xsd:boolean ; cdm:resource_legal_id_celex ?celex .
-} GROUP BY ?celex""")
-    ultima = {l["celex"]: l["ultima"][:10] for l in cons}
+    # versão consolidada mais recente de cada acto (máximo calculado aqui, não no Cellar)
+    ultima = {}
+    for base, _cc, d in versoes_consolidadas_todas():
+        if d > ultima.get(base, ""):
+            ultima[base] = d
 
     campos = ["celex", "data", "tipo", "consolidado_ate", "repertorio", "titulo", "eli", "url"]
     with open(CATALOGO / "legislacao-em-vigor.tsv", "w", encoding="utf-8", newline="") as fh:

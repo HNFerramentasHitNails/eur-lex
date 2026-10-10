@@ -18,7 +18,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32000L0031
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02000L0031-20240217
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32000L0031 — Diretiva Comércio Eletrónico

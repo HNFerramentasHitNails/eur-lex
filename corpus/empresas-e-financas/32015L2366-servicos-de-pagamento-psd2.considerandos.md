@@ -4,7 +4,7 @@ nome_curto: Serviços de pagamento (PSD2)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32015L2366
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32015L2366 — Serviços de pagamento (PSD2) — considerandos

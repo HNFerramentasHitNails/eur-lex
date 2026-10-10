@@ -1,0 +1,285 @@
+---
+diploma: Decreto-Lei n.º 6/2013
+tipo: Decreto-Lei
+numero: 6/2013
+data_publicacao: '2013-01-17'
+sumario: No uso da autorização legislativa concedida pela Lei n.º 64-B/2011, de 30 de dezembro, aprova alterações à legislação tributária, de modo a garantir o adequado funcionamento da Unidade dos Grandes Contribuintes no âmbito da Autoridade Tributária e Aduaneira
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2017-12-29'
+transpoe:
+- 32015L0849
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-56895594
+eli: https://data.dre.pt/eli/dec-lei/6/2013/p/cons/20171229/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 6/2013
+
+**Sumário:** No uso da autorização legislativa concedida pela Lei n.º 64-B/2011, de 30 de dezembro, aprova alterações à legislação tributária, de modo a garantir o adequado funcionamento da Unidade dos Grandes Contribuintes no âmbito da Autoridade Tributária e Aduaneira
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2017-12-29. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-56895594
+
+## Texto
+
+Decreto-Lei n.º 6/2013
+
+de 17 de janeiro
+
+A operacionalização da Unidade dos Grandes Contribuintes (UGC), organicamente inserida na Autoridade Tributária e Aduaneira carece de adaptação dos códigos e outra legislação tributária, tendo, por isso, sido aprovada a autorização legislativa consubstanciada no artigo 172.º-B da Lei n.º 64.º-B/2011, de 30 de dezembro.
+
+Com a apresentação do presente diploma, pretende-se dar utilização à referida autorização legislativa e adaptar os códigos e demais legislação tributária, de forma a permitir o adequado funcionamento da UGC.
+
+Na verdade, a complexidade das questões com que estes contribuintes lidam exige que lhes sejam criadas condições que permitam o acompanhamento do respetivo cumprimento das obrigações fiscais, reduzindo substancialmente os custos de contexto, os riscos de incumprimento e o nível de contencioso, proporcionando-se, simultaneamente, segurança às opções dos contribuintes.
+
+Neste âmbito, a par das informações vinculativas que decorrem das áreas de administração de cada imposto ou tributo, prevê-se a criação de um procedimento de assistência pré-declarativa, para se reduzir o risco fiscal de operações complexas, resultante da incerteza quanto à sua qualificação jurídico-tributária.
+
+No âmbito da resolução da conflitualidade fiscal administrativa, atribui-se ainda à UGC competência para a decisão das reclamações graciosas relativamente aos contribuintes abrangidos pela sua competência e gestão tributária.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 172.º-B da Lei n.º 64-B/2011, de 30 de dezembro, alterada pela Lei n.º 20/2012, de 14 de maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Artigo 1.º — Objeto
+
+O presente decreto-lei introduz alterações aos códigos e demais legislação tributária de modo a operacionalizar a Unidade dos Grandes Contribuintes, organicamente inserida na Autoridade Tributária e Aduaneira.
+
+### Artigo 2.º — Alteração ao Regime Complementar do Procedimento de Inspeção Tributária
+
+Os artigos 12.º, 16.º e 64.º do Regime Complementar do Procedimento da Inspeção Tributária, aprovado pelo Decreto-Lei n.º 413/98, de 31 de dezembro, passam a ter a redação seguinte:
+
+«Artigo 12.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - O disposto nos números anteriores compreende, relativamente aos grandes contribuintes, a decisão antecipada, sobre a qualificação jurídico tributária de operações realizadas com contingência fiscal, decorrente de incerteza quanto ao seu enquadramento, para o cumprimento das obrigações declarativas e que respeitem a:
+
+a) Operações a que possa ser aplicável qualquer norma antiabuso;
+
+b) Operações que envolvam entidades não residentes em território português;
+
+c) Quaisquer outras operações em que, para a sua qualificação, se revele necessária a apreciação de matéria de facto.
+
+4 - A qualificação referida no número anterior depende de pedido efetuado com uma antecedência mínima de 90 dias relativamente ao termo do prazo para o cumprimento das obrigações declarativas.
+
+Artigo 16.º
+
+[...]
+
+1 - São competentes para a prática dos atos de inspeção tributária, nos termos da lei, os seguintes serviços da Administração Tributária e Aduaneira:
+
+a) A Unidade dos Grandes Contribuintes, relativamente aos sujeitos passivos que de acordo com os critérios definidos sejam considerados como grandes contribuintes;
+
+b) As direções de serviços de inspeção tributária que nos termos da orgânica da Autoridade Tributária e Adua-neira integram a área operativa da inspeção tributária, relativamente aos sujeitos passivos e demais obrigados tributários que devam ser inspecionados pelos serviços centrais;
+
+c) As unidades orgânicas desconcentradas, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial.
+
+2 - Sem prejuízo das competências da Unidade dos Grandes Contribuintes, são inspecionados diretamente pelos serviços centrais os sujeitos passivos designados pelo diretor-geral da Autoridade Tributária e Aduaneira.
+
+Artigo 64.º
+
+[...]
+
+1 - Sem prejuízo do regime especial de inspeção tributária por iniciativa dos sujeitos passivos ou obrigados tributários, estes podem, por razões de certeza e segurança, solicitar ao diretor-geral da Autoridade Tributária e Aduaneira que sancione:
+
+a) As conclusões do relatório da inspeção relativas aos factos relatados;
+
+b) A qualificação jurídico-tributária das operações realizadas com contingência fiscal a que se refere o n.º 3 do artigo 12.º, constante do correspondente relatório.
+
+2 - O pedido de sancionamento dos relatórios referidos no número anterior pode ser efetuado no prazo de 30 dias após a sua notificação e, no caso referido na alínea a), deve identificar as matérias sobre as quais o requerente pretenda que recaia sancionamento.
+
+3 - [...].
+
+4 - Caso o pedido seja expressa ou tacitamente deferido, a administração tributária não pode proceder relativamente à entidade inspecionada em sentido diverso do teor das conclusões do relatório ou da qualificação jurídico tributária das operações realizadas com contingência fiscal a que se refere o n.º 3 do artigo 12.º, nos três anos seguintes ao da data da notificação, salvo se se apurar posteriormente simulação, falsificação, violação, ocultação ou destruição de quaisquer elementos fiscalmente relevantes relativos ao objeto do procedimento de inspeção.»
+
+### Artigo 3.º — Aditamento ao Regime Complementar do Procedimento de Inspeção Tributária
+
+É aditado ao Regime Complementar do Procedimento de Inspeção Tributária, aprovado pelo Decreto-Lei n.º 413/98, de 31 de dezembro, o artigo 63.º-A, com a seguinte redação:
+
+«Artigo 63.º-A
+
+Informação sobre operações realizadas com contingência fiscal
+
+1 - Para conclusão do procedimento de informação sobre operações realizadas com contingência fiscal a que se refere o n.º 3 do artigo 12.º, é igualmente elaborado um relatório final com a identificação das operações e a sua qualificação jurídico tributária.
+
+2 - O relatório referido no número anterior deve ser notificado ao contribuinte por carta registada, no prazo máximo de 90 dias a contar da data de entrada do pedido de informação.
+
+3 - Não pode ser efetuada qualquer correção da matéria tributável, liquidação de imposto ou aplicação de penalidade, com base no relatório.
+
+4 - O incumprimento do prazo previsto no n.º 2, quando não seja por facto imputável ao contribuinte, ou a atuação em conformidade com a qualificação jurídico tributária notificada, limita a responsabilidade do contribuinte nos termos previstos para as informações vinculativas.»
+
+### Artigo 4.º — Alteração ao Decreto-Lei n.º 433/99, de 26 de outubro
+
+O artigo 6.º do Decreto-Lei n.º 433/99, de 26 de outubro, passa a ter a redação seguinte:
+
+«Artigo 6.º
+
+[...]
+
+1 - Consideram-se órgãos periféricos locais, para efeitos do código aprovado pelo presente decreto-lei, os serviços de finanças, alfândegas, delegações aduaneiras e postos aduaneiros da Autoridade Tributária e Aduaneira.
+
+2 - Na execução fiscal consideram-se órgãos periféricos locais os serviços de finanças ou quaisquer outros órgãos da administração tributária a quem lei especial atribua as competências destas no processo.
+
+3 - Consideram-se órgãos periféricos regionais, para efeitos do código aprovado pelo presente decreto-lei, as direções de finanças da Autoridade Tributária e Aduaneira, bem como as alfândegas de que dependam os postos aduaneiros ou delegações aduaneiras, sempre que estejam em causa atos por estes praticados.
+
+4 - As competências que o código aprovado pelo presente decreto-lei atribui aos órgãos periféricos regionais da administração tributária para o procedimento e processo tributário são exercidas, relativamente às pessoas singulares ou coletivas que, nos termos da lei, sejam qualificadas como grandes contribuintes, pelo órgão do serviço central da Autoridade Tributária e Aduaneira a quem, organicamente, seja cometida, como atribuição específica, o respetivo acompanhamento e gestão tributárias, com exceção dos impostos aduaneiros e especiais de consumo.
+
+5 - Na dependência hierárquica do órgão a que se refere o número anterior, podem ser criados órgãos periféricos de competência específica que exercerão, relativamente aos grandes contribuintes, as competências para o procedimento e processo tributários atribuídas, pelo código aprovado pelo presente decreto-lei, aos órgãos periféricos locais, com exceção dos impostos aduaneiros e especiais de consumo.
+
+6 - Nos tributos, incluindo parafiscais, não administrados pelas entidades referidas nos n.os 1 e 3, consideram-se órgãos periféricos locais os territorialmente competentes para a sua liquidação e cobrança e órgãos periféricos regionais os imediatamente superiores.»
+
+### Artigo 5.º — Alteração ao Código de Procedimento e de Processo Tributário
+
+Os artigos 10.º e 75.º do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, passam a ter a redação seguinte:
+
+«Artigo 10.º
+
+[...]
+
+1 - [...].
+
+2 - Sem prejuízo do disposto na lei, designadamente quanto aos procedimentos relativos a tributos parafiscais e aos procedimentos relativos aos grandes contribuintes, são competentes para o procedimento os órgãos periféricos locais da administração tributária do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação.
+
+3 - Sem prejuízo do disposto na lei quanto aos procedimentos relativos aos grandes contribuintes, se a administração tributária não dispuser de órgãos periféricos locais, são competentes os órgãos periféricos regionais da administração tributária do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação.
+
+4 - [...].
+
+5 - [...].
+
+Artigo 75.º
+
+[...]
+
+1 - [...].
+
+2 - [Revogado].
+
+3 - [...].»
+
+### Artigo 6.º — Alteração ao Regime Geral das Infrações Tributárias
+
+Os artigos 41.º e 52.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho, passam a ter a redação seguinte:
+
+«Artigo 41.º
+
+[...]
+
+1 - Sem prejuízo de a todo o tempo o processo poder ser avocado pelo Ministério Público, a competência para os atos de inquérito a que se refere o n.º 2 do artigo 40.º presume-se delegada:
+
+a) [...]
+
+b) Relativamente aos crimes fiscais, no diretor de finanças que exercer funções na área onde o crime tiver sido cometido ou no diretor da Unidade dos Grandes Contribuintes, ou no diretor da Direção de Serviços de Investigação da Fraude e de Ações Especiais nos processos por crimes que venham a ser indiciados por estas no exercício das suas atribuições;
+
+c) [...].
+
+2 - [...].
+
+3 - [...].
+
+Artigo 52.º
+
+[...]
+
+[...]:
+
+a) [...].
+
+b) Tratando-se de contraordenação fiscal, a aplicação das coimas previstas nos artigos 114.º e 116.º a 126.º, bem como das contraordenações autónomas, ao dirigente do serviço tributário local da área onde a infração teve lugar e a aplicação das coimas previstas nos artigos 114.º, 118.º, 119.º e 126.º, quando o imposto em falta seja superior a (euro) 25 000, e nos artigos 113.º, 115.º, 127.º, 128.º e 129.º ao diretor de finanças da área onde a infração teve lugar, ou ao diretor da Unidade dos Grandes Contribuintes, relativamente aos contribuintes cujo acompanhamento permanente seja sua atribuição, competindo-lhes, ainda, a aplicação de sanções acessórias.»
+
+### Artigo 7.º — Alteração ao Decreto-Lei n.º 118/2011, de 15 de dezembro
+
+O artigo 14.º do Decreto-Lei n.º 118/2011, de 15 de dezembro, passa a ter a redação seguinte:
+
+«Artigo 14.º
+
+[...]
+
+1 - A estrutura e competência territorial ou específica dos serviços desconcentrados da AT são definidas por portaria do membro do Governo responsável pela área das finanças.
+
+2 - [...].»
+
+### Artigo 8.º — Aditamento à Lei Geral Tributária
+
+É aditado, à Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, o artigo 68.º-B, com a seguinte redação:
+
+«Artigo 68.º-B
+
+Contribuintes de elevada relevância económica e fiscal
+
+1 - Sem prejuízo dos princípios que regem o procedimento tributário, designadamente dos princípios da legalidade e da igualdade, a administração tributária pode, atendendo à elevada relevância económica e fiscal de alguns contribuintes, considerá-los como grandes contribuintes para efeitos do seu acompanhamento permanente e gestão tributária.
+
+2 - Compete ao diretor-geral da Autoridade Tributária e Aduaneira determinar, em função de critérios previamente definidos, a integração de contribuintes de elevada relevância económica e fiscal no grupo de grandes contribuintes e, de entre estes, quais os que devem ter acompanhamento permanente em matérias não aduaneiras por gestor tributário.
+
+3 - Os critérios a que se refere o número anterior são fixados em portaria do membro do Governo responsável pela área das finanças e servem para determinar a eventual relevância económica e fiscal dos contribuintes e a sua qualificação ou desqualificação como grandes contribuintes, devendo abranger:
+
+a) As entidades com um volume de negócios superior a montante a definir;
+
+b) As Sociedades Gestores de Participações Sociais, constituídas nos termos do Decreto-Lei n.º 495/88, de 30 de dezembro, com um valor total de rendimentos superior a montante a definir;
+
+c) As entidades com valor global de pagamento de impostos superior a montante a definir;
+
+d) As sociedades integradas em grupos abrangidos pelo regime especial de tributação dos grupos de sociedades, nos termos do artigo 69.º do Código do IRC, em que alguma das sociedades integrantes do grupo, dominante ou dominada, seja abrangida pelas condições definidas em qualquer das alíneas anteriores;
+
+e) As sociedades não abrangidas por qualquer das alíneas anteriores que sejam consideradas relevantes atendendo à sua relação jurídica ou económica com as sociedades abrangidas por essas alíneas.»
+
+### Artigo 9.º — Competências próprias do diretor da Unidade dos Grandes Contribuintes
+
+Consideram-se reportadas ao diretor da Unidade dos Grandes Contribuintes da Autoridade Tributária e Aduaneira, relativamente aos grandes contribuintes, as competências que os códigos tributários e demais legislação não aduaneira remetam, expressa ou implicitamente, para os chefes de finanças, para os diretores de finanças e para o diretor dos Serviços de Inspeção Tributária, designadamente, as remetidas nos diplomas legais seguintes:
+
+a) Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro;
+
+b) Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro;
+
+c) Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro;
+
+d) (Revogada.)
+
+e) Código do Imposto Municipal sobre a Transmissão Onerosa de Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de novembro;
+
+f) Código do Imposto de Selo, aprovado pela Lei n.º 150/99, de 11 de setembro;
+
+g) Código do Imposto Único de Circulação, aprovado pela Lei n.º 22-A/2007, de 29 de junho;
+
+h) Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho.
+
+i) Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, exceto no que se refere aos benefícios associados ao imposto regulado pelo Código do Imposto Municipal sobre os Imóveis.
+
+> Alterado pelo/a Artigo 323.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01, produz efeitos a partir de 2017-08-29
+
+> Alterado pelo/a Artigo 4.º do/a Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28, em vigor a partir de 2017-08-29
+
+### Artigo 10.º — Serviços periféricos de competência específica
+
+Caso venham a ser criados os serviços periféricos de competência específica a que se refere o n.º 5 do artigo 6.º do Decreto-Lei n.º 433/99, de 26 de outubro, na redação dada pelo presente decreto-lei, os atos que, nos termos da lei, devam ser praticados, em razão do território, nos serviços periféricos locais respetivos, podem ser praticados em qualquer um dos serviços periféricos de competência específica.
+
+### Artigo 11.º — Norma revogatória
+
+É revogado o n.º 2 do artigo 75.º do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro.
+
+### Artigo 12.º — Produção de efeitos
+
+Com exceção das alterações aos artigos 12.º, 63.º-A e 64.º do Regime Complementar do Procedimento de Inspeção Tributária, o presente decreto-lei reporta os seus efeitos a 1 de janeiro de 2012.
+
+Visto e aprovado em Conselho de Ministros de 22 de novembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
+
+Promulgado em 9 de janeiro de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 11 de janeiro de 2013.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

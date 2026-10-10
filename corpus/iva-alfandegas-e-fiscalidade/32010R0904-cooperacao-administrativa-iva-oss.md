@@ -20,7 +20,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010R0904
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02010R0904-20250414
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32010R0904 — Cooperação administrativa IVA (OSS)

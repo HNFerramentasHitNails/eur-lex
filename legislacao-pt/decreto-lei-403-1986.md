@@ -1,0 +1,2734 @@
+---
+diploma: Decreto-Lei n.º 403/86
+tipo: Decreto-Lei
+numero: 403/1986
+data_publicacao: '1986-12-03'
+sumario: Aprova o Código do Registo Comercial
+texto: consolidado (DRE)
+versao_consolidada_de: '2024-04-03'
+transpoe:
+- 32015L0849
+- 32017L1132
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-34444675
+eli: https://data.dre.pt/eli/dec-lei/403/1986/p/cons/20240403/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 403/86
+
+**Sumário:** Aprova o Código do Registo Comercial
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)); 32017L1132 (Direito das sociedades).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2024-04-03. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-34444675
+
+## Texto
+
+1. O Código do Registo Comercial, que agora se publica, surge na sequência das reformas que têm vindo a ser empreendidas nos registos civil e predial, tendo em vista a sua modernização e a simplificação de formalismos, de modo a facilitar a tarefa do público, com simultâneo reforço da segurança do comércio jurídico.
+
+Com ele pretende-se também introduzir as modificações requeridas pela entrada em vigor do novo Código das Sociedades Comerciais (aprovado pelo Decreto-Lei n.º 262/86, de 2 de Setembro), dar cumprimento a directivas das Comunidades e preparar uma nova articulação com o Registo Nacional de Pessoas Colectivas, cuja reestruturação está a ser promovida.
+
+2. O segredo é, tradicionalmente, considerado uma das condições do êxito no comércio, mas cada vez mais se sente a necessidade de dar publicidade a certos tipos de situações das entidades que intervêm na vida comercial, para desenvolvimento do crédito e para protecção dos próprios comerciantes, dos consumidores e do interesse público.
+
+3. Foi para garantir a segurança do comércio jurídico que o Código Comercial de 1833 criou um registo público de comércio, então junto dos tribunais de comércio (artigos 209.º a 217.º), pois que tinham desaparecido os registos das velhas corporações.
+
+O Código Comercial de 1888 manteve tal registo (artigos 45.º a 61.º), que veio a ser regulamentado pelo Decreto de 15 de Novembro de 1888. Só nas comarcas de Lisboa e do Porto os tribunais de comércio tinham secretários privativos, sendo nas restantes as funções registrais desempenhadas pelo delegado do procurador da República. Posteriormente, foram desanexados os serviços de registo comercial dos Tribunais de Comércio de Lisboa, Porto, Coimbra, Braga e Funchal e atribuídos a conservadores privativos (Decreto n.º 5555, de 10 de Maio de 1919, e Decreto n.º 9153, de 29 de Setembro de 1923).
+
+Uma vez suprimida a jurisdição comercial (pelo Decreto n.º 21649, de 29 de Setembro de 1932), o artigo 322.º do Código do Registo Comercial (aprovado pelo Decreto n.º 17070, de 4 de Julho de 1929, alterado pelo Decreto n.º 22253, de 25 de Fevereiro de 1933) veio determinar que nas comarcas onde não houvesse conservatórias privativas do registo comercial seriam os respectivos serviços desempenhados pelos conservadores do registo predial, deixando então de estar a cargo dos delegados do procurador da República.
+
+Os serviços do registo comercial sofreram nova alteração com a publicação da Lei n.º 2049, de 6 de Agosto de 1951, que os manteve estreitamente ligados ao registo predial.
+
+O registo comercial tem hoje o seu regime fundamentalmente no Decreto-Lei n.º 42644, de 14 de Novembro de 1959, e no regulamento aprovado pelo Decreto n.º 42645, da mesma data.
+
+4. Mantendo embora o mesmo objectivo de publicidade, como meio de alcançar a segurança no comércio jurídico, o novo Código vem introduzir profundas alterações ao regime anterior.
+
+5. Abandona-se a tradicional subsidiariedade do regime do registo comercial relativamente ao do registo predial. Por isso, o diploma aparece com disposições sobre matérias que até hoje estavam contidas apenas no Código do Registo Predial e com um carácter sistemático e sintético que legitima a sua designação.
+
+6. O registo comercial passa a ser reservado à publicidade relativa às pessoas ligadas à vida comercial, em sentido amplo, deixando de incluir o registo de navios. Transitoriamente, mantêm-se em vigor as disposições que lhes são aplicáveis enquanto não se completar a reforma dos registos de veículos automóveis e aeronaves.
+
+7. Abandona-se a concepção do registo comercial como registo dos comerciantes, aliás só aparentemente seguida pela lei actual. Nele se incluem as pessoas, singulares ou colectivas, profissional ou estatutariamente ligadas ao comércio, em sentido amplo, independentemente de serem ou não comerciantes. Por isso, ficam abrangidos pelo registo comercial os comerciantes individuais e as sociedades comerciais, mas não só estes. Também a ele se sujeitam as sociedades civis sob forma comercial, como resultava já do artigo 106.º do Código Comercial.
+
+Na sua disciplina se incorporam as cooperativas, cujo registo, formalmente autonomizado, tem continuado, de facto, a ser feito pelas conservatórias do registo comercial, de harmonia com o artigo 101.º do Código Cooperativo. Nem se vêem motivos de ordem técnica ou conceitual que justifiquem suficientemente tal autonomia.
+
+Já estavam sujeitas ao mesmo registo as empresas públicas (pelo Decreto-Lei n.º 77/79, de 7 de Abril), assim como os agrupamentos complementares de empresas (na sequência da base IV da Lei n.º 4/73, de 4 de Junho, e do artigo 4.º do Decreto-Lei n.º 430/73, de 25 de Agosto).
+
+Pela primeira vez são abrangidos pelo registo comercial os agrupamentos europeus de interesse económico [criados pelo Regulamento (CEE) n.º 2137/85 do Conselho, de 25 de Julho de 1985] e ainda os estabelecimentos individuais de responsabilidade limitada, nova forma de exercício de actividade pelos comerciantes individuais (criada pelo Decreto-Lei n.º 248/86, de 25 de Agosto).
+
+Todas estas entidades, apesar das especificidades da sua natureza e do seu regime substantivo, ficam submetidas ao mesmo regime registral, variando apenas o número e a espécie de actos a publicitar.
+
+8. Quanto às sociedade comerciais e às sociedades civis sob forma comercial, este diploma vai permitir executar os princípios contidos no novo Código das Sociedades Comerciais. Entre as principais inovações salienta-se o carácter constitutivo do registo e a possibilidade de registo prévio do contrato de sociedade.
+
+9. O registo passa a compreender, para além da matrícula (reduzida a mera ficha de identificação), das inscrições e dos averbamentos, o depósito de documentos e as publicações legais.
+
+A cada pessoa singular ou colectiva, assim como a cada estabelecimento individual de responsabilidade limitada, passa a corresponder uma pasta em que ficarão arquivados a ficha dos registos, as requisições de actos registrais e todos os documentos que os instruem.
+
+Aliás, nenhum acto sujeito a registo poderá ser lavrado sem que se encontrem depositados os respectivos documentos. E este depósito é tão importante que a omissão ou deficiência da inscrição ou do averbamento não prejudica os efeitos atribuídos por lei ao registo, desde que os documentos estejam depositados.
+
+Além disso, na sequência da 1.ª Directiva Comunitária, na pasta de cada sociedade passa a ser depositado o texto integral do contrato de sociedade, actualizado após cada alteração.
+
+As publicações legais serão feitas depois do registo, por iniciativa do conservador, embora a expensas dos interessados. Saliente-se que muitas publicações passam a poder ser feitas, à escolha do interessado, por simples menção do depósito na pasta respectiva, e não só integralmente ou por extracto, como até aqui.
+
+Só terão de ser publicados integralmente os actos constitutivos de pessoas colectivas e respectivas alterações, os documentos de prestação de contas e a acta do encerramento da liquidação das sociedades anónimas.
+
+10. Os registos são pedidos em impresso próprio, que pode ser assinado não só pelos interessados e seus procuradores, mas também por advogados e solicitadores.
+
+Assegura-se ainda a prioridade dos actos recusados, em caso de reclamação ou de recurso julgados procedentes.
+
+11. Aponta a 1.ª Directiva Comunitária para que as publicações sejam feitas no boletim nacional designado pelo Estado membro (artigo 3.º, n.º 4). Daí que, na doutrina mais autorizada, tenha sido posta em dúvida a vantagem, numa perspectiva de direito a constituir, da publicação num jornal não oficial. Acontece, no entanto, que, em termos de realidade, os jornais oficiais (Diário da República e folhas oficiais das regiões autónomas) poderão não assegurar ainda, só por si, a finalidade última de qualquer publicação: o efectivo conhecimento dos actos de registo.
+
+Daí que se estabeleça um período transitório sobre o regime das publicações obrigatórias; um período de três anos parece suficiente para promover uma gradual convolação para o novo sistema.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Nota: Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12 Determinado o diferimento da produção de efeitos das alterações efetuadas pelo Decreto-Lei nº. 202/2012, de 27 de agosto.
+
+### Artigo 1.º
+
+É aprovado o Código do Registo Comercial, que faz parte do presente decreto-lei.
+
+### Artigo 2.º
+
+1 - Na contagem dos prazos previstos no artigo 19.º do Código será levado em conta o tempo decorrido antes da data da sua entrada em vigor.
+
+2 - Os registos não sujeitos a caducidade segundo a lei anterior podem ser renovados nos seis meses posteriores à data da entrada em vigor deste Código.
+
+### Artigo 3.º
+
+1 - A aplicação do sistema de depósito e de fichas fica dependente da aprovação da Lei Orgânica do Registo de Comércio.
+
+2 - Para os actos de registo relativos a pessoas singulares ou colectivas já registadas podem ser transitoriamente utilizados os livros actualmente em vigor, escriturados nos mesmos termos que as fichas, com as adaptações necessárias.
+
+3 - Dentro das possibilidades de cada conservatória, até à total substituição dos livros e à medida que forem sendo pedidos novos actos de registo, serão extractados nas fichas os actos de registo em vigor que lhes digam respeito, com indicação dos respectivos números e anotando-se nos livros a abertura da ficha.
+
+4 - Durante um período transitório de três anos, a contar da entrada em vigor do presente Código, as publicações referidas nas alíneas a), b), d), e) e f) do n.º 1 do artigo 70.º do Código devem ser feitas não apenas nas folhas oficiais mencionadas nos n.os 2 e 3 desse artigo 70.º, como ainda num jornal da localidade da sede da sociedade ou, na falta deste, num dos jornais aí mais lidos.
+
+5 - Às publicações a que se refere a parte final do n.º 4 do presente artigo aplica-se o regime dos artigos 71.º e 72.º do Código, cabendo ao interessado indicar, no pedido de registo, o jornal em que pretende seja feita a publicação, com observância do disposto no número anterior.
+
+> Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 4.º
+
+Os livros de registo substituídos integralmente por fichas e os documentos que serviram de base aos respectivos registos podem ser microfilmados e destruídos ou depositados em arquivos centrais, nos termos fixados por despacho do Ministro da Justiça.
+
+### Artigo 5.º
+
+1 - Sem prejuízo do disposto no n.º 2, é revogada toda a legislação anterior referente às matérias abrangidas pelo Código do Registo Comercial, designadamente o Decreto-Lei n.º 42644, de 14 de Novembro de 1959, o regulamento aprovado pelo Decreto n.º 42645, de 14 de Novembro de 1959, a Portaria n.º 330/79, de 7 de Julho, e os artigos 17.º, 18.º, 84.º a 94.º e 101.º do Código Cooperativo.
+
+2 - As disposições referentes ao registo de navios mantêm-se em vigor até à publicação de nova legislação sobre a matéria.
+
+### Artigo 6.º
+
+1 - Os emolumentos cobrados pelos actos previstos no Código do Registo Comercial constituem receita do Cofre dos Conservadores, Notários e Funcionários de Justiça, que suportará igualmente as despesas de instalação e funcionamento da orgânica do registo de comércio.
+
+2 - As tabelas e a participação emolumentar são fixadas por portaria do Ministro da Justiça.
+
+### Artigo 7.º
+
+Este diploma entra em vigor em 1 de Janeiro de 1987.
+
+Visto e aprovado em Conselho de Ministros de 16 de Outubro de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
+
+Promulgado em 14 de Novembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 17 de Novembro de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo — CÓDIGO DO REGISTO COMERCIAL
+
+## Capítulo I — Objecto, efeitos e vícios do registo
+
+### Artigo 1.º — Fins do registo
+
+1 - O registo comercial destina-se a dar publicidade à situação jurídica dos comerciantes individuais, das sociedades comerciais, das sociedades civis sob forma comercial e dos estabelecimentos individuais de responsabilidade limitada, tendo em vista a segurança do comércio jurídico.
+
+2 - O registo das cooperativas, das empresas públicas, dos agrupamentos complementares de empresas e dos agrupamentos europeus de interesse económico, bem como de outras pessoas singulares e colectivas por lei a ele sujeitas, rege-se pelas disposições do presente Código, salvo expressa disposição de lei em contrário.
+
+### Artigo 2.º — Comerciantes individuais
+
+Estão sujeitos a registo os seguintes factos relativos a comerciantes individuais:
+
+a) O início, alteração e cessação da actividade do comerciante individual;
+
+b) As modificações do seu estado civil e regime de bens;
+
+c) A mudança de estabelecimento principal.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+### Artigo 3.º — Sociedades comerciais e sociedades civis sob forma comercial
+
+1 - Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:
+
+a) A constituição;
+
+b) A deliberação da assembleia geral, nos casos em que a lei a exige, para aquisição de bens pela sociedade;
+
+c) A unificação, divisão e transmissão de quotas de sociedades por quotas, bem como de partes sociais de sócios comanditários de sociedades em comandita simples;
+
+d) A promessa de alienação ou de oneração de partes de capital de sociedades em nome colectivo e de sociedades em comandita simples e de quotas de sociedades por quotas, bem como os pactos de preferência, se tiver sido convencionado atribuir-lhes eficácia real, e a obrigação de preferência a que, em disposição de última vontade, o testador tenha atribuído igual eficácia;
+
+e) A transmissão de partes sociais de sociedades em nome colectivo, de partes sociais de sócios comanditados de sociedades em comandita simples, a constituição de direitos reais de gozo ou de garantia sobre elas e a sua transmissão, modificação e extinção, bem como a penhora dos direitos aos lucros e à quota de liquidação;
+
+f) A constituição e a transmissão de usufruto, o penhor, o arresto, o arrolamento, a penhora e a apreensão em processo penal de quotas ou direitos sobre elas e ainda quaisquer outros atos ou providências que afetem a sua livre disposição, designadamente a declaração de insolvência relativamente a quotas ou direitos que integrem a massa insolvente;
+
+g) A exoneração e exclusão de sócios de sociedades em nome colectivo e de sociedades em comandita, bem como a extinção de parte social por falecimento do sócio e a admissão de novos sócios de responsabilidade ilimitada;
+
+h) (Revogada.)
+
+i) A amortização de quotas e a exclusão e exoneração de sócios de sociedades por quotas;
+
+j) A deliberação de amortização, conversão e remissão de acções;
+
+l) A emissão de obrigações, quando realizada através de oferta particular, excepto se tiver ocorrido, dentro do prazo para requerer o registo, a admissão das mesmas à negociação em mercado regulamentado de valores mobiliários;
+
+m) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização das sociedades, bem como do secretário da sociedade;
+
+n) A prestação de contas das sociedades anónimas, por quotas e em comandita por acções, bem como das sociedades em nome colectivo e em comandita simples quando houver lugar a depósito, e de contas consolidadas de sociedades obrigadas a prestá-las;
+
+o) A mudança da sede da sociedade e a transferência de sede para o estrangeiro;
+
+p) O projeto de fusão interna ou transfronteiriça, o projeto de cisão interna ou transfronteiriça e o projeto de transformação transfronteiriça de sociedades, bem como o aviso aos sócios, credores e representantes dos trabalhadores, ou, quando estes não existam, aos próprios trabalhadores, da possibilidade de apresentação de observações ao projeto de fusão, de cisão ou de transformação transfronteiriças;
+
+q) O projecto de constituição de uma sociedade anónima europeia por meio de fusão, o projecto de constituição de uma sociedade anónima europeia por meio de transformação de sociedade anónima de direito interno e o projecto de constituição de uma sociedade anónima europeia gestora de participações sociais, bem como a verificação das condições de que depende esta última constituição;
+
+r) A prorrogação, a fusão interna ou transfronteiriça, a cisão interna ou transfronteiriça, a transformação interna ou transfronteiriça e a dissolução das sociedades, bem como o aumento, a redução ou a reintegração do capital social e qualquer outra alteração ao contrato de sociedade;
+
+s) A designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários das sociedades, bem como os actos de modificação dos poderes legais ou contratuais dos liquidatários;
+
+t) O encerramento da liquidação ou o regresso à actividade da sociedade;
+
+u) A deliberação de manutenção do domínio total de uma sociedade por outra, em relação de grupo, bem como o termo dessa situação;
+
+v) O contrato de subordinação, suas modificações e seu termo.
+
+x) (Revogada.)
+
+z) A emissão de warrants sobre valores mobiliários próprios, quando realizada através de oferta particular por entidade que não tenha valores mobiliários admitidos à negociação em mercado regulamentado nacional, excepto se tiver ocorrido, dentro do prazo para requerer o registo, a admissão dos mesmos à negociação em mercado regulamentado de valores mobiliários.
+
+2 - Estão sujeitos a registo os seguintes factos relativos às sociedades anónimas europeias:
+
+a) A constituição;
+
+b) A prestação das contas anuais e, se for caso disso, das contas consolidadas;
+
+c) O projecto de transferência da sede para outro Estado membro da União Europeia;
+
+d) As alterações aos respectivos estatutos;
+
+e) O projecto de transformação em sociedade anónima de direito interno;
+
+f) A transformação a que se refere a alínea anterior;
+
+g) A dissolução;
+
+h) O encerramento da liquidação ou o regresso à actividade da sociedade;
+
+i) Os restantes factos referentes a sociedades anónimas que, por lei, estejam sujeitos a registo.
+
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+> Alterado pelo/a Artigo 7.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 14.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 29.º do/a Lei n.º 19/2009 - Diário da República n.º 91/2009, Série I de 2009-05-12, em vigor a partir de 2009-06-11
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25, em vigor a partir de 2004-03-30
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 107/2003 - Diário da República n.º 129/2003, Série I-A de 2003-06-04, em vigor a partir de 2003-06-09
+
+> Alterado pelo/a Artigo 18.º do/a Decreto-Lei n.º 172/99 - Diário da República n.º 117/1999, Série I-A de 1999-05-20, em vigor a partir de 1999-05-25
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 257/96 - Diário da República n.º 302/1996, Série I-A de 1996-12-31, em vigor a partir de 1997-01-05
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 328/95 - Diário da República n.º 283/1995, Série I-A de 1995-12-09, em vigor a partir de 1996-01-08
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 238/91 - Diário da República n.º 149/1991, Série I-A de 1991-07-02, produz efeitos a partir de 1991-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 4.º — Cooperativas
+
+Estão sujeitos a registo os seguintes factos relativos a cooperativas:
+
+a) A constituição da cooperativa;
+
+b) A nomeação e cessação de funções, por qualquer causa que não seja o decurso do tempo, de directores, representantes e liquidatários;
+
+c) (Revogada.)
+
+d) A prorrogação, transformação, fusão, cisão e qualquer outra alteração dos estatutos;
+
+e) A dissolução e encerramento da liquidação.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 5.º — Empresas públicas
+
+1 - Estão sujeitos a registo os seguintes factos relativos a empresas públicas:
+
+a) A constituição da empresa pública;
+
+b) A emissão de obrigações e de títulos de participação;
+
+c) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização;
+
+d) A prestação de contas;
+
+e) O agrupamento, fusão, cisão e qualquer outra alteração dos estatutos;
+
+f) A extinção das empresas públicas, a designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários, bem como o encerramento da liquidação.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 7/88 - Diário da República n.º 12/1988, Série I de 1988-01-15, em vigor a partir de 1988-01-20
+
+### Artigo 6.º — Agrupamentos complementares de empresa
+
+Estão sujeitos a registo os seguintes factos relativos a agrupamentos complementares de empresas:
+
+a) O contrato de agrupamento;
+
+b) A emissão de obrigações;
+
+c) A nomeação e exoneração de administradores e gerentes;
+
+d) A entrada, exoneração e exclusão de membros do agrupamento;
+
+e) As modificações do contrato;
+
+f) A dissolução e encerramento da liquidação do agrupamento.
+
+### Artigo 7.º — Agrupamentos europeus de interesse económico
+
+Estão sujeitos a registo os seguintes factos relativos aos agrupamentos europeus de interesse económico:
+
+a) O contrato de agrupamento;
+
+b) A cessão, total ou parcial, de participação de membro do agrupamento;
+
+c) A cláusula que exonere um novo membro do pagamento das dívidas contraídas antes da sua entrada;
+
+d) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos gerentes do agrupamento;
+
+e) A entrada, exoneração e exclusão de membros do agrupamento;
+
+f) As alterações do contrato de agrupamento;
+
+g) O projecto de transferência da sede;
+
+h) A dissolução;
+
+i) A designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários;
+
+j) O encerramento da liquidação.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 8.º — Estabelecimentos individuais de responsabilidade limitada
+
+Estão sujeitos a registo os seguintes factos relativos a estabelecimentos individuais de responsabilidade limitada:
+
+a) A constituição do estabelecimento;
+
+b) O aumento e redução do capital do estabelecimento;
+
+c) A transmissão do estabelecimento por acto entre vivos e a sua locação;
+
+d) A constituição por acto entre vivos de usufruto e de penhor sobre o estabelecimento;
+
+e) As contas anuais;
+
+f) As alterações do acto constitutivo;
+
+g) A entrada em liquidação e o encerramento da liquidação do estabelecimento;
+
+h) A designação e cessação de funções, anterior ao termo da liquidação, do liquidatário do estabelecimento, quando não seja o respectivo titular.
+
+### Artigo 9.º — Acções e decisões sujeitas a registo
+
+Estão sujeitas a registo:
+
+a) (Revogada.);
+
+b) As acções que tenham como fim, principal ou acessório, declarar, fazer reconhecer, constituir, modificar ou extinguir qualquer dos direitos referidos nos artigos 3.º a 8.º;
+
+c) As acções de declaração de nulidade ou anulação dos contratos de sociedade, de agrupamento complementar de empresas e de agrupamento europeu de interesse económico registados;
+
+d) As acções de declaração de nulidade ou anulação dos actos de constituição de cooperativas e de estabelecimentos individuais de responsabilidade limitada;
+
+e) As acções de declaração de nulidade ou anulação de deliberações sociais, bem como os procedimentos cautelares de suspensão destas;
+
+f) As acções de reforma, declaração de nulidade ou anulação de um registo ou do seu cancelamento;
+
+g) As providências cautelares não especificadas requeridas com referência às mencionadas nas alíneas anteriores;
+
+h) As decisões finais, com trânsito em julgado, proferidas nas acções e procedimentos cautelares referidos nas alíneas anteriores;
+
+i) As sentenças de declaração de insolvência de comerciantes individuais, de sociedades comerciais, de sociedades civis sob forma comercial, de cooperativas, de agrupamentos complementares de empresas, de agrupamentos europeus de interesse económico e de estabelecimentos individuais de responsabilidade limitada, e as de indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, bem como o trânsito em julgado das referidas sentenças;
+
+j) As decisões judiciais, com trânsito em julgado, que decretem ou façam cessar medidas de acompanhamento de comerciantes individuais relativas ao exercício do comércio ou para o exercício do cargo de gerente, administrador ou de outro membro de órgão social sujeito a registo, bem como as decisões de nomeação e de destituição do acompanhante;
+
+l) Os despachos de nomeação e de destituição do administrador judicial e do administrador judicial provisório da insolvência, de atribuição ao devedor da administração da massa insolvente, assim como de proibição da prática de certos actos sem o consentimento do administrador da insolvência e os despachos que ponham termo a essa administração;
+
+m) Os despachos, com trânsito em julgado, de exoneração do passivo restante de comerciantes individuais, assim como os despachos inicial e de cessação antecipada do respectivo procedimento e de revogação dessa exoneração;
+
+n) As decisões judiciais de encerramento do processo de insolvência;
+
+o) As decisões judiciais de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2023-12-06
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 10.º — Outros factos sujeitos a registo
+
+Estão ainda sujeitos a registo:
+
+a) O mandato comercial escrito, suas alterações e extinção;
+
+b) (Revogada.)
+
+c) A criação, a alteração e o encerramento de representações permanentes de sociedades, cooperativas, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico com sede em Portugal ou no estrangeiro, bem como a designação, poderes e cessação de funções dos respectivos representantes;
+
+d) A prestação de contas das sociedades com sede no estrangeiro e representação permanente em Portugal;
+
+e) O contrato de agência ou representação comercial, quando celebrado por escrito, suas alterações e extinção;
+
+f) (Revogada.)
+
+g) Quaisquer outros factos que a lei declare sujeitos a registo comercial.
+
+> Alterado pelo/a Artigo 22.º do/a Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31, em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 10.º-A — Representações permanentes de sociedades com sede em país da União Europeia
+
+1 - Estão especialmente sujeitos a registo sobre as representações permanentes de sociedades de responsabilidade limitada com sede em país da União Europeia, os seguintes factos relativos à sociedade representada:
+
+a) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou à denominação, à sede e à natureza jurídica da sociedade, bem como a designação e a cessação de funções dos membros dos órgãos sociais;
+
+b) A abertura e o encerramento dos processos de liquidação e de insolvência;
+
+c) O cancelamento do registo da sociedade.
+
+2 - O registo dos factos previstos no número anterior é efetuado oficiosamente, na sequência de comunicação, através do sistema de interconexão dos registos da União Europeia, pelo registo competente do respetivo Estado-Membro da União Europeia.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+### Artigo 11.º — Presunções derivadas do registo
+
+O registo por transcrição definitivo constitui presunção de que existe a situação jurídica, nos precisos termos em que é definida.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 12.º — Prioridade do registo
+
+O facto registado em primeiro lugar prevalece sobre os que se lhe seguirem, relativamente às mesmas quotas ou partes sociais, segundo a ordem do respectivo pedido.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 13.º — Eficácia entre as partes
+
+1 - Os factos sujeitos a registo, ainda que não registados, podem ser invocados entre as próprias partes ou seus herdeiros.
+
+2 - Exceptuam-se do disposto no número anterior os actos constitutivos das sociedades e respectivas alterações, a que se aplica o disposto no Código das Sociedades Comerciais e na legislação aplicável às sociedades anónimas europeias.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+### Artigo 14.º — Oponibilidade a terceiros
+
+1 - Os factos sujeitos a registo só produzem efeitos contra terceiros depois da data do respectivo registo.
+
+2 - Os factos sujeitos a registo e publicação obrigatória nos termos do n.º 2 do artigo 70.º só produzem efeitos contra terceiros depois da data da publicação.
+
+3 - A falta de registo não pode ser oposta aos interessados pelos seus representantes legais, a quem incumbe a obrigação de o promover, nem pelos herdeiros destes.
+
+4 - O disposto no presente artigo não prejudica o estabelecido no Código das Sociedades Comerciais e na legislação aplicável às sociedades anónimas europeias.
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2006-07-13
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+### Artigo 14.º-A — Página eletrónica da entidade
+
+1 - O registo definitivo da entidade determina a disponibilização, pelo Instituto dos Registos e do Notariado, I. P., de informação associada à entidade, em página eletrónica específica dedicada à entidade, que permite, nomeadamente, o acesso à sua situação de registo, aos serviços online de registo e ao histórico de interação com os serviços de registo, em termos a determinar por portaria do membro do Governo responsável pela área da justiça.
+
+2 - A página eletrónica da entidade pode ainda conter a informação detida por outras entidades públicas, nos termos a definir por deliberação do conselho diretivo do Instituto dos Registos e do Notariado, I. P., sem prejuízo da legislação especial aplicável.
+
+3 - O Instituto dos Registos e do Notariado, I. P., enquanto entidade gestora da página eletrónica da entidade, é responsável pelo tratamento de dados pessoais que dela constem.
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+### Artigo 15.º — Factos sujeitos a registo obrigatório
+
+1 - O registo dos factos referidos nas alíneas a) a c) e e) a z) do n.º 1 e no n.º 2 do artigo 3.º, no artigo 4.º, nas alíneas a), e) e f) do artigo 5.º do artigo 5.º, nos artigos 6.º, 7.º e 8.º e nas alíneas c) e d) do artigo 10.º é obrigatório.
+
+2 - Salvo o disposto nos números seguintes, o registo dos factos referidos no número anterior deve ser pedido no prazo de dois meses a contar da data em que tiverem sido titulados.
+
+3 - O registo dos factos referidos nas alíneas a), e) e f) do artigo 5.º deve ser requerido no prazo de dois meses a contar da data da publicação do decreto que os determinou.
+
+4 - O pedido de registo de prestação de contas de sociedades e de estabelecimentos individuais de responsabilidade limitada deve ser efectuado até ao 15.º dia do 7.º mês posterior à data do termo do exercício económico.
+
+5 - Estão igualmente sujeitas a registo obrigatório as acções, decisões, procedimentos e providências cautelares previstas no artigo 9.º
+
+6 - O registo do procedimento cautelar não é obrigatório se já se encontrar pedido o registo da providência cautelar requerida e o registo desta não é obrigatório se já se encontrar pedido o registo da acção principal.
+
+7 - O registo das acções e dos procedimentos cautelares de suspensão de deliberações sociais devem ser pedidos no prazo de dois meses a contar da data da sua propositura.
+
+8 - O registo das decisões finais proferidas nas acções e procedimentos referidos no número anterior deve ser pedido no prazo de dois meses a contar do trânsito em julgado.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 292/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13, em vigor a partir de 2009-10-18
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Retificado pelo/a Declaração de Rectificação n.º 28-A/2006 - Diário da República n.º 102/2006, 1º Suplemento, Série I-A de 2006-05-26, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 410/99 - Diário da República n.º 241/1999, Série I-A de 1999-10-15, em vigor a partir de 1999-10-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 16.º — Remessa das relações mensais dos actos notariais e decisões judiciais
+
+1 - Até ao dia 15 de cada mês, os notários devem remeter à conservatória situada no concelho da sede da entidade sujeita a registo a relação dos documentos lavrados no mês anterior, para prova dos factos sujeitos a registo comercial obrigatório.
+
+2 - De igual modo devem proceder as secretarias dos tribunais, com referência às decisões previstas no n.º 6 do artigo anterior.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 17.º — Incumprimento da obrigação de registar dentro do prazo
+
+1 - Pelo registo dos factos previstos no artigo 15.º, para além dos prazos aí mencionados, é devido o pagamento em dobro do emolumento aplicável.
+
+2 - O disposto no número anterior não se aplica aos tribunais e ao Ministério Público.
+
+3 - O incumprimento da obrigação de registar a prestação de contas obsta ao registo de outros factos sobre a entidade, com exceção dos registos de designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização, de atos emanados de autoridade administrativa, das ações, decisões, procedimentos e providências cautelares previstas no artigo 9.º, bem como do arresto, do arrolamento, da penhora e da apreensão em processo penal, de quotas ou direitos sobre elas, outros atos ou providências que afetem a sua livre disposição, e quaisquer outros registos a efetuar por depósito.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+> Alterado pelo/a Artigo 14.º do/a Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30, em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-01
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 73/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16, em vigor a partir de 2008-04-17
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 26.º do/a Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17, em vigor a partir de 2001-12-22
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 18.º — Caducidade
+
+1 - Os registos caducam por força da lei ou pelo decurso do prazo de duração do negócio.
+
+2 - Os registos provisórios caducam se não forem convertidos em definitivos ou renovados dentro do prazo da respectiva vigência.
+
+3 - É de seis meses o prazo de vigência do registo provisório, salvo disposição em contrário.
+
+4 - A caducidade deve ser anotada ao registo logo que verificada.
+
+### Artigo 19.º — Prazos especiais de caducidade
+
+1 - Caducam decorridos 10 anos sobre a sua data os registos de arresto, penhora, penhor, consignação de rendimentos, apreensão, arrolamento e outras providências cautelares, bem como os de prestação de contas.
+
+2 - Caducam decorridos 50 anos sobre a sua data os registos de usufruto de quotas e de partes sociais e os de mandato comercial.
+
+3 - Os registos referidos nos números anteriores podem ser renovados por períodos de igual duração.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 20.º — Cancelamento
+
+Os registos são cancelados com base na extinção dos direitos, ónus ou encargos neles definidos, em execução de decisão administrativa, nos casos previstos na lei, ou de decisão judicial transitada em julgado.
+
+### Artigo 21.º — Inexistência
+
+1 - O registo é juridicamente inexistente quando tiver sido feito em conservatória territorialmente incompetente.
+
+2 - A inexistência pode ser invocada por qualquer pessoa, a todo o tempo, independentemente de declaração judicial.
+
+3 - No caso previsto no n.º 1, o conservador deve transferir o processo para a conservatória competente, que efectua oficiosamente o registo, com comunicação ao interessado.
+
+### Artigo 22.º — Nulidade
+
+1 - O registo por transcrição é nulo:
+
+a) Quando for falso ou tiver sido feito com base em títulos falsos;
+
+b) Quando tiver sido feito com base em títulos insuficientes para a prova legal do facto registado;
+
+c) Quando enfermar de omissões ou inexactidões de que resulte incerteza acerca dos sujeitos ou do objecto da relação jurídica a que o facto registado se refere;
+
+d) Quando tiver sido assinado por pessoa sem competência funcional, salvo o disposto no n.º 2 do artigo 369.º do Código Civil, e não possa ser confirmado;
+
+e) Quando tiver sido lavrado sem apresentação prévia.
+
+2 - Os registos nulos só podem ser rectificados nos casos previstos na lei, se não estiver registada a acção de declaração de nulidade.
+
+3 - A nulidade do registo só pode, porém, ser invocada depois de declarada por decisão judicial com trânsito em julgado.
+
+4 - A declaração de nulidade do registo não prejudica os direitos adquiridos a título oneroso por terceiro de boa fé, se o registo dos correspondentes factos for anterior ao registo da acção de nulidade.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 23.º — Inexactidão
+
+O registo é inexacto quando se mostre lavrado em desconformidade com o título que lhe serviu de base ou enferme de deficiências provenientes desse título que não sejam causa de nulidade.
+
+### Artigo 23.º-A — Declaração do representante para efeitos tributários
+
+No momento do registo do encerramento da liquidação ou da cessação de actividade, consoante o caso, deve ser obrigatoriamente indicado o representante para efeitos tributários, nos termos do n.º 4 do artigo 19.º do Decreto-Lei n.º 398/98, de 17 de Dezembro, para comunicação obrigatória, e por via electrónica, aos serviços da administração tributária.
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+## Capítulo II — Competência para o registo
+
+### Artigo 24.º — Competência relativa aos comerciantes individuais e aos estabelecimentos individuais de responsabilidade limitada
+
+1 - Para o registo dos comerciantes individuais é territorialmente competente a conservatória em cuja área estiver situado o estabelecimento principal ou, na falta deste, onde exercerem a actividade principal e para o registo dos estabelecimentos individuais de responsabilidade limitada a conservatória em cuja área estiver situada a respectiva sede.
+
+2 - As conservatórias da área da situação de qualquer representação de comerciante individual são exclusivamente competentes para o registo do mandato comercial.
+
+> Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 25.º — Competência relativa a pessoas colectivas
+
+1 - Para o registo das sociedades, cooperativas, empresas públicas, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico é territorialmente competente a conservatória em cuja área estiver situada a sua sede estatutária.
+
+2 - Para o registo das sociedades ou outras pessoas colectivas ou estabelecimentos de tipo correspondente a qualquer dos abrangidos por este Código com sede estatutária no estrangeiro, mas que tenham em Portugal a sede principal e efectiva da sua administração, é territorialmente competente a conservatória em cuja área estiver situada esta sede.
+
+> Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 25.º-A — Competência para o registo de fusão
+
+Para o registo da fusão de sociedades sediadas na área de diferentes conservatórias, ao abrigo das regras definidas no artigo anterior, ou para o registo de constituição de sociedade anónima europeia por fusão em cujo processo intervenham sociedades nas mesmas condições, é competente a conservatória da sede da sociedade incorporante ou da nova sociedade resultante da fusão.
+
+> Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+### Artigo 26.º — Competência relativa às representações
+
+1 - Para o registo da representação permanente em Portugal de sociedades ou de outras pessoas colectivas de tipo correspondente a qualquer das abrangidas por este Código que tenham sede principal e efectiva da sua administração no estrangeiro, bem como do acto constitutivo da própria sociedade ou de outra pessoa colectiva, é competente a conservatória da área da situação dessa representação.
+
+2 - Para o registo de representações de pessoas colectivas sujeitas a registo com sede em Portugal e das demais representações de sociedades e de outras pessoas colectivas de tipo correspondente a qualquer dos abrangidos por este Código com sede no estrangeiro são competentes as conservatórias da área de situação dessas representações.
+
+3 - As conservatórias referidas no n.º 2 são exclusivamente competentes para o registo do mandato comercial de sociedades ou outras pessoas colectivas sujeitas a registo.
+
+4 - Para o registo do contrato de agência é competente a conservatória da área de situação da sede ou do estabelecimento do agente.
+
+> Revogado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 27.º — Mudança voluntária da sede ou do estabelecimento
+
+1 - Quando a sociedade ou outra entidade sujeita a registo solicitar o registo de alteração de sede para localidade pertencente a outro concelho, a conservatória remete oficiosamente a respectiva pasta à conservatória situada nesse concelho e de tal facto notifica a entidade em causa.
+
+2 - Tratando-se de transferência da sede de sociedade anónima europeia para outro Estado membro da União Europeia, a comunicação, pelo serviço de registo competente deste último, da nova matrícula da sociedade, em consequência do registo definitivo da transferência de sede e da correspondente alteração dos estatutos, determina o imediato registo oficioso da transferência de sede e o correspondente cancelamento da matrícula na conservatória nacional.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - O registo definitivo de alteração dos estatutos de sociedade anónima europeia pelo qual seja publicitada a transferência da sede daquela para Portugal deve ser imediatamente comunicado, em conjunto com a nova matrícula da sociedade, ao serviço de registo do Estado da anterior matrícula.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+## Capítulo III — Processo de registo
+
+### Artigo 28.º — Princípio da instância
+
+1 - O registo efectua-se a pedido dos interessados, salvo nos casos de oficiosidade previstos na lei.
+
+2 - Por portaria do Ministro da Justiça são identificadas as situações em que o pedido de registo é efectuado de forma verbal ou escrita.
+
+3 - Nos casos em que os pedidos devam ser apresentados de forma escrita, os modelos de requerimento de registo são aprovados por despacho do director-geral dos Registos e do Notariado.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 28.º-A — Apresentação por notário
+
+1 - O pedido de registo, subscrito pelos interessados, pode ser remetido ou apresentado directamente pelo notário na conservatória competente, acompanhado dos respectivos documentos e preparo, nos termos previstos na lei notarial.
+
+2 - Após a anotação da apresentação, é devolvido ao notário um documento comprovativo da apresentação efectuada.
+
+3 - No prazo de cinco dias após a feitura do registo, os documentos que não devam ficar depositados são devolvidos aos interessados juntamente com certidão dos registos em vigor e o excesso de preparo, se o houver.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Aditado pelo/a Artigo 7.º do/a Decreto-Lei n.º 533/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11, em vigor a partir de 2000-01-10
+
+### Artigo 29.º — Legitimidade
+
+1 - Para pedir os actos de registo respeitantes a comerciantes individuais, salvo o referido no n.º 2, e a pessoas colectivas sujeitas a registo têm legitimidade os próprios ou seus representantes e todas as demais pessoas que neles tenham interesse.
+
+2 - O registo do início, alteração e cessação de actividade do comerciante individual, bem como da mudança do seu estabelecimento principal, só pode ser pedido pelo próprio ou pelo seu representante.
+
+3 - Para o pedido de registo provisório do contrato de sociedade anónima com apelo a subscrição pública de acções só têm legitimidade os respectivos promotores.
+
+4 - O Ministério Público tem legitimidade para pedir os registos das acções por ele propostas e respectivas decisões finais.
+
+5 - Salvo no que respeita ao registo de acções e outras providências judiciais, para pedir o registo de actos a efectuar por depósito apenas tem legitimidade a entidade sujeita a registo, sem prejuízo do disposto no artigo seguinte.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 29.º-A — Registo de factos relativos a participações sociais e respectivos titulares a promover pela sociedade
+
+1 - No caso de a sociedade não promover o registo, nos termos do n.º 5 do artigo anterior, qualquer pessoa pode solicitar junto da conservatória que esta promova o registo por depósito de factos relativos a participações sociais e respectivos titulares.
+
+2 - No caso previsto no número anterior, a conservatória notifica a sociedade para que esta, no prazo de 10 dias, promova o registo sob pena de, não o fazendo, a conservatória proceder ao registo, nos termos do número seguinte.
+
+3 - Se a sociedade não promover o registo nem se opuser, no mesmo prazo, a conservatória regista o facto, arquiva os documentos que tiverem sido entregues e envia cópia dos mesmos à sociedade.
+
+4 - A oposição da sociedade deve ser apreciada pelo conservador, ouvidos os interessados.
+
+5 - Se o conservador decidir promover o registo, a sociedade deve entregar ao requerente as quantias por este pagas a título de emolumentos e outros encargos e, no caso de o conservador indeferir o pedido, deve este entregar à sociedade as quantias por esta pagas a título de emolumentos e outros encargos.
+
+6 - A decisão do conservador de indeferir o pedido ou proceder ao registo é recorrível nos termos dos artigos 101.º e seguintes.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 29.º-B — Promoção do registo de factos relativos a participações sociais e respectivos titulares por outras entidades
+
+Nos casos em que o registo de factos relativos a participações sociais e respectivos titulares não deva ser promovido pela sociedade, designadamente no caso de acções e providências judiciais, o requerente do registo deve enviar à sociedade cópia dos documentos que titulem o facto, para que aquela os arquive.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 30.º — Representação
+
+1 - O registo pode ser pedido por:
+
+a) Aqueles que tenham poderes de representação para intervir no respectivo título;
+
+b) Mandatário com procuração bastante;
+
+c) Advogados, notários e solicitadores;
+
+d) Revisores e técnicos oficiais de contas, para o pedido de depósito dos documentos de prestação de contas.
+
+2 - A representação subsiste até à realização do registo, abrangendo, designadamente, a faculdade de requerer urgência na sua realização e a de impugnar a decisão de qualificação do registo, nos termos do artigo 101.º, e implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
+
+3 - Sem prejuízo do disposto no número anterior, a representação para efeitos de impugnação judicial só pode ser assegurada por mandatário com poderes especiais para o efeito ou com poderes forenses gerais.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 31.º — Princípio do trato sucessivo
+
+Para poder ser lavrada a inscrição definitiva de actos modificativos da titularidade de quotas ou partes sociais e de direitos sobre elas é necessária a intervenção nesses actos do titular inscrito, salvo se o facto for consequência de outro anteriormente inscrito.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 32.º — Prova documental
+
+1 - Só podem ser registados os factos constantes de documentos que legalmente os comprovem.
+
+2 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei, salvo se titularem factos sujeitos a registo por transcrição, estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.
+
+3 - Sem prejuízo do disposto nos números anteriores, podem ser depositadas na pasta da entidade sujeita a registo traduções, efectuadas nos termos da lei, de documentos respeitantes a actos submetidos a registos, em qualquer língua oficial da União Europeia, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+4 - Os documentos arquivados nos serviços da Administração Pública podem ser utilizados para a realização de registos por transcrição, devendo tais documentos ser referenciados no pedido.
+
+5 - Para efeitos do disposto no número anterior, o serviço de registo é reembolsado pelo apresentante das despesas resultantes dos pagamentos devidos às entidades referidas no número anterior.
+
+6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de registo comercial online de actos sobre sociedades comerciais ou civis sob forma comercial os respectivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos electrónicos por si entregues, através do sítio na Internet, com os documentos originais, em suporte de papel.
+
+7 - As comunicações recebidas através do sistema de interconexão dos registos da União Europeia dispensam a apresentação de prova documental adicional dos factos nelas contidos.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 30.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 33.º — Declarações complementares
+
+São admitidas declarações complementares dos títulos nos casos previstos na lei, designadamente para completa identificação dos sujeitos, sem prejuízo da exigência de prova do estado civil, e bem assim dos gerentes, administradores, directores, liquidatários e demais representates das pessoas colectivas.
+
+### Artigo 34.º — Comerciante individual
+
+1 - O registo do início, alteração e cessação de actividade do comerciante individual, bem como da modificação dos seus elementos de identificação, efectua-se com base na declaração do interessado.
+
+2 - Com o pedido de registo de modificação do estado civil ou do regime de bens do comerciante individual deve ser arquivado o respectivo documento comprovativo.
+
+3 - O registo de cessação de atividade do comerciante individual é realizado oficiosa e gratuitamente, na sequência da comunicação ao Instituto dos Registos e do Notariado, I. P., das decisões de inibição e de destituição para efeitos de integração da informação na base de dados de inibições e destituições.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2023-12-06
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 35.º — Sociedades
+
+1 - Para o registo de sociedades cuja constituição esteja dependente de qualquer autorização especial é necessário o arquivamento do respectivo documento comprovativo, salvo se o acto de constituição for titulado por escritura pública que o mencione.
+
+2 - O registo prévio do contrato de sociedade é efectuado em face do projecto completo do respectivo contrato.
+
+3 - A conversão em definitivo do registo referido no número anterior é feita em face do contrato de sociedade.
+
+4 - O registo provisório do contrato de sociedade anónima com apelo à subscrição pública de acções é lavrado em face do projecto completo do contrato, com reconhecimento das assinaturas de todos os interessados, de documento comprovativo da liberação das acções por eles subscritas e, quando necessário, da autorização para a subscrição pública ou emissão de acções.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 36.º — Sociedades anónimas europeias
+
+1 - O registo de constituição de uma sociedade anónima europeia por fusão ou transformação ou de constituição de uma sociedade anónima europeia gestora de participações sociais ou filial é efectuado com base no contrato de sociedade.
+
+2 - Para o registo de constituição de sociedade anónima europeia gestora de participações sociais deve ainda ser comprovada a prévia publicitação, relativamente a todas as sociedades promotoras, da verificação das condições de que depende essa constituição, nos termos previstos na legislação comunitária aplicável.
+
+3 - O registo ou menção da verificação das condições de que depende a constituição de uma sociedade anónima europeia gestora de participações sociais com sede em Portugal é feito com base no acto de constituição dessa sociedade.
+
+4 - O registo de alteração dos estatutos de uma sociedade anónima europeia pelo qual seja publicitada a transferência de sede daquela para Portugal é efectuado com base no documento que formalize essa alteração, no qual seja declarada a transferência da sede e exarado o contrato pelo qual a sociedade passa a reger-se.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 36.º-A — Certificados relativos às sociedades anónimas europeias
+
+1 - Os certificados a que se referem o n.º 8 do artigo 8.º e o n.º 2 do artigo 25.º do Regulamento (CE) n.º 2157/2001, do Conselho, de 8 de Outubro, devem, em especial, fazer referência à verificação do cumprimento de cada um dos actos e formalidades prévios, respectivamente, à transferência da sede de sociedade anónima europeia para outro Estado membro da União Europeia ou à constituição de sociedade anónima europeia por fusão, exigidos por aquele regulamento, pela legislação nacional adoptada em sua execução ou ainda pela legislação nacional aplicável às sociedades anónimas de direito interno, identificando os documentos que comprovem tal verificação.
+
+2 - Nos casos em que a mesma conservatória seja competente para controlar a legalidade do cumprimento, pelas sociedades portuguesas participantes, dos actos e formalidades prévias à fusão e para o controlo da legalidade do processo na parte que respeita à fusão e à constituição da sociedade anónima europeia com sede em Portugal, ambos os controlos podem ser efectuados aquando do registo daquela constituição.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 36.º-B — Transferência de sede de sociedade anónima europeia
+
+1 - Nos casos em que, para efeitos de emissão do certificado previsto no n.º 8 do artigo 8.º do Regulamento (CE) n.º 2157/2001, do Conselho, de 8 de Outubro, a sociedade solicite à conservatória a notificação do sócio exonerando para a celebração de contrato de aquisição da sua participação social, aplicam-se ao procedimento de notificação as disposições constantes dos números seguintes.
+
+2 - A solicitação referida no número anterior pode ser formulada através de requerimento escrito ou verbal da sociedade, sendo neste último caso reduzido a auto, do qual deve, em especial, constar:
+
+a) A identificação do sócio exonerando a notificar;
+
+b) A intenção da sociedade de adquirir ou fazer adquirir por terceiro a participação social do sócio, em virtude do exercício por este último do seu direito à exoneração da sociedade;
+
+c) O pedido de fixação da data da celebração do contrato e de notificação do sócio exonerando quanto a tal data.
+
+3 - No prazo de três dias, a conservatória procede à notificação do sócio exonerando, através de carta registada, da qual, para além das menções resultantes do disposto no número anterior, deve constar a cominação de que a não comparência do sócio para efeitos da celebração do contrato na data fixada, sem motivo justificado, determina a perda do seu direito à exoneração da sociedade.
+
+4 - A justificação da não comparência do sócio com base em motivo devidamente comprovado deve ser apresentada no prazo máximo de cinco dias a contar da data fixada para a celebração do contrato.
+
+5 - Se o sócio exonerando não comparecer na data fixada e apresentar a justificação a que se refere o número anterior, nos termos e prazo nele indicados, a conservatória, no prazo indicado no n.º 3, procede à fixação de nova data para a celebração do contrato e notifica-a ao sócio exonerando e à sociedade.
+
+6 - Se na data inicialmente fixada ou, caso se verifique a circunstância prevista no número anterior, na nova data fixada o sócio exonerando não comparecer e não apresentar justificação do facto, nos termos e prazo previstos no n.º 4, a conservatória faz constar do certificado referido no n.º 1 a verificação da perda do direito à exoneração por parte do sócio, por motivo que lhe é imputável.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 37.º — Empresas públicas
+
+O registo de constituição de empresas públicas efectua-se em face do decreto que a determinou.
+
+### Artigo 38.º — Agrupamento complementar de empresas
+
+O registo do contrato de agrupamento complementar de empresas efectua-se em face da respectiva escritura e do certificado de admissibilidade da firma adoptada.
+
+> Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 39.º — Agrupamento europeu de interesse económico
+
+O registo do contrato de agrupamento europeu de interesse económico efectua-se em face do documento que titula a sua constituição, bem como, quando constituído em Portugal, do certificado de admissibilidade da denominação adoptada.
+
+> Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 40.º — Representações sociais
+
+1 - O registo das representações permanentes de sociedades com sede principal e efectiva em Portugal é feito em face de documento comprovativo da deliberação social que a estabeleça.
+
+2 - O registo das representações permanentes de sociedades com sede principal e efectiva no estrangeiro é feito em face de documento comprovativo da deliberação social que a estabeleça, do texto completo e actualizado do contrato de sociedade e de documento que prove a existência jurídica deste.
+
+3 - Para efeitos de registo da designação dos representantes, deve ser apresentado documento comprovativo da designação e respetivos poderes e, quando deste não constem, declaração de aceitação da designação e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo.
+
+4 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, a outras pessoas colectivas de tipo correspondente a qualquer das abrangidas por este diploma.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 41.º — Estabelecimento individual de responsabilidade limitada
+
+O registo do estabelecimento individual de responsabilidade limitada efectua-se em face da respectiva escritura, do relatório a que se refere o n.º 6 do artigo 3.º do Decreto-Lei n.º 248/86, de 25 de Agosto, se for caso disso, bem como dos documentos comprovativos de estar cumprido o disposto no n.º 4 do mesmo artigo 3.º e do certificado de admissibilidade da firma do estabelecimento adoptada.
+
+> Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 42.º — Prestação de contas
+
+1 - O registo da prestação de contas consiste no depósito, por transmissão electrónica de dados e de acordo com os modelos oficiais previstos em legislação especial, da informação constante dos seguintes documentos:
+
+a) Acta de aprovação das contas do exercício e da aplicação dos resultados;
+
+b) Balanço;
+
+c) Demonstração dos resultados;
+
+d) Demonstração das alterações no capital próprio/património líquido;
+
+e) Demonstração de fluxos de caixa;
+
+f) Anexo às demonstrações financeiras;
+
+g) Certificação legal das contas;
+
+h) Parecer do órgão de fiscalização, quando exista.
+
+2 - O registo da prestação de contas consolidadas consiste no depósito, por transmissão electrónica de dados e de acordo com os modelos oficiais previstos em legislação especial, da informação constante dos seguintes documentos:
+
+a) Acta da deliberação de aprovação das contas consolidadas do exercício, de onde conste o montante dos resultados consolidados;
+
+b) Balanço consolidado, demonstração consolidada dos resultados, demonstração das alterações no capital próprio/património líquido, demonstração consolidada de fluxos de caixa e anexo às demonstrações financeiras;
+
+c) Certificação legal das contas consolidadas;
+
+d) Parecer do órgão de fiscalização, quando exista.
+
+3 - Relativamente às empresas públicas, a informação respeitante à deliberação da assembleia geral é substituída pela informação referente aos despachos de aprovação do ministro das Finanças e do ministro da tutela e a respeitante à certificação legal das contas é substituída pela referente ao parecer da Inspecção-Geral de Finanças.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Relativamente às representações permanentes em Portugal de sociedades com sede no estrangeiro, a acta de aprovação é substituída por declaração da entidade representada, de onde conste que os documentos referidos no n.º 1 lhe foram apresentados.
+
+7 - O preenchimento dos modelos oficiais com a informação constante dos documentos referidos nos números anteriores permite a utilização dessa informação para fins de investigação científica ou de estatística, ainda que o registo não possa ser efetuado por falta de pagamento da taxa devida.
+
+8 - O acesso por meios electrónicos, nos termos legalmente previstos, à informação constante dos documentos referidos nos n.os 1 e 2, substitui, para todos os efeitos legais, os correspondentes documentos em suporte de papel.
+
+9 - Quando, nos termos da legislação especial, não forem exigíveis os documentos referidos nas alíneas d), e) e f) do n.º 1, os mesmos não integram o registo da prestação de contas.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-01
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26, em vigor a partir de 2007-09-27
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo único do/a Decreto-Lei n.º 198/99 - Diário da República n.º 132/1999, Série I-A de 1999-06-08, em vigor a partir de 1999-06-13
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 368/98 - Diário da República n.º 271/1998, Série I-A de 1998-11-23, em vigor a partir de 1998-11-28
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Retificado pelo/a Declaração de Rectificação n.º 236-A/91 - Diário da República n.º 251/1991, 6º Suplemento, Série I-A de 1991-10-31, produz efeitos a partir de 1991-01-01
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 238/91 - Diário da República n.º 149/1991, Série I-A de 1991-07-02, produz efeitos a partir de 1991-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 43.º — Registo provisório de acção e de procedimento cautelar
+
+1 - Os registos provisórios de acção e o de procedimento cautelar de suspensão de deliberações sociais são feitos com base em certidão de teor do articulado ou em duplicado deste, acompanhado de prova da sua apresentação a juízo.
+
+2 - Se a apresentação for feita pelo mandatário judicial é suficiente a entrega da cópia do articulado e de declaração da sua prévia ou simultânea apresentação em juízo com indicação da respectiva data.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 44.º — Cancelamento do registo provisório
+
+1 - O cancelamento dos registos provisórios por dúvidas é feito com base em declaração do respectivo titular.
+
+2 - A assinatura do declarante deve ser reconhecida presencialmente, se não for feita na presença do funcionário da conservatória competente para o registo.
+
+3 - No caso de existirem registos dependentes dos registos referidos no n.º 1 deste artigo, é igualmente necessário o consentimento dos respectivos titulares, prestado em declaração com idêntica formalidade.
+
+4 - O cancelamento do registo provisório de acção e de procedimento cautelar é feito com base em certidão da decisão transitada em julgado que absolva o réu do pedido ou da instância, a julgue extinta ou a declare interrompida, se o serviço de registo não conseguir aceder à informação necessária por meios electrónicos.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 45.º — Anotação da apresentação
+
+1 - A apresentação de documentos para registo pode ser feita pessoalmente, pelo correio ou ainda por via electrónica, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.
+
+2 - Os documentos apresentados pessoalmente são anotados pela ordem de entrega dos pedidos.
+
+3 - (Revogado.)
+
+4 - Os documentos apresentados pelo correio são anotados com a observação de «correspondência» no dia da recepção e imediatamente após a última apresentação pessoal.
+
+5 - A anotação dos documentos apresentados por via eletrónica, que ocorre apenas com a comunicação do pagamento das quantias que forem devidas, é efetuada pela ordem fixada pela portaria referida no n.º 1.
+
+6 - O pedido de registo por depósito não está sujeito a anotação de apresentação, sem prejuízo da aplicação das regras constantes nos números anteriores à ordenação dos pedidos.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-01
+
+> Alterado pelo/a Artigo 30.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 267/93 - Diário da República n.º 178/1993, Série I-A de 1993-07-31, em vigor a partir de 1993-09-29
+
+### Artigo 45.º-A — Omissão de anotação de apresentações
+
+Sempre que ocorra uma omissão de anotação de apresentação de pedidos de registo relativamente à mesma requisição, as apresentações omitidas são anotadas no dia em que a omissão for constatada, fazendo-se referência a esta e ao respectivo suprimento no dia a que respeita, ficando salvaguardados os efeitos dos registos entretanto apresentados.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 46.º — Rejeição da apresentação ou do pedido
+
+1 - A apresentação deve ser rejeitada:
+
+a) Quando o requerimento não respeitar o modelo aprovado, quando tal for exigível;
+
+b) Quando não forem pagas as quantias que se mostrem devidas;
+
+c) Quando a entidade objecto de registo não tiver número de identificação de pessoa colectiva atribuído.
+
+2 - O pedido de registo por depósito deve ser rejeitado:
+
+a) Nas situações referidas no número anterior;
+
+b) Se o requerente não tiver legitimidade para requerer o registo;
+
+c) Quando não se mostre efectuado o primeiro registo da entidade, nos termos previstos no artigo 61.º;
+
+d) Quando o facto não estiver sujeito a registo.
+
+3 - Verificada a existência de causa de rejeição de registo por transcrição ou por depósito, é feita a apresentação do pedido no diário ou feita menção do pedido com os elementos disponíveis.
+
+4 - O disposto no número anterior não se aplica às situações previstas na alínea c) do n.º 1.
+
+5 - A rejeição da apresentação ou do pedido deve ser fundamentada em despacho a notificar ao interessado, para efeitos de impugnação, nos termos do disposto nos artigos 101.º e seguintes, aplicando-se-lhe, com as devidas adaptações, as disposições relativas à recusa.
+
+6 - Nos casos em que a entidade se encontre registada sem número de identificação de pessoa colectiva atribuído, a conservatória comunica tal facto ao Registo Nacional de Pessoas Colectivas de modo que se proceda, no próprio dia, à inscrição da entidade no ficheiro central de pessoas colectivas.
+
+7 - A verificação das causas de rejeição previstas no n.º 2 pode efectuar-se até à realização do registo.
+
+8 - Sem prejuízo do disposto no n.º 8 do artigo 114.º, a verificação da causa de rejeição prevista na alínea b) do n.º 1 após a apresentação do pedido no diário dá lugar à recusa.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-01
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 47.º — Princípio da legalidade
+
+A viabilidade do pedido de registo a efectuar por transcrição deve ser apreciada em face das disposições legais aplicáveis, dos documentos apresentados e dos registos anteriores, verificando-se especialmente a legitimidade dos interessados, a regularidade formal dos títulos e a validade dos actos neles contidos.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 48.º — Recusa do registo
+
+1 - O registo por transcrição deve ser recusado nos seguintes casos:
+
+a) (Revogada.)
+
+b) Quando for manifesto que o facto não está titulado nos documentos apresentados;
+
+c) Quando se verifique que o facto constante do documento já está registado ou não está sujeito a registo;
+
+d) Quando for manifesta a nulidade do facto;
+
+e) Quando o registo já tiver sido lavrado como provisório por dúvidas e estas não se mostrem removidas;
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) Quando a entidade se encontrar em incumprimento quanto à obrigação do registo da prestação de contas, sem prejuízo das exceções previstas no n.º 3 do artigo 17.º, e não proceder ao referido registo durante o prazo fixado para o suprimento de deficiências.
+
+2 - É ainda fundamento de recusa do registo de início ou alteração de atividade do comerciante individual ou do registo de nomeação ou de recondução no cargo de gerente, de administrador ou de outro membro de órgão social sujeito a registo:
+
+a) A ausência de declaração da qual conste não ter conhecimento de circunstâncias suscetíveis de o inibir para o exercício do cargo; ou
+
+b) A existência, na base de dados de inibições e destituições ou nos registos de outros Estados-Membros, de impedimento para exercício do cargo, designadamente para as funções de vinculação da sociedade para com terceiros, para representação da sociedade em juízo e para participação na administração, na vigilância ou na fiscalização da sociedade.
+
+3 - Além dos casos previstos nos números anteriores, o registo só pode ser recusado se, por falta de elementos ou pela natureza do ato, não puder ser feito como provisório por dúvidas.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2023-12-06
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-01
+
+> Alterado pelo/a Artigo 30.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 267/93 - Diário da República n.º 178/1993, Série I-A de 1993-07-31, em vigor a partir de 1993-09-29
+
+### Artigo 49.º — Registo provisório por dúvidas
+
+Se as deficiências do processo de registo não forem sanadas nos termos do artigo 52.º, o registo por transcrição deve ser feito provisoriamente por dúvidas quando existam motivos que obstem ao registo do acto tal como é pedido que não sejam fundamento de recusa.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 50.º — Despachos de recusa e de provisoriedade
+
+1 - Os despachos de recusa e de provisoriedade por dúvidas são efectuados pela ordem de apresentação dos respectivos pedidos de registo, salvo quando deva ser aplicado o mecanismo do suprimento de deficiências, nos termos do artigo 52.º, e são notificados aos interessados nos dois dias seguintes.
+
+2 - Salvo nos casos previstos nas alíneas a), c) e n) do n.º 1 do artigo 64.º, a qualificação do registo como provisório por natureza é notificada aos interessados no prazo previsto no número anterior.
+
+3 - A data da notificação prevista nos números anteriores é anotada na ficha.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 51.º — Obrigações fiscais
+
+1 - Revogado;
+
+1 - Nenhum acto sujeito a encargos de natureza fiscal pode ser definitivamente registado sem que se mostrem pagos ou assegurados os direitos do fisco.
+
+2 - Não está sujeita à apreciação do funcionário competente para o registo a correcção da liquidação de encargos fiscais feita nas repartições de finanças.
+
+3 - Presume-se assegurado o pagamento dos direitos correspondentes a qualquer transmissão desde que tenham decorrido os prazos de caducidade da liquidação ou de prescrição previstos nas leis fiscais.
+
+4 - A verificação do cumprimento de obrigações fiscais relativamente a factos que devam ser registados por depósito não compete às conservatórias.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2006-07-13
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 52.º — Suprimento das deficiências
+
+1 - Sempre que possível, as deficiências do processo de registo por transcrição devem ser supridas oficiosamente com base nos documentos apresentados ou já existentes no serviço de registo ou por acesso directo à informação constante de bases de dados das entidades ou serviços da Administração Pública.
+
+2 - Não sendo possível o suprimento das deficiências, nos termos previstos no número anterior, e tratando-se de deficiência que não envolva novo pedido de registo nem constitua motivo de recusa nos termos das alíneas c) a e) e h) do n.º 1 do artigo 48.º, o serviço de registo competente comunica este facto ao interessado, por correio eletrónico, sempre que o interessado tenha fornecido o respetivo endereço, ou por qualquer meio idóneo, para que este, no prazo de cinco dias, proceda a tal suprimento, sob pena de o registo ser lavrado como provisório ou recusado.
+
+3 - O registo não é lavrado provisoriamente ou recusado se as deficiências em causa respeitarem à omissão de documentos a emitir pelas entidades referidas no n.º 1 e a informação deles constante não puder ser obtida nos termos aí previstos, desde que o interessado tenha expressamente solicitado ao serviço de registo, pessoalmente ou por escrito, através de correio eletrónico ou sob registo postal, e no prazo referido no número anterior, que diligencie pela sua obtenção diretamente às entidades ou serviços da Administração Pública.
+
+4 - [Revogado].
+
+5 - A falta de apresentação do título que constitua motivo de recusa, nos termos da alínea b) do n.º 1 do artigo 48.º pode ser suprida, com observância dos números anteriores, desde que o facto sujeito a registo seja anterior à data da apresentação ou à hora desta se, sendo da mesma data, o título contiver a menção da hora em que foi assinado ou concluído.
+
+6 - [Revogado].
+
+7 - O suprimento de deficiências nos termos dos n.os 2, 3 e 5 depende da entrega das quantias devidas.
+
+8 - Das decisões tomadas no âmbito do suprimento de deficiências não cabe recurso hierárquico ou impugnação judicial.
+
+> Alterado pelo/a Artigo 22.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Alterado pelo/a Artigo 30.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 53.º — Desistência
+
+A apresentação de pedido de desistência de um registo e dos que dele dependam só pode ser aceite no caso de deficiência que motive recusa ou se for junto documento comprovativo da extinção do facto desde que o pedido de desistência seja apresentado antes da assinatura do registo.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+## Capítulo IV — Actos de registo
+
+### Artigo 54.º — Prazo e ordem dos registos
+
+1 - O registo por transcrição é efectuado no prazo de 10 dias e pela ordem de anotação no diário, salvo nos casos de urgência e de suprimento de deficiências, nos termos do artigo 52.º
+
+2 - No caso de o apresentante requerer urgência, o registo deve ser efectuado no prazo máximo de um dia útil, podendo o funcionário proceder à feitura do registo sem subordinação à ordem da anotação, mas sem prejuízo da dependência dos actos.
+
+3 - A menção na ficha do registo por depósito é efectuada no próprio dia em que for pedido.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+### Artigo 53.º-A — Formas de registo
+
+1 - Os registos são efectuados por transcrição ou depósito.
+
+2 - O registo por transcrição consiste na extractação dos elementos que definem a situação jurídica das entidades sujeitas a registo constantes dos documentos apresentados.
+
+3 - Sem prejuízo dos regimes especiais de depósito da prestação de contas, o registo por depósito consiste no mero arquivamento dos documentos que titulam factos sujeitos a registo.
+
+4 - (Revogado.)
+
+5 - São registados por depósito:
+
+a) Os factos mencionados nas alíneas b) a l), n), p), q), u), v) e z) do n.º 1 do artigo 3.º, salvo o registo do projecto de constituição de sociedade anónima europeia gestora de participações sociais, bem como o da verificação das condições de que depende a sua constituição;
+
+b) Os factos referidos nas alíneas b), c) e e) do n.º 2 do artigo 3.º;
+
+c) Os factos constantes das alíneas b) e d) do artigo 5.º;
+
+d) O facto mencionado na alínea b) do artigo 6.º;
+
+e) O facto referido na alínea g) do artigo 7.º;
+
+f) O facto constante da alínea e) do artigo 8.º;
+
+g) Os factos constantes do artigo 9.º se respeitarem a factos que estão sujeitos a registo por depósito;
+
+h) Os factos mencionados nas alíneas a), d) e e) do artigo 10.º;
+
+i) Todos os factos que por lei especial estejam sujeitos a depósito.
+
+6 - Os suportes, processo e conteúdo dos registos são regulamentados por membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+> Alterado pelo/a Artigo 30.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 55.º — Âmbito e data do registo
+
+1 - O registo por transcrição compreende a matrícula das entidades sujeitas a registo, bem como as inscrições, averbamentos e anotações de factos a elas respeitantes.
+
+2 - Sem prejuízo do disposto no número seguinte, o registo por depósito abrange os documentos arquivados e a respectiva menção na ficha de registo.
+
+3 - O registo por depósito dos factos relativos a participações sociais e respectivos titulares pode ser efectuado de modo diverso do previsto no número anterior, nos termos a definir por portaria do Ministro da Justiça.
+
+4 - A data do registo por transcrição é a da apresentação ou, se desta não depender, a data em que tiver lugar.
+
+5 - A data do registo por depósito é a do respectivo pedido.
+
+6 - Para efeitos do disposto no número anterior, a data do pedido de registo da prestação de contas é a do respectivo pagamento por via electrónica.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2006-07-13
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 55.º-A — Funcionário competente para o registo
+
+1 - O funcionário competente para o registo é o conservador ou o seu substituto legal, quando em exercício, sem prejuízo do disposto no número seguinte.
+
+2 - Os oficiais dos registos têm competência para os seguintes actos de registo:
+
+a) Os previstos na alíneas m), o) e s) do n.º 1 do artigo 3.º;
+
+b) O referido na alínea b) do artigo 4.º;
+
+c) O previsto na alínea c) do artigo 5.º e a designação e cessação de funções dos liquidatários das empresas públicas;
+
+d) Os mencionados na alínea c) do artigo 6.º;
+
+e) Os referidos nas alíneas d) e i) do artigo 7.º;
+
+f) Os previstos nas alíneas d) e h) do artigo 8.º;
+
+g) As alterações ao contrato ou aos estatutos;
+
+h) Os registos por depósito;
+
+i) Outros actos de registo para os quais o conservador lhes tenha delegado competência.
+
+3 - Os oficiais dos registos têm ainda competência para a extractação de actos de registo.
+
+4 - A menção de depósito pode ser efectuada pelo próprio requerente quando o pedido seja entregue por via electrónica, nos termos de portaria do Ministro da Justiça.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 56.º — Suportes documentais
+
+Haverá em cada conservatória de registo comercial um livro Diário, pastas, fichas e um livro de registo de emolumentos, segundo modelos oficiais.
+
+### Artigo 57.º — Organização do arquivo
+
+1 - A cada entidade sujeita a registo é destinada uma pasta, guardada na conservatória situada no concelho da respectiva sede, onde são arquivados todos os documentos respeitantes aos actos submetidos a registo.
+
+2 - Por despacho do director-geral dos Registos e do Notariado pode ser determinado o arquivo dos documentos em suporte electrónico, em substituição do arquivo previsto no número anterior.
+
+3 - Os documentos arquivados em suporte electrónico referidos no número anterior têm a força probatória dos originais.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 58.º — Línguas e termos
+
+1 - Os actos de registo referidos no n.º 1 do artigo 55.º são efectuados em suporte informático.
+
+2 - As inscrições e averbamentos são efectuados por extracto e deles decorre a matrícula.
+
+3 - Quando solicitada, a informação constante do registo comercial é disponibilizada através de certidão permanente em língua inglesa ou noutras línguas estrangeiras determinadas por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+
+4 - Para os efeitos previstos no número anterior, a informação disponibilizada em língua estrangeira tem efeitos jurídicos equivalentes à informação disponibilizada em língua portuguesa.
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 73/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16, em vigor a partir de 2008-04-17
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 59.º — Arquivo de documentos
+
+1 - Os documentos que servem de base ao registo lavrado por transcrição são obrigatoriamente arquivados.
+
+2 - Relativamente a cada alteração do contrato de sociedade devem ser apresentadas, para arquivo, versões atualizadas e completas do texto do contrato alterado e da lista dos titulares das participações sociais, com os respetivos dados de identificação.
+
+> Alterado pelo/a Artigo 13.º do/a Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31, em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 9.º do/a Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21, em vigor a partir de 2017-11-19
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 60.º — Natureza do depósito
+
+A natureza do depósito é a da inscrição dos factos registados.
+
+### Artigo 61.º — Primeiro registo
+
+1 - Nenhum facto referente a comerciante individual, pessoa colectiva sujeita a registo ou estabelecimento individual de responsabilidade limitada pode ser registado sem que se mostre efectuado o registo do início de actividade do comerciante individual ou da constituição da pessoa colectiva ou do estabelecimento de responsabilidade limitada.
+
+2 - O disposto no número anterior não é aplicável aos registos decorrentes do processo de insolvência.
+
+3 - No caso de transferência da sede de sociedade anónima europeia para Portugal, o primeiro registo referente a essa sociedade é o da alteração dos estatutos decorrente de tal transferência, sem prejuízo do disposto no número anterior quanto aos registos decorrentes do processo de insolvência.
+
+4 - Do primeiro registo decorre a matrícula do comerciante individual, da pessoa colectiva ou do estabelecimento individual de responsabilidade limitada.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 62.º — Matrícula
+
+1 - A matrícula destina-se à identificação da entidade sujeita a registo.
+
+2 - A cada entidade sujeita a registo corresponde uma só matrícula.
+
+3 - Os elementos constantes da matrícula e a sua correspondente actualização ou rectificação resultam dos registos que sobre ela incidem.
+
+4 - A matrícula é aberta com carácter definitivo, independentemente da qualificação atribuída ao registo que origina a sua abertura.
+
+5 - A actualização ou rectificação dos elementos da matrícula só pode decorrer de registo definitivo que publicite tais factos.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2006-07-13
+
+### Artigo 62.º-A — Cancelamento da matrícula
+
+A matrícula é oficiosamente cancelada, por meio de inscrição:
+
+a) Com o registo definitivo de factos que tenham por efeito a extinção da entidade registada;
+
+b) Se a conversão em definitivo do registo provisório, na dependência do qual foi aberta, não se efectuar dentro do prazo legal;
+
+c) Se aberta na dependência de um acto recusado, se o despacho de qualificação não tiver sido impugnado no prazo legal ou, tendo-o sido, se se verificar algum dos factos previstos no n.º 2 do artigo 111.º;
+
+d) Com o registo definitivo de transferência de sede para o estrangeiro.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Aditado pelo/a Artigo 3.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+### Artigo 63.º — Inscrições
+
+As inscrições extractam dos documentos depositados os elementos que definem a situação jurídica dos comerciantes individuais, das pessoas colectivas e dos estabelecimentos individuais de responsabilidade limitada.
+
+### Artigo 64.º — Inscrições provisórias por natureza
+
+1 - São provisórias por natureza as seguintes inscrições:
+
+a) De constituição de sociedades antes de titulado o contrato;
+
+b) De constituição de sociedades dependente de alguma autorização especial, antes da concessão desta;
+
+c) De constituição provisória de sociedades anónimas com apelo a subscrição pública de acções;
+
+d) (Revogada.)
+
+e) De declaração de insolvência ou de indeferimento do respectivo pedido, antes do trânsito em julgado da sentença;
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+i) (Revogada.)
+
+j) De negócio jurídico celebrado por gestor ou por procurador sem poderes suficientes, antes da ratificação;
+
+l) (Revogada.)
+
+m) (Revogada.)
+
+n) De acções judiciais.
+
+2 - São ainda provisórias por natureza as inscrições:
+
+a) (Revogada.)
+
+b) Dependentes de qualquer registo provisório ou que com ele sejam incompatíveis;
+
+c) Que, em reclamação contra a reforma de livros e fichas, se alega terem sido omitidas;
+
+d) Efectuadas na pendência de recurso hierárquico ou impugnação judicial da recusa do registo ou enquanto não decorrer o prazo para a sua interposição.
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+### Artigo 65.º — Prazos especiais de vigência
+
+1 - É de um ano o prazo de vigência das inscrições provisórias referidas nas alíneas a) a c) do n.º 1 do artigo anterior.
+
+2 - As inscrições referidas nas alíneas e) do n.º 1 e c) do n.º 2 do artigo anterior, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de cinco anos, renovável por períodos de igual duração, mediante prova de subsistência da razão da provisoriedade.
+
+3 - As inscrições referidas na alínea n) do n.º 1 do artigo anterior não estão sujeitas a qualquer prazo de caducidade.
+
+4 - As inscrições referidas na alínea b) do n.º 2 do artigo anterior mantêm-se em vigor pelo prazo do registo de que dependem ou com o qual colidem, salvo se antes caducarem por outra razão, e a conversão do registo em definitivo determina a conversão oficiosa das inscrições dependentes ou a caducidade das inscrições incompatíveis, sendo que o cancelamento ou a caducidade do registo provisório determina a conversão oficiosa da inscrição incompatível.
+
+5 - Sem prejuízo do disposto no artigo 112.º, as inscrições referidas na alínea d) do n.º 2 do artigo anterior mantêm-se em vigor nos termos previstos no n.º 2, salvo se antes caducarem por outra razão.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 66.º — Unidade de inscrição
+
+1 - Todas as alterações do contrato ou acto constitutivo da pessoa colectiva ou estabelecimento individual de responsabilidade limitada dão lugar a uma só inscrição, desde que constem do mesmo título.
+
+2 - A nomeação ou recondução dos gerentes, administradores, directores, membros do órgão de fiscalização, liquidatários e secretários da sociedade feita no título constitutivo da pessoa colectiva ou estabelecimento individual de responsabilidade limitada ou da sua alteração não tem inscrição autónoma, devendo constar, consoante os casos, da inscrição do acto constitutivo ou da sua alteração.
+
+3 - A nomeação de administrador judicial da insolvência, a atribuição ao devedor da administração da massa insolvente e a proibição ao devedor administrador da prática de certos actos sem o consentimento do administrador judicial, quando determinadas simultaneamente com a declaração de insolvência, não têm inscrição autónoma, devendo constar da inscrição que publicita este último facto; a inscrição conjunta é também feita em relação aos factos referidos que sejam determinados simultaneamente em momento posterior àquela declaração.
+
+4 - A nomeação de curador ao comerciante individual insolvente, quando efectuada na sentença de inabilitação daquele, é registada na inscrição respeitante a este último facto.
+
+5 - A cumulação prevista nos números anteriores só é permitida se a qualificação dos actos for a mesma.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+### Artigo 67.º — Factos constituídos com outros sujeitos a registo
+
+1 - Revogado.
+
+2 - O registo da decisão de encerramento do processo de insolvência, quando respeitante a sociedade comercial ou sociedade civil sob forma comercial, determina a realização oficiosa:
+
+a) Do registo de regresso à actividade da sociedade, quando o encerramento do processo se baseou na homologação de um plano de insolvência que preveja a continuidade daquela;
+
+b) Do cancelamento da matrícula da sociedade, nos casos em que o encerramento do processo foi declarado após a realização do rateio final.
+
+3 - O registo referido no número anterior determina ainda, qualquer que seja a entidade a que respeite, a realização oficiosa do registo de cessação de funções do administrador judicial da insolvência, salvo nos casos em que exista plano de insolvência homologado e este lhe confira competências e ainda nos casos a que se refere a alínea b) do número anterior.
+
+4 - O registo do cancelamento da sociedade representada determina a realização oficiosa do cancelamento da matrícula da representação permanente criada em Portugal na sequência da comunicação do competente registo do respetivo Estado-Membro da União Europeia, através do sistema de interconexão dos registos da União Europeia.
+
+5 - O disposto no número anterior não é aplicável nos casos em que o registo da sociedade representada tenha sido cancelado na sequência de transformação, fusão, cisão ou mudança de sede transfronteiriça.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 61.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+### Artigo 67.º-A — Registo da fusão
+
+1 - O registo da fusão interna na entidade incorporante ou o registo da nova entidade resultante da fusão interna determina a realização oficiosa do registo da fusão nas entidades incorporadas ou fundidas na nova entidade.
+
+2 - No caso do registo da fusão transfronteiriça, aplica-se o disposto no número anterior às sociedades participantes na fusão que tenham sede em território nacional.
+
+3 - O registo de fusão transfronteiriça na sociedade incorporante, ou de constituição da nova sociedade resultante da fusão, determina a notificação desse facto e do consequente início de produção de efeitos, através do sistema de interconexão dos registos da União Europeia, aos registos competentes dos Estados-Membros onde estejam sediadas as sociedades participantes.
+
+4 - A receção de notificação do início da produção de efeitos de fusão transfronteiriça, efetuada por registo competente do respetivo Estado-Membro da União Europeia, determina a realização oficiosa do registo da fusão transfronteiriça e o cancelamento da matrícula das sociedades participantes na fusão que estejam sediadas em território nacional.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+> Alterado pelo/a Artigo 29.º do/a Lei n.º 19/2009 - Diário da República n.º 91/2009, Série I de 2009-05-12, em vigor a partir de 2009-06-11
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+### Artigo 67.º-B — Sociedades comerciais com representações permanentes sediadas noutro Estado-Membro
+
+1 - O registo definitivo de criação, alteração e encerramento de representação permanente de sociedade portuguesa por quotas, anónima e em comandita por ações, efetuado noutro Estado-Membro e comunicado através do sistema de interconexão dos registos da União Europeia, determina o registo oficioso desse facto no registo comercial nacional.
+
+2 - Os registos definitivos dos factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência, bem como o cancelamento da matrícula, quando respeitantes a sociedades por quotas, anónimas e em comandita por ações com representações permanentes registadas noutros Estados-Membros são comunicados ao registo competente do Estado-Membro do local da representação através do sistema de interconexão dos registos da União Europeia.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+### Artigo 67.º-C — Registo da cisão
+
+1 - O registo da cisão interna na sociedade cindida determina a realização oficiosa do registo de constituição das novas sociedades resultantes da cisão.
+
+2 - No caso do registo da cisão transfronteiriça, aplica-se o disposto no número anterior às sociedades participantes na cisão que tenham sede em território nacional.
+
+3 - O registo de cisão transfronteiriça na sociedade cindida determina a notificação desse facto e do consequente início de produção de efeitos, através do sistema de interconexão dos registos da União Europeia, aos registos competentes dos Estados-Membros da sede das novas sociedades resultantes da cisão ou das sociedades beneficiárias.
+
+4 - A receção da notificação do início da produção de efeitos de cisão transfronteiriça, prevista no número anterior, efetuada por registo competente do respetivo Estado-Membro da União Europeia, determina a realização oficiosa do registo de constituição das sociedades beneficiárias e a notificação desse facto, através do sistema de interconexão dos registos da União Europeia, ao registo competente do Estado-Membro da sociedade cindida.
+
+5 - A receção de todas as notificações a efetuar pelos registos competentes dos Estados-Membros das sociedades beneficiárias, nos termos do número anterior, determina o cancelamento da matrícula da sociedade totalmente cindida que esteja sediada em território nacional.
+
+> Aditado pelo/a Artigo 8.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+### Artigo 67.º-D — Registo de transformação transfronteiriça
+
+1 - O registo de transformação transfronteiriça efetuado sobre a sociedade transformada, quando sediada em território nacional, determina a notificação desse facto e do consequente início de produção de efeitos, através do sistema de interconexão dos registos da União Europeia, ao registo competente do Estado-Membro de partida, onde estava sediada a sociedade objeto de transformação.
+
+2 - A receção da notificação do início da produção de efeitos da transformação transfronteiriça, efetuada por registo competente do Estado-Membro da União Europeia, enquanto Estado-Membro de destino, determina a realização oficiosa do registo da transformação transfronteiriça e o cancelamento da matrícula da sociedade objeto de transformação que esteja sediada em território nacional.
+
+> Aditado pelo/a Artigo 8.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+### Artigo 68.º — Alteração das inscrições
+
+A inscrição pode ser actualizada ou rectificada por averbamento.
+
+### Artigo 69.º — Factos a averbar
+
+1 - São registados por averbamento às inscrições a que respeitam os seguintes factos:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+l) A recondução ou cessação de funções de gerentes, administradores, directores, representantes e liquidatários;
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) (Revogada.)
+
+p) (Revogada.)
+
+q) A cessação de funções do administrador judicial e do administrador judicial provisório da insolvência;
+
+r) A decisão judicial de proibição ao devedor insolvente da prática de certos actos sem o consentimento do administrador da insolvência, quando tal proibição não for determinada conjuntamente com a atribuição ao devedor da administração da massa insolvente;
+
+s) A decisão judicial que ponha termo à administração da massa insolvente pelo devedor;
+
+t) A decisão judicial de cessação antecipada do procedimento de exoneração do passivo restante de comerciante individual e a de revogação dessa exoneração;
+
+u) A decisão judicial de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
+
+v) A declaração de perda do direito ao uso de firma ou denominação.
+
+2 - São igualmente registados nos termos do número anterior:
+
+a) (Revogada.)
+
+b) A decisão final das acções inscritas;
+
+c) A conversão em definitivos, no todo ou em parte, dos registos provisórios;
+
+d) A renovação dos registos;
+
+e) A nomeação de terceiro ou a sua não nomeação em contrato para pessoa a nomear;
+
+f) O cancelamento, total ou parcial, dos registos.
+
+3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1.
+
+4 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
+
+5 - O trânsito em julgado da sentença prevista na alínea e) do n.º 1 do artigo 64.º determina o averbamento de conversão em definitivo do correspondente registo.
+
+6 - As decisões judiciais previstas na alínea s) do n.º 1 são averbadas, respectivamente, à inscrição do despacho inicial de exoneração do passivo restante e à do despacho final que determine essa exoneração.
+
+7 - A decisão judicial prevista na alínea t) do n.º 1 é averbada à inscrição da decisão de encerramento do processo de insolvência que publicite a sujeição da execução de plano de insolvência a fiscalização.
+
+8 - A cessação de funções prevista na alínea l) do n.º 1 é averbada oficiosa e gratuitamente, na sequência da comunicação ao Instituto dos Registos e do Notariado, I. P., das decisões de inibição e de destituição para efeitos de integração da informação na base de dados de inibições e destituições.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2023-12-06
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 107/2003 - Diário da República n.º 129/2003, Série I-A de 2003-06-04, em vigor a partir de 2003-06-09
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 70.º — Publicações obrigatórias
+
+1 - É obrigatória a publicação dos seguintes actos de registo:
+
+a) Os previstos no artigo 3.º, quando respeitem a sociedades por quotas, anónimas ou em comandita por acções, desde que sujeitas a registo obrigatório, salvo os das alíneas c), e), f) e i) do n.º 1;
+
+b) Os previstos nos artigos 4.º, 6.º, 7.º e 8.º;
+
+c) (Revogada.)
+
+d) Os previstos nas alíneas c), d) e h) do artigo 9.º;
+
+e) Os previstos nas alíneas c) e d) do artigo 10.º
+
+f) O averbamento de cancelamento a que se refere o n.º 2 do artigo 27.º
+
+2 - As publicações referidas no número anterior devem ser feitas em sítio na Internet de acesso público, regulado por portaria do Ministro da Justiça, no qual a informação objecto de publicidade possa ser acedida, designadamente por ordem cronológica.
+
+3 - (Revogado.)
+
+4 - A constituição e o encerramento da liquidação de um agrupamento europeu de interesse económico, bem como os factos cujo registo determina a abertura ou o cancelamento da matrícula de uma sociedade anónima europeia, são publicados no Jornal Oficial da União Europeia após a publicação referida no n.º 2.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 29.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2006-07-13
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 71.º — Oficiosidade da publicação
+
+1 - Efectuado o registo, a conservatória deve promover, imediatamente e a expensas do interessado, as respectivas publicações.
+
+2 - As publicações a que se refere o n.º 4 do artigo anterior são promovidas no prazo de cinco dias a contar do registo.
+
+3 - As publicações efectuam-se com base nos dados transmitidos por via electrónica entre a conservatória e a Direcção-Geral dos Registos e do Notariado e, apenas nos casos em que este meio não esteja disponível, com base em certidões passadas na conservatória ou com base em certidões passadas em cartório notarial ou tribunal judicial e juntas ao pedido de registo, as quais devem ser remetidas à Direcção-Geral dos Registos e do Notariado, no prazo previsto no n.º 1, por via postal ou ainda por telecópia ou por correio electrónico, nos termos do n.º 1 do artigo 2.º e do artigo 4.º do Decreto-Lei n.º 66/2005, de 15 de Março, aplicáveis com as necessárias adaptações.
+
+4 - As certidões emitidas pelas conservatórias para efeitos das publicações referidas no n.º 4 do artigo anterior devem conter as indicações cuja publicitação é exigida pela legislação comunitária aplicável.
+
+5 - As publicações devem ser anotadas na ficha de registo, sendo competentes para a sua assinatura o conservador e qualquer oficial dos registos.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 19.º do/a Decreto-Lei n.º 111/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08, em vigor a partir de 2006-07-13
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+### Artigo 72.º — Modalidades das publicações
+
+1 - Das publicações devem constar as menções obrigatórias do registo.
+
+2 - A publicação do contrato ou do estatuto por que se rege a pessoa colectiva, bem como das respectivas alterações, é efectuada nos termos do número anterior, com a menção especial do depósito do texto actualizado do contrato ou estatuto.
+
+3 - (Revogado.)
+
+4 - A publicação da informação constante dos documentos de prestação de contas das sociedades não inclui a certificação legal das contas, mas é nelas divulgado:
+
+a) Se o parecer de revisão traduz uma opinião sem reservas ou com reservas, se é emitida uma opinião adversa ou se o revisor oficial de contas não está em condições de exprimir uma opinião de revisão;
+
+b) Se no documento de certificação legal das contas é feita referência a qualquer questão para a qual o revisor oficial de contas tenha chamado a atenção com ênfase, sem qualificar a opinião de revisão.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 8.º do/a Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31, em vigor a partir de 2022-01-30
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 35/2005 - Diário da República n.º 34/2005, Série I-A de 2005-02-17, em vigor a partir de 2005-02-22, produz efeitos a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 72.º-A — Comunicações obrigatórias
+
+1 - É oficiosa e gratuitamente comunicado, por via electrónica, o conteúdo dos seguintes actos de registo aos serviços da administração tributária e da segurança social:
+
+a) A inscrição no registo comercial;
+
+b) As alterações aos estatutos quanto à natureza jurídica, à firma, ao nome ou à denominação, à sede ou à localização de estabelecimento principal, ao capital e ao objecto;
+
+c) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos órgãos de administração e fiscalização;
+
+d) A fusão e a cisão;
+
+e) A designação e cessação de funções, anterior ao encerramento da liquidação, de liquidatários;
+
+f) A nomeação e destituição do administrador de insolvência;
+
+g) A dissolução e o encerramento da liquidação.
+
+2 - Para os efeitos do disposto na alínea g) do número anterior, no momento do registo do encerramento da liquidação deve ser obrigatoriamente indicado o representante da entidade para efeitos tributários, nos termos do n.º 4 do artigo 19.º do Decreto-Lei n.º 398/98, de 17 de Dezembro.
+
+3 - As comunicações obrigatórias efectuadas nos termos dos números anteriores determinam que os serviços da administração tributária e da segurança social não podem exigir a apresentação das respectivas declarações.
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21, em vigor a partir de 2009-05-22
+
+### Artigo 72.º-B — Disponibilização de informação
+
+1 - Para simples consulta, é oficiosa e gratuitamente disponibilizada no Portal Europeu da Justiça Eletrónica a seguinte informação sobre as sociedades por quotas, anónimas e em comandita por ações, bem como sobre as representações permanentes e sucursais financeiras exteriores de sociedades de responsabilidade limitada com sede noutro Estado-Membro:
+
+a) Natureza jurídica;
+
+b) Firma;
+
+c) Sede das pessoas coletivas inscritas no registo comercial.
+
+d) Número de identificação de pessoa coletiva e o seu identificador único europeu (EUID);
+
+e) Estado da sociedade, nomeadamente que se encontra encerrada, em situação de liquidação ou de dissolução;
+
+f) Objeto da sociedade;
+
+g) Representantes legais e outras pessoas que podem agir em nome da sociedade;
+
+h) Qualquer representação permanente registada pela sociedade noutro Estado-Membro, incluindo a denominação, o número de registo, o EUID e o Estado-Membro onde está registada.
+
+2 - No sítio na Internet a definir por portaria do membro do Governo responsável pela área da justiça é disponibilizada uma síntese explicativa das normas respeitantes à oponibilidade a terceiros dos factos sujeitos a registo.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Aditado pelo/a Artigo 13.º do/a Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01, em vigor a partir de 2019-07-01
+
+## Capítulo V — Publicidade e prova do registo
+
+## Secção I — Publicidade
+
+> Aditado pelo/a Artigo 7.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 73.º — Carácter público do registo
+
+1 - Qualquer pessoa pode pedir certidões dos actos de registo e dos documentos arquivados, bem como obter informações verbais ou escritas sobre o conteúdo de uns e outros.
+
+2 - Para efeitos do disposto no número anterior, apenas os funcionários podem consultar os suportes documentais e de registo, de harmonia com as indicações dadas pelos interessados.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 74.º — Cópias não certificadas
+
+1 - Podem ser passadas cópias integrais ou parciais não certificadas, com o valor de informação, dos registos e despachos e de quaisquer documentos.
+
+2 - Nas cópias referidas no número anterior deve ser aposta a menção «cópia não certificada».
+
+3 - As cópias não certificadas podem ser disponibilizadas em suporte eletrónico, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 74.º-A — Certificado prévio à fusão transfronteiriça
+
+1 - A emissão do certificado ou dos certificados comprovativos do cumprimento dos actos e formalidades prévias à fusão transfronteiriça, relativamente à sociedade ou às sociedades participantes com sede em território nacional, pode ser solicitada, após o registo do respectivo projecto, em qualquer serviço de registo com competência para a prática de actos de registo comercial.
+
+2 - O pedido de emissão do certificado previsto no número anterior deve ser instruído com os seguintes documentos:
+
+a) O projeto comum de fusão transfronteiriça, previsto no n.º 1 do artigo 117.º-C do Código das Sociedades Comerciais;
+
+b) O relatório da administração destinado aos sócios e aos trabalhadores, previsto no n.º 2 do artigo 117.º-C do Código das Sociedades Comerciais, incluindo o parecer dos trabalhadores a que se refere o n.º 7 do mesmo artigo, em qualquer dos casos se existirem;
+
+c) O relatório do revisor ou das sociedades de revisores oficiais de contas, previsto no n.º 2 do artigo 117.º-D e no n.º 4 do artigo 99.º do Código das Sociedades Comerciais, se existir;
+
+d) As observações a que se refere a alínea b) do n.º 3 do artigo 100.º do Código das Sociedades Comerciais, se existirem;
+
+e) A informação sobre a aprovação, pela assembleia geral de cada uma das sociedades participantes na fusão, dos projetos a que se refere o n.º 1 do artigo 117.º-F do Código das Sociedades Comerciais;
+
+f) A informação sobre o cumprimento das regras relativas à participação dos trabalhadores previstas na lei nacional, designadamente no Código das Sociedades Comerciais e no capítulo II da Lei n.º 19/2009, de 12 de maio, incluindo no que diz respeito aos procedimentos através dos quais são determinados o regime aplicável, as disposições pertinentes e as eventuais opções quanto a essas disposições.
+
+3 - A apresentação dos documentos referidos no número anterior é dispensada sempre que estes se encontrem arquivados em serviço de registo nacional.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+> Aditado pelo/a Artigo 30.º do/a Lei n.º 19/2009 - Diário da República n.º 91/2009, Série I de 2009-05-12, em vigor a partir de 2009-06-11
+
+### Artigo 74.º-B — Certificado prévio à cisão transfronteiriça
+
+1 - A emissão do certificado ou dos certificados comprovativos do cumprimento dos atos e das formalidades prévios à cisão transfronteiriça, relativamente à sociedade ou às sociedades participantes com sede em território nacional, pode ser solicitada, após o registo do respetivo projeto, em qualquer serviço de registo com competência para a prática de atos de registo comercial.
+
+2 - O requerimento para obtenção do certificado prévio à cisão, apresentado pela sociedade cindida, deve ser acompanhado dos seguintes elementos:
+
+a) Projeto de cisão transfronteiriça;
+
+b) Relatório do órgão de administração destinado aos sócios e aos trabalhadores e relatório de perito, sem prejuízo do disposto nos n.os 7 a 9 do artigo 129.º-D do Código das Sociedades Comerciais;
+
+c) Informação sobre a aprovação da cisão transfronteiriça pela assembleia geral;
+
+d) Observações sobre o projeto de cisão transfronteiriça.
+
+3 - A apresentação dos documentos referidos no número anterior é dispensada sempre que estes se encontrem arquivados em serviço de registo nacional.
+
+> Aditado pelo/a Artigo 8.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+### Artigo 74.º-C — Certificado prévio à transformação transfronteiriça
+
+1 - A emissão do certificado comprovativo do cumprimento dos atos e das formalidades prévios à transformação transfronteiriça, relativamente à sociedade com sede em território nacional, pode ser solicitada, após o registo do respetivo projeto, em qualquer serviço de registo com competência para a prática de atos de registo comercial.
+
+2 - O requerimento para obtenção do certificado prévio à transformação deve ser acompanhado dos seguintes elementos:
+
+a) Projeto de transformação transfronteiriça;
+
+b) Relatório do órgão de administração destinado aos sócios e aos trabalhadores e relatório de perito, que, no caso, devam existir;
+
+c) Informação sobre a aprovação da transformação transfronteiriça pela assembleia geral;
+
+d) Observações sobre o projeto de transformação transfronteiriça.
+
+3 - A apresentação dos documentos referidos no número anterior é dispensada sempre que estes se encontrem arquivados em serviço de registo nacional.
+
+> Aditado pelo/a Artigo 8.º do/a Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2024-01-04
+
+## Secção II — Meios de prova
+
+> Aditado pelo/a Artigo 7.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 75.º — Meios de prova
+
+1 - O registo prova-se por meio de certidão.
+
+2 - A validade das certidões de registo é de seis meses.
+
+3 - As certidões podem ser disponibilizadas em suporte electrónico, em termos a definir por portaria do Ministro da Justiça.
+
+4 - As certidões disponibilizadas nos termos do número anterior fazem prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada nos mesmos termos da correspondente versão em suporte de papel.
+
+5 - Faz igualmente prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada a disponibilização da informação constante da certidão em sítio da Internet, em temos a definir por portaria do Ministro da Justiça.
+
+6 - Por cada processo de registo é disponibilizado gratuitamente, pelo período de três meses, o serviço referido no número anterior.
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19, em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 76.º — Competência para a emissão
+
+1 - As certidões e as cópias não certificadas de registos podem ser emitidas e confirmadas por qualquer conservatória.
+
+2 - As certidões negativas de registos e as certidões de documentos ou despachos apenas podem ser emitidas pela conservatória competente para o registo.
+
+3 - Para a emissão dos documentos referidos nos números anteriores é competente o conservador e qualquer oficial dos registos.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 77.º — Requisição de certidões
+
+1 - As certidões podem ser requisitadas verbalmente ou por escrito, em termos a definir por portaria do Ministro da Justiça.
+
+2 - Os modelos dos requerimentos de certidões que possam ser requisitadas por escrito são aprovados por despacho do director-geral dos Registos e do Notariado.
+
+3 - As requisições de certidões podem ser entregues na conservatória ou enviadas pelo correio ou ainda por via electrónica, nos termos previstos em diploma próprio.
+
+4 - Os pedidos de certidão de registo devem conter, além da identificação do requerente, o número de matrícula da entidade ou, nos casos de certidão negativa, o nome ou firma da entidade.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º — Conteúdo das certidões de registo
+
+As certidões de registo devem conter:
+
+a) A reprodução dos registos em vigor respeitantes à entidade em causa, salvo se tiverem sido pedidas com referência a todos os actos de registo;
+
+b) A menção das apresentações e dos pedidos de registo pendentes sobre a entidade em causa;
+
+c) As irregularidades ou deficiências de registo não rectificadas.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-A — Emissão de certidões
+
+1 - As certidões são emitidas imediatamente após a recepção do requerimento.
+
+2 - Sem prejuízo de outros fundamentos de recusa de emissão de certidão previstos na lei, a emissão da certidão deve ser recusada nos casos seguintes:
+
+a) Se o requerimento não contiver os elementos previstos no n.º 4 do artigo 77.º;
+
+b) Se a entidade não estiver sujeita a registo.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+## Secção III — Bases de dados do registo comercial
+
+> Aditado pelo/a Artigo 7.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-B — Finalidade da base de dados
+
+A base de dados do registo comercial tem por finalidade organizar e manter actualizada a informação respeitante à situação jurídica das entidades sujeitas a tal registo com vista à segurança do comércio jurídico, nos termos e para os efeitos previstos na lei, não podendo ser utilizada para qualquer outra finalidade com aquela incompatível.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-C — Entidade responsável pelo tratamento da base de dados
+
+1 - O director-geral dos Registos e do Notariado é o responsável pelo tratamento da base de dados, nos termos e para os efeitos definidos na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, sem prejuízo da responsabilidade que, nos termos da lei, é atribuída aos conservadores.
+
+2 - Cabe ao director-geral dos Registos e do Notariado assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões e a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou comunicação da informação.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-D — Dados recolhidos
+
+1 - São recolhidos para tratamento automatizado os dados pessoais referentes a:
+
+a) Sujeitos do registo;
+
+b) Apresentantes dos pedidos de registo.
+
+2 - Relativamente aos sujeitos do registo, são recolhidos os seguintes dados pessoais:
+
+a) Nome;
+
+b) Estado civil e, sendo o de solteiro, menção de maioridade ou menoridade;
+
+c) Nome do cônjuge e regime de bens;
+
+d) Residência habitual ou domicílio profissional;
+
+e) Número do documento de identificação;
+
+f) Número de identificação fiscal.
+
+g) Nacionalidade;
+
+h) Endereço eletrónico, quando facultado.
+
+3 - Relativamente aos apresentantes dos pedidos de registo, são recolhidos os seguintes dados pessoais:
+
+a) Nome;
+
+b) Residência habitual ou domicílio profissional;
+
+c) Número do documento de identificação;
+
+d) Número de identificação bancária, se disponibilizado pelo apresentante.
+
+4 - São ainda recolhidos quaisquer outros dados referentes à situação jurídica das entidades sujeitas a registo.
+
+5 - O dado referido na alínea e) do n.º 2 não é publicitado com o registo, sem prejuízo da sua disponibilização com a restante informação, nos termos do n.º 2 do artigo 78.º-F e do artigo 78.º-H.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05, em vigor a partir de 2023-12-06
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09, em vigor a partir de 2021-12-10
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-E — Modo de recolha
+
+1 - Os dados pessoais constantes da base de dados têm por suporte a identificação dos sujeitos activos e passivos dos factos sujeitos a registo e são recolhidos dos documentos apresentados pelos interessados.
+
+2 - Dos modelos destinados ao pedido de registo devem constar as informações previstas no n.º 1 do artigo 10.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-F — Comunicação e acesso aos dados
+
+1 - Os dados referentes à situação jurídica de qualquer entidade sujeita a registo comercial constantes da base de dados podem ser comunicados a qualquer pessoa que o solicite, nos termos previstos neste Código.
+
+2 - Os dados pessoais referidos no n.º 2 do artigo 78.º-D podem ainda ser comunicados aos organismos e serviços do Estado e demais pessoas colectivas de direito público para prossecução das respectivas atribuições legais e estatutárias.
+
+3 - Às entidades referidas no número anterior pode ser autorizada a consulta através de linha de transmissão de dados, garantido o respeito pelas normas de segurança da informação e da disponibilidade técnica.
+
+4 - A informação pode ser divulgada para fins de investigação científica ou de estatística desde que não possam ser identificáveis as pessoas a que respeita.
+
+5 - A informação para fins de investigação científica ou de estatística relativa a entidades sujeitas a registo comercial pode resultar do cruzamento dos dados contidos nas diversas bases de dados registais, Ficheiro Central de Pessoas Coletivas e Base de Dados das Contas Anuais, desde que não possam ser individualizadas as entidades a que respeita a informação.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-01
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-G — Condições de comunicação e acesso aos dados
+
+1 - A comunicação de dados deve obedecer às disposições gerais de protecção de dados pessoais constantes da Lei n.º 67/98, de 26 de Outubro, designadamente respeitar as finalidades para as quais foi autorizada a consulta, limitando o acesso ao estritamente necessário e não utilizando a informação para outros fins.
+
+2 - A consulta referida no n.º 3 do artigo anterior depende da celebração de protocolo com a Direcção-Geral dos Registos e do Notariado, que define os seus limites face às atribuições legais e estatutárias das entidades interessadas.
+
+3 - A Direcção-Geral dos Registos e do Notariado comunica ao organismo processador dos dados os protocolos celebrados a fim de que este providencie para que a consulta por linha de transmissão possa ser efectuada, nos termos e condições deles constantes.
+
+4 - A Direcção-Geral dos Registos e do Notariado remete obrigatoriamente à Comissão Nacional de Protecção de Dados cópia dos protocolos celebrados, devendo fazê-lo por via electrónica.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-H — Acesso directo aos dados
+
+1 - Podem aceder directamente aos dados referidos nos n.os 1 e 2 do artigo 78.º-F:
+
+a) Os magistrados judiciais e do Ministério Público, no âmbito da prossecução das suas atribuições;
+
+b) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;
+
+c) As entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins.
+
+2 - As condições de acesso directo pelas entidades referidas no número anterior são definidas por despacho do director-geral dos Registos e do Notariado.
+
+3 - As entidades autorizadas a aceder directamente aos dados obrigam-se a adoptar todas as medidas necessárias à estrita observância das regras de segurança estabelecidas na Lei n.º 67/98, de 26 de Outubro.
+
+4 - As entidades referidas na alínea a) do n.º 1 podem fazer-se substituir por funcionários por si designados.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-I — Direito à informação
+
+1 - Qualquer pessoa tem o direito de ser informada sobre os dados pessoais que lhe respeitem e a respectiva finalidade, bem como sobre a identidade e o endereço do responsável pela base de dados.
+
+2 - A actualização e a correcção de eventuais inexactidões realiza-se nos termos e pela forma previstos neste Código, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 11.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-J — Segurança da informação
+
+1 - O director-geral dos Registos e do Notariado e as entidades referidas no n.º 2 do artigo 78.º-F devem adoptar as medidas de segurança referidas no n.º 1 do artigo 15.º da Lei n.º 67/98, de 26 de Outubro.
+
+2 - À base de dados devem ser conferidas as garantias de segurança necessárias a impedir a consulta, a modificação, a supressão, o acrescentamento ou a comunicação de dados por quem não esteja legalmente habilitado.
+
+3 - Para efeitos de controlo de admissibilidade da consulta, 1 em cada 10 pesquisas efectuadas pelas entidades que tenham acesso à base de dados é registada informaticamente.
+
+4 - As entidades referidas no n.º 1 obrigam-se a manter uma lista actualizada das pessoas autorizadas a aceder à base de dados.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 78.º-L — Sigilo
+
+1 - A comunicação ou a revelação dos dados pessoais registados na base de dados só podem ser efectuadas nos termos previstos neste Código.
+
+2 - Os funcionários dos registos e do notariado, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados na base de dados do registo comercial, ficam obrigados a sigilo profissional, nos termos do n.º 1 do artigo 17.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+## Capítulo VI — Suprimento, rectificação e reconstituição do registo
+
+### Artigo 79.º — Suprimento
+
+1 - Os adquirentes da propriedade ou do usufruto de quotas ou de partes do capital social que não disponham de documento para a prova do seu direito, bem como os gerentes ou administradores da sociedade, podem, para fins de registo, suprir a intervenção dos titulares inscritos mediante escritura de justificação notarial ou processo de justificação, ao qual é aplicável o regime previsto no Código do Registo Predial com as necessárias adaptações.
+
+2 - O disposto no número anterior é aplicável à divisão ou unificação de quotas.
+
+3 - A impossibilidade de comprovar o pagamento dos impostos referentes às transmissões justificadas, quando certificada pela repartição de finanças, dispensa a apreciação da regularidade fiscal das mesmas transmissões.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 79.º-A — Procedimento simplificado de justificação
+
+1 - A justificação das situações de dissolução imediata de sociedades a que se refere o n.º 2 do artigo 141.º do Código das Sociedades Comerciais pode ser declarada em procedimento simplificado de justificação.
+
+2 - O procedimento inicia-se mediante requerimento escrito dos interessados com alegação da situação que fundamenta a dissolução imediata e confirmação do facto por três declarantes que o conservador considere dignos de crédito.
+
+3 - Quando o pedido seja efectuado presencialmente perante funcionário competente, esse pedido é sempre verbal e reduzido a auto, não havendo lugar a qualquer requerimento escrito.
+
+4 - Verificando-se o disposto nos números anteriores, o conservador profere decisão pela qual declara justificada a dissolução da sociedade, lavra o registo da dissolução e promove as comunicações previstas no regime jurídico do procedimento administrativo de dissolução de entidades comerciais.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 80.º — Suprimento em caso de arresto penhora ou apreensão
+
+1 - Havendo registo provisório de arresto, penhora ou apreensão em processo de insolvência de quotas ou de direitos relativos a partes sociais inscritas em nome de pessoa diversa do requerido, executado, ou insolvente, o juiz deve ordenar a citação do titular inscrito para declarar, no prazo de 10 dias, se a quota ou parte social lhe pertence.
+
+2 - No caso de ausência ou falecimento do titular da inscrição, far-se-á a citação deste ou dos seus herdeiros, independentemente de habilitação.
+
+3 - Se o citado declarar que as quotas ou partes sociais lhe não pertencem ou não fizer declaração alguma, será expedida certidão do facto à conservatória para conversão oficiosa do registo.
+
+4 - Se o citado declarar que as quotas ou partes sociais lhe pertencem, o juiz remeterá os interessados para os meios processuais comuns, expedindo-se igualmente certidão do facto, com a data da notificação da declaração, para ser anotado no registo.
+
+5 - O registo da acção declarativa na vigência do registo provisório é anotado neste e prorroga o respectivo prazo até caducar ou ser cancelado o registo da acção.
+
+6 - No caso de procedência da acção, pode o interessado pedir a conversão do registo no prazo de oito dias a contar do trânsito em julgado.
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 53/2004 - Diário da República n.º 66/2004, Série I-A de 2004-03-18, em vigor a partir de 2004-09-14
+
+### Artigo 82.º — Iniciativa
+
+1 - Os registos inexactos e os registos indevidamente lavrados devem ser rectificados por iniciativa do conservador, logo que tome conhecimento da irregularidade, ou a pedido de qualquer interessado, ainda que não inscrito.
+
+2 - Os registos indevidamente efectuados que sejam nulos nos termos das alíneas b) e d) do n.º 1 do artigo 22.º podem ser cancelados com o consentimento dos interessados ou em execução de decisão tomada neste processo.
+
+3 - A rectificação do registo é feita, em regra, por averbamento, a lavrar no termo do processo especial para esse efeito previsto neste Código.
+
+4 - (Revogado).
+
+5 - Os registos lançados em ficha distinta daquela em que deviam ter sido lavrados são oficiosamente transcritos na ficha que lhes corresponda, anotando-se ao registo errado a sua inutilização e a indicação da ficha em que foi transcrito.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Retificado pelo/a Declaração de Rectificação n.º 20-AS/2001 - Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30, em vigor a partir de 1987-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 81.º — Processo especial de rectificação
+
+1 - O processo previsto neste capítulo visa a rectificação dos registos e é regulado pelos artigos seguintes e, subsidiariamente, pelo Código de Processo Civil.
+
+2 - O processo especial de rectificação é aplicável, com as necessárias adaptações, aos registos por depósito.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 84.º — Pedido de rectificação
+
+1 - No pedido de rectificação devem ser especificados os fundamentos e a identidade dos interessados.
+
+2 - O pedido de rectificação é acompanhado dos meios de prova necessários e do pagamento dos emolumentos devidos.
+
+3 - Constitui causa de rejeição do pedido a falta de pagamento dos emolumentos devidos.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 83.º — Efeitos da rectificação
+
+A rectificação do registo não prejudica os direitos adquiridos a título oneroso por terceiros de boa-fé, se o registo dos factos correspondentes for anterior ao registo da rectificação ou da pendência do respectivo processo.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 31/93 - Diário da República n.º 36/1993, Série I-A de 1993-02-12, em vigor a partir de 1993-02-17
+
+### Artigo 85.º — Consentimento dos interessados
+
+Se a rectificação tiver sido requerida por todos os interessados, é rectificado o registo sem necessidade de outra qualquer formalidade, se os pressupostos da rectificação pedida resultarem dos documentos apresentados.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 86.º — Casos de dispensa de consentimento dos interessados
+
+1 - A rectificação que não seja susceptível de prejudicar direitos dos titulares inscritos é efectuada, mesmo sem necessidade do seu consentimento, nos casos seguintes:
+
+a) Sempre que a inexactidão provenha da desconformidade com o título, analisados os documentos que serviram de base ao registo;
+
+b) Sempre que, provindo a inexactidão de deficiência dos títulos, a rectificação seja requerida por qualquer interessado com base em documento bastante.
+
+2 - Deve entender-se que a rectificação de registo inexacto por desconformidade com o título não prejudica o titular do direito nele inscrito.
+
+3 - Presume-se que da rectificação não resulta prejuízo para a herança se tal for declarado pelo respectivo cabeça-de-casal.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 88.º — Indeferimento liminar
+
+1 - Sempre que o pedido se prefigure como manifestamente improcedente, o conservador indefere liminarmente o requerido, por despacho fundamentado de que notifica o requerente.
+
+2 - A decisão de indeferimento liminar pode ser impugnada nos termos do artigo 92.º
+
+3 - Pode o conservador, face aos fundamentos alegados no recurso interposto, reparar a sua decisão de indeferir liminarmente o pedido mediante despacho fundamentado que ordene o prosseguimento do processo, do qual é notificado o recorrente.
+
+4 - Não sendo a decisão reparada, são notificados os interessados a que se refere o artigo 90.º para, no prazo de 10 dias, impugnarem os fundamentos do recurso, remetendo-se o processo à entidade competente.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 87.º — Averbamento de pendência da rectificação
+
+1 - Quando a rectificação não seja de efectuar nos termos dos artigos 85.º ou 86.º, é averbada ao respectivo registo a pendência da rectificação, com referência à anotação no Diário do requerimento inicial ou à data em que tiver sido levantado o auto de verificação da inexactidão, consoante os casos.
+
+2 - O averbamento a que se refere o número anterior não prejudica o decurso do prazo de caducidade a que o registo rectificando esteja sujeito.
+
+3 - Os registos de outros factos que venham a ser lavrados e que dependam, directa ou indirectamente, da rectificação pendente, estão sujeitos ao regime de provisoriedade previsto na alínea b) do n.º 2 do artigo 64.º, sendo-lhes aplicável, com as adaptações necessárias, o disposto no n.º 4 do artigo 65.º
+
+4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a rectificação ou declare findo o processo.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 89.º — Emolumentos
+
+1 - Quando não haja motivo para indeferimento liminar, são os requerentes notificados para efectuarem o pagamento dos emolumentos que sejam devidos pela instrução e decisão do processo.
+
+2 - O pagamento desses emolumentos é efectuado no prazo de cinco dias a contar da data da notificação, podendo ainda os requerentes efectuá-lo nos oito dias após o termo deste prazo com agravamento de 20%.
+
+3 - Findo este último prazo sem que o pagamento se mostre efectuado, o conservador declara o processo findo e do respectivo despacho notifica os requerentes.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 90.º — Notificação
+
+1 - Os interessados não requerentes são notificados para, no prazo de 10 dias, deduzirem oposição à rectificação, devendo juntar os elementos de prova e pagar os emolumentos devidos.
+
+2 - Se os interessados forem incertos, o conservador notifica o Ministério Público, nos termos previstos no número anterior.
+
+3 - A notificação realiza-se por via electrónica, nos termos a definir por portaria do membro do Governo responsável pela área da justiça ou, não sendo possível, por carta registada com aviso de recepção.
+
+4 - Se não for possível realizar a notificação pela forma prevista no n.º 3, por esta ter sido devolvida ou por o aviso de recepção não ter sido assinado por o destinatário se ter recusado a recebê-lo, é publicado um aviso, nos termos do n.º 1 do artigo 167.º do Código das Sociedades Comerciais.
+
+5 - Não é devida taxa pela publicação referida no número anterior.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Retificado pelo/a Declaração de Rectificação n.º 20-AS/2001 - Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30, em vigor a partir de 1987-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 91.º — Instrução e decisão
+
+1 - Recebida a oposição ou decorrido o respectivo prazo, o conservador procede às diligências necessárias à produção de prova.
+
+2 - A prova testemunhal tem lugar mediante a apresentação das testemunhas pela parte que as tiver indicado, em número não superior a três, sendo os respectivos depoimentos reduzidos a escrito por extracto.
+
+3 - A perícia é requisitada pelo conservador ou realizada por perito a nomear nos termos previstos no artigo 568.º do Código de Processo Civil, aplicável com as necessárias adaptações.
+
+4 - O conservador pode, em qualquer caso, ordenar as diligências e a produção de prova que considerar necessárias.
+
+5 - (Revogado).
+
+6 - A decisão sobre o pedido de rectificação é proferida pelo conservador no prazo de 10 dias.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 92.º — Recurso hierárquico e impugnação judicial
+
+1 - A decisão de indeferimento do pedido de rectificação pode ser impugnada mediante a interposição de recurso hierárquico para o director-geral dos Registos e do Notariado, nos termos previstos nos artigos 101.º e seguintes ou mediante impugnação judicial para o tribunal da comarca da área da circunscrição a que pertence a conservatória, nos termos dos números seguintes.
+
+2 - Têm legitimidade para impugnar judicialmente a decisão do conservador qualquer interessado e o Ministério Público.
+
+3 - A impugnação judicial prevista no n.º 1 tem efeito suspensivo e deve ser proposta no prazo previsto no artigo 685.º do Código de Processo Civil.
+
+4 - A impugnação judicial é proposta por meio de requerimento onde são expostos os respectivos fundamentos.
+
+5 - A propositura de acção de impugnação judicial considera-se efectuada com a apresentação do respectivo requerimento na conservatória em que o processo foi objecto da decisão impugnada, sendo aquela anotada no Diário.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 375-A/99 - Diário da República n.º 220/1999, 1º Suplemento, Série I-A de 1999-09-20, em vigor a partir de 1999-10-20
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 93.º — Decisão da impugnação judicial
+
+1 - Recebido o processo, o juiz ordena a notificação dos interessados para, no prazo de 10 dias, impugnarem os fundamentos da impugnação judicial.
+
+2 - Não havendo lugar a qualquer notificação, ou findo o prazo a que se refere o número anterior, vai o processo com vista ao Ministério Público.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Retificado pelo/a Declaração de Rectificação n.º 20-AS/2001 - Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30, em vigor a partir de 1987-01-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2000-01-10
+
+### Artigo 93.º-A — Recurso para o tribunal da Relação
+
+1 - Da sentença proferida pelo tribunal de 1.ª instância podem interpor recurso para o tribunal da Relação os interessados, o conservador e o Ministério Público.
+
+2 - O recurso, que tem efeito suspensivo, é processado e julgado como agravo em matéria cível.
+
+3 - Do acórdão do tribunal da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 93.º-B — Devolução do processo
+
+Após o trânsito em julgado da sentença ou do acórdão proferidos, o tribunal devolve à conservatória o processo de rectificação.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 93.º-C — Gratuitidade do registo e custas
+
+O registo da rectificação é gratuito, salvo se se tratar de inexactidão proveniente de deficiência dos títulos.
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26, em vigor a partir de 2009-04-20
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 94.º — Reconstituição
+
+1 - Em caso de extravio ou inutilização dos suportes documentais, os registos podem ser reconstituídos por reprodução a partir dos arquivos existentes, por reelaboração do registo com base nos respectivos documentos, ou por reforma dos referidos suportes.
+
+2 - A data da reconstituição dos registos deve constar da ficha.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 93.º-D — Incompatibilidades
+
+Ao conservador que exerça advocacia é vedada a aceitação do patrocínio nos processos de rectificação previstos no presente capítulo.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13, em vigor a partir de 2002-01-01
+
+### Artigo 94.º-A — Reelaboração do registo
+
+1 - O extravio ou inutilização de um suporte de registo determina a reelaboração oficiosa de todos os registos respeitantes à entidade comercial.
+
+2 - Devem ser requisitados aos serviços competentes os documentos que se mostrem necessários à reelaboração do registo, os quais são isentos de emolumentos e de quaisquer outros encargos legais.
+
+> Aditado pelo/a Artigo 10.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+### Artigo 94.º-B — Reelaboração do registo
+
+1 - O extravio ou inutilização de um suporte de registo determina a reelaboração oficiosa de todos os registos respeitantes à entidade comercial.
+
+2 - Devem ser requisitados aos serviços competentes os documentos que se mostrem necessários à reelaboração do registo, os quais são isentos de emolumentos e de quaisquer outros encargos legais.
+
+### Artigo 95.º — Processo de reforma
+
+1 - O processo de reforma inicia-se com a remessa ao Ministério Público de auto lavrado pelo conservador, do qual devem constar as circunstâncias do extravio ou inutilização, a especificação dos suportes documentais abrangidos e a referência ao período a que correspondem os registos.
+
+2 - O Ministério Público deve requerer ao juiz a citação edital dos interessados para, no prazo de dois meses, apresentarem na conservatória os documentos de que disponham; dos editais deve constar o período a que os registos respeitam.
+
+3 - Decorrido o prazo dos editais e julgada válida a citação, por despacho transitado em julgado, o Ministério Público deve promover a comunicação do facto ao conservador.
+
+### Artigo 96.º — Reclamações
+
+1 - Concluída a reforma, o conservador deve participar o facto ao Ministério Público, a fim de que este promova nova citação edital dos interessados para examinarem os registos reconstituídos e apresentarem na conservatória as suas reclamações no prazo de 30 dias.
+
+2 - Quando a reclamação tiver por fundamento a omissão de alguma inscrição, esta é lavrada como provisória por natureza, com base na petição do reclamante e nos documentos apresentados.
+
+3 - Se a reclamação visar o próprio registo reformado, devem ser juntas ao processo de reclamação cópias do registo impugnado e dos documentos que lhe serviram de base e deve anotar-se a pendência da reclamação.
+
+4 - Cumprido o disposto nos dois números anteriores, as reclamações são remetidas, para decisão, ao tribunal competente, com informação do conservador.
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 97.º — Suprimento de omissões não reclamadas
+
+1 - A omissão não reclamada de algum registo só pode ser suprida por meio de acção intentada contra aqueles a quem o interessado pretenda opor a prioridade do registo.
+
+2 - A acção não prejudica os direitos decorrentes de factos registados antes do registo da acção que não tenham constado dos suportes documentais reformados.
+
+## Capítulo VII — Impugnação de decisões
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 98.º — Reclamação
+
+Do despacho de recusa do conservador em efectuar qualquer acto de registo nos termos requeridos cabe reclamação para o próprio conservador.
+
+### Artigo 99.º — Prazo e formalidades de reclamação
+
+1 - O prazo para a dedução da reclamação é de 30 dias a contar do termo do prazo do registo.
+
+2 - Se o pedido de registo tiver sido feito pelo correio ou se o despacho tiver sido proferido fora do prazo fixado na lei para a realização do registo, o prazo para a interposição da reclamação conta-se a partir da data da notificação desse mesmo despacho.
+
+3 - A reclamação deve ser escrita e fundamentada.
+
+### Artigo 100.º — Apreciação da reclamação
+
+1 - No prazo de cinco dias, o conservador deve apreciar a reclamação e proferir despacho fundamentado a reparar ou a manter a decisão.
+
+2 - O despacho é sempre notificado ao reclamante no prazo de 48 horas.
+
+### Artigo 101.º — Admissibilidade e prazo
+
+1 - A decisão de recusa da prática do acto de registo nos termos requeridos pode ser impugnada mediante a interposição de recurso hierárquico para o director-geral dos Registos e do Notariado ou mediante impugnação judicial para o tribunal da área da circunscrição a que pertence a conservatória.
+
+2 - O prazo para impugnar judicialmente a decisão referida no n.º 1 é de 30 dias a contar da notificação a que se refere o artigo 50.º
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 101.º-A — Interposição de recurso hierárquico e impugnação judicial
+
+1 - O recurso hierárquico ou a impugnação judicial interpõem-se por meio de requerimento em que são expostos os seus fundamentos.
+
+2 - A interposição de recurso hierárquico ou a impugnação judicial consideram-se feitas com a apresentação das respectivas petições na conservatória competente.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 101.º-B — Tramitação subsequente
+
+1 - Impugnada a decisão e independentemente da categoria funcional de quem tiver lavrado o despacho recorrido, este é submetido à apreciação do conservador, o qual deve proferir, no prazo de 10 dias, despacho a sustentar ou a reparar a decisão, dele notificando o recorrente.
+
+2 - A notificação referida no número anterior deve ser acompanhada do envio ou entrega ao notificando de fotocópia dos documentos juntos ao processo.
+
+3 - Sendo sustentada a decisão, o processo deve ser remetido à entidade competente, no prazo de cinco dias, instruído com fotocópia autenticada do despacho de qualificação do registo e dos documentos necessários à sua apreciação.
+
+4 - A tramitação da impugnação judicial, incluindo a remessa dos elementos referidos no número anterior ao tribunal competente, é efectuada electronicamente, nos termos a definir por portaria do Ministro da Justiça.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 102.º — Decisão do recurso hierárquico
+
+1 - O recurso hierárquico é decidido no prazo de 90 dias, pelo presidente do Instituto dos Registos e do Notariado, I. P., que pode determinar que seja previamente ouvido o conselho técnico.
+
+2 - (Revogado.)
+
+3 - A decisão proferida é notificada ao recorrente e comunicada ao conservador que sustentou a decisão.
+
+4 - Sendo o recurso hierárquico deferido, deve ser dado cumprimento à decisão no próprio dia.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 103.º — Notificação da decisão
+
+A decisão proferida é notificada, por carta registada, ao reclamante e comunicada ao funcionário reclamado.
+
+### Artigo 104.º — Impugnação judicial subsequente a recurso hierárquico
+
+1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode ainda impugnar judicialmente a decisão de qualificação do acto de registo.
+
+2 - A impugnação judicial é proposta mediante apresentação do requerimento na conservatória competente, no prazo de 20 dias a contar da data da notificação da decisão que tiver julgado improcedente o recurso hierárquico.
+
+3 - O processo é remetido ao tribunal no prazo de cinco dias, instruído com o de recurso hierárquico.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 105.º — Julgamento
+
+1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público para emissão de parecer.
+
+2 - O juiz que tenha intervindo no processo donde conste o acto cujo registo está em causa fica impedido de julgar a impugnação judicial.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 106.º — Recurso de sentença
+
+1 - Da sentença proferida podem sempre interpor recurso para a Relação, com efeito suspensivo, o impugnante, o conservador que sustenta, o presidente do Instituto dos Registos e do Notariado, I. P., e o Ministério Público.
+
+2 - Para os efeitos previstos no número anterior, a sentença é sempre notificada ao presidente do Instituto dos Registos e do Notariado, I. P.
+
+3 - (Revogado.)
+
+4 - Do acórdão da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 375-A/99 - Diário da República n.º 220/1999, 1º Suplemento, Série I-A de 1999-09-20, em vigor a partir de 1999-10-20
+
+> Rectificado pelo/a Declaração - Diário da República n.º 26/1987, 1º Suplemento, Série I de 1987-01-31, em vigor a partir de 1987-02-05
+
+### Artigo 107.º — Comunicações oficiosas
+
+1 - Após o trânsito em julgado da decisão, a secretaria comunica a decisão proferida ao serviço de registo.
+
+2 - A secretaria deve igualmente comunicar à conservatória:
+
+a) A desistência ou deserção da instância;
+
+b) O facto de o processo ter estado parado mais de 30 dias por inércia do autor.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 108.º — Valor da acção
+
+O valor da acção é o do facto cujo registo foi recusado ou feito provisoriamente.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 109.º — Interposição de reclamação ou recurso por notário
+
+1 - Quando a recusa do conservador em efectuar qualquer acto de registo, nos termos requeridos, se fundamente em vício de que alegadamente enfermem os títulos lavrados por notário, a este assiste o direito de interpor reclamação e recurso hierárquico, nos termos e prazos estabelecidos.
+
+2 - O processo de reclamação deve ser instruído, neste caso, com autorização escrita e assinada pelo interessado presumivelmente prejudicado com a decisão.
+
+### Artigo 109.º-A — Direito subsidiário
+
+Aos recursos hierárquicos previstos nos artigos anteriores é aplicável, subsidiariamente, o disposto no Código do Procedimento Administrativo.
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 110.º — Impugnação da recusa de emissão de certidões
+
+1 - Assiste ao interessado o direito de recorrer hierarquicamente ou de promover a impugnação judicial da decisão de recusa de emissão de certidão.
+
+2 - Sem prejuízo do disposto nos números seguintes, ao recurso hierárquico a que se refere o número anterior é aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 101.º e nos artigos 101.º-A, 101.º-B e 102.º
+
+3 - No recurso hierárquico a que se refere o presente artigo, os prazos estabelecidos nos n.os 1 e 3 do artigo 101.º-B e no n.º 1 do artigo 102.º são reduzidos a 5, 2 e 30 dias, respetivamente.
+
+4 - O prazo para a interposição do recurso hierárquico conta-se a partir da comunicação do despacho de recusa.
+
+5 - Ao recurso hierárquico a que se refere o presente artigo é subsidiariamente aplicável o disposto no Código do Procedimento Administrativo.
+
+6 - A impugnação judicial prevista no n.º 1 é dirigida ao tribunal administrativo com jurisdição sobre a área da circunscrição da conservatória e rege-se pelo disposto na legislação processual aplicável.
+
+> Alterado pelo/a Artigo 22.º do/a Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17, em vigor a partir de 2015-11-01
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 111.º — Efeitos da impugnação
+
+1 - A interposição de recurso hierárquico ou a impugnação judicial devem ser imediatamente anotadas, a seguir à anotação da recusa ou ao registo provisório.
+
+2 - São ainda anotadas a improcedência ou a desistência do recurso hierárquico ou da impugnação judicial, bem como, sendo caso disso, a deserção da instância ou a paragem do processo durante mais de 30 dias por inércia do autor.
+
+3 - Com a propositura da acção ou a interposição de recurso hierárquico fica suspenso o prazo de caducidade do registo provisório até lhe serem anotados os factos referidos no número anterior.
+
+4 - Proferida decisão final que julgue insubsistente a recusa da prática do acto nos termos requeridos, deve ser efectuado o registo recusado, com base na apresentação correspondente, ou convertido oficiosamente o registo provisório.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+### Artigo 112.º — Registos dependentes
+
+1 - No caso de recusa, julgado procedente o recurso hierárquico ou a impugnação judicial, deve anotar-se a caducidade dos registos provisórios incompatíveis com o acto inicialmente recusado e converter-se oficiosamente os registos dependentes, salvo se outra for a consequência da requalificação do registo dependente.
+
+2 - Verificando-se a caducidade do direito de impugnação ou qualquer dos factos previstos no n.º 2 do artigo anterior, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis, salvo se outra for a consequência da requalificação do registo dependente.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04, em vigor a partir de 2008-07-21
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+## Capítulo VIII — Disposições diversas
+
+### Artigo 112.º-A — Legalização de livros
+
+1 - A legalização dos livros dos comerciantes, quando determinada na lei, deve ser realizada pela conservatória do registo comercial competente.
+
+2 - É competente a conservatória que detenha a pasta pertencente à entidade a que os livros respeitem.
+
+3 - A legalização é feita no prazo de quarenta e oito horas e consiste na indicação do número de matrícula e na assinatura dos termos de abertura e de encerramento, bem como na rubrica das folhas.
+
+4 - A rubrica das folhas pode ser aposta por chancela.
+
+5 - As assinaturas e rubricas referidas nos números anteriores podem ser feitas pelos funcionários competentes para assinar certidões.
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 257/96 - Diário da República n.º 302/1996, Série I-A de 1996-12-31, em vigor a partir de 1997-01-05
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+### Artigo 112.º-B — Nomeação de auditores e de revisores oficiais de contas
+
+1 - Sempre que a lei exija a nomeação de peritos ou de auditores, bem como de revisores oficiais de contas, e a mesma não possa ser feita pela sociedade, mas seja admitida por processo extrajudicial, deve a entidade interessada requerer à conservatória competente que designe os peritos respectivos.
+
+2 - Logo que apresentado o requerimento, a conservatória oficia, no prazo de dois dias, à Ordem dos Revisores Oficiais de Contas ou, não sendo esta entidade a legalmente competente, ao organismo representativo dos peritos em causa, havendo-o, ou, ainda, em caso negativo, à câmara de comércio mencionado pelo requente, solicitando a indicação dos nomes e das moradas dos peritos a nomear.
+
+3 - Recebida a comunicação, o conservador, no prazo de três dias, verifica, designadamente em face dos registos existentes na conservatória e dos elementos de que disponha, a existência de alguma incompatibilidade legal relativamente ao perito indicado.
+
+4 - No caso de existir incompatibilidade, directa ou indirecta, com a pessoa indigitada, a conservatória solicita, nos mesmos termos e dentro de igual prazo, a indicação de outro perito.
+
+5 - Não existindo incompatibilidade, o conservador procede imediatamente à nomeação, por despacho exarado no próprio requerimento, e comunica o facto, no prazo de vinte e quatro horas, à entidade interessada.
+
+6 - (Revogado.)
+
+7 - O disposto nos números anteriores não é aplicável à designação de peritos independentes no âmbito dos processos de constituição ou transformação de sociedades anónimas europeias, prevista nas normas comunitárias correspondentes, a qual se rege pelo disposto na legislação nacional aprovada em execução dessas normas.
+
+> Alterado pelo/a Artigo 12.º do/a Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17, em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 2/2005 - Diário da República n.º 2/2005, Série I-A de 2005-01-04, em vigor a partir de 2005-01-05
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+## Capítulo IX — Disposições diversas
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+### Artigo 113.º — Modelos oficiais
+
+Os modelos de suportes documentais previstos neste Código são aprovados por despacho do director-geral dos Registos e do Notariado.
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20
+
+### Artigo 114.º — Pagamento dos emolumentos e taxas
+
+1 - Os emolumentos e taxas devidas pelos atos praticados nos serviços de registo são pagos em simultâneo com o pedido ou antes deste.
+
+2 - Quem apresenta o registo ou pede o ato deve proceder à entrega das importâncias que se mostrem devidas, nestas se incluindo as relativas ao cumprimento tardio da obrigação de registar.
+
+3 - O agravamento emolumentar estabelecido no n.º 1 do artigo 17.º é receita do Instituto dos Registos e do Notariado, I. P.
+
+4 - Sempre que os emolumentos devam entrar em regra de custas, as quantias são descontadas na receita do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.), cobrada pelos serviços do registo.
+
+5 - O montante que vier a ser obtido por via das custas judiciais constitui receita do IGFIJ, I. P., na parte que lhe couber.
+
+6 - Não obsta ao disposto no número anterior a eventual incobrabilidade da conta de custas ou o benefício de apoio judiciário do requerente.
+
+7 - Para a confirmação da liquidação de contas emolumentares é competente o conservador e qualquer oficial dos registos.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 250/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23, em vigor a partir de 2012-12-01
+
+> Alterado pelo/a Artigo 30.º do/a Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, 1º Suplemento, Série I de 2008-12-30, em vigor a partir de 2008-12-31
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1994-08-25
+
+### Artigo 115.º — Direito subsidiário
+
+São aplicáveis, com as necessárias adaptações, ao registo comercial, na medida indispensável ao preenchimento das lacunas da regulamentação própria, as disposições relativas ao registo predial que não sejam contrárias aos princípios informadores do presente diploma.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 216/94 - Diário da República n.º 192/1994, Série I-A de 1994-08-20, em vigor a partir de 1990-01-01
+
+> Aditado pelo/a Artigo 2.º do/a Decreto-Lei n.º 349/89 - Diário da República n.º 236/1989, Série I de 1989-10-13, em vigor a partir de 1990-01-01
+
+### Artigo 116.º — Tramitação, comunicações e notificações por via electrónica
+
+1 - A tramitação dos procedimentos e actos para os quais a conservatória seja competente, bem como a tramitação dos recursos e impugnações previstos no presente diploma, pode ser integralmente electrónica, em termos a regulamentar por portaria do Ministro da Justiça, sem prejuízo do disposto no n.º 2 do artigo 57.º
+
+2 - Todas as comunicações e notificações previstas no presente Código podem ser efectuadas por via electrónica, nos termos a regulamentar por portaria do Ministro da Justiça.
+
+3 - As notificações efetuadas por via eletrónica consideram-se efetuadas no terceiro dia posterior ao do seu envio, ou no primeiro dia útil seguinte a esse, quando o não seja.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03, em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31
+
+> Aditado pelo/a Artigo 6.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29, em vigor a partir de 2007-01-01

@@ -1,0 +1,5147 @@
+---
+diploma: Decreto-Lei n.º 53/2004
+tipo: Decreto-Lei
+numero: 53/2004
+data_publicacao: '2004-03-18'
+sumario: No uso da autorização legislativa concedida pela Lei n.º 39/2003, de 22 de Agosto, aprova o Código da Insolvência e da Recuperação de Empresas
+vigencia_dre: VIGENTE
+texto: consolidado (DRE)
+versao_consolidada_de: '2024-11-07'
+transpoe:
+- 32015L0849
+url_dre: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423
+url_consolidada: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34529075
+eli: https://data.dre.pt/eli/dec-lei/53/2004/p/cons/20241107/pt/html
+fonte: Diário da República Eletrónico (INCM) — diariodarepublica.pt
+obtido_em: '2026-10-10'
+---
+
+# Decreto-Lei n.º 53/2004
+
+**Sumário:** No uso da autorização legislativa concedida pela Lei n.º 39/2003, de 22 de Agosto, aprova o Código da Insolvência e da Recuperação de Empresas
+
+**Comunicado à Comissão Europeia como transpondo:** 32015L0849 (Branqueamento de capitais (diretiva)).
+
+**Texto:** versão consolidada do DRE, última alteração considerada em 2024-11-07. As linhas `> Alterado pelo/a …` indicam a origem de cada redacção.
+
+> Aviso do DRE: a edição eletrónica do Diário da República faz fé plena; o texto consolidado é produzido pela INCM "ainda que sem valor legal". Para efeitos legais, confirmar no ato original e nos diplomas que o alteraram.
+
+**DRE:** https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34529075
+
+## Texto
+
+1 - O XV Governo Constitucional assumiu, no seu programa, o compromisso de proceder à revisão do processo de recuperação de empresas e falência, com especial ênfase na sua agilização, bem como dos modos e procedimentos da liquidação de bens e pagamentos aos credores, tendo para o efeito apresentado à Assembleia da República uma proposta de lei de autorização de revisão do enquadramento legal actualmente em vigor nesta matéria.
+
+O Código dos Processos Especiais de Recuperação da Empresa e de Falência (CPEREF), aprovado pelo Decreto-Lei n.º 132/93, de 23 de Abril, constituiu um momento importante na regulamentação legal dos problemas do saneamento e falência de empresas que se encontrem insolventes ou em situação económica difícil. Eliminando a distinção, nesta sede, entre insolvência de comerciantes e não comerciantes, retirando do Código de Processo Civil a regulamentação processual e substantiva da falência, e conjugando num mesmo diploma, de forma inovadora, essa matéria com a da recuperação da empresa, a par de outras inovações de menor alcance, obtiveram-se com aquele diploma significativos avanços tanto do ponto de vista do aperfeiçoamento técnico-jurídico como da bondade das soluções respeitantes à insolvência de empresas e consumidores.
+
+Porém, várias circunstâncias tornaram premente a necessidade de uma ampla reforma, como hoje é amplamente reconhecido e como com o decurso dos anos se foi verificando.
+
+As estruturas representativas dos trabalhadores e os agentes económicos têm recorrentemente realçado a urgência na aprovação de medidas legislativas que resolvam ou, pelo menos, minorem os problemas que actualmente são sentidos na resolução célere e eficaz dos processos judiciais decorrentes da situação de insolvência das empresas. A manutenção do regime actual por mais tempo resultaria em agravados prejuízos para o tecido económico e para os trabalhadores.
+
+O carácter muitas vezes tardio do impulso do processo, a demora da tramitação em muitos casos, sobretudo quando processada em tribunais comuns, a duplicação de chamamentos dos credores ao processo, que deriva da existência de uma fase de oposição preliminar, comum ao processo de recuperação e ao de falência, a par de uma nova fase de reclamação de créditos uma vez proferido o despacho de prosseguimento da acção, as múltiplas possibilidades de convolação de uma forma de processo na outra, o carácter típico e taxativo das providências de recuperação, são, a par de vários outros aspectos que adiante se menciona, alguns dos motivos apontados para o inêxito da aplicação do CPEREF.
+
+2 - A reforma ora empreendida não se limita, porém, à colmatação pontual das deficiências da legislação em vigor, antes assenta no que se julga ser uma mais correcta perspectivação e delineação das finalidades e da estrutura do processo, a que preside uma filosofia autónoma e distinta, que cumpre brevemente apresentar.
+
+3 - O objectivo precípuo de qualquer processo de insolvência é a satisfação, pela forma mais eficiente possível, dos direitos dos credores.
+
+Quem intervém no tráfego jurídico, e especialmente quando aí exerce uma actividade comercial, assume por esse motivo indeclináveis deveres, à cabeça deles o de honrar os compromissos assumidos. A vida económica e empresarial é vida de interdependência, pelo que o incumprimento por parte de certos agentes repercute-se necessariamente na situação económica e financeira dos demais. Urge, portanto, dotar estes dos meios idóneos para fazer face à insolvência dos seus devedores, enquanto impossibilidade de pontualmente cumprir obrigações vencidas.
+
+Sendo a garantia comum dos créditos o património do devedor, é aos credores que cumpre decidir quanto à melhor efectivação dessa garantia, e é por essa via que, seguramente, melhor se satisfaz o interesse público da preservação do bom funcionamento do mercado.
+
+Quando na massa insolvente esteja compreendida uma empresa que não gerou os rendimentos necessários ao cumprimento das suas obrigações, a melhor satisfação dos credores pode passar tanto pelo encerramento da empresa, como pela sua manutenção em actividade. Mas é sempre da estimativa dos credores que deve depender, em última análise, a decisão de recuperar a empresa, e em que termos, nomeadamente quanto à sua manutenção na titularidade do devedor insolvente ou na de outrem. E, repise-se, essa estimativa será sempre a melhor forma de realização do interesse público de regulação do mercado, mantendo em funcionamento as empresas viáveis e expurgando dele as que o não sejam (ainda que, nesta última hipótese, a inviabilidade possa resultar apenas do facto de os credores não verem interesse na continuação).
+
+Entende-se que a situação não corresponde necessariamente a uma falha do mercado e que os mecanismos próprios deste conduzem a melhores resultados do que intervenções autoritárias. Ao direito da insolvência compete a tarefa de regular juridicamente a eliminação ou a reorganização financeira de uma empresa segundo uma lógica de mercado, devolvendo o papel central aos credores, convertidos, por força da insolvência, em proprietários económicos da empresa.
+
+4 - É com base nas considerações anteriores, sinteticamente expostas, que o novo Código da Insolvência e da Recuperação de Empresas (CIRE), que é aprovado pelo presente diploma, aproveitando também o ensinamento de outros ordenamentos jurídicos, adopta uma sistematização inteiramente distinta da do actual CPEREF (sem prejuízo de haver mantido, ainda que nem sempre com a mesma formulação ou inserção sistemática, vários dos seus preceitos e aproveitado inúmeros dos seus regimes).
+
+5 - Os sistemas jurídicos congéneres do nosso têm vindo a unificar os diferentes procedimentos que aí também existiam num único processo de insolvência, com uma tramitação supletiva baseada na liquidação do património do devedor e a atribuição aos credores da possibilidade de aprovarem um plano que se afaste deste regime, quer provendo à realização da liquidação em moldes distintos, quer reestruturando a empresa, mantendo-a ou não na titularidade do devedor insolvente. É o caso da recente lei alemã e da reforma do direito falimentar italiano em curso.
+
+6 - O novo Código acolhe esta estrutura, como logo resulta do seu artigo 1.º e, por outro lado, do artigo 192.º, que define a função do plano de insolvência.
+
+Fugindo da errónea ideia afirmada na actual lei, quanto à suposta prevalência da via da recuperação da empresa, o modelo adoptado pelo novo Código explicita, assim, desde o seu início, que é sempre a vontade dos credores a que comanda todo o processo. A opção que a lei lhes dá é a de se acolherem ao abrigo do regime supletivamente disposto no Código - o qual não poderia deixar de ser o do imediato ressarcimento dos credores mediante a liquidação do património do insolvente ou de se afastarem dele, provendo por sua iniciativa a um diferente tratamento do pagamento dos seus créditos. Aos credores compete decidir se o pagamento se obterá por meio de liquidação integral do património do devedor, nos termos do regime disposto no Código ou nos de que constem de um plano de insolvência que venham a aprovar, ou através da manutenção em actividade e reestruturação da empresa, na titularidade do devedor ou de terceiros, nos moldes também constantes de um plano.
+
+Há que advertir, todavia, que nem a não aprovação de um plano de insolvência significa necessariamente a extinção da empresa, por isso que, iniciando-se a liquidação, deve o administrador da insolvência, antes de mais, diligenciar preferencialmente pela sua alienação como um todo, nem a aprovação de um plano de insolvência implica a manutenção da empresa, pois que ele pode tão somente regular, em termos diversos dos legais, a liquidação do património do devedor.
+
+Não valerá, portanto, afirmar que no novo Código é dada primazia à liquidação do património do insolvente. A primazia que efectivamente existe, não é demais reiterá-lo, é a da vontade dos credores, enquanto titulares do principal interesse que o direito concursal visa acautelar: o pagamento dos respectivos créditos, em condições de igualdade quanto ao prejuízo decorrente de o património do devedor não ser, à partida e na generalidade dos casos, suficiente para satisfazer os seus direitos de forma integral.
+
+7 - Cessa, assim, porque desnecessária, a duplicação de formas de processo especiais (de recuperação e de falência) existente no CPEREF, bem como a fase preambular que lhes era comum, e que era susceptível de gerar, inclusivamente, demoras evitáveis na tramitação do processo, nomeadamente pela duplicação concomitante de chamamento dos credores, e também por, em inúmeros casos, o recurso ao processo de recuperação se traduzir num mero expediente para atrasar a declaração de falência.
+
+A supressão da dicotomia recuperação/falência, a par da configuração da situação de insolvência como pressuposto objectivo único do processo, torna também aconselhável a mudança de designação do processo, que é agora a de «processo de insolvência». A insolvência não se confunde com a «falência», tal como actualmente entendida, dado que a impossibilidade de cumprir obrigações vencidas, em que a primeira noção fundamentalmente consiste, não implica a inviabilidade económica da empresa ou a irrecuperabilidade financeira postuladas pela segunda.
+
+8 - Elimina-se, igualmente, a distinção entre a figura do gestor judicial (designado no âmbito do processo de recuperação) e a do liquidatário judicial (incumbido de proceder à liquidação do património do falido, uma vez decretada a sua falência), passando a existir a figura única do administrador da insolvência. Também aqui a vontade dos credores prepondera, pois que lhes é devolvida a faculdade - prevista na versão original do CPEREF, mas suprimida com a revisão de 1998 - de nomearem eles próprios o administrador da insolvência, em substituição do que tenha sido designado pelo juiz, e, bem assim, a de indicar com carácter vinculativo um administrador para ocupar o cargo de outro que haja sido destituído das suas funções.
+
+Por outro lado, passando a comissão de credores a ser um órgão eventual no processo de insolvência, também quanto à sua existência e composição impera a vontade da assembleia de credores, que pode prescindir da comissão que o juiz haja nomeado, ou nomear uma caso o juiz não o tenha feito, e, em qualquer dos casos, alterar a respectiva composição.
+
+9 - Cessa ainda o carácter taxativo das medidas de recuperação da empresa tal como constante do CPEREF. O conteúdo do plano de insolvência é livremente fixado pelos credores, limitando-se o juiz, quando actue oficiosamente, a um controlo da legalidade, com vista à respectiva homologação.
+
+Não deixam de indicar-se, em todo o caso, algumas das medidas que o plano pode adoptar, regulando-se com mais detalhe certas providências de recuperação específicas de sociedades comerciais, dado o relevo por estas assumido na actividade económica e empresarial.
+
+10 - A afirmação da supremacia dos credores no processo de insolvência é acompanhada da intensificação da desjudicialização do processo.
+
+Por toda a parte se reconhece a indispensabilidade da intervenção do juiz no processo concursal, tendo fracassado os intentos de o desjudicializar por completo. Tal indispensabilidade é compatível, todavia, com a redução da intervenção do juiz ao que estritamente releva do exercício da função jurisdicional, permitindo a atribuição da competência para tudo o que com ela não colida aos demais sujeitos processuais.
+
+É assim que, por um lado, ao juiz cabe apenas declarar ou não a insolvência, sem que para tal tenha de se pronunciar quanto à recuperabilidade financeira da empresa (como actualmente sucede para efeitos do despacho de prosseguimento da acção). A desnecessidade de proceder a tal apreciação permite obter ganhos do ponto de vista da celeridade do processo, justificando a previsão de que a declaração de insolvência deva ter lugar, no caso de apresentação à insolvência ou de não oposição do devedor a pedido formulado por terceiro, no próprio dia da distribuição ou nos três dias úteis subsequentes, ou no dia seguinte ao termo do prazo para a oposição, respectivamente.
+
+Ainda na vertente da desjudicialização, há também que mencionar o desaparecimento da possibilidade de impugnar junto do juiz tanto as deliberações da comissão de credores (que podem, não obstante, ser revogadas pela assembleia de credores), como os actos do administrador da insolvência (sem prejuízo dos poderes de fiscalização e de destituição por justa causa).
+
+11 - A desjudicialização parcial acima descrita não envolve diminuição dos poderes que ao juiz devem caber no âmbito da sua competência própria: afirma-se expressamente, no artigo 11.º do diploma, a vigência no processo de insolvência do princípio do inquisitório, que permite ao juiz fundar a decisão em factos que não tenham sido alegados pelas partes.
+
+12 - Apesar do progresso que, a par da reforma do processo civil, representou quanto a esse aspecto, o CPEREF não permitiu obter a desejável celeridade que deve caracterizar um processo concursal, tanto no plano do impulso processual como no da respectiva tramitação.
+
+O fomento da celeridade do processo de insolvência constitui um dos objectivos do presente diploma, introduzindo-se com essa finalidade inúmeros mecanismos, que se indicam sumariamente de seguida.
+
+13 - Uma das causas de insucesso de muitos processos de recuperação ou de falência residiu no seu tardio início, seja porque o devedor não era suficientemente penalizado pela não atempada apresentação, seja porque os credores são negligentes no requerimento de providências de recuperação ou de declaração de falência, por falta dos convenientes estímulos.
+
+Uma lei da insolvência é tanto melhor quanto mais contribuir para maximizar ex post o valor do património do devedor sem por essa via constituir ex ante um estímulo para um comportamento negligente. Com o intuito de promover o cumprimento do dever de apresentação à insolvência, que obriga o devedor pessoa colectiva ou pessoa singular titular de empresa a requerer a declaração da sua insolvência dentro dos 60 dias seguintes à data em que teve, ou devesse ter, conhecimento da situação de insolvência, estabelece-se presunção de culpa grave dos administradores, de direito ou de facto, responsáveis pelo incumprimento daquele dever, para efeitos da qualificação desta como culposa.
+
+14 - O favorecimento do desencadeamento do processo por parte dos credores traduz-se, entre outros aspectos, como a extensão e aperfeiçoamento do elenco dos factos que podem servir de fundamento ao pedido de declaração de insolvência, adiante mencionados, na concessão de privilégio mobiliário geral, graduado em último lugar, aos créditos de que seja titular o credor requerente da declaração de insolvência, até ao limite de 500 UC.
+
+Por outro lado, o novo regime, adiante referido, quanto à extinção parcial das hipotecas legais e privilégios creditórios que sejam acessórios de créditos detidos pelo Estado, pelas instituições de segurança social e pelas autarquias locais visa constituir um estímulo para que essas entidades não deixem decorrer demasiado tempo desde o incumprimento por parte do devedor.
+
+15 - No plano da tramitação de processo já instaurado, a celeridade é potenciada por inúmeros factores, de que se destaca: a extensão do carácter urgente também aos apensos do processo de insolvência; a supressão da duplicação de chamamentos de credores ao processo, existindo agora uma única fase de citação de credores com vista à reclamação dos respectivos créditos, a ocorrer apenas após a sentença de declaração de insolvência; a atribuição de carácter urgente aos registos de sentenças e despachos proferidos no processo de insolvência, bem como aos de quaisquer actos praticados no âmbito da administração e liquidação da massa insolvente ou previstos em plano de insolvência ou de pagamentos; a proclamação expressa da regra da insusceptibilidade de suspensão do processo de insolvência; o regime expedito de notificações de certos actos praticados no processo de insolvência, seus incidentes e apensos.
+
+16 - A necessidade de rápida estabilização das decisões judiciais, que no processo de insolvência se faz sentir com particular intensidade, motivou a limitação do direito de recurso a um grau apenas, salvo nos casos de oposição de acórdãos em matéria relativamente à qual não exista ainda uniformização de jurisprudência.
+
+17 - A promoção da celeridade do processo torna também necessária a adopção de medidas no plano da organização judiciária, que complementam o regime contido no Código. Fazendo uso de autorização legislativa concedida pela Assembleia da República, circunscreve-se a competência dos tribunais de comércio para preparar e julgar o processo de insolvência aos casos em que o devedor seja uma sociedade comercial ou na massa insolvente se integre uma empresa.
+
+18 - O presente diploma procede a uma clarificação conceptual e terminológica, juntamente com um aperfeiçoamento do respectivo regime, nas matérias respeitantes aos pressupostos, objectivos e subjectivos, do processo de insolvência, bem como nas relativas à definição da massa insolvente e respectivas dívidas, e das classes de credores.
+
+19 - Simplificando a pluralidade de pressupostos objectivos presente no CPEREF, o actual diploma assenta num único pressuposto objectivo: a insolvência. Esta consiste na impossibilidade de cumprir obrigações vencidas, que, quando seja o devedor a apresentar-se à insolvência, pode ser apenas iminente.
+
+Recupera-se, não obstante, como critério específico da determinação da insolvência de pessoas colectivas e patrimónios autónomos por cujas dívidas nenhuma pessoa singular responda pessoal e ilimitadamente a superioridade do seu passivo sobre o activo.
+
+O elenco dos indícios da situação de insolvência é objecto de ampliação, por um lado, passando a incluir-se, nomeadamente, a insuficiência de bens penhoráveis para pagamento do crédito do exequente verificada em processo executivo movido contra o devedor, e também o incumprimento de obrigações previstas em plano de insolvência ou de pagamentos, em determinadas condições; e de aperfeiçoamento, por outro, especificando-se certos tipos de obrigações (tributárias, laborais, para com a segurança social, de certo tipo de rendas) cujo incumprimento generalizado mais frequentemente denuncia a insolvência do devedor.
+
+Expressamente se afirma, todavia, que o devedor pode afastar a declaração de insolvência não só através da demonstração de que não se verifica o facto indiciário alegado pelo requerente, mas também mediante a invocação de que, apesar da verificação do mesmo, ele não se encontra efectivamente em situação de insolvência, obviando-se a quaisquer dúvidas que pudessem colocar-se (e se colocaram na vigência do CPEREF) quanto ao carácter ilidível das presunções consubstanciadas nos indícios.
+
+20 - Dão-se profundas alterações na delimitação do âmbito subjectivo de aplicação do processo de insolvência. Dissipando algumas dúvidas surgidas quanto ao tema na vigência do CPEREF, apresenta-se no artigo 2.º do novo Código um elenco aberto de sujeitos passivos do processo de insolvência. Aí se tem como critério mais relevante para este efeito, não o da personalidade jurídica, mas o da existência de autonomia patrimonial, o qual permite considerar como sujeitos passivos (também designados por «devedor» ou «insolvente»), designadamente, sociedades comerciais e outras pessoas colectivas ainda em processo de constituição, o estabelecimento individual de responsabilidade limitada, as associações sem personalidade jurídica e «quaisquer outros patrimónios autónomos». Neste quadro, a mera empresa, enquanto tal, se não dotada de autonomia patrimonial, não é considerada sujeito passivo, mas antes o seu titular.
+
+Desaparecem, portanto, as «falências derivadas» ou «por arrastamento» constantes do artigo 126.º do CPEREF, por não se crer equânime sujeitar sem mais à declaração de insolvência as entidades aí mencionadas, que podem bem ser solventes.
+
+Por outro lado, quanto às empresas de seguros, instituições de crédito e outras entidades tradicionalmente excluídas do âmbito de aplicação do direito falimentar comum, esclarece-se que a não sujeição ao processo de insolvência apenas ocorre na medida em que tal seja incompatível com os regimes especiais aplicáveis a tais entidades, assim se visando pôr termo a certos vazios de regulamentação que se verificam nos casos em que tais regimes nada prevêem quanto à insolvência das entidades por eles abrangidas.
+
+A aplicação do processo de insolvência a pessoas colectivas, pessoas singulares incapazes e meros patrimónios autónomos exige a identificação das pessoas que os representem no âmbito do processo, e a quem, porventura, possam ser imputadas responsabilidades pela criação ou agravamento da situação de insolvência do devedor. Naturalmente que tais pessoas serão aquelas que disponham ou tenham disposto, nalguma medida, e tanto por força da lei como de negócio jurídico, de poderes incidentes sobre o património do devedor, o que legitima a sua reunião na noção, meramente operatória, de «administradores» contida no n.º 1 do artigo 6.º
+
+21 - Distinguem-se com precisão as «dívidas da insolvência», correspondentes aos créditos sobre o insolvente cujo fundamento existisse à data da declaração de insolvência e aos que lhes sejam equiparados (que passam a ser designados como «créditos sobre a insolvência», e os respectivos titulares como «credores da insolvência»), das «dívidas ou encargos da massa insolvente» (correlativas aos «créditos sobre a massa», detidos pelos «credores da massa»), que são, grosso modo, as constituídas no decurso do processo.
+
+Uma vez que o processo de insolvência tem por finalidade o pagamento, na medida em que ele seja ainda possível, dos créditos da insolvência, a constatação de que a massa insolvente não é sequer suficiente para fazer face às respectivas dívidas - aí compreendidas, desde logo, as custas do processo e a remuneração do administrador da insolvência - determina que o processo não prossiga após a sentença de declaração de insolvência ou que seja mais tarde encerrado, consoante a insuficiência da massa seja reconhecida antes ou depois da declaração. Em ambos os casos, porém, prossegue sempre o incidente de qualificação da insolvência, com tramitação e alcance mais mitigados.
+
+22 - A consideração da diversidade de situações em que podem encontrar-se os titulares de créditos sobre o insolvente, e a necessidade de lhes dispensar um tratamento adequado, aconselha a sua repartição em quatro classes: os credores da insolvência garantidos, privilegiados, comuns e subordinados.
+
+23 - A categoria dos créditos garantidos abrange os créditos, e respectivos juros, que beneficiem de garantias reais - sendo como tal considerados também os privilégios creditórios especiais - sobre bens integrantes da massa insolvente, até ao montante correspondente ao valor dos bens objecto das garantias.
+
+24 - Os créditos privilegiados são os que gozam de privilégios creditórios gerais sobre bens integrados na massa insolvente, quando tais privilégios não se extingam por efeito da declaração de insolvência.
+
+Importa assinalar a significativa alteração introduzida no regime das hipotecas legais e dos privilégios creditórios que sejam acessórios de créditos detidos pelo Estado, pelas instituições de segurança social e pelas autarquias locais. Quanto às primeiras, e suprindo a omissão do CPEREF a esse respeito, que gerou controvérsia na doutrina e na jurisprudência, prevê-se a extinção apenas das que sejam acessórias dos créditos dessas entidades e cujo registo haja sido requerido nos dois meses anteriores à data de início do processo de insolvência. Quanto aos privilégios creditórios gerais, em lugar da extinção de todos eles, como sucede no CPEREF declarada que seja a falência, prevê-se a extinção tão-somente daqueles que se hajam constituído nos 12 meses anteriores à data de início do processo de insolvência.
+
+25 - É inteiramente nova entre nós a figura dos créditos subordinados. Ela existe em outros ordenamentos jurídicos, nomeadamente no alemão, no espanhol e no norte-americano, ainda que se registem significativas diferenças relativamente à forma como aparece neles configurada.
+
+Trata-se de créditos cujo pagamento tem lugar apenas depois de integralmente pagos os créditos comuns. Tal graduação deve-se à consideração, por exemplo, do carácter meramente acessório do crédito (é o caso dos juros), ou de ser assimilável a capital social (é o que sucede com os créditos por suprimentos), ou ainda de se apresentar desprovido de contrapartida por parte do credor.
+
+A categoria dos créditos subordinados abrange ainda, em particular, aqueles cujos titulares sejam «pessoas especialmente relacionadas com o devedor» (seja ele pessoa singular ou colectiva, ou património autónomo), as quais são criteriosamente indicadas no artigo 49.º do diploma. Não se afigura desproporcionada, situando-nos na perspectiva de tais pessoas, a sujeição dos seus créditos ao regime de subordinação, face à situação de superioridade informativa sobre a situação do devedor, relativamente aos demais credores.
+
+O combate a uma fonte frequente de frustração das finalidades do processo de insolvência, qual seja a de aproveitamento, por parte do devedor, de relações orgânicas ou de grupo, de parentesco, especial proximidade, dependência ou outras, para praticar actos prejudicais aos credores é prosseguido no âmbito da resolução de actos em benefício da massa insolvente, pois presume-se aí a má fé das pessoas especialmente relacionadas com o devedor que hajam participado ou tenham retirado proveito de actos deste, ainda que a relação especial não existisse à data do acto.
+
+26 - Ainda quanto à natureza dos créditos no processo de insolvência, deve sublinhar-se o tratamento dispensado aos créditos sob condição. É adoptada, para efeitos de aplicação do Código, uma noção operatória de tais créditos, que abrange os sujeitos tanto a condições convencionais como às de origem legal. As principais inovações surgem no regime dos créditos sob condição suspensiva.
+
+27 - Passando à análise sumária da tramitação do processo legalmente disposta, que tem lugar sempre que, por meio de plano de insolvência, os credores não disponham diversamente, ela analisa-se nos seguintes momentos chave, não necessariamente processados pela ordem indicada:
+
+1) Impulso processual;
+
+2) Apreciação liminar e eventual adopção de medidas cautelares;
+
+3) Sentença de declaração de insolvência e eventual impugnação;
+
+4) Apreensão dos bens;
+
+5) Reclamação de créditos, restituição e separação de bens;
+
+6) Assembleia de credores de apreciação do relatório;
+
+7) Liquidação da massa insolvente;
+
+8) Sentença de verificação e graduação dos créditos;
+
+9) Pagamento aos credores;
+
+10) Incidente de qualificação da insolvência;
+
+11) Encerramento do processo.
+
+A estrutura delineada pode apresentar alguns desvios, em caso de: a) encerramento por insuficiência da massa insolvente; b) manutenção da administração da empresa pelo devedor; c) apresentação de plano de pagamentos aos credores; d) haver lugar ao período da cessão, para efeitos de exoneração do passivo restante, após o encerramento do processo de insolvência.
+
+28 - Uma vez que a apresentação à insolvência pelo devedor implica o reconhecimento por este da sua situação de insolvência, esta é declarada, como se referiu já, até ao 3.º dia útil seguinte ao da distribuição da petição inicial ou, existindo vícios corrigíveis, ao do respectivo suprimento, com o que se obtêm notáveis ganhos de tempo, como igualmente referido.
+
+Nos demais casos, tem lugar a citação do devedor, para que deduza a competente oposição (e junte, eventualmente, plano de insolvência ou de pagamentos, ou requeira a exoneração do passivo restante). Não há lugar, portanto, a qualquer citação dos demais credores, ou a continuação com vista ao Ministério Público, nesta fase.
+
+29 - A sentença de declaração de insolvência representa um momento fulcral do processo. Ela não se limita a essa declaração mas é intensamente prospectiva, conformando boa parte da tramitação posterior e despoletando uma vasta panóplia de consequências. Por outro lado, o momento da sua emanação é decisivo para a aplicação de inúmeras normas do Código.
+
+Boa parte da eficácia e celeridade, quando não da justiça, do processo de insolvência depende da sua adequada publicitação, a fim de que venha ao processo o maior número possível de credores e de que o façam no momento mais próximo possível. O Código reforça amplamente os mecanismos de notificação e publicação da sentença de declaração de insolvência e outros actos, tanto de credores conhecidos como desconhecidos, nacionais ou estrangeiros, considerando o caso particular dos que tenham residência habitual, domicílio ou sede em outros Estados membros da União Europeia, dos trabalhadores e do público em geral.
+
+Destacam-se, por inovadoras, a previsão do registo oficioso da declaração de insolvência e da nomeação do administrador da insolvência na conservatória do registo civil, quando o devedor for uma pessoa singular, e, independentemente da natureza do devedor, no registo informático de execuções estabelecido pelo Código de Processo Civil, bem como a respectiva inclusão na página informática do tribunal, e, ainda, a comunicação da declaração de insolvência ao Banco de Portugal para que este proceda à sua inscrição na central de riscos de crédito.
+
+30 - No que concerne à impugnação da sentença de declaração de insolvência, cessa o actual regime de concentração da reacção, de direito e de facto, nos embargos, repondo-se, se bem que em termos e por motivos distintos dos que constavam do Código de Processo Civil, a dualidade dos meios de reacção embargos/recurso.
+
+Assim, às pessoas legitimadas para deduzir embargos é lícito, alternativamente a essa dedução ou cumulativamente com ela, interpor recurso da sentença de declaração de insolvência, quando entendam que, face aos elementos apurados, ela não devia ter sido proferida. Tal como sucede no CPEREF, a oposição de embargos à sentença declaratória da insolvência, bem como o recurso da decisão que mantenha a declaração, suspende a liquidação e a partilha do activo, sem prejuízo de o administrador da insolvência poder promover a venda imediata dos bens da massa insolvente que não possam ou não devam conservar-se por estarem sujeitos a deterioração ou depreciação.
+
+31 - A sentença de declaração da insolvência é fonte de inúmeros e importantes efeitos, que são agrupados do seguinte modo: «efeitos sobre o devedor e outras pessoas»; «efeitos processuais»; «efeitos sobre os créditos», e «efeitos sobre os negócios em curso».
+
+32 - O principal efeito sobre o devedor, aliás clássico, é o da privação dos poderes de administração e de disposição dos bens integrantes da massa insolvente, por si ou pelos seus administradores, passando tais poderes a competir ao administrador da insolvência.
+
+Consagra-se, porém, a possibilidade de o devedor se manter na administração da massa insolvente nos casos em que esta integre uma empresa. Essa manutenção pressupõe, entre outros aspectos, que o devedor a tenha requerido, tendo já apresentado, ou comprometendo-se a fazê-lo dentro de certo prazo, um plano de insolvência que preveja a continuidade da exploração da empresa por si próprio, e ainda que conte com a anuência do credor requerente ou da assembleia de credores. Fica bem à vista o sentido deste regime: não obrigar à privação dos poderes de administração do devedor, em concreto quanto à empresa de que seja titular, quando se reconheça que a sua aptidão empresarial não é prejudicada pela situação de insolvência, a qual pode até resultar de factores exógenos à empresa, havendo, simultaneamente, a convicção de que a recuperação da empresa nas suas mãos permitirá uma melhor satisfação dos créditos do que a sua sujeição ao regime comum de liquidação.
+
+33 - No campo dos efeitos processuais da declaração de insolvência, salienta-se a possibilidade de, mediante requerimento do administrador da insolvência, haver lugar a apensação ao processo de insolvência de um devedor dos processos em que haja sido declarada a insolvência de pessoas que legalmente respondam pelas suas dívidas ou, tratando-se de pessoa singular casada, do seu cônjuge, se o regime de bens não for o da separação. Sendo o devedor uma sociedade comercial, poderão ser apensados os processos em que tenha sido declarada a insolvência de sociedades que, nos termos do Código das Sociedades Comerciais, ela domine ou com ela se encontrem em relação de grupo.
+
+34 - No capítulo dos efeitos sobre os créditos regula-se em termos tecnicamente mais apurados a matéria fundamental do vencimento imediato das obrigações do insolvente operado pela declaração de insolvência. São aspectos novos os da actualização do montante das obrigações que não fossem exigíveis à data da declaração de insolvência, dos efeitos relativamente a dívidas abrangidas em planos de regularização de impostos e de contribuições para a segurança social que estejam ainda em curso de execução e do regime da conversão de créditos, tanto pecuniários de montante indeterminado, como não pecuniários, como ainda daqueles expressos em moeda estrangeira ou índices.
+
+A possibilidade de compensar créditos sobre a insolvência com dívidas à massa é agora admitida, genericamente, se os pressupostos legais da compensação se verificassem já à data da declaração de insolvência, ou se, verificando-se em momento posterior, o contra-crédito da massa não houver preenchido em primeiro lugar os requisitos estabelecidos no artigo 847.º do Código Civil.
+
+35 - O capítulo dos efeitos da declaração de insolvência sobre os negócios jurídicos em curso é um daqueles em que a presente reforma mais se distancia do regime homólogo do CPEREF. Ele é objecto de uma extensa remodelação, tanto no plano da forma como no da substância, que resulta de uma mais atenta ponderação dos interesses em causa e da consideração, quanto a aspectos pontuais, da experiência de legislações estrangeiras.
+
+Poucas são as soluções que se mantiveram inalteradas neste domínio. De realçar é desde logo a introdução de um «princípio geral» quanto aos contratos bilaterais, que logo aponta para a noção de «negócios em curso» no âmbito do processo de insolvência: deverá tratar-se de contrato em que, à data da declaração de insolvência, não haja ainda total cumprimento tanto pelo insolvente como pela outra parte. O essencial do regime geral disposto para tais negócios é o de que o respectivo cumprimento fica suspenso até que o administrador da insolvência declare optar pela execução ou recusar o cumprimento. Vários outros tipos contratuais são objecto de tratamento específico, surgindo diversas e relevantes inovações nos domínios da compra e venda, locação, mandato, entre outros.
+
+O capítulo termina com uma importante norma pela qual se determina a nulidade de convenções que visem excluir ou limitar a aplicação dos preceitos nele contidos. Ressalvam-se, porém, os casos em que a situação de insolvência, uma vez ocorrida, possa configurar justa causa de resolução ou de denúncia do contrato em atenção à natureza e conteúdo das prestações contratuais, o que poderá suceder, a título de exemplo, no caso de ter natureza infungível a prestação a que o insolvente se obrigara.
+
+36 - Ainda no que se refere à tramitação do processo, importa referir que à sentença de declaração da insolvência se segue a imediata apreensão dos bens integrantes da massa insolvente pelo administrador da insolvência, tendo-se mantido no essencial o regime já constante do CPEREF quanto a esta matéria.
+
+37 - É na fase da reclamação de créditos que avulta de forma particular um dos objectivos do presente diploma, que é o da simplificação dos procedimentos administrativos inerentes ao processo. O Código dispõe, a este respeito, que as reclamações de créditos são endereçadas ao administrador da insolvência e entregues no ou remetidas para o seu domicílio profissional. Do apenso respeitante à reclamação e verificação de créditos constam assim apenas a lista de credores reconhecidos e não reconhecidos, as impugnações e as respectivas respostas.
+
+Para além da simplificação de carácter administrativo, esta fase permite dar um passo mais na desjudicialização anteriormente comentada, ao estabelecer-se que a sentença de verificação e graduação dos créditos se limitar a homologar a lista de credores reconhecidos elaborada pelo administrador da insolvência e a graduar os créditos em atenção ao que conste dessa lista, quando não tenham sido apresentadas quaisquer impugnações das reclamações de créditos. Ressalva-se expressamente a necessidade de correcções que resultem da existência de erro manifesto.
+
+38 - Na sentença de declaração da insolvência é designada data, entre os 45 e os 75 dias seguintes à respectiva prolação, para a realização de uma importante reunião da assembleia de credores, designada «assembleia de credores de apreciação do relatório».
+
+39 - Transitada em julgado a sentença declaratória da insolvência e realizada a assembleia de apreciação do relatório, o administrador da insolvência procede com prontidão à venda de todos os bens apreendidos para a massa insolvente, independentemente da verificação do passivo, na medida em que a tanto se não oponham as deliberações tomadas pelos credores na referida assembleia.
+
+Estabelece-se o princípio geral de que depende do consentimento da comissão de credores, ou, se esta não existir, da assembleia de credores, a prática de actos jurídicos que assumam especial relevo para o processo de insolvência.
+
+Reafirma-se o princípio da prevalência da alienação da empresa como um todo, devendo o administrador da insolvência, uma vez iniciadas as suas funções, efectuar imediatamente diligências para a alienação da empresa do devedor ou dos seus estabelecimentos.
+
+Alterando o disposto a esse respeito no CPEREF, não se impõe ao administrador da insolvência que a venda dos bens siga alguma das modalidades admitidas em processo executivo, pois que outra poderá revelar-se mais conveniente no caso concreto.
+
+A preocupação de celeridade, já afirmada a vários propósitos, não pode levar à criação de regimes que se mostrem inexequíveis à partida. É por esse motivo que o prazo para a liquidação é ampliado para um ano, constituindo o respectivo decurso, ou o de cada seis meses subsequentes, sem que seja encerrado o processo de insolvência, motivo bastante para destituição com justa causa do administrador da insolvência, salvo havendo razões que justifiquem o prolongamento.
+
+Prevê-se a possibilidade de dispensa de liquidação da massa, quando, sendo o devedor uma pessoa singular e a massa insolvente não compreenda uma empresa, seja por ele entregue ao administrador da insolvência uma importância em dinheiro não inferior à que resultaria dessa liquidação, podendo assim evitar-se inúmeros dispêndios e incómodos.
+
+40 - Um objectivo da reforma introduzida pelo presente diploma reside na obtenção de uma maior e mais eficaz responsabilização dos titulares de empresa e dos administradores de pessoas colectivas. É essa a finalidade do novo «incidente de qualificação da insolvência».
+
+As finalidades do processo de insolvência e, antes ainda, o próprio propósito de evitar insolvências fraudulentas ou dolosas, seriam seriamente prejudicados se aos administradores das empresas, de direito ou de facto, não sobreviessem quaisquer consequências sempre que estes hajam contribuído para tais situações. A coberto do expediente técnico da personalidade jurídica colectiva, seria possível praticar incolumemente os mais variados actos prejudiciais para os credores.
+
+O CPEREF, particularmente após a revisão de 1998, não era alheio ao problema mas os regimes então instituídos a este propósito - a responsabilização solidária dos administradores (com pressupostos fluidos e incorrectamente explicitados) e a possibilidade de declaração da sua falência conjuntamente com a do devedor - não se afiguram tecnicamente correctos nem idóneos para o fim a que se destinam. Por outro lado, a sua aplicação ficava na dependência de requerimento formulado por algum credor ou pelo Ministério Público. Ademais, a sanção de inibição para o exercício do comércio pode ser injusta quando é aplicada como efeito automático da declaração de falência, sem atender à real situação do falido.
+
+O tratamento dispensado ao tema pelo novo Código (inspirado, quanto a certos aspectos, na recente Ley Concursal espanhola), que se crê mais equânime - ainda que mais severo em certos casos -, consiste, no essencial, na criação do «incidente de qualificação da insolvência», o qual é aberto oficiosamente em todos os processos de insolvência, qualquer que seja o sujeito passivo, e não deixa de realizar-se mesmo em caso de encerramento do processo por insuficiência da massa insolvente (assumindo nessa hipótese, todavia, a designação de «incidente limitado de qualificação da insolvência», com uma tramitação e alcance mitigados).
+
+O incidente destina-se a apurar (sem efeitos quanto ao processo penal ou à apreciação da responsabilidade civil) se a insolvência é fortuita ou culposa, entendendo-se que esta última se verifica quando a situação tenha sido criada ou agravada em consequência da actuação, dolosa ou com culpa grave (presumindo-se a segunda em certos casos), do devedor, ou dos seus administradores, de direito ou de facto, nos três anos anteriores ao início do processo de insolvência, e indicando-se que a falência é sempre considerada culposa em caso da prática de certos actos necessariamente desvantajosos para a empresa.
+
+A qualificação da insolvência como culposa implica sérias consequências para as pessoas afectadas que podem ir da inabilitação por um período determinado, a inibição temporária para o exercício do comércio, bem como para a ocupação de determinados cargos, a perda de quaisquer créditos sobre a insolvência e a condenação a restituir os bens ou direitos já recebidos em pagamento desses créditos.
+
+41 - A finalidade precípua do processo de insolvência - o pagamento, na maior medida possível, dos credores da insolvência - poderia ser facilmente frustrada através da prática pelo devedor, anteriormente ao processo ou no decurso deste, de actos de dissipação da garantia comum dos credores: o património do devedor ou, uma vez declarada a insolvência, a massa insolvente. Importa, portanto, apreender para a massa insolvente não só aqueles bens que se mantenham ainda na titularidade do insolvente, como aqueles que nela se manteriam caso não houvessem sido por ele praticados ou omitidos aqueles actos, que se mostram prejudiciais para a massa.
+
+A possibilidade de perseguir esses actos e obter a reintegração dos bens e valores em causa na massa insolvente é significativamente reforçada no presente diploma.
+
+No actual sistema, prevê-se a possibilidade de resolução de um conjunto restrito de actos, e a perseguição dos demais nos termos apenas da impugnação pauliana, tão frequentemente ineficaz, ainda que se presuma a má fé do terceiro quanto a alguns deles. No novo Código, o recurso dos credores à impugnação pauliana é impedida, sempre que o administrador entenda resolver o acto em benefício da massa. Prevê-se a reconstituição do património do devedor (a massa insolvente) por meio de um instituto específico - a «resolução em benefício da massa insolvente» -, que permite, de forma expedita e eficaz, a destruição de actos prejudiciais a esse património.
+
+42 - Independentemente dos aspectos do actual regime que já se mostravam carecidos de reformulação, alguns acontecimentos recentes alertaram de forma particularmente expressiva para a necessidade de mais eficazmente assegurar o recto desempenho das funções cometidas ao administrador da insolvência.
+
+O presente diploma introduz algumas garantias de melhor desempenho da função de administrador da insolvência, como a possibilidade de eleição do administrador da insolvência pela assembleia de credores e a previsão do decurso do prazo de um ano sem que esteja encerrado o processo como justa causa de destituição do administrador.
+
+43 - O encerramento do processo, matéria deficientemente regulada no CPEREF, é objecto de tratamento sistemático no novo Código, que prevê com rigor tanto as suas causas como os respectivos efeitos.
+
+44 - A sujeição ao processo de insolvência de pessoas singulares e colectivas, tanto titulares de empresas como alheias a qualquer actividade empresarial, não é feita sem a previsão de regimes e institutos diferenciados para cada categoria de entidades, que permitam o melhor tratamento normativo das respectivas situações de insolvência. Conforme atrás referido a propósito do plano de insolvência, este será tendencialmente usado por empresas de maior dimensão.
+
+No tratamento dispensado às pessoas singulares, destacam-se os regimes da exoneração do passivo restante e do plano de pagamentos.
+
+45 - O Código conjuga de forma inovadora o princípio fundamental do ressarcimento dos credores com a atribuição aos devedores singulares insolventes da possibilidade de se libertarem de algumas das suas dívidas, e assim lhes permitir a sua reabilitação económica. O princípio do fresh start para as pessoas singulares de boa fé incorridas em situação de insolvência, tão difundido nos Estados Unidos, e recentemente incorporado na legislação alemã da insolvência, é agora também acolhido entre nós, através do regime da «exoneração do passivo restante».
+
+O princípio geral nesta matéria é o de poder ser concedida ao devedor pessoa singular a exoneração dos créditos sobre a insolvência que não forem integralmente pagos no processo de insolvência ou nos cinco anos posteriores ao encerramento deste.
+
+A efectiva obtenção de tal benefício supõe, portanto, que, após a sujeição a processo de insolvência, o devedor permaneça por um período de cinco anos - designado período da cessão - ainda adstrito ao pagamento dos créditos da insolvência que não hajam sido integralmente satisfeitos. Durante esse período, ele assume, entre várias outras obrigações, a de ceder o seu rendimento disponível (tal como definido no Código) a um fiduciário (entidade designada pelo tribunal de entre as inscritas na lista oficial de administradores da insolvência), que afectará os montantes recebidos ao pagamento dos credores. No termo desse período, tendo o devedor cumprido, para com os credores, todos os deveres que sobre ele impendiam, é proferido despacho de exoneração, que liberta o devedor das eventuais dívidas ainda pendentes de pagamento.
+
+A ponderação dos requisitos exigidos ao devedor e da conduta recta que ele teve necessariamente de adoptar justificará, então, que lhe seja concedido o benefício da exoneração, permitindo a sua reintegração plena na vida económica.
+
+Esclareça-se que a aplicação deste regime é independente da de outros procedimentos extrajudiciais ou afins destinados ao tratamento do sobreendividamento de pessoas singulares, designadamente daqueles que relevem da legislação especial relativa a consumidores.
+
+46 - Permite-se às pessoas singulares, não empresários ou titulares de pequenas empresas, a apresentação, com a petição inicial do processo de insolvência ou em alternativa à contestação, de um plano de pagamentos aos credores.
+
+O incidente do plano abre caminho para que as pessoas que podem dele beneficiar sejam poupadas a toda a tramitação do processo de insolvência (com apreensão de bens, liquidação, etc.), evitem quaisquer prejuízos para o seu bom nome ou reputação e se subtraiam às consequências associadas à qualificação da insolvência como culposa.
+
+Admite-se a possibilidade de o juiz substituir, em certos casos, a rejeição do plano por parte de um credor por uma aprovação, superando-se uma fonte de frequentes frustrações de procedimentos extrajudiciais de conciliação, que é a da necessidade do acordo de todos os credores.
+
+47 - É regulada de modo inteiramente inovador a insolvência de pessoas casadas, em regime de bens que não seja o de separação. É permitida a coligação activa e passiva dos cônjuges no processo de insolvência. Apresentando-se ambos à insolvência, ou correndo contra ambos o processo instaurado por terceiro, a apreciação da situação de insolvência de ambos os cônjuges consta da mesma sentença, e deve ser formulada conjuntamente por eles uma eventual proposta de plano de pagamentos.
+
+48 - A presente reforma teve também por objectivo proceder à harmonização do direito nacional da falência com o Regulamento (CE) n.º 1346/2000, de 29 de Maio, relativo às insolvências transfronteiriças, e com algumas directivas comunitárias relevantes em matéria de insolvência.
+
+Estabelece-se ainda um conjunto de regras de direito internacional privado, destinadas a dirimir conflitos de leis no que respeita a matérias conexas com a insolvência.
+
+49 - Mantêm-se, no essencial, os regimes existentes no CPEREF quanto à isenção de emolumentos e benefícios fiscais, bem como à indiciação de infracção penal.
+
+50 - Para além da aprovação do CIRE, o presente diploma procede ainda à alteração de outros diplomas já vigentes, passando-se a enumerar as mudanças fundamentais, já que outras decorrem de mera adaptação à terminologia adoptada naquele novo Código.
+
+Por efeito da alteração ao regime da insolvência, torna-se necessária a alteração dos tipos criminais incluídos no Código Penal, eliminando-se todas as referências a «falência», que são substituídas por «insolvência».
+
+Introduz-se uma agravação para os crimes de insolvência dolosa, frustração de créditos, insolvência negligente, assim como para o de favorecimento de credores, quando da prática de tais ilícitos resultar a frustração de créditos de natureza laboral.
+
+51 - No que respeita a legislação avulsa cuja terminologia não é adaptada ao novo Código, entende-se introduzir uma regra geral de que as remissões feitas para a legislação ora revogada se devem entender feitas para as correspondentes normas do CIRE. Em especial, previnem-se os casos de legislação que preveja a caducidade de autorizações para o exercício de actividades em resultado de falência do respectivo titular, esclarecendo que a mera declaração de insolvência pode não envolver a referida caducidade, assim permitindo a eventual aprovação de plano de insolvência que preveja a recuperação da empresa sem alteração do respectivo titular.
+
+52 - São estes os traços essenciais do regime ora aprovado, que se segue ao anteprojecto que o Governo apresentou no 1.º semestre do corrente ano, o qual foi objecto de uma ampla discussão pública nos meios económicos, sociais, judiciais e académico.
+
+Foram observados os procedimentos decorrentes da participação das organizações dos trabalhadores, tendo igualmente sido consultadas diversas entidades com interesse nesta matéria, designadamente a Ordem dos Advogados, a Câmara dos Solicitadores, a Ordem dos Revisores Oficiais de Contas, o Banco de Portugal, a Associação Portuguesa de Bancos, a Associação Empresarial de Portugal, a Confederação da Indústria Portuguesa, a Confederação do Comércio e Serviços de Portugal, a Associação Portuguesa de Gestores e Liquidatários Judiciais, bem como representantes da magistratura judicial e do Ministério Público.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 39/2003, de 22 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Alterado pelo/a Artigo 5.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+> Alterado pelo/a Artigo 64.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 1.º — Aprovação do Código da Insolvência e Recuperação de Empresas
+
+É aprovado o Código da Insolvência e Recuperação de Empresas, que se publica em anexo ao presente decreto-lei, do qual faz parte integrante.
+
+### Artigo 2.º — Alterações ao Código Penal
+
+São alterados os artigos 227.º, 227.º-A, 228.º e 229.º do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de Setembro, e alterado pela Lei n.º 6/84, de 11 de Maio, pelos Decretos-Leis n.os 132/93, de 23 de Abril, e 48/95, de 15 de Março, pelas Leis n.os 65/98, de 2 de Setembro, 7/2000, de 27 de Maio, 77/2001, de 13 de Julho, 97/2001, 98/2001, 99/2001 e 100/2001, de 25 de Agosto, e 108/2001, de 28 de Novembro, e pelos Decretos-Leis n.os 323/2001, de 17 de Dezembro, e 38/2003, de 8 de Março, que passam a ter a seguinte redacção:
+
+«Artigo 227.º
+
+[...]
+
+1 - O devedor que com intenção de prejudicar os credores:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+é punido, se ocorrer a situação de insolvência e esta vier a ser reconhecida judicialmente, com pena de prisão até 5 anos ou com pena de multa até 600 dias.
+
+2 - (Anterior n.º 3.)
+
+3 - (Anterior n.º 5.)
+
+Artigo 227.º-A
+
+[...]
+
+1 -...
+
+2 - É correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo anterior.
+
+Artigo 228.º
+
+[...]
+
+1 - O devedor que:
+
+a)...
+
+b)...
+
+é punido, se ocorrer a situação de insolvência e esta vier a ser reconhecida judicialmente, com pena de prisão até um ano ou com pena de multa até 120 dias.
+
+2 - É correspondentemente aplicável o disposto no n.º 3 do artigo 227.º
+
+Artigo 229.º
+
+[...]
+
+1 - O devedor que, conhecendo a sua situação de insolvência ou prevendo a sua iminência e com intenção de favorecer certos credores em prejuízo de outros, solver dívidas ainda não vencidas ou as solver de maneira diferente do pagamento em dinheiro ou valores usuais, ou der garantias para suas dívidas a que não era obrigado, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias, se vier a ser reconhecida judicialmente a insolvência.
+
+2 - É correspondentemente aplicável o disposto no n.º 3 do artigo 227.º»
+
+### Artigo 3.º — Aditamento ao Código Penal
+
+É aditado ao Código Penal o artigo 229.º-A, com a seguinte redacção:
+
+«Artigo 229.º-A
+
+Agravação
+
+As penas previstas no n.º 1 do artigo 227.º, no n.º 1 do artigo 227.º-A, no n.º 1 do artigo 228.º e no n.º 1 do artigo 229.º são agravadas de um terço, nos seus limites mínimo e máximo, se, em consequência da prática de qualquer dos factos ali descritos, resultarem frustrados créditos de natureza laboral, em sede de processo executivo ou processo especial de insolvência.»
+
+### Artigo 4.º — Alteração ao Código de Processo Civil
+
+São alterados os artigos 222.º e 806.º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44129, de 28 de Dezembro de 1961, alterado pelos Decretos-Leis n.os 47690, de 11 de Maio de 1967, 323/70, de 11 de Julho, 261/75, de 27 de Maio, 165/76, de 1 de Março, 201/76, de 19 de Março, 366/76, de 5 de Maio, 605/76, de 24 de Julho, 738/76, de 16 de Outubro, 368/77, de 3 de Setembro, e 533/77, de 30 de Dezembro, pela Lei n.º 21/78, de 3 de Maio, pelos Decretos-Leis n.os 513-X/79, de 27 de Dezembro, 207/80, de 1 de Julho, 457/80, de 10 de Outubro, 400/82, de 23 de Setembro, 242/85, de 9 de Julho, 381-A/85, de 28 de Setembro, e 177/86, de 2 de Julho, pela Lei n.º 31/86, de 29 de Agosto, pelos Decretos-Leis n.os 92/88, de 17 de Março, 321-B/90, de 15 de Outubro, 211/91, de 14 de Julho, 132/93, de 23 de Abril, 227/94, de 8 de Setembro, 39/95, de 15 de Fevereiro, 329-A/95, de 12 de Dezembro, 180/96, de 25 de Setembro, 375-A/99, de 20 de Setembro, e 183/2000, de 10 de Agosto, pela Lei n.º 30-D/2000, de 20 de Dezembro, pelos Decretos-Leis n.os 272/2001, de 13 de Outubro, e 323/2001, de 17 de Dezembro, pela Lei n.º 13/2002, de 19 de Fevereiro, e pelo Decreto-Lei n.º 38/2003, de 8 de Março, que passam a ter a seguinte redacção:
+
+«Artigo 222.º
+
+[...]
+
+Na distribuição há as seguintes espécies:
+
+1.ª...
+
+2.ª...
+
+3.ª...
+
+4.ª...
+
+5.ª...
+
+6.ª...
+
+7.ª...
+
+8.ª...
+
+9.ª Processos especiais de insolvência;
+
+10.ª...
+
+Artigo 806.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 -...
+
+4 -...
+
+a) A declaração de insolvência e a nomeação de um administrador da insolvência, bem como o encerramento do processo especial de insolvência;
+
+b)...
+
+5 -...»
+
+### Artigo 5.º — Alteração ao regime do registo informático de execuções
+
+É alterado o artigo 2.º do Decreto-Lei n.º 201/2003, de 10 de Setembro, que passa a ter a seguinte redacção:
+
+«Artigo 2.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 -...
+
+a) A declaração de insolvência e a nomeação de um administrador da insolvência, bem como o encerramento do processo especial de insolvência;
+
+b)...
+
+4 -...
+
+5 -...
+
+6 -...
+
+7 -...
+
+### Artigo 6.º — Alteração ao Código do Registo Civil
+
+Os artigos 1.º e 69.º do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de Junho, alterado pelos Decretos-Leis n.os 36/97, de 31 de Janeiro, 120/98, de 8 de Maio, 375-A/99, de 20 de Setembro, 228/2001, de 20 de Agosto, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, e 113/2002, de 20 de Abril, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - O registo civil é obrigatório e tem por objecto os seguintes factos:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g)...
+
+h)...
+
+i)...
+
+j) A declaração de insolvência, o indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, e o encerramento do processo de insolvência;
+
+l) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, assim como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
+
+m) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
+
+n) A exoneração do passivo restante, assim como o início e cessação antecipada do respectivo procedimento e a revogação da exoneração;
+
+o) [Anterior alínea j).]
+
+p) [Anterior alínea l).]
+
+2 -...
+
+Artigo 69.º
+
+[...]
+
+1 - Ao assento de nascimento são especialmente averbados:
+
+a)...
+
+b)...
+
+c) [Anterior alínea e).]
+
+d) [Anterior alínea f).]
+
+e) [Anterior alínea g).]
+
+f) [Anterior alínea h).]
+
+g) [Anterior alínea i).]
+
+h) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;
+
+i) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
+
+j) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
+
+l) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;
+
+m) [Anterior alínea j).]
+
+n) [Anterior alínea l).]
+
+o) [Anterior alínea m).]
+
+p) [Anterior alínea n).]
+
+2 -...
+
+3 -...»
+
+### Artigo 7.º — Alteração ao Código do Registo Comercial
+
+Os artigos 9.º, 10.º, 61.º, 64.º, 66.º, 67.º, 69.º e 80.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de Dezembro, e alterado pelos Decretos-Leis n.os 349/89, de 13 de Outubro, 31/93, de 12 de Fevereiro, 267/93, de 31 de Julho, 216/94, de 20 de Agosto, 328/95, de 9 de Dezembro, 257/96, de 31 de Dezembro, 368/98, de 23 de Novembro, 172/99, de 20 de Maio, 198/99, de 8 de Junho, 375-A/99, de 20 de Setembro, 385/99, de 28 de Setembro, 410/99, de 15 de Outubro, 273/2001, de 13 de Outubro, e 323/2001, de 17 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 9.º
+
+[...]
+
+Estão sujeitas a registo:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g)...
+
+h)...
+
+i) As sentenças de declaração de insolvência de comerciantes individuais, de sociedades comerciais, de sociedades civis sob forma comercial, de cooperativas, de agrupamentos complementares de empresas, de agrupamentos europeus de interesse económico e de estabelecimentos individuais de responsabilidade limitada, e as de indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, bem como o trânsito em julgado das referidas sentenças;
+
+j) As sentenças, com trânsito em julgado, de inabilitação e de inibição de comerciantes individuais para o exercício do comércio e de determinados cargos, bem como as decisões de nomeação e de destituição do curador do inabilitado;
+
+l) Os despachos de nomeação e de destituição do administrador judicial e do administrador judicial provisório da insolvência, de atribuição ao devedor da administração da massa insolvente, assim como de proibição da prática de certos actos sem o consentimento do administrador da insolvência e os despachos que ponham termo a essa administração;
+
+m) Os despachos, com trânsito em julgado, de exoneração do passivo restante de comerciantes individuais, assim como os despachos inicial e de cessação antecipada do respectivo procedimento e de revogação dessa exoneração;
+
+n) As decisões judiciais de encerramento do processo de insolvência;
+
+o) As decisões judiciais de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
+
+Artigo 10.º
+
+[...]
+
+Estão ainda sujeitos a registo:
+
+a)...
+
+b) (Revogada.)
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+Artigo 61.º
+
+[...]
+
+1 -...
+
+2 - O disposto no número anterior não é aplicável aos registos decorrentes do processo de insolvência, bem como aos de penhor, penhora, arresto e arrolamento de quotas de sociedades por quotas e penhor de partes de sociedades em nome colectivo e em comandita simples.
+
+3 -...
+
+Artigo 64.º
+
+[...]
+
+1 - São provisórias por natureza as seguintes inscrições:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+e) De declaração de insolvência ou de indeferimento do respectivo pedido, antes do trânsito em julgado da sentença;
+
+f)...
+
+g)...
+
+h)...
+
+i)...
+
+j)...
+
+l) De apreensão em processo de insolvência, depois de proferida a sentença de declaração de insolvência, mas antes da efectiva apreensão;
+
+m)...
+
+n)...
+
+2 - São ainda provisórias por natureza as inscrições:
+
+a) De penhora ou arresto de quotas das sociedades por quotas ou dos direitos a que se refere a parte final da alínea e) e da alínea f) do artigo 3.º e, bem assim, da apreensão dos mesmos bens em processo de insolvência, no caso de sobre eles subsistir registo de aquisição a favor de pessoa diversa do executado, requerido ou insolvente;
+
+b)...
+
+c)...
+
+d)...
+
+Artigo 66.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 - A nomeação de administrador judicial da insolvência, a atribuição ao devedor da administração da massa insolvente e a proibição ao devedor administrador da prática de certos actos sem o consentimento do administrador judicial, quando determinadas simultaneamente com a declaração de insolvência, não têm inscrição autónoma, devendo constar da inscrição que publicita este último facto; a inscrição conjunta é também feita em relação aos factos referidos que sejam determinados simultaneamente em momento posterior àquela declaração.
+
+4 - A nomeação de curador ao comerciante individual insolvente, quando efectuada na sentença de inabilitação daquele, é registada na inscrição respeitante a este último facto.
+
+Artigo 67.º
+
+[...]
+
+1 - (Anterior corpo do artigo.)
+
+2 - O registo da decisão de encerramento do processo de insolvência, quando respeitante a sociedade comercial ou sociedade civil sob forma comercial, determina a realização oficiosa:
+
+a) Do registo de regresso à actividade da sociedade, quando o encerramento do processo se baseou na homologação de um plano de insolvência que preveja a continuidade daquela;
+
+b) Do cancelamento da matrícula da sociedade, nos casos em que o encerramento do processo foi declarado após a realização do rateio final.
+
+3 - O registo referido no número anterior determina ainda, qualquer que seja a entidade a que respeite, a realização oficiosa do registo de cessação de funções do administrador judicial da insolvência, salvo nos casos em que exista plano de insolvência homologado e este lhe confira competências e ainda nos casos a que se refere a alínea b) do número anterior.
+
+Artigo 69.º
+
+[...]
+
+1 - São registados por averbamento às inscrições a que respeitam os seguintes factos:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g)...
+
+h) [Anterior alínea i).]
+
+i) [Anterior alínea j).]
+
+j) [Anterior alínea k).]
+
+l)...
+
+m)...
+
+n)...
+
+o)...
+
+p) A cessação de funções do administrador judicial e do administrador judicial provisório da insolvência;
+
+q) A decisão judicial de proibição ao devedor insolvente da prática de certos actos sem o consentimento do administrador da insolvência, quando tal proibição não for determinada conjuntamente com a atribuição ao devedor da administração da massa insolvente;
+
+r) A decisão judicial que ponha termo à administração da massa insolvente pelo devedor;
+
+s) A decisão judicial de cessação antecipada do procedimento de exoneração do passivo restante de comerciante individual e a de revogação dessa exoneração;
+
+t) A decisão judicial de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência.
+
+2 -...
+
+3 -...
+
+4 -...
+
+5 - O trânsito em julgado das sentenças previstas nas alíneas e) e g) do n.º 1 do artigo 64.º determina o averbamento de conversão em definitivo dos correspondentes registos.
+
+6 - As decisões judiciais previstas na alínea s) do n.º 1 são averbadas, respectivamente, à inscrição do despacho inicial de exoneração do passivo restante e à do despacho final que determine essa exoneração.
+
+7 - A decisão judicial prevista na alínea t) do n.º 1 é averbada à inscrição da decisão de encerramento do processo de insolvência que publicite a sujeição da execução de plano de insolvência a fiscalização.
+
+Artigo 80.º
+
+[...]
+
+1 - Havendo registo provisório de arresto, penhora ou apreensão em processo de insolvência de quotas ou de direitos relativos a partes sociais inscritas em nome de pessoa diversa do requerido, executado, ou insolvente, o juiz deve ordenar a citação do titular inscrito para declarar, no prazo de 10 dias, se a quota ou parte social lhe pertence.
+
+2 -...
+
+3 -...
+
+4 -...
+
+5 -...
+
+6 -...»
+
+### Artigo 8.º — Alteração à Lei de Organização e Funcionamento dos Tribunais Judiciais
+
+O artigo 89.º da Lei n.º 3/99, de 13 de Janeiro (Lei de Organização e Funcionamento dos Tribunais Judiciais), alterada pela Lei n.º 101/99, de 26 de Julho, e pelos Decretos-Leis n.os 323/2001, de 17 de Dezembro, 10/2003, de 18 de Janeiro, e 38/2003, de 8 de Março, passa a ter a seguinte redacção:
+
+«Artigo 89.º
+
+[...]
+
+1 -...
+
+a) O processo de insolvência se o devedor for uma sociedade comercial ou a massa insolvente integrar uma empresa;
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g)...
+
+h)...
+
+2 -...
+
+3 -...»
+
+### Artigo 9.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado
+
+O artigo 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, alterado pelo Decreto-Lei n.º 194/2003, de 23 de Agosto, passa a ter a seguinte redacção:
+
+«Artigo 28.º
+
+[...]
+
+1...
+
+2 -...
+
+3 -...
+
+4 -...
+
+5 -...
+
+6 -...
+
+7 -...
+
+8 -...
+
+9 -...
+
+10 -...
+
+11 -...
+
+12 -...
+
+13 -...
+
+14 -...
+
+15 - Estão isentos de tributação emolumentar os actos notariais e de registo exigidos para execução de providências integradoras ou decorrentes de plano de insolvência judicialmente homologado que visem o saneamento da empresa, através da recuperação do seu titular ou da sua transmissão, total ou parcial, a outra ou outras entidades.»
+
+### Artigo 10.º — Norma revogatória
+
+1 - É revogado o Código dos Processos Especiais de Recuperação da Empresa e de Falência, aprovado pelo Decreto-Lei n.º 132/93, de 23 de Abril, e alterado pelos Decretos-Leis n.os 157/97, de 24 de Junho, 315/98, de 20 de Outubro, 323/2001, de 17 de Dezembro, e 38/2003, de 8 de Março.
+
+2 - É revogado o artigo 82.º do Código de Processo Civil, aprovado pelo Decreto-Lei n.º 44129, de 28 de Dezembro de 1961.
+
+### Artigo 11.º — Remissão para preceitos revogados
+
+1 - Sempre que, em disposições legais, cláusulas contratuais ou providências de recuperação homologadas, se faça remissão para preceitos legais revogados pelo presente diploma, entende-se que a remissão vale para as correspondentes disposições do Código da Insolvência e da Recuperação de Empresas.
+
+2 - Sem prejuízo do disposto no número seguinte, sempre que disposições legais estabeleçam a caducidade de quaisquer autorizações para o exercício de uma actividade económica em resultado da falência do respectivo titular, deve entender-se que a autorização caduca com o encerramento do processo de insolvência por insuficiência da massa insolvente ou após a realização do rateio final.
+
+3 - O disposto no número anterior não se aplica sempre que a finalidade da disposição legal em questão imponha que a caducidade ocorra com a mera declaração de insolvência, designadamente quando a disposição preveja que a caducidade também ocorra em resultado de despacho de prosseguimento em processo de recuperação de empresa.
+
+### Artigo 12.º — Regime transitório
+
+1 - O Código dos Processos Especiais de Recuperação da Empresa e de Falência continua a aplicar-se aos processos de recuperação da empresa e de falência pendentes à data de entrada em vigor do Código da Insolvência e da Recuperação de Empresas.
+
+2 - O disposto no artigo 7.º não prejudica a aplicação do regime vigente até à presente data no que respeita ao registo de decisões proferidas ou factos ocorridos no âmbito de processos de recuperação de empresas ou de falência pendentes à data de entrada em vigor do presente diploma.
+
+3 - O disposto na alínea c) do n.º 1 do artigo 97.º do Código da Insolvência e da Recuperação de Empresas só se aplica às hipotecas legais acessórias de créditos vencidos após a entrada em vigor do presente diploma.
+
+4 - Até à entrada em vigor do estatuto do administrador da insolvência e publicação das respectivas listas oficiais, os gestores e liquidatários judiciais exercem as funções de administrador da insolvência, sendo todas as nomeações efectuadas de entre os inscritos nas listas de gestores e liquidatários judiciais previstas no Decreto-Lei n.º 254/93, de 15 de Julho, incidindo sobre os gestores judiciais as nomeações para processos em que seja previsível a necessidade de especiais conhecimentos de gestão, nomeadamente quando a massa insolvente integre estabelecimento em actividade.
+
+### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor 180 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix.
+
+Promulgado em 12 de Janeiro de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Janeiro de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## Anexo — CÓDIGO DA INSOLVÊNCIA E DA RECUPERAÇÃO DE EMPRESAS
+
+## Título I — Disposições introdutórias
+
+## Capítulo I — Disposições gerais
+
+> Aditado pelo/a Artigo 4.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 1.º — Finalidade
+
+1 - O processo de insolvência é um processo de execução universal que tem como finalidade a satisfação dos credores pela forma prevista num plano de insolvência, baseado, nomeadamente, na recuperação da empresa compreendida na massa insolvente, ou, quando tal não se afigure possível, na liquidação do património do devedor insolvente e a repartição do produto obtido pelos credores.
+
+2 - Estando em situação económica difícil, ou em situação de insolvência meramente iminente, a empresa pode requerer ao tribunal a instauração de processo especial de revitalização, de acordo com o previsto nos artigos 17.º-A a 17.º-I.
+
+3 - Tratando-se de devedor de qualquer outra natureza em situação económica difícil ou em situação de insolvência meramente iminente, este pode requerer ao tribunal processo especial para acordo de pagamento, previsto nos artigos 222.º-A a 222.º-I.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 2.º — Sujeitos passivos da declaração de insolvência
+
+1 - Podem ser objecto de processo de insolvência:
+
+a) Quaisquer pessoas singulares ou colectivas;
+
+b) A herança jacente;
+
+c) As associações sem personalidade jurídica e as comissões especiais;
+
+d) As sociedades civis;
+
+e) As sociedades comerciais e as sociedades civis sob a forma comercial até à data do registo definitivo do contrato pelo qual se constituem;
+
+f) As cooperativas, antes do registo da sua constituição;
+
+g) O estabelecimento individual de responsabilidade limitada;
+
+h) Quaisquer outros patrimónios autónomos.
+
+2 - Exceptuam-se do disposto no número anterior:
+
+a) As pessoas colectivas públicas e as entidades públicas empresariais;
+
+b) As empresas de seguros, as instituições de crédito, as sociedades financeiras, as empresas de investimento que prestem serviços que impliquem a detenção de fundos ou de valores mobiliários de terceiros e os organismos de investimento colectivo, na medida em que a sujeição a processo de insolvência seja incompatível com os regimes especiais previstos para tais entidades.
+
+### Artigo 3.º — Situação de insolvência
+
+1 - É considerado em situação de insolvência o devedor que se encontre impossibilitado de cumprir as suas obrigações vencidas.
+
+2 - As pessoas colectivas e os patrimónios autónomos por cujas dívidas nenhuma pessoa singular responda pessoal e ilimitadamente, por forma directa ou indirecta, são também considerados insolventes quando o seu passivo seja manifestamente superior ao activo, avaliados segundo as normas contabilísticas aplicáveis.
+
+3 - Cessa o disposto no número anterior, quando o activo seja superior ao passivo, avaliados em conformidade com as seguintes regras:
+
+a) Consideram-se no activo e no passivo os elementos identificáveis, mesmo que não constantes do balanço, pelo seu justo valor;
+
+b) Quando o devedor seja titular de uma empresa, a valorização baseia-se numa perspectiva de continuidade ou de liquidação, consoante o que se afigure mais provável, mas em qualquer caso com exclusão da rubrica de trespasse;
+
+c) Não se incluem no passivo dívidas que apenas hajam de ser pagas à custa de fundos distribuíveis ou do activo restante depois de satisfeitos ou acautelados os direitos dos demais credores do devedor.
+
+4 - Equipara-se à situação de insolvência actual a que seja meramente iminente, no caso de apresentação pelo devedor à insolvência.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 4.º — Data da declaração de insolvência e início do processo
+
+1 - Sempre que a precisão possa assumir relevância, as referências que neste Código se fazem à data da declaração de insolvência devem interpretar-se como visando a hora a que a respectiva sentença foi proferida.
+
+2 - Todos os prazos que neste Código têm como termo final o início do processo de insolvência abrangem igualmente o período compreendido entre esta data e a da declaração de insolvência.
+
+3 - Se a insolvência for declarada em processo cuja tramitação deveria ter sido suspensa, nos termos do n.º 2 do artigo 8.º, em virtude da pendência de outro previamente instaurado contra o mesmo devedor, será a data de início deste a relevante para efeitos dos prazos referidos no número anterior, o mesmo valendo na hipótese de suspensão do processo mais antigo por aplicação do disposto na alínea b) do n.º 3 do artigo 264.º
+
+### Artigo 5.º — Noção de empresa
+
+Para efeitos deste Código, considera-se empresa toda a organização de capital e de trabalho destinada ao exercício de qualquer actividade económica.
+
+### Artigo 6.º — Noções de administradores e de responsáveis legais
+
+1 - Para efeitos deste Código, são considerados como administradores:
+
+a) Não sendo o devedor uma pessoa singular, aqueles a quem incumba a administração ou liquidação da entidade ou património em causa, designadamente os titulares do órgão social que para o efeito for competente;
+
+b) Sendo o devedor uma pessoa singular, os seus representantes legais e mandatários com poderes gerais de administração.
+
+2 - Para efeitos deste Código, são considerados responsáveis legais as pessoas que, nos termos da lei, respondam pessoal e ilimitadamente pela generalidade das dívidas do insolvente, ainda que a título subsidiário.
+
+### Artigo 7.º — Tribunal competente
+
+1 - É competente para o processo de insolvência o tribunal da sede ou do domicílio do devedor ou do autor da herança à data da morte, consoante os casos.
+
+2 - É igualmente competente o tribunal do lugar em que o devedor tenha o centro dos seus principais interesses, entendendo-se por tal aquele em que ele os administre, de forma habitual e cognoscível por terceiros.
+
+3 - A instrução e decisão de todos os termos do processo de insolvência, bem como dos seus incidentes e apensos, compete sempre ao juiz singular.
+
+4 - Se a abertura de um processo de insolvência for recusada por tribunal de um Estado-membro da União Europeia em virtude de a competência caber aos tribunais portugueses, nos termos do n.º 1 do artigo 3.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, não podem estes julgar-se internacionalmente incompetentes com fundamento no facto de a competência pertencer aos tribunais desse outro Estado.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 8.º — Suspensão da instância e prejudicialidade
+
+1 - A instância do processo de insolvência não é passível de suspensão, excepto nos casos expressamente previstos neste Código.
+
+2 - Sem prejuízo do disposto na alínea b) do n.º 3 do artigo 264.º, o tribunal ordena a suspensão da instância se contra o mesmo devedor correr processo de insolvência instaurado por outro requerente cuja petição inicial tenha primeiramente dado entrada em juízo.
+
+3 - A pendência da outra causa deixa de se considerar prejudicial se o pedido for indeferido, independentemente do trânsito em julgado da decisão.
+
+4 - Declarada a insolvência no âmbito de certo processo, deve a instância ser suspensa em quaisquer outros processos de insolvência que corram contra o mesmo devedor e considerar-se extinta com o trânsito em julgado da sentença, independentemente da prioridade temporal das entradas em juízo das petições iniciais.
+
+### Artigo 9.º — Carácter urgente do processo de insolvência e publicações obrigatórias
+
+1 - O processo de insolvência, incluindo todos os seus incidentes, apensos e recursos, tem carácter urgente e goza de precedência sobre o serviço ordinário do tribunal.
+
+2 - Salvo disposição em contrário, as notificações de atos processuais praticados no processo de insolvência, seus incidentes e apensos, com exceção de atos das partes, podem ser efetuadas por qualquer das formas previstas no n.º 5 do artigo 172.º do Código de Processo Civil.
+
+3 - Todas as publicações obrigatórias de despachos e sentenças podem ser promovidas por iniciativa de qualquer interessado que o justifique e requeira ao juiz.
+
+4 - Com a publicação, no local próprio, dos anúncios requeridos neste Código, acompanhada da afixação de editais, se exigida, respeitantes a quaisquer actos, consideram-se citados ou notificados todos os credores, incluindo aqueles para os quais a lei exija formas diversas de comunicação e que não devam já haver-se por citados ou notificados em momento anterior, sem prejuízo do disposto quanto aos créditos públicos.
+
+5 - Têm carácter urgente os registos de sentenças e despachos proferidos no processo de insolvência, bem como os de quaisquer actos de apreensão de bens da massa insolvente ou praticados no âmbito da administração e liquidação dessa massa ou previstos em plano de insolvência ou de pagamentos.
+
+6 - Os requerimentos de liberação de cauções ou garantias prestadas no âmbito de processo de insolvência, processo especial de revitalização e processo especial para acordo de pagamento assumem prioridade sobre os demais requerimentos apresentados no âmbito desses processos.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 10.º — Falecimento do devedor
+
+1 - No caso de falecimento do devedor, o processo:
+
+a) Passa a correr contra a herança aberta por morte do devedor, que se manterá indivisa até ao encerramento do mesmo;
+
+b) Fica suspenso pelo prazo, não prorrogável, de cinco dias, contados desde a data em que tenha ocorrido o óbito.
+
+2 - Os atos praticados durante o período de suspensão a que alude a alínea b) do número anterior por quem não deva ou não possa conhecer a suspensão podem ser posteriormente confirmados ou ratificados pelos interessados, mediante simples comunicação ao processo na qual manifestem a sua anuência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 11.º — Princípio do inquisitório
+
+No processo de insolvência, embargos e incidente de qualificação de insolvência, a decisão do juiz pode ser fundada em factos que não tenham sido alegados pelas partes.
+
+### Artigo 12.º — Dispensa da audiência do devedor
+
+1 - A audiência do devedor prevista em qualquer das normas deste Código, incluindo a citação, pode ser dispensada quando acarrete demora excessiva pelo facto de o devedor, sendo uma pessoa singular, residir no estrangeiro, ou por ser desconhecido o seu paradeiro.
+
+2 - Nos casos referidos no número anterior, deve, sempre que possível, ouvir-se um representante do devedor, ou, na falta deste, o seu cônjuge ou um seu parente, ou pessoa que com ele viva em união de facto.
+
+3 - O disposto nos números anteriores aplica-se, com as devidas adaptações, relativamente aos administradores do devedor, quando este não seja uma pessoa singular.
+
+### Artigo 13.º — Representação de entidades públicas
+
+1 - As entidades públicas titulares de créditos podem a todo o tempo confiar a mandatários especiais, designados nos termos legais ou estatutários, a sua representação no processo de insolvência, em substituição do Ministério Público.
+
+2 - A representação de entidades públicas credoras pode ser atribuída a um mandatário comum, se tal for determinado por despacho conjunto do membro do Governo responsável pelo sector económico a que pertença a empresa do devedor e do membro do Governo que tutele a entidade credora.
+
+### Artigo 14.º — Recursos
+
+1 - No processo de insolvência, e nos embargos opostos à sentença de declaração de insolvência, não é admitido recurso dos acórdãos proferidos por tribunal da relação, salvo se o recorrente demonstrar que o acórdão de que pretende recorrer está em oposição com outro, proferido por alguma das relações, ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e que haja decidido de forma divergente a mesma questão fundamental de direito e não houver sido fixada pelo Supremo, nos termos dos artigos 686.º e 687.º do Código de Processo Civil, jurisprudência com ele conforme.
+
+2 - Em todos os recursos interpostos no processo ou em qualquer dos seus apensos, o prazo para alegações é um para todos os recorrentes, correndo em seguida um outro para todos os recorridos.
+
+3 - Para consulta pelos interessados será extraída das alegações e contra-alegações uma única cópia, que fica à disposição dos mesmos na secretaria judicial.
+
+4 - Durante o prazo para alegações, o processo é mantido na secretaria judicial para exame e consulta pelos interessados.
+
+5 - Os recursos sobem imediatamente, em separado e com efeito devolutivo.
+
+6 - Sobem, porém, nos próprios autos:
+
+a) Os recursos da decisão de encerramento do processo de insolvência e das que sejam proferidas depois dessa decisão;
+
+b) Os recursos das decisões que ponham termo à acção ou incidente processados por apenso, sejam proferidas depois dessas decisões, suspendam a instância ou não admitam o incidente.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 15.º — Valor da acção
+
+Para efeitos processuais, o valor da causa é determinado sobre o valor do activo do devedor indicado na petição, que é corrigido logo que se verifique ser diferente o valor real.
+
+### Artigo 16.º — Procedimentos especiais
+
+1 - O disposto no presente Código aplica-se sem prejuízo do estabelecido na legislação especial sobre o consumidor relativamente a procedimentos de reestruturação do passivo e no Regime Extrajudicial de Recuperação de Empresas.
+
+2 - (Revogado).
+
+3 - O disposto no presente Código não prejudica o regime constante de legislação especial relativa a contratos de garantia financeira.
+
+> Alterado pelo/a Artigo 36.º do/a Lei n.º 8/2018 - Diário da República n.º 44/2018, Série I de 2018-03-02, em vigor a partir de 2018-03-03
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 234.º do/a Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31, em vigor a partir de 2013-01-01
+
+### Artigo 17.º — Aplicação subsidiária do Código de Processo Civil
+
+1 - Os processos regulados no presente diploma regem-se pelo Código de Processo Civil, em tudo o que não contrarie as disposições do presente Código.
+
+2 - A tramitação eletrónica dos processos abrange os atos a cargo dos administradores judiciais ou dos que perante si sejam praticados, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+## Capítulo II — Processo especial de revitalização
+
+> Aditado pelo/a Artigo 4.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-A — Finalidade e natureza do processo especial de revitalização
+
+1 - O processo especial de revitalização destina-se a permitir à empresa que, comprovadamente, se encontre em situação económica difícil ou em situação de insolvência meramente iminente, mas que ainda seja suscetível de recuperação, estabelecer negociações com os respetivos credores de modo a concluir com estes acordo conducente à sua revitalização.
+
+2 - O processo referido no número anterior pode ser utilizado por qualquer empresa que, mediante declaração escrita e assinada, ateste que reúne as condições necessárias para a sua recuperação e apresente declaração subscrita, há não mais de 30 dias, por contabilista certificado ou por revisor oficial de contas, sempre que a revisão de contas seja legalmente exigida, atestando que não se encontra em situação de insolvência atual, à luz dos critérios previstos no artigo 3.º
+
+3 - O processo especial de revitalização tem caráter urgente, aplicando-se-lhe todas as regras previstas no presente código que não sejam incompatíveis com a sua natureza.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-B — Noção de situação económica difícil
+
+Para efeitos do presente Código, encontra-se em situação económica difícil a empresa que enfrentar dificuldade séria para cumprir pontualmente as suas obrigações, designadamente por ter falta de liquidez ou por não conseguir obter crédito.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-C — Requerimento e formalidades
+
+1 - O processo especial de revitalização inicia-se pela manifestação de vontade da empresa e de credores que, não estando especialmente relacionados com a empresa, sejam titulares, pelo menos, de 10 % de créditos não subordinados, relacionados ao abrigo da alínea b) do n.º 3, por meio de declaração escrita, de encetarem negociações conducentes à revitalização daquela, por meio da aprovação de plano de recuperação.
+
+2 - A declaração referida no número anterior deve ser assinada por todos os declarantes, da mesma constando a data da assinatura.
+
+3 - A empresa apresenta no tribunal competente para declarar a sua insolvência requerimento comunicando a manifestação de vontade referida no n.º 1, acompanhado dos seguintes elementos:
+
+a) A declaração escrita referida nos números anteriores;
+
+b) Cópia dos documentos elencados no n.º 1 do artigo 24.º, as quais ficam patentes na secretaria para consulta dos credores durante todo o processo;
+
+c) Proposta de plano de recuperação acompanhada, pelo menos, da descrição da situação patrimonial, financeira e reditícia da empresa.
+
+d) Proposta de classificação dos credores afetados pelo plano de recuperação em categorias distintas, de acordo com a natureza dos respetivos créditos, em credores garantidos, privilegiados, comuns e subordinados e querendo, de entre estes, refletir o universo de credores da empresa em função da existência de suficientes interesses comuns, designadamente nos seguintes termos:
+
+i) Trabalhadores, sem distinção da modalidade do contrato;
+
+ii) Sócios;
+
+iii) Entidades bancárias que tenham financiado a empresa;
+
+iv) Fornecedores de bens e prestadores de serviços;
+
+v) Credores públicos.
+
+4 - As micro, pequenas e médias empresas, na aceção do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, estão dispensadas da obrigação de apresentar o documento indicado na alínea d) do número anterior, podendo, porém, fazê-lo, se assim entenderem.
+
+5 - Recebido o requerimento referido no n.º 3, o juiz nomeia, de imediato, por despacho, administrador judicial provisório, aplicando-se o disposto no n.º 1 do artigo 32.º e nos artigos 33.º e 34.º, com as devidas adaptações.
+
+6 - A remuneração do administrador judicial provisório é fixada pelo juiz, na própria decisão de nomeação ou posteriormente, e constitui, juntamente com as despesas em que aquele incorra no exercício das suas funções, um encargo compreendido nas custas do processo, suportado pela empresa, sendo o organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça responsável pelo seu pagamento apenas no caso de a empresa beneficiar de proteção jurídica na modalidade da dispensa do pagamento da taxa de justiça e demais encargos do processo.
+
+7 - Caso a empresa venha a ser declarada insolvente na sequência da não homologação de um plano de recuperação, a remuneração do administrador judicial provisório e as despesas em que este tenha incorrido, que não sejam pagas, constituem créditos sobre a insolvência.
+
+8 - O despacho de nomeação referido no n.º 5 é irrecorrível, sendo de imediato notificado à empresa, aplicando-se o disposto nos artigos 37.º e 38.º com as devidas adaptações.
+
+9 - A requerimento da empresa e de credores que, satisfazendo o disposto no n.º 1, detenham, pelo menos, créditos no valor de 5 % dos créditos relacionados, ou mediante requerimento fundamentado da empresa, o juiz pode reduzir o limite de 10 % a que se refere o n.º 1, levando em consideração na apreciação do pedido o montante absoluto dos créditos relacionados e a composição do universo de credores.
+
+10 - Oficiosamente ou a requerimento do administrador judicial provisório, são apensados aos autos os processos especiais de revitalização intentados por sociedades comerciais com as quais a empresa se encontre em relação de domínio ou de grupo, nos termos do Código das Sociedades Comerciais, podendo o mesmo requerimento ser formulado por todas as empresas naquelas circunstâncias que tenham intentado processo especial de revitalização.
+
+11 - A apensação referida no número anterior apenas pode ser requerida até ao início do prazo de negociações previsto no n.º 7 do artigo seguinte, no processo ao qual os demais devam ser apensados, aplicando-se, com as necessárias adaptações, o disposto no n.º 4 do artigo 86.º
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-D — Tramitação subsequente
+
+1 - Logo que seja notificada do despacho a que se refere o n.º 5 do artigo anterior, a empresa comunica, de imediato, por carta registada, a todos os seus credores que não hajam subscrito a declaração mencionada no n.º 1 do mesmo artigo, que deu início a negociações com vista à sua revitalização, convidando-os a participar, caso assim o entendam, nas negociações em curso e informando que a documentação a que se refere o n.º 1 do artigo 24.º, a proposta de plano e, sendo o caso, a proposta de classificação dos créditos se encontram na secretaria do tribunal para consulta.
+
+2 - Os credores dispõem de 20 dias contados da publicação no portal Citius do despacho a que se refere o n.º 5 do artigo anterior para reclamar créditos, devendo as reclamações ser remetidas ao administrador judicial provisório, indicando:
+
+a) A sua proveniência, data de vencimento, montante de capital e de juros;
+
+b) As condições a que estejam subordinados, tanto suspensivas como resolutivas;
+
+c) A sua natureza comum, subordinada, privilegiada ou garantida, e, neste último caso, os bens ou direitos objeto da garantia e respetivos dados de identificação registral, se aplicável;
+
+d) A existência de eventuais garantias pessoais, com identificação dos garantes;
+
+e) A taxa de juros moratórios aplicável.
+
+3 - O administrador judicial provisório elabora, no prazo de cinco dias, uma lista provisória de créditos, indicando, quando aplicável, a classificação dos créditos de acordo com a proposta da empresa, nos termos da alínea d) do n.º 3 do artigo anterior.
+
+4 - A lista provisória de créditos é imediatamente apresentada na secretaria do tribunal e publicada no portal Citius, podendo ser impugnada, no prazo de cinco dias úteis, com fundamento na indevida inclusão ou exclusão de créditos ou na incorreção do montante, da qualificação ou da classificação dos créditos relacionados, designadamente por inexistência de suficientes interesses comuns, devendo a impugnação, nos casos de incorreção da classificação dos créditos relacionados, ser acompanhada de proposta alternativa de classificação dos créditos.
+
+5 - O juiz dispõe, em seguida, de cinco dias úteis para decidir sobre as impugnações apresentadas e, caso aplicável, decidir sobre a conformidade da formação das categorias de créditos nos termos da alínea d) do n.º 3 do artigo anterior, podendo determinar a sua alteração no caso de as mesmas não refletirem o universo de credores da empresa ou a existência de suficientes interesses comuns entre estes.
+
+6 - Não sendo impugnada, a lista provisória de créditos converte-se de imediato em definitiva, devendo o juiz, no prazo de cinco dias úteis a partir do término do prazo previsto no n.º 4, decidir sobre a conformidade da formação das categorias de créditos nos termos da alínea d) do n.º 3 do artigo anterior, se aplicável, podendo determinar a sua alteração no caso de as mesmas não refletirem o universo de credores da empresa ou a existência de suficientes interesses comuns entre estes.
+
+7 - Findo o prazo para impugnações, os declarantes dispõem do prazo de dois meses para concluir as negociações encetadas, o qual pode ser prorrogado, por uma só vez e por um mês, mediante acordo prévio e escrito entre o administrador judicial provisório nomeado e a empresa, devendo tal acordo ser junto aos autos e publicado no portal Citius.
+
+8 - Durante as negociações a empresa presta toda a informação pertinente aos seus credores e ao administrador judicial provisório que haja sido nomeado para que as mesmas se possam realizar de forma transparente e equitativa, devendo manter sempre atualizada e completa a informação facultada ao administrador judicial provisório e aos credores.
+
+9 - Os credores que decidam participar nas negociações em curso declaram-no à empresa por carta registada, podendo fazê-lo durante todo o tempo em que perdurarem as negociações, sendo tais declarações juntas ao processo.
+
+10 - As negociações encetadas entre a empresa e os seus credores regem-se pelos termos convencionados entre todos os intervenientes ou, na falta de acordo, pelas regras definidas pelo administrador judicial provisório nomeado, nelas podendo participar os peritos que cada um dos intervenientes considerar oportuno, cabendo a cada qual suportar os custos dos peritos que haja contratado, se o contrário não resultar expressamente do plano de recuperação que venha a ser aprovado.
+
+11 - O administrador judicial provisório participa nas negociações, orientando e fiscalizando o decurso dos trabalhos e a sua regularidade, e deve assegurar que as partes não adotam expedientes dilatórios, inúteis ou, em geral, prejudiciais à boa marcha daquelas.
+
+12 - Durante as negociações os intervenientes devem atuar de acordo com os princípios orientadores aprovados pela Resolução do Conselho de Ministros n.º 43/2011, de 25 de outubro.
+
+13 - A empresa, bem como os seus administradores de direito ou de facto, no caso de aquela ser uma pessoa coletiva, são solidária e civilmente responsáveis pelos prejuízos causados aos seus credores em virtude de falta ou incorreção das comunicações ou informações a estes prestadas, correndo autonomamente ao presente processo a ação intentada para apurar as aludidas responsabilidades.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-E — Suspensão das medidas de execução
+
+1 - A decisão a que se refere o n.º 5 do artigo 17.º-C obsta à instauração de quaisquer ações executivas contra a empresa para cobrança de créditos durante um período máximo de quatro meses, e suspende quanto à empresa, durante o mesmo período, as ações em curso com idêntica finalidade.
+
+2 - A requerimento fundamentado da empresa, de um credor ou do administrador judicial provisório, desde que deduzido no prazo de negociações, o juiz pode, de imediato, prorrogar o prazo de vigência da suspensão prevista no número anterior, por um mês, caso se verifique uma das seguintes situações:
+
+a) Tenham ocorrido progressos significativos nas negociações do plano de reestruturação;
+
+b) A prorrogação se revele imprescindível para garantir a recuperação da atividade da empresa; ou
+
+c) A continuação da suspensão das medidas de execução não prejudique injustamente os direitos ou interesses das partes afetadas.
+
+3 - No decurso do período suplementar de suspensão, determinado nos termos do número anterior, o juiz pode determinar o seu levantamento nos seguintes casos:
+
+a) A suspensão deixe de cumprir o objetivo de apoiar as negociações sobre o plano de recuperação; ou
+
+b) A pedido da empresa ou do administrador judicial provisório.
+
+4 - O disposto nos números anteriores não é aplicável a ações executivas para cobrança de créditos emergentes de contrato de trabalho, ou da sua violação ou cessação.
+
+5 - Caso o juiz nomeie administrador judicial provisório nos termos do n.º 5 do artigo 17.º-C, a empresa fica impedida de praticar atos de especial relevo, tal como definidos no artigo 161.º, sem que previamente obtenha autorização do administrador judicial provisório para a realização da operação pretendida.
+
+6 - A autorização a que se refere o número anterior deve ser requerida por escrito pela empresa ao administrador judicial provisório e concedida pela mesma forma.
+
+7 - Entre a comunicação da empresa ao administrador judicial provisório e a receção da resposta ao peticionado previstas no número anterior não podem mediar mais de cinco dias, devendo, sempre que possível, recorrer-se a comunicações eletrónicas.
+
+8 - A falta de resposta do administrador judicial provisório ao pedido formulado pela empresa corresponde a declaração de recusa de autorização para a realização do negócio pretendido.
+
+9 - Durante o período de suspensão das medidas de execução, nos termos dos n.os 1 e 2, suspendem-se, igualmente:
+
+a) Os processos de insolvência em que anteriormente haja sido requerida a insolvência da empresa, desde que não tenha sido proferida sentença declaratória da insolvência;
+
+b) Os processos de insolvência em que seja requerida a insolvência da empresa;
+
+c) Todos os prazos de prescrição e de caducidade oponíveis pela empresa.
+
+10 - A partir da decisão a que se refere o n.º 5 do artigo 17.º-C e durante o período de suspensão das medidas de execução a que se referem os n.os 1 e 2, os credores não podem recusar cumprir, resolver, antecipar ou alterar unilateralmente contratos executórios essenciais em prejuízo da empresa, relativamente a dívidas constituídas antes da suspensão, quando o único fundamento seja o não pagamento das mesmas.
+
+11 - Entende-se por contratos executórios essenciais os contratos de execução continuada necessários à continuação do exercício corrente da atividade da empresa, incluindo quaisquer contratos de fornecimento de bens ou serviços cuja suspensão levaria à paralisação da atividade da empresa.
+
+12 - O preço dos bens ou serviços essenciais à atividade da empresa prestados durante o período referido no n.º 10 que não sejam objeto de pagamento é considerado dívida da massa insolvente, em insolvência da mesma empresa, que venha a ser decretada nos dois anos posteriores ao termo do período de suspensão previsto nos n.os 1 e 2, sem prejuízo do disposto no artigo 10.º da Lei n.º 23/96, de 26 de julho, quanto aos serviços públicos essenciais.
+
+13 - É nula a cláusula contratual que atribua ao pedido de abertura de um processo especial de revitalização, à abertura de um processo especial de revitalização, ao pedido de prorrogação da suspensão das medidas de execução ou à sua concessão o valor de uma condição resolutiva do negócio ou confira, nesse caso, à parte contrária um direito de indemnização, de resolução ou de denúncia do contrato.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-F — Conclusão das negociações com a aprovação de plano de recuperação conducente à revitalização da empresa
+
+1 - Até ao último dia do prazo de negociações, a empresa deposita no tribunal a versão final do plano de recuperação, contendo, pelo menos, as seguintes informações, e sendo de imediato publicada no portal Citius a indicação do depósito:
+
+a) A identificação da empresa, indicando o seu nome ou firma, sede, número de identificação fiscal ou número de identificação de pessoa coletiva, e do administrador judicial provisório nomeado;
+
+b) A descrição da situação patrimonial, financeira e reditícia da empresa no momento da apresentação da proposta do plano de recuperação, indicando, nomeadamente, o valor dos ativos, e fazendo uma descrição da situação económica da empresa;
+
+c) No caso previsto no n.º 4 do artigo 17.º-C, as partes afetadas pelo conteúdo do plano, designadas a título individual e repartidas por classes de créditos nos termos do artigo 47.º, e os respetivos créditos ou interesses abrangidos pelo plano de recuperação;
+
+d) As partes afetadas pelo conteúdo do plano, designadas a título individual e, se aplicável, repartidas pelas categorias em que tenham sido agrupadas para efeitos de aprovação do plano de recuperação nos termos da alínea d) do n.º 3 do artigo 17.º-C, e os valores respetivos dos créditos e interesses de cada categoria abrangidos pelo plano de recuperação;
+
+e) As partes, designadas a título individual, repartidas, consoante o caso, por classes nos termos gerais ou por categorias nos termos da alínea d) do n.º 3 do artigo 17.º-C, que não são afetadas pelo plano de recuperação, juntamente com uma descrição das razões pelas quais o plano proposto não as afeta;
+
+f) As condições do plano de reestruturação, incluindo, em especial, as medidas de reestruturação propostas e sua duração;
+
+g) As formas de informação e consulta dos representantes dos trabalhadores, a posição dos trabalhadores na empresa e, se for caso disso, as consequências gerais relativamente ao emprego, designadamente despedimentos, redução temporária dos períodos normais de trabalho ou suspensão dos contratos de trabalho;
+
+h) Os fluxos financeiros da empresa previstos, incluindo designadamente plano de investimentos, conta de exploração previsional e demonstração previsional de fluxos de caixa pelo período de ocorrência daqueles pagamentos, especificando, fundamentadamente, os principais pressupostos subjacentes a essas previsões e o balanço pró-forma, em que os elementos do ativo e do passivo, tal como resultantes da homologação do plano de recuperação, são inscritos pelos respetivos valores;
+
+i) Qualquer novo financiamento previsto no âmbito do plano de recuperação e as razões pelas quais esse novo financiamento é necessário para executar o plano;
+
+j) Uma exposição de motivos que contenha a descrição das causas e da extensão das dificuldades da empresa e que explique as razões pelas quais há uma perspetiva razoável de o plano de recuperação evitar a insolvência da empresa e garantir a sua viabilidade, incluindo as condições prévias necessárias para o êxito do plano.
+
+2 - No prazo de cinco dias subsequente à publicação, qualquer credor pode alegar nos autos o que tiver por conveniente quanto ao plano depositado pela empresa, designadamente circunstâncias suscetíveis de levar à não homologação do mesmo, dispondo a empresa de cinco dias após o termo do primeiro prazo para, querendo, alterar o plano em conformidade, e, nesse caso, depositar a nova versão nos termos previstos no número anterior.
+
+3 - Findo o prazo previsto no número anterior é publicado no portal Citius anúncio advertindo da junção ou não junção de nova versão do plano, correndo desde a publicação referida o prazo de votação de 10 dias, no decurso do qual qualquer interessado pode solicitar a não homologação do plano, nos termos e para os efeitos previstos nos artigos 215.º e 216.º, com as devidas adaptações.
+
+4 - Concluindo-se a votação com a aprovação unânime de plano de recuperação conducente à revitalização da empresa, em que intervenham todos os seus credores, este é de imediato remetido ao processo, para homologação ou recusa do mesmo pelo juiz nos termos do n.º 7, acompanhado da documentação que comprova a sua aprovação, atestada pelo administrador judicial provisório nomeado, e do seu parecer fundamentado sobre se o plano apresenta perspetivas razoáveis de evitar a insolvência da empresa ou de garantir a viabilidade da mesma, produzindo tal plano de recuperação, em caso de homologação, de imediato, os seus efeitos.
+
+5 - Sem prejuízo de o juiz poder computar no cálculo das maiorias os créditos que tenham sido impugnados, se entender que há probabilidade séria de estes serem reconhecidos, considera-se aprovado o plano de recuperação que:
+
+a) No caso de classificação dos credores em categorias distintas, nos termos da alínea d) do n.º 3 do artigo 17.º-C, seja votado favoravelmente em cada uma das categorias por mais de dois terços da totalidade dos votos emitidos, não se considerando como tal as abstenções, obtendo desta forma:
+
+i) O voto favorável de todas as categorias formadas;
+
+ii) O voto favorável da maioria das categorias formadas, desde que pelo menos uma dessas categorias seja uma categoria de credores garantidos;
+
+iii) Caso não existam categorias de credores garantidos, o voto favorável de uma maioria das categorias formadas, desde que pelo menos uma das categorias seja de credores não subordinados;
+
+iv) Em caso de empate, o voto favorável de pelo menos uma categoria de credores não subordinados;
+
+b) Nos demais casos, sendo votado por credores cujos créditos representem, pelo menos, um terço do total dos créditos relacionados com direito de voto, contidos na lista de créditos a que se referem os n.os 3 a 6 do artigo 17.º-D, não se considerando as abstenções, recolha cumulativamente:
+
+i) O voto favorável de mais de dois terços da totalidade dos votos emitidos;
+
+ii) O voto favorável de mais de 50 % dos votos emitidos correspondentes a créditos não subordinados relacionados com direito de voto, contidos na lista de créditos a que se referem os n.os 3 a 6 do artigo 17.º-D; ou
+
+c) Recolha cumulativamente, não se considerando as abstenções:
+
+i) O voto favorável de credores cujos créditos representem mais de 50 % da totalidade dos créditos relacionados com direito de voto, contidos na lista de créditos a que se referem os n.os 3 a 6 do artigo 17.º-D;
+
+ii) O voto favorável de mais de 50 % dos votos emitidos correspondentes a créditos não subordinados relacionados com direito de voto, contidos na lista de créditos a que se referem os n.os 3 a 6 do artigo 17.º-D.
+
+6 - A votação efetua-se por escrito, aplicando-se-lhe o disposto no artigo 211.º, com as necessárias adaptações, e sendo os votos remetidos ao administrador judicial provisório, que os abre em conjunto com a empresa e elabora um documento com o resultado da votação, que remete de imediato ao tribunal, acompanhado do seu parecer fundamentado sobre se o plano apresenta perspetivas razoáveis de evitar a insolvência da empresa ou de garantir a viabilidade da mesma.
+
+7 - Nos 10 dias seguintes à receção da documentação mencionada nos números anteriores, o juiz decide se deve homologar o plano de recuperação ou recusar a sua homologação, aplicando, com as necessárias adaptações, as regras previstas no título ix, em especial o disposto nos artigos 194.º a 197.º, no n.º 1 do artigo 198.º e nos artigos 200.º a 202.º, 215.º e 216.º, e aferindo:
+
+a) Se o plano foi aprovado nos termos do n.º 5;
+
+b) Se, no caso de classificação dos credores em categorias distintas, nos termos da alínea d) do n.º 3 do artigo 17.º-C, os credores inseridos na mesma categoria são tratados de forma igual e proporcional aos seus créditos;
+
+c) Se, no caso de classificação dos credores em categorias distintas, nos termos da alínea d) do n.º 3 do artigo 17.º-C, as categorias votantes discordantes de credores afetados recebem um tratamento pelo menos tão favorável como o de qualquer outra categoria do mesmo grau, e mais favorável do que o de qualquer categoria de grau inferior;
+
+d) Que nenhuma categoria de credores, a que alude a alínea d) do n.º 3 do artigo 17.º-C, pode, no âmbito do plano de recuperação, receber nem conservar mais do que o montante correspondente à totalidade dos seus créditos;
+
+e) Se a situação dos credores ao abrigo do plano é mais favorável do que seria num cenário de liquidação da empresa, caso existam pedidos de não homologação de credores com este fundamento;
+
+f) Se aplicável, que qualquer novo financiamento necessário para executar o plano de reestruturação não prejudica injustamente os interesses dos credores;
+
+g) Se o plano de recuperação apresenta perspetivas razoáveis de evitar a insolvência da empresa ou de garantir a viabilidade da mesma.
+
+8 - O juiz pode determinar a avaliação da empresa, por um perito, se for pedida a não homologação do plano de recuperação por um credor discordante, com algum dos seguintes fundamentos:
+
+a) A situação dos credores ao abrigo do plano é menos favorável do que seria num cenário de liquidação da empresa; ou
+
+b) Desrespeito das regras de aprovação previstas nas subalíneas iii) e iv) da alínea a) do n.º 5.
+
+9 - Caso o juiz não homologue o acordo, aplica-se o disposto nos n.os 3 a 9 do artigo 17.º-G.
+
+10 - Sendo proferida decisão de não homologação, é aplicável ao recurso que venha a ser interposto dessa decisão o disposto no n.º 3 do artigo 40.º, com as devidas adaptações, caso o parecer do administrador venha a ser de que a empresa se encontra em situação de insolvência.
+
+11 - A decisão de homologação vincula a empresa e os credores, mesmo que não hajam reclamado os seus créditos ou participado nas negociações, relativamente aos créditos constituídos à data em que foi proferida a decisão prevista no n.º 5 do artigo 17.º-C, e é notificada, publicitada e registada pela secretaria do tribunal.
+
+12 - Compete à empresa suportar as custas do processo de homologação.
+
+13 - É aplicável ao plano de recuperação o disposto no n.º 1 do artigo 218.º
+
+14 - É aplicável o disposto no n.º 8 do artigo seguinte, contando-se o prazo de dois anos da decisão prevista no n.º 7, exceto se a empresa demonstrar, no respetivo requerimento inicial, que executou integralmente o plano ou que o requerimento de novo processo especial de revitalização é motivado por fatores alheios ao próprio plano e a alteração superveniente é alheia à empresa.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06, em vigor a partir de 2015-03-02
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-G — Conclusão do processo negocial sem a aprovação de plano de recuperação
+
+1 - Caso a empresa ou alguma das maiorias dos credores previstas nas alíneas a) a c) do n.º 5 do artigo anterior concluam antecipadamente não ser possível alcançar acordo, ou caso seja ultrapassado o prazo previsto no n.º 7 do artigo 17.º-D, o processo negocial é encerrado, devendo o administrador judicial provisório comunicar tal facto ao processo, se possível por meios eletrónicos, e publicá-lo no portal Citius.
+
+2 - A empresa pode pôr termo às negociações a todo o tempo, independentemente de qualquer causa, devendo, para o efeito, comunicar tal pretensão ao administrador judicial provisório, a todos os seus credores e ao tribunal, por meio de carta registada.
+
+3 - Compete ao administrador judicial provisório, na comunicação a que se refere o n.º 1 ou após ter conhecimento da comunicação da empresa a que se refere o n.º 2, mediante a informação de que disponha e após ouvir a empresa e os credores, emitir o seu parecer sobre se aquela se encontra em situação de insolvência.
+
+4 - Quando o administrador judicial provisório concluir que a empresa ainda não se encontra em situação de insolvência, o encerramento do processo especial de revitalização acarreta a extinção de todos os seus efeitos.
+
+5 - Quando o administrador judicial provisório concluir pela insolvência da empresa, a secretaria do tribunal notifica a empresa para, em cinco dias, se opor, por mero requerimento.
+
+6 - Caso a empresa se oponha, o juiz determina o encerramento e arquivamento do processo, que acarreta a extinção de todos os seus efeitos.
+
+7 - Caso a empresa não se oponha, a insolvência deve ser declarada pelo juiz no prazo de três dias úteis, sendo o processo especial de revitalização apenso ao processo de insolvência.
+
+8 - O termo do processo especial de revitalização efetuado de harmonia com os números anteriores impede a empresa de recorrer ao mesmo pelo prazo de dois anos.
+
+9 - Havendo lista definitiva de créditos reclamados, e sendo declarada a insolvência da empresa por aplicação do disposto no n.º 7, os credores constantes daquela lista não necessitam de reclamar os créditos ali relacionados nos termos da alínea j) do n.º 1 do artigo 36.º
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Nota: Acórdão do Tribunal Constitucional n.º 675/2018 - Diário da República n.º 16/2019, Série I de 2019-01-23 Declarada a inconstitucionalidade, com força obrigatória geral, da norma do n.º 4 do artigo 17.º-G do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março, quando interpretada no sentido de o parecer do administrador judicial provisório que conclua pela situação de insolvência equivaler, por força do disposto no artigo 28.º - ainda que com as necessárias adaptações -, à apresentação à insolvência por parte do devedor, quando este discorde da sua situação de insolvência, por violação do artigo 20.º, n.os 1 e 4, conjugado com o artigo 18.º, n.º 2, da Constituição da República Portuguesa.
+
+### Artigo 17.º-H — Garantias
+
+1 - As garantias convencionadas entre a empresa e os seus credores durante o processo especial de revitalização, com a finalidade de proporcionar àquela os necessários meios financeiros para o desenvolvimento da sua atividade, mantêm-se mesmo que, findo o processo, venha a ser declarada, no prazo de dois anos, a sua insolvência.
+
+2 - Os credores que, no decurso do processo ou em execução do plano de recuperação, financiem a atividade da empresa, disponibilizando-lhe capital para a sua revitalização, gozam de um crédito sobre a massa insolvente, até um valor correspondente a 25 % do passivo não subordinado da empresa à data da declaração de insolvência, caso venha a ser declarada a insolvência da empresa no prazo de dois anos a contar do trânsito em julgado da decisão de homologação do plano de recuperação.
+
+3 - Os créditos disponibilizados a empresas nas condições do número anterior, acima do valor nele referido, gozam de um privilégio creditório mobiliário geral, graduado antes do privilégio creditório mobiliário geral concedido aos trabalhadores.
+
+4 - Gozam do privilégio referido no número anterior os créditos decorrentes de financiamento disponibilizado à empresa por credores, sócios, acionistas e quaisquer outras pessoas especialmente relacionadas com a empresa em execução do plano de recuperação.
+
+5 - Os atos de financiamento referidos nos números anteriores não podem ser objeto de impugnação pauliana.
+
+6 - O novo financiamento e o financiamento intercalar não podem ser declarados nulos, anuláveis ou insuscetíveis de execução.
+
+7 - Os concedentes do novo financiamento e do financiamento intercalar não podem incorrer, em virtude desse financiamento, em responsabilidade civil, administrativa ou penal, com o fundamento de que tais financiamentos são prejudiciais para o conjunto dos credores, salvo nos casos expressamente previstos na lei.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-I — Homologação de acordos extrajudiciais de recuperação de empresa
+
+1 - O processo previsto no presente capítulo pode igualmente iniciar-se pela apresentação pela empresa de acordo extrajudicial de recuperação, assinado pela empresa e por credores que representem pelo menos as maiorias de votos previstas nas alíneas b) e c) do n.º 5 do artigo 17.º-F, acompanhado dos documentos previstos no n.º 2 do artigo 17.º-A e no n.º 1 do artigo 24.º
+
+2 - Recebidos os documentos mencionados no número anterior, o juiz nomeia administrador judicial provisório, aplicando-se o disposto nos artigos 32.º a 34.º com as necessárias adaptações, devendo a secretaria:
+
+a) Notificar os credores que no mesmo não intervieram e que constam da lista de créditos relacionados pela empresa da existência do acordo, ficando este patente na secretaria do tribunal para consulta;
+
+b) Publicar no portal Citius a lista provisória de créditos.
+
+3 - O disposto nos n.os 2 a 6 do artigo 17.º-D aplica-se, com as necessárias adaptações, ao previsto no número anterior.
+
+4 - Convertendo-se a lista de créditos em definitiva, o juiz procede, no prazo de 10 dias, à análise do acordo extrajudicial, devendo homologá-lo se respeitar as maiorias previstas nas alíneas b) ou c) do n.º 5 do artigo 17.º-F, aplicando, com as necessárias adaptações, as regras previstas no n.º 7 e nos n.os 9 a 14 do artigo 17.º-F e no título ix, em especial o disposto nos artigos 194.º a 197.º, no n.º 1 do artigo 198.º e nos artigos 200.º a 202.º, 215.º e 216.º
+
+5 - O disposto nos artigos 17.º-E e 17.º-H aplica-se com as necessárias adaptações, sendo que, caso o juiz não homologue o acordo, aplica-se com as necessárias adaptações o disposto nos n.os 3 a 9 do artigo 17.º-G.
+
+6 - Com a apresentação referida no n.º 1, a empresa pode requerer a apensação de processo especial de revitalização, nos termos do n.º 11 do artigo 17.º-C, quando este, encontrando-se igualmente na fase liminar, tenha sido instaurado ao abrigo do presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 3.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 17.º-J — Encerramento do processo especial de revitalização e cessação de funções do administrador judicial provisório
+
+1 - O processo especial de revitalização considera-se encerrado:
+
+a) Após o trânsito em julgado da decisão de homologação do plano de recuperação;
+
+b) Após o cumprimento do disposto nos n.os 1 a 7 do artigo 17.º-G nos casos em que não tenha sido aprovado ou homologado plano de recuperação.
+
+2 - O administrador judicial provisório manter-se-á em funções, sem prejuízo da sua substituição ou remoção:
+
+a) Até ser proferida decisão de homologação do plano de recuperação;
+
+b) Até ao encerramento do processo nos termos previstos na alínea b) do número anterior nos demais casos.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+## Título II — Declaração da situação de insolvência
+
+## Capítulo I — Pedido de declaração de insolvência
+
+## Secção I — Legitimidade para apresentar o pedido e desistência
+
+### Artigo 18.º — Dever de apresentação à insolvência
+
+1 - O devedor deve requerer a declaração da sua insolvência dentro dos 30 dias seguintes à data do conhecimento da situação de insolvência, tal como descrita no n.º 1 do artigo 3.º, ou à data em que devesse conhecê-la.
+
+2 - Excetuam-se do dever de apresentação à insolvência:
+
+a) As empresas que se tenham apresentado a processo especial de revitalização durante o período de suspensão das medidas de execução previsto nos n.os 1 e 2 do artigo 17.º-E;
+
+b) As pessoas singulares que não sejam titulares de uma empresa na data em que incorram em situação de insolvência.
+
+3 - Quando o devedor seja titular de uma empresa, presume-se de forma inilidível o conhecimento da situação de insolvência decorridos pelo menos três meses sobre o incumprimento generalizado de obrigações de algum dos tipos referidos na alínea g) do n.º 1 do artigo 20.º
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 19.º — A quem compete o pedido
+
+Não sendo o devedor uma pessoa singular capaz, a iniciativa da apresentação à insolvência cabe ao órgão social incumbido da sua administração, ou, se não for o caso, a qualquer um dos seus administradores.
+
+### Artigo 20.º — Outros legitimados
+
+1 - A declaração de insolvência de um devedor pode ser requerida por quem for legalmente responsável pelas suas dívidas, por qualquer credor, ainda que condicional e qualquer que seja a natureza do seu crédito, ou ainda pelo Ministério Público, em representação das entidades cujos interesses lhe estão legalmente confiados, verificando-se algum dos seguintes factos:
+
+a) Suspensão generalizada do pagamento das obrigações vencidas;
+
+b) Falta de cumprimento de uma ou mais obrigações que, pelo seu montante ou pelas circunstâncias do incumprimento, revele a impossibilidade de o devedor satisfazer pontualmente a generalidade das suas obrigações;
+
+c) Fuga do titular da empresa ou dos administradores do devedor ou abandono do local em que a empresa tem a sede ou exerce a sua principal actividade, relacionados com a falta de solvabilidade do devedor e sem designação de substituto idóneo;
+
+d) Dissipação, abandono, liquidação apressada ou ruinosa de bens e constituição fictícia de créditos;
+
+e) Insuficiência de bens penhoráveis para pagamento do crédito do exequente verificada em processo executivo movido contra o devedor;
+
+f) Incumprimento de obrigações previstas em plano de insolvência ou em plano de pagamentos, nas condições previstas na alínea a) do n.º 1 e no n.º 2 do artigo 218.º;
+
+g) Incumprimento generalizado, nos últimos seis meses, de dívidas de algum dos seguintes tipos:
+
+i) Tributárias;
+
+ii) De contribuições e quotizações para a segurança social;
+
+iii) Dívidas emergentes de contrato de trabalho, ou da violação ou cessação deste contrato;
+
+iv) Rendas de qualquer tipo de locação, incluindo financeira, prestações do preço da compra ou de empréstimo garantido pela respectiva hipoteca, relativamente a local em que o devedor realize a sua actividade ou tenha a sua sede ou residência;
+
+h) Sendo o devedor uma das entidades referidas no n.º 2 do artigo 3.º, manifesta superioridade do passivo sobre o activo segundo o último balanço aprovado, ou atraso superior a nove meses na aprovação e depósito das contas, se a tanto estiver legalmente obrigado.
+
+2 - O disposto no número anterior não prejudica a possibilidade de representação das entidades públicas nos termos do artigo 13.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 21.º — Desistência do pedido ou da instância no processo de insolvência
+
+Salvo nos casos de apresentação à insolvência, o requerente da declaração de insolvência pode desistir do pedido ou da instância até ser proferida sentença, sem prejuízo do procedimento criminal que ao caso couber.
+
+### Artigo 22.º — Dedução de pedido infundado
+
+A dedução de pedido infundado de declaração de insolvência, ou a indevida apresentação por parte do devedor, gera responsabilidade civil pelos prejuízos causados ao devedor ou aos credores, mas apenas em caso de dolo.
+
+## Secção II — Requisitos da petição inicial
+
+### Artigo 23.º — Forma e conteúdo da petição
+
+1 - A apresentação à insolvência ou o pedido de declaração desta faz-se por meio de petição escrita, na qual são expostos os factos que integram os pressupostos da declaração requerida e se conclui pela formulação do correspondente pedido.
+
+2 - Na petição, o requerente:
+
+a) Sendo o próprio devedor, indica se a situação de insolvência é actual ou apenas iminente, e, quando seja pessoa singular, se pretende a exoneração do passivo restante, nos termos das disposições do capítulo I do título XII;
+
+b) Identifica os administradores, de direito e de facto, do devedor e os seus cinco maiores credores, com exclusão do próprio requerente;
+
+c) Sendo o devedor casado, identifica o respectivo cônjuge e indica o regime de bens do casamento;
+
+d) Junta certidão do registo civil, do registo comercial ou de outro registo público a que o devedor esteja eventualmente sujeito.
+
+3 - Não sendo possível ao requerente fazer as indicações e junções referidas no número anterior, solicita que sejam prestadas pelo próprio devedor.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 24.º — Junção de documentos pelo devedor
+
+1 - Com a petição, o devedor, quando seja o requerente, junta ainda os seguintes documentos:
+
+a) Relação por ordem alfabética de todos os credores, com indicação dos respectivos domicílios, dos montantes dos seus créditos, datas de vencimento, natureza e garantias de que beneficiem, e da eventual existência de relações especiais, nos termos do artigo 49.º;
+
+b) Relação e identificação de todas as acções e execuções que contra si estejam pendentes;
+
+c) Documento em que se explicita a actividade ou actividades a que se tenha dedicado nos últimos três anos e os estabelecimentos de que seja titular, bem como o que entenda serem as causas da situação em que se encontra;
+
+d) Documento em que identifica o autor da sucessão, tratando-se de herança jacente, os sócios, associados ou membros conhecidos da pessoa colectiva, se for o caso, e, nas restantes hipóteses em que a insolvência não respeite a pessoa singular, aqueles que legalmente respondam pelos créditos sobre a insolvência;
+
+e) Relação de bens que o devedor detenha em regime de arrendamento, aluguer ou locação financeira ou venda com reserva de propriedade, e de todos os demais bens e direitos de que seja titular, com indicação da sua natureza, lugar em que se encontrem, dados de identificação registral, se for o caso, valor de aquisição e estimativa do seu valor actual;
+
+f) Tendo o devedor contabilidade organizada, as contas anuais relativas aos três últimos exercícios, bem como os respectivos relatórios de gestão, de fiscalização e de auditoria, pareceres do órgão de fiscalização e documentos de certificação legal, se forem obrigatórios ou existirem, e informação sobre as alterações mais significativas do património ocorridas posteriormente à data a que se reportam as últimas contas e sobre as operações que, pela sua natureza, objecto ou dimensão extravasem da actividade corrente do devedor;
+
+g) Tratando-se de sociedade compreendida em consolidação de contas, relatórios consolidados de gestão, contas anuais consolidadas e demais documentos de prestação de contas respeitantes aos três últimos exercícios, bem como os respectivos relatórios de fiscalização e de auditoria, pareceres do órgão de fiscalização, documentos de certificação legal e relatório das operações intragrupo realizadas durante o mesmo período;
+
+h) Relatórios e contas especiais e informações trimestrais e semestrais, em base individual e consolidada, reportados a datas posteriores à do termo do último exercício a cuja elaboração a sociedade devedora esteja obrigada nos termos do Código dos Valores Mobiliários e dos regulamentos da Comissão do Mercado de Valores Mobiliários;
+
+i) Documento em que se identificam as sociedades comerciais com as quais o devedor se encontre em relação de domínio ou de grupo nos termos do Código das Sociedades Comerciais ou que sejam consideradas empresas associadas nos termos do disposto no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, e, se for o caso, identificando os processos em que seja requerida ou tenha sido declarada a sua insolvência;
+
+j) Mapa de pessoal que o devedor tenha ao serviço.
+
+2 - O devedor deve ainda:
+
+a) Juntar documento comprovativo dos poderes dos administradores que o representem e cópia da acta que documente a deliberação da iniciativa do pedido por parte do respectivo órgão social de administração, se aplicável;
+
+b) Justificar a não apresentação ou a não conformidade de algum dos documentos exigidos no n.º 1;
+
+c) (Revogada).
+
+3 - Sem prejuízo de apresentação posterior, nos termos do disposto nos artigos 223.º e seguintes, a petição apresentada pelo devedor pode ser acompanhada de um plano de insolvência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 25.º — Requerimento por outro legitimado
+
+1 - Quando o pedido não provenha do próprio devedor, o requerente da declaração de insolvência deve justificar na petição a origem, natureza e montante do seu crédito, ou a sua responsabilidade pelos créditos sobre a insolvência, consoante o caso, e oferecer com ela os elementos que possua relativamente ao activo e passivo do devedor.
+
+2 - O requerente deve ainda oferecer todos os meios de prova de que disponha, ficando obrigado a apresentar as testemunhas arroladas, com os limites do artigo 511.º do Código de Processo Civil.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 26.º — Duplicados e cópias de documentos
+
+1 - São apenas oferecidos pelo requerente ou, no caso de apresentação em suporte digital, extraídos pela secretaria os duplicados da petição necessários para a entrega aos cinco maiores credores conhecidos, e, quando for caso disso, à comissão de trabalhadores e ao devedor, além do destinado a arquivo do tribunal.
+
+2 - Os documentos juntos com a petição serão acompanhados de duas cópias, uma das quais se destina ao arquivo do tribunal, ficando a outra na secretaria judicial para consulta dos interessados.
+
+3 - O processo tem seguimento apesar de não ter sido feita a entrega das cópias e dos duplicados exigidos, sendo estes extraídos oficiosamente, mediante o respectivo pagamento e de uma multa até 2 UC.
+
+4 - São sempre extraídas oficiosamente as cópias da petição necessárias para entrega aos administradores do devedor, se for o caso.
+
+## Capítulo II — Tramitação subsequente
+
+### Artigo 27.º — Apreciação liminar
+
+1 - No próprio dia da distribuição, ou, não sendo tal viável, até ao 3.º dia útil subsequente, o juiz:
+
+a) Indefere liminarmente o pedido de declaração de insolvência quando seja manifestamente improcedente, ou ocorram, de forma evidente, excepções dilatórias insupríveis de que deva conhecer oficiosamente;
+
+b) Concede ao requerente, sob pena de indeferimento, o prazo máximo de cinco dias para corrigir os vícios sanáveis da petição, designadamente quando esta careça de requisitos legais ou não venha acompanhada dos documentos que hajam de instrui-la, nos casos em que tal falta não seja devidamente justificada.
+
+2 - Nos casos de apresentação à insolvência, o despacho de indeferimento liminar que não se baseie, total ou parcialmente, na falta de junção dos documentos exigida pela alínea a) do n.º 2 do artigo 24.º é objeto de publicação no portal Citius, no prazo previsto no n.º 8 do artigo 38.º, devendo conter os elementos referidos no n.º 8 do artigo 37.º
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 28.º — Declaração imediata da situação de insolvência
+
+A apresentação à insolvência por parte do devedor implica o reconhecimento por este da sua situação de insolvência, que é declarada até ao 3.º dia útil seguinte ao da distribuição da petição inicial ou, existindo vícios corrigíveis, ao do respectivo suprimento.
+
+### Artigo 29.º — Citação do devedor
+
+1 - Sem prejuízo do disposto no n.º 3 do artigo 31.º, se a petição não tiver sido apresentada pelo próprio devedor e não houver motivo para indeferimento liminar, o juiz manda citar pessoalmente o devedor, no prazo referido no artigo anterior.
+
+2 - No acto de citação é o devedor advertido da cominação prevista no n.º 5 do artigo seguinte e de que os documentos referidos no n.º 1 do artigo 24.º devem estar prontos para imediata entrega ao administrador da insolvência na eventualidade de a insolvência ser declarada.
+
+### Artigo 30.º — Oposição do devedor
+
+1 - O devedor pode, no prazo de 10 dias, deduzir oposição, à qual é aplicável o disposto no n.º 2 do artigo 25.º
+
+2 - Sem prejuízo do disposto no número seguinte, o devedor junta com a oposição, sob pena de não recebimento, lista dos seus cinco maiores credores, com exclusão do requerente, com indicação do respectivo domicílio.
+
+3 - A oposição do devedor à declaração de insolvência pretendida pode basear-se na inexistência do facto em que se fundamenta o pedido formulado ou na inexistência da situação de insolvência.
+
+4 - Cabe ao devedor provar a sua solvência, baseando-se na escrituração legalmente obrigatória, se for o caso, devidamente organizada e arrumada, sem prejuízo do disposto no n.º 3 do artigo 3.º
+
+5 - Se a audiência do devedor não tiver sido dispensada nos termos do artigo 12.º e o devedor não deduzir oposição, consideram-se confessados os factos alegados na petição inicial, e a insolvência é declarada no dia útil seguinte ao termo do prazo referido no n.º 1, se tais factos preencherem a hipótese de alguma das alíneas do n.º 1 do artigo 20.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 31.º — Medidas cautelares
+
+1 - Havendo justificado receio da prática de actos de má gestão, o juiz, oficiosamente ou a pedido do requerente, ordena as medidas cautelares que se mostrem necessárias ou convenientes para impedir o agravamento da situação patrimonial do devedor, até que seja proferida sentença.
+
+2 - As medidas cautelares podem designadamente consistir na nomeação de um administrador judicial provisório com poderes exclusivos para a administração do património do devedor, ou para assistir o devedor nessa administração.
+
+3 - A adopção das medidas cautelares pode ter lugar previamente à citação do devedor, no caso de a antecipação ser julgada indispensável para não pôr em perigo o seu efeito útil, mas sem que a citação possa em caso algum ser retardada mais de 10 dias relativamente ao prazo que de outro modo interviria.
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 32.º — Escolha e remuneração do administrador judicial provisório
+
+1 - A escolha do administrador judicial provisório recai em entidade inscrita na lista oficial de administradores de insolvência, podendo o juiz ter em conta a proposta eventualmente feita na petição inicial no caso de processos em que seja previsível a existência de atos de gestão que requeiram especiais conhecimentos ou quando o devedor seja uma sociedade comercial em relação de domínio ou de grupo com outras sociedades cuja insolvência haja sido requerida e se pretenda a nomeação do mesmo administrador nos diversos processos.
+
+2 - O administrador judicial provisório manter-se-á em funções até que seja proferida a sentença, sem prejuízo da possibilidade da sua substituição ou remoção em momento anterior, ou da sua recondução como administrador da insolvência.
+
+3 - A remuneração do administrador judicial provisório é fixada pelo juiz, na própria decisão de nomeação ou posteriormente, e constitui, juntamente com as despesas em que ele incorra no exercício das suas funções, um encargo compreendido nas custas do processo, que é suportado pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça na medida em que, sendo as custas da responsabilidade da massa, não puder ser satisfeito pelas forças desta.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 33.º — Competências do administrador judicial provisório
+
+1 - O administrador judicial provisório a quem forem atribuídos poderes exclusivos de administração do património do devedor deve providenciar pela manutenção e preservação desse património, e pela continuidade da exploração da empresa, salvo se considerar que a suspensão da actividade é mais vantajosa para os interesses dos credores e tal medida for autorizada pelo juiz.
+
+2 - O juiz fixa os deveres e as competências do administrador judicial provisório encarregado apenas de assistir o devedor na administração do seu património, devendo:
+
+a) Especificar os actos que não podem ser praticados pelo devedor sem a aprovação do administrador judicial provisório; ou
+
+b) Indicar serem eles genericamente todos os que envolvam a alienação ou a oneração de quaisquer bens ou a assunção de novas responsabilidades que não sejam indispensáveis à gestão corrente da empresa.
+
+3 - Em qualquer das hipóteses previstas nos números anteriores, o administrador judicial provisório tem o direito de acesso à sede e às instalações empresariais do devedor e de proceder a quaisquer inspecções e a exames, designadamente dos elementos da sua contabilidade, e o devedor fica obrigado a fornecer-lhe todas as informações necessárias ao desempenho das suas funções, aplicando-se, com as devidas adaptações, o artigo 83.º
+
+### Artigo 34.º — Remissão
+
+O disposto nos artigos 37.º, 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º aplica-se, respectivamente e com as necessárias adaptações, à publicidade e ao registo da nomeação do administrador judicial provisório e dos poderes que lhe forem atribuídos, à fiscalização do exercício do cargo e responsabilidade em que possa incorrer e ainda à eficácia dos actos jurídicos celebrados sem a sua intervenção, quando exigível.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 35.º — Audiência de discussão e julgamento
+
+1 - Tendo havido oposição do devedor, ou tendo a audiência deste sido dispensada, é logo marcada audiência de discussão e julgamento para um dos cinco dias subsequentes, notificando-se o requerente, o devedor e todos os administradores de direito ou de facto identificados na petição inicial para comparecerem pessoalmente ou para se fazerem representar por quem tenha poderes para transigir.
+
+2 - Não comparecendo o devedor nem um seu representante, têm-se por confessados os factos alegados na petição inicial, se a audiência do devedor não tiver sido dispensada nos termos do artigo 12.º
+
+3 - Não se verificando a situação prevista no número anterior, a não comparência do requerente, por si ou através de um representante, vale como desistência do pedido.
+
+4 - O juiz dita logo para a acta, consoante o caso, sentença de declaração da insolvência, se os factos alegados na petição inicial forem subsumíveis no n.º 1 do artigo 20.º, ou sentença homologatória da desistência do pedido.
+
+5 - Comparecendo ambas as partes, ou só o requerente ou um seu representante, mas tendo a audiência do devedor sido dispensada, o juiz profere despacho destinado a identificar o objeto do litígio e a enunciar os temas da prova.
+
+6 - As reclamações apresentadas são logo decididas, seguindo-se de imediato a produção das provas.
+
+7 - Finda a produção da prova têm lugar alegações orais e o tribunal profere em seguida a sentença.
+
+8 - Se a sentença não puder ser logo proferida, sê-lo-á no prazo de cinco dias.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+## Capítulo III — Sentença de declaração de insolvência e sua impugnação
+
+## Secção I — Conteúdo, notificação e publicidade da sentença
+
+### Artigo 36.º — Sentença de declaração de insolvência
+
+1 - Na sentença que declarar a insolvência, o juiz:
+
+a) Indica a data e a hora da respectiva prolação, considerando-se que ela teve lugar ao meio-dia na falta de outra indicação;
+
+b) Identifica o devedor insolvente, com indicação da sua sede ou residência;
+
+c) Identifica e fixa residência aos administradores, de direito e de facto, do devedor, bem como ao próprio devedor, se este for pessoa singular;
+
+d) Nomeia o administrador da insolvência, com indicação do seu domicílio profissional;
+
+e) Determina que a administração da massa insolvente será assegurada pelo devedor, quando se verifiquem os pressupostos exigidos pelo n.º 2 do artigo 224.º;
+
+f) Determina que o devedor entregue imediatamente ao administrador da insolvência os documentos referidos no n.º 1 do artigo 24.º que ainda não constem dos autos;
+
+g) Decreta a apreensão, para imediata entrega ao administrador da insolvência, dos elementos da contabilidade do devedor e de todos os seus bens, ainda que arrestados, penhorados ou por qualquer forma apreendidos ou detidos e sem prejuízo do disposto no n.º 1 do artigo 150.º;
+
+h) Ordena a entrega ao Ministério Público, para os devidos efeitos, dos elementos que indiciem a prática de infracção penal;
+
+i) Caso disponha de elementos que justifiquem a abertura do incidente de qualificação da insolvência, declara aberto o incidente de qualificação, com caráter pleno ou limitado, sem prejuízo do disposto no artigo 187.º;
+
+j) Designa prazo, até 30 dias, para a reclamação de créditos;
+
+l) Adverte os credores de que devem comunicar prontamente ao administrador da insolvência as garantias reais de que beneficiem;
+
+m) Adverte os devedores do insolvente de que as prestações a que estejam obrigados deverão ser feitas ao administrador da insolvência e não ao próprio insolvente;
+
+n) Designa dia e hora, entre os 45 e os 60 dias subsequentes, para a realização da reunião da assembleia de credores aludida no artigo 156.º, designada por assembleia de apreciação do relatório, ou declara, fundamentadamente, prescindir da realização da mencionada assembleia.
+
+2 - O disposto na parte final da alínea n) do número anterior não se aplica nos casos em que for previsível a apresentação de um plano de insolvência ou em que se determine que a administração da insolvência seja efetuada pelo devedor.
+
+3 - Nos casos em que não é designado dia para realização da assembleia de apreciação do relatório, nos termos da alínea n) do n.º 1, e qualquer interessado, no prazo para apresentação das reclamações de créditos, requeira ao tribunal a sua convocação, o juiz designa dia e hora, entre os 45 e os 60 dias subsequentes à sentença que declarar a insolvência, para a sua realização.
+
+4 - Nos casos em que não é designado dia para realização da assembleia de apreciação do relatório nos termos da alínea n) do n.º 1, os prazos previstos neste Código, contados por referência à data da sua realização, contam-se com referência ao 45.º dia subsequente à data de prolação da sentença de declaração da insolvência.
+
+5 - O juiz que tenha decidido não realizar a assembleia de apreciação do relatório deve, logo na sentença, adequar a marcha processual a tal factualidade, tendo em conta o caso concreto.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 37.º — Notificação da sentença e citação
+
+1 - Os administradores do devedor a quem tenha sido fixada residência são notificados pessoalmente da sentença, nos termos e pelas formas prescritos na lei processual para a citação, sendo-lhes igualmente enviadas cópias da petição inicial.
+
+2 - Sem prejuízo das notificações que se revelem necessárias nos termos da legislação laboral, nomeadamente ao Fundo de Garantia Salarial, a sentença é igualmente notificada ao Ministério Público, ao Instituto de Segurança Social, ao requerente da declaração de insolvência, ao devedor, nos termos previstos para a citação, caso não tenha já sido citado pessoalmente para os termos do processo e, se este for titular de uma empresa, à comissão de trabalhadores.
+
+3 - Os cinco maiores credores conhecidos, com exclusão do que tiver sido requerente, são citados nos termos do n.º 1 ou por carta registada, consoante tenham ou não residência habitual, sede ou domicílio em Portugal.
+
+4 - Os credores conhecidos que tenham a residência habitual, o domicílio ou a sede estatutária num Estado-membro diferente daquele em foi aberto o processo, incluindo as autoridades fiscais e os organismos da segurança social desses Estados-membros, são citados por carta registada, sem demora, em conformidade com o artigo 54.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015.
+
+5 - Havendo créditos do Estado, de institutos públicos sem a natureza de empresas públicas ou de instituições da segurança social, sempre que não for possível o envio da citação por via eletrónica, nos termos previstos nos n.os 9 e 13 do artigo 246.º do Código de Processo Civil, a citação destas entidades faz-se apenas por carta registada.
+
+6 - (Revogado).
+
+7 - Os demais credores e outros interessados são citados por edital, com prazo de dilação de cinco dias, afixado na sede ou na residência do devedor, nos seus estabelecimentos e no próprio tribunal e por anúncio publicado no portal Citius.
+
+8 - Os editais e anúncios referidos no número anterior devem indicar o número do processo, a dilação e a possibilidade de recurso ou dedução de embargos e conter os elementos e informações previstos nas alíneas a) a e) e i) a n) do artigo anterior, advertindo-se que o prazo para o recurso, os embargos e a reclamação dos créditos só começa a correr depois de finda a dilação e que esta se conta da publicação do anúncio referido no número anterior.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07, em vigor a partir de 2024-11-10, produz efeitos a partir de 2024-10-15
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 38.º — Publicidade e registo
+
+1 - (Revogado).
+
+2 - A declaração de insolvência e a nomeação de um administrador da insolvência são registadas oficiosamente, com base na respectiva certidão, para o efeito remetida pela secretaria:
+
+a) Na conservatória do registo civil, se o devedor for uma pessoa singular;
+
+b) Na conservatória do registo comercial, se houver quaisquer factos relativos ao devedor insolvente sujeitos a esse registo;
+
+c) Na entidade encarregada de outro registo público a que o devedor esteja eventualmente sujeito.
+
+3 - A declaração de insolvência é ainda inscrita no registo predial, comercial e automóvel relativamente aos bens ou direitos que integrem a massa insolvente, com base em certidão judicial da declaração de insolvência transitada em julgado, se o serviço de registo não conseguir aceder à informação necessária por meios eletrónicos, e em declaração do administrador da insolvência que identifique os bens ou direitos.
+
+4 - O registo previsto no número anterior, quando efectuado provisoriamente por natureza, é feito com base nas informações incluídas na página informática do tribunal, nos termos da alínea b) do n.º 6, e na declaração do administrador da insolvência que identifique os bens.
+
+5 - Se no registo existir sobre os bens que integram a massa insolvente qualquer inscrição de aquisição ou reconhecimento do direito de propriedade ou de mera posse a favor de pessoa diversa do insolvente, deve o administrador da insolvência juntar ao processo certidão das respectivas inscrições.
+
+6 - A secretaria:
+
+a) Regista oficiosamente a declaração de insolvência e a nomeação do administrador da insolvência no registo informático de execuções estabelecido pelo Código de Processo Civil;
+
+b) Promove a inclusão dessas informações, e ainda do prazo concedido para as reclamações, na página informática do tribunal;
+
+c) Comunica a declaração de insolvência ao Banco de Portugal para que este proceda à sua inscrição na central de riscos de crédito.
+
+7 - Dos registos da nomeação do administrador da insolvência deve constar o seu domicílio profissional.
+
+8 - Todas as diligências destinadas à publicidade e registo da sentença devem ser realizadas no prazo de cinco dias.
+
+9 - A publicidade e a inscrição em registo público da decisão de abertura do processo de insolvência estrangeiro e, se for caso disso, da decisão que nomeia o administrador da insolvência, a que se referem os artigos 28.º e 29.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, devem ser solicitadas no tribunal português da área do estabelecimento do devedor, ou, não sendo esse o caso, à 1.ª Secção do Juízo de Comércio de Lisboa, podendo o tribunal exigir tradução certificada por pessoa que para o efeito seja competente segundo o direito de um Estado-membro da União Europeia.
+
+10 - Sem prejuízo do disposto no número anterior, se o direito do Estado do processo de insolvência previr a efetivação de registo desconhecido do direito português, é determinado o registo que com aquele apresente maiores semelhanças.
+
+11 - Sem prejuízo do disposto no n.º 9, a publicação regulada no n.º1 do artigo 28.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, é determinada oficiosamente pelos competentes serviços de registo se o devedor for titular de estabelecimento situado em Portugal.
+
+12 - O registo previsto no n.º 2 deve ainda conter os factos referidos no n.º 2 do artigo 24.º do Regulamento (UE) 2015/848, do Parlamento Europeu e do Conselho, de 20 de maio de 2015.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 169.º do/a Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28, em vigor a partir de 2019-06-29
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 39.º — Insuficiência da massa insolvente
+
+1 - Concluindo o juiz que o património do devedor não é presumivelmente suficiente para a satisfação das custas do processo e das dívidas previsíveis da massa insolvente e não estando essa satisfação por outra forma garantida, faz menção desse facto na sentença de declaração da insolvência, dando nela cumprimento apenas ao preceituado nas alíneas a) a d) e h) do n.º 1 do artigo 36.º, e, caso disponha de elementos que justifiquem a abertura do incidente de qualificação da insolvência, declara aberto o incidente de qualificação com caráter limitado, aplicando-se, com as necessárias adaptações, o disposto na alínea i) do n.º 1 do artigo 36.º
+
+2 - No caso referido no número anterior:
+
+a) Qualquer interessado pode pedir, no prazo de cinco dias, que a sentença seja complementada com as restantes menções do n.º 1 do artigo 36.º;
+
+b) Aplica-se à citação, notificação, publicidade e registo da sentença o disposto nos artigos anteriores, com as modificações exigidas, devendo em todas as comunicações fazer-se adicionalmente referência à possibilidade conferida pela alínea anterior.
+
+3 - O requerente do complemento da sentença deposita à ordem do tribunal o montante que o juiz especificar segundo o que razoavelmente entenda necessário para garantir o pagamento das referidas custas e dívidas, ou cauciona esse pagamento mediante garantia bancária, sendo o depósito movimentado ou a caução accionada apenas depois de comprovada a efectiva insuficiência da massa, e na medida dessa insuficiência.
+
+4 - Requerido o complemento da sentença nos termos dos n.os 2 e 3, deve o juiz dar cumprimento integral ao artigo 36.º, observando-se em seguida o disposto no artigo 37.º e no artigo anterior, e prosseguindo com caráter pleno o incidente de qualificação da insolvência, sempre que ao mesmo haja lugar.
+
+5 - Quem requerer o complemento da sentença pode exigir o reembolso das quantias despendidas às pessoas que, em violação dos seus deveres como administradores, se hajam abstido de requerer a declaração de insolvência do devedor, ou o tenham feito com demora.
+
+6 - O direito estabelecido no número anterior prescreve ao fim de cinco anos.
+
+7 - Não sendo requerido o complemento da sentença:
+
+a) O devedor não fica privado dos poderes de administração e disposição do seu património, nem se produzem quaisquer dos efeitos que normalmente correspondem à declaração de insolvência, ao abrigo das normas deste Código;
+
+b) O processo de insolvência é declarado findo logo que a sentença transite em julgado, sem prejuízo da tramitação até final do incidente limitado de qualificação da insolvência;
+
+c) O administrador da insolvência limita a sua atividade à elaboração do parecer a que se refere o n.º 6 do artigo 188.º;
+
+d) Após o respectivo trânsito em julgado, qualquer legitimado pode instaurar a todo o tempo novo processo de insolvência, mas o prosseguimento dos autos depende de que seja depositado à ordem do tribunal o montante que o juiz razoavelmente entenda necessário para garantir o pagamento das custas e das dívidas previsíveis da massa insolvente, aplicando-se o disposto nos n.os 4 e 5.
+
+8 - O disposto neste artigo não é aplicável quando o devedor, sendo uma pessoa singular, tenha requerido, anteriormente à sentença de declaração de insolvência, a exoneração do passivo restante.
+
+9 - Para os efeitos previstos no n.º 1, presume-se a insuficiência da massa quando o património do devedor seja inferior a (euro) 5000.
+
+10 - Sendo o devedor uma sociedade comercial, aplica-se-lhe, com as necessárias adaptações, o disposto no n.º 4 do artigo 234.º
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+## Secção II — Impugnação da sentença
+
+### Artigo 40.º — Oposição de embargos
+
+1 - Podem opor embargos à sentença declaratória da insolvência:
+
+a) O devedor em situação de revelia absoluta, se não tiver sido pessoalmente citado;
+
+b) O cônjuge, os ascendentes ou descendentes e os afins em 1.º grau da linha recta da pessoa singular considerada insolvente, no caso de a declaração de insolvência se fundar na fuga do devedor relacionada com a sua falta de liquidez;
+
+c) O cônjuge, herdeiro, legatário ou representante do devedor, quando o falecimento tenha ocorrido antes de findo o prazo para a oposição por embargos que ao devedor fosse lícito deduzir, nos termos da alínea a);
+
+d) Qualquer credor que como tal se legitime;
+
+e) Os responsáveis legais pelas dívidas do insolvente;
+
+f) Os sócios, associados ou membros do devedor.
+
+2 - Os embargos devem ser deduzidos dentro dos 5 dias subsequentes à notificação da sentença ao embargante ou ao fim da dilação aplicável, e apenas são admissíveis desde que o embargante alegue factos ou requeira meios de prova que não tenham sido tidos em conta pelo tribunal e que possam afastar os fundamentos da declaração de insolvência.
+
+3 - A oposição de embargos à sentença declaratória da insolvência, bem como o recurso da decisão que mantenha a declaração, suspende a liquidação e a partilha do activo, sem prejuízo do disposto no n.º 2 do artigo 158.º
+
+### Artigo 41.º — Processamento e julgamento dos embargos
+
+1 - A petição de embargos é imediatamente autuada por apenso, sendo o processo concluso ao juiz, para o despacho liminar, no dia seguinte ao termo do prazo referido no n.º 2 do artigo anterior; aos embargos opostos por várias entidades corresponde um único processo.
+
+2 - Não havendo motivo para indeferimento liminar, é ordenada a notificação do administrador da insolvência e da parte contrária para contestarem, querendo, no prazo de cinco dias.
+
+3 - Aplica-se à petição e às contestações o disposto no n.º 2 do artigo 25.º
+
+4 - Após a contestação e depois de produzidas, no prazo máximo de 10 dias, as provas que se devam realizar antecipadamente, procede-se à audiência de julgamento, dentro dos 5 dias imediatos, nos termos do disposto no n.º 1 do presente artigo e nos n.os 5 a 8 do artigo 35.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 42.º — Recurso
+
+1 - É lícito às pessoas referidas no n.º 1 do artigo 40.º, alternativamente à dedução dos embargos ou cumulativamente com estes, interpor recurso da sentença de declaração de insolvência, quando entendam que, face aos elementos apurados, ela não devia ter sido proferida.
+
+2 - Ao devedor é facultada a interposição de recurso mesmo quando a oposição de embargos lhe esteja vedada.
+
+3 - É aplicável à interposição do recurso o disposto no n.º 3 do artigo 40.º, com as necessárias adaptações.
+
+### Artigo 43.º — Efeitos da revogação
+
+A revogação da sentença de declaração de insolvência não afecta os efeitos dos actos legalmente praticados pelos órgãos da insolvência.
+
+## Capítulo IV — Sentença de indeferimento do pedido de declaração de insolvência
+
+### Artigo 44.º — Notificação da sentença de indeferimento do pedido
+
+1 - A sentença que indefira o pedido de declaração de insolvência é notificada apenas ao requerente e ao devedor.
+
+2 - No caso de ter sido nomeado um administrador judicial provisório, a sentença é objecto de publicação e registo, nos termos previstos nos artigos 37.º e 38.º, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 45.º — Recurso da sentença de indeferimento
+
+Contra a sentença que indefira o pedido de declaração de insolvência só pode reagir o próprio requerente, e unicamente através de recurso.
+
+## Título III — Massa insolvente e intervenientes no processo
+
+## Capítulo I — Massa insolvente e classificações dos créditos
+
+### Artigo 46.º — Conceito de massa insolvente
+
+1 - A massa insolvente destina-se à satisfação dos credores da insolvência, depois de pagas as suas próprias dívidas, e, salvo disposição em contrário, abrange todo o património do devedor à data da declaração de insolvência, bem como os bens e direitos que ele adquira na pendência do processo.
+
+2 - Os bens isentos de penhora só são integrados na massa insolvente se o devedor voluntariamente os apresentar e a impenhorabilidade não for absoluta.
+
+### Artigo 47.º — Conceito de credores da insolvência e classes de créditos sobre a insolvência
+
+1 - Declarada a insolvência, todos os titulares de créditos de natureza patrimonial sobre o insolvente, ou garantidos por bens integrantes da massa insolvente, cujo fundamento seja anterior à data dessa declaração, são considerados credores da insolvência, qualquer que seja a sua nacionalidade e domicílio.
+
+2 - Os créditos referidos no número anterior, bem como os que lhes sejam equiparados, e as dívidas que lhes correspondem, são neste Código denominados, respectivamente, créditos sobre a insolvência e dívidas da insolvência.
+
+3 - São equiparados aos titulares de créditos sobre a insolvência à data da declaração da insolvência aqueles que mostrem tê-los adquirido no decorrer do processo.
+
+4 - Para efeitos deste Código, os créditos sobre a insolvência são:
+
+a) «Garantidos» e «privilegiados» os créditos que beneficiem, respectivamente, de garantias reais, incluindo os privilégios creditórios especiais, e de privilégios creditórios gerais sobre bens integrantes da massa insolvente, até ao montante correspondente ao valor dos bens objecto das garantias ou dos privilégios gerais, tendo em conta as eventuais onerações prevalecentes;
+
+b) «Subordinados» os créditos enumerados no artigo seguinte, excepto quando beneficiem de privilégios creditórios, gerais ou especiais, ou de hipotecas legais, que não se extingam por efeito da declaração de insolvência;
+
+c) «Comuns» os demais créditos.
+
+### Artigo 47.º-A — Créditos compensatórios
+
+Os créditos compensatórios resultantes da cessação de contrato de trabalho pelo administrador da insolvência após a declaração de insolvência do devedor constituem créditos sobre a insolvência.
+
+> Aditado pelo/a Artigo 8.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 48.º — Créditos subordinados
+
+Consideram-se subordinados, sendo graduados depois dos restantes créditos sobre a insolvência, os créditos que preencham os seguintes requisitos:
+
+a) Os créditos detidos por pessoas especialmente relacionadas com o devedor, desde que a relação especial existisse já aquando da respetiva constituição, e por aqueles a quem eles tenham sido transmitidos nos dois anos anteriores ao início do processo de insolvência;
+
+b) Os juros de créditos não subordinados constituídos após a declaração da insolvência, com excepção dos abrangidos por garantia real e por privilégios creditórios gerais, até ao valor dos bens respectivos;
+
+c) Os créditos cuja subordinação tenha sido convencionada pelas partes;
+
+d) Os créditos que tenham por objecto prestações do devedor a título gratuito;
+
+e) Os créditos sobre a insolvência que, como consequência da resolução em benefício da massa insolvente, resultem para o terceiro de má fé;
+
+f) Os juros de créditos subordinados constituídos após a declaração da insolvência;
+
+g) Os créditos por suprimentos.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 49.º — Pessoas especialmente relacionadas com o devedor
+
+1 - São exclusivamente considerados especialmente relacionados com o devedor pessoa singular:
+
+a) O seu cônjuge e as pessoas de quem se tenha divorciado nos dois anos anteriores ao início do processo de insolvência;
+
+b) Os ascendentes, descendentes ou irmãos do devedor ou de qualquer das pessoas referidas na alínea anterior;
+
+c) Os cônjuges dos ascendentes, descendentes ou irmãos do devedor;
+
+d) As pessoas que tenham vivido habitualmente com o devedor em economia comum em período situado dentro dos dois anos anteriores ao início do processo de insolvência.
+
+2 - São exclusivamente considerados especialmente relacionados com o devedor pessoa coletiva:
+
+a) Os sócios, associados ou membros que respondam legalmente pelas suas dívidas, e as pessoas que tenham tido esse estatuto nos dois anos anteriores ao início do processo de insolvência;
+
+b) As pessoas que, se for o caso, tenham estado com a sociedade insolvente em relação de domínio ou de grupo, nos termos do artigo 21.º do Código dos Valores Mobiliários, em período situado dentro dos dois anos anteriores ao início do processo de insolvência;
+
+c) Os administradores, de direito ou de facto, do devedor e aqueles que o tenham sido em algum momento nos dois anos anteriores ao início do processo de insolvência;
+
+d) As pessoas relacionadas com alguma das mencionadas nas alíneas anteriores por qualquer das formas referidas no n.º 1.
+
+3 - Nos casos em que a insolvência respeite apenas a um património autónomo são consideradas pessoas especialmente relacionadas os respectivos titulares e administradores, bem como as que estejam ligadas a estes por alguma das formas previstas nos números anteriores, e ainda, tratando-se de herança jacente, as ligadas ao autor da sucessão por alguma das formas previstas no n.º 1, na data da abertura da sucessão ou nos dois anos anteriores.
+
+4 - Para os efeitos do presente artigo, não se considera administrador de facto o credor privilegiado ou garantido que indique para a administração do devedor uma pessoa singular, desde que esta não disponha de poderes especiais para dispor, por si só, de elementos do património do devedor.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 50.º — Créditos sob condição
+
+1 - Para efeitos deste Código consideram-se créditos sob condição suspensiva e resolutiva, respetivamente, aqueles cuja constituição ou subsistência se encontrem sujeitos à verificação ou à não verificação de um acontecimento futuro e incerto, por força da lei, de decisão judicial ou de negócio jurídico.
+
+2 - São havidos, designadamente, como créditos sob condição suspensiva:
+
+a) Os resultantes da recusa de execução ou denúncia antecipada, por parte do administrador da insolvência, de contratos bilaterais em curso à data da declaração da insolvência, ou da resolução de actos em benefício da massa insolvente, enquanto não se verificar essa denúncia, recusa ou resolução;
+
+b) Os créditos que não possam ser exercidos contra o insolvente sem prévia excussão do património de outrem, enquanto não se verificar tal excussão;
+
+c) Os créditos sobre a insolvência pelos quais o insolvente não responda pessoalmente, enquanto a dívida não for exigível.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 51.º — Dívidas da massa insolvente
+
+1 - Salvo preceito expresso em contrário, são dívidas da massa insolvente, além de outras como tal qualificadas neste Código:
+
+a) As custas do processo de insolvência;
+
+b) As remunerações do administrador da insolvência e as despesas deste e dos membros da comissão de credores;
+
+c) As dívidas emergentes dos actos de administração, liquidação e partilha da massa insolvente;
+
+d) As dívidas resultantes da actuação do administrador da insolvência no exercício das suas funções;
+
+e) Qualquer dívida resultante de contrato bilateral cujo cumprimento não possa ser recusado pelo administrador da insolvência, salvo na medida em que se reporte a período anterior à declaração de insolvência;
+
+f) Qualquer dívida resultante de contrato bilateral cujo cumprimento não seja recusado pelo administrador da insolvência, salvo na medida correspondente à contraprestação já realizada pela outra parte anteriormente à declaração de insolvência ou em que se reporte a período anterior a essa declaração;
+
+g) Qualquer dívida resultante de contrato que tenha por objecto uma prestação duradoura, na medida correspondente à contraprestação já realizada pela outra parte e cujo cumprimento tenha sido exigido pelo administrador judicial provisório;
+
+h) As dívidas constituídas por actos praticados pelo administrador judicial provisório no exercício dos seus poderes;
+
+i) As dívidas que tenham por fonte o enriquecimento sem causa da massa insolvente;
+
+j) A obrigação de prestar alimentos relativa a período posterior à data da declaração de insolvência, nas condições do artigo 93.º
+
+2 - Os créditos correspondentes a dívidas da massa insolvente e os titulares desses créditos são neste Código designados, respectivamente, por créditos sobre a massa e credores da massa.
+
+## Capítulo II — Órgãos da insolvência
+
+## Secção I — Administrador da insolvência
+
+### Artigo 52.º — Nomeação pelo juiz e estatuto
+
+1 - A nomeação do administrador da insolvência é da competência do juiz.
+
+2 - Aplica-se à nomeação do administrador da insolvência o disposto no n.º 1 do artigo 32.º, podendo o juiz ter em conta as indicações que sejam feitas pelo próprio devedor ou pela comissão de credores, se existir, ou pelos credores, também no caso de a massa insolvente compreender uma empresa com estabelecimento ou estabelecimentos em atividade ou quando o processo de insolvência assuma grande complexidade, cabendo a preferência, na primeira designação, ao administrador judicial provisório em exercício de funções à data da declaração de insolvência.
+
+3 - O processo de recrutamento para as listas oficiais, bem como o estatuto do administrador da insolvência, constam de diploma legal próprio, sem prejuízo do disposto neste Código.
+
+4 - Caso o processo de insolvência assuma grande complexidade, ou sendo exigíveis especiais conhecimentos ao administrador da insolvência, o juiz pode, oficiosamente ou a requerimento de qualquer interessado, nomear mais do que um administrador da insolvência, cabendo, em caso de requerimento, ao requerente a responsabilidade de propor, fundamentadamente, o administrador da insolvência a nomear, bem como remunerar o administrador da insolvência que haja proposto, caso o mesmo seja nomeado e a massa insolvente não seja suficiente para prover à sua remuneração.
+
+5 - Existindo divergência entre o administrador da insolvência nomeado pelo juiz ao abrigo do n.º 1 e os administradores de insolvência nomeados a requerimento de qualquer interessado, prevalece, em caso de empate, a vontade daquele.
+
+6 - Sendo o devedor uma sociedade comercial que, nos termos do Código das Sociedades Comerciais se encontre em situação de relação de domínio ou de grupo com outras sociedades relativamente às quais tenha sido proposto processo de insolvência, o juiz, oficiosamente ou mediante indicação efetuada pelo devedor ou pelos credores, pode proceder à nomeação de um mesmo administrador da insolvência para todas as sociedades, devendo, nesse caso, proceder, à nomeação, nos termos gerais, de outro administrador da insolvência com funções restritas à apreciação de créditos reclamados entre devedores do mesmo grupo, logo que verifique a existência destes, nomeadamente mediante indicação do primitivo administrador.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 53.º — Escolha de outro administrador pelos credores
+
+1 - Sob condição de que previamente à votação se junte aos autos a aceitação do proposto, os credores, reunidos em assembleia de credores, podem, após a designação do administrador da insolvência, eleger para exercer o cargo outra pessoa, inscrita ou não na lista oficial, e prover sobre a remuneração respetiva, por deliberação que obtenha a aprovação da maioria dos votantes e dos votos emitidos, não sendo consideradas as abstenções.
+
+2 - A eleição de pessoa não inscrita na lista oficial apenas pode ocorrer em casos devidamente justificados pela especial dimensão da empresa compreendida na massa insolvente, pela especificidade do ramo de actividade da mesma ou pela complexidade do processo.
+
+3 - O juiz só pode deixar de nomear como administrador da insolvência a pessoa eleita pelos credores, em substituição do administrador em funções, se considerar que a mesma não tem idoneidade ou aptidão para o exercício do cargo, que é manifestamente excessiva a retribuição aprovada pelos credores ou, quando se trate de pessoa não inscrita na lista oficial, que não se verifica nenhuma das circunstâncias previstas no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 54.º — Início de funções
+
+O administrador da insolvência, uma vez notificado da nomeação, assume imediatamente a sua função.
+
+### Artigo 55.º — Funções e seu exercício
+
+1 - Além das demais tarefas que lhe são cometidas, cabe ao administrador da insolvência, com a cooperação e sob a fiscalização da comissão de credores, se existir:
+
+a) Preparar o pagamento das dívidas do insolvente à custa das quantias em dinheiro existentes na massa insolvente, designadamente das que constituem produto da alienação, que lhe incumbe promover, dos bens que a integram;
+
+b) Prover, no entretanto, à conservação e frutificação dos direitos do insolvente e à continuação da exploração da empresa, se for o caso, evitando quanto possível o agravamento da sua situação económica.
+
+2 - Sem prejuízo dos casos de necessidade de prévia concordância da comissão de credores, o administrador da insolvência exerce pessoalmente as competências do seu cargo, podendo substabelecer, por escrito, a prática de atos concretos em administrador da insolvência com inscrição em vigor nas listas oficiais.
+
+3 - O administrador da insolvência, no exercício das respetivas funções, pode ser coadjuvado sob a sua responsabilidade por advogados, técnicos ou outros auxiliares, remunerados ou não, incluindo o próprio devedor, mediante prévia concordância da comissão de credores ou do juiz, na falta dessa comissão.
+
+4 - O administrador da insolvência pode contratar a termo certo ou incerto os trabalhadores necessários à liquidação da massa insolvente ou à continuação da exploração da empresa, mas os novos contratos caducam no momento do encerramento definitivo do estabelecimento onde os trabalhadores prestam serviço, ou, salvo convenção em contrário, no da sua transmissão.
+
+5 - Ao administrador da insolvência compete ainda prestar oportunamente à comissão de credores e ao tribunal todas as informações necessárias sobre a administração e a liquidação da massa insolvente.
+
+6 - A requerimento do administrador da insolvência e sempre que este não tenha acesso directo às informações pretendidas, o juiz oficia quaisquer entidades públicas e instituições de crédito para, com base nos respectivos registos, prestarem informações consideradas necessárias ou úteis para os fins do processo, nomeadamente sobre a existência de bens integrantes da massa insolvente.
+
+7 - A remuneração do administrador da insolvência referido na parte final do n.º 2 é da responsabilidade do administrador da insolvência que haja substabelecido, sendo deste a responsabilidade por todos os atos praticados por aquele ao abrigo do substabelecimento mencionado no mesmo número.
+
+8 - O administrador da insolvência dispõe de poderes para desistir, confessar ou transigir, mediante concordância da comissão de credores, em qualquer processo judicial em que o insolvente, ou a massa insolvente, sejam partes.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31, em vigor a partir de 2022-01-30
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 56.º — Destituição
+
+1 - O juiz pode, a todo o tempo, destituir o administrador da insolvência e substituí-lo por outro, se, ouvidos a comissão de credores, quando exista, o devedor e o próprio administrador da insolvência, fundadamente considerar existir justa causa.
+
+2 - Salvo o disposto no n.º 3 do artigo 53.º, deverá ser designada como substituto a pessoa que para o efeito tenha sido eventualmente indicada pela assembleia de credores, mediante deliberação aprovada nos termos do n.º 1 do mesmo artigo.
+
+### Artigo 57.º — Registo e publicidade
+
+A cessação de funções do administrador da insolvência e a nomeação de outra pessoa para o desempenho do cargo são objecto dos registos e da publicidade previstos nos artigos 37.º e 38.º, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 58.º — Fiscalização pelo juiz
+
+O administrador da insolvência exerce a sua actividade sob a fiscalização do juiz, que pode, a todo o tempo, exigir-lhe informações sobre quaisquer assuntos ou a apresentação de um relatório da actividade desenvolvida e do estado da administração e da liquidação.
+
+### Artigo 59.º — Responsabilidade
+
+1 - O administrador da insolvência responde pelos danos causados ao devedor e aos credores da insolvência e da massa insolvente pela inobservância culposa dos deveres que lhe incumbem; a culpa é apreciada pela diligência de um administrador da insolvência criterioso e ordenado.
+
+2 - O administrador da insolvência responde igualmente pelos danos causados aos credores da massa insolvente se esta for insuficiente para satisfazer integralmente os respectivos direitos e estes resultarem de acto do administrador, salvo o caso de imprevisibilidade da insuficiência da massa, tendo em conta as circunstâncias conhecidas do administrador e aquelas que ele não devia ignorar.
+
+3 - O administrador da insolvência responde solidariamente com os seus auxiliares pelos danos causados pelos actos e omissões destes, salvo se provar que não houve culpa da sua parte ou que, mesmo com a diligência devida, se não teriam evitado os danos.
+
+4 - A responsabilidade do administrador da insolvência prevista nos números anteriores encontra-se limitada às condutas ou omissões danosas ocorridas após a sua nomeação.
+
+5 - A responsabilidade do administrador da insolvência prescreve no prazo de dois anos a contar da data em que o lesado teve conhecimento do direito que lhe compete, mas nunca depois de decorrido igual período sobre a data da cessação de funções.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 60.º — Remuneração
+
+1 - O administrador da insolvência nomeado pelo juiz tem direito à remuneração prevista no seu estatuto e ao reembolso das despesas que razoavelmente tenha considerado úteis ou indispensáveis.
+
+2 - Quando eleito pela assembleia de credores, a remuneração do administrador da insolvência é a que for prevista na deliberação respectiva.
+
+3 - O administrador da insolvência que não tenha dado previamente o seu acordo à remuneração fixada pela assembleia de credores pela actividade de elaboração de um plano de insolvência, de gestão da empresa após a assembleia de apreciação do relatório ou de fiscalização do plano de insolvência aprovado, pode renunciar ao exercício do cargo, desde que o faça na própria assembleia em que a deliberação seja tomada.
+
+### Artigo 61.º — Informação trimestral e arquivo de documentos
+
+1 - No termo de cada período de três meses após a data da assembleia de apreciação do relatório, deve o administrador da insolvência apresentar um documento com informação sucinta sobre o estado da administração e liquidação, visado pela comissão de credores, se existir, e destinado a ser junto ao processo.
+
+2 - O administrador da insolvência promove o arquivamento de todos os elementos relativos a cada diligência da liquidação, indicando nos autos o local onde os respectivos documentos se encontram.
+
+### Artigo 62.º — Apresentação de contas pelo administrador da insolvência
+
+1 - O administrador da insolvência apresenta contas nos 10 dias subsequentes à notificação da conta de custas pelo tribunal ou à cessação das suas funções, qualquer que seja a razão que a tenha determinado, podendo o prazo ser prorrogado por despacho judicial.
+
+2 - O administrador da insolvência é ainda obrigado a prestar contas em qualquer altura do processo, sempre que o juiz o determine, quer por sua iniciativa, quer a pedido da comissão ou da assembleia de credores, fixando o juiz o prazo para a apresentação das contas, que não pode ser inferior a 15 dias.
+
+3 - As contas são elaboradas em forma de conta-corrente, com um resumo de toda a receita e despesa, incluindo os pagamentos realizados em rateios parciais efetuados nos termos do artigo 178.º, destinado a retratar sucintamente a situação da massa insolvente, e devem ser acompanhadas de todos os documentos comprovativos, devidamente numerados, indicando-se nas diferentes verbas os números dos documentos que lhes correspondem.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 63.º — Prestação de contas por terceiro
+
+Se o administrador da insolvência não prestar contas a que esteja obrigado no prazo aplicável, cabe ao juiz ordenar as diligências que tiver por convenientes, podendo encarregar pessoa idónea da apresentação das contas, para, depois de ouvida a comissão de credores, decidir segundo critérios de equidade, sem prejuízo da responsabilização civil e do procedimento criminal que caibam contra o administrador da insolvência.
+
+### Artigo 64.º — Julgamento das contas
+
+1 - Autuadas por apenso as contas apresentadas pelo administrador da insolvência, cumpre à comissão de credores, caso exista, emitir parecer sobre elas, no prazo que o juiz fixar para o efeito, após o que os credores e o devedor insolvente são notificados por éditos de 10 dias afixados à porta do tribunal e por anúncio publicado no portal Citius, para, no prazo de cinco dias, se pronunciarem.
+
+2 - Para o mesmo fim tem o Ministério Público vista do processo, que é depois concluso ao juiz para decisão, com produção da prova que se torne necessária.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 65.º — Contas anuais do devedor
+
+1 - O disposto nos artigos anteriores não prejudica o dever de elaborar e depositar contas anuais, nos termos que forem legalmente obrigatórios para o devedor.
+
+2 - As obrigações declarativas a que se refere o número anterior subsistem na esfera do insolvente e dos seus legais representantes, os quais se mantêm obrigados ao cumprimento das obrigações fiscais, respondendo pelo seu incumprimento.
+
+3 - Com a deliberação de encerramento da atividade do estabelecimento, nos termos do n.º 2 do artigo 156.º, extinguem-se necessariamente todas as obrigações declarativas e fiscais, o que deve ser comunicado oficiosamente pelo tribunal à administração fiscal para efeitos de cessação da atividade.
+
+4 - Na falta da deliberação referida no número anterior, as obrigações fiscais passam a ser da responsabilidade daquele a quem a administração do insolvente tenha sido cometida e enquanto esta durar.
+
+5 - As eventuais responsabilidades fiscais que possam constituir-se entre a declaração de insolvência e a deliberação referida no n.º 3 são da responsabilidade daquele a quem tiver sido conferida a administração da insolvência, nos termos dos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+## Secção II — Comissão de credores
+
+### Artigo 66.º — Nomeação da comissão de credores pelo juiz
+
+1 - Anteriormente à primeira assembleia de credores, designadamente na própria sentença de declaração da insolvência, o juiz nomeia uma comissão de credores composta por três ou cinco membros e dois suplentes, devendo o encargo da presidência recair de preferência sobre o maior credor da empresa e a escolha dos restantes assegurar a adequada representação das várias classes de credores, com excepção dos credores subordinados.
+
+2 - O juiz pode não proceder à nomeação prevista no número anterior quando o considere justificado, em atenção à exígua dimensão da massa insolvente, à simplicidade da liquidação ou ao reduzido número de credores da insolvência.
+
+3 - Para efeitos do disposto no n.º 1, um dos membros da comissão representa os trabalhadores que detenham créditos sobre a empresa, devendo a sua escolha conformar-se com a designação feita pelos próprios trabalhadores ou pela comissão de trabalhadores, quando esta exista.
+
+4 - Os membros da comissão de credores podem ser pessoas singulares ou colectivas; quando a escolha recaia em pessoa colectiva, compete a esta designar o seu representante, mediante procuração ou credencial subscrita por quem a obriga.
+
+5 - O Estado e as instituições de segurança social só podem ser nomeados para a presidência da comissão de credores desde que se encontre nos autos despacho, do membro do Governo com supervisão sobre as entidades em causa, a autorizar o exercício da função e a indicar o representante.
+
+### Artigo 67.º — Intervenção da assembleia de credores
+
+1 - A assembleia de credores pode prescindir da existência da comissão de credores, substituir quaisquer dos membros ou suplentes da comissão nomeada pelo juiz, eleger dois membros adicionais, e, se o juiz não a tiver constituído, criar ela mesma uma comissão, composta por três, cinco ou sete membros e dois suplentes, designar o presidente e alterar, a todo o momento, a respectiva composição, independentemente da existência de justa causa.
+
+2 - Os membros da comissão de credores eleitos pela assembleia não têm de ser credores, e, na sua escolha, tal como na designação do presidente, a assembleia não está vinculada à observância dos critérios previstos no n.º 1 do artigo anterior, devendo apenas respeitar o critério imposto pelo n.º 3 do mesmo artigo.
+
+3 - As deliberações da assembleia de credores mencionadas no n.º 1 devem ser tomadas pela maioria exigida no n.º 1 do artigo 53.º, excepto tratando-se da destituição de membro por justa causa.
+
+### Artigo 68.º — Funções e poderes da comissão de credores
+
+1 - À comissão compete, para além de outras tarefas que lhe sejam especialmente cometidas, fiscalizar a actividade do administrador da insolvência e prestar-lhe colaboração.
+
+2 - No exercício das suas funções, pode a comissão examinar livremente os elementos da contabilidade do devedor e solicitar ao administrador da insolvência as informações e a apresentação dos elementos que considere necessários.
+
+### Artigo 69.º — Deliberações da comissão de credores
+
+1 - A comissão de credores reúne sempre que for convocada pelo presidente ou por outros dois membros.
+
+2 - A comissão não pode deliberar sem a presença da maioria dos seus membros, sendo as deliberações tomadas por maioria de votos dos membros presentes, e cabendo ao presidente, em caso de empate, voto de qualidade.
+
+3 - Nas deliberações é admitido o voto escrito se, previamente, todos os membros tiverem acordado nesta forma de deliberação.
+
+4 - As deliberações da comissão de credores são comunicadas ao juiz pelo respectivo presidente.
+
+5 - Das deliberações da comissão de credores não cabe reclamação para o tribunal.
+
+### Artigo 70.º — Responsabilidade dos membros da comissão
+
+Os membros da comissão respondem perante os credores da insolvência pelos prejuízos decorrentes da inobservância culposa dos seus deveres, sendo aplicável o disposto no n.º 4 do artigo 59.º
+
+### Artigo 71.º — Reembolso de despesas
+
+Os membros da comissão de credores não são remunerados, tendo apenas direito ao reembolso das despesas estritamente necessárias ao desempenho das suas funções.
+
+## Secção III — Assembleia de credores
+
+### Artigo 72.º — Participação na assembleia de credores
+
+1 - Têm o direito de participar na assembleia de credores todos os credores da insolvência, bem como os titulares dos direitos referidos no n.º 2 do artigo 95.º, que, nos termos dessa disposição, não possam ser exercidos no processo.
+
+2 - Ao direito de participação na assembleia dos titulares de créditos subordinados é aplicável, com as necessárias adaptações, o disposto nos n.os 1 e 4 do artigo seguinte.
+
+3 - Os credores podem fazer-se representar por mandatário com poderes especiais para o efeito.
+
+4 - Sendo necessário ao conveniente andamento dos trabalhos, pode o juiz limitar a participação na assembleia aos titulares de créditos que atinjam determinado montante, o qual não pode ser fixado em mais de (euro) 10000, podendo os credores afectados fazer-se representar por outro cujo crédito seja pelo menos igual ao limite fixado, ou agrupar-se de forma a completar o montante exigido, participando através de um representante comum.
+
+5 - O administrador da insolvência, os membros da comissão de credores e o devedor e os seus administradores têm o direito e o dever de participar.
+
+6 - É ainda facultada a participação na assembleia, até três representantes, da comissão de trabalhadores ou, na falta desta, de até três representantes de trabalhadores por estes designados, bem como do Ministério Público.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 73.º — Direitos de voto
+
+1 - Os créditos conferem um voto por cada euro ou fracção se já estiverem reconhecidos por decisão definitiva proferida no apenso de verificação e graduação de créditos ou em acção de verificação ulterior, ou se, cumulativamente:
+
+a) O credor já os tiver reclamado no processo, ou, se não estiver já esgotado o prazo fixado na sentença para as reclamações de créditos, os reclamar na própria assembleia, para efeito apenas da participação na reunião;
+
+b) Não forem objecto de impugnação na assembleia por parte do administrador da insolvência ou de algum credor com direito de voto.
+
+2 - O número de votos conferidos por crédito sob condição suspensiva é sempre fixado pelo juiz, em atenção à probabilidade da verificação da condição.
+
+3 - Os créditos subordinados não conferem direito de voto, excepto quando a deliberação da assembleia de credores incida sobre a aprovação de um plano de insolvência.
+
+4 - A pedido do interessado pode o juiz conferir votos a créditos impugnados, fixando a quantidade respectiva, com ponderação de todas as circunstâncias relevantes, nomeadamente da probabilidade da existência, do montante e da natureza subordinada do crédito, e ainda, tratando-se de créditos sob condição suspensiva, da probabilidade da verificação da condição.
+
+5 - Da decisão do juiz prevista no número anterior não cabe recurso.
+
+6 - Não é em caso algum motivo de invalidade das deliberações tomadas pela assembleia a comprovação ulterior de que aos credores competia efectivamente um número de votos diferente do que lhes foi conferido.
+
+7 - Sem prejuízo do que, quanto ao mais, se dispõe nos números anteriores, os créditos com garantias reais pelos quais o devedor não responda pessoalmente conferem um voto por cada euro do seu montante, ou do valor do bem dado em garantia, se este for inferior.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 74.º — Presidência
+
+A assembleia de credores é presidida pelo juiz.
+
+### Artigo 75.º — Convocação da assembleia de credores
+
+1 - A assembleia de credores é convocada pelo juiz, por iniciativa própria ou a pedido do administrador da insolvência, da comissão de credores, ou de um credor ou grupo de credores cujos créditos representem, na estimativa do juiz, pelo menos um quinto do total dos créditos não subordinados.
+
+2 - A data, a hora, o local e a ordem do dia da assembleia de credores são imediatamente comunicados aos interessados, com a antecedência mínima de 10 dias, por anúncio publicado no portal Citius e por editais afixados na porta da sede ou da residência do devedor e dos seus estabelecimentos.
+
+3 - Os cinco maiores credores, bem como o devedor, os seus administradores e a comissão de trabalhadores, são também avisados do dia, hora e local da reunião, por circulares expedidas sob registo, com a mesma antecedência.
+
+4 - O anúncio, os editais e as circulares previstos nos números anteriores devem ainda conter:
+
+a) A identificação do processo;
+
+b) O nome e a sede ou residência do devedor, se for conhecida;
+
+c) A advertência aos titulares de créditos que os não tenham reclamado da necessidade de o fazerem, se ainda estiver em curso o prazo fixado na sentença para as reclamações de créditos, informando-os de que a reclamação para mero efeito da participação na reunião pode ser feita na própria assembleia, se também na data desta tal prazo não estiver já esgotado;
+
+d) Indicação dos eventuais limites à participação estabelecidos nos termos do n.º 4 do artigo 72.º, com informação da possibilidade de agrupamento ou de representação.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 76.º — Suspensão da assembleia
+
+O juiz pode decidir a suspensão dos trabalhos da assembleia, determinando que os mesmos sejam retomados num dos 15 dias úteis seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 77.º — Maioria
+
+A não ser nos casos em que este Código exija para o efeito maioria superior ou outros requisitos, as deliberações da assembleia de credores são tomadas pela maioria dos votos emitidos, não se considerando como tal as abstenções, seja qual for o número de credores presentes ou representados, ou a percentagem dos créditos de que sejam titulares.
+
+### Artigo 78.º — Reclamação para o juiz e recurso
+
+1 - Das deliberações da assembleia que forem contrárias ao interesse comum dos credores pode o administrador da insolvência ou qualquer credor com direito de voto reclamar para o juiz, oralmente ou por escrito, desde que o faça na própria assembleia.
+
+2 - Da decisão que dê provimento à reclamação pode interpor recurso qualquer dos credores que tenha votado no sentido que fez vencimento, e da decisão de indeferimento apenas o reclamante.
+
+### Artigo 79.º — Informação
+
+O administrador da insolvência presta à assembleia, a solicitação desta, informação sobre quaisquer assuntos compreendidos no âmbito das suas funções.
+
+### Artigo 80.º — Prevalência da assembleia de credores
+
+Todas as deliberações da comissão de credores são passíveis de revogação pela assembleia e a existência de uma deliberação favorável da assembleia autoriza por si só a prática de qualquer acto para o qual neste Código se requeira a aprovação da comissão de credores.
+
+## Título IV — Efeitos da declaração de insolvência
+
+## Capítulo I — Efeitos sobre o devedor e outras pessoas
+
+### Artigo 81.º — Transferência dos poderes de administração e disposição
+
+1 - Sem prejuízo do disposto no título X, a declaração de insolvência priva imediatamente o insolvente, por si ou pelos seus administradores, dos poderes de administração e de disposição dos bens integrantes da massa insolvente, os quais passam a competir ao administrador da insolvência.
+
+2 - Ao devedor fica interdita a cessão de rendimentos ou a alienação de bens futuros susceptíveis de penhora, qualquer que seja a sua natureza, mesmo tratando-se de rendimentos que obtenha ou de bens que adquira posteriormente ao encerramento do processo.
+
+3 - Não são aplicáveis ao administrador da insolvência limitações ao poder de disposição do devedor estabelecidas por decisão judicial ou administrativa, ou impostas por lei apenas em favor de pessoas determinadas.
+
+4 - O administrador da insolvência assume a representação do devedor para todos os efeitos de carácter patrimonial que interessem à insolvência.
+
+5 - A representação não se estende à intervenção do devedor no âmbito do próprio processo de insolvência, seus incidentes e apensos, salvo expressa disposição em contrário.
+
+6 - São ineficazes os actos realizados pelo insolvente em violação do disposto nos números anteriores, respondendo a massa insolvente pela restituição do que lhe tiver sido prestado apenas segundo as regras do enriquecimento sem causa, salvo se esses actos, cumulativamente:
+
+a) Forem celebrados a título oneroso com terceiros de boa fé anteriormente ao registo da sentença da declaração de insolvência efectuado nos termos dos n.os 2 ou 3 do artigo 38.º, consoante os casos;
+
+b) Não forem de algum dos tipos referidos no n.º 1 do artigo 121.º
+
+7 - Os pagamentos de dívidas à massa efectuados ao insolvente após a declaração de insolvência só serão liberatórios se forem efectuados de boa fé em data anterior à do registo da sentença, ou se se demonstrar que o respectivo montante deu efectiva entrada na massa insolvente.
+
+8 - Aos actos praticados pelo insolvente após a declaração de insolvência que não contrariem o disposto no n.º 1 é aplicável o regime seguinte:
+
+a) Pelas dívidas do insolvente respondem apenas os seus bens não integrantes da massa insolvente;
+
+b) A prestação feita ao insolvente extingue a obrigação da contraparte;
+
+c) A contraparte pode opor à massa todos os meios de defesa que lhe seja lícito invocar contra o insolvente.
+
+> Alterado pelo/a Artigo 11.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04
+
+### Artigo 82.º — Efeitos sobre os administradores e outras pessoas
+
+1 - Os órgãos sociais do devedor mantêm-se em funcionamento após a declaração de insolvência, não sendo os seus titulares remunerados, salvo no caso previsto no artigo 227.º
+
+2 - Os titulares dos órgãos sociais podem renunciar aos cargos logo que procedam ao depósito de contas anuais com referência à data da decisão de liquidação em processo de insolvência.
+
+3 - Durante a pendência do processo de insolvência, o administrador da insolvência tem exclusiva legitimidade para propor e fazer seguir:
+
+a) As acções de responsabilidade que legalmente couberem, em favor do próprio devedor, contra os fundadores, administradores de direito e de facto, membros do órgão de fiscalização do devedor e sócios, associados ou membros, independentemente do acordo do devedor ou dos seus órgãos sociais, sócios, associados ou membros;
+
+b) As acções destinadas à indemnização dos prejuízos causados à generalidade dos credores da insolvência pela diminuição do património integrante da massa insolvente, tanto anteriormente como posteriormente à declaração de insolvência;
+
+c) As acções contra os responsáveis legais pelas dívidas do insolvente.
+
+4 - Compete unicamente ao administrador da insolvência a exigência aos sócios, associados ou membros do devedor, logo que a tenha por conveniente, das entradas de capital diferidas e das prestações acessórias em dívida, independentemente dos prazos de vencimento que hajam sido estipulados, intentando para o efeito as acções que se revelem necessárias.
+
+5 - Toda a ação dirigida contra o administrador da insolvência com a finalidade prevista na alínea b) do n.º 3 apenas pode ser intentada por administrador que lhe suceda.
+
+6 - As ações referidas nos n.os 3 a 5 correm por apenso ao processo de insolvência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 83.º — Dever de apresentação e de colaboração
+
+1 - O devedor insolvente fica obrigado a:
+
+a) Fornecer todas as informações relevantes para o processo que lhe sejam solicitadas pelo administrador da insolvência, pela assembleia de credores, pela comissão de credores ou pelo tribunal;
+
+b) Apresentar-se pessoalmente no tribunal, sempre que a apresentação seja determinada pelo juiz ou pelo administrador da insolvência, salva a ocorrência de legítimo impedimento ou expressa permissão de se fazer representar por mandatário;
+
+c) Prestar a colaboração que lhe seja requerida pelo administrador da insolvência para efeitos do desempenho das suas funções.
+
+2 - O juiz ordena que o devedor que sem justificação tenha faltado compareça sob custódia, sem prejuízo da multa aplicável.
+
+3 - A recusa de prestação de informações ou de colaboração é livremente apreciada pelo juiz, nomeadamente para efeito da qualificação da insolvência como culposa.
+
+4 - O disposto nos números anteriores é aplicável aos administradores do devedor e membros do seu órgão de fiscalização, se for o caso, bem como às pessoas que tenham desempenhado esses cargos dentro dos dois anos anteriores ao início do processo de insolvência.
+
+5 - O disposto nas alíneas a) e b) do n.º 1 e no n.º 2 é também aplicável aos empregados e prestadores de serviços do devedor, bem como às pessoas que o tenham sido dentro dos dois anos anteriores ao início do processo de insolvência.
+
+### Artigo 84.º — Alimentos ao insolvente, aos trabalhadores e a outros credores de alimentos do insolvente
+
+1 - Se o devedor carecer absolutamente de meios de subsistência e os não puder angariar pelo seu trabalho, pode o administrador da insolvência, com o acordo da comissão de credores, ou da assembleia de credores, se aquela não existir, arbitrar-lhe um subsídio à custa dos rendimentos da massa insolvente, a título de alimentos.
+
+2 - Havendo justo motivo, pode a atribuição de alimentos cessar em qualquer estado do processo, por decisão do administrador da insolvência.
+
+3 - O disposto nos números anteriores é aplicável a quem, encontrando-se na situação prevista no n.º 1, seja titular de créditos sobre a insolvência emergentes de contrato de trabalho, ou da violação ou cessação deste contrato, até ao limite do respectivo montante, mas, a final, deduzir-se-ão os subsídios ao valor desses créditos.
+
+4 - Estando o insolvente obrigado a prestar alimentos a terceiros nos termos do disposto no artigo 93.º, deve o administrador da insolvência ter esse facto em conta na fixação do subsídio a que se refere o n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+## Capítulo II — Efeitos processuais
+
+### Artigo 85.º — Efeitos sobre as acções pendentes
+
+1 - Declarada a insolvência, todas as acções em que se apreciem questões relativas a bens compreendidos na massa insolvente, intentadas contra o devedor, ou mesmo contra terceiros, mas cujo resultado possa influenciar o valor da massa, e todas as acções de natureza exclusivamente patrimonial intentadas pelo devedor são apensadas ao processo de insolvência, desde que a apensação seja requerida pelo administrador da insolvência, com fundamento na conveniência para os fins do processo.
+
+2 - O juiz requisita ao tribunal ou entidade competente a remessa, para efeitos de apensação aos autos da insolvência, de todos os processos nos quais se tenha efectuado qualquer acto de apreensão ou detenção de bens compreendidos na massa insolvente.
+
+3 - O administrador da insolvência substitui o insolvente em todas as acções referidas nos números anteriores, independentemente da apensação ao processo de insolvência e do acordo da parte contrária.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 86.º — Apensação de processos de insolvência
+
+1 - A requerimento do administrador da insolvência são apensados aos autos os processos em que haja sido declarada a insolvência de pessoas que legalmente respondam pelas dívidas do insolvente ou, tratando-se de pessoa singular casada, do seu cônjuge, se o regime de bens não for o da separação.
+
+2 - O mesmo se aplica, sendo o devedor uma sociedade comercial, relativamente aos processos em que tenha sido declarada a insolvência de sociedades que, nos termos do Código das Sociedades Comerciais, ela domine ou com ela se encontrem em relação de grupo.
+
+3 - A apensação prevista no n.º 2 pode ser determinada oficiosamente pelo juiz do processo ao qual são apensados os demais ou requerida por todos os devedores declarados insolventes nos processos a apensar.
+
+4 - Quando os processos corram termos em tribunais com diferente competência em razão da matéria, a apensação só é determinada se for requerida pelo administrador da insolvência do processo instaurado em tribunal de competência especializada ou se for decidida pelo juiz do mesmo processo.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 87.º — Convenções arbitrais
+
+1 - Fica suspensa a eficácia das convenções arbitrais em que o insolvente seja parte, respeitantes a litígios cujo resultado possa influenciar o valor da massa, sem prejuízo do disposto em tratados internacionais aplicáveis.
+
+2 - Os processos pendentes à data da declaração de insolvência prosseguirão porém os seus termos, sem prejuízo, se for o caso, do disposto no n.º 3 do artigo 85.º e no n.º 5 do artigo 128.º
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 88.º — Acções executivas
+
+1 - A declaração de insolvência determina a suspensão de quaisquer diligências executivas ou providências requeridas pelos credores da insolvência que atinjam os bens integrantes da massa insolvente e obsta à instauração ou ao prosseguimento de qualquer acção executiva intentada pelos credores da insolvência; porém, se houver outros executados, a execução prossegue contra estes.
+
+2 - Tratando-se de execuções que prossigam contra outros executados, e nas quais hajam sido penhorados bens compreendidos na massa insolvente, é apenas extraído e remetido para apensação traslado do processado relativo ao insolvente.
+
+3 - As ações executivas suspensas nos termos do n.º 1 extinguem-se, quanto ao executado insolvente, logo que o processo de insolvência seja encerrado nos termos previstos nas alíneas a) e d) do n.º 1 do artigo 230.º, salvo para efeitos do exercício do direito de reversão legalmente previsto.
+
+4 - Compete ao administrador da insolvência comunicar por escrito e, preferencialmente, por meios eletrónicos, aos agentes de execução designados nas execuções afetadas pela declaração de insolvência, que sejam do seu conhecimento, ou ao tribunal, quando as diligências de execução sejam promovidas por oficial de justiça, a ocorrência dos factos descritos no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 89.º — Acções relativas a dívidas da massa insolvente
+
+1 - Durante os três meses seguintes à data da declaração de insolvência, não podem ser propostas execuções para pagamento de dívidas da massa insolvente.
+
+2 - As acções, incluindo as executivas, relativas às dívidas da massa insolvente correm por apenso ao processo de insolvência, com excepção das execuções por dívidas de natureza tributária.
+
+## Capítulo III — Efeitos sobre os créditos
+
+### Artigo 90.º — Exercício dos créditos sobre a insolvência
+
+Os credores da insolvência apenas poderão exercer os seus direitos em conformidade com os preceitos do presente Código, durante a pendência do processo de insolvência.
+
+### Artigo 91.º — Vencimento imediato de dívidas
+
+1 - A declaração de insolvência determina o vencimento de todas as obrigações do insolvente não subordinadas a uma condição suspensiva.
+
+2 - Toda a obrigação ainda não exigível à data da declaração de insolvência pela qual não fossem devidos juros remuneratórios, ou pela qual fossem devidos juros inferiores à taxa de juros legal, considera-se reduzida para o montante que, se acrescido de juros calculados sobre esse mesmo montante, respectivamente, à taxa legal, ou a uma taxa igual à diferença entre a taxa legal e a taxa convencionada, pelo período de antecipação do vencimento, corresponderia ao valor da obrigação em causa.
+
+3 - Tratando-se de obrigação fraccionada, o disposto no número anterior é aplicável a cada uma das prestações ainda não exigíveis.
+
+4 - No cômputo do período de antecipação do vencimento considera-se que este ocorreria na data em que as obrigações se tornassem exigíveis, ou em que provavelmente tal ocorreria, sendo essa data indeterminada.
+
+5 - A redução do montante da dívida, prevista nos números anteriores, é também aplicável ainda que tenha ocorrido a perda do benefício do prazo, decorrente da situação de insolvência ainda não judicialmente declarada, prevista no n.º 1 do artigo 780.º do Código Civil.
+
+6 - A sub-rogação nos direitos do credor decorrente do cumprimento pelo insolvente de uma obrigação de terceiro terá lugar na proporção da quantia paga relativamente ao montante da dívida desse terceiro, actualizado nos termos do n.º 2.
+
+7 - O disposto no número anterior aplica-se ao direito de regresso face a outros condevedores.
+
+### Artigo 92.º — Planos de regularização
+
+O vencimento imediato, nos termos do n.º 1 do artigo anterior, de dívidas abrangidas em plano de regularização de impostos e de contribuições para a segurança social tem os efeitos que os diplomas legais respectivos atribuem ao incumprimento do plano, sendo os montantes exigíveis calculados em conformidade com as normas pertinentes desses diplomas.
+
+### Artigo 93.º — Créditos por alimentos
+
+O direito a exigir alimentos do insolvente relativo a período posterior à declaração de insolvência só pode ser exercido contra a massa se nenhuma das pessoas referidas no artigo 2009.º do Código Civil estiver em condições de os prestar, devendo, neste caso, o juiz fixar o respetivo montante.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 94.º — Créditos sob condição resolutiva
+
+No processo de insolvência, os créditos sobre a insolvência sujeitos a condição resolutiva são tratados como incondicionados até ao momento em que a condição se preencha, sem prejuízo do dever de restituição dos pagamentos recebidos, verificada que seja a condição.
+
+### Artigo 95.º — Responsáveis solidários e garantes
+
+1 - O credor pode concorrer pela totalidade do seu crédito a cada uma das diferentes massas insolventes de devedores solidários e garantes, sem embargo de o somatório das quantias que receber de todas elas não poder exceder o montante do crédito.
+
+2 - O direito contra o devedor insolvente decorrente do eventual pagamento futuro da dívida por um condevedor solidário ou por um garante só pode ser exercido no processo de insolvência, como crédito sob condição suspensiva, se o próprio credor da referida dívida a não reclamar.
+
+### Artigo 96.º — Conversão de créditos
+
+1 - Para efeitos da participação do respectivo titular no processo:
+
+a) Os créditos não pecuniários são atendidos pelo valor em euros estimável à data da declaração de insolvência;
+
+b) Os créditos pecuniários cujo montante não esteja determinado são atendidos pelo valor em euros estimável à data da declaração de insolvência;
+
+c) Os créditos expressos em moeda estrangeira ou índices são atendidos pelo valor em euros à cotação em vigor à data da declaração de insolvência no lugar do respectivo pagamento.
+
+2 - Os créditos referidos nas alíneas a) e c) do número anterior consideram-se definitivamente convertidos em euros, uma vez reconhecidos.
+
+### Artigo 97.º — Extinção de privilégios creditórios e garantias reais
+
+1 - Extinguem-se, com a declaração de insolvência:
+
+a) Os privilégios creditórios gerais que forem acessórios de créditos sobre a insolvência de que forem titulares o Estado, as autarquias locais e as instituições de segurança social constituídos mais de 12 meses antes da data do início do processo de insolvência;
+
+b) Os privilégios creditórios especiais que forem acessórios de créditos sobre a insolvência de que forem titulares o Estado, as autarquias locais e as instituições de segurança social vencidos mais de 12 meses antes da data do início do processo de insolvência;
+
+c) As hipotecas legais cujo registo haja sido requerido dentro dos dois meses anteriores à data do início do processo de insolvência, e que forem acessórias de créditos sobre a insolvência do Estado, das autarquias locais e das instituições de segurança social;
+
+d) Se não forem independentes de registo, as garantias reais sobre imóveis ou móveis sujeitos a registo integrantes da massa insolvente, acessórias de créditos sobre a insolvência e já constituídas, mas ainda não registadas nem objecto de pedido de registo;
+
+e) As garantias reais sobre bens integrantes da massa insolvente acessórias dos créditos havidos como subordinados.
+
+2 - Declarada a insolvência, não é admissível o registo de hipotecas legais que garantam créditos sobre a insolvência, inclusive após o encerramento do processo, salvo se o pedido respectivo tiver sido apresentado em momento anterior ao da referida declaração, ou, tratando-se das hipotecas a que alude a alínea c) do número anterior, com uma antecedência de dois meses sobre a mesma data.
+
+### Artigo 98.º — Concessão de privilégio ao credor requerente
+
+1 - Os créditos não subordinados do credor a requerimento de quem a situação de insolvência tenha sido declarada passam a beneficiar de privilégio creditório geral, graduado em último lugar, sobre todos os bens móveis integrantes da massa insolvente, relativamente a um quarto do seu montante, num máximo correspondente a 500 UC.
+
+2 - Se o prosseguimento de um processo intentado por um credor for prejudicado pela declaração de insolvência do devedor em processo posteriormente instaurado, o privilégio referido no número anterior é atribuído ao requerente no processo mais antigo; no caso previsto na alínea b) do n.º 3 do artigo 264.º, o privilégio geral sobre os bens móveis próprios do cônjuge apresentante e sobre a sua meação nos bens móveis comuns compete ao requerente no processo instaurado em primeiro lugar, sem embargo da suspensão dos seus termos.
+
+### Artigo 99.º — Compensação
+
+1 - Sem prejuízo do estabelecido noutras disposições deste Código, a partir da declaração de insolvência os titulares de créditos sobre a insolvência só podem compensá-los com dívidas à massa desde que se verifique pelo menos um dos seguintes requisitos:
+
+a) Ser o preenchimento dos pressupostos legais da compensação anterior à data da declaração da insolvência;
+
+b) Ter o crédito sobre a insolvência preenchido antes do contra-crédito da massa os requisitos estabelecidos no artigo 847.º do Código Civil.
+
+2 - Para os efeitos das alíneas a) e b) do número anterior, não relevam:
+
+a) A perda de benefício de prazo prevista no n.º 1 do artigo 780.º do Código Civil;
+
+b) O vencimento antecipado e a conversão em dinheiro resultantes do preceituado no n.º 1 do artigo 91.º e no artigo 96.º
+
+3 - A compensação não é prejudicada pelo facto de as obrigações terem por objecto divisas ou unidades de cálculo distintas, se for livre a sua conversão recíproca no lugar do pagamento do contra-crédito, tendo a conversão lugar à cotação em vigor nesse lugar na data em que a compensação produza os seus efeitos.
+
+4 - A compensação não é admissível:
+
+a) Se a dívida à massa se tiver constituído após a data da declaração de insolvência, designadamente em consequência da resolução de actos em benefício da massa insolvente;
+
+b) Se o credor da insolvência tiver adquirido o seu crédito de outrem, após a data da declaração de insolvência;
+
+c) Com dívidas do insolvente pelas quais a massa não seja responsável;
+
+d) Entre dívidas à massa e créditos subordinados sobre a insolvência.
+
+### Artigo 100.º — Suspensão da prescrição e caducidade
+
+A sentença de declaração da insolvência determina a suspensão de todos os prazos de prescrição e de caducidade oponíveis pelo devedor, durante o decurso do processo.
+
+> Nota: Acórdão do Tribunal Constitucional n.º 557/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14 Declarada a inconstitucionalidade, com força obrigatória geral, da norma do artigo 100.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março, interpretada no sentido de que a declaração de insolvência aí prevista suspende o prazo prescricional das dívidas tributárias imputáveis ao responsável subsidiário no âmbito do processo tributário, por violação do artigo 165.º, n.º 1, alínea i), da Constituição da República Portuguesa.
+
+### Artigo 101.º — Sistemas de liquidação
+
+As normas constantes deste capítulo são aplicáveis sem prejuízo do que em contrário se estabelece nos artigos 283.º e seguintes do Código dos Valores Mobiliários.
+
+## Capítulo IV — Efeitos sobre os negócios em curso
+
+### Artigo 102.º — Princípio geral quanto a negócios ainda não cumpridos
+
+1 - Sem prejuízo do disposto nos artigos seguintes, em qualquer contrato bilateral em que, à data da declaração de insolvência, não haja ainda total cumprimento nem pelo insolvente nem pela outra parte, o cumprimento fica suspenso até que o administrador da insolvência declare optar pela execução ou recusar o cumprimento.
+
+2 - A outra parte pode, contudo, fixar um prazo razoável ao administrador da insolvência para este exercer a sua opção, findo o qual se considera que recusa o cumprimento.
+
+3 - Recusado o cumprimento pelo administrador da insolvência, e sem prejuízo do direito à separação da coisa, se for o caso:
+
+a) Nenhuma das partes tem direito à restituição do que prestou;
+
+b) A massa insolvente tem o direito de exigir o valor da contraprestação correspondente à prestação já efectuada pelo devedor, na medida em que não tenha sido ainda realizada pela outra parte;
+
+c) A outra parte tem direito a exigir, como crédito sobre a insolvência, o valor da prestação do devedor, na parte incumprida, deduzido do valor da contraprestação correspondente que ainda não tenha sido realizada;
+
+d) O direito à indemnização dos prejuízos causados à outra parte pelo incumprimento:
+
+i) Apenas existe até ao valor da obrigação eventualmente imposta nos termos da alínea b);
+
+ii) É abatido do quantitativo a que a outra parte tenha direito, por aplicação da alínea c);
+
+iii) Constitui crédito sobre a insolvência;
+
+e) Qualquer das partes pode declarar a compensação das obrigações referidas nas alíneas c) e d) com a aludida na alínea b), até à concorrência dos respectivos montantes.
+
+4 - A opção pela execução é abusiva se o cumprimento pontual das obrigações contratuais por parte da massa insolvente for manifestamente improvável.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 103.º — Prestações indivisíveis
+
+1 - Se o contrato impuser à outra parte o cumprimento de prestação que tenha natureza infungível, ou que seja fraccionável na entrega de várias coisas, não facilmente substituíveis, entre as quais interceda uma conexão funcional, e o administrador da insolvência recusar o cumprimento:
+
+a) O direito referido na alínea b) do n.º 3 do artigo anterior é substituído pelo direito de exigir à outra parte a restituição do que lhe tiver sido prestado, na medida do seu enriquecimento à data da declaração de insolvência;
+
+b) O direito previsto na alínea c) do n.º 3 do artigo anterior tem por objecto a diferença, se favorável à outra parte, entre os valores da totalidade das prestações contratuais;
+
+c) A outra parte tem direito, como credor da insolvência, ao reembolso do custo ou à restituição do valor da parte da prestação realizada anteriormente à declaração de insolvência, consoante tal prestação seja ou não infungível.
+
+2 - A outra parte tem direito, porém, a completar a sua prestação e a exigir, como crédito sobre a insolvência, a parte da contraprestação em dívida, caso em que cessa o disposto no n.º 1 e no artigo anterior.
+
+3 - Se o administrador da insolvência não recusar o cumprimento, o direito da outra parte à contraprestação só constitui crédito sobre a massa no que exceda o valor do que seria apurado por aplicação do disposto na alínea c) do n.º 1, caso o administrador da insolvência tivesse optado pela recusa do cumprimento.
+
+4 - Sendo o cumprimento de uma prestação do tipo das referidas no n.º 1 imposto pelo contrato ao insolvente, e recusando o administrador esse cumprimento:
+
+a) O direito referido na alínea b) do n.º 3 do artigo anterior cessa ou é substituído pelo direito à restituição do valor da parte da prestação já efectuada anteriormente à declaração de insolvência, consoante essa prestação tenha ou não natureza infungível;
+
+b) Aplica-se o disposto na alínea b) do n.º 1, tendo a outra parte, adicionalmente, direito ao reembolso do que já tiver prestado, também como crédito sobre a insolvência.
+
+5 - Sendo o cumprimento de uma prestação do tipo das referidas no n.º 1 imposto por contrato ao insolvente e não recusando o administrador esse cumprimento, o direito da outra parte à contraprestação em dívida constitui, na sua integralidade, crédito sobre a massa.
+
+6 - Se a prestação de natureza infungível se desdobrar em parcelas autónomas e alguma ou algumas destas já tiverem sido efectuadas, o disposto nos números anteriores apenas se aplica às demais, repartindo-se a contraprestação por todas elas, pela forma apropriada.
+
+### Artigo 104.º — Venda com reserva de propriedade e operações semelhantes
+
+1 - No contrato de compra e venda com reserva de propriedade em que o vendedor seja o insolvente, a outra parte poderá exigir o cumprimento do contrato se a coisa já lhe tiver sido entregue na data da declaração da insolvência.
+
+2 - O disposto no número anterior aplica-se, em caso de insolvência do locador, ao contrato de locação financeira e ao contrato de locação com a cláusula de que a coisa locada se tornará propriedade do locatário depois de satisfeitas todas as rendas pactuadas.
+
+3 - Sendo o comprador ou o locatário o insolvente, e encontrando-se ele na posse da coisa, o prazo fixado ao administrador da insolvência, nos termos do n.º 2 do artigo 102.º, não pode esgotar-se antes de decorridos cinco dias sobre a data da assembleia de apreciação do relatório, salvo se o bem for passível de desvalorização considerável durante esse período e a outra parte advertir expressamente o administrador da insolvência dessa circunstância.
+
+4 - A cláusula de reserva de propriedade, nos contratos de alienação de coisa determinada em que o comprador seja o insolvente, só é oponível à massa no caso de ter sido estipulada por escrito, até ao momento da entrega da coisa.
+
+5 - Os efeitos da recusa de cumprimento pelo administrador, quando admissível, são os previstos no n.º 3 do artigo 102.º, entendendo-se que o direito consignado na respectiva alínea c) tem por objecto o pagamento, como crédito sobre a insolvência, da diferença, se positiva, entre o montante das prestações ou rendas previstas até final do contrato, actualizadas para a data da declaração de insolvência por aplicação do estabelecido no n.º 2 do artigo 91.º, e o valor da coisa na data da recusa, se a outra parte for o vendedor ou locador, ou da diferença, se positiva, entre este último valor e aquele montante, caso ela seja o comprador ou o locatário.
+
+### Artigo 105.º — Venda sem entrega
+
+1 - Sem prejuízo do disposto no artigo 107.º, se a obrigação de entrega por parte do vendedor ainda não tiver sido cumprida, mas a propriedade já tiver sido transmitida:
+
+a) O administrador da insolvência não pode recusar o cumprimento do contrato, no caso de insolvência do vendedor;
+
+b) A recusa de cumprimento pelo administrador da insolvência, no caso de insolvência do comprador, tem os efeitos previstos no n.º 5 do artigo anterior, aplicável com as necessárias adaptações.
+
+2 - O disposto no número anterior é igualmente aplicável, com as devidas adaptações, aos contratos translativos de outros direitos reais de gozo.
+
+### Artigo 106.º — Promessa de contrato
+
+1 - No caso de insolvência do promitente-vendedor, o administrador da insolvência não pode recusar o cumprimento de contrato-promessa com eficácia real, se já tiver havido tradição da coisa a favor do promitente-comprador.
+
+2 - À recusa de cumprimento de contrato-promessa de compra e venda pelo administrador da insolvência é aplicável o disposto no n.º 5 do artigo 104.º, com as necessárias adaptações, quer a insolvência respeite ao promitente-comprador quer ao promitente-vendedor.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 107.º — Operações a prazo
+
+1 - Se a entrega de mercadorias, ou a realização de prestações financeiras, que tenham um preço de mercado, tiver de se efectuar em determinada data ou dentro de certo prazo, e a data ocorrer ou o prazo se extinguir depois de declarada a insolvência, a execução não pode ser exigida por nenhuma das partes, e o comprador ou vendedor, consoante o caso, tem apenas direito ao pagamento da diferença entre o preço ajustado e o preço de mercado do bem ou prestação financeira no 2.º dia posterior ao da declaração de insolvência, relativamente a contratos com a mesma data ou prazo de cumprimento, a qual, sendo exigível ao insolvente, constitui crédito sobre a insolvência.
+
+2 - Em qualquer dos casos, o vendedor restituirá as importâncias já pagas, podendo compensar tal obrigação com o crédito que lhe seja conferido pelo número anterior, até à concorrência dos respectivos montantes; sendo o vendedor o insolvente, o direito à restituição constitui para a outra parte crédito sobre a insolvência.
+
+3 - Para efeitos do disposto no número anterior consideram-se prestações financeiras, designadamente:
+
+a) A entrega de valores mobiliários, excepto se se tratar de acções representativas de, pelo menos, 10% do capital da sociedade, e não tiver carácter meramente financeiro a liquidação contratualmente prevista;
+
+b) A entrega de metais preciosos;
+
+c) Os pagamentos em dinheiro cujo montante seja directa ou indirectamente determinado pela taxa de câmbio de uma divisa estrangeira, pela taxa de juro legal, por uma unidade de cálculo ou pelo preço de outros bens ou serviços;
+
+d) Opções ou outros direitos à venda ou à entrega de bens referidos nas alíneas a) e b) ou a pagamentos referidos na alínea c).
+
+4 - Integrando-se vários negócios sobre prestações financeiras num contrato-quadro ao qual só possa pôr-se termo unitariamente no caso de incumprimento, o conjunto de tais negócios é havido como um contrato bilateral, para efeitos deste artigo e do artigo 102.º
+
+5 - Às operações a prazo não abrangidas pelo n.º 1 é aplicável o disposto no n.º 5 do artigo 104.º, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 108.º — Locação em que o locatário é o insolvente
+
+1 - A declaração de insolvência não suspende o contrato de locação em que o insolvente seja locatário, mas o administrador da insolvência pode sempre denunciá-lo com um pré-aviso de 60 dias, se nos termos da lei ou do contrato não for suficiente um pré-aviso inferior.
+
+2 - Exceptua-se do número anterior o caso de o locado se destinar à habitação do insolvente, caso em que o administrador da insolvência poderá apenas declarar que o direito ao pagamento de rendas vencidas depois de transcorridos 60 dias sobre tal declaração não será exercível no processo de insolvência, ficando o senhorio, nessa hipótese, constituído no direito de exigir, como crédito sobre a insolvência, indemnização dos prejuízos sofridos em caso de despejo por falta de pagamentos de alguma ou algumas das referidas rendas, até ao montante das correspondentes a um trimestre.
+
+3 - A denúncia do contrato pelo administrador da insolvência facultada pelo n.º 1 obriga ao pagamento, como crédito sobre a insolvência, das retribuições correspondentes ao período intercedente entre a data de produção dos seus efeitos e a do fim do prazo contratual estipulado, ou a data para a qual de outro modo teria sido possível a denúncia pelo insolvente, deduzidas dos custos inerentes à prestação do locador por esse período, bem como dos ganhos obtidos através de uma aplicação alternativa do locado, desde que imputáveis à antecipação do fim do contrato, com actualização de todas as quantias, nos termos do n.º 2 do artigo 91.º, para a data de produção dos efeitos da denúncia.
+
+4 - O locador não pode requerer a resolução do contrato após a declaração de insolvência do locatário com algum dos seguintes fundamentos:
+
+a) Falta de pagamento das rendas ou alugueres respeitantes ao período anterior à data da declaração de insolvência;
+
+b) Deterioração da situação financeira do locatário.
+
+5 - Não tendo a coisa locada sido ainda entregue ao locatário à data da declaração de insolvência deste, tanto o administrador da insolvência como o locador podem resolver o contrato, sendo lícito a qualquer deles fixar ao outro um prazo razoável para o efeito, findo o qual cessa o direito de resolução.
+
+### Artigo 109.º — Locação em que o insolvente é o locador
+
+1 - A declaração de insolvência não suspende a execução de contrato de locação em que o insolvente seja locador, e a sua denúncia por qualquer das partes apenas é possível para o fim do prazo em curso, sem prejuízo dos casos de renovação obrigatória.
+
+2 - Se, porém, a coisa ainda não tiver sido entregue ao locatário à data da declaração de insolvência, é aplicável o disposto no n.º 5 do artigo anterior, com as devidas adaptações.
+
+3 - A alienação da coisa locada no processo de insolvência não priva o locatário dos direitos que lhe são reconhecidos pela lei civil em tal circunstância.
+
+### Artigo 110.º — Contratos de mandato e de gestão
+
+1 - Os contratos de mandato, incluindo os de comissão, que não se mostre serem estranhos à massa insolvente, caducam com a declaração de insolvência do mandante, ainda que o mandato tenha sido conferido também no interesse do mandatário ou de terceiro, sem que o mandatário tenha direito a indemnização pelo dano sofrido.
+
+2 - Considera-se, porém, que o contrato de mandato se mantém:
+
+a) Caso seja necessária a prática de actos pelo mandatário para evitar prejuízos previsíveis para a massa insolvente, até que o administrador da insolvência tome as devidas providências;
+
+b) Pelo período em que o mandatário tenha exercido funções desconhecendo, sem culpa, a declaração de insolvência do mandante.
+
+3 - A remuneração e o reembolso de despesas do mandatário constituem dívida da massa insolvente, na hipótese da alínea a) do número anterior, e dívida da insolvência, na hipótese da alínea b).
+
+4 - O disposto nos números anteriores é aplicável, com as devidas adaptações, a quaisquer outros contratos pelos quais o insolvente tenha confiado a outrem a gestão de assuntos patrimoniais, com um mínimo de autonomia, nomeadamente a contratos de gestão de carteiras e de gestão do património.
+
+### Artigo 111.º — Contrato de prestação duradoura de serviço
+
+1 - Os contratos que obriguem à realização de prestação duradoura de um serviço no interesse do insolvente, e que não caduquem por efeito do disposto no artigo anterior, não se suspendem com a declaração de insolvência, podendo ser denunciados por qualquer das partes nos termos do n.º 1 do artigo 108.º, aplicável com as devidas adaptações.
+
+2 - A denúncia antecipada do contrato só obriga ao ressarcimento do dano causado no caso de ser efectuada pelo administrador da insolvência, sendo a indemnização nesse caso calculada, com as necessárias adaptações, nos termos do n.º 3 do artigo 108.º, e constituindo para a outra parte crédito sobre a insolvência.
+
+### Artigo 112.º — Procurações
+
+1 - Salvo nos casos abrangidos pela alínea a) do n.º 2 do artigo 110.º, com a declaração de insolvência do representado caducam as procurações que digam respeito ao património integrante da massa insolvente, ainda que conferidas também no interesse do procurador ou de terceiro.
+
+2 - Aos actos praticados pelo procurador depois da caducidade da procuração é aplicável o disposto nos n.os 6 e 7 do artigo 81.º, com as necessárias adaptações.
+
+3 - O procurador que desconheça sem culpa a declaração de insolvência do representado não é responsável perante terceiros pela ineficácia do negócio derivada da falta de poderes de representação.
+
+### Artigo 113.º — Insolvência do trabalhador
+
+1 - A declaração de insolvência do trabalhador não suspende o contrato de trabalho.
+
+2 - O ressarcimento de prejuízos decorrentes de uma eventual violação dos deveres contratuais apenas pode ser reclamado ao próprio insolvente.
+
+### Artigo 114.º — Prestação de serviço pelo devedor
+
+1 - O disposto no artigo anterior aplica-se aos contratos pelos quais o insolvente, sendo uma pessoa singular, esteja obrigado à prestação de um serviço, salvo se este se integrar na actividade da empresa de que for titular e não tiver natureza infungível.
+
+2 - Sem prejuízo do disposto no número anterior, aos contratos que tenham por objecto a prestação duradoura de um serviço pelo devedor aplica-se o disposto no artigo 111.º, com as necessárias adaptações, mas o dever de indemnizar apenas existe se for da outra parte a iniciativa da denúncia.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 115.º — Cessão e penhor de créditos futuros
+
+1 - Sendo o devedor uma pessoa singular e tendo ele cedido ou dado em penhor, anteriormente à declaração de insolvência, créditos futuros emergentes de contrato de trabalho ou de prestação de serviços, ou o direito a prestações sucedâneas futuras, designadamente subsídios de desemprego e pensões de reforma, a eficácia do negócio ficará limitada aos rendimentos respeitantes ao período anterior à data de declaração de insolvência, ao resto do mês em curso nesta data e aos 24 meses subsequentes.
+
+2 - A eficácia da cessão realizada ou de penhor constituído pelo devedor anteriormente à declaração de insolvência que tenha por objecto rendas ou alugueres devidos por contrato de locação que o administrador da insolvência não possa denunciar ou resolver, nos termos, respectivamente, do n.º 2 do artigo 104.º e do n.º 1 do artigo 109.º, fica limitada, seja ou não o devedor uma pessoa singular, às que respeitem ao período anterior à data de declaração de insolvência, ao resto do mês em curso nesta data e ao mês subsequente.
+
+3 - O devedor por créditos a que se reportam os números anteriores pode compensá-los com dívidas à massa, sem prejuízo do disposto na alínea b) do n.º 1 e nas alíneas b) a d) do n.º 4 do artigo 99.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 116.º — Contas correntes
+
+A declaração de insolvência implica o termo dos contratos de conta corrente em que o insolvente seja parte, com o encerramento das contas respectivas.
+
+### Artigo 117.º — Associação em participação
+
+1 - A associação em participação extingue-se pela insolvência do contraente associante.
+
+2 - O contraente associado é obrigado a entregar à massa insolvente do associante a sua parte, ainda não satisfeita, nas perdas em que deva participar, conservando, porém, o direito de reclamar, como crédito sobre a insolvência, as prestações que tenha realizado e não devam ser incluídas na sua participação nas perdas.
+
+### Artigo 118.º — Agrupamento complementar de empresas e agrupamento europeu de interesse económico
+
+1 - Sem prejuízo de disposição diversa do contrato, o agrupamento complementar de empresas e o agrupamento europeu de interesse económico não se dissolvem em consequência da insolvência de um ou mais membros do agrupamento.
+
+2 - O membro declarado insolvente pode exonerar-se do agrupamento complementar de empresas.
+
+3 - É nula a cláusula do contrato que obrigue o membro declarado insolvente a indemnizar os danos causados aos restantes membros ou ao agrupamento.
+
+### Artigo 119.º — Normas imperativas
+
+1 - É nula qualquer convenção das partes que exclua ou limite a aplicação das normas anteriores do presente capítulo.
+
+2 - É, em particular, nula a cláusula que atribua à declaração de insolvência de uma das partes o valor de uma condição resolutiva do negócio ou confira, nesse caso, à parte contrária um direito de indemnização, de resolução ou de denúncia em termos diversos dos previstos no presente capítulo.
+
+3 - É lícito às partes atribuírem a quaisquer situações anteriores à declaração de insolvência os efeitos previstos no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+## Capítulo V — Resolução em benefício da massa insolvente
+
+### Artigo 120.º — Princípios gerais
+
+1 - Podem ser resolvidos em benefício da massa insolvente os atos prejudiciais à massa praticados dentro dos dois anos anteriores à data do início do processo de insolvência.
+
+2 - Consideram-se prejudiciais à massa os actos que diminuam, frustrem, dificultem, ponham em perigo ou retardem a satisfação dos credores da insolvência.
+
+3 - Presumem-se prejudiciais à massa, sem admissão de prova em contrário, os actos de qualquer dos tipos referidos no artigo seguinte, ainda que praticados ou omitidos fora dos prazos aí contemplados.
+
+4 - Salvo nos casos a que respeita o artigo seguinte, a resolução pressupõe a má fé do terceiro, a qual se presume quanto a actos cuja prática ou omissão tenha ocorrido dentro dos dois anos anteriores ao início do processo de insolvência e em que tenha participado ou de que tenha aproveitado pessoa especialmente relacionada com o insolvente, ainda que a relação especial não existisse a essa data.
+
+5 - Entende-se por má fé o conhecimento, à data do acto, de qualquer das seguintes circunstâncias:
+
+a) De que o devedor se encontrava em situação de insolvência;
+
+b) Do carácter prejudicial do acto e de que o devedor se encontrava à data em situação de insolvência iminente;
+
+c) Do início do processo de insolvência.
+
+6 - São insuscetíveis de resolução por aplicação das regras previstas no presente capítulo os negócios jurídicos celebrados no âmbito de processo especial de revitalização ou de processo especial para acordo de pagamento regulados no presente diploma, de providência de recuperação ou saneamento, ou de adoção de medidas de resolução previstas no título VIII do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, bem como os realizados no âmbito do Regime Extrajudicial de Recuperação de Empresas ou de outro procedimento equivalente previsto em legislação especial, cuja finalidade seja prover o devedor com meios de financiamento suficientes para viabilizar a sua recuperação.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 121.º — Resolução incondicional
+
+1 - São resolúveis em benefício da massa insolvente os actos seguidamente indicados, sem dependência de quaisquer outros requisitos:
+
+a) Partilha celebrada menos de um ano antes da data do início do processo de insolvência em que o quinhão do insolvente haja sido essencialmente preenchido com bens de fácil sonegação, cabendo aos co-interessados a generalidade dos imóveis e dos valores nominativos;
+
+b) Actos celebrados pelo devedor a título gratuito dentro dos dois anos anteriores à data do início do processo de insolvência, incluindo o repúdio de herança ou legado, com excepção dos donativos conformes aos usos sociais;
+
+c) Constituição pelo devedor de garantias reais relativas a obrigações preexistentes ou de outras que as substituam, nos seis meses anteriores à data de início do processo de insolvência;
+
+d) Fiança, subfiança, aval e mandatos de crédito, em que o insolvente haja outorgado no período referido na alínea anterior e que não respeitem a operações negociais com real interesse para ele;
+
+e) Constituição pelo devedor de garantias reais em simultâneo com a criação das obrigações garantidas, dentro dos 60 dias anteriores à data do início do processo de insolvência;
+
+f) Pagamento ou outros actos de extinção de obrigações cujo vencimento fosse posterior à data do início do processo de insolvência, ocorridos nos seis meses anteriores à data do início do processo de insolvência, ou depois desta mas anteriormente ao vencimento;
+
+g) Pagamento ou outra forma de extinção de obrigações efectuados dentro dos seis meses anteriores à data do início do processo de insolvência em termos não usuais no comércio jurídico e que o credor não pudesse exigir;
+
+h) Actos a título oneroso realizados pelo insolvente dentro do ano anterior à data do início do processo de insolvência, em que as obrigações por ele assumidas excedam manifestamente as da contraparte;
+
+i) Reembolso de suprimentos, quando tenha lugar dentro do mesmo período referido na alínea anterior.
+
+2 - O disposto no número anterior cede perante normas legais que excepcionalmente exijam sempre a má fé ou a verificação de outros requisitos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 122.º — Sistemas de pagamentos
+
+Não podem ser objecto de resolução actos compreendidos no âmbito de um sistema de pagamentos tal como definido pela alínea a) do artigo 2.º da Directiva n.º 98/26/CE, do Parlamento Europeu e do Conselho, de 19 de Maio, ou equiparável.
+
+### Artigo 123.º — Forma de resolução e prescrição do direito
+
+1 - A resolução pode ser efectuada pelo administrador da insolvência por carta registada com aviso de recepção nos seis meses seguintes ao conhecimento do acto, mas nunca depois de decorridos dois anos sobre a data da declaração de insolvência.
+
+2 - Enquanto, porém, o negócio não estiver cumprido, pode a resolução ser declarada, sem dependência de prazo, por via de excepção.
+
+### Artigo 124.º — Oponibilidade a transmissários
+
+1 - A oponibilidade da resolução do acto a transmissários posteriores pressupõe a má fé destes, salvo tratando-se de sucessores a título universal ou se a nova transmissão tiver ocorrido a título gratuito.
+
+2 - O disposto no número anterior é aplicável, com as necessárias adaptações, à constituição de direitos sobre os bens transmitidos em benefício de terceiro.
+
+### Artigo 125.º — Impugnação da resolução
+
+O direito de impugnar a resolução caduca no prazo de três meses, correndo a ação correspondente, proposta contra a massa insolvente, como dependência do processo de insolvência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 126.º — Efeitos da resolução
+
+1 - A resolução tem efeitos retroactivos, devendo reconstituir-se a situação que existiria se o acto não tivesse sido praticado ou omitido, consoante o caso.
+
+2 - A acção intentada pelo administrador da insolvência com a finalidade prevista no número anterior é dependência do processo de insolvência.
+
+3 - Ao terceiro que não apresente os bens ou valores que hajam de ser restituídos à massa dentro do prazo fixado na sentença são aplicadas as sanções previstas na lei de processo para o depositário de bens penhorados que falte à oportuna entrega deles.
+
+4 - A restituição do objecto prestado pelo terceiro só tem lugar se o mesmo puder ser identificado e separado dos que pertencem à parte restante da massa.
+
+5 - Caso a circunstância prevista no número anterior não se verifique, a obrigação de restituir o valor correspondente constitui dívida da massa insolvente na medida do respectivo enriquecimento à data da declaração da insolvência, e dívida da insolvência quanto ao eventual remanescente.
+
+6 - A obrigação de restituir a cargo do adquirente a título gratuito só existe na medida do seu próprio enriquecimento, salvo o caso de má fé, real ou presumida.
+
+### Artigo 127.º — Impugnação pauliana
+
+1 - É vedada aos credores da insolvência a instauração de novas acções de impugnação pauliana de actos praticados pelo devedor cuja resolução haja sido declarada pelo administrador da insolvência.
+
+2 - As acções de impugnação pauliana pendentes à data da declaração da insolvência ou propostas ulteriormente não serão apensas ao processo de insolvência, e, em caso de resolução do acto pelo administrador da insolvência, só prosseguirão os seus termos se tal resolução vier a ser declarada ineficaz por decisão definitiva, a qual terá força vinculativa no âmbito daquelas acções quanto às questões que tenha apreciado, desde que não ofenda caso julgado de formação anterior.
+
+3 - Julgada procedente a acção de impugnação, o interesse do credor que a tenha instaurado é aferido, para efeitos do artigo 616.º do Código Civil, com abstracção das modificações introduzidas ao seu crédito por um eventual plano de insolvência ou de pagamentos.
+
+## Título V — Verificação dos créditos. Restituição e separação de bens
+
+## Capítulo I — Verificação de créditos
+
+### Artigo 128.º — Reclamação de créditos
+
+1 - Dentro do prazo fixado para o efeito na sentença declaratória da insolvência, devem os credores da insolvência, incluindo o Ministério Público na defesa dos interesses das entidades que represente, reclamar a verificação dos seus créditos por meio de requerimento, acompanhado de todos os documentos probatórios de que disponham, no qual indiquem:
+
+a) A sua proveniência, data de vencimento, montante de capital e de juros;
+
+b) As condições a que estejam subordinados, tanto suspensivas como resolutivas;
+
+c) A sua natureza comum, subordinada, privilegiada ou garantida, e, neste último caso, os bens ou direitos objecto da garantia e respectivos dados de identificação registral, se aplicável;
+
+d) A existência de eventuais garantias pessoais, com identificação dos garantes;
+
+e) A taxa de juros moratórios aplicável.
+
+f) O número de identificação bancária ou outro equivalente.
+
+2 - O requerimento é endereçado ao administrador da insolvência e apresentado por transmissão eletrónica de dados, nos termos definidos na portaria prevista no n.º 2 do artigo 17.º
+
+3 - Sempre que os credores da insolvência não estejam patrocinados, o requerimento de reclamação de créditos é apresentado no domicílio profissional do administrador da insolvência ou para aí remetido por correio eletrónico ou por via postal registada, devendo o administrador, respetivamente, assinar no ato de entrega, ou enviar ao credor no prazo de três dias da receção, comprovativo do recebimento, sendo o envio efetuado pela forma utilizada na reclamação.
+
+4 - A reclamação de créditos prevista no n.º 1 pode efetuar-se através do formulário disponibilizado para o efeito no portal a definir por portaria do membro do governo responsável pela área da justiça ou através do formulário-tipo de reclamação de créditos previsto nos artigos 54.º e 55.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, nos casos em que aquele regulamento seja aplicável.
+
+5 - A verificação tem por objecto todos os créditos sobre a insolvência, qualquer que seja a sua natureza e fundamento, e mesmo o credor que tenha o seu crédito reconhecido por decisão definitiva não está dispensado de o reclamar no processo de insolvência, se nele quiser obter pagamento.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 129.º — Relação de créditos reconhecidos e não reconhecidos
+
+1 - Nos 15 dias subsequentes ao termo do prazo das reclamações, o administrador da insolvência apresenta na secretaria uma lista de todos os credores por si reconhecidos e uma lista dos não reconhecidos, ambas por ordem alfabética, relativamente não só aos que tenham deduzido reclamação como àqueles cujos direitos constem dos elementos da contabilidade do devedor ou sejam por outra forma do seu conhecimento, bem como uma proposta de graduação dos credores reconhecidos, que tenha por referência a previsível composição da massa insolvente e respeite o disposto no n.º 2 do artigo 140.º e na alínea d) do n.º 1 do artigo 241.º
+
+2 - Da lista dos credores reconhecidos consta a identificação de cada credor, a natureza do crédito, o montante de capital e juros à data do termo do prazo das reclamações, as garantias pessoais e reais, os privilégios, a taxa de juros moratórios aplicável, as eventuais condições suspensivas ou resolutivas e o valor dos bens integrantes da massa insolvente sobre os quais incidem garantias reais de créditos pelos quais o devedor não responda pessoalmente.
+
+3 - A lista dos credores não reconhecidos indica os motivos justificativos do não reconhecimento.
+
+4 - Todos os credores não reconhecidos, bem como aqueles cujos créditos forem reconhecidos sem que os tenham reclamado, ou em termos diversos dos da respetiva reclamação, devem ser disso avisados pelo administrador de insolvência, por carta registada ou por um dos meios previstos nos n.os 2 e 3 do artigo 128.º e tratando-se de credores conhecidos que tenham a residência habitual, o domicílio ou a sede estatutária num Estado-membro diferente daquele em foi aberto o processo, incluindo as autoridades fiscais e os organismos da segurança social desses Estados-membros, o aviso é efetuado, ainda, em conformidade com o artigo 54.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015.
+
+4 - Todos os credores não reconhecidos, bem como aqueles cujos créditos forem reconhecidos sem que os tenham reclamado, ou em termos diversos dos da respetiva reclamação, devem ser disso avisados pelo administrador de insolvência nos termos do n.º 2 do artigo anterior ou, no caso de credores não patrocinados, pelos meios previstos no artigo 249.º do Código de Processo Civil.
+
+5 - Tratando-se de credores conhecidos que tenham a residência habitual, o domicílio ou a sede estatutária num Estado-Membro diferente daquele em que foi aberto o processo, incluindo as autoridades fiscais e os organismos da segurança social desses Estados-Membros, o aviso previsto no número anterior é efetuado, ainda, em conformidade com o artigo 54.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015.
+
+6 - A comunicação referida no número anterior pode ser feita por correio eletrónico nos casos em que a reclamação de créditos haja sido efetuada por este meio e considera-se realizada na data do seu envio, devendo o administrador da insolvência juntar aos autos comprovativo do mesmo.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07, em vigor a partir de 2024-11-10
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 57/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25, em vigor a partir de 2022-08-26
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 130.º — Impugnação da lista de credores reconhecidos
+
+1 - Nos 10 dias seguintes ao termo do prazo fixado no n.º 1 do artigo anterior, pode qualquer interessado impugnar a lista de credores reconhecidos através de requerimento dirigido ao juiz, com fundamento na indevida inclusão ou exclusão de créditos, ou na incorrecção do montante ou da qualificação dos créditos reconhecidos.
+
+2 - Relativamente aos credores avisados por carta registada, o prazo de 10 dias conta-se a partir do 3.º dia útil posterior à data da respectiva expedição.
+
+3 - Se não houver impugnações, é de imediato proferida sentença de verificação e graduação dos créditos, em que, salvo o caso de erro manifesto, se homologa a lista de credores reconhecidos elaborada pelo administrador da insolvência e se graduam os créditos em atenção ao que conste dessa lista, podendo o juiz, caso concorde com a proposta de graduação elaborada pelo administrador da insolvência, homologar a mencionada proposta.
+
+> Alterado pelo/a Artigo 2.º do/a Decreto-Lei n.º 57/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25, em vigor a partir de 2022-08-26
+
+### Artigo 131.º — Resposta à impugnação
+
+1 - Pode responder a qualquer das impugnações o administrador da insolvência e qualquer interessado que assuma posição contrária, incluindo o devedor.
+
+2 - Se, porém, a impugnação se fundar na indevida inclusão de certo crédito na lista de credores reconhecidos, na omissão da indicação das condições a que se encontre sujeito ou no facto de lhe ter sido atribuído um montante excessivo ou uma qualificação de grau superior à correcta, só o próprio titular pode responder.
+
+3 - A resposta deve ser apresentada dentro dos 10 dias subsequentes ao termo do prazo referido no artigo anterior ou à notificação ao titular do crédito objecto da impugnação, consoante o caso, sob pena de a impugnação ser julgada procedente.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 132.º — Autuação das impugnações e respostas
+
+As listas de créditos reconhecidos e não reconhecidos pelo administrador da insolvência, as impugnações e as respostas são autuadas por um único apenso.
+
+### Artigo 133.º — Exame das reclamações e dos documentos de escrituração do insolvente
+
+Durante o prazo fixado para as impugnações e as respostas, e a fim de poderem ser examinados por qualquer interessado e pela comissão de credores, deve o administrador da insolvência patentear as reclamações de créditos, os documentos que as instruam e os documentos da escrituração do insolvente no local mais adequado, o qual é objecto de indicação no final nas listas de credores reconhecidos e não reconhecidos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 134.º — Meios de prova, cópias e dispensa de notificação
+
+1 - Às impugnações e às respostas é aplicável o disposto no n.º 2 do artigo 25.º
+
+2 - São apenas oferecidos pelo requerente ou, no caso de apresentação em suporte digital, extraídos pela secretaria dois duplicados dos articulados e dos documentos que os acompanhem, um dos quais se destina ao arquivo do tribunal, ficando o outro na secretaria judicial, para consulta dos interessados.
+
+3 - Exceptua-se o caso em que a impugnação tenha por objecto créditos reconhecidos e não seja apresentada pelo próprio titular, em que se juntará ou será extraída uma cópia adicional, para entrega ao respectivo titular.
+
+4 - As impugnações apenas serão objecto de notificação aos titulares de créditos a que respeitem, se estes não forem os próprios impugnantes.
+
+5 - Durante o prazo para impugnações e respostas, o processo é mantido na secretaria judicial para exame e consulta dos interessados.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 135.º — Parecer da comissão de credores
+
+Dentro dos 10 dias posteriores ao termo do prazo das respostas às impugnações, deve a comissão de credores juntar aos autos o seu parecer sobre as impugnações.
+
+### Artigo 136.º — Saneamento do processo
+
+1 - Junto o parecer da comissão de credores ou decorrido o prazo previsto no artigo anterior sem que tal junção se verifique, o juiz declara verificados com valor de sentença os créditos incluídos na respetiva lista e não impugnados, salvo o caso de erro manifesto, e pode designar dia e hora para uma tentativa de conciliação a realizar dentro dos 10 dias seguintes, para a qual são notificados, a fim de comparecerem pessoalmente ou de se fazerem representar por procuradores com poderes especiais para transigir, todos os que tenham apresentado impugnações e respostas, a comissão de credores e o administrador da insolvência.
+
+2 - Na tentativa de conciliação são considerados como reconhecidos os créditos que mereçam a aprovação de todos os presentes e nos precisos termos em que o forem.
+
+3 - Concluída a tentativa de conciliação, o processo é imediatamente concluso ao juiz, para que seja proferido despacho, nos termos previstos nos artigos 595.º e 596.º do Código de Processo Civil.
+
+4 - (Revogado.)
+
+5 - Consideram-se ainda reconhecidos os demais créditos que possam sê-lo face aos elementos de prova contidos nos autos.
+
+6 - O despacho saneador tem, quanto aos créditos reconhecidos, a forma e o valor de sentença, que os declara verificados e os gradua em harmonia com as disposições legais.
+
+7 - Os créditos cuja verificação ou graduação necessite de produção de prova são provisoriamente verificados e graduados nos termos do número anterior, observando-se o disposto no n.º 1 do artigo 180.º
+
+8 - Caso o juiz entenda que não se mostra adequado realizar a tentativa de conciliação, profere de imediato o despacho previsto no n.º 3.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 137.º — Diligências instrutórias
+
+Havendo diligências probatórias a realizar antes da audiência de discussão e julgamento, o juiz ordena as providências necessárias para que estejam concluídas dentro do prazo de 20 dias a contar do despacho que as tiver determinado, aproveitando a todos os interessados a prova produzida por qualquer deles.
+
+### Artigo 138.º — Designação de dia para a audiência
+
+Produzidas as provas ou expirado o prazo marcado nas cartas, é marcada a audiência de discussão e julgamento para um dos 10 dias posteriores.
+
+### Artigo 139.º — Audiência
+
+Na audiência de julgamento são observados os termos estabelecidos para o processo comum, com as seguintes especialidades:
+
+a) Sempre que necessário, serão ouvidos, na altura em que o tribunal o determine, quer o administrador da insolvência, quer a comissão de credores;
+
+b) As provas são produzidas segundo a ordem por que tiverem sido apresentadas as impugnações;
+
+c) Na discussão, podem usar da palavra, em primeiro lugar, os advogados dos impugnantes e depois os dos respondentes, não havendo lugar a réplica.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 140.º — Sentença
+
+1 - Finda a audiência de julgamento, o juiz profere sentença de verificação e graduação dos créditos, nos 10 dias subsequentes.
+
+2 - A graduação é geral para os bens da massa insolvente e é especial para os bens a que respeitem direitos reais de garantia e privilégios creditórios.
+
+3 - Na graduação de créditos não é atendida a preferência resultante de hipoteca judicial, nem a proveniente da penhora, mas as custas pagas pelo autor ou exequente constituem dívidas da massa insolvente.
+
+## Capítulo II — Restituição e separação de bens
+
+### Artigo 141.º — Aplicabilidade das disposições relativas à reclamação e verificação de créditos
+
+1 - As disposições relativas à reclamação e verificação de créditos são igualmente aplicáveis:
+
+a) A reclamação não é objecto de notificações, e obedece ao disposto nos n.os 1 e 5 do artigo 134.º;
+
+b) À reclamação e verificação do direito que tenha o cônjuge a separar da massa insolvente os seus bens próprios e a sua meação nos bens comuns;
+
+c) À reclamação destinada a separar da massa os bens de terceiro indevidamente apreendidos e quaisquer outros bens, dos quais o insolvente não tenha a plena e exclusiva propriedade, ou sejam estranhos à insolvência ou insusceptíveis de apreensão para a massa.
+
+2 - A aplicabilidade das disposições relativas à reclamação e verificação de créditos tem lugar com as adaptações seguintes, além das outras que se mostrem necessárias:
+
+a) A reclamação não é objecto de notificações, e obedece ao disposto nos n.os 1 e 4 do artigo 134.º;
+
+b) As contestações às reclamações podem ser apresentadas pelo administrador da insolvência ou por qualquer interessado nos 10 dias seguintes ao termo do prazo para a reclamação dos créditos fixado na sentença de declaração da insolvência, e o reclamante tem a possibilidade de lhes responder nos 5 dias subsequentes;
+
+c) Na audiência, as provas são produzidas segundo a ordem por que tiverem sido apresentadas as reclamações e, na discussão, usam da palavra em primeiro lugar os advogados dos reclamantes e só depois os dos contestantes.
+
+3 - A separação dos bens de que faz menção o n.º 1 pode igualmente ser ordenada pelo juiz, a requerimento do administrador da insolvência, instruído com parecer favorável da comissão de credores, se existir.
+
+4 - Quando a reclamação verse sobre mercadorias ou outras coisas móveis, o reclamante deve provar a identidade das que lhe pertençam, salvo se forem fungíveis.
+
+5 - Se as mercadorias enviadas ao insolvente a título de consignação ou comissão estiverem vendidas a crédito, pode o comitente reclamar o preço devido pelo comprador, a fim de o poder receber deste.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 142.º — Perda de posse de bens a restituir
+
+1 - Se as coisas que o insolvente deve restituir não se encontrarem na sua posse à data da declaração de insolvência, pode o administrador da insolvência reavê-las, se tal for mais conveniente para a massa insolvente do que o pagamento ao seu titular, como crédito sobre a insolvência, do valor que tinham naquela data ou da indemnização pelas despesas resultantes da sua recuperação.
+
+2 - Se a posse se perder depois de terem sido apreendidas para a massa insolvente as coisas que devam ser restituídas, tem o titular direito a receber da massa o seu valor integral.
+
+### Artigo 143.º — Reclamação de direitos próprios, estranhos à insolvência
+
+Ao insolvente, bem como ao seu consorte, é permitido, sem necessidade de autorização do outro cônjuge, reclamar os seus direitos próprios, estranhos à insolvência.
+
+### Artigo 144.º — Restituição ou separação de bens apreendidos tardiamente
+
+1 - No caso de serem apreendidos bens para a massa, depois de findo o prazo fixado para as reclamações, é ainda permitido exercer o direito de restituição ou separação desses bens nos cinco dias posteriores à apreensão, por meio de requerimento, apensado ao processo principal.
+
+2 - Citados em seguida os credores, por éditos de 10 dias, o devedor e o administrador da insolvência, para contestarem dentro dos 5 dias imediatos, seguem-se os termos do processo de verificação de créditos, com as adaptações necessárias, designadamente as constantes do n.º 2 do artigo 141.º
+
+### Artigo 145.º — Entrega provisória de bens móveis
+
+1 - Ao reclamante da restituição de coisas móveis determinadas pode ser deferida a sua entrega provisória, mediante caução prestada no próprio processo.
+
+2 - Se a reclamação for julgada definitivamente improcedente, serão restituídos à massa os bens entregues provisoriamente ou o valor da caução.
+
+## Capítulo III — Verificação ulterior
+
+### Artigo 146.º — Verificação ulterior de créditos ou de outros direitos
+
+1 - Findo o prazo das reclamações, é possível reconhecer ainda outros créditos, bem como o direito à separação ou restituição de bens, de modo a serem atendidos no processo de insolvência, por meio de ação proposta contra a massa insolvente, os credores e o devedor, efetuando-se a citação dos credores por meio de edital eletrónico publicado no portal Citius, considerando-se aqueles citados decorridos cinco dias após a data da sua publicação.
+
+2 - O direito à separação ou restituição de bens pode ser exercido a todo o tempo, mas a reclamação de outros créditos, nos termos do número anterior:
+
+a) Não pode ser apresentada pelos credores que tenham sido avisados nos termos do artigo 129.º, excepto tratando-se de créditos de constituição posterior;
+
+b) Só pode ser feita nos seis meses subsequentes ao trânsito em julgado da sentença de declaração da insolvência, ou no prazo de três meses seguintes à respetiva constituição, caso termine posteriormente.
+
+3 - Proposta a acção, a secretaria, oficiosamente, lavra termo no processo principal da insolvência no qual identifica a acção apensa e o reclamante e reproduz o pedido, o que equivale a termo de protesto.
+
+4 - A instância extingue-se e os efeitos do protesto caducam se o autor, negligentemente, deixar de promover os termos da causa durante 30 dias.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 9.º do/a Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12, em vigor a partir de 2009-08-17
+
+### Artigo 147.º — Caducidade dos efeitos do protesto
+
+Se os efeitos do protesto caducarem, observa-se o seguinte:
+
+a) Tratando-se de acção para a verificação de crédito, o credor só adquire direito a entrar nos rateios posteriores ao trânsito em julgado da respectiva sentença pelo crédito que venha a ser verificado, ainda que de crédito garantido ou privilegiado se trate;
+
+b) Tratando-se de acção para a verificação do direito à restituição ou separação de bens, o autor só pode tornar efectivos os direitos que lhe forem reconhecidos na respectiva sentença passada em julgado, relativamente aos bens que a esse tempo ainda não tenham sido liquidados; se os bens já tiverem sido liquidados, no todo ou em parte, a venda é eficaz e o autor é apenas embolsado do respectivo produto, podendo este ser determinado, ou, quando o não possa ser, do valor que lhe tiver sido fixado no inventário;
+
+c) Para a satisfação do crédito referido na última parte da alínea anterior, o autor só pode obter pagamento pelos valores que não tenham entrado já em levantamento ou rateio anterior, condicional ou definitivamente, nem se achem salvaguardados por terceiros, em virtude de recurso ou de protesto lavrado nos termos do artigo anterior e que, por isso, existam livres na massa insolvente, com respeito da preferência que lhe cabe, enquanto crédito sobre a massa insolvente.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 148.º — Apensação das acções e forma aplicável
+
+As ações a que se refere o presente capítulo correm por apenso aos autos da insolvência e seguem os termos do processo comum, ficando as respetivas custas a cargo do autor, caso não venha a ser deduzida contestação.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+## Título VI — Administração e liquidação da massa insolvente
+
+## Capítulo I — Providências conservatórias
+
+### Artigo 149.º — Apreensão dos bens
+
+1 - Proferida a sentença declaratória da insolvência, procede-se à imediata apreensão dos elementos da contabilidade e de todos os bens integrantes da massa insolvente, ainda que estes tenham sido:
+
+a) Arrestados, penhorados ou por qualquer forma apreendidos ou detidos, seja em que processo for, com ressalva apenas dos que hajam sido apreendidos por virtude de infracção, quer de carácter criminal, quer de mera ordenação social;
+
+b) Objecto de cessão aos credores, nos termos dos artigos 831.º e seguintes do Código Civil.
+
+2 - Se os bens já tiverem sido vendidos, a apreensão tem por objecto o produto da venda, caso este ainda não tenha sido pago aos credores ou entre eles repartido.
+
+### Artigo 150.º — Entrega dos bens apreendidos
+
+1 - O poder de apreensão resulta da declaração de insolvência, devendo o administrador da insolvência diligenciar, sem prejuízo do disposto nos n.os 1 e 2 do artigo 756.º do Código de Processo Civil, no sentido de os bens lhe serem imediatamente entregues, para que deles fique depositário, regendo-se o depósito pelas normas gerais e, em especial, pelas que disciplinam o depósito judicial de bens penhorados.
+
+2 - A apreensão é feita pelo próprio administrador da insolvência, assistido pela comissão de credores ou por um representante desta, se existir, e, quando conveniente, na presença do credor requerente da insolvência e do próprio insolvente.
+
+3 - Sempre que ao administrador da insolvência não convenha fazê-lo pessoalmente, é a apreensão de bens sitos em comarca que não seja a da insolvência realizada por meio de deprecada, ficando esses bens confiados a depositário especial, mas à ordem do administrador da insolvência.
+
+4 - A apreensão é feita mediante arrolamento, ou por entrega directa através de balanço, de harmonia com as regras seguintes:
+
+a) Se os bens já estiverem confiados a depositário judicial, manter-se-á o respectivo depósito, embora eles passem a ficar disponíveis e à ordem exclusiva do administrador da insolvência;
+
+b) Se encontrar dificuldades em tomar conta dos bens ou tiver dúvidas sobre quais integram o depósito, pode o administrador da insolvência requerer que o funcionário do tribunal se desloque ao local onde os bens se encontrem, a fim de, superadas as dificuldades ou esclarecidas as dúvidas, lhe ser feita a entrega efectiva;
+
+c) Quando depare com oposição ou resistência à apreensão, o próprio administrador da insolvência pode requisitar o auxílio da força pública, sendo então lícito o arrombamento de porta ou de cofre e lavrando-se auto de ocorrência do incidente;
+
+d) O arrolamento consiste na descrição, avaliação e depósito dos bens;
+
+e) Quer no arrolamento, quer na entrega por balanço, é lavrado pelo administrador da insolvência, ou por seu auxiliar, o auto no qual se descrevam os bens, em verbas numeradas, como em inventário, se declare, sempre que conveniente, o valor fixado por louvado, se destaque a entrega ao administrador da insolvência ou a depositário especial e se faça menção de todas as ocorrências relevantes com interesse para o processo;
+
+f) O auto é assinado por quem presenciou a diligência e pelo possuidor ou detentor dos valores apreendidos ou, quando este não possa ou não queira assinar, pelas duas testemunhas a que seja possível recorrer.
+
+5 - À desocupação de casa de habitação onde resida habitualmente o insolvente é aplicável o disposto no artigo 862.º do Código de Processo Civil.
+
+6 - As somas recebidas em dinheiro pelo administrador da insolvência devem ser imediatamente depositadas em conta bancária titulada pela massa insolvente, em instituição de crédito escolhida pelo administrador da insolvência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 151.º — Junção do arrolamento e do balanço aos autos
+
+O administrador da insolvência junta, por apenso ao processo de insolvência, o auto do arrolamento e do balanço respeitantes a todos os bens apreendidos, ou a cópia dele, quando efectuado em comarca deprecada.
+
+### Artigo 152.º — Publicidade da composição da massa insolvente
+
+1 - Logo que iniciada a liquidação e partilha da massa insolvente ou quando haja lugar à venda antecipada nos termos do artigo 158.º, o administrador da insolvência publicita a composição da massa por anúncio publicado no portal a definir por portaria do membro do Governo responsável pela área da justiça, comprovando tal facto nos autos no prazo de cinco dias.
+
+2 - Sempre que a massa insolvente compreenda uma empresa, o anúncio referido no n.º 1 conterá também tal menção, se aplicável, a diferenciação de ativos por área de negócio e ainda que a alienação se fará preferencialmente como um todo, nos termos do artigo 162.º
+
+3 - Aos bens localizados e apreendidos posteriormente ao início da liquidação e partilha aplica-se, com as devidas adaptações, o disposto nos números anteriores.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Revogado pelo/a Artigo 34.º do/a Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04
+
+## Capítulo II — Inventário, lista de credores e relatório do administrador da insolvência
+
+### Artigo 153.º — Inventário
+
+1 - O administrador da insolvência elabora um inventário dos bens e direitos integrados na massa insolvente na data anterior à do relatório, com indicação do seu valor, natureza, características, lugar em que se encontram, direitos que os onerem, e dados de identificação registral, se for o caso.
+
+2 - Se os valores dos bens ou direitos forem diversos consoante haja ou não continuidade da empresa, o administrador da insolvência consigna no inventário ambos os valores.
+
+3 - Sendo particularmente difícil, a avaliação de bens ou direitos pode ser confiada a peritos.
+
+4 - O inventário inclui um rol de todos os litígios cujo desfecho possa afectar o seu conteúdo.
+
+5 - O juiz pode dispensar a elaboração do inventário, a requerimento fundamentado do administrador da insolvência, com o parecer favorável da comissão de credores, se existir.
+
+### Artigo 154.º — Lista provisória de credores
+
+1 - O administrador da insolvência elabora uma lista provisória dos credores que constem da contabilidade do devedor, tenham reclamado os seus créditos ou sejam por outra forma do seu conhecimento, por ordem alfabética, com indicação do respetivo endereço, do montante, fundamento, natureza garantida, privilegiada, comum ou subordinada dos créditos, subordinação a condições, possibilidades de compensação e o valor dos bens compreendidos na massa insolvente sobre os quais incidem garantias reais de créditos pelos quais o devedor não responda pessoalmente, para os efeitos previstos no n.º 7 do artigo 73.º, se aplicável.
+
+2 - A lista contém ainda uma avaliação das dívidas da massa insolvente na hipótese de pronta liquidação.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 155.º — Relatório
+
+1 - O administrador da insolvência elabora um relatório contendo:
+
+a) A análise dos elementos incluídos no documento referido na alínea c) do n.º 1 do artigo 24.º;
+
+b) A análise do estado da contabilidade do devedor e a sua opinião sobre os documentos de prestação de contas e de informação financeira juntos aos autos pelo devedor;
+
+c) A indicação das perspectivas de manutenção da empresa do devedor, no todo ou em parte, da conveniência de se aprovar um plano de insolvência, e das consequências decorrentes para os credores nos diversos cenários figuráveis;
+
+d) Sempre que se lhe afigure conveniente a aprovação de um plano de insolvência, a remuneração que se propõe auferir pela elaboração do mesmo;
+
+e) Todos os elementos que no seu entender possam ser importantes para a tramitação ulterior do processo.
+
+2 - Ao relatório são anexados o inventário e a lista provisória de credores.
+
+3 - O relatório e seus anexos deverão ser juntos aos autos pelo menos oito dias antes da data da assembleia de apreciação do relatório.
+
+## Capítulo III — Liquidação
+
+## Secção I — Regime aplicável
+
+### Artigo 156.º — Deliberações da assembleia de credores de apreciação do relatório
+
+1 - Na assembleia de apreciação do relatório deve ser dada ao devedor, à comissão de credores e à comissão de trabalhadores ou aos representantes dos trabalhadores a oportunidade de se pronunciarem sobre o relatório.
+
+2 - A assembleia de credores de apreciação do relatório delibera sobre o encerramento ou manutenção em actividade do estabelecimento ou estabelecimentos compreendidos na massa insolvente.
+
+3 - Se a assembleia cometer ao administrador da insolvência o encargo de elaborar um plano de insolvência pode determinar a suspensão da liquidação e partilha da massa insolvente
+
+4 - Cessa a suspensão determinada pela assembleia:
+
+a) Se o plano não for apresentado pelo administrador da insolvência nos 60 dias seguintes; ou
+
+b) Se o plano apresentado não for subsequentemente admitido, aprovado ou homologado.
+
+5 - A suspensão da liquidação não obsta à venda dos bens da massa insolvente, ao abrigo do disposto no n.º 2 do artigo 158.º
+
+6 - A assembleia pode, em reunião ulterior, modificar ou revogar as deliberações tomadas.
+
+### Artigo 157.º — Encerramento antecipado
+
+O administrador da insolvência pode proceder ao encerramento dos estabelecimentos do devedor, ou de algum ou alguns deles, previamente à assembleia de apreciação do relatório:
+
+a) Com o parecer favorável da comissão de credores, se existir;
+
+b) Desde que o devedor se não oponha, não havendo comissão de credores, ou se, não obstante a oposição do devedor, o juiz o autorizar com fundamento em que o adiamento da medida até à data da referida assembleia acarretaria uma diminuição considerável da massa insolvente.
+
+### Artigo 158.º — Começo da venda de bens
+
+1 - Transitada em julgado a sentença declaratória da insolvência e realizada a assembleia de apreciação do relatório, o administrador da insolvência procede com prontidão à venda de todos os bens apreendidos para a massa insolvente, independentemente da verificação do passivo, na medida em que a tanto se não oponham as deliberações tomadas pelos credores na referida assembleia, apresentando nos autos, para o efeito, no prazo de 10 dias a contar da data de realização da assembleia de apreciação do relatório, um plano de liquidação de venda dos bens, contendo metas temporalmente definidas e a enunciação das diligências concretas a encetar.
+
+2 - O administrador da insolvência promove, porém, a venda antecipada dos bens da massa insolvente que não possam ou não se devam conservar por estarem sujeitos a deterioração ou depreciação.
+
+3 - Caso decida promover a venda antecipada de bens nos termos do número anterior, o administrador da insolvência comunica esse facto ao devedor, à comissão de credores, sempre que exista, e ao juiz com a antecedência de, pelo menos, dois dias úteis antes da realização da venda e publica-o no portal Citius.
+
+4 - O juiz, por sua iniciativa ou a requerimento do devedor, da comissão de credores ou de qualquer um dos credores da insolvência ou da massa insolvente, pode impedir a venda antecipada de bens referida no n.º 2, sendo essa decisão de imediato comunicada ao administrador da insolvência, ao devedor, à comissão de credores, bem como ao credor que o tenha requerido e insuscetível de recurso.
+
+5 - No requerimento a que se refere o número anterior o interessado deve, fundamentadamente, indicar as razões que justificam a não realização da venda e deve apresentar, sempre que tal se afigure possível, uma alternativa viável à operação pretendida pelo administrador da insolvência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 159.º — Contitularidade e indivisão
+
+Verificado o direito de restituição ou separação de bens indivisos ou apurada a existência de bens de que o insolvente seja contitular, só se liquida no processo de insolvência o direito que o insolvente tenha sobre esses bens.
+
+### Artigo 160.º — Bens de titularidade controversa
+
+1 - Se estiver pendente acção de reivindicação, pedido de restituição ou de separação relativamente a bens apreendidos para a massa insolvente, não se procede à liquidação destes bens enquanto não houver decisão transitada em julgado, salvo:
+
+a) Com a anuência do interessado;
+
+b) No caso de venda antecipada efectuada nos termos do n.º 2 do artigo 158.º;
+
+c) Se o adquirente for advertido da controvérsia acerca da titularidade, e aceitar ser inteiramente de sua conta a álea respectiva.
+
+2 - Na hipótese da alínea c) do número anterior, comunicada a alienação pelo administrador da insolvência ao tribunal da causa, a substituição processual considera-se operada sem mais, independentemente de habilitação do adquirente ou do acordo da parte contrária.
+
+### Artigo 161.º — Necessidade de consentimento
+
+1 - Depende do consentimento da comissão de credores, ou, se esta não existir, da assembleia de credores, a prática de actos jurídicos que assumam especial relevo para o processo de insolvência.
+
+2 - Na qualificação de um acto como de especial relevo atende-se aos riscos envolvidos e às suas repercussões sobre a tramitação ulterior do processo, às perspectivas de satisfação dos credores da insolvência e à susceptibilidade de recuperação da empresa.
+
+3 - Constituem, designadamente, actos de especial relevo:
+
+a) A venda da empresa, de estabelecimentos ou da totalidade das existências;
+
+b) A alienação de bens necessários à continuação da exploração da empresa, anteriormente ao respectivo encerramento;
+
+c) A alienação de participações noutras sociedades destinadas a garantir o estabelecimento com estas de uma relação duradoura;
+
+d) A aquisição de imóveis;
+
+e) A celebração de novos contratos de execução duradoura;
+
+f) A assunção de obrigações de terceiros e a constituição de garantias;
+
+g) A alienação de qualquer bem da empresa por preço igual ou superior a (euro) 10000 e que represente, pelo menos, 10% do valor da massa insolvente, tal como existente à data da declaração da insolvência, salvo se se tratar de bens do activo circulante ou for fácil a sua substituição por outro da mesma natureza.
+
+4 - A intenção de efectuar alienações que constituam actos de especial relevo por negociação particular bem como a identidade do adquirente e todas as demais condições do negócio deverão ser comunicadas não só à comissão de credores, se existir, como ao devedor, com a antecedência mínima de 15 dias relativamente à data da transacção.
+
+5 - O juiz manda sobrestar na alienação e convoca a assembleia de credores para prestar o seu consentimento à operação, se isso lhe for requerido pelo devedor ou por um credor ou grupo de credores cujos créditos representem, na estimativa do juiz, pelo menos um quinto do total dos créditos não subordinados, e o requerente demonstrar a plausibilidade de que a alienação a outro interessado seria mais vantajosa para a massa insolvente.
+
+### Artigo 162.º — Alienação da empresa
+
+1 - A empresa compreendida na massa insolvente é alienada como um todo, a não ser que não haja proposta satisfatória ou se reconheça vantagem na liquidação ou na alienação separada de certas partes.
+
+2 - Iniciadas as suas funções, o administrador da insolvência efectua imediatamente diligências para a alienação da empresa do devedor ou dos seus estabelecimentos.
+
+### Artigo 163.º — Eficácia dos actos
+
+A violação do disposto nos dois artigos anteriores não prejudica a eficácia dos actos do administrador da insolvência, excepto se as obrigações por ele assumidas excederem manifestamente as da contraparte.
+
+### Artigo 164.º — Modalidades da alienação
+
+1 - O administrador da insolvência procede à alienação dos bens preferencialmente através de venda em leilão eletrónico, podendo, de forma justificada, optar por qualquer das modalidades admitidas em processo executivo ou por alguma outra que tenha por mais conveniente.
+
+2 - O credor com garantia real sobre o bem a alienar é sempre ouvido sobre a modalidade da alienação, e informado do valor base fixado ou do preço da alienação projectada a entidade determinada.
+
+3 - Se, no prazo de uma semana, ou posteriormente mas em tempo útil, o credor garantido propuser a aquisição do bem, por si ou por terceiro, por preço superior ao da alienação projectada ou ao valor base fixado, o administrador da insolvência, se não aceitar a proposta, fica obrigado a colocar o credor na situação que decorreria da alienação a esse preço, caso ela venha a ocorrer por preço inferior.
+
+4 - A proposta prevista no número anterior só é eficaz se for acompanhada, como caução, de um cheque visado à ordem da massa insolvente, no valor de 10 % do montante da proposta, aplicando-se, com as devidas adaptações, o disposto nos artigos 824.º e 825.º do Código de Processo Civil.
+
+5 - Se o bem tiver sido dado em garantia de dívida de terceiro ainda não exigível pela qual o insolvente não responda pessoalmente, a alienação pode ter lugar com essa oneração, excepto se tal prejudicar a satisfação de crédito, com garantia prevalecente, já exigível ou relativamente ao qual se verifique aquela responsabilidade pessoal.
+
+6 - À venda de imóvel, ou de fração de imóvel, em que tenha sido feita, ou esteja em curso de edificação, uma construção urbana, é aplicável o disposto no n.º 6 do artigo 833.º do Código de Processo Civil, não só quando tenha lugar por negociação particular como quando assuma a forma de venda direta.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 165.º — Credores garantidos e preferentes
+
+Aos credores garantidos que adquiram bens integrados na massa insolvente e aos titulares de direito de preferência, legal ou convencional com eficácia real, é aplicável o disposto para o exercício dos respectivos direitos na venda em processo executivo.
+
+### Artigo 166.º — Atraso na venda de bem objecto de garantia real
+
+1 - Transitada em julgado a sentença declaratória da insolvência e realizada a assembleia de apreciação do relatório, o credor com garantia real deve ser compensado pelo prejuízo causado pelo retardamento da alienação do bem objecto da garantia que lhe não seja imputável, bem como pela desvalorização do mesmo resultante da sua utilização em proveito da massa insolvente.
+
+2 - O administrador da insolvência pode optar por satisfazer integralmente um crédito com garantia real à custa da massa insolvente antes de proceder à venda do bem objecto da garantia, contanto que o pagamento tenha lugar depois da data fixada no n.º 1 do artigo 158.º para o começo da venda dos bens.
+
+### Artigo 167.º — Depósito do produto da liquidação
+
+1 - À medida que a liquidação se for efetuando, é o seu produto depositado na conta bancária titulada pela massa insolvente, em conformidade com o disposto no n.º 6 do artigo 150.º
+
+2 - Quando exista comissão de credores, a movimentação do depósito efectuado, seja qual for a sua modalidade, só pode ser feita mediante assinatura conjunta do administrador da insolvência e de, pelo menos, um dos membros da comissão.
+
+3 - Sempre que sejam previstos períodos relativamente longos de imobilização dos fundos depositados, devem ser feitas aplicações deles em modalidades sem grande risco e que recolham o parecer prévio favorável da comissão de credores, se existir, ou do maior credor.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 168.º — Proibição de aquisição
+
+1 - O administrador da insolvência não pode adquirir, directamente ou por interposta pessoa, bens ou direitos compreendidos na massa insolvente, qualquer que seja a modalidade da venda.
+
+2 - O administrador da insolvência que viole o disposto no número anterior é destituído por justa causa e restitui à massa o bem ou direito ilicitamente adquirido, sem direito a reaver a prestação efectuada.
+
+### Artigo 169.º — Prazo para a liquidação
+
+A requerimento de qualquer interessado, o juiz decreta a destituição, com justa causa, do administrador da insolvência:
+
+a) Caso o processo de insolvência não seja encerrado no prazo de um ano contado da data da assembleia de apreciação do relatório, ou no final de cada período de seis meses subsequente, salvo havendo razões que justifiquem o prolongamento;
+
+b) Caso o administrador da insolvência não apresente o plano de liquidação previsto na parte final do n.º 1 do artigo 158.º ou o incumpra com culpa grave.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 170.º — Processamento por apenso
+
+O processado relativo à liquidação constitui um apenso ao processo de insolvência.
+
+## Secção II — Dispensa de liquidação
+
+### Artigo 171.º — Pressupostos
+
+1 - Se o devedor for uma pessoa singular e a massa insolvente não compreender uma empresa, o juiz pode dispensar a liquidação da massa, no todo ou em parte, desde que o devedor entregue ao administrador da insolvência uma importância em dinheiro não inferior à que resultaria dessa liquidação.
+
+2 - A dispensa da liquidação supõe uma solicitação nesse sentido por parte do administrador da insolvência, com o acordo prévio do devedor, ficando a decisão sem efeito se o devedor não fizer entrega da importância fixada pelo juiz no prazo de oito dias.
+
+## Título VII — Pagamento aos credores
+
+### Artigo 172.º — Pagamento das dívidas da massa
+
+1 - Antes de proceder ao pagamento dos créditos sobre a insolvência, o administrador da insolvência deduz da massa insolvente os bens ou direitos necessários à satisfação das dívidas desta, incluindo as que previsivelmente se constituirão até ao encerramento do processo.
+
+2 - As dívidas da massa insolvente são imputadas aos rendimentos da massa, e, quanto ao excedente, na devida proporção, ao produto de cada bem, móvel ou imóvel; porém, a imputação não excederá 10% do produto de bens objecto de garantias reais, salvo na medida do indispensável à satisfação integral das dívidas da massa insolvente ou do que não prejudique a satisfação integral dos créditos garantidos.
+
+3 - O pagamento das dívidas da massa insolvente tem lugar nas datas dos respectivos vencimentos, qualquer que seja o estado do processo.
+
+4 - Intentada ação para a verificação do direito à restituição ou separação de bens que já se encontrem liquidados e lavrado o competente termo de protesto, é mantida em depósito e excluída dos pagamentos aos credores da massa insolvente ou da insolvência, enquanto persistirem os efeitos do protesto, quantia igual à do produto da venda, podendo este ser determinado, ou, quando o não possa ser, à do valor constante do inventário; é aplicável o disposto nos n.os 2 e 3 do artigo 180.º, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 173.º — Início do pagamento dos créditos sobre a insolvência
+
+O pagamento dos créditos sobre a insolvência apenas contempla os que estiverem verificados por sentença transitada em julgado.
+
+### Artigo 174.º — Pagamento aos credores garantidos
+
+1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 172.º, liquidados os bens onerados com garantia real, e abatidas as correspondentes despesas, é imediatamente feito o pagamento aos credores garantidos, com respeito pela prioridade que lhes caiba; quanto àqueles que não fiquem integralmente pagos e perante os quais o devedor responda com a generalidade do seu património, são os saldos respectivos incluídos entre os créditos comuns, em substituição dos saldos estimados, caso não se verifique coincidência entre eles.
+
+2 - Anteriormente à venda dos bens, o saldo estimado reconhecido como crédito comum é atendido nos rateios que se efectuarem entre os credores comuns, devendo continuar, porém, depositadas as quantias que pelos rateios lhe correspondam até à confirmação do saldo efectivo, sendo o levantamento autorizado na medida do que se vier a apurar.
+
+3 - O pagamento de dívida de terceiro não exigível:
+
+a) Não tem lugar, na hipótese prevista na primeira parte do n.º 5 do artigo 164.º ou se o respectivo titular renunciar à garantia;
+
+b) Não pode exceder o montante da dívida, actualizado para a data do pagamento por aplicação do n.º 2 do artigo 91.º;
+
+c) Importa sub-rogação nos direitos do credor, na proporção da quantia paga relativamente ao montante da dívida, actualizado nos mesmos termos.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 175.º — Pagamento aos credores privilegiados
+
+1 - O pagamento dos créditos privilegiados é feito à custa dos bens não afectos a garantias reais prevalecentes, com respeito da prioridade que lhes caiba, e na proporção dos seus montantes, quanto aos que sejam igualmente privilegiados.
+
+2 - É aplicável o disposto na segunda parte do n.º 1 e no n.º 2 do artigo anterior, com as devidas adaptações.
+
+### Artigo 176.º — Pagamento aos credores comuns
+
+O pagamento aos credores comuns tem lugar na proporção dos seus créditos, se a massa for insuficiente para a respectiva satisfação integral.
+
+### Artigo 177.º — Pagamento aos credores subordinados
+
+1 - O pagamento dos créditos subordinados só tem lugar depois de integralmente pagos os créditos comuns, e é efectuado pela ordem segundo a qual esses créditos são indicados no artigo 48.º, na proporção dos respectivos montantes, quanto aos que constem da mesma alínea, se a massa for insuficiente para o seu pagamento integral.
+
+2 - No caso de subordinação convencional, é lícito às partes atribuírem ao crédito uma prioridade diversa da que resulta do artigo 48.º
+
+### Artigo 178.º — Rateios parciais
+
+1 - É obrigatória a realização de rateios parciais das quantias depositadas à ordem da massa insolvente sempre que, cumulativamente:
+
+a) Tenha transitado em julgado a sentença declaratória da insolvência e o processo tenha prosseguido para liquidação do ativo nos termos previstos no capítulo iii do título vi;
+
+b) Esteja esgotado o prazo de impugnação da relação de credores previsto no artigo 130.º sem que nenhuma impugnação tenha sido deduzida, ou, tendo-o sido, se a impugnação em causa já estiver decidida, seja nos termos do disposto no n.º 3 do artigo 131.º seja por decisão judicial, aplicando-se o disposto no n.º 1 do artigo 180.º caso a decisão não seja definitiva;
+
+c) As quantias depositadas à ordem da massa insolvente sejam iguais ou superiores a 10 000 (euro) e a respetiva titularidade não seja controvertida;
+
+d) O processo não se encontre em condições de elaboração do rateio final.
+
+2 - Nos casos previstos no número anterior, o administrador da insolvência elabora o mapa de rateio e procede à sua publicação na Área de Serviços Digitais dos Tribunais, dispondo a comissão de credores, caso tenha sido nomeada, e os credores de 15 dias, contados desde a data da publicação, para se pronunciarem sobre o mesmo.
+
+3 - Findo o prazo referido no número anterior, o processo é concluso ao juiz que decide, no prazo de 10 dias, sobre os pagamentos que considere justificados.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 179.º — Pagamento no caso de devedores solidários
+
+1 - Quando, além do insolvente, outro devedor solidário com ele se encontre na mesma situação, o credor não recebe qualquer quantia sem que apresente certidão comprovativa dos montantes recebidos nos processos de insolvência dos restantes devedores; o administrador da insolvência dá conhecimento do pagamento nos demais processos.
+
+2 - O devedor solidário insolvente que liquide a dívida apenas parcialmente não pode ser pago nos processos de insolvência dos condevedores sem que o credor se encontre integralmente satisfeito.
+
+### Artigo 180.º — Cautelas de prevenção
+
+1 - Havendo recurso da sentença de verificação e graduação de créditos, ou protesto por acção pendente, consideram-se condicionalmente verificados os créditos dos autores do protesto ou objecto do recurso, neste último caso pelo montante máximo que puder resultar do conhecimento do mesmo, para o efeito de serem atendidos nos rateios que se efectuarem, devendo continuar, porém, depositadas as quantias que por estes lhes sejam atribuídas.
+
+2 - Após a decisão definitiva do recurso ou da acção, é autorizado o levantamento das quantias depositadas, na medida que se imponha, ou efectuado o rateio delas pelos credores, conforme os casos; sendo o levantamento parcial, o rateio terá por objecto a importância sobrante.
+
+3 - Aquele que, por seu recurso ou protesto, tenha obstado ao levantamento de qualquer quantia, e venha a decair, indemniza os credores lesados, pagando juros de mora às taxas legais pela quantia retardada, desde a data do rateio em que foi incluída.
+
+4 - Sendo o protesto posterior à efectivação de algum rateio, deve ser atribuído aos credores em causa, em rateios ulteriores, o montante adicional necessário ao restabelecimento da igualdade com os credores equiparados, sem prejuízo da manutenção desse montante em depósito se a acção não tiver ainda decisão definitiva.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 181.º — Créditos sob condição suspensiva
+
+1 - Os créditos sob condição suspensiva são atendidos pelo seu valor nominal nos rateios parciais, devendo continuar, porém, depositadas as quantias que por estes lhes sejam atribuídas, na pendência da condição.
+
+2 - No rateio final, todavia, não estando preenchida a condição:
+
+a) Não se atenderá a crédito que seja desprovido de qualquer valor em virtude da manifesta improbabilidade da verificação da condição, hipótese em que as quantias depositadas nos termos do número anterior serão rateadas pelos demais credores;
+
+b) Não se verificando a situação descrita na alínea anterior, o administrador da insolvência depositará em instituição de crédito a quantia correspondente ao valor nominal do crédito para ser entregue ao titular, uma vez preenchida a condição suspensiva, ou rateada pelos demais credores, depois de adquirida a certeza de que tal verificação é impossível.
+
+### Artigo 182.º — Rateio final
+
+1 - Encerrada a liquidação da massa insolvente, é elaborada a conta pela secretaria do tribunal, no prazo de 10 dias, não sendo o encerramento da liquidação prejudicado pela circunstância de a atividade do devedor gerar rendimentos que acresceriam à massa.
+
+2 - As sobras de liquidação, que nem sequer cubram as despesas do rateio, são atribuídas ao organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça.
+
+3 - Após julgadas as contas e paga a conta de custas, no prazo de 10 dias, o administrador da insolvência apresenta no processo proposta de distribuição e de rateio final, acompanhada da respetiva documentação de suporte caso seja diferente daquela que já existe no processo, e procede à publicação da proposta na Área de Serviços Digitais dos Tribunais, dispondo a comissão de credores, caso tenha sido nomeada, e os credores de 15 dias, contados desde a data da publicação, para se pronunciarem sobre a mesma.
+
+4 - Decorrido o prazo de 15 dias previsto no número anterior, a secretaria aprecia a proposta de rateio final, elaborando para o efeito um termo nos autos, e conclui o processo ao juiz para, no prazo de 10 dias, decidir sobre as impugnações e validar a proposta.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 183.º — Pagamentos
+
+1 - Todos os pagamentos são efetuados, sem necessidade de requerimento, preferencialmente, por meio de transferência bancária para o IBAN do respetivo destinatário, sendo a quantia sacada sobre a conta da insolvência.
+
+2 - Não sendo possível efetuar o pagamento de um crédito nos termos do número anterior, o administrador da insolvência deve utilizar cheque sacado sobre a conta da insolvência.
+
+3 - Não sendo o cheque apresentado a pagamento no prazo de um ano contado desde a data do aviso ao credor, prescreve o crédito respetivo e reverte a quantia a favor do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.
+
+4 - A utilização de qualquer um dos meios de pagamento referidos nos n.os 1 e 2 não desonera o administrador da insolvência de observar os requisitos legais ou contratualmente definidos para a movimentação da conta da insolvência, aplicando-se com as necessárias adaptações, designadamente, o n.º 2 do artigo 167.º
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 184.º — Remanescente
+
+1 - Se o produto da liquidação for suficiente para o pagamento da integralidade dos créditos sobre a insolvência, o saldo é entregue ao devedor pelo administrador da insolvência.
+
+2 - Se o devedor não for uma pessoa singular, o administrador da insolvência entrega às pessoas que nele participem a parte do saldo que lhes pertenceria se a liquidação fosse efectuada fora do processo de insolvência, ou cumpre o que de diverso estiver a este respeito legal ou estatutariamente previsto.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+## Título VIII — Incidentes de qualificação da insolvência
+
+## Capítulo I — Disposições gerais
+
+### Artigo 185.º — Tipos de insolvência
+
+A insolvência é qualificada como culposa ou fortuita, mas a qualificação atribuída não é vinculativa para efeitos da decisão de causas penais, nem das ações a que se reporta o n.º 3 do artigo 82.º
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 186.º — Insolvência culposa
+
+1 - A insolvência é culposa quando a situação tiver sido criada ou agravada em consequência da actuação, dolosa ou com culpa grave, do devedor, ou dos seus administradores, de direito ou de facto, nos três anos anteriores ao início do processo de insolvência.
+
+2 - Considera-se sempre culposa a insolvência do devedor que não seja uma pessoa singular quando os seus administradores, de direito ou de facto, tenham:
+
+a) Destruído, danificado, inutilizado, ocultado, ou feito desaparecer, no todo ou em parte considerável, o património do devedor;
+
+b) Criado ou agravado artificialmente passivos ou prejuízos, ou reduzido lucros, causando, nomeadamente, a celebração pelo devedor de negócios ruinosos em seu proveito ou no de pessoas com eles especialmente relacionadas;
+
+c) Comprado mercadorias a crédito, revendendo-as ou entregando-as em pagamento por preço sensivelmente inferior ao corrente, antes de satisfeita a obrigação;
+
+d) Disposto dos bens do devedor em proveito pessoal ou de terceiros;
+
+e) Exercido, a coberto da personalidade colectiva da empresa, se for o caso, uma actividade em proveito pessoal ou de terceiros e em prejuízo da empresa;
+
+f) Feito do crédito ou dos bens do devedor uso contrário ao interesse deste, em proveito pessoal ou de terceiros, designadamente para favorecer outra empresa na qual tenham interesse directo ou indirecto;
+
+g) Prosseguido, no seu interesse pessoal ou de terceiro, uma exploração deficitária, não obstante saberem ou deverem saber que esta conduziria com grande probabilidade a uma situação de insolvência;
+
+h) Incumprido em termos substanciais a obrigação de manter contabilidade organizada, mantido uma contabilidade fictícia ou uma dupla contabilidade ou praticado irregularidade com prejuízo relevante para a compreensão da situação patrimonial e financeira do devedor;
+
+i) Incumprido, de forma reiterada, os seus deveres de apresentação e de colaboração previstos no artigo 83.º até à data da elaboração do parecer referido no n.º 6 do artigo 188.º
+
+3 - Presume-se unicamente a existência de culpa grave quando os administradores, de direito ou de facto, do devedor que não seja uma pessoa singular tenham incumprido:
+
+a) O dever de requerer a declaração de insolvência;
+
+b) A obrigação de elaborar as contas anuais, no prazo legal, de submetê-las à devida fiscalização ou de as depositar na conservatória do registo comercial.
+
+4 - O disposto nos n.os 2 e 3 é aplicável, com as necessárias adaptações, à actuação de pessoa singular insolvente e seus administradores, onde a isso não se opuser a diversidade das situações.
+
+5 - Se a pessoa singular insolvente não estiver obrigada a apresentar-se à insolvência, esta não será considerada culposa em virtude da mera omissão ou retardamento na apresentação, ainda que determinante de um agravamento da situação económica do insolvente.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 187.º — Declaração de insolvência anterior
+
+Se o devedor insolvente houver já sido como tal declarado em processo anteriormente encerrado, o incidente de qualificação da insolvência só é aberto se o não tiver sido naquele processo em virtude da aprovação de um plano de pagamentos aos credores, ou for provado que a situação de insolvência não se manteve ininterruptamente desde a data da sentença de declaração anterior.
+
+## Capítulo II — Incidente pleno de qualificação da insolvência
+
+### Artigo 188.º — Tramitação
+
+1 - O administrador da insolvência ou qualquer interessado pode alegar, fundamentadamente, por escrito, em requerimento autuado por apenso, o que tiver por conveniente para efeito da qualificação da insolvência como culposa e indicar as pessoas que devem ser afetadas por tal qualificação, no prazo perentório de 15 dias após a assembleia de apreciação do relatório ou, no caso de dispensa da realização desta, após a junção aos autos do relatório a que se refere o artigo 155.º, cabendo ao juiz conhecer dos factos alegados e, se o considerar oportuno, declarar aberto o incidente de qualificação da insolvência, nos 10 dias subsequentes.
+
+2 - O prazo de 15 dias previsto no número anterior pode ser prorrogado, quando sejam necessárias informações que não possam ser obtidas nesse período, mediante requerimento fundamentado do administrador da insolvência ou de qualquer interessado, e que não suspende o prazo em curso.
+
+3 - A prorrogação prevista no número anterior não pode, em caso algum, exceder os seis meses após a assembleia de apreciação do relatório ou, no caso de dispensa da realização desta, após a junção aos autos do relatório a que se refere o artigo 155.º
+
+4 - O juiz decide sobre o requerimento de prorrogação, sem possibilidade de recurso, no prazo de 24 horas, e a secretaria notifica imediatamente ao requerente o despacho proferido, nos termos da segunda parte do n.º 5 e do n.º 6 do artigo 172.º do Código de Processo Civil, e publicita a decisão através de publicação na Área de Serviços Digitais dos Tribunais.
+
+5 - O despacho que declara aberto o incidente de qualificação da insolvência é irrecorrível, sendo de imediato publicado no portal Citius.
+
+6 - Declarado aberto o incidente, o administrador da insolvência, quando não tenha proposto a qualificação da insolvência como culposa nos termos do n.º 1, apresenta, no prazo de 20 dias, se não for fixado prazo mais longo pelo juiz, parecer, devidamente fundamentado e documentado, sobre os factos relevantes, que termina com a formulação de uma proposta, identificando, se for caso disso, as pessoas que devem ser afetadas pela qualificação da insolvência como culposa.
+
+7 - O parecer e as alegações referidos nos números anteriores vão com vista ao Ministério Público, para que este se pronuncie, no prazo de 10 dias.
+
+8 - Se tanto o administrador da insolvência como o Ministério Público propuserem a qualificação da insolvência como fortuita, o juiz pode proferir de imediato decisão nesse sentido, a qual é insuscetível de recurso.
+
+9 - Caso não exerça a faculdade que lhe confere o número anterior, o juiz manda notificar o devedor e citar pessoalmente aqueles que em seu entender devam ser afetados pela qualificação da insolvência como culposa para se oporem, querendo, no prazo de 15 dias; a notificação e as citações são acompanhadas dos pareceres do administrador da insolvência e do Ministério Público e dos documentos que os instruam.
+
+10 - O administrador da insolvência, o Ministério Público e qualquer interessado que assuma posição contrária à das oposições pode responder-lhe dentro dos 10 dias subsequentes ao termo do prazo referido no número anterior.
+
+11 - É aplicável às oposições e às respostas, bem como à tramitação ulterior do incidente da qualificação da insolvência, o disposto nos artigos 132.º a 139.º, com as devidas adaptações.
+
+12 - A instância suspende-se no caso de falecer um dos propostos afetados nos termos do n.º 9.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 189.º — Sentença de qualificação
+
+1 - A sentença qualifica a insolvência como culposa ou como fortuita.
+
+2 - Na sentença que qualifique a insolvência como culposa, o juiz deve:
+
+a) Identificar as pessoas, nomeadamente administradores, de direito ou de facto, técnicos oficiais de contas e revisores oficiais de contas, afetadas pela qualificação, fixando, sendo o caso, o respetivo grau de culpa;
+
+b) Decretar a inibição das pessoas afetadas para administrarem patrimónios de terceiros, por um período de 2 a 10 anos;
+
+c) Declarar essas pessoas inibidas para o exercício do comércio durante um período de 2 a 10 anos, bem como para a ocupação de qualquer cargo de titular de órgão de sociedade comercial ou civil, associação ou fundação privada de actividade económica, empresa pública ou cooperativa;
+
+d) Determinar a perda de quaisquer créditos sobre a insolvência ou sobre a massa insolvente detidos pelas pessoas afectadas pela qualificação e a sua condenação na restituição dos bens ou direitos já recebidos em pagamento desses créditos.
+
+e) Condenar as pessoas afetadas a indemnizarem os credores do devedor declarado insolvente até ao montante máximo dos créditos não satisfeitos, considerando as forças dos respetivos patrimónios, sendo tal responsabilidade solidária entre todos os afetados.
+
+3 - A inibição para o exercício do comércio tal como a inibição para a administração de patrimónios alheios são oficiosamente registadas na conservatória do registo civil, e bem assim, quando a pessoa afetada for comerciante em nome individual, na conservatória do registo comercial, com base em comunicação eletrónica ou telemática da secretaria, acompanhada de extrato da sentença.
+
+4 - Ao aplicar o disposto na alínea e) do n.º 2, o juiz deve fixar o valor das indemnizações devidas ou, caso tal não seja possível em virtude de o tribunal não dispor dos elementos necessários para calcular o montante dos prejuízos sofridos, os critérios a utilizar para a sua quantificação, a efetuar em liquidação de sentença.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Declarada Inconstitucionalidade pelo/a Acórdão do Tribunal Constitucional n.º 173/2009 - Diário da República n.º 85/2009, Série I de 2009-05-04
+
+> Nota: Artigo 2.º, Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11 A presente redação da alínea b) do n.º 2, é posterior à Declaração de Inconstitucionalidade proferida pelo Acórdão do Tribunal Constitucional n.º 173/2009, de 4 de maio.
+
+> Nota: Acórdão do Tribunal Constitucional n.º 173/2009 - Diário da República n.º 85/2009, Série I de 2009-05-04 Declarada, com força obrigatória geral, a inconstitucionalidade da al. b) do n.º 2 do art. 189.º do Código da Insolvência e da Recuperação de Empresas, na medida em que impõe que o juiz, na sentença que qualifique a insolvência como culposa, decrete a inabilitação do administrador da sociedade comercial declarada insolvente.
+
+### Artigo 190.º — Suprimento da inabilidade
+
+1 - O juiz, ouvidos os interessados, nomeia um curador para cada um dos inabilitados, fixando os poderes que lhe competem.
+
+2 - A nomeação do curador assim como a respectiva destituição estão sujeitas a registo, nos termos do n.º 3 do artigo anterior.
+
+> Revogado pelo/a Artigo 5.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+## Capítulo III — Incidente limitado de qualificação da insolvência
+
+### Artigo 191.º — Regras aplicáveis
+
+1 - O incidente limitado de qualificação de insolvência aplica-se nos casos previstos no n.º 1 do artigo 39.º e no n.º 5 do artigo 232.º e rege-se pelo disposto nos artigos 188.º e 189.º, com as seguintes adaptações:
+
+a) O prazo para o administrador da insolvência ou qualquer interessado alegar o que tiver por conveniente para o efeito da qualificação da insolvência como culposa é, nos casos do n.º 1 do artigo 39.º, de 45 dias contados da data da sentença de declaração de insolvência e, quando aplicável, o prazo para o administrador de insolvência apresentar o seu parecer é de 15 dias;
+
+b) Os documentos da escrituração do insolvente são patenteados pelo próprio a fim de poderem ser examinados por qualquer interessado;
+
+c) Da sentença que qualifique a insolvência como culposa constam apenas as menções referidas nas alíneas a) a c) e e) do n.º 2 do artigo 189.º
+
+2 - É aplicável o disposto no artigo 83.º na medida do necessário ou conveniente para a elaboração do parecer do administrador da insolvência, sendo-lhe designadamente facultado o exame a todos os elementos da contabilidade do devedor.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+## Título IX — Plano de insolvência
+
+## Capítulo I — Disposições gerais
+
+### Artigo 192.º — Princípio geral
+
+1 - O pagamento dos créditos sobre a insolvência, a liquidação da massa insolvente e a sua repartição pelos titulares daqueles créditos e pelo devedor, bem como a responsabilidade do devedor depois de findo o processo de insolvência, podem ser regulados num plano de insolvência em derrogação das normas do presente Código.
+
+2 - O plano só pode afectar por forma diversa a esfera jurídica dos interessados, ou interferir com direitos de terceiros, na medida em que tal seja expressamente autorizado neste título ou consentido pelos visados.
+
+3 - O plano que se destine a prover à recuperação do devedor designa-se plano de recuperação, devendo tal menção constar em todos os documentos e publicações respeitantes ao mesmo.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 193.º — Legitimidade
+
+1 - Podem apresentar proposta de plano de insolvência o administrador da insolvência, o devedor, qualquer pessoa que responda legalmente pelas dívidas da insolvência e qualquer credor ou grupo de credores cujos créditos representem pelo menos um quinto do total dos créditos não subordinados reconhecidos na sentença de verificação e graduação de créditos, ou na estimativa do juiz, se tal sentença ainda não tiver sido proferida.
+
+2 - O administrador da insolvência deve apresentar em prazo razoável a proposta de plano de insolvência de cuja elaboração seja encarregado pela assembleia de credores.
+
+3 - O administrador elabora a proposta de plano de insolvência em colaboração com a comissão de credores, se existir, com a comissão ou representantes dos trabalhadores e com o devedor, devendo conformar-se com as directrizes que tenham sido aprovadas em assembleia de credores, quando a proposta não seja de sua iniciativa.
+
+### Artigo 194.º — Princípio da igualdade
+
+1 - O plano de insolvência obedece ao princípio da igualdade dos credores da insolvência, sem prejuízo das diferenciações justificadas por razões objectivas.
+
+2 - O tratamento mais desfavorável relativamente a outros credores em idêntica situação depende do consentimento do credor afectado, o qual se considera tacitamente prestado no caso de voto favorável.
+
+3 - É nulo qualquer acordo em que o administrador da insolvência, o devedor ou outrem confira vantagens a um credor não incluídas no plano de insolvência em contrapartida de determinado comportamento no âmbito do processo de insolvência, nomeadamente quanto ao exercício do direito de voto.
+
+### Artigo 195.º — Conteúdo do plano
+
+1 - O plano de insolvência deve indicar claramente as alterações dele decorrentes para as posições jurídicas dos credores da insolvência.
+
+2 - O plano de insolvência deve indicar a sua finalidade, descreve as medidas necessárias à sua execução, já realizadas ou ainda a executar, e contém todos os elementos relevantes para efeitos da sua aprovação pelos credores e homologação pelo juiz, nomeadamente:
+
+a) A identificação da empresa, indicando o seu nome ou firma, sede, número de identificação fiscal ou número de identificação de pessoa coletiva, e do administrador da insolvência nomeado;
+
+b) A descrição da situação patrimonial, financeira e reditícia do devedor;
+
+c) A indicação sobre se os meios de satisfação dos credores serão obtidos através de liquidação da massa insolvente, de recuperação do titular da empresa ou da transmissão da empresa a outra entidade;
+
+d) No caso de se prever a manutenção em atividade da empresa, na titularidade do devedor ou de terceiro, e pagamentos aos credores à custa dos respetivos rendimentos, o plano de investimentos, a conta de exploração previsional, a demonstração previsional de fluxos de caixa pelo período de ocorrência daqueles pagamentos, especificando fundamentadamente os principais pressupostos subjacentes a essas previsões, e o balanço pró-forma, em que os elementos do ativo e do passivo, tal como resultantes da homologação do plano de insolvência, são inscritos pelos respetivos valores;
+
+e) As formas de informação e consulta dos representantes dos trabalhadores, a posição dos trabalhadores na empresa e, se for caso disso, as consequências gerais relativamente ao emprego, designadamente despedimentos, redução temporária dos períodos normais de trabalho ou suspensão dos contratos de trabalho;
+
+f) O impacte expectável das alterações propostas, por comparação com a situação que se verificaria na ausência de qualquer plano de insolvência;
+
+g) A indicação dos credores que não são afetados pelo plano de insolvência, juntamente com uma descrição das razões pelas quais o plano não os afeta;
+
+h) Qualquer novo financiamento previsto no âmbito do plano de insolvência e as razões pelas quais esse novo financiamento é necessário para executar o plano;
+
+i) A indicação dos preceitos legais derrogados e do âmbito dessa derrogação.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 196.º — Providências com incidência no passivo
+
+1 - O plano de insolvência pode, nomeadamente, conter as seguintes providências com incidência no passivo do devedor:
+
+a) O perdão ou redução do valor dos créditos sobre a insolvência, quer quanto ao capital, quer quanto aos juros, com ou sem cláusula «salvo regresso de melhor fortuna»;
+
+b) O condicionamento do reembolso de todos os créditos ou de parte deles às disponibilidades do devedor;
+
+c) A modificação dos prazos de vencimento ou das taxas de juro dos créditos;
+
+d) A constituição de garantias;
+
+e) A cessão de bens aos credores.
+
+2 - O plano de insolvência não pode afectar as garantias reais e os privilégios creditórios gerais acessórios de créditos detidos pelo Banco Central Europeu, por bancos centrais de um Estado membro da União Europeia e por participantes num sistema de pagamentos tal como definido pela alínea a) do artigo 2.º da Directiva n.º 98/26/CE, do Parlamento Europeu e do Conselho, de 19 de Maio, ou equiparável, em decorrência do funcionamento desse sistema.
+
+### Artigo 197.º — Ausência de regulamentação expressa
+
+Na ausência de estatuição expressa em sentido diverso constante do plano de insolvência:
+
+a) Os direitos decorrentes de garantias reais e de privilégios creditórios não são afectados pelo plano;
+
+b) Os créditos subordinados consideram-se objecto de perdão total;
+
+c) O cumprimento do plano exonera o devedor e os responsáveis legais da totalidade das dívidas da insolvência remanescentes.
+
+### Artigo 198.º — Providências específicas de sociedades comerciais
+
+1 - Se o devedor for uma sociedade comercial, o plano de insolvência pode ser condicionado à adopção e execução, pelos órgãos sociais competentes, de medidas que não consubstanciem meros actos de disposição do património societário, sem prejuízo do n.º 1 do artigo 201.º
+
+2 - Podem, porém, ser adoptados pelo próprio plano de insolvência:
+
+a) Uma redução do capital social para cobertura de prejuízos, incluindo para zero ou outro montante inferior ao mínimo estabelecido na lei para o respectivo tipo de sociedade, desde que, neste caso, a redução seja acompanhada de aumento do capital para montante igual ou superior àquele mínimo;
+
+b) Um aumento do capital social, em dinheiro ou em espécie, a subscrever por terceiros ou por credores, nomeadamente mediante a conversão de créditos em participações sociais, com ou sem respeito pelo direito de preferência dos sócios legal ou estatutariamente previsto;
+
+c) A alteração dos estatutos da sociedade;
+
+d) A transformação da sociedade noutra de tipo distinto;
+
+e) A alteração dos órgãos sociais;
+
+f) A exclusão de todos os sócios, tratando-se de sociedade em nome colectivo ou em comandita simples, acompanhada da admissão de novos sócios;
+
+g) A exclusão dos sócios comanditados acompanhada da redução do capital a zero nos termos da alínea a), tratando-se de sociedade em comandita por acções.
+
+3 - A redução de capital a zero só é admissível se for de presumir que, em liquidação integral do património da sociedade, não subsistiria qualquer remanescente a distribuir pelos sócios.
+
+4 - A aprovação de aumento de capital sem concessão de preferência aos sócios, ainda que por entradas em espécie, pressupõe, em alternativa, que:
+
+a) O capital da sociedade seja previamente reduzido a zero;
+
+b) A medida não acarrete desvalorização das participações que os sócios conservem.
+
+5 - A adopção das medidas previstas nas alíneas c) a e) do n.º 2, a menos que o capital tenha sido reduzido a zero ou todos os sócios hajam sido excluídos, depende, cumulativamente, de que:
+
+a) Do plano de insolvência faça parte igualmente um aumento de capital da sociedade destinado, no todo ou em parte, a não sócios;
+
+b) Tais medidas pudessem, segundo a lei e o pacto da sociedade, ser deliberadas em assembleia geral dos sócios, e que do aumento decorra para o conjunto dos credores e terceiros participantes a maioria para esse efeito legal ou estatutariamente estabelecida.
+
+6 - As medidas previstas nas alíneas f) e g) do n.º 2 pressupõem o pagamento aos sócios excluídos da contrapartida adequada, caso as partes sociais não sejam destituídas de qualquer valor.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 199.º — Saneamento por transmissão
+
+O plano de insolvência que preveja a constituição de uma ou mais sociedades, neste Código designadas por nova sociedade ou sociedades, destinadas à exploração de um ou mais estabelecimentos adquiridos à massa insolvente mediante contrapartida adequada contém, em anexo, os estatutos da nova ou novas sociedades e provê quanto ao preenchimento dos órgãos sociais.
+
+### Artigo 200.º — Proposta com conteúdos alternativos
+
+Se o plano de insolvência oferecer a todos os credores, ou a algum ou alguns deles, várias opções em alternativa, deve indicar qual a aplicável se, no prazo fixado para o efeito, não for exercida a faculdade de escolha.
+
+### Artigo 201.º — Actos prévios à homologação e condições
+
+1 - A aposição de condições suspensivas ao plano de insolvência só é lícita tratando-se da realização de prestações ou da execução de outras medidas que devam ocorrer antes da homologação pelo juiz.
+
+2 - Se o plano de insolvência contemplar um aumento do capital social da sociedade devedora ou um saneamento por transmissão, a subscrição das participações sociais ocorre anteriormente à homologação, assim como a realização integral das entradas em dinheiro, mediante depósito à ordem do administrador da insolvência, a emissão das declarações de que se transmitem as entradas em espécie e a verificação do valor destas pelo revisor oficial de contas designado no plano.
+
+3 - Ao plano de insolvência não podem ser apostas condições resolutivas, sem prejuízo do disposto no artigo 218.º
+
+### Artigo 202.º — Consentimentos
+
+1 - A proposta de plano de insolvência segundo o qual o devedor deva continuar a exploração da empresa é acompanhada da declaração, por parte deste, da sua disponibilidade para o efeito, sendo ele uma pessoa singular, ou, no caso de uma sociedade comercial, por parte dos sócios que mantenham essa qualidade e respondam pessoalmente pelas suas dívidas.
+
+2 - A dação de bens em pagamento dos créditos sobre a insolvência, a conversão destes em capital ou a transmissão das correspondentes dívidas com efeitos liberatórios para o antigo devedor depende da anuência dos titulares dos créditos em causa, prestada por escrito, aplicando-se o disposto na parte final do n.º 2 do artigo 194.º
+
+3 - Exceptua-se do disposto no número anterior o caso em que a dação em pagamento de créditos comuns ou subordinados tenha por objecto créditos sobre a nova sociedade ou sociedades decorrentes da aquisição de estabelecimentos à massa.
+
+### Artigo 203.º — Conversão e extinção independentes do consentimento
+
+1 - Não carece do consentimento dos respectivos titulares a conversão de créditos comuns ou subordinados em capital da sociedade insolvente ou de uma nova sociedade, bem como a extinção desses créditos por contrapartida da atribuição de opções de compra de participações representativas do respectivo capital social liberadas por conversão de créditos sobre a insolvência de grau hierarquicamente superior, válidas pelo período mínimo de 60 dias contados da data do registo do aumento de capital ou da constituição da nova sociedade, e livremente transmissíveis, consoante o caso, desde que, em qualquer das situações, e ainda que em consequência do plano:
+
+a) A sociedade emitente revista a forma de sociedade anónima;
+
+b) Dos respectivos estatutos não constem quaisquer restrições à transmissibilidade das acções;
+
+c) Dos respectivos estatutos conste a obrigatoriedade de ser requerida a admissão imediata das acções à cotação a mercado regulamentado, ou logo que verificados os requisitos exigidos;
+
+d) Dos respetivos estatutos conste a insuscetibilidade de uma alteração que contrarie o disposto nas alíneas b) e c), exceto por unanimidade, enquanto a sociedade mantiver ações admitidas à negociação em mercado regulamentado.
+
+2 - O preço de exercício das opções de compra referidas no número anterior é igual ao valor nominal dos créditos empregues na liberação das acções a adquirir; o exercício das opções por parte dos titulares de créditos de certo grau faz caducar, na proporção que couber, as opções atribuídas aos titulares de créditos de grau hierarquicamente superior, pressupondo o pagamento a estes últimos do valor nominal dos créditos extintos por contrapartida da atribuição das opções caducadas.
+
+3 - A sociedade emitente das acções objecto das opções de compra emite, no prazo de 10 dias, títulos representativos dessas opções a pedido dos respectivos titulares, formulado após a homologação do plano de insolvência.
+
+> Alterado pelo/a Artigo 12.º do/a Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31, em vigor a partir de 2022-01-30
+
+### Artigo 204.º — Qualidade de sociedade aberta
+
+É considerada sociedade com o capital aberto ao investimento do público a sociedade emitente de acções em que sejam convertidos créditos sobre a insolvência independentemente do consentimento dos respectivos titulares.
+
+> Revogado pelo/a Artigo 21.º do/a Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31, em vigor a partir de 2022-01-30
+
+### Artigo 205.º — Oferta de valores mobiliários
+
+O disposto no Código dos Valores Mobiliários e legislação complementar não é aplicável:
+
+a) À oferta de valores mobiliários da sociedade devedora ou da nova sociedade ou sociedades, na parte dirigida a credores, e que estes devam liberar integralmente através da dação em pagamento de créditos sobre o devedor insolvente;
+
+b) À oferta coenvolvida na atribuição de opções de compra que satisfaçam os requisitos previstos nos n.os 1 e 2 do artigo 203.º, bem como a oferta dirigida à respectiva aquisição;
+
+c) À ultrapassagem dos limiares de obrigatoriedade do lançamento de uma oferta pública de aquisição decorrente do exercício de tais opções de compra, ou da aquisição de acções em aumento de capital da sociedade insolvente previsto no plano de insolvência.
+
+### Artigo 206.º — Suspensão da liquidação e partilha
+
+1 - A requerimento do respectivo proponente, o juiz decreta a suspensão da liquidação da massa insolvente e da partilha do produto pelos credores da insolvência se tal for necessário para não pôr em risco a execução de um plano de insolvência proposto.
+
+2 - O juiz deve, porém, abster-se de ordenar a suspensão, ou proceder ao levantamento de suspensão já decretada, se a medida envolver o perigo de prejuízos consideráveis para a massa insolvente, ou o prosseguimento da liquidação e da partilha lhe for requerido pelo administrador da insolvência, com o acordo da comissão de credores, se existir, ou da assembleia de credores.
+
+3 - Aplica-se o disposto na alínea b) do n.º 4 e no n.º 5 do artigo 156.º, com as devidas adaptações.
+
+### Artigo 207.º — Não admissão da proposta de plano de insolvência
+
+1 - O juiz não admite a proposta de plano de insolvência:
+
+a) Se houver violação dos preceitos sobre a legitimidade para apresentar a proposta ou sobre o conteúdo do plano e os vícios forem insupríveis ou não forem sanados no prazo razoável que fixar para o efeito;
+
+b) Quando a aprovação do plano pela assembleia de credores ou a posterior homologação pelo juiz forem manifestamente inverosímeis;
+
+c) Quando o plano for manifestamente inexequível;
+
+d) Quando, sendo o proponente o devedor, o administrador da insolvência se opuser à admissão, com o acordo da comissão de credores, se existir, contanto que anteriormente tenha já sido apresentada pelo devedor e admitida pelo juiz alguma proposta de plano.
+
+2 - Da decisão de admissão da proposta de plano de insolvência não cabe recurso.
+
+### Artigo 208.º — Recolha de pareceres
+
+Admitida a proposta de plano de insolvência, o juiz notifica a comissão de trabalhadores, ou, na sua falta, os representantes designados pelos trabalhadores, a comissão de credores, se existir, o devedor e o administrador da insolvência, para se pronunciarem, no prazo de 10 dias.
+
+## Capítulo II — Aprovação e homologação do plano de insolvência
+
+### Artigo 209.º — Convocação da assembleia de credores
+
+1 - O juiz convoca a assembleia de credores para discutir e votar a proposta de plano de insolvência nos termos do artigo 75.º, mas com a antecedência mínima de 20 dias, e devendo do anúncio e das circulares constar adicionalmente que a proposta de plano de insolvência se encontra à disposição dos interessados, para consulta, na secretaria do tribunal, desde a data da convocação, e que o mesmo sucederá com os pareceres eventualmente emitidos pelas entidades referidas no artigo anterior, durante os 10 dias anteriores à data da assembleia.
+
+2 - A assembleia de credores convocada para os fins do número anterior não se pode reunir antes de transitada em julgado a sentença de declaração de insolvência, de esgotado o prazo para a impugnação da lista de credores reconhecidos e da realização da assembleia de apreciação de relatório.
+
+3 - O Plano de insolvência aprovado antes do trânsito em julgado da sentença de verificação e graduação dos créditos acautela os efeitos da eventual procedência das impugnações da lista de credores reconhecidos ou dos recursos interpostos dessa sentença, de forma a assegurar que, nessa hipótese, seja concedido aos créditos controvertidos o tratamento devido.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 210.º — Alterações do plano de insolvência na assembleia de credores
+
+O plano de insolvência pode ser modificado na própria assembleia pelo proponente, e posto à votação na mesma sessão com as alterações introduzidas, desde que estas, ainda que substanciais quanto a aspectos particulares de regulamentação, não contendam com o próprio cerne ou estrutura do plano ou com a finalidade prosseguida.
+
+### Artigo 211.º — Votação por escrito
+
+1 - Finda a discussão do plano de insolvência, o juiz pode determinar que a votação tenha lugar por escrito, em prazo não superior a 10 dias; na votação apenas podem participar os titulares de créditos com direito de voto presentes ou representados na assembleia.
+
+2 - O voto escrito deve conter a aprovação ou rejeição da proposta de plano de insolvência; qualquer proposta de modificação deste ou condicionamento do voto implica rejeição da proposta.
+
+### Artigo 212.º — Quórum
+
+1 - A proposta de plano de insolvência considera-se aprovada se, estando presentes ou representados na reunião credores cujos créditos constituam, pelo menos, um terço do total dos créditos com direito de voto, recolher mais de 50 % da totalidade dos votos emitidos e, nestes, estejam compreendidos mais de metade dos votos correspondentes a créditos não subordinados com direito de voto, não se considerando como tal as abstenções.
+
+2 - Não conferem direito de voto:
+
+a) Os créditos que não sejam modificados pela parte dispositiva do plano;
+
+b) Os créditos subordinados de determinado grau, se o plano decretar o perdão integral de todos os créditos de graus hierarquicamente inferiores e não atribuir qualquer valor económico ao devedor ou aos respectivos sócios, associados ou membros, consoante o caso.
+
+3 - Cessa o disposto na alínea a) do número anterior, se, por aplicação desse preceito, em conjugação com o da alínea b), todos os créditos resultassem privados do direito de voto.
+
+4 - Considera-se, designadamente, que o plano de insolvência atribui um valor aos sócios de uma sociedade comercial se esta houver de continuar a exploração da empresa e o plano não contemplar uma redução a zero do respectivo capital.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 213.º — Publicidade da deliberação
+
+A deliberação de aprovação de um plano de insolvência é objecto de imediata publicação, nos termos prescritos no artigo 75.º, aplicáveis com as devidas adaptações.
+
+### Artigo 214.º — Prazo para a homologação
+
+A sentença de homologação do plano de insolvência só pode ser proferida decorridos pelo menos 10 dias sobre a data da respectiva aprovação, ou, tendo o plano sido objecto de alterações na própria assembleia, sobre a data da publicação da deliberação.
+
+### Artigo 215.º — Não homologação oficiosa
+
+O juiz recusa oficiosamente a homologação do plano de insolvência aprovado em assembleia de credores no caso de violação não negligenciável de regras procedimentais ou das normas aplicáveis ao seu conteúdo, qualquer que seja a sua natureza, e ainda quando, no prazo razoável que estabeleça, não se verifiquem as condições suspensivas do plano ou não sejam praticados os actos ou executadas as medidas que devam preceder a homologação.
+
+### Artigo 216.º — Não homologação a solicitação dos interessados
+
+1 - O juiz recusa ainda a homologação se tal lhe for solicitado pelo devedor, caso este não seja o proponente e tiver manifestado nos autos a sua oposição, anteriormente à aprovação do plano de insolvência, ou por algum credor ou sócio, associado ou membro do devedor cuja oposição haja sido comunicada nos mesmos termos, contanto que o requerente demonstre em termos plausíveis, em alternativa, que:
+
+a) A sua situação ao abrigo do plano é previsivelmente menos favorável do que a que interviria na ausência de qualquer plano, designadamente face à situação resultante de acordo já celebrado em procedimento extrajudicial de regularização de dívidas;
+
+b) O plano proporciona a algum credor um valor económico superior ao montante nominal dos seus créditos sobre a insolvência, acrescido do valor das eventuais contribuições que ele deva prestar.
+
+2 - Se o plano de insolvência tiver sido objecto de alterações na própria assembleia, é dispensada a manifestação da oposição por parte de quem não tenha estado presente ou representado.
+
+3 - Cessa o disposto no n.º 1 caso o oponente seja o devedor, um seu sócio, associado ou membro, ou um credor comum ou subordinado, se o plano de insolvência previr, cumulativamente:
+
+a) A extinção integral dos créditos garantidos e privilegiados por conversão em capital da sociedade devedora ou de uma nova sociedade ou sociedades, na proporção dos respectivos valores nominais;
+
+b) A extinção de todos os demais créditos por contrapartida da atribuição de opções de compra conformes com o disposto nos n.os 1 e 2 do artigo 203.º relativamente à totalidade das acções assim emitidas;
+
+c) A concessão ao devedor ou, se for o caso, aos respectivos sócios, associados ou membros, na proporção das respectivas participações, de opções de compra da totalidade das acções emitidas, contanto que o seu exercício determine a caducidade das opções atribuídas aos credores e pressuponha o pagamento do valor nominal dos créditos extintos por contrapartida da atribuição das opções caducadas.
+
+4 - Se, respeitando-se quanto ao mais o previsto no número anterior, a conversão dos créditos em capital da sociedade devedora ou de uma nova sociedade ou sociedades não abranger apenas algum ou alguns dos créditos garantidos e privilegiados, ou for antes relativa à integralidade dos créditos comuns e somente a estes, o pedido de não homologação apresentado pelo devedor, pelos seus sócios, associados ou membros, ou por um credor comum ou subordinado, somente se pode basear na circunstância de o plano de insolvência proporcionar aos titulares dos créditos garantidos ou privilegiados excluídos da conversão, por contrapartida dos mesmos, um valor económico superior ao respectivo montante nominal.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+## Capítulo III — Execução do plano de insolvência e seus efeitos
+
+### Artigo 217.º — Efeitos gerais
+
+1 - Com a sentença de homologação produzem-se as alterações dos créditos sobre a insolvência introduzidas pelo plano de insolvência, independentemente de tais créditos terem sido, ou não, reclamados ou verificados.
+
+2 - A sentença homologatória confere eficácia a quaisquer atos ou negócios jurídicos previstos no plano de insolvência, independentemente da forma legalmente prevista, desde que constem do processo, por escrito, as necessárias declarações de vontade de terceiros e dos credores que o não tenham votado favoravelmente, ou que, nos termos do plano, devessem ser emitidas posteriormente à aprovação, mas prescindindo-se das declarações de vontade do devedor cujo consentimento não seja obrigatório nos termos das disposições do presente Código e da nova sociedade ou sociedades a constituir.
+
+3 - A sentença homologatória constitui, designadamente, título bastante para:
+
+a) A constituição da nova sociedade ou sociedades e para a transmissão em seu benefício dos bens e direitos que deva adquirir, bem como para a realização dos respetivos registos;
+
+b) A redução de capital, aumento de capital, modificação dos estatutos, transformação, exclusão de sócios e alteração dos órgãos sociais da sociedade devedora, bem como para a realização dos respetivos registos.
+
+4 - As providências previstas no plano de insolvência com incidência no passivo do devedor não afetam a existência nem o montante dos direitos dos credores da insolvência, designadamente os que votem favoravelmente o plano, contra os codevedores ou os terceiros garantes da obrigação, mas estes sujeitos apenas podem agir contra o devedor em via de regresso nos termos em que o credor da insolvência pudesse exercer contra ele os seus direitos.
+
+5 - A sentença homologatória produz de imediato os efeitos referidos nos n.os 1 a 3, ainda que seja interposto recurso.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 218.º — Incumprimento
+
+1 - Salvo disposição expressa do plano de insolvência em sentido diverso, a moratória ou o perdão previstos no plano ficam sem efeito:
+
+a) Quanto a crédito relativamente ao qual o devedor se constitua em mora, se a prestação, acrescida dos juros moratórios, não for cumprida no prazo de 15 dias após interpelação escrita pelo credor;
+
+b) Quanto a todos os créditos se, antes de finda a execução do plano, o devedor for declarado em situação de insolvência em novo processo.
+
+2 - A mora do devedor apenas tem os efeitos previstos na alínea a) do número anterior se disser respeito a créditos reconhecidos pela sentença de verificação de créditos ou por outra decisão judicial, ainda que não transitadas em julgado.
+
+3 - Os efeitos previstos no n.º 1 podem ser associados pelo plano a acontecimentos de outro tipo desde que ocorridos dentro do período máximo de três anos contados da data da sentença homologatória.
+
+### Artigo 219.º — Dívidas da massa insolvente
+
+Antes do encerramento do processo que decorra da aprovação do plano de insolvência, o administrador da insolvência procede ao pagamento das dívidas da massa insolvente; relativamente às dívidas litigiosas, o administrador da insolvência acautela os eventuais direitos dos credores por meio de caução, prestada nos termos do Código de Processo Civil.
+
+### Artigo 220.º — Fiscalização
+
+1 - O plano de insolvência que implique o encerramento do processo pode prever que a sua execução seja fiscalizada pelo administrador da insolvência e que a autorização deste seja necessária para a prática de determinados atos pelo devedor ou pela nova sociedade ou sociedades; é aplicável neste último caso, com as devidas adaptações, o disposto no n.º 6 do artigo 81.º
+
+2 - O administrador da insolvência:
+
+a) Informa anualmente o juiz e a comissão de credores, se existir, do estado da execução e das perspectivas de cumprimento do plano de insolvência pelo devedor;
+
+b) Presta à comissão de credores e ao juiz as informações que lhe forem requeridas;
+
+c) Informa de imediato o juiz e a comissão de credores, ou, não existindo esta, todos os titulares de créditos reconhecidos, da existência ou inevitabilidade de situações de incumprimento.
+
+3 - O administrador da insolvência representa o devedor nas acções de impugnação da resolução de actos em benefício da massa insolvente durante o período de fiscalização, se o plano de insolvência assim o determinar de modo expresso.
+
+4 - Para o efeito dos números anteriores, o administrador da insolvência e os membros da comissão de credores mantêm-se em funções e subsiste a fiscalização pelo juiz não obstante o encerramento do processo de insolvência.
+
+5 - O plano de insolvência fixa a remuneração do administrador da insolvência durante o período de fiscalização, bem como as despesas a cujo reembolso têm direito quer o administrador quer os membros da comissão de credores; os custos da fiscalização são suportados pelo devedor ou pela nova sociedade ou sociedades, consoante o caso.
+
+6 - A fiscalização não se pode prolongar por mais de três anos e termina logo que estejam satisfeitos os créditos sobre a insolvência, nas percentagens previstas no plano de insolvência, ou que, em novo processo, seja declarada a situação de insolvência do devedor ou da nova sociedade ou sociedades; o juiz profere decisão confirmando o fim do período de fiscalização, a requerimento do administrador da insolvência, do devedor ou da nova sociedade ou sociedades.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 221.º — Prioridade a novos créditos
+
+1 - No caso de fiscalização da sua execução pelo administrador da insolvência, o plano da insolvência pode estipular que terão prioridade sobre os créditos sobre a insolvência, em novo processo de insolvência aberto antes de findo o período de fiscalização, os créditos que, até certo limite global, sejam constituídos nesse período, desde que essa prioridade lhes seja reconhecida expressamente e por escrito, com indicação do montante abrangido e confirmação pelo administrador da insolvência.
+
+2 - A prioridade reconhecida pelo número anterior é igualmente válida face a outros créditos de fonte contratual constituídos durante o período da fiscalização.
+
+### Artigo 222.º — Publicidade
+
+1 - Sendo a execução do plano de insolvência objecto de fiscalização, a publicação e registo da decisão de encerramento do processo de insolvência incluirão a referência a esse facto, com divulgação, se for o caso, dos actos cuja prática depende do consentimento do administrador da insolvência e do limite dentro do qual é lícita a concessão de prioridade a novos créditos, nos termos do artigo anterior.
+
+2 - A confirmação pelo juiz do fim do período de fiscalização é publicada e registada, nos termos previstos para a decisão de encerramento do processo de insolvência.
+
+### Artigo 222.º-A — Finalidade e natureza do processo especial para acordo de pagamento
+
+1 - O processo especial para acordo de pagamento destina-se a permitir ao devedor que, não sendo uma empresa e comprovadamente se encontre em situação económica difícil ou em situação de insolvência meramente iminente, estabelecer negociações com os respetivos credores de modo a concluir com estes acordo de pagamento.
+
+2 - O processo referido no número anterior pode ser utilizado por qualquer devedor que, preenchendo os requisitos ali previstos, o ateste, mediante declaração escrita e assinada.
+
+3 - O processo especial para acordo de pagamento tem caráter urgente, aplicando-se-lhe todas as regras previstas no presente Código que não sejam incompatíveis com a sua natureza.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-B — Noção de situação económica difícil
+
+Para efeitos do presente processo, encontra-se em situação económica difícil o devedor que enfrentar dificuldade séria para cumprir pontualmente as suas obrigações, designadamente por ter falta de liquidez ou por não conseguir obter crédito.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-C — Requerimento e formalidades
+
+1 - O processo especial para acordo de pagamento inicia-se pela manifestação de vontade do devedor e de pelo menos um dos seus credores, por meio de declaração escrita, de encetarem negociações conducentes à elaboração de acordo de pagamento.
+
+2 - A declaração referida no número anterior deve ser assinada por todos os declarantes, da mesma constando a data da assinatura.
+
+3 - O devedor apresenta no tribunal competente para declarar a sua insolvência requerimento comunicando a manifestação de vontade referida no n.º 1, acompanhado dos seguintes elementos:
+
+a) A declaração escrita referida nos números anteriores;
+
+b) Lista de todas as ações de cobrança de dívida pendentes contra o devedor, comprovativo da declaração de rendimentos deste, comprovativo da sua situação profissional ou, se aplicável, situação de desemprego, bem como cópias dos documentos elencados nas alíneas a), d) e e) do n.º 1 do artigo 24.º, ficando esta documentação disponível na secretaria para consulta dos credores durante todo o processo.
+
+4 - Recebido o requerimento referido no número anterior, o juiz nomeia de imediato, por despacho, administrador judicial provisório, aplicando-se o disposto no n.º 1 do artigo 32.º e nos artigos 33.º e 34.º com as devidas adaptações.
+
+5 - O despacho de nomeação a que se refere o número anterior é irrecorrível, sendo de imediato notificado ao devedor, aplicando-se o disposto nos artigos 37.º e 38.º com as devidas adaptações.
+
+6 - A remuneração do administrador judicial provisório é fixada pelo juiz, na própria decisão de nomeação ou posteriormente, e constitui, juntamente com as despesas em que aquele incorra no exercício das suas funções, um encargo compreendido nas custas do processo, que é suportado pelo devedor, sendo o organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça responsável pelo seu pagamento apenas no caso de o devedor beneficiar de proteção jurídica na modalidade da dispensa do pagamento da taxa de justiça e demais encargos do processo.
+
+7 - Caso o devedor venha a ser declarado insolvente na sequência da não homologação de um acordo de pagamento, a remuneração do administrador judicial provisório e as despesas em que este tenha incorrido, que não sejam pagas, constituem créditos sobre a insolvência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-D — Tramitação subsequente
+
+1 - Logo que seja notificado do despacho a que se refere o n.º 4 do artigo anterior, o devedor comunica, de imediato e por meio de carta registada, a todos os seus credores que não hajam subscrito a declaração mencionada no n.º 1 do mesmo preceito, que deu início a negociações com vista à elaboração de acordo de pagamento, convidando-os a participar, caso assim o entendam, nas negociações em curso e informando que a documentação referida na alínea b) do n.º 3 do artigo anterior se encontra patente na secretaria do tribunal, para consulta.
+
+2 - Os credores dispõem de 20 dias contados da publicação no portal Citius do despacho a que se refere o n.º 4 do artigo anterior para reclamar créditos, devendo as reclamações ser remetidas ao administrador judicial provisório, que no prazo de cinco dias elabora uma lista provisória de créditos, indicando:
+
+a) A sua proveniência, data de vencimento, montante de capital e de juros;
+
+b) As condições a que estejam subordinados, tanto suspensivas como resolutivas;
+
+c) A sua natureza comum, subordinada, privilegiada ou garantida, e, neste último caso, os bens ou direitos objeto da garantia e respetivos dados de identificação registral, se aplicável;
+
+d) A existência de eventuais garantias pessoais, com identificação dos garantes;
+
+e) A taxa de juros moratórios aplicável.
+
+3 - A lista provisória de créditos é imediatamente apresentada na secretaria do tribunal e publicada no portal Citius, podendo ser impugnada no prazo de cinco dias úteis, com fundamento na indevida inclusão ou exclusão de créditos, na incorreção do montante ou da qualificação dos créditos relacionados e dispondo, em seguida, o juiz de idêntico prazo para decidir sobre as impugnações formuladas.
+
+4 - Não sendo impugnada, a lista provisória de créditos converte-se de imediato em lista definitiva.
+
+5 - Findo o prazo para impugnações, os declarantes dispõem do prazo de dois meses para concluir as negociações encetadas, o qual pode ser prorrogado, por uma só vez e por um mês, mediante acordo prévio e escrito entre o administrador judicial provisório nomeado e o devedor, devendo tal acordo ser junto aos autos e publicado no portal Citius.
+
+6 - Durante as negociações o devedor presta toda a informação pertinente aos seus credores e ao administrador judicial provisório que haja sido nomeado para que as mesmas se possam realizar de forma transparente e equitativa, devendo manter sempre atualizada e completa a informação facultada ao administrador judicial provisório e aos credores.
+
+7 - Os credores que decidam participar nas negociações em curso declaram-no ao devedor por carta registada, podendo fazê-lo durante todo o tempo em que perdurarem as negociações, sendo tais declarações juntas ao processo.
+
+8 - As negociações encetadas entre o devedor e os seus credores regem-se pelos termos convencionados entre todos os intervenientes ou, na falta de acordo, pelas regras definidas pelo administrador judicial provisório nomeado, nelas podendo participar os peritos que cada um dos intervenientes considerar oportuno, cabendo a cada qual suportar os custos dos peritos que haja contratado, se o contrário não resultar expressamente do acordo de pagamento que venha a ser aprovado.
+
+9 - O administrador judicial provisório participa nas negociações, orientando e fiscalizando o decurso dos trabalhos e a sua regularidade, e deve assegurar que as partes não adotam expedientes dilatórios, inúteis ou, em geral, prejudiciais à boa marcha daquelas.
+
+10 - Durante as negociações os intervenientes devem atuar de acordo com os princípios orientadores aprovados pela Resolução do Conselho de Ministros n.º 43/2011, de 25 de outubro.
+
+11 - O devedor, bem como os seus administradores de direito ou de facto, no caso de aquele ser uma pessoa coletiva, são solidária e civilmente responsáveis pelos prejuízos causados aos seus credores em virtude de falta ou incorreção das comunicações ou informações a estes prestadas, correndo autonomamente ao presente processo a ação intentada para apurar as aludidas responsabilidades.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-E — Suspensão das medidas de execução
+
+1 - A decisão a que se refere o n.º 4 do artigo 222.º-C obsta à instauração de quaisquer ações executivas para cobrança de dívidas contra o devedor e, durante todo o tempo em que perdurarem as negociações, suspende, quanto ao devedor, as ações executivas em curso com idêntica finalidade, extinguindo-se as mesmas logo que seja aprovado e homologado acordo de pagamento, salvo quando este preveja a sua continuação.
+
+2 - Caso o juiz nomeie administrador judicial provisório nos termos do n.º 4 do artigo 222.º-C, o devedor fica impedido de praticar atos de especial relevo, tal como definidos no n.º 2 e nas alíneas d), e), f) e g) do n.º 2 do artigo 161.º, sem que previamente obtenha autorização para a realização da operação pretendida por parte do administrador judicial provisório.
+
+3 - A autorização a que se refere o número anterior deve ser requerida por escrito pelo devedor ao administrador judicial provisório e concedida pela mesma forma.
+
+4 - Entre a comunicação do devedor ao administrador judicial provisório e a receção da resposta ao peticionado previstas no número anterior não podem mediar mais de cinco dias, devendo, sempre que possível, recorrer-se a comunicações eletrónicas.
+
+5 - A falta de resposta do administrador judicial provisório ao pedido formulado pelo devedor corresponde a declaração de recusa de autorização para a realização do negócio pretendido.
+
+6 - Os processos de insolvência em que anteriormente haja sido requerida a insolvência do devedor suspendem-se na data de publicação no portal Citius do despacho a que se refere a alínea a) do n.º 3 do artigo 222.º-C, desde que não tenha sido proferida sentença declaratória da insolvência, extinguindo-se logo que seja aprovado e homologado acordo de pagamento.
+
+7 - Os processos de insolvência em que seja requerida a insolvência do devedor e que entrem depois da publicação do despacho a que se refere o número anterior suspendem-se, extinguindo-se logo que seja aprovado e homologado acordo de pagamento.
+
+8 - A decisão a que se refere o n.º 4 do artigo 222.º-C determina a suspensão de todos os prazos de prescrição e de caducidade oponíveis pelo devedor, durante todo o tempo em que perdurarem as negociações e até à prolação dos despachos de homologação ou de não homologação, caso não seja aprovado plano de pagamento até ao apuramento do resultado da votação, ou até ao encerramento das negociações nos termos previstos nos n.os 1 e 2 do artigo 222.º-G.
+
+9 - A partir da decisão a que se refere o número anterior e durante todo o tempo em que perdurarem as negociações, não pode ser suspensa a prestação dos seguintes serviços públicos essenciais:
+
+a) Serviço de fornecimento de água;
+
+b) Serviço de fornecimento de energia elétrica;
+
+c) Serviço de fornecimento de gás natural e gases de petróleo liquefeitos canalizados;
+
+d) Serviço de comunicações eletrónicas;
+
+e) Serviços postais;
+
+f) Serviço de recolha e tratamento de águas residuais;
+
+g) Serviços de gestão de resíduos sólidos urbanos.
+
+10 - O preço dos serviços públicos essenciais prestados durante o período referido no número anterior que não sejam objeto de pagamento pelo devedor será considerado dívida da massa insolvente em insolvência da mesma que venha a ser decretada nos dois anos posteriores ao termo do prazo de negociações, sem prejuízo do disposto no artigo 10.º da Lei n.º 23/96 de 26 de julho, alterada e republicada pela Lei n.º 12/2008, de 26 de fevereiro, e alterada pelas Leis n.os 24/2008, de 2 de junho, 6/2011, de 10 de março, 44/2011, de 22 de junho, e 10/2013, de 28 de janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-F — Conclusão das negociações com a aprovação de acordo de pagamento
+
+1 - Concluindo-se as negociações com a aprovação unânime de acordo de pagamento, em que intervenham todos os seus credores, este deve ser assinado por todos, sendo de imediato remetido ao processo, para homologação ou recusa da mesma pelo juiz, acompanhado da documentação que comprova a sua aprovação, atestada pelo administrador judicial provisório nomeado, produzindo tal acordo de pagamento, em caso de homologação, de imediato, os seus efeitos.
+
+2 - Concluindo-se as negociações com a aprovação de acordo de pagamento, sem observância do disposto no número anterior, o devedor remete-o ao tribunal, sendo de imediato publicado anúncio no portal Citius advertindo da junção do plano e correndo desde a publicação o prazo de votação de 10 dias, no decurso do qual qualquer interessado pode solicitar a não homologação do plano, nos termos e para os efeitos previstos nos artigos 215.º e 216.º, com as devidas adaptações.
+
+3 - Sem prejuízo de o juiz poder computar no cálculo das maiorias os créditos que tenham sido impugnados se entender que há probabilidade séria de estes serem reconhecidos, considera-se aprovado o acordo de pagamento que:
+
+a) Sendo votado por credores cujos créditos representem, pelo menos, um terço do total dos créditos relacionados com direito de voto, contidos na lista de créditos a que se referem os n.os 3 e 4 do artigo 222.º-D, não se considerando as abstenções, recolha cumulativamente:
+
+i) O voto favorável de mais de dois terços da totalidade dos votos emitidos;
+
+ii) O voto favorável de mais de 50 % dos votos emitidos correspondentes a créditos não subordinados relacionados com direito de voto contidos na lista de créditos a que se referem os n.os 3 e 4 do artigo 222.º-D; ou
+
+b) Recolha cumulativamente, não se considerando as abstenções:
+
+i) O voto favorável de credores cujos créditos representem mais de 50 % da totalidade dos créditos relacionados com direito de voto, contidos na lista de créditos a que se referem os n.os 3 e 4 do artigo 222.º-D;
+
+ii) O voto favorável de mais de 50 % dos votos emitidos correspondentes a créditos não subordinados relacionados com direito de voto contidos na lista de créditos a que se referem os n.os 3 e 4 do artigo 222.º-D.
+
+4 - A votação efetua-se por escrito, aplicando-se-lhe o disposto no artigo 211.º com as necessárias adaptações e sendo os votos remetidos ao administrador judicial provisório, que os abre em conjunto com o devedor e elabora um documento com o resultado da votação, que remete de imediato ao tribunal.
+
+5 - O juiz decide se deve homologar o acordo de pagamento ou recusar a sua homologação, nos 10 dias seguintes à receção da documentação mencionada nos números anteriores, aplicando, com as necessárias adaptações, as regras vigentes em matéria de aprovação e homologação do plano de insolvência previstas no título IX, em especial o disposto nos artigos 215.º e 216.º
+
+6 - Caso o juiz não homologue o acordo, aplica-se o disposto nos n.os 3 a 9 do artigo seguinte.
+
+7 - Sendo proferida decisão de não homologação, é aplicável ao recurso que venha a ser interposto dessa decisão o disposto no n.º 3 do artigo 40.º, com as devidas adaptações, caso o parecer do administrador venha a ser de que o devedor se encontra em situação de insolvência.
+
+8 - A decisão vincula o devedor e os credores, mesmo que não hajam reclamado os seus créditos ou participado nas negociações, relativamente aos créditos constituídos à data em que foi proferida a decisão prevista no n.º 4 do artigo 222.º-C, e é notificada, publicitada e registada pela secretaria do tribunal.
+
+9 - Compete ao devedor suportar as custas do processo de homologação.
+
+10 - É aplicável ao acordo de pagamento o disposto no n.º 1 do artigo 218.º
+
+11 - É aplicável o disposto no n.º 8 do artigo seguinte, contando-se o prazo de dois anos a partir da decisão prevista no n.º 5, exceto se o devedor demonstrar, no respetivo requerimento inicial, que executou integralmente o acordo de pagamento ou que o requerimento de novo processo especial para acordo de pagamento é motivado por fatores alheios ao próprio plano e a alteração superveniente é alheia ao devedor.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-G — Conclusão do processo negocial sem a aprovação de acordo de pagamento
+
+1 - Caso o devedor ou as maiorias dos credores previstas no n.º 3 do artigo anterior concluam antecipadamente não ser possível alcançar acordo, ou caso seja ultrapassado o prazo previsto no n.º 5 do artigo 222.º-D, o processo negocial é encerrado, devendo o administrador judicial provisório comunicar tal facto ao processo, se possível por meios eletrónicos, e publicá-lo no portal Citius.
+
+2 - O devedor pode pôr termo às negociações a todo o tempo, independentemente de qualquer causa, devendo, para o efeito, comunicar tal pretensão ao administrador judicial provisório, a todos os seus credores e ao tribunal, por meio de carta registada.
+
+3 - Compete ao administrador judicial provisório, na comunicação a que se refere o n.º 1 ou após ter conhecimento da comunicação do devedor a que se refere o n.º 2, mediante a informação de que disponha e após ouvir o devedor e os credores, emitir parecer sobre se aquele se encontra em situação de insolvência.
+
+4 - Quando o administrador judicial provisório concluir que o devedor ainda não se encontra em situação de insolvência, o encerramento do processo especial para acordo de pagamento acarreta a extinção de todos os seus efeitos.
+
+5 - Quando o administrador judicial provisório concluir pela insolvência do devedor, a secretaria do tribunal notifica o devedor para, no prazo de cinco dias, deduzir oposição, por mero requerimento, ou para, querendo e caso se mostrem preenchidos os respetivos pressupostos, apresentar plano de pagamentos nos termos do disposto nos artigos 249.º e seguintes, ou requerer a exoneração do passivo restante nos termos do disposto nos artigos 235.º e seguintes.
+
+6 - Caso o devedor deduza oposição, o juiz determina o encerramento e arquivamento do processo, que acarreta a extinção de todos os seus efeitos.
+
+7 - Caso o devedor não deduza oposição, a insolvência deve ser declarada pelo juiz no prazo de três dias úteis, sendo o processo especial para acordo de pagamento apenso ao processo de insolvência.
+
+8 - O termo do processo especial para acordo de pagamento efetuado de harmonia com os números anteriores impede o devedor de recorrer ao mesmo pelo prazo de dois anos.
+
+9 - Havendo lista definitiva de créditos reclamados, e sendo declarada a insolvência do devedor por aplicação do disposto no n.º 7, os credores constantes daquela lista não necessitam de reclamar os créditos ali relacionados nos termos da alínea j) do n.º 1 do artigo 36.º
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-H — Garantias
+
+1 - As garantias convencionadas entre o devedor e os seus credores durante o processo especial para acordo de pagamento, com a finalidade de proporcionar àquele os necessários meios financeiros para o desenvolvimento da sua atividade, mantêm-se mesmo que, findo o processo, venha a ser declarada, no prazo de dois anos, a insolvência do devedor.
+
+2 - Os credores que, no decurso do processo, financiem a atividade do devedor tendo em vista o cumprimento do acordo de pagamento, gozam de privilégio creditório mobiliário geral, graduado antes do privilégio creditório mobiliário geral concedido aos trabalhadores.
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-I — Homologação de acordo extrajudicial de pagamento
+
+1 - O processo previsto no presente título pode igualmente iniciar-se pela apresentação pelo devedor de acordo extrajudicial de pagamento, assinado pelo devedor e por credores que representem pelo menos as maiorias de votos previstas no n.º 3 do artigo 222.º-F, acompanhado do documento previsto no n.º 2 do artigo 222.º-A.
+
+2 - Recebidos os documentos mencionados no número anterior, o juiz nomeia administrador judicial provisório, aplicando-se o disposto nos artigos 32.º a 34.º com as necessárias adaptações, devendo a secretaria:
+
+a) Notificar os credores que no mesmo não intervieram e que constam da lista de créditos relacionados pelo devedor da existência do acordo, ficando este patente na secretaria do tribunal para consulta;
+
+b) Publicar no portal Citius a lista provisória de créditos.
+
+3 - O disposto nos n.os 2 a 4 do artigo 222.º-D aplica-se, com as necessárias adaptações, ao previsto no número anterior.
+
+4 - Convertendo-se a lista de créditos em definitiva, o juiz procede, no prazo de 10 dias, à análise do acordo extrajudicial, devendo homologá-lo se respeitar as maiorias previstas no n.º 3 do artigo 222.º-F, exceto se subsistir alguma das circunstâncias previstas nos artigos 215.º e 216.º, aplicando, com as necessárias adaptações, as regras previstas no título ix, em especial o disposto nos artigos 194.º a 197.º, no n.º 1 do artigo 198.º e nos artigos 200.º a 202.º, 215.º e 216.º
+
+5 - Caso o juiz não homologue o acordo, aplica-se com as necessárias adaptações o disposto nos n.os 3 a 9 do artigo 222.º-G.
+
+6 - O disposto no artigo 222.º-E, nos n.os 6, 7, 8, 9 e 10 do artigo 222.º-F e no artigo 222.º-H aplica-se com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 222.º-J — Encerramento do processo especial para acordo de pagamento e cessação de funções do administrador judicial provisório
+
+1 - O processo especial para acordo de pagamento considera-se encerrado:
+
+a) Após o trânsito em julgado da decisão de homologação do plano de pagamento;
+
+b) Após o cumprimento do disposto nos n.os 1 a 7 do artigo 222.º-G, nos casos em que não tenha sido aprovado ou homologado plano de pagamento.
+
+2 - O administrador judicial provisório manter-se-á em funções, sem prejuízo da sua substituição ou remoção:
+
+a) Até ser proferida decisão de homologação do plano de pagamento;
+
+b) Até ao encerramento do processo nos termos previstos na alínea b) do número anterior nos demais casos.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Aditado pelo/a Artigo 4.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+## Título X — Administração pelo devedor
+
+### Artigo 223.º — Limitação às empresas
+
+O disposto neste título é aplicável apenas aos casos em que na massa insolvente esteja compreendida uma empresa.
+
+### Artigo 224.º — Pressupostos da administração pelo devedor
+
+1 - Na sentença declaratória da insolvência o juiz pode determinar que a administração da massa insolvente seja assegurada pelo devedor.
+
+2 - São pressupostos da decisão referida no número anterior que:
+
+a) O devedor a tenha requerido;
+
+b) O devedor tenha já apresentado, ou se comprometa a fazê-lo no prazo de 30 dias após a sentença de declaração de insolvência, um plano de insolvência que preveja a continuidade da exploração da empresa por si próprio;
+
+c) Não haja razões para recear atrasos na marcha do processo ou outras desvantagens para os credores;
+
+d) O requerente da insolvência dê o seu acordo, caso não seja o devedor.
+
+3 - A administração é também confiada ao devedor se este o tiver requerido e assim o deliberarem os credores na assembleia de apreciação de relatório ou em assembleia que a preceda, independentemente da verificação dos pressupostos previstos nas alíneas c) e d) do número anterior, contando-se o prazo previsto na alínea b) do mesmo número a partir da deliberação dos credores.
+
+### Artigo 225.º — Início da liquidação
+
+A liquidação só tem lugar depois que ao devedor seja retirada a administração, sem prejuízo do disposto no n.º 1 do artigo 158.º e da realização pelo devedor de vendas ao abrigo do n.º 2 do mesmo artigo, com o consentimento do administrador da insolvência e da comissão de credores, se existir.
+
+### Artigo 226.º — Intervenção do administrador da insolvência
+
+1 - O administrador da insolvência fiscaliza a administração da massa insolvente pelo devedor e comunica imediatamente ao juiz e à comissão de credores quaisquer circunstâncias que desaconselhem a subsistência da situação; não havendo comissão de credores, a comunicação é feita a todos os credores que tiverem reclamado os seus créditos.
+
+2 - Sem prejuízo da eficácia do acto, o devedor não deve contrair obrigações:
+
+a) Se o administrador da insolvência se opuser, tratando-se de actos de gestão corrente;
+
+b) Sem o consentimento do administrador da insolvência, tratando-se de actos de administração extraordinária.
+
+3 - O administrador da insolvência pode exigir que fiquem a seu cargo todos os recebimentos em dinheiro e todos os pagamentos.
+
+4 - Oficiosamente ou a pedido da assembleia de credores, pode o juiz proibir a prática de determinados actos pelo devedor sem a aprovação do administrador da insolvência, aplicando-se, com as devidas adaptações, o disposto no n.º 6 do artigo 81.º
+
+5 - (Revogado).
+
+6 - É da responsabilidade do devedor a elaboração e o depósito das contas anuais que forem legalmente obrigatórias.
+
+7 - A atribuição ao devedor da administração da massa insolvente não prejudica o exercício pelo administrador da insolvência de todas as demais competências que legalmente lhe cabem e dos poderes necessários para o efeito, designadamente o de examinar todos os elementos da contabilidade do devedor.
+
+> Alterado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30
+
+### Artigo 227.º — Remuneração
+
+1 - Enquanto a administração da insolvência for assegurada pelo próprio devedor, manter-se-ão as remunerações dos seus administradores e membros dos seus órgãos sociais.
+
+2 - Sendo o devedor uma pessoa singular, assiste-lhe o direito de retirar da massa os fundos necessários para uma vida modesta dele próprio e do seu agregado familiar, tendo em conta a sua condição anterior e as possibilidades da massa.
+
+### Artigo 228.º — Termo da administração pelo devedor
+
+1 - O juiz põe termo à administração da massa insolvente pelo devedor:
+
+a) A requerimento deste;
+
+b) Se assim for deliberado pela assembleia de credores;
+
+c) Se for afectada pela qualificação da insolvência como culposa a própria pessoa singular titular da empresa;
+
+d) Se, tendo deixado de se verificar o pressuposto previsto na alínea c) do n.º 2 do artigo 224.º, tal lhe for solicitado por algum credor;
+
+e) Se o plano de insolvência não for apresentado pelo devedor no prazo aplicável, ou não for subsequentemente admitido, aprovado ou homologado.
+
+2 - Tomada a decisão referida no número anterior, tem lugar imediatamente a apreensão dos bens, em conformidade com o disposto nos artigos 149.º e seguintes, prosseguindo o processo a sua tramitação, nos termos gerais.
+
+### Artigo 229.º — Publicidade e registo
+
+A atribuição ao devedor da administração da massa insolvente, a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a decisão que ponha termo a essa administração são objecto de publicidade e registo, nos termos constantes dos artigos 37.º e 38.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+## Título XI — Encerramento do processo
+
+### Artigo 230.º — Quando se encerra o processo
+
+1 - Prosseguindo o processo após a declaração de insolvência, o juiz declara o seu encerramento:
+
+a) Após a realização do rateio final, sem prejuízo do disposto no n.º 6 do artigo 239.º;
+
+b) Após o trânsito em julgado da decisão de homologação do plano de insolvência, se a isso não se opuser o conteúdo deste;
+
+c) A pedido do devedor, quando este deixe de se encontrar em situação de insolvência ou todos os credores prestem o seu consentimento;
+
+d) Quando o administrador da insolvência constate a insuficiência da massa insolvente para satisfazer as custas do processo e as restantes dívidas da massa insolvente.
+
+e) Quando este ainda não haja sido declarado, no despacho inicial do incidente de exoneração do passivo restante referido na alínea b) do artigo 237.º
+
+f) Após o encerramento da liquidação, quando não haja lugar à realização do rateio final, por a massa insolvente ter sido consumida pelas respetivas dívidas.
+
+2 - A decisão de encerramento do processo é notificada aos credores e objecto da publicidade e do registo previstos nos artigos 37.º e 38.º, com indicação da razão determinante.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 231.º — Encerramento a pedido do devedor
+
+1 - O pedido do devedor de encerramento do processo fundado na cessação da situação de insolvência é notificado aos credores para que estes, querendo, deduzam oposição, no prazo de oito dias, aplicando-se o disposto nos n.os 3 e 4 do artigo 41.º
+
+2 - O pedido do devedor que não se baseie na cessação da situação de insolvência é acompanhado de documentos que comprovem o consentimento de todos os credores que tenham reclamado os seus créditos, quando seja apresentado depois de terminado o prazo concedido para o efeito, ou de todos os credores conhecidos, na hipótese contrária.
+
+3 - Antes de decidir sobre o pedido o juiz ouve, em qualquer dos casos, o administrador da insolvência e a comissão de credores, se existir.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 232.º — Encerramento por insuficiência da massa insolvente
+
+1 - Verificando que a massa insolvente é insuficiente para a satisfação das custas do processo e das restantes dívidas da massa insolvente, o administrador da insolvência dá conhecimento do facto ao juiz, podendo este conhecer oficiosamente do mesmo.
+
+2 - Ouvidos o devedor, a assembleia de credores e os credores da massa insolvente, o juiz declara encerrado o processo, salvo se algum interessado depositar à ordem do tribunal o montante determinado pelo juiz segundo o que razoavelmente entenda necessário para garantir o pagamento das custas do processo e restantes dívidas da massa insolvente.
+
+3 - A secretaria do tribunal, quando o processo for remetido à conta e em seguida a esta, distribui as importâncias em dinheiro existentes na massa insolvente, depois de pagas as custas, pelos credores da massa insolvente, na proporção dos seus créditos.
+
+4 - Depois de verificada a insuficiência da massa, é lícito ao administrador da insolvência interromper de imediato a respectiva liquidação.
+
+5 - Encerrado o processo de insolvência por insuficiência da massa, nos casos em que tenha sido aberto incidente de qualificação da insolvência e se o mesmo ainda não estiver findo, este prossegue os seus termos como incidente limitado.
+
+6 - O disposto nos números anteriores não é aplicável na hipótese de o devedor beneficiar do diferimento do pagamento das custas, nos termos do n.º 1 do artigo 248.º, durante a vigência do benefício.
+
+Presume-se a insuficiência da massa quando o património seja inferior a (euro) 5000.
+
+7 - Presume-se a insuficiência da massa quando o património seja inferior a (euro) 5000.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 233.º — Efeitos do encerramento
+
+1 - Encerrado o processo, e sem prejuízo do disposto no n.º 5 do artigo 217.º quanto aos concretos efeitos imediatos da decisão de homologação do plano de insolvência:
+
+a) Cessam todos os efeitos que resultam da declaração de insolvência, recuperando designadamente o devedor o direito de disposição dos seus bens e a livre gestão dos seus negócios, sem prejuízo dos efeitos da qualificação da insolvência como culposa e do disposto no artigo seguinte;
+
+b) Cessam as atribuições da comissão de credores e do administrador da insolvência, com excepção das referentes à apresentação de contas e das conferidas, se for o caso, pelo plano de insolvência;
+
+c) Os credores da insolvência poderão exercer os seus direitos contra o devedor sem outras restrições que não as constantes do eventual plano de insolvência e plano de pagamentos e do n.º 1 do artigo 242.º, constituindo para o efeito título executivo a sentença homologatória do plano de pagamentos, bem como a sentença de verificação de créditos ou a decisão proferida em acção de verificação ulterior, em conjugação, se for o caso, com a sentença homologatória do plano de insolvência;
+
+d) Os credores da massa podem reclamar do devedor os seus direitos não satisfeitos.
+
+2 - O encerramento do processo de insolvência antes do rateio final determina:
+
+a) A ineficácia das resoluções de actos em beneficio da massa insolvente, excepto se o plano de insolvência atribuir ao administrador da insolvência competência para a defesa nas acções dirigidas à respectiva impugnação, bem como nos casos em que as mesmas não possam já ser impugnadas em virtude do decurso do prazo previsto no artigo 125.º, ou em que a impugnação deduzida haja já sido julgada improcedente por decisão com trânsito em julgado;
+
+b) A extinção da instância dos processos de verificação de créditos e de restituição e separação de bens já liquidados que se encontrem pendentes, exceto se tiver já sido proferida a sentença de verificação e graduação de créditos prevista no artigo 140.º, ou se o encerramento decorrer da aprovação do plano de insolvência, caso em que prosseguem até final os recursos interpostos dessa sentença e as ações cujos autores ou a devedora assim o requeiram, no prazo de 30 dias;
+
+c) A extinção da instância das acções pendentes contra os responsáveis legais pelas dívidas do insolvente propostas pelo administrador da insolvência, excepto se o plano de insolvência atribuir ao administrador da insolvência competência para o seu prosseguimento.
+
+3 - As custas das acções de impugnação da resolução de actos em benefício da massa insolvente julgadas procedentes em virtude do disposto na alínea a) do número anterior constituem encargo da massa insolvente, se o processo for encerrado por insuficiência desta.
+
+4 - Exceptuados os processos de verificação de créditos, qualquer acção que corra por dependência do processo de insolvência e cuja instância não se extinga, nos termos da alínea b) do n.º 2, nem deva ser prosseguida pelo administrador da insolvência, nos termos do plano de insolvência, é desapensada do processo e remetida para o tribunal competente, passando o devedor a ter exclusiva legitimidade para a causa, independentemente de habilitação ou do acordo da contraparte.
+
+5 - Nos 10 dias posteriores ao encerramento, o administrador da insolvência entrega no tribunal, para arquivo, toda a documentação relativa ao processo que se encontre em seu poder, bem como os elementos da contabilidade do devedor que não hajam de ser restituídos ao próprio.
+
+6 - Sempre que ocorra o encerramento do processo de insolvência sem que tenha sido aberto incidente de qualificação por aplicação do disposto na alínea i) do n.º 1 do artigo 36.º, deve o juiz declarar expressamente na decisão prevista no artigo 230.º o caráter fortuito da insolvência.
+
+7 - O encerramento do processo de insolvência nos termos da alínea e) do n.º 1 do artigo 230.º, quando existam bens ou direitos a liquidar, determina unicamente o início do período de cessão do rendimento disponível.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15, produz efeitos a partir de 2004-09-15
+
+### Artigo 234.º — Efeitos sobre sociedades comerciais
+
+1 - Baseando-se o encerramento do processo na homologação de um plano de insolvência que preveja a continuidade da sociedade comercial, esta retoma a sua actividade independentemente de deliberação dos sócios.
+
+2 - Os sócios podem deliberar a retoma da actividade se o encerramento se fundar na alínea c) do n.º 1 do artigo 230.º
+
+3 - Com o registo do encerramento do processo após o rateio final, a sociedade considera-se extinta.
+
+4 - No caso de encerramento por insuficiência da massa insolvente, a liquidação da sociedade prossegue nos termos do regime jurídico dos procedimentos administrativos de dissolução e de liquidação de entidades comerciais, devendo o juiz comunicar o encerramento e o património da sociedade ao serviço de registo competente.
+
+> Alterado pelo/a Artigo 35.º do/a Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29, em vigor a partir de 2006-06-30
+
+## Título XII — Disposições específicas da insolvência de pessoas singulares
+
+## Capítulo I — Exoneração do passivo restante
+
+### Artigo 235.º — Princípio geral
+
+Se o devedor for uma pessoa singular pode ser-lhe concedida a exoneração dos créditos sobre a insolvência que não forem integralmente pagos no processo de insolvência ou nos três anos posteriores ao encerramento deste, nos termos do presente capítulo.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 236.º — Pedido de exoneração do passivo restante
+
+1 - O pedido de exoneração do passivo restante é feito pelo devedor no requerimento de apresentação à insolvência ou no prazo de 10 dias posteriores à citação, e será sempre rejeitado, se for deduzido após a assembleia de apreciação do relatório, ou, no caso de dispensa da realização desta, após os 60 dias subsequentes à sentença que tenha declarado a insolvência; o juiz decide livremente sobre a admissão ou rejeição de pedido apresentado no período intermédio.
+
+2 - Se não tiver sido dele a iniciativa do processo de insolvência, deve constar do acto de citação do devedor pessoa singular a indicação da possibilidade de solicitar a exoneração do passivo restante, nos termos previstos no número anterior.
+
+3 - Do requerimento consta expressamente a declaração de que o devedor preenche os requisitos e se dispõe a observar todas as condições exigidas nos artigos seguintes.
+
+4 - Na assembleia de apreciação de relatório ou, sendo dispensada a realização da mesma, no prazo de 10 dias subsequente ao decurso do prazo de 60 dias previsto na parte final do n.º 1, é dada aos credores e ao administrador da insolvência a possibilidade de se pronunciarem sobre o requerimento.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 237.º — Processamento subsequente
+
+A concessão efectiva da exoneração do passivo restante pressupõe que:
+
+a) Não exista motivo para o indeferimento liminar do pedido, por força do disposto no artigo seguinte;
+
+b) O juiz declare que a exoneração será concedida uma vez observadas pelo devedor as condições previstas no artigo 239.º durante os três anos posteriores ao encerramento do processo de insolvência, neste capítulo designado por despacho inicial;
+
+c) Não seja aprovado e homologado um plano de insolvência;
+
+d) Após o período mencionado na alínea b), e cumpridas que sejam efectivamente as referidas condições, o juiz emita despacho decretando a exoneração definitiva, neste capítulo designado despacho de exoneração.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 238.º — Indeferimento liminar
+
+1 - O pedido de exoneração é liminarmente indeferido se:
+
+a) For apresentado fora de prazo;
+
+b) O devedor, com dolo ou culpa grave, tiver fornecido por escrito, nos três anos anteriores à data do início do processo de insolvência, informações falsas ou incompletas sobre as suas circunstâncias económicas com vista à obtenção de crédito ou de subsídios de instituições públicas ou a fim de evitar pagamentos a instituições dessa natureza;
+
+c) O devedor tiver já beneficiado da exoneração do passivo restante nos 10 anos anteriores à data do início do processo de insolvência;
+
+d) O devedor tiver incumprido o dever de apresentação à insolvência ou, não estando obrigado a se apresentar, se tiver abstido dessa apresentação nos seis meses seguintes à verificação da situação de insolvência, com prejuízo em qualquer dos casos para os credores, e sabendo, ou não podendo ignorar sem culpa grave, não existir qualquer perspectiva séria de melhoria da sua situação económica;
+
+e) Constarem já no processo, ou forem fornecidos até ao momento da decisão, pelos credores ou pelo administrador da insolvência, elementos que indiciem com toda a probabilidade a existência de culpa do devedor na criação ou agravamento da situação de insolvência, nos termos do artigo 186.º;
+
+f) O devedor tiver sido condenado por sentença transitada em julgado por algum dos crimes previstos e punidos nos artigos 227.º a 229.º do Código Penal nos 10 anos anteriores à data da entrada em juízo do pedido de declaração da insolvência ou posteriormente a esta data;
+
+g) O devedor, com dolo ou culpa grave, tiver violado os deveres de informação, apresentação e colaboração que para ele resultam do presente Código, no decurso do processo de insolvência.
+
+2 - O despacho de indeferimento liminar é proferido após a audição dos credores e do administrador da insolvência nos termos previstos no n.º 4 do artigo 236.º, exceto se o pedido for apresentado fora do prazo ou constar já dos autos documento autêntico comprovativo de algum dos factos referidos no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 239.º — Cessão do rendimento disponível
+
+1 - Não havendo motivo para indeferimento liminar, é proferido o despacho inicial, na assembleia de apreciação do relatório, ou nos 10 dias subsequentes a esta ou ao decurso dos prazos previstos no n.º 4 do artigo 236.º
+
+2 - O despacho inicial determina que, durante os três anos subsequentes ao encerramento do processo de insolvência, neste capítulo designado por período da cessão, o rendimento disponível que o devedor venha a auferir se considera cedido a entidade, neste capítulo designada por fiduciário, escolhida pelo tribunal de entre as inscritas na lista oficial de administradores da insolvência, nos termos e para os efeitos do artigo seguinte.
+
+3 - Integram o rendimento disponível todos os rendimentos que advenham a qualquer título ao devedor, com exclusão:
+
+a) Dos créditos a que se refere o artigo 115.º cedidos a terceiro, pelo período em que a cessão se mantenha eficaz;
+
+b) Do que seja razoavelmente necessário para:
+
+i) O sustento minimamente digno do devedor e do seu agregado familiar, não devendo exceder, salvo decisão fundamentada do juiz em contrário, três vezes o salário mínimo nacional;
+
+ii) O exercício pelo devedor da sua actividade profissional;
+
+iii) Outras despesas ressalvadas pelo juiz no despacho inicial ou em momento posterior, a requerimento do devedor.
+
+4 - Durante o período da cessão, o devedor fica ainda obrigado a:
+
+a) Não ocultar ou dissimular quaisquer rendimentos que aufira, por qualquer título, e a informar o tribunal e o fiduciário sobre os seus rendimentos e património na forma e no prazo em que isso lhe seja requisitado;
+
+b) Exercer uma profissão remunerada, não a abandonando sem motivo legítimo, e a procurar diligentemente tal profissão quando desempregado, não recusando desrazoavelmente algum emprego para que seja apto;
+
+c) Entregar imediatamente ao fiduciário, quando por si recebida, a parte dos seus rendimentos objecto de cessão;
+
+d) Informar o tribunal e o fiduciário de qualquer mudança de domicílio ou de condições de emprego, no prazo de 10 dias após a respectiva ocorrência, bem como, quando solicitado e dentro de igual prazo, sobre as diligências realizadas para a obtenção de emprego;
+
+e) Não fazer quaisquer pagamentos aos credores da insolvência a não ser através do fiduciário e a não criar qualquer vantagem especial para algum desses credores.
+
+5 - A cessão prevista no n.º 2 prevalece sobre quaisquer acordos que excluam, condicionem ou por qualquer forma limitem a cessão de bens ou rendimentos do devedor.
+
+6 - Sendo interposto recurso do despacho inicial, a realização do rateio final só determina o encerramento do processo depois de transitada em julgado a decisão.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 240.º — Fiduciário
+
+1 - A remuneração do fiduciário e o reembolso das suas despesas constitui encargo do devedor.
+
+2 - São aplicáveis ao fiduciário, com as devidas adaptações, os n.os 2 e 4 do artigo 38.º, os artigos 56.º, 57.º, 58.º, 59.º e 62.º a 64.º; é também aplicável o disposto no n.º 1 do artigo 60.º e no n.º 1 do artigo 61.º, devendo a informação revestir periodicidade anual e ser enviada a cada credor e ao juiz.
+
+### Artigo 241.º — Funções
+
+1 - O fiduciário notifica a cessão dos rendimentos do devedor àqueles de quem ele tenha direito a havê-los, e afecta os montantes recebidos, no final de cada ano em que dure a cessão:
+
+a) Ao pagamento das custas do processo de insolvência ainda em dívida;
+
+b) Ao reembolso ao organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça das remunerações e despesas do administrador da insolvência e do próprio fiduciário que por aquele tenham sido suportadas;
+
+c) Ao pagamento da sua própria remuneração já vencida e despesas efectuadas;
+
+d) À distribuição do remanescente pelos credores da insolvência, cujos créditos se mostrem verificados e graduados por sentença, nos termos prescritos para o pagamento aos credores no processo de insolvência.
+
+2 - O fiduciário mantém em separado do seu património pessoal todas as quantias provenientes de rendimentos cedidos pelo devedor, respondendo com todos os seus haveres pelos fundos que indevidamente deixe de afectar às finalidades indicadas no número anterior, bem como pelos prejuízos provocados por essa falta de distribuição.
+
+3 - A tarefa de fiscalizar o cumprimento pelo devedor das obrigações que sobre este impendem, com o dever de informar os credores em caso de conhecimento de qualquer violação, pode ser conferida ao fiduciário, caso os credores o requeiram na assembleia de credores de apreciação do relatório ou, sendo dispensada a realização da mesma, no prazo de 10 dias subsequente ao decurso do prazo de 60 dias previsto na parte final do n.º 1 do artigo 236.º
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 241.º-A — Liquidação superveniente
+
+1 - Finda a liquidação do ativo do devedor e encerrado o processo de insolvência nos termos do disposto na alínea e) do n.º 1 do artigo 230.º, caso ingressem bens ou direitos suscetíveis de alienação no património daquele, o fiduciário deverá, com prontidão, proceder à sua apreensão e venda, sendo para o efeito aplicável o disposto no título vi, com as devidas adaptações.
+
+2 - O fiduciário apresenta contas dentro dos 10 dias subsequentes à venda dos bens ou direitos referidos no número anterior, podendo o prazo ser prorrogado por despacho judicial.
+
+3 - É aplicável o disposto no n.º 3 do artigo 62.º e no artigo 64.º, sendo que, após pagamento da remuneração variável ao fiduciário pela venda dos bens ou direitos referidos no n.º 1 e outras eventuais dívidas, o produto da venda é afetado pelo fiduciário nos termos do artigo anterior.
+
+> Aditado pelo/a Artigo 8.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 242.º — Igualdade dos credores
+
+1 - Não são permitidas quaisquer execuções sobre os bens do devedor destinadas à satisfação dos créditos sobre a insolvência, durante o período da cessão.
+
+2 - É nula a concessão de vantagens especiais a um credor da insolvência pelo devedor ou por terceiro.
+
+3 - A compensação entre dívidas da insolvência e obrigações de um credor sobre a insolvência apenas é lícita nas condições em que seria admissível durante a pendência do processo.
+
+### Artigo 242.º-A — Prorrogação do período de cessão
+
+1 - Sem prejuízo do disposto na segunda parte do n.º 3 do artigo 243.º, o juiz pode prorrogar o período de cessão, até ao máximo de três anos, antes de terminado aquele período e por uma única vez, mediante requerimento fundamentado:
+
+a) Do devedor;
+
+b) De algum credor da insolvência;
+
+c) Do administrador da insolvência, se este ainda estiver em funções; ou
+
+d) Do fiduciário que tenha sido incumbido de fiscalizar o cumprimento das obrigações do devedor, caso este tenha violado alguma das obrigações que lhe são impostas pelo artigo 239.º, prejudicando por esse facto a satisfação dos créditos sobre a insolvência.
+
+2 - O requerimento apenas pode ser apresentado dentro dos seis meses seguintes à data em que o requerente teve ou poderia ter tido conhecimento dos fundamentos invocados, sendo oferecida logo a respetiva prova.
+
+3 - O juiz deve ouvir o devedor, o fiduciário e os credores da insolvência antes de decidir a questão, e decretar a prorrogação apenas se concluir pela existência de probabilidade séria de cumprimento, pelo devedor, das obrigações a que se refere o n.º 1, no período adicional.
+
+> Aditado pelo/a Artigo 8.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 243.º — Cessação antecipada do procedimento de exoneração
+
+1 - Antes ainda de terminado o período da cessão, deve o juiz recusar a exoneração, a requerimento fundamentado de algum credor da insolvência, do administrador da insolvência, se estiver ainda em funções, ou do fiduciário, caso este tenha sido incumbido de fiscalizar o cumprimento das obrigações do devedor, quando:
+
+a) O devedor tiver dolosamente ou com grave negligência violado alguma das obrigações que lhe são impostas pelo artigo 239.º, prejudicando por esse facto a satisfação dos créditos sobre a insolvência;
+
+b) Se apure a existência de alguma das circunstâncias referidas nas alíneas b), e) e f) do n.º 1 do artigo 238.º, se apenas tiver sido conhecida pelo requerente após o despacho inicial ou for de verificação superveniente;
+
+c) A decisão do incidente de qualificação da insolvência tiver concluído pela existência de culpa do devedor na criação ou agravamento da situação de insolvência.
+
+2 - O requerimento apenas pode ser apresentado dentro dos seis meses seguintes à data em que o requerente teve ou poderia ter tido conhecimento dos fundamentos invocados, devendo ser oferecida logo a respetiva prova.
+
+3 - Quando o requerimento se baseie nas alíneas a) e b) do n.º 1, o juiz deve ouvir o devedor, o fiduciário e os credores da insolvência antes de decidir a questão; a exoneração é sempre recusada se o devedor, sem motivo razoável, não fornecer no prazo que lhe seja fixado informações que comprovem o cumprimento das suas obrigações, ou, devidamente convocado, faltar injustificadamente à audiência em que deveria prestá-las.
+
+4 - O juiz, oficiosamente ou a requerimento do devedor ou do fiduciário, declara também encerrado o incidente logo que se mostrem integralmente satisfeitos todos os créditos sobre a insolvência.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 244.º — Decisão final da exoneração
+
+1 - Não tendo havido lugar a cessação antecipada, ouvido o devedor, o fiduciário e os credores da insolvência, o juiz decide, nos 10 dias subsequentes ao termo do período da cessão, sobre a respetiva prorrogação, nos termos previstos no artigo 242.º-A, ou sobre a concessão ou não da exoneração do passivo restante do devedor.
+
+2 - A exoneração é recusada pelos mesmos fundamentos e com subordinação aos mesmos requisitos por que o poderia ter sido antecipadamente, nos termos do artigo anterior.
+
+3 - Findo o prazo da prorrogação do período de cessão, se aplicável, o juiz decide sobre a concessão ou não da exoneração do passivo restante nos termos dos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+### Artigo 245.º — Efeitos da exoneração
+
+1 - A exoneração do devedor importa a extinção de todos os créditos sobre a insolvência que ainda subsistam à data em que é concedida, sem excepção dos que não tenham sido reclamados e verificados, sendo aplicável o disposto no n.º 4 do artigo 217.º
+
+2 - A exoneração não abrange, porém:
+
+a) Os créditos por alimentos;
+
+b) As indemnizações devidas por factos ilícitos dolosos praticados pelo devedor, que hajam sido reclamadas nessa qualidade;
+
+c) Os créditos por multas, coimas e outras sanções pecuniárias por crimes ou contra-ordenações;
+
+d) Os créditos tributários e da segurança social.
+
+> Alterado pelo/a Artigo 169.º do/a Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28, em vigor a partir de 2019-06-29
+
+### Artigo 246.º — Revogação da exoneração
+
+1 - A exoneração do passivo restante é revogada provando-se que o devedor incorreu em alguma das situações previstas nas alíneas b) e seguintes do n.º 1 do artigo 238.º, ou violou dolosamente as suas obrigações durante o período da cessão, e por algum desses motivos tenha prejudicado de forma relevante a satisfação dos credores da insolvência.
+
+2 - A revogação apenas pode ser decretada até ao termo do ano subsequente ao trânsito em julgado do despacho de exoneração; quando requerida por um credor da insolvência, tem este ainda de provar não ter tido conhecimento dos fundamentos da revogação até ao momento do trânsito.
+
+3 - Antes de decidir a questão, o juiz deve ouvir o devedor e o fiduciário.
+
+4 - A revogação da exoneração importa a reconstituição de todos os créditos extintos.
+
+### Artigo 247.º — Publicação e registo
+
+Os despachos iniciais, de exoneração, de cessação antecipada e de revogação da exoneração são publicados e registados, nos termos previstos para a decisão de encerramento do processo de insolvência.
+
+### Artigo 248.º — Custas
+
+1 - O devedor que apresente um pedido de exoneração do passivo restante beneficia do diferimento do pagamento das custas até à decisão final desse pedido, na parte em que a massa insolvente e o seu rendimento disponível durante o período da cessão sejam insuficientes para o respetivo pagamento integral, o mesmo se aplicando à obrigação de reembolsar o organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça das remunerações e despesas do administrador da insolvência e do fiduciário que o organismo tenha suportado.
+
+2 - Sendo concedida a exoneração do passivo restante, o disposto no artigo 33.º do Regulamento das Custas Processuais é aplicável ao pagamento das custas e à obrigação de reembolso referida no número anterior.
+
+3 - Se a exoneração for posteriormente revogada, caduca a autorização do pagamento em prestações, e aos montantes em dívida acrescem juros de mora calculados como se o benefício previsto no n.º 1 não tivesse sido concedido, à taxa prevista no n.º 1 do artigo 33.º do Regulamento das Custas Processuais.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 248.º-A — Valor da causa
+
+Para efeitos processuais, no caso de recurso de decisões proferidas no âmbito do incidente de exoneração do passivo restante, o valor da causa é determinado pelo passivo a exonerar do devedor.
+
+> Aditado pelo/a Artigo 8.º do/a Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11, em vigor a partir de 2022-04-11
+
+## Capítulo II — Insolvência de não empresários e titulares de pequenas empresas
+
+## Secção I — Disposições gerais
+
+### Artigo 249.º — Âmbito de aplicação
+
+1 - O disposto neste capítulo é aplicável se o devedor for uma pessoa singular, e, em alternativa:
+
+a) Não tiver sido titular da exploração de qualquer empresa nos três anos anteriores ao início do processo de insolvência;
+
+b) À data do início do processo:
+
+i) Não tiver dívidas laborais;
+
+ii) O número dos seus credores não for superior a 20;
+
+iii) O seu passivo global não exceder (euro) 300000.
+
+2 - Apresentando-se ambos os cônjuges à insolvência, ou sendo o processo instaurado contra ambos, nos termos do artigo 264.º, os requisitos previstos no número anterior devem verificar-se relativamente a cada um dos cônjuges.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 250.º — Inadmissibilidade de plano de insolvência e da administração pelo devedor
+
+Aos processos de insolvência abrangidos pelo presente capítulo não são aplicáveis as disposições dos títulos IX e X.
+
+## Secção II — Plano de pagamentos aos credores
+
+### Artigo 251.º — Apresentação de um plano de pagamentos
+
+O devedor pode apresentar, conjuntamente com a petição inicial do processo de insolvência, um plano de pagamentos aos credores.
+
+### Artigo 252.º — Conteúdo do plano de pagamentos
+
+1 - O plano de pagamentos deve conter uma proposta de satisfação dos direitos dos credores que acautela devidamente os interesses destes, de forma a obter a respectiva aprovação, tendo em conta a situação do devedor.
+
+2 - O plano de pagamentos pode designadamente prever moratórias, perdões, constituições de garantias, extinções, totais ou parciais, de garantias reais ou privilégios creditórios existentes, um programa calendarizado de pagamentos ou o pagamento numa só prestação e a adopção pelo devedor de medidas concretas de qualquer natureza susceptíveis de melhorar a sua situação patrimonial.
+
+3 - O devedor pode incluir no plano de pagamentos créditos cuja existência ou montante não reconheça, com a previsão de que os montantes destinados à sua liquidação serão objecto de depósito junto de intermediário financeiro para serem entregues aos respectivos titulares ou repartidos pelos demais credores depois de dirimida a controvérsia, na sede própria.
+
+4 - A apresentação do plano de pagamentos envolve confissão da situação de insolvência, ao menos iminente, por parte do devedor.
+
+5 - O plano de pagamentos é acompanhado dos seguintes anexos:
+
+a) Declaração de que o devedor preenche os requisitos exigidos pelo artigo 249.º;
+
+b) Relação dos bens disponíveis do devedor, bem como dos seus rendimentos;
+
+c) Sumário com o conteúdo essencial dessa relação, neste capítulo designado por resumo do activo;
+
+d) Relação por ordem alfabética dos credores e dos seus endereços, com indicação dos montantes, natureza e eventuais garantias dos seus créditos;
+
+e) Declaração de que as informações prestadas são verdadeiras e completas.
+
+6 - Salvo manifesta inadequação ao caso concreto, os elementos constantes do número anterior devem constar de modelo aprovado por portaria do Ministro da Justiça.
+
+7 - O plano de pagamentos e os seus anexos são apresentados em duas cópias, uma das quais se destina ao arquivo do tribunal, ficando a outra na secretaria judicial para consulta dos interessados; tratando-se de documentos digitalizados, são extraídas pela secretaria duas cópias, para os mesmos efeitos.
+
+8 - Considera-se que desiste da apresentação do plano de pagamentos o devedor que, uma vez notificado pelo tribunal, não forneça no prazo fixado os elementos mencionados no n.º 5 que haja omitido inicialmente.
+
+### Artigo 253.º — Pedido de insolvência apresentado por terceiro
+
+Se não tiver sido dele a iniciativa do processo de insolvência, deve constar do acto de citação do devedor pessoa singular a indicação da possibilidade de apresentação de um plano de pagamentos em alternativa à contestação, no prazo fixado para esta, verificado algum dos pressupostos referidos no n.º 1 do artigo 249.º, com expressa advertência para as consequências previstas no n.º 4 do artigo anterior e no artigo seguinte.
+
+### Artigo 254.º — Preclusão da exoneração do passivo restante
+
+Não pode beneficiar da exoneração do passivo restante o devedor que, aquando da apresentação de um plano de pagamentos, não tenha declarado pretender essa exoneração, na hipótese de o plano não ser aprovado.
+
+### Artigo 255.º — Suspensão do processo de insolvência
+
+1 - Se se afigurar altamente improvável que o plano de pagamentos venha a merecer aprovação, o juiz dá por encerrado o incidente, sem que da decisão caiba recurso; caso contrário, determina a suspensão do processo de insolvência até à decisão sobre o incidente do plano de pagamentos.
+
+2 - Se o processo de insolvência houver de prosseguir, é logo proferida sentença de declaração da insolvência, seguindo-se os trâmites subsequentes, nos termos gerais.
+
+3 - A suspensão prevista no n.º 1 não prejudica a adopção das medidas cautelares previstas no artigo 31.º
+
+### Artigo 256.º — Notificação dos credores
+
+1 - Havendo lugar à suspensão do processo de insolvência, a secretaria extrai ou notifica o devedor para juntar, no prazo de cinco dias, o número de cópias do plano de pagamentos e do resumo do activo necessários para entrega aos credores mencionados em anexo ao plano, consoante tais documentos tenham sido ou não apresentados em suporte digital.
+
+2 - A notificação ao credor requerente da insolvência, se for o caso, e a citação dos demais credores são feitas nos termos e pelas formas previstos na lei processual para a citação, salvo os casos em que não seja possível o envio por via eletrónica, nos termos previstos nos n.os 9 e 13 do artigo 246.º do Código de Processo Civil, caso em que esta se efetua apenas por carta registada.
+
+3 - A notificação e citação previstas no número anterior são acompanhadas dos documentos referidos no n.º 1, devendo do ato constar a indicação de que:
+
+a) Dispõem de 10 dias para se pronunciarem, sob pena de se ter por conferida a sua adesão ao plano;
+
+b) Devem, no mesmo prazo, corrigir as informações relativas aos seus créditos constantes da relação apresentada pelo devedor, sob pena de, em caso de aprovação do plano, se haverem como aceites tais informações e perdoadas quaisquer outras dívidas cuja omissão não seja por esse credor devidamente reportada;
+
+c) Os demais anexos ao plano estão disponíveis para consulta na secretaria do tribunal.
+
+4 - Quando haja sido contestada por algum credor a natureza, montante ou outros elementos do seu crédito tal como configurados pelo devedor, ou invocada a existência de outros créditos de que seja titular, é o devedor notificado para, no prazo máximo de 10 dias, declarar se modifica ou não a relação dos créditos, só ficando abrangidos pelo plano de pagamentos os créditos cuja existência seja reconhecida pelo devedor, e apenas:
+
+a) Na parte aceite pelo devedor, caso subsista divergência quanto ao montante;
+
+b) Se for exacta a indicação feita pelo devedor, caso subsista divergência quanto a outros elementos.
+
+5 - Pode ainda ser dada oportunidade ao devedor para modificar o plano de pagamentos, no prazo de cinco dias, quando tal for tido por conveniente em face das observações dos credores ou com vista à obtenção de acordo quanto ao pagamento das dívidas.
+
+6 - As eventuais modificações ou acrescentos a que o devedor proceda nos termos dos n.os 3 e 4 serão notificadas, quando necessário, aos credores para novo pronunciamento quanto à adesão ao plano, entendendo-se que mantêm a sua posição os credores que nada disserem no prazo de 10 dias.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07, em vigor a partir de 2024-11-10
+
+### Artigo 257.º — Aceitação do plano de pagamentos
+
+1 - Se nenhum credor tiver recusado o plano de pagamentos, ou se a aprovação de todos os que se oponham for objecto de suprimento, nos termos do artigo seguinte, o plano é tido por aprovado.
+
+2 - Entende-se que se opõem ao plano de pagamentos:
+
+a) Os credores que o tenham recusado expressamente;
+
+b) Os credores que, por forma não aceite pelo devedor, tenham contestado a natureza, montante ou outros elementos dos seus créditos relacionados pelo devedor, ou invocado a existência de outros créditos.
+
+3 - Não são abrangidos pelo plano de pagamentos os créditos que não hajam sido relacionados pelo devedor, ou em relação aos quais não tenha sido possível ouvir os respectivos titulares, por acto que não lhes seja imputável.
+
+### Artigo 258.º — Suprimento da aprovação dos credores
+
+1 - Se o plano de pagamentos tiver sido aceite por credores cujos créditos representem mais de dois terços do valor total dos créditos relacionados pelo devedor, pode o tribunal, a requerimento de algum desses credores ou do devedor, suprir a aprovação dos demais credores, desde que:
+
+a) Para nenhum dos oponentes decorra do plano uma desvantagem económica superior à que, mantendo-se idênticas as circunstâncias do devedor, resultaria do prosseguimento do processo de insolvência, com liquidação da massa insolvente e exoneração do passivo restante, caso esta tenha sido solicitada pelo devedor em condições de ser concedida;
+
+b) Os oponentes não sejam objecto de um tratamento discriminatório injustificado;
+
+c) Os oponentes não suscitem dúvidas legítimas quanto à veracidade ou completude da relação de créditos apresentada pelo devedor, com reflexos na adequação do tratamento que lhes é dispensado.
+
+2 - A apreciação da oposição fundada na alínea c) do número anterior não envolve decisão sobre a efectiva existência, natureza, montante e demais características dos créditos controvertidos.
+
+3 - Pode ser sempre suprida pelo tribunal a aprovação do credor que se haja limitado a impugnar a identificação do crédito, sem adiantar quaisquer elementos respeitantes à sua configuração.
+
+4 - Não cabe recurso da decisão que indefira o pedido de suprimento da aprovação de qualquer credor.
+
+### Artigo 259.º — Termos subsequentes à aprovação
+
+1 - O juiz homologa o plano de pagamentos aprovado nos termos dos artigos anteriores por meio de sentença, e, após o seu trânsito em julgado, declara igualmente a insolvência do devedor no processo principal; da sentença de declaração de insolvência constam apenas as menções referidas nas alíneas a) e b) do n.º 1 do artigo 36.º, sendo aplicável o disposto na alínea a) do n.º 7 do artigo 39.º
+
+2 - Ambas as sentenças são notificadas apenas aos credores constantes da relação fornecida pelo devedor.
+
+3 - Só podem recorrer da sentença de homologação do plano de pagamentos ou reagir contra a sentença de declaração de insolvência proferida nos termos do n.º 1, por via de recurso ou da oposição de embargos, os credores cuja aprovação haja sido suprida; a revogação desta última sentença implica também a ineficácia do plano.
+
+4 - O trânsito em julgado das sentenças de homologação do plano de pagamentos e de declaração da insolvência determina o encerramento do processo de insolvência.
+
+5 - As referidas sentenças e a decisão de encerramento do processo proferida nos termos do número anterior não são objecto de qualquer publicidade ou registo.
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 260.º — Incumprimento
+
+Salvo disposição expressa do plano de pagamentos em sentido diverso, a moratória ou o perdão previstos no plano ficam sem efeito nos casos previstos no n.º 1 do artigo 218.º, não sendo aplicável, todavia, o n.º 2 desse preceito.
+
+### Artigo 261.º — Outro processo de insolvência
+
+1 - Os titulares de créditos constantes da relação anexa ao plano de pagamentos homologado judicialmente não podem pedir a declaração de insolvência em outro processo, excepto:
+
+a) No caso de incumprimento do plano de pagamentos, nas condições definidas no artigo anterior;
+
+b) Provando que os seus créditos têm um montante mais elevado ou características mais favoráveis que as constantes daquela relação;
+
+c) Por virtude da titularidade de créditos não incluídos na relação, total ou parcialmente, e que não se devam ter por perdoados, nos termos do n.º 4 do artigo 256.º
+
+2 - Em derrogação do disposto no artigo 8.º, a pendência de um processo de insolvência em que tenha sido apresentado um plano de pagamentos não obsta ao prosseguimento de outro processo instaurado contra o mesmo devedor por titulares de créditos não incluídos na relação anexa ao plano, nem a declaração de insolvência proferida no primeiro, nos termos do n.º 1 do artigo 259.º, suspende ou extingue a instância do segundo.
+
+3 - O disposto no número anterior aplica-se igualmente se o outro processo for instaurado por titular de crédito que o devedor tenha relacionado, contanto que, após o termo do prazo previsto no n.º 4 do artigo 256.º, subsista divergência quanto ao montante ou a outros elementos do respetivo crédito, mas a insolvência não será declarada neste processo sem que o requerente faça a prova da incorreção da identificação efetuada pelo devedor.
+
+> Alterado pelo/a Artigo 4.º do/a Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07, em vigor a partir de 2024-11-10
+
+### Artigo 262.º — Retoma dos trâmites gerais
+
+Se o plano de pagamentos não obtiver aprovação, ou a sentença de homologação for revogada em via de recurso, são logo retomados os termos do processo de insolvência através da prolação de sentença de declaração de insolvência nos termos dos artigos 36.º ou 39.º, consoante o caso.
+
+### Artigo 263.º — Processamento por apenso
+
+O incidente de aprovação do plano de pagamentos é processado por apenso ao processo de insolvência.
+
+## Secção III — Insolvência de ambos os cônjuges
+
+### Artigo 264.º — Coligação
+
+1 - Incorrendo ambos os cônjuges em situação de insolvência, e não sendo o regime de bens o da separação, é lícito aos cônjuges apresentarem-se conjuntamente à insolvência, ou o processo ser instaurado contra ambos, a menos que perante o requerente seja responsável um só deles.
+
+2 - Se o processo for instaurado contra um dos cônjuges apenas, pode o outro, desde que com a anuência do seu consorte, mas independentemente do acordo do requerente, apresentar-se à insolvência no âmbito desse processo; se, porém, já se tiver iniciado o incidente de aprovação de um plano de pagamentos, a intervenção apenas é admitida no caso de o plano não ser aprovado ou homologado.
+
+3 - A apresentação à insolvência nos termos do número anterior, uma vez admitida:
+
+a) Envolve confissão da situação de insolvência do apresentante apenas se a insolvência do outro cônjuge vier a ser declarada;
+
+b) Suspende qualquer processo de insolvência anteriormente instaurado apenas contra o apresentante e em que a insolvência não haja sido já declarada, se for acompanhada de confissão expressa da situação de insolvência ou caso seja apresentada pelos cônjuges uma proposta de plano de pagamentos.
+
+4 - Apresentando-se ambos os cônjuges à insolvência, ou correndo contra ambos o processo instaurado por terceiro:
+
+a) A apreciação da situação de insolvência de ambos os cônjuges consta sempre da mesma sentença;
+
+b) Deve ser formulada conjuntamente pelos cônjuges uma eventual proposta de plano de pagamentos.
+
+5 - Exceptua-se do disposto na alínea b) do número anterior a hipótese em que um dos cônjuges se oponha ao pedido de declaração de insolvência, caso em que:
+
+a) Apresentada uma proposta de um plano de pagamentos pelo outro cônjuge, correm em paralelo o correspondente incidente e o processo de insolvência contra o seu consorte, sem que, todavia, a tramitação do primeiro possa prosseguir, cumprido que seja o disposto no artigo 256.º, antes de proferida sentença no último;
+
+b) Improcedendo a oposição ao pedido, a sentença declara a insolvência de ambos os cônjuges e extingue-se o incidente do plano de pagamentos;
+
+c) Sendo a oposição julgada procedente, o incidente do plano de pagamentos segue os seus termos até final, cumprindo-se subsequentemente o disposto nos artigos 259.º ou 262.º, consoante o que for aplicável.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 265.º — Dívidas comuns e próprias de cada um dos cônjuges
+
+1 - Respeitando o processo de insolvência a ambos os cônjuges, a proposta de plano de pagamentos apresentada por estes e as reclamações de créditos indicam, quanto a cada dívida, se a responsabilidade cabe aos dois ou a um só dos cônjuges, e a natureza comum ou exclusiva de um dos cônjuges dessa responsabilidade há de ser igualmente referida na lista de credores reconhecidos elaborada pelo administrador da insolvência e fixada na sentença de verificação e graduação de créditos.credores reconhecidos elaborada pelo administrador da insolvência e fixada na sentença de verificação e graduação de créditos.
+
+2 - Os votos na assembleia de credores são conferidos em função do valor nominal dos créditos, independentemente de a responsabilidade pelas dívidas ser de ambos os cônjuges ou exclusiva de um deles.
+
+3 - Nas deliberações da assembleia de credores e da comissão de credores que incidam sobre bens próprios de um dos cônjuges, todavia, não são admitidos a votar os titulares de créditos da responsabilidade exclusiva do outro cônjuge.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 266.º — Separação dos bens
+
+Os bens comuns e os bens próprios de cada um dos cônjuges são inventariados, mantidos e liquidados em separado.
+
+## Título XIII — Benefícios emolumentares e fiscais
+
+### Artigo 267.º — Emolumentos de registo
+
+Não podem ser exigidos quaisquer preparos pelos actos de registo de despachos ou sentenças proferidos no processo de insolvência, bem como pelos de registo de apreensão de bens para a massa insolvente, constituindo os respectivos emolumentos uma dívida da massa equiparada às custas do processo de insolvência.
+
+### Artigo 268.º — Benefícios relativos a impostos sobre o rendimento das pessoas singulares e colectivas
+
+1 - Os rendimentos e ganhos apurados e as variações patrimoniais positivas não refletidas no resultado líquido, verificadas por efeito da dação em cumprimento de bens e direitos do devedor, da cessão de bens e direitos dos credores e da venda de bens e direitos, em processo de insolvência que prossiga para liquidação, estão isentos de impostos sobre o rendimento das pessoas singulares e coletivas, não concorrendo para a determinação da matéria coletável do devedor.
+
+2 - Não entram igualmente para a formação da matéria coletável do devedor as variações patrimoniais positivas resultantes das alterações das suas dívidas previstas em plano de insolvência, plano de pagamentos ou plano de recuperação.
+
+3 - O valor dos créditos que for objeto de redução, ao abrigo de plano de insolvência, plano de pagamentos ou plano de recuperação, é considerado como custo ou perda do respetivo exercício, para efeitos de apuramento do lucro tributável dos sujeitos passivos do imposto sobre o rendimento das pessoas singulares e do imposto sobre o rendimento das pessoas coletivas.
+
+> Alterado pelo/a Artigo 287.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 234.º do/a Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31, em vigor a partir de 2013-01-01
+
+### Artigo 269.º — Benefício relativo ao imposto do selo
+
+Estão isentos de imposto do selo, quando a ele se encontrem sujeitos, os seguintes atos, desde que previstos em planos de insolvência, de pagamentos ou de recuperação ou praticados no âmbito da liquidação da massa insolvente:
+
+a) As modificações dos prazos de vencimento ou das taxas de juro dos créditos sobre a insolvência;
+
+b) (Revogada.)
+
+c) A constituição de nova sociedade ou sociedades;
+
+d) A dação em cumprimento de bens da empresa e a cessão de bens aos credores;
+
+e) A realização de operações de financiamento, o trespasse ou a cessão da exploração de estabelecimentos da empresa, a constituição de sociedades e a transferência de estabelecimentos comerciais, a venda, permuta ou cessão de elementos do activo da empresa, bem como a locação de bens;
+
+f) A emissão de letras ou livranças;
+
+g) A constituição ou prorrogação de garantias.
+
+> Alterado pelo/a Artigo 287.º do/a Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29, em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 234.º do/a Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31, em vigor a partir de 2013-01-01
+
+### Artigo 270.º — Benefício relativo ao imposto municipal sobre as transmissões onerosas de imóveis
+
+1 - Estão isentas de imposto municipal sobre as transmissões onerosas de imóveis as seguintes transmissões de bens imóveis, integradas em qualquer plano de insolvência, de pagamentos ou de recuperação:
+
+a) As que se destinem à constituição de nova sociedade ou sociedades e à realização do seu capital;
+
+b) As que se destinem à realização do aumento do capital da sociedade devedora;
+
+c) As que decorram da dação em cumprimento de bens da empresa e da cessão de bens aos credores.
+
+2 - Estão igualmente isentos de imposto municipal sobre as transmissões onerosas de imóveis os atos de venda, permuta ou cessão da empresa ou de estabelecimentos desta integrados no âmbito de planos de insolvência, de pagamentos ou de recuperação ou praticados no âmbito da liquidação da massa insolvente.
+
+> Alterado pelo/a Artigo 234.º do/a Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31, em vigor a partir de 2013-01-01
+
+## Título XIV — Execução do Regulamento (CE) n.º 1346/2000, do Conselho, de 29 de Maio
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 271.º — Fundamentação da competência internacional
+
+Sempre que do processo resulte a existência de bens do devedor situados noutro Estado membro da União Europeia, a sentença de declaração de insolvência indica sumariamente as razões de facto e de direito que justificam a competência dos tribunais portugueses, tendo em conta o disposto no n.º 1 do artigo 3.º do Regulamento (CE) n.º 1346/2000, do Conselho, de 29 de Maio, adiante designado por Regulamento.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 272.º — Prevenção de conflitos de competência
+
+1 - Aberto um processo principal de insolvência noutro Estado membro da União Europeia, apenas é admissível a instauração ou prosseguimento em Portugal de processo secundário, nos termos do capítulo III do título XV.
+
+2 - O administrador da insolvência do processo principal tem legitimidade para recorrer de decisões que contrariem o disposto no número anterior.
+
+3 - Se a abertura de um processo de insolvência for recusada por tribunal de um Estado membro da União Europeia em virtude de a competência caber aos tribunais portugueses, nos termos do n.º 1 do artigo 3.º do Regulamento, não podem estes indeferir o pedido de declaração de insolvência com fundamento no facto de a competência pertencer aos tribunais desse outro Estado.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 273.º — Efeitos do encerramento
+
+1 - O encerramento do processo por aplicação do n.º 1 do artigo anterior não afecta os efeitos já produzidos que não se circunscrevam à duração do processo, inclusive os decorrentes de actos praticados pelo administrador da insolvência ou perante este, no exercício das suas funções.
+
+2 - Na hipótese prevista no número anterior, é aplicável o disposto no n.º 2 do artigo 233.º, extinguindo-se a instância de todos os processos que corram por apenso ao processo de insolvência.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 274.º — Publicidade de decisão estrangeira
+
+1 - A publicação e a inscrição em registo público da decisão de abertura de um processo, a que se referem os artigos 21.º e 22.º do Regulamento, devem ser solicitadas no tribunal português em cuja área se situe um estabelecimento do devedor, ou, não sendo esse o caso, ao Tribunal de Comércio de Lisboa ou ao Tribunal Cível de Lisboa, consoante a massa insolvente integre ou não uma empresa, podendo o tribunal exigir tradução certificada por pessoa que para o efeito seja competente segundo o direito de um Estado membro da União Europeia.
+
+2 - Se o direito do Estado do processo de insolvência previr a efectivação de registo desconhecido do direito português, é determinado o registo que com ele apresente maiores semelhanças.
+
+3 - A publicação prevista no n.º 1 do artigo 21.º do Regulamento é determinada oficiosamente se o devedor for titular de estabelecimento situado em Portugal.
+
+> Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+## Título XV — Normas de conflitos
+
+## Capítulo I — Disposições gerais
+
+### Artigo 275.º — Prevalência de outras normas
+
+1 - Os processos regulados neste Código a que se aplica o Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, regem-se pela disciplina vertida naquele instrumento e, em tudo quanto a não contrarie, pelo presente diploma.
+
+2 - As disposições do presente título são aplicáveis apenas na medida em que não contrariem o estabelecido no Regulamento referido no número anterior ou noutras normas de Direito da União Europeia ou em tratados e convenções internacionais.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 276.º — Princípio geral
+
+Na falta de disposição em contrário, o processo de insolvência e os respectivos efeitos regem-se pelo direito do Estado em que o processo tenha sido instaurado.
+
+### Artigo 277.º — Relações laborais
+
+Os efeitos da declaração de insolvência relativamente a contratos de trabalho e à relação laboral regem-se exclusivamente pela lei aplicável ao contrato de trabalho.
+
+### Artigo 278.º — Direitos do devedor sobre imóveis e outros bens sujeitos a registo
+
+Os efeitos da declaração de insolvência sobre os direitos do devedor relativos a um bem imóvel, a um navio ou a uma aeronave, cuja inscrição num registo público seja obrigatória, regem-se pela lei do Estado sob cuja autoridade é mantido esse registo.
+
+### Artigo 279.º — Contratos sobre imóveis e móveis sujeitos a registo
+
+1 - Os efeitos da declaração de insolvência sobre os contratos que conferem o direito de adquirir direitos reais sobre bem imóvel, ou o direito de o usar, regem-se exclusivamente pela lei do Estado em cujo território está situado esse bem.
+
+2 - Respeitando o contrato a um navio ou a uma aeronave cuja inscrição num registo público seja obrigatória, é aplicável a lei do Estado sob cuja autoridade é mantido esse registo.
+
+### Artigo 280.º — Direitos reais e reserva de propriedade
+
+1 - Os efeitos da declaração de insolvência sobre direitos reais de credores ou de terceiros sobre bens corpóreos ou incorpóreos, móveis ou imóveis, quer sejam bens específicos, quer sejam conjuntos de bens indeterminados considerados como um todo, cuja composição pode sofrer alterações ao longo do tempo, pertencentes ao devedor e que, no momento da abertura do processo, se encontrem no território de outro Estado, regem-se exclusivamente pela lei deste; o mesmo se aplica aos direitos do vendedor relativos a bens vendidos ao devedor insolvente com reserva de propriedade.
+
+2 - A declaração de insolvência do vendedor de um bem, após a entrega do mesmo, não constitui por si só fundamento de resolução ou de rescisão da venda nem obsta à aquisição pelo comprador da propriedade do bem vendido, desde que, no momento da abertura do processo, esse bem se encontre no território de outro Estado.
+
+3 - O disposto nos números anteriores não prejudica a possibilidade de resolução em benefício da massa insolvente, nos termos gerais.
+
+### Artigo 281.º — Terceiros adquirentes
+
+A validade de um acto celebrado após a declaração de insolvência pelo qual o devedor disponha, a título oneroso, de bem imóvel ou de navio ou de aeronave cuja inscrição num registo público seja obrigatória, rege-se pela lei do Estado em cujo território está situado o referido bem imóvel ou sob cuja autoridade é mantido esse registo.
+
+### Artigo 282.º — Direitos sobre valores mobiliários e sistemas de pagamento e mercados financeiros
+
+1 - Os efeitos da declaração de insolvência sobre direitos relativos a valores mobiliários registados ou depositados regem-se pela lei aplicável à respectiva transmissão, nos termos do artigo 41.º do Código dos Valores Mobiliários.
+
+2 - Sem prejuízo do disposto no artigo 281.º, a determinação da lei aplicável aos efeitos da declaração de insolvência sobre os direitos e as obrigações dos participantes num mercado financeiro ou num sistema de pagamentos tal como definido pela alínea a) do artigo 2.º da Directiva n.º 98/26/CE, do Parlamento Europeu e do Conselho, de 19 de Maio, ou equiparável, rege-se pelo disposto no artigo 285.º do Código dos Valores Mobiliários.
+
+### Artigo 283.º — Operações de venda com base em acordos de recompra
+
+Os efeitos da declaração de insolvência sobre operações de venda com base em acordos de recompra, na acepção do artigo 12.º da Directiva n.º 86/635/CEE, do Conselho, de 8 de Dezembro, regem-se pela lei aplicável a tais contratos.
+
+### Artigo 284.º — Exercício dos direitos dos credores
+
+1 - Qualquer credor pode exercer os seus direitos tanto no processo principal de insolvência como em quaisquer processos secundários.
+
+2 - Na medida em que tal seja admissível segundo a lei aplicável a processo estrangeiro, o administrador da insolvência designado nesse processo pode:
+
+a) Reclamar em Portugal os créditos reconhecidos no processo estrangeiro;
+
+b) Exercer na assembleia de credores os votos inerentes a tais créditos, salvo se a tanto se opuserem os respectivos titulares.
+
+3 - O credor que obtenha pagamento em processo estrangeiro de insolvência não pode ser pago no processo pendente em Portugal enquanto os credores do mesmo grau não obtiverem neste satisfação equivalente.
+
+### Artigo 285.º — Acções pendentes
+
+Os efeitos da declaração de insolvência sobre acção pendente relativa a um bem ou um direito integrante da massa insolvente regem-se exclusivamente pela lei do Estado em que a referida acção corra os seus termos.
+
+### Artigo 286.º — Compensação
+
+A declaração de insolvência não afecta o direito do credor da insolvência à compensação, se esta for permitida pela lei aplicável ao contra-crédito do devedor.
+
+### Artigo 287.º — Resolução em benefício da massa insolvente
+
+A resolução de actos em benefício da massa insolvente é inadmissível se o terceiro demonstrar que o acto se encontra sujeito a lei que não permita a sua impugnação por nenhum meio.
+
+## Capítulo II — Processo de insolvência estrangeiro
+
+### Artigo 288.º — Reconhecimento
+
+1 - A declaração de insolvência em processo estrangeiro, sempre que o centro dos principais interesses do devedor se situa fora de um Estado membro da União Europeia, é reconhecida em Portugal, salvo se:
+
+a) A competência do tribunal ou autoridade estrangeira não se fundar em algum dos critérios referidos no artigo 7.º ou em conexão equivalente;
+
+b) O reconhecimento conduzir a resultado manifestamente contrário aos princípios fundamentais da ordem jurídica portuguesa.
+
+2 - O disposto no número anterior é aplicável às providências de conservação adoptadas posteriormente à declaração de insolvência, bem como a quaisquer decisões tomadas com vista à execução ou encerramento do processo.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 289.º — Medidas cautelares
+
+O administrador provisório designado anteriormente à declaração de insolvência pode solicitar a adopção das medidas cautelares referidas no artigo 31.º para efeitos da conservação de bens do devedor situados em Portugal.
+
+### Artigo 290.º — Publicidade
+
+1 - Verificando-se os pressupostos do reconhecimento da declaração de insolvência, o tribunal português ordena, a requerimento do administrador da insolvência estrangeiro, a publicidade do conteúdo essencial da decisão de declaração de insolvência, da decisão de designação do administrador de insolvência e da decisão de encerramento do processo, nos termos do artigo 37.º, aplicável com as devidas adaptações, podendo o tribunal exigir tradução certificada por pessoa que para o efeito seja competente segundo o direito do Estado do processo.
+
+2 - As publicações referidas no número anterior são determinadas oficiosamente se o devedor tiver estabelecimento em Portugal.
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 282/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07, em vigor a partir de 2007-08-08
+
+### Artigo 291.º — Tribunal português competente
+
+À determinação do tribunal competente para a prática dos atos referidos nos artigos 289.º e 290.º é aplicável o disposto no n.º 9 do artigo 38.º
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 292.º — Cumprimento a favor do devedor
+
+É liberatório o pagamento efectuado em Portugal ao devedor na ignorância da declaração de insolvência, presumindo-se o conhecimento da declaração de insolvência à qual tenha sido dada publicidade, nos termos do artigo 290.º
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 200/2004 - Diário da República n.º 194/2004, Série I-A de 2004-08-18, em vigor a partir de 2004-09-15
+
+### Artigo 293.º — Exequibilidade
+
+As decisões tomadas em processo de insolvência estrangeiro só se podem executar em Portugal depois de revistas e confirmadas, não sendo, porém, requisito da confirmação o respectivo trânsito em julgado.
+
+## Capítulo III — Processo particular de insolvência
+
+### Artigo 294.º — Pressupostos de um processo particular
+
+1 - Se o devedor não tiver em Portugal a sua sede ou domicílio, nem o centro dos principais interesses, o processo de insolvência abrange apenas os seus bens situados em território português.
+
+2 - Se o devedor não tiver estabelecimento em Portugal, a competência internacional dos tribunais portugueses depende da verificação dos requisitos impostos pela alínea c) do n.º 1 do artigo 62.º do Código de Processo Civil.
+
+3 - Sempre que seja aplicável o Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, o processo particular é designado por processo territorial de insolvência até que seja aberto um processo principal, caso em que passa a ser designado por processo secundário.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+### Artigo 295.º — Especialidades de regime
+
+Em processo particular de insolvência:
+
+a) O plano de insolvência ou de pagamentos só pode ser homologado pelo juiz se for aprovado por todos os credores afectados, caso preveja uma dação em pagamento, uma moratória, um perdão ou outras modificações de créditos sobre a insolvência;
+
+b) A insolvência não é objecto de qualificação como fortuita ou culposa;
+
+c) Não são aplicáveis as disposições sobre exoneração do passivo restante.
+
+### Artigo 296.º — Processo secundário
+
+1 - O reconhecimento de um processo principal de insolvência estrangeiro não obsta à instauração em Portugal de um processo particular, adiante designado por processo secundário.
+
+2 - Aberto o processo principal referido no número anterior e havendo outros processos anteriormente instaurados em Portugal e que por via daquela abertura venham a ser encerrados, ficam salvaguardados os efeitos já produzidos que não se circunscrevam à duração do processo, inclusive os decorrentes de atos praticados pelo administrador de insolvência ou perante este, no exercício das suas funções.
+
+3 - Na hipótese prevista no número anterior, é aplicável o disposto no n.º 2 do artigo 233.º, extinguindo-se a instância de todos os processos que corram por apenso ao processo de insolvência.
+
+4 - O administrador de insolvência estrangeiro tem legitimidade para requerer a instauração de um processo secundário.
+
+5 - No processo secundário é dispensada a comprovação da situação de insolvência.
+
+6 - O administrador da insolvência deve comunicar prontamente ao administrador estrangeiro todas as circunstâncias relevantes para o desenvolvimento do processo estrangeiro.
+
+7 - O administrador estrangeiro tem legitimidade para participar na assembleia de credores e para a apresentação de um plano de insolvência.
+
+8 - Satisfeitos integralmente os créditos sobre a insolvência, a importância remanescente é remetida ao administrador do processo principal.
+
+> Alterado pelo/a Artigo 3.º do/a Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30, em vigor a partir de 2017-07-01
+
+## Título XVI — Indiciação de infracção penal
+
+### Artigo 297.º — Indiciação de infracção penal
+
+1 - Logo que haja conhecimento de factos que indiciem a prática de qualquer dos crimes previstos e punidos nos artigos 227.º a 229.º do Código Penal, manda o juiz dar conhecimento da ocorrência ao Ministério Público, para efeitos do exercício da acção penal.
+
+2 - Sendo a denúncia feita no requerimento inicial, são as testemunhas ouvidas sobre os factos alegados na audiência de julgamento para a declaração de insolvência, extractando-se na acta os seus depoimentos sobre a matéria.
+
+3 - Dos depoimentos prestados é extraída certidão, ordenando-se a sua entrega ao Ministério Público, conjuntamente com outros elementos existentes, nos termos do disposto na alínea h) do n.º 1 do artigo 36.º
+
+> Alterado pelo/a Artigo 2.º do/a Lei n.º 16/2012 - Diário da República n.º 79/2012, Série I de 2012-04-20, em vigor a partir de 2012-05-20
+
+### Artigo 298.º — Interrupção da prescrição
+
+A declaração de insolvência interrompe o prazo de prescrição do procedimento criminal.
+
+### Artigo 299.º — Regime aplicável à instrução e julgamento
+
+Na instrução e julgamento das infracções referidas no n.º 1 do artigo 297.º observam-se os termos prescritos nas leis de processo penal.
+
+### Artigo 300.º — Remessa das decisões proferidas no processo penal
+
+1 - Deve ser remetida ao tribunal da insolvência certidão do despacho de pronúncia ou de não pronúncia, de acusação e de não acusação, da sentença e dos acórdãos proferidos no processo penal
+
+2 - A remessa da certidão deve ser ordenada na própria decisão proferida no processo penal.
+
+## Título XVII — Disposições finais
+
+### Artigo 301.º — Valor da causa para efeitos de custas
+
+Para efeitos de custas, o valor da causa no processo de insolvência em que a insolvência não chegue a ser declarada ou em que o processo seja encerrado antes da elaboração do inventário a que se refere o artigo 153.º é o equivalente ao da alçada da Relação, ou ao valor aludido no artigo 15.º, se este for inferior; nos demais casos, o valor é o atribuído ao activo no referido inventário, atendendo-se aos valores mais elevados dos bens, se for o caso.
+
+### Artigo 302.º — Taxa de justiça
+
+1 - A taxa de justiça é reduzida a metade no processo de insolvência, quando a insolvência não seja declarada; se o processo findar antes de iniciada a audiência de discussão e julgamento, a taxa de justiça é reduzida a um quarto.
+
+2 - Havendo plano de insolvência que ponha termo ao processo, é reduzida a dois terços a taxa de justiça que no caso seria devida.
+
+3 - Em qualquer dos casos a que se referem os n.os 1 e 2, a taxa de justiça pode ser reduzida pelo juiz para um montante não inferior a 5 UC de custas, sempre que por qualquer circunstância especial considere manifestamente excessiva a taxa aplicável.
+
+### Artigo 303.º — Base de tributação
+
+Para efeitos de tributação, o processo de insolvência abrange o processo principal, a apreensão dos bens, os embargos do insolvente, ou do seu cônjuge, descendentes, herdeiros, legatários ou representantes, a liquidação do activo, a verificação do passivo, o pagamento aos credores, as contas de administração, os incidentes do plano de pagamentos, da exoneração do passivo restante, de qualificação da insolvência e quaisquer outros incidentes cujas custas hajam de ficar a cargo da massa, ainda que processados em separado.
+
+### Artigo 304.º — Responsabilidade pelas custas do processo
+
+As custas do processo de insolvência são encargo da massa insolvente ou do requerente, consoante a insolvência seja ou não decretada por decisão com trânsito em julgado.

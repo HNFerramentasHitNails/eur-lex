@@ -1,7 +1,7 @@
 ---
 celex: 32011L0007
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32011L0007 — Atrasos de pagamento nas transações comerciais — contexto
@@ -14,9 +14,9 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2013-05-10 — Decreto-Lei n.º 62/2013. D.R. n.º 90, Série I de 2013-05-10 Ministério das Finanças Estabelece medidas contra os atrasos no pagamento de transações comerciais, e transpõe a Diretiva n.º 2011/7/UE, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011 (CELEX 72011L0007PRT_204059)
+- 2013-05-10 — Decreto-Lei n.º 62/2013. D.R. n.º 90, Série I de 2013-05-10 Ministério das Finanças Estabelece medidas contra os atrasos no pagamento de transações comerciais, e transpõe a Diretiva n.º 2011/7/UE, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011 (CELEX 72011L0007PRT_204059) → texto: [`legislacao-pt/decreto-lei-62-2013.md`](../../legislacao-pt/decreto-lei-62-2013.md) (original (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (19)
 

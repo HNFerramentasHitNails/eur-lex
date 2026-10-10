@@ -1,7 +1,7 @@
 ---
 celex: 32023R1542
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32023R1542 — Regulamento Baterias — contexto

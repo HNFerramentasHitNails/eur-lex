@@ -1,7 +1,7 @@
 ---
 celex: 32024R1624
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32024R1624 — Branqueamento de capitais (regulamento) — contexto

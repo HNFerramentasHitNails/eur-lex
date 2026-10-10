@@ -1,7 +1,7 @@
 ---
 celex: 31985L0374
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 31985L0374 — Responsabilidade por produtos defeituosos (antiga) — contexto
@@ -14,9 +14,9 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 1989-11-06 — Decreto-Lei n. 383/89 de 06/11/1989. Transpõe para a ordem jurídica interna a Directiva n. 85/374/CEE, em matéria de responsabilidade decorrente de produtos defeituosos. Diário da República I Série n. 255 de 06/11/1989 Página 4880 (CELEX 71985L0374PRT_67407)
+- 1989-11-06 — Decreto-Lei n. 383/89 de 06/11/1989. Transpõe para a ordem jurídica interna a Directiva n. 85/374/CEE, em matéria de responsabilidade decorrente de produtos defeituosos. Diário da República I Série n. 255 de 06/11/1989 Página 4880 (CELEX 71985L0374PRT_67407) → texto: [`legislacao-pt/decreto-lei-383-1989.md`](../../legislacao-pt/decreto-lei-383-1989.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (17)
 

@@ -4,7 +4,7 @@ nome_curto: Responsabilidade por produtos defeituosos (nova)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024L2853
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32024L2853 — Responsabilidade por produtos defeituosos (nova) — considerandos

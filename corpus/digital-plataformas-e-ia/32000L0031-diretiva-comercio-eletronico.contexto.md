@@ -1,7 +1,7 @@
 ---
 celex: 32000L0031
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32000L0031 — Diretiva Comércio Eletrónico — contexto
@@ -14,11 +14,11 @@ Metadados do Cellar (Serviço das Publicações da UE). As listas são as que o 
 
 ## Transposição em Portugal
 
-Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro). O texto em vigor destas leis está no Diário da República (diariodarepublica.pt), não no EUR-Lex.
+Medidas nacionais que Portugal comunicou à Comissão como transpondo esta diretiva (mais recentes primeiro; fonte: Cellar). Quando foi possível obter o texto no Diário da República, a linha liga ao ficheiro em `legislacao-pt/` e indica se é a versão consolidada, o texto original (sem alterações posteriores) ou um diploma revogado.
 
-- 2013-01-10 — LEI N.º 2/2013 - DIÁRIO DA REPÚBLICA N.º 7/2013, SÉRIE I DE 2013-01-10 Ato da Série I Assembleia da República Estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais (CELEX 72000L0031PRT_230045)
-- 2009-03-10 — Ministério da Economia e da Inovação Procede à primeira alteração ao Decreto-Lei n.º 7/2004, de 7 de Janeiro, que transpõe para a ordem jurídica nacional a Directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno (CELEX 72000L0031PRT_160968)
-- 2004-01-07 — Decreto-Lei n° 7/2004 de 7/1 Diário da republica I-A n° 5 de 7/1/2004 p. 70 (CELEX 72000L0031PRT_112472)
+- 2013-01-10 — LEI N.º 2/2013 - DIÁRIO DA REPÚBLICA N.º 7/2013, SÉRIE I DE 2013-01-10 Ato da Série I Assembleia da República Estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais (CELEX 72000L0031PRT_230045) → texto: [`legislacao-pt/lei-2-2013.md`](../../legislacao-pt/lei-2-2013.md) (consolidado (DRE))
+- 2009-03-10 — Ministério da Economia e da Inovação Procede à primeira alteração ao Decreto-Lei n.º 7/2004, de 7 de Janeiro, que transpõe para a ordem jurídica nacional a Directiva n.º 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de Junho, relativa a certos aspectos legais dos serviços da sociedade de informação, em especial do comércio electrónico, no mercado interno (CELEX 72000L0031PRT_160968) → texto: [`legislacao-pt/decreto-lei-62-2009.md`](../../legislacao-pt/decreto-lei-62-2009.md) (original (DRE))
+- 2004-01-07 — Decreto-Lei n° 7/2004 de 7/1 Diário da republica I-A n° 5 de 7/1/2004 p. 70 (CELEX 72000L0031PRT_112472) → texto: [`legislacao-pt/decreto-lei-7-2004.md`](../../legislacao-pt/decreto-lei-7-2004.md) (consolidado (DRE))
 
 ## Jurisprudência do Tribunal de Justiça que interpreta este acto (34)
 

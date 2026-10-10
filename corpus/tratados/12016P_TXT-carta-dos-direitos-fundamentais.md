@@ -14,7 +14,7 @@ eli: http://data.europa.eu/eli/treaty/char_2016/oj
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:12016P%2FTXT
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Tratado 12016P/TXT — Carta dos Direitos Fundamentais

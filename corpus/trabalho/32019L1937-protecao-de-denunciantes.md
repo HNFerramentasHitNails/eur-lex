@@ -18,7 +18,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32019L1937
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02019L1937-20241230
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32019L1937 — Proteção de denunciantes

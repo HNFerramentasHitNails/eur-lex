@@ -1,7 +1,7 @@
 ---
 celex: 32012R1215
 parte: contexto
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32012R1215 — Bruxelas I-A (competência judiciária) — contexto

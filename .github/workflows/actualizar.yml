@@ -1,0 +1,98 @@
+# Actualização automática do repositório a partir do EUR-Lex (Cellar) e do Diário da República.
+# Corre todas as segundas-feiras de madrugada e pode ser lançada à mão em Actions → "Actualizar
+# legislação" → Run workflow. Para a desligar: Actions → workflow → "Disable workflow".
+name: Actualizar legislação
+
+on:
+  schedule:
+    - cron: "23 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-legislacao
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Dependências
+        run: |
+          sudo apt-get update && sudo apt-get install -y poppler-utils
+          pip install -r requirements.txt
+          npm install --prefix ferramentas
+          npx --prefix ferramentas playwright install --with-deps chromium
+
+      # Textos descarregados de semanas anteriores (só o corpus curado; o resto é incremental).
+      - uses: actions/cache@v4
+        with:
+          path: .cache/html
+          key: eurlex-html-${{ github.run_id }}
+          restore-keys: eurlex-html-
+
+      - name: Catálogo da legislação em vigor
+        # Se um passo falhar (ex.: serviço em baixo), os outros continuam e o que foi
+        # actualizado é gravado; o ficheiro antigo fica onde a actualização falhou.
+        continue-on-error: true
+        run: python3 ferramentas/eurlex.py catalogo
+
+      - name: Todos os actos em vigor e futuros (só os novos ou com nova versão)
+        continue-on-error: true
+        run: python3 ferramentas/completo.py actualizar --fios 6
+
+      - name: Leis portuguesas (Diário da República)
+        continue-on-error: true
+        run: |
+          rm -f .cache/dre/*.json
+          python3 ferramentas/dre.py tudo
+        env:
+          NODE_PATH: ${{ github.workspace }}/ferramentas/node_modules
+
+      - name: Corpus curado (86 actos, contexto e ligações às leis portuguesas)
+        continue-on-error: true
+        run: python3 ferramentas/eurlex.py nucleo
+
+      - name: Índices para consulta (indice/, INDICE.md)
+        continue-on-error: true
+        run: python3 ferramentas/indexar.py
+
+      # Confronta os dados entre si (índice vs ficheiros, remoções e a sua prova, futuros com data
+      # passada, catálogo vs versões, títulos) e regista o resultado em ue/ALTERACOES.md.
+      - name: Verificação
+        continue-on-error: true
+        run: python3 ferramentas/verificar.py
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sem alterações."
+          else
+            git commit -m "Actualização automática da legislação ($(date -u +%Y-%m-%d))"
+            # Se entretanto alguém fez push para o ramo, junta primeiro esses commits.
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      # Depois do commit (o que foi actualizado fica gravado): se a verificação encontrou problemas
+      # graves, o job falha e o GitHub avisa por email quem gere o repositório.
+      - name: Falhar se a verificação encontrou problemas graves
+        run: python3 ferramentas/verificar.py --falhar-se-grave

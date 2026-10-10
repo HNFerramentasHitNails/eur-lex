@@ -20,7 +20,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32008R0593
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02008R0593-20080724
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32008R0593 — Roma I (lei aplicável aos contratos)

@@ -4,7 +4,7 @@ nome_curto: Roma I (lei aplicável aos contratos)
 parte: considerandos
 nota: Preâmbulo do texto original publicado no JO (os consolidados não o incluem).
 url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32008R0593
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Regulamento 32008R0593 — Roma I (lei aplicável aos contratos) — considerandos

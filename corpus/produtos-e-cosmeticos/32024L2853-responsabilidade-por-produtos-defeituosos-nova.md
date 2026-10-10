@@ -18,7 +18,7 @@ url_eurlex: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32024L2853
 url_versao: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:02024L2853-20241118
 lingua: pt
 fonte: cellar:application/xhtml+xml
-obtido_em: '2026-10-09'
+obtido_em: '2026-10-10'
 ---
 
 # Diretiva 32024L2853 — Responsabilidade por produtos defeituosos (nova)
